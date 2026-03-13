@@ -19932,10 +19932,71 @@ return Plotly;
 		if (item.composition) meta2.push(escHtml(item.composition));
 		return `<div class='card' data-mode='${prefix}' data-continent='${escHtml(item.continent || 'Unknown')}' data-issuerroot='${escHtml(item.issuer_root || '')}' data-objtype='${escHtml(item.object_type || '')}' data-category='${escHtml(item.category || '')}' data-qty='${escHtml(item.qty || 0)}' data-facevalue='${escHtml(item.numeric_value || '')}' data-title='${escHtml(titleLine)}' data-ref='${escHtml(item.km_y || '')}' data-isissueronly='${item.is_issuer_only ? '1' : '0'}' data-years='${escHtml(yearsAttr)}' data-yearsraw='${escHtml(yearsRawAttr)}' data-minyear='${escHtml(item.min_year || '')}' data-maxyear='${escHtml(item.max_year || '')}' data-search='${escHtml(searchBlob)}'><div class='cardTop'><div></div><div class='cardBadges'>${buildMobileBadgeHtml(item)}</div></div><div class='imgs'>${imgs.join('')}</div><div class='cardMain'><div class='valueLine'><p class='valueTitle'>${mainHtml}${extraHtml}</p><div class='refText'>${escHtml(refLabel)}</div></div>${item.currency ? `<p class='subTitle' title='${escHtml(titleLine)}'>${escHtml(item.currency)}</p>` : ''}${meta1.length ? `<p class='metaRow'>${meta1.join(' · ')}</p>` : ''}${meta2.length ? `<p class='metaRow'>${meta2.join(' · ')}</p>` : ''}</div></div>`;
 	}
-	function renderMobileSectionBody(body, secKey){
-		if (!isMobile || !body || body.dataset.rendered === '1') return;
+	function mobileItemYears(item){
+		const ys = Array.isArray(item.years_greg_list) ? item.years_greg_list : (Array.isArray(item.years_list) ? item.years_list : []);
+		return ys.map(v => parseInt(v, 10)).filter(v => !isNaN(v));
+	}
+	function mobileItemMinYear(item){
+		const v = parseInt(item.min_year, 10);
+		return Number.isFinite(v) ? v : 999999;
+	}
+	function mobileItemMaxYear(item){
+		const v = parseInt(item.max_year, 10);
+		return Number.isFinite(v) ? v : 999999;
+	}
+	function compareMobileItems(a,b,mode){
+		const aQty = parseInt(a.qty || 0, 10) || 0;
+		const bQty = parseInt(b.qty || 0, 10) || 0;
+		const aFace = Number.parseFloat(a.numeric_value || '') || 1e30;
+		const bFace = Number.parseFloat(b.numeric_value || '') || 1e30;
+		const aMin = mobileItemMinYear(a), bMin = mobileItemMinYear(b);
+		const aMax = mobileItemMaxYear(a), bMax = mobileItemMaxYear(b);
+		const aRef = parseRefRaw(a.km_y || ''), bRef = parseRefRaw(b.km_y || '');
+		const aTitle = String(a.title_full || a.label || '').toLowerCase();
+		const bTitle = String(b.title_full || b.label || '').toLowerCase();
+		const aOrig = parseInt(a._orig || 0, 10) || 0;
+		const bOrig = parseInt(b._orig || 0, 10) || 0;
+		if (mode==='face') return aFace-bFace || aMin-bMin || aOrig-bOrig;
+		if (mode==='date') return aMin-bMin || aMax-bMax || aFace-bFace || aOrig-bOrig;
+		if (mode==='ref') return aRef.catRank-bRef.catRank || aRef.num-bRef.num || aRef.suffix.localeCompare(bRef.suffix) || aOrig-bOrig;
+		if (mode==='type') return aTitle.localeCompare(bTitle) || aOrig-bOrig;
+		return aOrig-bOrig;
+	}
+	function sortMobileItems(items, mode){
+		return [...items].sort((a,b) => compareMobileItems(a,b,mode || 'none'));
+	}
+	function mobileItemMatches(item, filters){
+		const itemCont = item.continent || 'Unknown';
+		const itemIssuer = item.issuer_root || '';
+		if (filters.cont !== 'ALL' && itemCont !== filters.cont) return false;
+		if (filters.selectedSet.size && !filters.selectedSet.has(itemIssuer)) return false;
+		const haystack = normText([item.label || '', item.title_full || '', item.km_y || '', item.year_str || '', (item.issuer_root || ''), (item.issuer_path || ''), (item.issuer_search_es || '')].join(' '));
+		if (!fuzzyMatchNorm(filters.coinQNorm, haystack)) return false;
+		const itemObj = item.object_type || '';
+		const itemCat = item.category || '';
+		if (filters.objT !== 'ALL' && filters.objT && itemObj !== filters.objT) return false;
+		if (filters.cat !== 'ALL' && filters.cat && itemCat !== filters.cat) return false;
+		if (filters.yearRules){
+			const years = mobileItemYears(item);
+			const minYear = mobileItemMinYear(item);
+			const maxYear = mobileItemMaxYear(item);
+			const okYear = filters.yearRules.some(rule => {
+				if (rule.type === 'single'){
+					if (years.includes(rule.year)) return true;
+					return minYear !== 999999 && maxYear !== 999999 && rule.year >= minYear && rule.year <= maxYear;
+				}
+				if (years.some(y => y >= rule.min && y <= rule.max)) return true;
+				return minYear !== 999999 && maxYear !== 999999 && !(rule.max < minYear || rule.min > maxYear);
+			});
+			if (!okYear) return false;
+		}
+		return true;
+	}
+	function renderMobileSectionBody(body, secKey, itemsOverride){
+		if (!isMobile || !body) return;
 		const payload = mobileSectionData[secKey] || {items: []};
-		const items = Array.isArray(payload.items) ? payload.items : [];
+		const baseItems = Array.isArray(itemsOverride) ? itemsOverride : (Array.isArray(payload.items) ? payload.items : []);
+		const items = sortMobileItems(baseItems, sortSel ? (sortSel.value || 'none') : 'none');
 		const byCurrency = new Map();
 		items.forEach(item => {
 			const currency = item.currency || 'Unknown currency';
@@ -19989,6 +20050,13 @@ return Plotly;
 	const grids = Array.from(shell.querySelectorAll('.grid'));
 	grids.forEach(grid => Array.from(grid.querySelectorAll('.card')).forEach((c, idx) => { if (!c.dataset.orig) c.dataset.orig = String(idx); }));
 	const sections = Array.from(shell.querySelectorAll('.sectionBody')).map(body => ({ body, header: shell.querySelector(`.sectionHeader[data-sec="${CSS.escape(body.dataset.secbody)}"]`) }));
+	const mobileHeaders = Array.from(shell.querySelectorAll('.mobileLazyHeader'));
+	mobileHeaders.forEach((header, idx) => {
+		const secKey = header.dataset.sectionkey || '';
+		const payload = mobileSectionData[secKey] || {items: []};
+		const body = shell.querySelector(`.mobileLazyBody[data-secbody="${CSS.escape(header.dataset.sec)}"]`);
+		if (body) body.__allItems = Array.isArray(payload.items) ? payload.items.map((item, itemIdx) => ({...item, _orig:itemIdx})) : [];
+	});
 	const entries = Array.from(shell.querySelectorAll('.card')).map(card => { const qty=parseInt(card.dataset.qty || '0', 10) || 0; const years=(card.dataset.years || '').split(',').map(x=>parseInt(x,10)).filter(x=>!isNaN(x)); const minYear=parseInt(card.dataset.minyear || '',10); const maxYear=parseInt(card.dataset.maxyear || '',10); return { el:card, grid:card.closest('.grid'), haystackNorm:normText(card.dataset.search || ''), continent:card.dataset.continent || 'Unknown', issuerroot:card.dataset.issuerroot || '', qty, isIssuerOnly:card.dataset.isissueronly==='1', objType:card.dataset.objtype || '', category:card.dataset.category || '', faceValue:Number.parseFloat(card.dataset.facevalue || '') || 1e30, minYear:Number.isFinite(minYear) ? minYear : 999999, maxYear:Number.isFinite(maxYear) ? maxYear : 999999, years, refKey:parseRefRaw(card.dataset.ref || ''), titleSort:(card.dataset.title || '').toLowerCase(), orig:parseInt(card.dataset.orig || '0', 10) || 0, visible:true }; });
 	const gridEntries = new Map(grids.map(grid => [grid, entries.filter(e => e.grid === grid)]));
 	let lastSortMode = null; const sortCache = new Map();
@@ -20010,7 +20078,7 @@ return Plotly;
 	  searchEl.value = '';
 	  applyFilters();
 	}
-	function applyFilters(){ const cont=contSel.value; const selected=getSelectedIssuers(); const selectedSet=new Set(selected); const q=normText(searchEl.value || ''); const coinQNorm=normText(coinSearchEl.value || ''); const objT=objTypeSel.value; const cat=catSel.value; const yearRules=parseYearFilter(yearEl.value); boxEl.querySelectorAll('.issuerItem').forEach(lbl => { const name = lbl.dataset.norm || normText(lbl.textContent || ''); lbl.style.display = (!q || name.includes(q)) ? '' : 'none'; }); const totalAvailable = Array.from(boxEl.querySelectorAll('input[type=checkbox]')).filter(cb => cb.parentElement.style.display !== 'none').length; countryCountEl.textContent = `Countries: ${selected.length} selected / ${totalAvailable} available`; let shownItems=0, shownTypes=0, shownIssuerOnly=0, visibleCards=0; entries.forEach(entry => { const okCont=(cont==='ALL' || entry.continent===cont); const okIssuer=(selectedSet.size===0 || selectedSet.has(entry.issuerroot)); const okCoin=fuzzyMatchNorm(coinQNorm, entry.haystackNorm); const okObj=(objT==='ALL' || !objT || entry.objType===objT); const okCat=(cat==='ALL' || !cat || entry.category===cat); let okYear=true; if (yearRules){ okYear = yearRules.some(rule => { if (rule.type==='single'){ if (entry.years.includes(rule.year)) return true; return entry.minYear !== 999999 && entry.maxYear !== 999999 && rule.year >= entry.minYear && rule.year <= entry.maxYear; } if (entry.years.some(y => y >= rule.min && y <= rule.max)) return true; return entry.minYear !== 999999 && entry.maxYear !== 999999 && !(rule.max < entry.minYear || rule.min > entry.maxYear); }); } const visible = okCont && okIssuer && okCoin && okObj && okCat && okYear; entry.visible = visible; entry.el.classList.toggle('hidden', !visible); if (visible){ visibleCards += 1; if (entry.isIssuerOnly) shownIssuerOnly += 1; else { shownTypes += 1; shownItems += entry.qty; } } }); applyGridOrder(sortSel.value || 'none'); grids.forEach(grid => { const anyVisible = (gridEntries.get(grid) || []).some(entry => entry.visible); grid.classList.toggle('hidden', !anyVisible); const h3 = grid.previousElementSibling; if (h3 && h3.tagName === 'H3') h3.classList.toggle('hidden', !anyVisible); }); sections.forEach(sec => { const anyVisible = sec.body.querySelector('.card:not(.hidden)'); sec.body.classList.toggle('hidden', !anyVisible); if (sec.header) sec.header.classList.toggle('hidden', !anyVisible); }); emptyStateEl.style.display = visibleCards === 0 ? 'block' : 'none'; metricsEl.textContent = shownIssuerOnly > 0 ? `Showing: ${shownItems} items | ${shownTypes} types | ${shownIssuerOnly} issuer-wishes` : `Showing: ${shownItems} items | ${shownTypes} types`; liveStatsEl.innerHTML = `<span>Visible <b>${visibleCards}</b></span><span>Qty <b>${shownItems}</b></span>`; mobileResults.textContent = `${visibleCards} shown`; visibleQtyEl.textContent = String(shownItems); visibleTypesEl.textContent = String(shownTypes); renderChips({ cont, countries:selected, coinQ:coinSearchEl.value.trim(), objT, cat, year:yearEl.value.trim() }); }
+	function applyFilters(){ const cont=contSel.value; const selected=getSelectedIssuers(); const selectedSet=new Set(selected); const q=normText(searchEl.value || ''); const coinQNorm=normText(coinSearchEl.value || ''); const objT=objTypeSel.value; const cat=catSel.value; const yearRules=parseYearFilter(yearEl.value); boxEl.querySelectorAll('.issuerItem').forEach(lbl => { const name = lbl.dataset.norm || normText(lbl.textContent || ''); lbl.style.display = (!q || name.includes(q)) ? '' : 'none'; }); const totalAvailable = Array.from(boxEl.querySelectorAll('input[type=checkbox]')).filter(cb => cb.parentElement.style.display !== 'none').length; countryCountEl.textContent = `Countries: ${selected.length} selected / ${totalAvailable} available`; let shownItems=0, shownTypes=0, shownIssuerOnly=0, visibleCards=0; if (isMobile){ const filters = { cont, selectedSet, coinQNorm, objT, cat, yearRules }; mobileHeaders.forEach(header => { const secKey = header.dataset.sectionkey || ''; const body = shell.querySelector(`.mobileLazyBody[data-secbody="${CSS.escape(header.dataset.sec)}"]`); if (!body) return; const allItems = Array.isArray(body.__allItems) ? body.__allItems : []; const filteredItems = allItems.filter(item => mobileItemMatches(item, filters)); body.__filteredItems = filteredItems; const hasVisible = filteredItems.length > 0; header.classList.toggle('hidden', !hasVisible); if (!hasVisible){ body.classList.add('hidden'); body.innerHTML=''; body.dataset.rendered='0'; const icon = header.querySelector('.chev'); if (icon) icon.textContent = '▸'; return; } filteredItems.forEach(item => { visibleCards += 1; if (item.is_issuer_only) shownIssuerOnly += 1; else { shownTypes += 1; shownItems += (parseInt(item.qty || 0, 10) || 0); } }); if (!body.classList.contains('hidden') || body.dataset.rendered === '1'){ renderMobileSectionBody(body, secKey, filteredItems); } }); emptyStateEl.style.display = visibleCards === 0 ? 'block' : 'none'; metricsEl.textContent = shownIssuerOnly > 0 ? `Showing: ${shownItems} items | ${shownTypes} types | ${shownIssuerOnly} issuer-wishes` : `Showing: ${shownItems} items | ${shownTypes} types`; liveStatsEl.innerHTML = `<span>Visible <b>${visibleCards}</b></span><span>Qty <b>${shownItems}</b></span>`; mobileResults.textContent = `${visibleCards} shown`; visibleQtyEl.textContent = String(shownItems); visibleTypesEl.textContent = String(shownTypes); renderChips({ cont, countries:selected, coinQ:coinSearchEl.value.trim(), objT, cat, year:yearEl.value.trim() }); return; } entries.forEach(entry => { const okCont=(cont==='ALL' || entry.continent===cont); const okIssuer=(selectedSet.size===0 || selectedSet.has(entry.issuerroot)); const okCoin=fuzzyMatchNorm(coinQNorm, entry.haystackNorm); const okObj=(objT==='ALL' || !objT || entry.objType===objT); const okCat=(cat==='ALL' || !cat || entry.category===cat); let okYear=true; if (yearRules){ okYear = yearRules.some(rule => { if (rule.type==='single'){ if (entry.years.includes(rule.year)) return true; return entry.minYear !== 999999 && entry.maxYear !== 999999 && rule.year >= entry.minYear && rule.year <= entry.maxYear; } if (entry.years.some(y => y >= rule.min && y <= rule.max)) return true; return entry.minYear !== 999999 && entry.maxYear !== 999999 && !(rule.max < entry.minYear || rule.min > entry.maxYear); }); } const visible = okCont && okIssuer && okCoin && okObj && okCat && okYear; entry.visible = visible; entry.el.classList.toggle('hidden', !visible); if (visible){ visibleCards += 1; if (entry.isIssuerOnly) shownIssuerOnly += 1; else { shownTypes += 1; shownItems += entry.qty; } } }); applyGridOrder(sortSel.value || 'none'); grids.forEach(grid => { const anyVisible = (gridEntries.get(grid) || []).some(entry => entry.visible); grid.classList.toggle('hidden', !anyVisible); const h3 = grid.previousElementSibling; if (h3 && h3.tagName === 'H3') h3.classList.toggle('hidden', !anyVisible); }); sections.forEach(sec => { const anyVisible = sec.body.querySelector('.card:not(.hidden)'); sec.body.classList.toggle('hidden', !anyVisible); if (sec.header) sec.header.classList.toggle('hidden', !anyVisible); }); emptyStateEl.style.display = visibleCards === 0 ? 'block' : 'none'; metricsEl.textContent = shownIssuerOnly > 0 ? `Showing: ${shownItems} items | ${shownTypes} types | ${shownIssuerOnly} issuer-wishes` : `Showing: ${shownItems} items | ${shownTypes} types`; liveStatsEl.innerHTML = `<span>Visible <b>${visibleCards}</b></span><span>Qty <b>${shownItems}</b></span>`; mobileResults.textContent = `${visibleCards} shown`; visibleQtyEl.textContent = String(shownItems); visibleTypesEl.textContent = String(shownTypes); renderChips({ cont, countries:selected, coinQ:coinSearchEl.value.trim(), objT, cat, year:yearEl.value.trim() }); }
 	const debouncedApply = debounce(applyFilters, 160);
 	contSel.addEventListener('change', updateIssuerList);
 	searchEl.addEventListener('input', debouncedApply);
