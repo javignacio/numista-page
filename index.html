@@ -20098,6 +20098,7 @@ return Plotly;
 	sortSel.addEventListener('change', () => { lastSortMode = null; applyFilters(); });
 	coinSearchEl.addEventListener('input', debouncedApply);
 	yearEl.addEventListener('input', debouncedApply);
+	if (sizeEl) sizeEl.addEventListener('input', debouncedApply);
 	clearBtn.addEventListener('click', resetAllFilters);
 	emptyClearBtn.addEventListener('click', resetAllFilters);
 	mobileClearBtn.addEventListener('click', resetAllFilters);
