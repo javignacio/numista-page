@@ -20049,7 +20049,7 @@ return Plotly;
 
 	const grids = Array.from(shell.querySelectorAll('.grid'));
 	grids.forEach(grid => Array.from(grid.querySelectorAll('.card')).forEach((c, idx) => { if (!c.dataset.orig) c.dataset.orig = String(idx); }));
-	const sections = Array.from(shell.querySelectorAll('.sectionBody')).map(body => ({ body, header: shell.querySelector(`.sectionHeader[data-sec="${CSS.escape(body.dataset.secbody)}"]`) }));
+	const sections = Array.from(shell.querySelectorAll('.desktopSectionBody')).map(body => ({ body, header: shell.querySelector(`.desktopSectionHeader[data-sec="${CSS.escape(body.dataset.secbody)}"]`) }));
 	const mobileHeaders = Array.from(shell.querySelectorAll('.mobileLazyHeader'));
 	mobileHeaders.forEach((header, idx) => {
 		const secKey = header.dataset.sectionkey || '';
