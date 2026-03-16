@@ -20126,7 +20126,8 @@ return Plotly;
 	function renderMobileSectionBody(body, secKey, itemsOverride){
 		if (!isMobile || !body) return;
 		const payload = mobileSectionData[secKey] || {items: []};
-		const baseItems = Array.isArray(itemsOverride) ? itemsOverride : (Array.isArray(payload.items) ? payload.items : []);
+		const bodyFilteredItems = Array.isArray(body.__filteredItems) ? body.__filteredItems : null;
+		const baseItems = Array.isArray(itemsOverride) ? itemsOverride : (bodyFilteredItems || (Array.isArray(payload.items) ? payload.items : []));
 		const items = sortMobileItems(baseItems, sortSel ? (sortSel.value || 'none') : 'none');
 		const byCurrency = new Map();
 		const currencyOrder = [];
@@ -20180,7 +20181,8 @@ return Plotly;
 			const chev = h2.querySelector('.chev');
 			if (chev) chev.textContent = '▸';
 			h2.addEventListener('click', () => {
-				renderMobileSectionBody(body, body.dataset.sectionkey || h2.dataset.sectionkey || h2.dataset.sec);
+				const itemsForRender = Array.isArray(body.__filteredItems) ? body.__filteredItems : undefined;
+				renderMobileSectionBody(body, body.dataset.sectionkey || h2.dataset.sectionkey || h2.dataset.sec, itemsForRender);
 				const isHidden = body.classList.toggle('hidden');
 				const icon = h2.querySelector('.chev');
 				if (icon) icon.textContent = isHidden ? '▸' : '▾';
