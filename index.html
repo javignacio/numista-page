@@ -22322,6 +22322,7 @@ return Plotly;
       });
     });
     const dataRows = Array.from(acc.values()).sort((a,b) => a.start - b.start);
+    el.__timelineRows = dataRows;
     if (!dataRows.length){ el.innerHTML = "<div class='miniEmpty'>No dated items</div>"; return; }
     const yVals = dataRows.map(r => metric === 'types' ? r.types : r.qty);
     const custom = dataRows.map(r => [r.start, r.end, r.qty, r.types, r.start === r.end ? `year:${r.start}` : `year:${r.start}-${r.end}`]);
@@ -22343,8 +22344,21 @@ return Plotly;
     if (el.removeAllListeners) el.removeAllListeners('plotly_click');
     el.on('plotly_click', evt => {
       const point = evt && evt.points && evt.points[0];
-      const query = point && point.customdata ? String(point.customdata[4] || '') : '';
-      if (query) navigateToMode('collection', [], query);
+      let start = null, end = null, query = '';
+      if (point && point.customdata){
+        start = parseInt(point.customdata[0], 10);
+        end = parseInt(point.customdata[1], 10);
+        query = String(point.customdata[4] || '');
+      }
+      if ((!query || !Number.isFinite(start) || !Number.isFinite(end)) && point && Number.isInteger(point.pointIndex) && Array.isArray(el.__timelineRows)){
+        const row = el.__timelineRows[point.pointIndex];
+        if (row){
+          start = row.start;
+          end = row.end;
+          query = row.start === row.end ? `year:${row.start}` : `year:${row.start}-${row.end}`;
+        }
+      }
+      if (query && Number.isFinite(start) && Number.isFinite(end)) navigateToMode('collection', [], query, {start, end});
     });
   }
   function renderAnalytics(){
@@ -22734,11 +22748,11 @@ return Plotly;
 	});
 	const entries = Array.from(shell.querySelectorAll('.card')).map(card => { const qty=parseInt(card.dataset.qty || '0', 10) || 0; const yearsGreg=(card.dataset.years || '').split(',').map(x=>parseInt(x,10)).filter(x=>!isNaN(x)); const yearsRaw=(card.dataset.yearsraw || '').split(',').map(x=>parseInt(x,10)).filter(x=>!isNaN(x)); const seenYears=new Set(); const years=yearsGreg.concat(yearsRaw).filter(y => !seenYears.has(y) && (seenYears.add(y), true)); const hasExactYears=years.length > 0; const minYear=parseInt(card.dataset.minyear || '',10); const maxYear=parseInt(card.dataset.maxyear || '',10); return { el:card, grid:card.closest('.grid'), haystackNorm:normText(card.dataset.search || ''), continent:card.dataset.continent || 'Unknown', issuerroot:card.dataset.issuerroot || '', qty, isIssuerOnly:card.dataset.isissueronly==='1', objType:card.dataset.objtype || '', category:card.dataset.category || '', faceValue:parseSortNumber(card.dataset.facesort || card.dataset.facevalue, 1e30), minYear:Number.isFinite(minYear) ? minYear : 999999, maxYear:Number.isFinite(maxYear) ? maxYear : 999999, years, hasExactYears, sizeMm:Number.parseFloat(card.dataset.sizemm || ''), refKey:parseRefRaw(card.dataset.ref || ''), titleSort:(card.dataset.title || '').toLowerCase(), orig:parseInt(card.dataset.orig || '0', 10) || 0, visible:true }; });
 	const gridEntries = new Map(grids.map(grid => [grid, entries.filter(e => e.grid === grid)]));
-	let lastSortMode = null; const sortCache = new Map();
+	let lastSortMode = null; let forcedTimelineYearRange = null; const sortCache = new Map();
 	function compareEntries(a,b,mode){ if (mode==='face') return a.faceValue-b.faceValue || a.minYear-b.minYear || a.maxYear-b.maxYear || a.refKey.catRank-b.refKey.catRank || a.refKey.num-b.refKey.num || a.refKey.suffix.localeCompare(b.refKey.suffix) || a.orig-b.orig; if (mode==='date') return a.minYear-b.minYear || a.maxYear-b.maxYear || a.faceValue-b.faceValue || a.orig-b.orig; if (mode==='ref') return a.refKey.catRank-b.refKey.catRank || a.refKey.num-b.refKey.num || a.refKey.suffix.localeCompare(b.refKey.suffix) || a.orig-b.orig; if (mode==='type') return a.titleSort.localeCompare(b.titleSort) || a.orig-b.orig; return a.orig-b.orig; }
 	function applyGridOrder(mode){ if (lastSortMode === mode) return; grids.forEach(grid => { const cacheKey = grid.dataset.sortcachekey || (grid.dataset.sortcachekey = Math.random().toString(36).slice(2)); const mapKey = `${cacheKey}:${mode}`; let ordered = sortCache.get(mapKey); if (!ordered){ ordered = [...(gridEntries.get(grid) || [])].sort((a,b)=>compareEntries(a,b,mode)); sortCache.set(mapKey, ordered); } const frag=document.createDocumentFragment(); ordered.forEach(entry => frag.appendChild(entry.el)); grid.appendChild(frag); }); lastSortMode = mode; }
 	function updateIssuerList(){ const cont=contSel.value; const selectedSet=new Set(getSelectedIssuers()); const all = uniqSorted(Object.values(contMap).reduce((acc,v)=>acc.concat(v), [])); const list = (cont === 'ALL') ? all : uniqSorted(contMap[cont] || []); renderIssuerCheckboxes(list, selectedSet); applyFilters(); }
-	function resetAllFilters(){ contSel.value='ALL'; searchEl.value=''; coinSearchEl.value=''; objTypeSel.value='ALL'; catSel.value='ALL'; if (yearEl) yearEl.value=''; if (sizeEl) sizeEl.value=''; const defaultSort = sortSel.dataset.default || sortSel.value || 'none'; sortSel.value = defaultSort; renderIssuerCheckboxes(uniqSorted(Object.values(contMap).reduce((acc,v)=>acc.concat(v), [])), new Set()); lastSortMode = null; applyFilters(); }
+	function resetAllFilters(){ forcedTimelineYearRange = null; contSel.value='ALL'; searchEl.value=''; coinSearchEl.value=''; objTypeSel.value='ALL'; catSel.value='ALL'; if (yearEl) yearEl.value=''; if (sizeEl) sizeEl.value=''; const defaultSort = sortSel.dataset.default || sortSel.value || 'none'; sortSel.value = defaultSort; renderIssuerCheckboxes(uniqSorted(Object.values(contMap).reduce((acc,v)=>acc.concat(v), [])), new Set()); lastSortMode = null; applyFilters(); }
 	function csvEscape(value){
 		const s = String(value ?? '');
 		return /[",\n\r]/.test(s) ? '"' + s.replace(/"/g, '""') + '"' : s;
@@ -23015,6 +23029,16 @@ return Plotly;
 		};
 	}
 
+	function matchesForcedTimelineRange(years, hasExactYears, minYear, maxYear){
+	  if (!forcedTimelineYearRange) return true;
+	  const start = forcedTimelineYearRange.start;
+	  const end = forcedTimelineYearRange.end;
+	  if (!Number.isFinite(start) || !Number.isFinite(end)) return true;
+	  const exactYears = Array.isArray(years) ? years : [];
+	  if (exactYears.some(y => y >= start && y <= end)) return true;
+	  return !hasExactYears && minYear !== 999999 && maxYear !== 999999 && !(end < minYear || start > maxYear);
+	}
+
 	function setSelectedIssuers(issuerRoots){
 	  const wanted = new Set((Array.isArray(issuerRoots) ? issuerRoots : []).filter(Boolean));
 	  const allIssuers = uniqSorted(Object.values(contMap).reduce((acc,v)=>acc.concat(v), []));
@@ -23030,7 +23054,13 @@ return Plotly;
 	  applyFilters();
 	}
 	function setSearchQuery(query){
+	  forcedTimelineYearRange = null;
 	  coinSearchEl.value = query || '';
+	  applyFilters();
+	}
+	function setTimelineYearRange(start, end, query){
+	  forcedTimelineYearRange = {start: parseInt(start, 10), end: parseInt(end, 10)};
+	  coinSearchEl.value = query || (forcedTimelineYearRange.start === forcedTimelineYearRange.end ? `year:${forcedTimelineYearRange.start}` : `year:${forcedTimelineYearRange.start}-${forcedTimelineYearRange.end}`);
 	  applyFilters();
 	}
 
@@ -23056,7 +23086,12 @@ return Plotly;
 				const body = shell.querySelector(`.mobileLazyBody[data-secbody="${CSS.escape(header.dataset.sec)}"]`);
 				if (!body) return;
 				const allItems = Array.isArray(body.__allItems) ? body.__allItems : [];
-				const filteredItems = allItems.filter(item => mobileItemMatches(item, filters) && advancedQueryMatches(queryText, searchTargetFromMobileItem(item)));
+				const filteredItems = allItems.filter(item => {
+					const years = mobileItemYears(item);
+					const minYear = mobileItemMinYear(item);
+					const maxYear = mobileItemMaxYear(item);
+					return mobileItemMatches(item, filters) && advancedQueryMatches(queryText, searchTargetFromMobileItem(item)) && matchesForcedTimelineRange(years, years.length > 0, minYear, maxYear);
+				});
 				body.__filteredItems = filteredItems;
 				const hasVisible = filteredItems.length > 0;
 				header.classList.toggle('hidden', !hasVisible);
@@ -23087,7 +23122,8 @@ return Plotly;
 			const okSearch = advancedQueryMatches(queryText, searchTargetFromEntry(entry));
 			const okObj = (objT === 'ALL' || !objT || entry.objType === objT);
 			const okCat = (cat === 'ALL' || !cat || entry.category === cat);
-			const visible = okCont && okIssuer && okSearch && okObj && okCat;
+			const okTimelineYear = matchesForcedTimelineRange(entry.years, entry.hasExactYears, entry.minYear, entry.maxYear);
+			const visible = okCont && okIssuer && okSearch && okObj && okCat && okTimelineYear;
 			entry.visible = visible;
 			entry.el.classList.toggle('hidden', !visible);
 			if (visible){
@@ -23125,7 +23161,7 @@ return Plotly;
 	catSel.addEventListener('change', applyFilters);
 	sortSel.dataset.default = sortSel.value || 'none';
 	sortSel.addEventListener('change', () => { lastSortMode = null; applyFilters(); });
-	coinSearchEl.addEventListener('input', debouncedApply);
+	coinSearchEl.addEventListener('input', () => { forcedTimelineYearRange = null; debouncedApply(); });
 	if (yearEl) yearEl.addEventListener('input', debouncedApply);
 	if (sizeEl) sizeEl.addEventListener('input', debouncedApply);
 	clearBtn.addEventListener('click', resetAllFilters);
@@ -23139,17 +23175,21 @@ return Plotly;
 		Array.from(shell.querySelectorAll('.desktopSectionHeader')).forEach(h2 => { h2.addEventListener('click', () => { const id = h2.dataset.sec; const body = shell.querySelector(`.desktopSectionBody[data-secbody="${CSS.escape(id)}"]`); if (!body) return; const isHidden = body.classList.toggle('hidden'); const chev = h2.querySelector('.chev'); if (chev) chev.textContent = isHidden ? '▸' : '▾'; }); });
 	}
 
-	modeControllers[prefix] = { resetAllFilters, setSelectedIssuers, setSearchQuery };
+	modeControllers[prefix] = { resetAllFilters, setSelectedIssuers, setSearchQuery, setTimelineYearRange };
 	updateIssuerList(); requestAnimationFrame(() => { applyFilters(); refreshMobileJump(); });
   }
-  function navigateToMode(prefix, issuerRoots, searchQuery){
+  function navigateToMode(prefix, issuerRoots, searchQuery, timelineRange){
 	const panelId = prefix === 'wishlist' ? 'panel-wishlist' : 'panel-collection';
 	openPanel(panelId);
 	const controller = modeControllers[prefix];
 	if (!controller) return;
 	controller.resetAllFilters();
 	controller.setSelectedIssuers(issuerRoots);
-	if (searchQuery && controller.setSearchQuery) controller.setSearchQuery(searchQuery);
+	if (timelineRange && controller.setTimelineYearRange){
+	  controller.setTimelineYearRange(timelineRange.start, timelineRange.end, searchQuery);
+	} else if (searchQuery && controller.setSearchQuery) {
+	  controller.setSearchQuery(searchQuery);
+	}
   }
   document.querySelectorAll('.analyticsNavRow').forEach(row => {
 	row.style.cursor = 'pointer';
