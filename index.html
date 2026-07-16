@@ -22346,19 +22346,31 @@ return Plotly;
       const point = evt && evt.points && evt.points[0];
       let start = null, end = null, query = '';
       if (point && point.customdata){
-        start = parseInt(point.customdata[0], 10);
-        end = parseInt(point.customdata[1], 10);
-        query = String(point.customdata[4] || '');
+        const cd = Array.isArray(point.customdata) ? point.customdata : [point.customdata];
+        start = parseInt(cd[0], 10);
+        end = parseInt(cd[1], 10);
+        query = String(cd[4] || '');
       }
-      if ((!query || !Number.isFinite(start) || !Number.isFinite(end)) && point && Number.isInteger(point.pointIndex) && Array.isArray(el.__timelineRows)){
-        const row = el.__timelineRows[point.pointIndex];
+      if ((!query || !Number.isFinite(start) || !Number.isFinite(end)) && point && Array.isArray(el.__timelineRows)){
+        const idx = Number.isInteger(point.pointIndex) ? point.pointIndex : (Number.isInteger(point.pointNumber) ? point.pointNumber : -1);
+        const row = idx >= 0 ? el.__timelineRows[idx] : null;
         if (row){
           start = row.start;
           end = row.end;
           query = row.start === row.end ? `year:${row.start}` : `year:${row.start}-${row.end}`;
         }
       }
-      if (query && Number.isFinite(start) && Number.isFinite(end)) navigateToMode('collection', [], query, {start, end});
+      if ((!query || !Number.isFinite(start) || !Number.isFinite(end)) && point && point.x != null){
+        const label = String(point.x || '').trim();
+        const decadeMatch = label.match(/^(-?\d+)s$/);
+        const yearMatch = label.match(/^-?\d+$/);
+        if (decadeMatch){ start = parseInt(decadeMatch[1], 10); end = start + 9; query = `year:${start}-${end}`; }
+        else if (yearMatch){ start = parseInt(label, 10); end = start; query = `year:${start}`; }
+      }
+      if (query && Number.isFinite(start) && Number.isFinite(end)) {
+        if (typeof window.__NUMISTA_APPLY_TIMELINE_FILTER === 'function') window.__NUMISTA_APPLY_TIMELINE_FILTER(start, end, query);
+        else navigateToMode('collection', [], query, {start, end});
+      }
     });
   }
   function renderAnalytics(){
@@ -23059,9 +23071,13 @@ return Plotly;
 	  applyFilters();
 	}
 	function setTimelineYearRange(start, end, query){
-	  forcedTimelineYearRange = {start: parseInt(start, 10), end: parseInt(end, 10)};
-	  coinSearchEl.value = query || (forcedTimelineYearRange.start === forcedTimelineYearRange.end ? `year:${forcedTimelineYearRange.start}` : `year:${forcedTimelineYearRange.start}-${forcedTimelineYearRange.end}`);
+	  const sYear = parseInt(start, 10);
+	  const eYear = parseInt(end, 10);
+	  forcedTimelineYearRange = {start: sYear, end: eYear};
+	  coinSearchEl.value = query || (sYear === eYear ? `year:${sYear}` : `year:${sYear}-${eYear}`);
 	  applyFilters();
+	  requestAnimationFrame(applyFilters);
+	  setTimeout(applyFilters, 60);
 	}
 
 	function applyFilters(){
@@ -23175,7 +23191,17 @@ return Plotly;
 		Array.from(shell.querySelectorAll('.desktopSectionHeader')).forEach(h2 => { h2.addEventListener('click', () => { const id = h2.dataset.sec; const body = shell.querySelector(`.desktopSectionBody[data-secbody="${CSS.escape(id)}"]`); if (!body) return; const isHidden = body.classList.toggle('hidden'); const chev = h2.querySelector('.chev'); if (chev) chev.textContent = isHidden ? '▸' : '▾'; }); });
 	}
 
-	modeControllers[prefix] = { resetAllFilters, setSelectedIssuers, setSearchQuery, setTimelineYearRange };
+	modeControllers[prefix] = { resetAllFilters, setSelectedIssuers, setSearchQuery, setTimelineYearRange, applyFilters };
+	if (prefix === 'collection'){
+	  window.__NUMISTA_APPLY_TIMELINE_FILTER = function(start, end, query){
+		openPanel('panel-collection');
+		const controller = modeControllers.collection;
+		if (!controller) return;
+		controller.resetAllFilters();
+		controller.setTimelineYearRange(start, end, query);
+		setTimeout(() => controller.setTimelineYearRange(start, end, query), 80);
+	  };
+	}
 	updateIssuerList(); requestAnimationFrame(() => { applyFilters(); refreshMobileJump(); });
   }
   function navigateToMode(prefix, issuerRoots, searchQuery, timelineRange){
