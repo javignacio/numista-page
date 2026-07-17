@@ -23239,8 +23239,8 @@ return Plotly;
 			metricsEl.textContent = shownIssuerOnly > 0 ? `Showing: ${shownItems} items | ${shownTypes} types | ${shownIssuerOnly} issuer-wishes` : `Showing: ${shownItems} items | ${shownTypes} types`;
 			liveStatsEl.innerHTML = `<span>Visible <b>${visibleCards}</b></span><span>Qty <b>${shownItems}</b></span>`;
 			mobileResults.textContent = `${visibleCards} shown`;
-			visibleQtyEl.textContent = String(shownItems);
-			visibleTypesEl.textContent = String(shownTypes);
+			if (visibleQtyEl) visibleQtyEl.textContent = String(shownItems);
+			if (visibleTypesEl) visibleTypesEl.textContent = String(shownTypes);
 			renderChips({ cont, countries:selected, coinQ:queryText.trim(), objT, cat });
 			return;
 		}
@@ -23276,8 +23276,8 @@ return Plotly;
 		metricsEl.textContent = shownIssuerOnly > 0 ? `Showing: ${shownItems} items | ${shownTypes} types | ${shownIssuerOnly} issuer-wishes` : `Showing: ${shownItems} items | ${shownTypes} types`;
 		liveStatsEl.innerHTML = `<span>Visible <b>${visibleCards}</b></span><span>Qty <b>${shownItems}</b></span>`;
 		mobileResults.textContent = `${visibleCards} shown`;
-		visibleQtyEl.textContent = String(shownItems);
-		visibleTypesEl.textContent = String(shownTypes);
+		if (visibleQtyEl) visibleQtyEl.textContent = String(shownItems);
+		if (visibleTypesEl) visibleTypesEl.textContent = String(shownTypes);
 		renderChips({ cont, countries:selected, coinQ:queryText.trim(), objT, cat });
 	}
 
@@ -23352,8 +23352,8 @@ return Plotly;
 		metricsEl.textContent = shownIssuerOnly > 0 ? `Showing: ${shownItems} items | ${shownTypes} types | ${shownIssuerOnly} issuer-wishes` : `Showing: ${shownItems} items | ${shownTypes} types`;
 		liveStatsEl.innerHTML = `<span>Visible <b>${visibleCards}</b></span><span>Qty <b>${shownItems}</b></span>`;
 		mobileResults.textContent = `${visibleCards} shown`;
-		visibleQtyEl.textContent = String(shownItems);
-		visibleTypesEl.textContent = String(shownTypes);
+		if (visibleQtyEl) visibleQtyEl.textContent = String(shownItems);
+		if (visibleTypesEl) visibleTypesEl.textContent = String(shownTypes);
 		renderChips({ cont:'ALL', countries:[], coinQ:coinSearchEl.value, objT:'ALL', cat:'ALL' });
 		refreshMobileJump();
 	  }
@@ -23388,8 +23388,8 @@ return Plotly;
 	  navigateToMode(row.dataset.navPrefix || 'collection', issuerRoots);
 	});
   });
-  initMode('collection');
-  initMode('wishlist');
+  try { initMode('collection'); } catch (e) { console.error('Failed to initialize collection filters', e); }
+  try { initMode('wishlist'); } catch (e) { console.error('Failed to initialize wishlist filters', e); }
   setTimeout(() => renderAnalytics(), 0);
 })();
 </script>
