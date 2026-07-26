@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "id": "numista",
+  "title": "Coin Collection",
+  "description": "Coins, banknotes, tokens and other numismatic items.",
+  "url": "./",
+  "updated": "2026-07-25T20:51:36-04:00",
+  "metrics": [
+    {
+      "label": "Items",
+      "value": 3279
+    },
+    {
+      "label": "Types",
+      "value": 1880
+    },
+    {
+      "label": "Wishlist",
+      "value": 209
+    }
+  ],
+  "data": {
+    "collection_items": 3279,
+    "collection_types": 1880,
+    "wishlist_types": 209
+  }
+}
