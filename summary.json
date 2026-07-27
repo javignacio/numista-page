@@ -4,24 +4,24 @@
   "title": "Coin Collection",
   "description": "Coins, banknotes, tokens and other numismatic items.",
   "url": "./",
-  "updated": "2026-07-25T20:51:36-04:00",
+  "updated": "2026-07-27T10:28:26-04:00",
   "metrics": [
     {
       "label": "Items",
-      "value": 3279
+      "value": 3282
     },
     {
       "label": "Types",
-      "value": 1880
+      "value": 1883
     },
     {
       "label": "Wishlist",
-      "value": 209
+      "value": 192
     }
   ],
   "data": {
-    "collection_items": 3279,
-    "collection_types": 1880,
-    "wishlist_types": 209
+    "collection_items": 3282,
+    "collection_types": 1883,
+    "wishlist_types": 192
   }
 }
