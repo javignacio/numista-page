@@ -1,0 +1,117 @@
+{
+  "id": 6366,
+  "url": "https://en.numista.com/6366",
+  "title": "1 Centime - Rainier III",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "monaco",
+    "name": "Monaco"
+  },
+  "min_year": 1976,
+  "max_year": 1995,
+  "ruler": [
+    {
+      "id": 3126,
+      "name": "Rainier III",
+      "wikidata_id": "Q185025",
+      "group": {
+        "id": 528,
+        "name": "House of Grimaldi"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Centime",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 202,
+      "name": "Nouveau franc",
+      "full_name": "Nouveau franc (1960-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 15,
+  "thickness": 1.3,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Georges Simon"
+    ],
+    "description": "Crown above a shield",
+    "lettering": "PRINCIPAUTE DE MONACO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Principality of Monaco",
+    "picture": "https://en.numista.com/catalogue/photos/monaco/60c13a413956f0.45740456-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/monaco/60c13a413956f0.45740456-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Georges Simon"
+    ],
+    "description": "Erected olive branch sharing the face value and the date.",
+    "lettering": "1 Cme\r\nS\r\n19 77",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "1 Centime",
+    "picture": "https://en.numista.com/catalogue/photos/monaco/63f521e2124946.14282257-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/monaco/63f521e2124946.14282257-180.jpg",
+    "picture_copyright": "HerveMonaco",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p><a href=\"https://en.numista.com/catalogue/images/63f77f084ed0e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/63f77f084ed0e.jpg\" alt=\"\"></a><br><br>FDC 1976 series<br><a href=\"https://en.numista.com/catalogue/images/63fa2f68361c9.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/63fa2f68361c9.jpg\" alt=\"\"></a><br><br>FDC 1982 series<br><a href=\"https://en.numista.com/catalogue/images/63fa2ceace543.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/63fa2ceace543.jpg\" alt=\"\"></a><br><br>Brillant Uiversel 1995 series<br><a href=\"https://en.numista.com/catalogue/images/63fa2e5722748.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/63fa2e5722748.jpg\" alt=\"\"></a></p>",
+  "tags": [
+    "Coat of Arms",
+    "Crown"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "155"
+    },
+    {
+      "catalogue": {
+        "id": 109,
+        "code": "Gad 1789"
+      },
+      "number": "MC144"
+    }
+  ],
+  "weight": 1.65,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,133 @@
+{
+  "id": 1528,
+  "url": "https://en.numista.com/1528",
+  "title": "1 Markka",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "finlande",
+    "name": "Finland"
+  },
+  "min_year": 1964,
+  "max_year": 1968,
+  "ruler": [
+    {
+      "id": 3291,
+      "name": "Republic",
+      "wikidata_id": "Q33"
+    }
+  ],
+  "value": {
+    "text": "1 Markka",
+    "numeric_value": 1,
+    "currency": {
+      "id": 133,
+      "name": "New Markka",
+      "full_name": "New Markka (1963-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1997-12-31"
+  },
+  "size": 24,
+  "thickness": 1.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Billon (.350 silver) (Copper .570, Zinc .080)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Heraldic lion, legend and date below.",
+    "lettering": "S\r\n1965\r\nSUOMEN TASAVALTA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Finland",
+    "picture": "https://en.numista.com/catalogue/photos/finlande/788-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/788-180.jpg",
+    "picture_copyright": "Ginger",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Heikki Häiväoja"
+    ],
+    "description": "Denomination in front of stylized trees.",
+    "lettering": "1\r\nMARKKA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/finlande/789-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/789-180.jpg",
+    "picture_copyright": "Ginger",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "related_types": [
+    {
+      "id": 3737,
+      "title": "1 Markka",
+      "category": "coin",
+      "country": {
+        "code": "finlande",
+        "name": "Finland"
+      },
+      "minYear": 1969,
+      "maxYear": 1993
+    }
+  ],
+  "tags": [
+    "Cat or feline",
+    "Coat of Arms",
+    "Cold weapons"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "49"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "56"
+    }
+  ],
+  "weight": 6.4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Smooth with inscription",
+    "lettering": "SUOMI FINLAND *** SUOMI FINLAND ***",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Finland Finland *** Finland Finland",
+    "picture": "https://en.numista.com/catalogue/photos/finlande/577-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/577-180.jpg",
+    "picture_copyright": "ZacUK"
+  },
+  "mints": [
+    {
+      "id": 1333,
+      "name": "Mint of Finland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

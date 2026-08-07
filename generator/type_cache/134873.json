@@ -1,0 +1,141 @@
+{
+  "id": 134873,
+  "url": "https://en.numista.com/134873",
+  "title": "2 Zlotys (2nd Eagle Design)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "pologne",
+    "name": "Poland"
+  },
+  "min_year": 1986,
+  "max_year": 1988,
+  "ruler": [
+    {
+      "id": 3738,
+      "name": "Polish People's Republic",
+      "wikidata_id": "Q211274"
+    }
+  ],
+  "value": {
+    "text": "2 Zlotys",
+    "numeric_value": 2,
+    "currency": {
+      "id": 199,
+      "name": "Third Zloty",
+      "full_name": "Third Zloty (1949-1994)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 21,
+  "thickness": 1.1,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass (58.5% Copper; 41% Zinc; 0.5% Manganese)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Stanisława Wątróbska-Frindt"
+    ],
+    "description": "Eagle with wings open",
+    "lettering": "· POLSKA RZECZPOSPOLITA LUDOWA ·\r\nmw \r\n1988",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Polish Peoples Republic",
+    "picture": "https://en.numista.com/catalogue/photos/pologne/63408979d44295.19922953-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pologne/63408979d44295.19922953-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "reverse": {
+    "engravers": [
+      "Wacław Kowalik"
+    ],
+    "description": "Value above design",
+    "lettering": "2\r\nZŁ",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/pologne/6340897a47fa52.38967240-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pologne/6340897a47fa52.38967240-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "related_types": [
+    {
+      "id": 2064,
+      "title": "2 Zlotys (1st Eagle Design)",
+      "category": "coin",
+      "country": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "minYear": 1975,
+      "maxYear": 1985
+    },
+    {
+      "id": 16490,
+      "title": "2 Zlotys",
+      "category": "coin",
+      "country": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "minYear": 1989,
+      "maxYear": 1990
+    }
+  ],
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "80.2"
+    },
+    {
+      "catalogue": {
+        "id": 165,
+        "code": "ParM"
+      },
+      "number": "218"
+    },
+    {
+      "catalogue": {
+        "id": 166,
+        "code": "Fischer Po"
+      },
+      "number": "OB043"
+    }
+  ],
+  "weight": 3,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/pologne/6159d39c2211c2.26440043-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pologne/6159d39c2211c2.26440043-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 27,
+      "name": "Mint of Poland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

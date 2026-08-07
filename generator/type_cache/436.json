@@ -1,0 +1,111 @@
+{
+  "id": 436,
+  "url": "https://en.numista.com/436",
+  "title": "1 Cent - George V",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "canada",
+    "name": "Canada"
+  },
+  "min_year": 1920,
+  "max_year": 1936,
+  "ruler": [
+    {
+      "id": 1776,
+      "name": "George V",
+      "wikidata_id": "Q269412"
+    }
+  ],
+  "value": {
+    "text": "1 Cent",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 44,
+      "name": "Dollar",
+      "full_name": "Dollar (1858-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 19.05,
+  "thickness": 1.65,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze (Cu 95.5%, Sn 3%, Zn 1.5%)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Edgar Bertram MacKennal"
+    ],
+    "description": "Bust of King George V, wearing a crown, facing left, engravers abbreviation in the truncation.",
+    "lettering": "GEORGIVS V DEI GRA: REX ET IND:IMP:\r\nB.M.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "GEORGIVS V DEI GRATIA REX ET INDIA IMPERATOR\r\nBertran MacKennal",
+    "lettering_translation": "GEORGE V, KING AND EMPERROR OF INDIA BY THE GRACE OF GOD\r\nBertran MacKennal",
+    "picture": "https://en.numista.com/catalogue/photos/canada/1073-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/1073-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "engravers": [
+      "Fred Lewis",
+      "William Henry James Blakemore"
+    ],
+    "description": "The face value above the date is surrounded by the inscription \"CANADA\" and flanked by two maple leaves.",
+    "lettering": "CANADA\r\nONE\r\nCENT\r\n1923",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/canada/1074-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/1074-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "<p><a href=\"https://en.numista.com/catalogue/images/5c9ad7a4ae6df.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5c9ad7a4ae6df.jpg\" alt=\"\"></a><br><br><a href=\"https://en.numista.com/catalogue/images/66e541e591e89.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/66e541e591e89.jpg\"></a></p><p><br><br>Fake or real : <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.coinsandcanada.com/coins-articles.php?article=1-cent-1936-dot-fake-vs-real&amp;id=699\">https://www.coinsandcanada.com/coins-articles.php?article=1-cent-1936-dot-fake-vs-real&amp;id=699</a></p>",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "28"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "27"
+    }
+  ],
+  "weight": 3.24,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/canada/699c11ccc914c9.99327627-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/699c11ccc914c9.99327627-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 19,
+      "name": "Royal Canadian Mint of Ottawa"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

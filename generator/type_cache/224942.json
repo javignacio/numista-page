@@ -1,0 +1,105 @@
+{
+  "id": 224942,
+  "url": "https://en.numista.com/224942",
+  "title": "500 Escudos (Nationalization of Mining)",
+  "object_type": {
+    "id": 80,
+    "name": "Circulating commemorative banknotes"
+  },
+  "issuer": {
+    "code": "chili",
+    "name": "Chile"
+  },
+  "issuing_entity": {
+    "id": 904,
+    "name": "Central Bank of Chile",
+    "wikidata_id": "Q2631674"
+  },
+  "min_year": 1971,
+  "max_year": 1973,
+  "ruler": [
+    {
+      "id": 3299,
+      "name": "Republic",
+      "wikidata_id": "Q298"
+    }
+  ],
+  "value": {
+    "text": "500 Escudos",
+    "numeric_value": 500,
+    "currency": {
+      "id": 236,
+      "name": "Escudo",
+      "full_name": "Escudo (1960-1975)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1980-00-00"
+  },
+  "size": 145,
+  "size2": 70,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Red-brown on multicolor underprint.\r\nCopper worker at left.",
+    "lettering": "BANCO CENTRAL \r\nDE CHILE\r\nQUINIENTOS \r\nESCUDOS\r\n1971 AÑO DE LA NACIONALIZACIÓN DEL COBRE, SALITRE Y HIERRO\r\nCASA DE MONEDA DE CHILE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Bank of Chile\r\nFive Hundred Escudos\r\n1971 - Year of the Nationalization of Cooper, Salitre and Iron\r\nChile Mint",
+    "picture": "https://en.numista.com/catalogue/photos/chili/64a6f5b1cd74f6.13808690-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/64a6f5b1cd74f6.13808690-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "reverse": {
+    "description": "Dark-pink and gray.\r\nStrip mining at center right (Open pit mine at Chuquicamata); 3-line text from Balmaceda at bottom.",
+    "lettering": "BANCO CENTRAL DE CHILE\r\nQUINIENTOS ESCUDOS\r\n\"NO DEBEMOS CONSENTIR QUE ESTA VASTA\r\nY RICA REGION SEA CONVERTIDA EN UNA\r\nSIMPLE FACTORIA EXTRANJERA\" BALMACEDA.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Bank of Chile\r\nFive Hundred Escudos\r\n\"We should not consent that this is vast and the rich region is becoming a simple foreign factory\"",
+    "picture": "https://en.numista.com/catalogue/photos/chili/64a6f5b2383206.33160309-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/64a6f5b2383206.33160309-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "series": "1967-1976 ND Issues",
+  "commemorated_topic": "Nationalization of Mining",
+  "comments": "<p>Even though the Pesos was introduced in 1975, Banknotes of the Escudo were not officially withdrawn(by Decree Law N. 1123 Article 3; and Article 9) but formally, due to the rising inflation and the replacement of early banknotes with coins, these banknotes lost all of their worth by 1980. The Central Bank of Chile was not banned from printing or spending(until 31 December 1976, but only spendings authorized by the Ministry of Finance) the currency but they were required to be valued in the new currency unit or to be stamped with the new currency unit.&nbsp;</p>",
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "144"
+    },
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "145"
+    }
+  ],
+  "watermark": {
+    "description": "Portrait of Diego Portales",
+    "picture": "https://en.numista.com/catalogue/photos/chili/5f0fcccdc84103.17932823-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/5f0fcccdc84103.17932823-180.jpg",
+    "picture_copyright": "lgalvezp"
+  },
+  "printers": [
+    {
+      "id": 18,
+      "name": "Casa de Moneda de Chile"
+    }
+  ],
+  "category": "banknote",
+  "type": "Circulating commemorative banknotes"
+}

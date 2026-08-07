@@ -1,0 +1,178 @@
+{
+  "id": 136690,
+  "url": "https://en.numista.com/136690",
+  "title": "1 Sol (Andean Tapir)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "perou",
+    "name": "Peru"
+  },
+  "min_year": 2018,
+  "max_year": 2018,
+  "ruler": [
+    {
+      "id": 3757,
+      "name": "Republic",
+      "wikidata_id": "Q419"
+    }
+  ],
+  "value": {
+    "text": "1 Sol",
+    "numeric_value": 1,
+    "currency": {
+      "id": 184,
+      "name": "Nuevo sol",
+      "full_name": "Nuevo sol (1991-2015) / Sol (2016-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25.5,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Felipe Escalante Chuñocca"
+    ],
+    "designers": [
+      "Felipe Escalante C."
+    ],
+    "description": "Coat of arms above date.",
+    "lettering": "BANCO CENTRAL DE RESERVA DEL PERÚ\r\n2018",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Reserve Bank of Peru",
+    "picture": "https://en.numista.com/catalogue/photos/perou/66893e5ff29853.98271506-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/66893e5ff29853.98271506-180.jpg",
+    "picture_copyright": "Ben-jamin",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Felipe Escalante Chuñocca"
+    ],
+    "designers": [
+      "Felipe Escalante C."
+    ],
+    "description": "Andean tapir, value below.",
+    "lettering": "TAPIR ANDINO\r\nTapirus pinchaque\r\n1 \r\nSOL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Mountain Tapir\r\nTapirus pinchaque\r\n1 \r\nSol",
+    "picture": "https://en.numista.com/catalogue/photos/perou/66893e6077ad91.87698385-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/66893e6077ad91.87698385-180.jpg",
+    "picture_copyright": "Ben-jamin",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "series": "Endangered Fauna from Peru",
+  "commemorated_topic": "Andean tapir",
+  "comments": "The Andean tapir (Tapirus pinchaque) is the smallest species of the four that exist in the world and live in the mountain ecosystems of Colombia, Ecuador and Peru. In our country, it is distributed from 2,000 to 4,000 meters, between the regions of Cajamarca, Piura and Lambayeque. This species is essentially solitary and is key to forest conservation montanos and páramos, because it disperses seeds, enriches the soil and promotes the presence of other species. Its total population is estimated at 2,500, of which about 400 would be in Peru. Part of these specimens inhabits the protected areas of the Tabaconas Namballe National Sanctuary and the Forest of Pagaibamba protection, both located in Cajamarca. In our country, it is categorized as a &quot;Critically Endangered&quot; species due to the loss and fragmentation of its habitat, its illegal hunting and capture. It&#039;s included in Appendix I of the CITES Convention.",
+  "related_types": [
+    {
+      "id": 118273,
+      "title": "1 Sol (Spectacled Bear)",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 2017,
+      "maxYear": 2017
+    },
+    {
+      "id": 128155,
+      "title": "1 Sol (Tumbes Crocodile)",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 2017,
+      "maxYear": 2017
+    },
+    {
+      "id": 130685,
+      "title": "1 Sol (Andean Condor)",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 2017,
+      "maxYear": 2017
+    },
+    {
+      "id": 141812,
+      "title": "1 Sol (White-winged Guan)",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 2018,
+      "maxYear": 2018
+    },
+    {
+      "id": 152515,
+      "title": "1 Sol (Jaguar)",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 2018,
+      "maxYear": 2018
+    },
+    {
+      "id": 156028,
+      "title": "1 Sol (Darwin's Rhea)",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 2018,
+      "maxYear": 2018
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "409"
+    }
+  ],
+  "weight": 7.32,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 297,
+      "name": "Lima"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

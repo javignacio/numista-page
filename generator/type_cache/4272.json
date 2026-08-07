@@ -1,0 +1,135 @@
+{
+  "id": 4272,
+  "url": "https://en.numista.com/4272",
+  "title": "1 Centavo",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "cuba",
+    "name": "Cuba"
+  },
+  "min_year": 1915,
+  "max_year": 1961,
+  "ruler": [
+    {
+      "id": 4117,
+      "name": "First Republic",
+      "wikidata_id": "Q14905932"
+    },
+    {
+      "id": 4118,
+      "name": "Second Republic",
+      "wikidata_id": "Q241"
+    }
+  ],
+  "value": {
+    "text": "1 Centavo",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 148,
+      "name": "Cuban Peso",
+      "full_name": "Cuban Peso (moneda nacional, 1914-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 16.76,
+  "thickness": 1.25,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (Copper 75%, Nickel 25%)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Charles Edward Barber"
+    ],
+    "description": "Cuban coat of arms. Curved legend with country name on top, curved legend with face value in letters on bottom. Line of denticles close to rim.",
+    "lettering": "REPUBLICA DE CUBA\r\n• UN CENTAVO •",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Cuba\r\nOne Centavo",
+    "picture": "https://en.numista.com/catalogue/photos/cuba/410-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/cuba/410-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "engravers": [
+      "Charles Edward Barber"
+    ],
+    "description": "Value in Roman numeral within circle over a five-pointed star and the motto \"Fatherland and Freedom\", date on excergue, weight and fineness on sides, line of denticles close to rim.",
+    "lettering": "PATRIA Y LIBERTAD\r\n• 2.5 G. • 1915 • 250M •",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Fatherland and Freedom\r\n2.5 g • 1915 • 250M",
+    "picture": "https://en.numista.com/catalogue/photos/cuba/411-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/cuba/411-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "1915-1946 minted at Philadelphia (USA),<br />\r\n1961 minted at Kremnica (Czechoslovakia)<br /><br />\r\nVariant differences:<br />\r\n<img src=\"https://en.numista.com/catalogue/images/5b82090caf08f.jpg\" alt=\"\" width=\"139\" height=\"151\" /><img src=\"https://en.numista.com/catalogue/images/5b82091cb304f.jpg\" alt=\"\" width=\"142\" height=\"139\" /><br />\r\nOn left: KM# 9.1 (&quot;2.5G.&quot;), issues from 1915, 1916, 1920 and 1938;<br />\r\nOn right: KM# 9.2 (&quot;2.5 GR.&quot;), issues from 1946 and 1961.",
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "9"
+    },
+    {
+      "catalogue": {
+        "id": 984,
+        "code": "JMA"
+      },
+      "number": "1, 2, 3, 4, 6, 9"
+    },
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "3"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "3"
+    }
+  ],
+  "weight": 2.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/cuba/6152e405cfe730.56949039-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/cuba/6152e405cfe730.56949039-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 1262,
+      "name": "Kremnica"
+    },
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

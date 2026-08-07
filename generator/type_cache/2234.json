@@ -1,0 +1,122 @@
+{
+  "id": 2234,
+  "url": "https://en.numista.com/2234",
+  "title": "5 Rand (SOUTH AFRICA - SUID-AFRIKA)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "afrique_du_sud",
+    "name": "South Africa"
+  },
+  "min_year": 1994,
+  "max_year": 1995,
+  "ruler": [
+    {
+      "id": 634,
+      "name": "Republic",
+      "wikidata_id": "Q258"
+    }
+  ],
+  "value": {
+    "text": "5 Rand",
+    "numeric_value": 5,
+    "currency": {
+      "id": 156,
+      "name": "Rand",
+      "full_name": "Rand (1961-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 26,
+  "thickness": 1.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated copper"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Arthur Sutherland"
+    ],
+    "description": "South Africa coat of arms, inscribed in a square, with the motto \"Ex Unitate Vires\" (Power Through Unity) with the country name in Afrikaans and English on both sides",
+    "lettering": "SOUTH AFRICA SUID-AFRIKA\r\nEX UNITATE VIRES\r\nALS 1994",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "South Africa South Africa\r\nPower Through Unity\r\nALS 1994",
+    "picture": "https://en.numista.com/catalogue/photos/afrique_du_sud/86-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/86-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Arthur Sutherland"
+    ],
+    "description": "Wildebeest below the value",
+    "lettering": "5 RAND\r\nALS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/afrique_du_sud/87-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/87-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "There are two unofficial variations, as listed below, which are thought to have been caused by worn punches.<br /><br />\r\n<span style=\"font-weight:bold;\">thinner</span> date (at the left) and <span style=\"font-weight:bold;\">lower</span> date (at the right) for 1994<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5d501381d2df4.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d501381d2df4.jpg\" alt=\"\" width=\"199\" height=\"53\" /></a><br /><br />\r\nLegends in the 11 Official Languages of the Republic of South Africa:<br />\r\nAfrikaans: Suid-Afrika<br />\r\nEnglish: South Africa<br />\r\nSesotho and Sepedi: Afrika Borwa<br />\r\nTswana: Aforika Borwa<br />\r\nXhosa: uMzantsi Afrika<br />\r\nZulu: iNingizimu Afrika<br />\r\nNdebele: iSewula frika<br />\r\nVenda: Afurika Tshipembe<br />\r\nsiSwati: Ningizimu Afrika<br />\r\nTsonga: Afrika Dzonga",
+  "tags": [
+    "Cow or bovine",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "140"
+    },
+    {
+      "catalogue": {
+        "id": 146,
+        "code": "Hern"
+      },
+      "number": "Nj2-3"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "177"
+    }
+  ],
+  "weight": 7,
+  "orientation": "medal",
+  "edge": {
+    "description": "Alternating segments of smooth and reeded parts (5 each)",
+    "picture": "https://en.numista.com/catalogue/photos/afrique_du_sud/697e329626b4c3.03216819-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/697e329626b4c3.03216819-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 1300,
+      "name": "South African Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

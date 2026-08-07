@@ -1,0 +1,150 @@
+{
+  "id": 3141,
+  "url": "https://en.numista.com/3141",
+  "title": "2 Qirsh / 10 Halalāt - Khālid",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "saudi-arabia-period",
+    "name": "Saudi Arabia (1932-date)"
+  },
+  "min_year": 1977,
+  "max_year": 1980,
+  "ruler": [
+    {
+      "id": 3137,
+      "name": "Khalid bin Abdulaziz",
+      "wikidata_id": "Q208301"
+    }
+  ],
+  "value": {
+    "text": "10 Halalas",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 164,
+      "name": "Riyal",
+      "full_name": "Riyal (1960-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21,
+  "thickness": 1.54,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Crossed swords and palm tree at center flanked by dates, legend above and below",
+    "lettering": "خالد بن عبد العزيز آل سعود\r\nملك المملكة العربية السعودية",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "Khalid bin Abd Al-Aziz Al Saud\r\nKing of the Kingdom of Saudi Arabia",
+    "picture": "https://en.numista.com/catalogue/photos/saudi-arabia-period/663250f3a3edd8.07280916-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/saudi-arabia-period/663250f3a3edd8.07280916-180.jpg",
+    "picture_copyright": "KennyG"
+  },
+  "reverse": {
+    "description": "Legend above inscription in circle dividing value, date below",
+    "lettering": "عشر هللات\r\n10\r\nقرشان\r\n١٠\r\n١٤٠٠ هـ",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "Ten Halala\r\nTwo Qirsh\r\n10\r\n1400",
+    "picture": "https://en.numista.com/catalogue/photos/saudi-arabia-period/663250f4158894.73396658-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/saudi-arabia-period/663250f4158894.73396658-180.jpg",
+    "picture_copyright": "KennyG"
+  },
+  "comments": "On the reverse the هـ (=Hijra) is placed on the left of the year for the 1400 issue and between the ٣ and the ٩ for the 1397 issue.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/58a706f80988e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/58a706f80988e.jpg\" alt=\"\" width=\"200\" height=\"139\" /></a><br /><br />\r\n1400 (1980) Specimen (Ex King&#039;s Norton Mint Collection):<br />\r\n<a href=\"https://en.numista.com/catalogue/images/59b7f8e21d104.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/59b7f8e21d104.jpg\" alt=\"\" width=\"187\" height=\"250\" /></a> <a href=\"https://en.numista.com/catalogue/images/59b7f8ef88a6c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/59b7f8ef88a6c.jpg\" alt=\"\" width=\"187\" height=\"250\" /></a><br />\r\n© Image courtesy of Heritage Auctions",
+  "related_types": [
+    {
+      "id": 4201,
+      "title": "1 Qirsh / 5 Halalāt - Khalid",
+      "category": "coin",
+      "country": {
+        "code": "saudi-arabia-period",
+        "name": "Saudi Arabia (1932-date)"
+      },
+      "minYear": 1977,
+      "maxYear": 1980
+    },
+    {
+      "id": 3142,
+      "title": "¼ Riyal / 25 Halālah - Khālid",
+      "category": "coin",
+      "country": {
+        "code": "saudi-arabia-period",
+        "name": "Saudi Arabia (1932-date)"
+      },
+      "minYear": 1977,
+      "maxYear": 1980
+    },
+    {
+      "id": 7843,
+      "title": "½ Riyal / 50 Halalah - Khālid",
+      "category": "coin",
+      "country": {
+        "code": "saudi-arabia-period",
+        "name": "Saudi Arabia (1932-date)"
+      },
+      "minYear": 1977,
+      "maxYear": 1980
+    },
+    {
+      "id": 3145,
+      "title": "1 Riyal / 100 Halalah - Khālid",
+      "category": "coin",
+      "country": {
+        "code": "saudi-arabia-period",
+        "name": "Saudi Arabia (1932-date)"
+      },
+      "minYear": 1976,
+      "maxYear": 1980
+    }
+  ],
+  "tags": [
+    "Tree",
+    "Coat of Arms",
+    "Cold weapons"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "54"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "36"
+    }
+  ],
+  "weight": 4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

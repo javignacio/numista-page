@@ -1,0 +1,119 @@
+{
+  "id": 324410,
+  "url": "https://en.numista.com/324410",
+  "title": "20 Céntimos (With braille)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "perou",
+    "name": "Peru"
+  },
+  "min_year": 1991,
+  "max_year": 2000,
+  "ruler": [
+    {
+      "id": 3757,
+      "name": "Republic",
+      "wikidata_id": "Q419"
+    }
+  ],
+  "value": {
+    "text": "20 Centimos",
+    "numeric_value": 0.2,
+    "currency": {
+      "id": 184,
+      "name": "Nuevo sol",
+      "full_name": "Nuevo sol (1991-2015) / Sol (2016-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23,
+  "thickness": 1.32,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms of Peru surrounded by legend.",
+    "lettering": "BANCO CENTRAL DE RESERVA DEL PERÚ\r\n1994",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Reserve Bank of Peru",
+    "picture": "https://en.numista.com/catalogue/photos/perou/6350b19aa4b5f0.86582223-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/6350b19aa4b5f0.86582223-180.jpg",
+    "picture_copyright": "ciscoins",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Denomination flanked by Chimu designs from city of Chan Chan, all with braille above.",
+    "lettering": "20 \r\nCÉNTIMOS",
+    "lettering_scripts": [
+      {
+        "name": "Braille"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/perou/6350b19ae05188.53233701-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/6350b19ae05188.53233701-180.jpg",
+    "picture_copyright": "ciscoins",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "KM#306.1<br />\r\nThe 1993 exists with and without Chavez signature.<br /><br />\r\nKM#306.1<br />\r\n<a href=\"https://en.numista.com/catalogue/images/55aba654e5efb.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/55aba654e5efb.jpg\" alt=\"\" width=\"197\" height=\"200\" /></a><a href=\"https://en.numista.com/catalogue/images/55aba64b0ecb4.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/55aba64b0ecb4.jpg\" alt=\"\" width=\"194\" height=\"200\" /></a><br />\r\nKM#306.1 A &amp; B<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5641c6eda4fa4.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5641c6eda4fa4.jpg\" alt=\"\" width=\"200\" height=\"75\" /></a>",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "306.1"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "105"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "306.2"
+    },
+    {
+      "catalogue": {
+        "id": 2898,
+        "code": "Galst/Alfen"
+      },
+      "number": "X.36"
+    }
+  ],
+  "weight": 4.43,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 297,
+      "name": "Lima"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

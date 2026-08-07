@@ -1,0 +1,123 @@
+{
+  "id": 311195,
+  "url": "https://en.numista.com/311195",
+  "title": "2 Rupees (75th Year of Independence)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "inde",
+    "name": "India"
+  },
+  "min_year": 2021,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 2943,
+      "name": "Republic",
+      "wikidata_id": "Q668"
+    }
+  ],
+  "value": {
+    "text": "2 Rupees",
+    "numeric_value": 2,
+    "currency": {
+      "id": 171,
+      "name": "Rupee",
+      "full_name": "Rupee (decimalized, 1957-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Ashoka Pillar Lion Capitol",
+    "lettering": "भारत INDIA\r\nसत्यमेव जयते",
+    "lettering_scripts": [
+      {
+        "name": "Devanagari"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/inde/62a7e61775a1f9.97827753-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/inde/62a7e61775a1f9.97827753-180.jpg",
+    "picture_copyright": "Ponpandi Perumal",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Logo of Azadi Ka Amrit Mahotsav",
+    "lettering": "75th Year of Independence\r\n₹\r\n2\r\n2022",
+    "lettering_scripts": [
+      {
+        "name": "Devanagari"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/inde/62a7e6187575a9.39887189-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/inde/62a7e6187575a9.39887189-180.jpg",
+    "picture_copyright": "Ponpandi Perumal",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "series": "Azadi Ka Amrit Mahotsav",
+  "comments": "<p>The edge again:<br>[img mini]catalogue/63dfb2cac98c4.jpg[/img]</p>",
+  "tags": [
+    "Cat or feline",
+    "Independence",
+    "Coat of Arms",
+    "Flag"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "539"
+    }
+  ],
+  "weight": 4.07,
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/inde/68ea19ea421100.39542931-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/inde/68ea19ea421100.39542931-180.jpg",
+    "picture_copyright": "Vidushi",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 1803,
+      "name": "Kolkata / Calcutta / Murshidabad"
+    },
+    {
+      "id": 1805,
+      "name": "Noida"
+    },
+    {
+      "id": 1806,
+      "name": "Hyderabad"
+    },
+    {
+      "id": 1804,
+      "name": "Mumbai / Bombay"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

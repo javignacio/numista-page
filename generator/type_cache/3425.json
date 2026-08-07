@@ -1,0 +1,143 @@
+{
+  "id": 3425,
+  "url": "https://en.numista.com/3425",
+  "title": "10 Pfennigs (Bank of German States)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "allemagne",
+    "name": "Germany, Federal Republic of"
+  },
+  "min_year": 1949,
+  "max_year": 1949,
+  "ruler": [
+    {
+      "id": 2860,
+      "name": "Federal Republic",
+      "wikidata_id": "Q183"
+    }
+  ],
+  "value": {
+    "text": "10 Pfennigs",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 131,
+      "name": "Deutsche Mark",
+      "full_name": "Deutsche Mark (1948-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2001-12-31"
+  },
+  "size": 21.5,
+  "thickness": 1.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass clad steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Adolf Jäger"
+    ],
+    "description": "An oak seedling",
+    "lettering": "BANK DEUTSCHER LÄNDER\r\n1949",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Bank of the German States\r\n1949",
+    "picture": "https://en.numista.com/catalogue/photos/allemagne/1057-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/1057-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Adolf Jäger"
+    ],
+    "description": "Face value between two rye ears and the mintmark at the top",
+    "lettering": "G\r\n10\r\nPFENNIG",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/allemagne/1058-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/1058-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "1949D 2 different rye ears<br />\r\n<a href=\"https://en.numista.com/catalogue/images/63ef8c83b227b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/63ef8c83b227b.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\n1949J large / small J<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5ac760011eaab.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5ac760011eaab.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "related_types": [
+    {
+      "id": 850,
+      "title": "10 Pfennig",
+      "category": "coin",
+      "country": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+      },
+      "minYear": 1950,
+      "maxYear": 2001
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "103"
+    },
+    {
+      "catalogue": {
+        "id": 80,
+        "code": "J"
+      },
+      "number": "378"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "101"
+    }
+  ],
+  "weight": 4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Smooth. Brass plating partly stretched over steel core.",
+    "picture": "https://en.numista.com/catalogue/photos/allemagne/697fac7a05bc52.80907462-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/697fac7a05bc52.80907462-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 1,
+      "name": "Munich"
+    },
+    {
+      "id": 2,
+      "name": "Staatliche Münze Baden-Württemberg"
+    },
+    {
+      "id": 3,
+      "name": "Staatliche Münze Baden-Württemberg"
+    },
+    {
+      "id": 4,
+      "name": "Hamburgische Münze"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

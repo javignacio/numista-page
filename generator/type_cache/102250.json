@@ -1,0 +1,133 @@
+{
+  "id": 102250,
+  "url": "https://en.numista.com/102250",
+  "title": "500 Rupiah (T. B. Simatupang)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "indonesie",
+    "name": "Indonesia (1949-date)"
+  },
+  "issuing_entity": {
+    "id": 574,
+    "name": "Bank Indonesia",
+    "wikidata_id": "Q1906161"
+  },
+  "min_year": 2016,
+  "max_year": 2016,
+  "ruler": [
+    {
+      "id": 4071,
+      "name": "Republic",
+      "wikidata_id": "Q252"
+    }
+  ],
+  "value": {
+    "text": "500 Rupiah",
+    "numeric_value": 500,
+    "currency": {
+      "id": 172,
+      "name": "Rupiah",
+      "full_name": "Rupiah (1965-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 27.2,
+  "thickness": 2.35,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The national emblem of Indonesia (Garuda Pancasila) and the portrait of the national hero of Indonesia",
+    "lettering": "REPUBLIK INDONESIA\r\nLETJEN TNI T. B. SIMATUPANG",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Indonesia\r\nLieutenant General TNI (Indonesian National Armed Forces) T. B. Simatupang",
+    "picture": "https://en.numista.com/catalogue/photos/indonesie/351-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/indonesie/351-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "reverse": {
+    "description": "The value above the date",
+    "lettering": "BANK INDONESIA\r\n500 \r\nRUPIAH\r\n2016",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/indonesie/352-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/indonesie/352-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "related_types": [
+    {
+      "id": 102248,
+      "title": "100 Rupiah (Herman Johannes)",
+      "category": "coin",
+      "country": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "minYear": 2016,
+      "maxYear": 2016
+    },
+    {
+      "id": 102249,
+      "title": "200 Rupiah (Dr. Tjiptomangunkusumo)",
+      "category": "coin",
+      "country": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "minYear": 2016,
+      "maxYear": 2016
+    },
+    {
+      "id": 102251,
+      "title": "1000 Rupiah (I Gusti Ketut Pudja)",
+      "category": "coin",
+      "country": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "minYear": 2016,
+      "maxYear": 2016
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "73"
+    }
+  ],
+  "weight": 3.1,
+  "orientation": "medal",
+  "edge": {
+    "description": "Segmented reeding",
+    "picture": "https://en.numista.com/catalogue/photos/indonesie/346-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/indonesie/346-180.jpg",
+    "picture_copyright": "Kevin Fernando"
+  },
+  "mints": [
+    {
+      "id": 4154,
+      "name": "Perum Peruri"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

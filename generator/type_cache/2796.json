@@ -1,0 +1,137 @@
+{
+  "id": 2796,
+  "url": "https://en.numista.com/2796",
+  "title": "10 Won",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "coree_du_sud",
+    "name": "South Korea"
+  },
+  "issuing_entity": {
+    "id": 687,
+    "name": "Bank of Korea",
+    "wikidata_id": "Q485531"
+  },
+  "min_year": 1970,
+  "max_year": 1982,
+  "ruler": [
+    {
+      "id": 3992,
+      "name": "Republic",
+      "wikidata_id": "Q884"
+    }
+  ],
+  "value": {
+    "text": "10 Won",
+    "numeric_value": 10,
+    "currency": {
+      "id": 196,
+      "name": "New won",
+      "full_name": "New won (1962-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1970-07-16"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 22.86,
+  "thickness": 1.4,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass (65% copper, 35% zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Kang Bak"
+    ],
+    "description": "Dabotap Pagoda, located in Gyeongju, one of the national treasures of South Korea along with the value and \"Bank of Korea\" (Hangul)",
+    "lettering": "십\r\n원\r\n한국은행",
+    "lettering_scripts": [
+      {
+        "name": "Hangul"
+      }
+    ],
+    "lettering_translation": "Ten\r\nWon\r\nBank of Korea",
+    "picture": "https://en.numista.com/catalogue/photos/coree_du_sud/5e30ef9ed1ff91.57648137-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/5e30ef9ed1ff91.57648137-180.jpg",
+    "picture_copyright": "gdch6ng",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Kang Bak"
+    ],
+    "description": "The value to the right of the issuer above the date",
+    "lettering": "10\r\nTHE\r\nBANK\r\nOF\r\nKOREA\r\n1970",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/coree_du_sud/5e30ef9f63cbe4.01464159-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/5e30ef9f63cbe4.01464159-180.jpg",
+    "picture_copyright": "gdch6ng",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "related_types": [
+    {
+      "id": 2646,
+      "title": "10 Won",
+      "category": "coin",
+      "country": {
+        "code": "coree_du_sud",
+        "name": "South Korea"
+      },
+      "minYear": 1966,
+      "maxYear": 1970
+    }
+  ],
+  "tags": [
+    "Religious building"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "6a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "56a"
+    }
+  ],
+  "weight": 4.06,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/coree_du_sud/388-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/388-180.jpg",
+    "picture_copyright": "Jasanche",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 1299,
+      "name": "Korea Minting and Security Printing Corporation"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

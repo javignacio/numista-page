@@ -1,0 +1,112 @@
+{
+  "id": 9555,
+  "url": "https://en.numista.com/9555",
+  "title": "½ Balboa",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "panama",
+    "name": "Panama"
+  },
+  "min_year": 1996,
+  "max_year": 2019,
+  "ruler": [
+    {
+      "id": 4072,
+      "name": "Republic",
+      "wikidata_id": "Q804"
+    }
+  ],
+  "value": {
+    "text": "½ Balboa",
+    "numeric_value": 0.5,
+    "numerator": 1,
+    "denominator": 2,
+    "currency": {
+      "id": 5,
+      "name": "Balboa",
+      "full_name": "Balboa (1904-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 30.61,
+  "thickness": 2.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel clad copper"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms with 9 or 10 stars above. Name of the country above, date below.",
+    "lettering": "REPUBLICA DE PANAMA\r\n*********\r\nPRO MUNDI BENEFICIO\r\n2001",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Panama\r\nFor the Benefit of the World",
+    "picture": "https://en.numista.com/catalogue/photos/panama/502-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/panama/502-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "reverse": {
+    "description": "Armoured bust with helmet of Vasco Núñez de Balboa facing left surrounded by value in letters and wreath. The bust touches the rim below.",
+    "lettering": "MEDIO - BALBOA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Half Balboa",
+    "picture": "https://en.numista.com/catalogue/photos/panama/501-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/panama/501-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "comments": "Balboa was a Spaniard, first European who crossed the Isthmus, reached the Pacific by land and discovered the Perlas Archipelago (1513).<br /><br />\r\nThe 9 stars on KM#133.1 represent the 9 provinces of the country at that time. KM#133.2 has 10 stars, as on Januari 1st, 2014 Panamá Oeste became the tenth province of Panama. From that day onward, the Coat of Arms has 10 gold stars.<br />\r\nFrom 2017 onward, &#039;REPUBLICA&#039; is spelled as &#039;REPÚBLICA&#039; on these coins.<br />\r\nOther differences between the 2001 and 2008 coins (KM#126.1) and KM#126.2:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/651425eae1946.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/651425eae1946.jpg\" alt=\"\" width=\"200\" height=\"130\" /></a><br /><br />\r\nSince its separation from Colombia in 1903, Panama has used the United States Dollar. These coins have the same specifications as the <a href=\"https://en.numista.com/6918\">United States Half Dollar</a> and circulate alongside it.",
+  "tags": [
+    "Explorer",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "129.1"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "129.2"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "111"
+    }
+  ],
+  "weight": 11.34,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,107 @@
+{
+  "id": 21776,
+  "url": "https://en.numista.com/21776",
+  "title": "1 Qirsh - Abdul Hamid II",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "egypte",
+    "name": "Egypt"
+  },
+  "min_year": 1885,
+  "max_year": 1908,
+  "ruler": [
+    {
+      "id": 2896,
+      "name": "Abdul Hamid II",
+      "wikidata_id": "Q134817",
+      "nomisma_id": "abdulhamid_ii",
+      "group": {
+        "id": 162,
+        "name": "Khedivate of Egypt"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Qirsh",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 6203,
+      "name": "Pound",
+      "full_name": "Pound (1834-1916)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 16,
+  "thickness": 0.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.833)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Flower at right of tughra\r\nNOTE: The mintmark is at the very bottom of the coin, below the two quivers",
+    "lettering": "١\r\nش\r\nW",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "1 Qirsh",
+    "picture": "https://en.numista.com/catalogue/photos/egypte/609-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/egypte/609-180.jpg",
+    "picture_copyright": "Don Evans"
+  },
+  "reverse": {
+    "description": "Year and date within wreath",
+    "lettering": "١٧\r\nضرب في\r\nمصر\r\n١٢٩٣",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "Struck in Egypt\r\n1293",
+    "picture": "https://en.numista.com/catalogue/photos/egypte/610-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/egypte/610-180.jpg",
+    "picture_copyright": "Don Evans"
+  },
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "292"
+    },
+    {
+      "catalogue": {
+        "id": 2245,
+        "code": "MHC"
+      },
+      "number": "166"
+    }
+  ],
+  "weight": 1.4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Milled"
+  },
+  "mints": [
+    {
+      "id": 18,
+      "name": "Heaton and Sons / The Mint Birmingham"
+    },
+    {
+      "id": 5,
+      "name": "Berlin"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

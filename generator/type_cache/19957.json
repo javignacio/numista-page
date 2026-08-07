@@ -1,0 +1,115 @@
+{
+  "id": 19957,
+  "url": "https://en.numista.com/19957",
+  "title": "5 Øre - Haakon VII",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "norvege",
+    "name": "Norway"
+  },
+  "min_year": 1917,
+  "max_year": 1920,
+  "ruler": [
+    {
+      "id": 449,
+      "name": "Haakon VII",
+      "wikidata_id": "Q154927",
+      "group": {
+        "id": 358,
+        "name": "House of Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Øre",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 16,
+      "name": "Krone",
+      "full_name": "Krone (1875-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 27,
+  "thickness": 1.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Iron (Fe 99.9%, C 0.1%)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Crowned monogram of Haakon VII, in a solid ring. Surrounded by inscription. Solid ring on the rim.",
+    "lettering": "⸰KONGERIKET⸰NORGE⸰\r\nH7",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Kingdom of Norway",
+    "picture": "https://en.numista.com/catalogue/photos/norvege/802-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/802-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "reverse": {
+    "description": "Value and date in three lines. A triskelion on each side of the value and below the date. Date divided by mintmark. Solid ring on the rim.",
+    "lettering": "5\r\nØRE\r\n19 ⚒ 19",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/norvege/803-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/803-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "comments": "<p><a href=\"https://en.numista.com/catalogue/images/674562d26e6af.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/674562d26e6af.jpg\"></a></p>",
+  "related_types": [
+    {
+      "id": 1434,
+      "title": "5 Øre - Haakon VII",
+      "category": "coin",
+      "country": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "minYear": 1908,
+      "maxYear": 1952
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "368a"
+    },
+    {
+      "catalogue": {
+        "id": 201,
+        "code": "Rønning"
+      },
+      "number": "258"
+    }
+  ],
+  "weight": 6.96,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain."
+  },
+  "mints": [
+    {
+      "id": 1888,
+      "name": "Norwegian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

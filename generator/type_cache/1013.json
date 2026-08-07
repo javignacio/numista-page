@@ -1,0 +1,124 @@
+{
+  "id": 1013,
+  "url": "https://en.numista.com/1013",
+  "title": "1 Farthing - Victoria (2nd portrait; 2nd type)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1874,
+  "max_year": 1895,
+  "ruler": [
+    {
+      "id": 270,
+      "name": "Victoria",
+      "wikidata_id": "Q9439",
+      "nomisma_id": "queen_victoria",
+      "group": {
+        "id": 525,
+        "name": "House of Hanover"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Farthing",
+    "numeric_value": 0.0010416666666666667,
+    "numerator": 1,
+    "denominator": 960,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1970)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1960-12-31"
+  },
+  "size": 20,
+  "thickness": 1.3,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Leonard Charles Wyon"
+    ],
+    "description": "Second laureate portrait ('Bun Head') of Queen Victoria facing left, legend around.",
+    "lettering": "VICTORIA D:G: BRITT:REG:F:D:",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Victoria Dei Gratia Britanniarum Regina Fidei Defensatrix",
+    "lettering_translation": "Victoria by the Grace of God Queen of the Britains Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/5f234f3fed78a5.03501850-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/5f234f3fed78a5.03501850-180.jpg",
+    "picture_copyright": "RRnumismatics"
+  },
+  "reverse": {
+    "engravers": [
+      "Leonard Charles Wyon"
+    ],
+    "description": "Seated figure of Britannia facing right, trident in left hand, shield with Union flag in right hand, denomination above, date in exergue, sea behind with lighthouse on left and ship on right.\r\n\r\nNote: mintmark (if present) below date",
+    "lettering": "F A R T H I N G\r\n1874\r\nH",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/5f234f40632498.64238625-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/5f234f40632498.64238625-180.jpg",
+    "picture_copyright": "RRnumismatics"
+  },
+  "comments": "The denomination &#039;farthing&#039; originated from &#039;four-thing&#039; as four of them totalled one penny.<br /><br />\r\nThe original weight of these pieces was 160 to the pound avoirdupois (1/10 ounce or 43.75 grains).<br /><br />\r\n<span style=\"font-style:italic;\">Mintmark variety:</span><br /><br />\r\n<span style=\"font-weight:bold;\">Sp#3958</span> no mintmark below date - struck at the Royal Mint, Tower Hill, London.<br />\r\n<span style=\"font-weight:bold;\">Sp#3959</span> &#039;H&#039; mintmark below date - struck at Ralph Heaton &amp; Sons, Birmingham.<br /><br />\r\nAll Royal Mint coins 1875-78 have a &#039;R&#039; with a forked tail; the Heaton issues do not. Consequently, an 1875 with a forked &#039;R&#039; might well be an 1875H with the &#039;H&#039; removed to increase its value.<br /><br />\r\nFor more detailed information on Victorian farthing varieties, please visit <a href=\"http://aboutfarthings.co.uk/catalogue/uk-farthings/victoria-1838-1901/\" rel=\"nofollow\">About farthings</a>.",
+  "tags": [
+    "Armour",
+    "Lighthouse",
+    "Sea",
+    "Boat or watercraft",
+    "Cross"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "753"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "3958/9"
+    }
+  ],
+  "weight": 2.83,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 18,
+      "name": "Heaton and Sons / The Mint Birmingham"
+    },
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

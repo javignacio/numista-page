@@ -1,0 +1,179 @@
+{
+  "id": 573,
+  "url": "https://en.numista.com/573",
+  "title": "20 Pence - Elizabeth II (4th portrait; Tudor Rose)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1998,
+  "max_year": 2008,
+  "ruler": [
+    {
+      "id": 275,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 527,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "20 Pence",
+    "numeric_value": 0.2,
+    "currency": {
+      "id": 126,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (decimalized, 1971-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21.4,
+  "thickness": 1.7,
+  "shape": "Equilateral curve heptagon (7-sided)",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Ian Rank-Broadley"
+    ],
+    "description": "Fourth crowned portrait of Queen Elizabeth II right, wearing the Girls of Great Britain and Ireland tiara, legend around.",
+    "lettering": "ELIZABETH II\r\nIRB\r\nD·G·REG·F·D",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Elizabeth II Dei Gratia Regina Fidei Defensatrix",
+    "lettering_translation": "Elizabeth II by the Grace of God Queen Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/95-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/95-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "William Maving Gardner"
+    ],
+    "description": "Crowned Tudor rose dividing date and legend, denomination below.",
+    "lettering": "TWENTY PENCE\r\n20 00\r\nW G\r\n20",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/96-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/96-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "<p>For the 2008 issue some strikes seem to be missing part of one leaf, it is likely due to worn dies. Also, in 2008 a <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.numista.com/101474\">mule </a>was accidently introduced using the obverse from this coin with the Matthew Dent Royal Shield reverse.</p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/695bb2984af40.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/695bb2984af40.jpg\"></a></p><p>&nbsp;</p><p>Reports have been received regarding 2000, 2001 and 2002 dated issues having a slightly different shaped 2 than the rest of this series. In the examples below, the top of the 2 in 2000 ends in a curved drop while the top of the 2 in 2005 ends in a straight line.<br><br><a href=\"https://en.numista.com/catalogue/images/5c6936c1d3a81.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5c6936c1d3a81.jpg\" alt=\"\"></a><a href=\"https://en.numista.com/catalogue/images/5c6936ccb0912.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5c6936ccb0912.jpg\" alt=\"\"></a><br>&nbsp;</p>",
+  "related_types": [
+    {
+      "id": 205342,
+      "title": "20 Pence - Elizabeth II (4th portrait; Tudor Rose, Silver Proof)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2000,
+      "maxYear": 2008
+    },
+    {
+      "id": 279964,
+      "title": "20 Pence - Elizabeth II (4th Portrait; Tudor Rose, Gold Proof)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2002,
+      "maxYear": 2008
+    },
+    {
+      "id": 101474,
+      "title": "20 Pence - Elizabeth II (4th portrait; Undated mule)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2008,
+      "maxYear": 2008
+    },
+    {
+      "id": 279965,
+      "title": "20 Pence - Elizabeth II (4th Portrait; Tudor Rose, Platinum Proof)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2008,
+      "maxYear": 2008
+    },
+    {
+      "id": 5628,
+      "title": "20 Pence - Elizabeth II (4th portrait; Royal Shield)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2008,
+      "maxYear": 2015
+    }
+  ],
+  "tags": [
+    "Crown",
+    "Flower"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "990"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "G3"
+    }
+  ],
+  "weight": 5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/68f3743f216828.71851559-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/68f3743f216828.71851559-180.jpg",
+    "picture_copyright": "Vidushi",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

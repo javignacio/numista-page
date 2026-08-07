@@ -1,0 +1,149 @@
+{
+  "id": 211545,
+  "url": "https://en.numista.com/211545",
+  "title": "10 Soles",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "perou",
+    "name": "Peru"
+  },
+  "issuing_entity": {
+    "id": 936,
+    "name": "Central Reserve Bank of Peru",
+    "wikidata_id": "Q932146"
+  },
+  "min_year": 2016,
+  "max_year": 2018,
+  "ruler": [
+    {
+      "id": 3757,
+      "name": "Republic",
+      "wikidata_id": "Q419"
+    }
+  ],
+  "value": {
+    "text": "10 Soles",
+    "numeric_value": 10,
+    "currency": {
+      "id": 184,
+      "name": "Nuevo sol",
+      "full_name": "Nuevo sol (1991-2015) / Sol (2016-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 140,
+  "size2": 65,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Multicoloured green, orange, and red print.\r\nPortrait of José Abelardo Quiñones Gonzáles; on background, Jose Abelardo Quiñones Gonzáles performing an extreme acrobatic presentation with a plane \"Caproni 113\" on the day of his graduation in the flight school \"Central de Aeronáutica - Jorge Chávez\"; issuer name on top, face value in numbers and letters at center, black serial #s horizontal on lower left, and vertical on right edge, both with prefix and suffix letters. Issuing date above left serial #s. 3 signatures with titles at center",
+    "lettering": "BANCO CENTRAL DE RESERVA DEL PERÚ\r\n10 SOLES\r\n10 DE MARZO DE 2016\r\nJOSE ABELARDO QUIÑONES GONZALEZ",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Reserve Bank of Peru\r\n10 Soles\r\nMarch 10th., 2016\r\nJosé Abelardo Quiñones González",
+    "picture": "https://en.numista.com/catalogue/photos/perou/623b66a7eb09f9.66336699-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/623b66a7eb09f9.66336699-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Multicoloured orange and green print.\r\nCity of Machu Picchu, Cusco to left, Peruvian coat of Arms on the center, Inca jar on the left; face value in number on lower left, in letters on top left.",
+    "lettering": "DIEZ SOLES\r\nMACHU PICCHU - CUSCO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Ten Soles\r\nMacchu Pichu, Cusco",
+    "picture": "https://en.numista.com/catalogue/photos/perou/623b66a8980008.72166184-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/623b66a8980008.72166184-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p>UV activity:</p><p><a href=\"https://en.numista.com/catalogue/images/66d1dba0cd61d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/66d1dba0cd61d.jpg\"></a></p><p><a href=\"https://en.numista.com/catalogue/images/66d1dbaaa87df.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/66d1dbaaa87df.jpg\"></a></p><p>© Kiet Tran</p><p>&nbsp;</p><p>Security thread - only visible when the banknote is placed under a backlight, inscription “PERU 10 BCRP” repeated throughout:</p><p><a href=\"https://en.numista.com/catalogue/images/66d27845b8330.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/66d27845b8330.jpg\"></a></p><p>© Kiet Tran</p><p>&nbsp;</p><p>Denomination “10” at left-centre on obverse side printed in colour-shifting ink - switching colours between purple and gold:</p><p><a href=\"https://en.numista.com/catalogue/images/66d1dc3a5eb3d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/66d1dc3a5eb3d.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/66d1dc3d5dd8f.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/66d1dc3d5dd8f.jpg\"></a></p><p>© Kiet Tran<br>When tilted, on the shoulder of Gonzáles “10” is revealed:<br><a href=\"https://en.numista.com/catalogue/images/6952db37bbdc2.webp\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6952db37bbdc2.webp\"></a><br>@ByRussia45</p><p>&nbsp;</p><p>Reform of the name of the monetary unit to \"SOLES\", removing the word \"NUEVOS\" (new)</p>",
+  "related_types": [
+    {
+      "id": 207000,
+      "title": "10 Nuevos Soles",
+      "category": "banknote",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 2009,
+      "maxYear": 2009
+    },
+    {
+      "id": 208348,
+      "title": "10 Nuevos Soles",
+      "category": "banknote",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 2013,
+      "maxYear": 2013
+    }
+  ],
+  "tags": [
+    "Military leader",
+    "Mountain",
+    "Plane or aircraft",
+    "Town",
+    "Coat of Arms",
+    "Latent image",
+    "Micro inscriptions",
+    "Photoluminescence"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "192"
+    },
+    {
+      "catalogue": {
+        "id": 936,
+        "code": "TBB"
+      },
+      "number": "532"
+    },
+    {
+      "catalogue": {
+        "id": 2214,
+        "code": "BCRP"
+      },
+      "number": "266"
+    }
+  ],
+  "watermark": {
+    "description": "José Abelardo Quiñones Gonzáles / plane and Electrotype 10",
+    "picture": "https://en.numista.com/catalogue/photos/perou/662a770e1cab71.29023193-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/662a770e1cab71.29023193-180.jpg",
+    "picture_copyright": "Leandro.brito",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "printers": [
+    {
+      "id": "7",
+      "name": "Oberthur Fiduciaire"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

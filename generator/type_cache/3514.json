@@ -1,0 +1,101 @@
+{
+  "id": 3514,
+  "url": "https://en.numista.com/3514",
+  "title": "2 Ngwee",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "zambie",
+    "name": "Zambia"
+  },
+  "min_year": 1982,
+  "max_year": 1983,
+  "ruler": [
+    {
+      "id": 933,
+      "name": "Republic",
+      "wikidata_id": "Q953"
+    }
+  ],
+  "value": {
+    "text": "2 Ngwee",
+    "numeric_value": 0.02,
+    "currency": {
+      "id": 93,
+      "name": "Kwacha",
+      "full_name": "Kwacha (1968-2012)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2013-07-01"
+  },
+  "size": 21.1,
+  "thickness": 1.88,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper clad steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Kenneth Kaunda, president of Zambia, facing right, date below.",
+    "lettering": "ZAMBIA\r\n1983",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/zambie/261-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/zambie/261-180.jpg",
+    "picture_copyright": "gef"
+  },
+  "reverse": {
+    "description": "Flying Martial Eagle, value beside",
+    "lettering": "TWO\r\nNGWEE\r\n2",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/zambie/262-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/zambie/262-180.jpg",
+    "picture_copyright": "gef"
+  },
+  "comments": "<p>Due to high inflation starting in the late 1980s, these coins fell out of circulation by 1992.</p>",
+  "tags": [
+    "Bird",
+    "Eagle",
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "10a"
+    }
+  ],
+  "weight": 4.19,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain, Steel core partly visible",
+    "picture": "https://en.numista.com/catalogue/photos/zambie/692340abc3e2a9.89690374-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/zambie/692340abc3e2a9.89690374-180.jpg",
+    "picture_copyright": "Vidushi",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

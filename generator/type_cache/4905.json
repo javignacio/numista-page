@@ -1,0 +1,131 @@
+{
+  "id": 4905,
+  "url": "https://en.numista.com/4905",
+  "title": "10 Centavos (Copper-Nickel)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bolivie",
+    "name": "Bolivia"
+  },
+  "min_year": 1935,
+  "max_year": 1939,
+  "ruler": [
+    {
+      "id": 4379,
+      "name": "Republic",
+      "wikidata_id": "Q750"
+    }
+  ],
+  "value": {
+    "text": "10 Centavos",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 293,
+      "name": "First boliviano",
+      "full_name": "First boliviano (1864-1963)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1951-00-00"
+  },
+  "size": 22.5,
+  "thickness": 1.38,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Bolivian coat of arms within a beaded oval: the sun over two mountains (Cerro Rico and Cerro Menor in Potosi), a chapel, a palm tree, a wheat sheaf and a lama. Nine stars below which symbolize the nine departments.",
+    "lettering": "REPUBLICA DE BOLIVIA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Bolivia",
+    "picture": "https://en.numista.com/catalogue/photos/bolivie/6016cf42550910.24264862-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bolivie/6016cf42550910.24264862-180.jpg",
+    "picture_copyright": "jasanche",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Caduceus (a staff entwined by two serpents, surmounted by wings) divides denomination, olive sprays below, date at bottom.",
+    "lettering": "DIEZ CENTAVOS\r\n10 C\r\n1939",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Ten Centavos\r\n10 c (cents)\r\n1939",
+    "picture": "https://en.numista.com/catalogue/photos/bolivie/6016cf42f2fb67.70829449-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bolivie/6016cf42f2fb67.70829449-180.jpg",
+    "picture_copyright": "jasanche",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "related_types": [
+    {
+      "id": 10145,
+      "title": "5 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "bolivie",
+        "name": "Bolivia"
+      },
+      "minYear": 1935,
+      "maxYear": 1935
+    }
+  ],
+  "tags": [
+    "Camel or camelid",
+    "Mountain",
+    "Tree",
+    "Caduceus",
+    "Coat of Arms",
+    "Sun"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "179"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "B9"
+    }
+  ],
+  "weight": 4.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/bolivie/698f53c7f22fe8.47044186-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bolivie/698f53c7f22fe8.47044186-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 292,
+      "name": "Huguenin"
+    },
+    {
+      "id": 232,
+      "name": "Münze Österreich"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

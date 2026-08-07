@@ -1,0 +1,126 @@
+{
+  "id": 5683,
+  "url": "https://en.numista.com/5683",
+  "title": "5 Markkaa",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "finlande",
+    "name": "Finland"
+  },
+  "min_year": 1952,
+  "max_year": 1953,
+  "ruler": [
+    {
+      "id": 3291,
+      "name": "Republic",
+      "wikidata_id": "Q33"
+    }
+  ],
+  "value": {
+    "text": "5 Markkaa",
+    "numeric_value": 5,
+    "currency": {
+      "id": 1156,
+      "name": "Markka",
+      "full_name": "Markka (1860-1963)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 18,
+  "thickness": 1.55,
+  "shape": "Round",
+  "composition": {
+    "text": "Iron"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Peippo Uolevi Helle"
+    ],
+    "description": "Four joined loops form design, date below.",
+    "lettering": "SUOMEN TASAVALTA\r\n• 1952 •",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Finland",
+    "picture": "https://en.numista.com/catalogue/photos/finlande/600b01865602e6.36846615-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/600b01865602e6.36846615-180.jpg",
+    "picture_copyright": "Eagle68",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Peippo Uolevi Helle"
+    ],
+    "description": "Grasped hands flank denomination.",
+    "lettering": "5 \r\nMARKKAA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/finlande/600b01872371c0.66302743-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/600b01872371c0.66302743-180.jpg",
+    "picture_copyright": "Eagle68",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p style=\"margin-left:0px;\"><br>Two main groups of the reverse are known.&nbsp;</p><p style=\"margin-left:0px;\">&nbsp;</p><p style=\"margin-left:0px;\"><i>Reverse</i><br>Die <strong>A</strong> - Kalevala's ornament to the left of denomination \"5\" close to it.<br>Die <strong>B</strong> - Kalevala's ornament to the left of denomination \"5\" far from it.</p><p style=\"margin-left:0px;\"><br><i>Combinations</i><br><strong>A</strong>: 1952 (see main photos of the article), 1953.<br><strong>B</strong>: 1953. Picture: © Images courtesy of Alexandr Prokofyev.</p><p style=\"margin-left:0px;\"><a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.numista.com/catalogue/images/6602910437d08.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6602910437d08.jpg\"></a></p><p style=\"margin-left:0px;\">&nbsp;</p><p style=\"margin-left:0px;\"><a href=\"https://en.numista.com/catalogue/images/660aad793638a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/660aad793638a.jpg\"></a></p><p style=\"margin-left:0px;\">&nbsp;</p><p style=\"margin-left:0px;\"><i>Note</i>. Die <strong>B</strong> was in use during the next emission struck on nickel plated iron blanks till 1962.</p>",
+  "related_types": [
+    {
+      "id": 5057,
+      "title": "5 Markkaa",
+      "category": "coin",
+      "country": {
+        "code": "finlande",
+        "name": "Finland"
+      },
+      "minYear": 1953,
+      "maxYear": 1962
+    }
+  ],
+  "tags": [
+    "Hand"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "37"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "40"
+    }
+  ],
+  "weight": 2.55,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/finlande/614d9a5d690737.73710836-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/614d9a5d690737.73710836-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 1333,
+      "name": "Mint of Finland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

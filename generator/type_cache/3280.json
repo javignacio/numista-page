@@ -1,0 +1,116 @@
+{
+  "id": 3280,
+  "url": "https://en.numista.com/3280",
+  "title": "1 Penni",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "finlande",
+    "name": "Finland"
+  },
+  "min_year": 1969,
+  "max_year": 1979,
+  "ruler": [
+    {
+      "id": 3291,
+      "name": "Republic",
+      "wikidata_id": "Q33"
+    }
+  ],
+  "value": {
+    "text": "1 Penni",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 133,
+      "name": "New Markka",
+      "full_name": "New Markka (1963-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1979-00-00"
+  },
+  "size": 15.75,
+  "thickness": 1,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium (97.5% Aluminium, 2.5% Magnesium)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Four joined loops form design (Saint Hannes cross), date below.",
+    "lettering": "SUOMEN TASAVALTA\r\n• 1978 •",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Finland",
+    "picture": "https://en.numista.com/catalogue/photos/finlande/1043-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/1043-180.jpg",
+    "picture_copyright": "HOOK"
+  },
+  "reverse": {
+    "description": "Geometric decorative motive flank denomination.",
+    "lettering": "1\r\nPENNI",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/finlande/1044-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/1044-180.jpg",
+    "picture_copyright": "HOOK"
+  },
+  "related_types": [
+    {
+      "id": 1059,
+      "title": "1 Penni",
+      "category": "coin",
+      "country": {
+        "code": "finlande",
+        "name": "Finland"
+      },
+      "minYear": 1963,
+      "maxYear": 1969
+    }
+  ],
+  "tags": [
+    "Hand"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "44a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "48a"
+    }
+  ],
+  "weight": 0.45,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/finlande/614da130d9e514.20875192-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/614da130d9e514.20875192-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 1333,
+      "name": "Mint of Finland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

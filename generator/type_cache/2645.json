@@ -1,0 +1,139 @@
+{
+  "id": 2645,
+  "url": "https://en.numista.com/2645",
+  "title": "10 Haléřů",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "tchecoslovaquie",
+    "name": "Czechoslovakia"
+  },
+  "min_year": 1961,
+  "max_year": 1971,
+  "ruler": [
+    {
+      "id": 2061,
+      "name": "Socialist Republic",
+      "wikidata_id": "Q853348"
+    }
+  ],
+  "value": {
+    "text": "10 Haléřů / Halierov",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 3667,
+      "name": "Koruna",
+      "full_name": "Koruna (1953-1992)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1977-12-31"
+  },
+  "size": 22,
+  "thickness": 1.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Andrej Peter"
+    ],
+    "description": "Czech lion with socialistic shield and the date below.",
+    "lettering": "ČESKOSLOVENSKÁ SOCIALISTICKÁ REPUBLIKA\r\n1966",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "CZECHOSLOVAK SOCIALIST REPUBLIC\r\n1968",
+    "picture": "https://en.numista.com/catalogue/photos/tchecoslovaquie/67c83abd0c92f3.10626123-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/tchecoslovaquie/67c83abd0c92f3.10626123-180.jpg",
+    "picture_copyright": "PsYkObOuM",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Andrej Peter"
+    ],
+    "description": "Value between linden wreath, star above.",
+    "lettering": "10",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/tchecoslovaquie/67c83abe001595.60531157-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/tchecoslovaquie/67c83abe001595.60531157-180.jpg",
+    "picture_copyright": "PsYkObOuM",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p>Varieties are known.<br><br><i>Obverse</i><br>There are two main groups of Obverse.<br>Die <strong>I </strong>- type of font in which \"9\" is open.<br>Die <strong>II</strong> - type of font in which \"9\" is close.<br>Picture: © Images courtesy of Alexandr Prokofyev.<br><a href=\"https://en.numista.com/catalogue/images/637f644047e02.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/637f644047e02.jpg\" alt=\"\"></a><br><br><u>1962</u><br>Die <strong>I.1</strong> - \"9\" open, narrow script, the first \"S\" in ČESKOSLOVENSKÁ and \"T\" are in fine lines.<br>Die <strong>I.2</strong> - \"9\" open, wide script, the first \"S\" in ČESKOSLOVENSKÁ and \"T\" are in bold lines.<br>Picture: © Images courtesy of Alexandr Prokofyev.<br><a href=\"https://en.numista.com/catalogue/images/637f646d8f59a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/637f646d8f59a.jpg\" alt=\"\"></a><br><br><u>1963</u><br>Die <strong>I.1</strong> - \"9\" open, narrow script, \"3\" high.<br>Die <strong>I.2</strong> - \"9\" open, wide script, \"3\" low.<br>Picture: © Images courtesy of Alexandr Prokofyev.<br><a href=\"https://en.numista.com/catalogue/images/637f648bce4ab.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/637f648bce4ab.jpg\" alt=\"\"></a><br><br><br><i>Reverse</i><br>Reverses of coins N#2017 and N#2645 looks similar, that is why their classification is combined.<br>Die <strong>C</strong> - narrow script, \"1\" with short nose, wide leaf to the left of bottom \"1\", long outer leaves to the right of conjunction.<br><br>Combinations:<br><strong>I</strong>+<strong>C</strong>: 1961, 1962 I.1, 1962 I.2, 1963 I.1, 1963 I.2, 1964, 1965.<br><strong>II</strong>+<strong>C</strong>: 1966-1971.<br>Obverse. <strong>50 heller N# 3273</strong> +Reverse. <strong>C</strong>: 1963.</p>",
+  "related_types": [
+    {
+      "id": 2017,
+      "title": "10 Haléřů",
+      "category": "coin",
+      "country": {
+        "code": "tchecoslovaquie",
+        "name": "Czechoslovakia"
+      },
+      "minYear": 1953,
+      "maxYear": 1958
+    },
+    {
+      "id": 3273,
+      "title": "50 Haléřů",
+      "category": "coin",
+      "country": {
+        "code": "tchecoslovaquie",
+        "name": "Czechoslovakia"
+      },
+      "minYear": 1963,
+      "maxYear": 1971
+    }
+  ],
+  "tags": [
+    "Coat of Arms",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "49"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "56"
+    }
+  ],
+  "weight": 1.2,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/tchecoslovaquie/615b560d5cd6d1.11918750-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/tchecoslovaquie/615b560d5cd6d1.11918750-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 1262,
+      "name": "Kremnica"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

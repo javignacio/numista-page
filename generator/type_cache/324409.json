@@ -1,0 +1,134 @@
+{
+  "id": 324409,
+  "url": "https://en.numista.com/324409",
+  "title": "50 Céntimos (With braille)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "perou",
+    "name": "Peru"
+  },
+  "min_year": 1991,
+  "max_year": 2001,
+  "ruler": [
+    {
+      "id": 3757,
+      "name": "Republic",
+      "wikidata_id": "Q419"
+    }
+  ],
+  "value": {
+    "text": "50 Centimos",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 184,
+      "name": "Nuevo sol",
+      "full_name": "Nuevo sol (1991-2015) / Sol (2016-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 22,
+  "thickness": 1.65,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass (Copper-nickel-zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms of Peru surrounded by legend.",
+    "lettering": "BANCO CENTRAL DE RESERVA DEL PERÚ\r\n1994",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Reserve Bank of Peru",
+    "picture": "https://en.numista.com/catalogue/photos/perou/6350b2273eb545.24387207-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/6350b2273eb545.24387207-180.jpg",
+    "picture_copyright": "ciscoins",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Denomination with wreath to the left and vertical lines to the right, all with braille above.",
+    "lettering": "50 \r\nCÉNTIMOS\r\nLIMA",
+    "lettering_scripts": [
+      {
+        "name": "Braille"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/perou/6350b2278fe510.51700983-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/6350b2278fe510.51700983-180.jpg",
+    "picture_copyright": "ciscoins",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/5da714fb61179.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5da714fb61179.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "tags": [
+    "Coat of Arms",
+    "Monogram",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "307.1"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "307.2"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "307.3"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "106"
+    },
+    {
+      "catalogue": {
+        "id": 2898,
+        "code": "Galst/Alfen"
+      },
+      "number": "X.35"
+    }
+  ],
+  "weight": 5.52,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/perou/68f059f004fb80.26046128-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/68f059f004fb80.26046128-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 297,
+      "name": "Lima"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

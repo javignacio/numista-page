@@ -1,0 +1,136 @@
+{
+  "id": 778,
+  "url": "https://en.numista.com/778",
+  "title": "25 Pesetas - Francisco Franco",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "espagne",
+    "name": "Spain"
+  },
+  "min_year": 1958,
+  "max_year": 1975,
+  "ruler": [
+    {
+      "id": 152,
+      "name": "Francisco Franco",
+      "wikidata_id": "Q29179"
+    }
+  ],
+  "value": {
+    "text": "25 Pesetas",
+    "numeric_value": 25,
+    "currency": {
+      "id": 142,
+      "name": "Peseta",
+      "full_name": "Peseta (1868-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1997-01-01"
+  },
+  "size": 26.5,
+  "thickness": 1.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% copper, 25% nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Manuel Marín Jimeno"
+    ],
+    "designers": [
+      "Mariano Benlliure Gil"
+    ],
+    "description": "Head of Francisco Franco facing right.",
+    "lettering": "FRANCISCO FRANCO CAUDILLO DE ESPAÑA POR LA G.DE DIOS\r\n· 1957 ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Francisco Franco, caudillo de España por la gracia de Dios.",
+    "lettering_translation": "Francisco Franco, Leader of Spain by the grace of God.",
+    "picture": "https://en.numista.com/catalogue/photos/espagne/191-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/191-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Teodoro Miciano Becerra"
+    ],
+    "description": "Coat of arms of Spain with the eagle of Saint John on flight and yoke and arrows below.",
+    "lettering": "25 PTAS\r\nUNA GRANDE LIBRE\r\nPLUS ULTRA\r\n🟌",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "25 pesetas.",
+    "lettering_translation": "One, Great, Free. Further beyond.",
+    "picture": "https://en.numista.com/catalogue/photos/espagne/192-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/192-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "series": "I Ibero-American Exhibition of Numismatics and Medals",
+  "comments": "<p style=\"margin-left:0px;\"><i>Varieties:</i></p><p><strong>Ibero-American Exhibition</strong> 1957 (1958) BA (Cal# 139, Aureo# 155)</p><p>The mintmark “🟌” was replaced by the letters “BA” in special dies used at the I Ibero-American Exhibition of Numismatics and Medals (see <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.numista.com/catalogue/series.php?id=10122\">series</a>).</p><p style=\"margin-left:0px;\"><a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.numista.com/catalogue/images/66799a81e7487.jpg\"><strong><a href=\"https://en.numista.com/catalogue/images/66799a81e7487.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/66799a81e7487.jpg\"></a></strong></a></p>",
+  "tags": [
+    "Eagle",
+    "Military leader",
+    "Politician",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "787"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "35"
+    }
+  ],
+  "weight": 8.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Embossed lettering",
+    "lettering": "UNA GRANDE LIBRE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "One, Great, Free.",
+    "picture": "https://en.numista.com/catalogue/photos/espagne/1226-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/1226-180.jpg",
+    "picture_copyright": "ZacUK"
+  },
+  "mints": [
+    {
+      "id": 24,
+      "name": "Royal Mint of Madrid"
+    },
+    {
+      "id": 24,
+      "name": "Royal Mint of Madrid"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,151 @@
+{
+  "id": 2061,
+  "url": "https://en.numista.com/2061",
+  "title": "20 Zlotys (large type)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "pologne",
+    "name": "Poland"
+  },
+  "min_year": 1984,
+  "max_year": 1988,
+  "ruler": [
+    {
+      "id": 3738,
+      "name": "Polish People's Republic",
+      "wikidata_id": "Q211274"
+    }
+  ],
+  "value": {
+    "text": "20 Zlotys",
+    "numeric_value": 20,
+    "currency": {
+      "id": 199,
+      "name": "Third Zloty",
+      "full_name": "Third Zloty (1949-1994)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1984-12-06"
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1995-01-01"
+  },
+  "size": 26.5,
+  "thickness": 2.11,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Stanisława Wątróbska-Frindt"
+    ],
+    "description": "The White Eagle, national coat of arms of Poland.",
+    "lettering": "POLSKA RZECZPOSPOLITA LUDOWA\r\nmw \r\n·1986·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Polish People's Republic",
+    "picture": "https://en.numista.com/catalogue/photos/pologne/19-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pologne/19-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Stanisława Wątróbska-Frindt"
+    ],
+    "description": "Value",
+    "lettering": "20 \r\nZŁOTYCH",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/pologne/20-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pologne/20-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "<p><i>Obverse</i><br>Die <strong>1</strong> - squat letters in legend, '1' without nose, '9' in date with widely open tail.<br>Die <strong>2</strong> - tall letters in legend, '1' with nose, '9' in date with less open tail.<br>Picture: © Images courtesy of Alexandr Prokofyev.<br><a href=\"https://en.numista.com/catalogue/images/61c8ee2f4e83c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/61c8ee2f4e83c.jpg\" alt=\"\"></a><br><br><i>Combinations</i><br><strong>1</strong>: 1984, 1985, 1986, 1986 PS, 1987, 1988, 1988 PS.<br><strong>2</strong>: 1986.<br><br><i>Abbreviation</i><br>PS - Proof set.<br><br><i>Note</i>. Die <strong>2</strong> became a model for reduced size coinage in 1989-1990 (N# 22678).</p>",
+  "related_types": [
+    {
+      "id": 2062,
+      "title": "10 Zlotys",
+      "category": "coin",
+      "country": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "minYear": 1984,
+      "maxYear": 1988
+    },
+    {
+      "id": 22678,
+      "title": "20 Zlotys (small type)",
+      "category": "coin",
+      "country": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "minYear": 1989,
+      "maxYear": 1990
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "153.1"
+    },
+    {
+      "catalogue": {
+        "id": 165,
+        "code": "ParM"
+      },
+      "number": "254"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "147"
+    },
+    {
+      "catalogue": {
+        "id": 166,
+        "code": "Fischer Po"
+      },
+      "number": "OB079"
+    }
+  ],
+  "weight": 8.7,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 27,
+      "name": "Mint of Poland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,117 @@
+{
+  "id": 2150,
+  "url": "https://en.numista.com/2150",
+  "title": "1 Koruna",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "republique_tcheque",
+    "name": "Czech Republic"
+  },
+  "min_year": 1993,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 1309,
+      "name": "Republic",
+      "wikidata_id": "Q213"
+    }
+  ],
+  "value": {
+    "text": "1 Koruna",
+    "numeric_value": 1,
+    "currency": {
+      "id": 19,
+      "name": "Koruna",
+      "full_name": "Koruna (1993-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 20,
+  "thickness": 1.85,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Jarmila Truhlíková-Spěváková"
+    ],
+    "description": "The Czech lion, mintmark between legs of the lion.",
+    "lettering": "ČESKÁ REPUBLIKA 2010",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Czech Republic",
+    "picture": "https://en.numista.com/catalogue/photos/republique_tcheque/557-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/republique_tcheque/557-180.jpg",
+    "picture_copyright": "Mihajlo Nešić (MihajloNesic)"
+  },
+  "reverse": {
+    "engravers": [
+      "Jarmila Truhlíková-Spěváková"
+    ],
+    "description": "Large denomination number above a depiction of the St. Wenceslas crown. Author monogram below.",
+    "lettering": "1 KORUNA ČESKÁ\r\nJTS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "1 Czech Crown",
+    "picture": "https://en.numista.com/catalogue/photos/republique_tcheque/558-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/republique_tcheque/558-180.jpg",
+    "picture_copyright": "Mihajlo Nešić (MihajloNesic)"
+  },
+  "comments": "<p>Different mintmarks:<br>Crowned \"b\" or \"CM\" monogram = Bizuterie Jablonec Czech Mint;<br>(L) Maple Leaf = Royal Canadian Mint).</p><p><a href=\"https://en.numista.com/catalogue/images/673de45176491.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/673de45176491.jpg\"></a></p><p>&nbsp;</p><p><br><a href=\"https://en.numista.com/catalogue/images/56da9fd67b50a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/56da9fd67b50a.jpg\" alt=\"\"></a></p><p><a href=\"https://en.numista.com/catalogue/images/673de4a52194e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/673de4a52194e.jpg\"></a><br><br><br>Various shapes of the crown:<br>1993: <a href=\"https://en.numista.com/catalogue/images/5802314a1324d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5802314a1324d.jpg\" alt=\"\"></a><br>1996: <a href=\"https://en.numista.com/catalogue/images/5802315494b1c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5802315494b1c.jpg\" alt=\"\"></a><br>2003: <a href=\"https://en.numista.com/catalogue/images/5802315e664c7.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5802315e664c7.jpg\" alt=\"\"></a></p>",
+  "tags": [
+    "Crown"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "7"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "175"
+    }
+  ],
+  "weight": 3.6,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded - 80 grooves",
+    "picture": "https://en.numista.com/catalogue/photos/republique_tcheque/62d26f097db285.41463347-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/republique_tcheque/62d26f097db285.41463347-180.jpg",
+    "picture_copyright": "RuibaiK",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    },
+    {
+      "id": 30,
+      "name": "Czech Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

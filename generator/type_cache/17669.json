@@ -1,0 +1,129 @@
+{
+  "id": 17669,
+  "url": "https://en.numista.com/17669",
+  "title": "5 Nuevos Soles (2nd type)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "perou",
+    "name": "Peru"
+  },
+  "issuing_entity": {
+    "id": 936,
+    "name": "Central Reserve Bank of Peru",
+    "wikidata_id": "Q932146"
+  },
+  "min_year": 2010,
+  "max_year": 2015,
+  "ruler": [
+    {
+      "id": 3757,
+      "name": "Republic",
+      "wikidata_id": "Q419"
+    }
+  ],
+  "value": {
+    "text": "5 Soles",
+    "numeric_value": 5,
+    "currency": {
+      "id": 184,
+      "name": "Nuevo sol",
+      "full_name": "Nuevo sol (1991-2015) / Sol (2016-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24.38,
+  "thickness": 2.15,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: brass centre in stainless steel ring"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms, issuer name around, issuing date below.",
+    "lettering": "BANCO CENTRAL DE RESERVA DEL PERU\r\n2011",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Reserve Bank of Peru\r\n2011",
+    "picture": "https://en.numista.com/catalogue/photos/perou/68021739c7e430.16776628-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/68021739c7e430.16776628-180.jpg",
+    "picture_copyright": "Victor (Ukraine)"
+  },
+  "reverse": {
+    "description": "Nazca Lines Condor",
+    "lettering": "5\r\nNUEVOS\r\nSOLES",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "5 Nuevos Soles (=New Suns)",
+    "picture": "https://en.numista.com/catalogue/photos/perou/6802173a41b2f8.22626447-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/6802173a41b2f8.22626447-180.jpg",
+    "picture_copyright": "Victor (Ukraine)"
+  },
+  "related_types": [
+    {
+      "id": 4092,
+      "title": "5 Nuevos Soles (1st type)",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 1994,
+      "maxYear": 2009
+    },
+    {
+      "id": 94809,
+      "title": "5 Soles",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 2016,
+      "maxYear": 2025
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Coat of Arms",
+    "Cornucopia"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "344"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "111"
+    }
+  ],
+  "weight": 6.67,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/perou/64af55781b1594.73345399-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/64af55781b1594.73345399-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

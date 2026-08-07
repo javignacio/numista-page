@@ -1,0 +1,112 @@
+{
+  "id": 12814,
+  "url": "https://en.numista.com/12814",
+  "title": "1 Guinea - George III (4th portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1774,
+  "max_year": 1786,
+  "ruler": [
+    {
+      "id": 267,
+      "name": "George III",
+      "wikidata_id": "Q127318",
+      "group": {
+        "id": 525,
+        "name": "House of Hanover"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Guinea",
+    "numeric_value": 1.05,
+    "numerator": 21,
+    "denominator": 20,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1971)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 24,
+  "shape": "Round",
+  "composition": {
+    "text": "Gold (.9167)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Thomas Pingo"
+    ],
+    "description": "Fourth laureate portrait of King George III right, legend around.",
+    "lettering": "GEORGIVIS · III DEI · GRATIA ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "George the Third by the Grace of God",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/2706-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/2706-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "engravers": [
+      "John Tanner"
+    ],
+    "description": "Crowned quartered shield showing the arms of England & Scotland, France, Ireland and Hanover, divided date above, legend around.",
+    "lettering": "M · B · F · ET · H · REX · F · D · B · ET · L · D · S · R · I · A · T · ET · E · 1776 ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Magnae Britanniae Franciae & Hiberniae Rex Fidei Defensor Brunsvicensis et Lunebergensis Dux Sacri Romani Imperii Archi Thesaurarius et Elector",
+    "lettering_translation": "King of Great Britain France and Ireland Defender of the Faith Duke of Brunswick and Lüneburg Arch-Treasurer and Elector of the Holy Roman Empire",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/2707-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/2707-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "The guinea was struck at 44½ to the pound troy, giving a standard weight of 24/89 troy ounce (129.4 grains).",
+  "tags": [
+    "Cat or feline",
+    "Crown",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "604"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "3728"
+    }
+  ],
+  "weight": 8.4,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

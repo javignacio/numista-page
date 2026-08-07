@@ -1,0 +1,146 @@
+{
+  "id": 6758,
+  "url": "https://en.numista.com/6758",
+  "title": "5 Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "argentine",
+    "name": "Argentina"
+  },
+  "min_year": 1993,
+  "max_year": 1995,
+  "ruler": [
+    {
+      "id": 3983,
+      "name": "Federal Republic",
+      "wikidata_id": "Q414"
+    }
+  ],
+  "value": {
+    "text": "5 Centavos",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 145,
+      "name": "Peso convertible",
+      "full_name": "Peso convertible (1992-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 17.2,
+  "thickness": 1.4,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Radiant sunface, bold lettering",
+    "lettering": "· REPUBLICA ARGENTINA ·\r\nEN UNION Y LIBERTAD",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Argentina\r\nIn Union and Liberty",
+    "picture": "https://en.numista.com/catalogue/photos/argentine/938-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/938-180.jpg",
+    "picture_copyright": "gef"
+  },
+  "reverse": {
+    "description": "Large value, date below.",
+    "lettering": "5\r\ncentavos\r\n1994",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/argentine/939-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/939-180.jpg",
+    "picture_copyright": "gef"
+  },
+  "comments": "The two sub-types<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5548b49a8dacf.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5548b49a8dacf.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nDie error<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5cf67da5d8f78.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5cf67da5d8f78.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nPreviously KM#84a.2",
+  "related_types": [
+    {
+      "id": 3246,
+      "title": "5 Centavos (reeded edge)",
+      "category": "coin",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 1992,
+      "maxYear": 2005
+    },
+    {
+      "id": 21116,
+      "title": "5 Centavos (smooth edge, magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 2006,
+      "maxYear": 2011
+    }
+  ],
+  "tags": [
+    "Sun"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "109a"
+    },
+    {
+      "catalogue": {
+        "id": 160,
+        "code": "CJ"
+      },
+      "number": "2"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "109a"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "109a.1"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "109a.2"
+    }
+  ],
+  "weight": 2.25,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 1336,
+      "name": "Buenos Aires"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,166 @@
+{
+  "id": 201699,
+  "url": "https://en.numista.com/201699",
+  "title": "200 Pesos",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "argentine",
+    "name": "Argentina"
+  },
+  "issuing_entity": {
+    "id": 597,
+    "name": "Central Bank of the Argentine Republic",
+    "wikidata_id": "Q642444"
+  },
+  "min_year": 2016,
+  "max_year": 2021,
+  "ruler": [
+    {
+      "id": 3983,
+      "name": "Federal Republic",
+      "wikidata_id": "Q414"
+    }
+  ],
+  "value": {
+    "text": "200 Pesos",
+    "numeric_value": 200,
+    "currency": {
+      "id": 145,
+      "name": "Peso convertible",
+      "full_name": "Peso convertible (1992-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 155,
+  "size2": 65,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Southern right whale (Eubalaena australis), flowers",
+    "lettering": "DOSCIENTOS PESOS\r\nBANCO CENTRAL DE LA REPÚBLICA ARGENTINA\r\nBALLENA FRANCA AUSTRAL\r\nMONUMENTO NATURAL NACIONAL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "200 pesos\r\nCentral Bank of the Argentine Republic\r\nSouthern right whale\r\nNatural national monument",
+    "picture": "https://en.numista.com/catalogue/photos/argentine/63220c38c46b37.30275586-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/63220c38c46b37.30275586-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Valdés Peninsula, map of Argentina",
+    "lettering": "REPÚBLICA ARGENTINA\r\nen unión y libertad\r\nPenínsula Valdés\r\nPatrimonio de la Humanidad",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Argentinians Republic\r\nin union and liberty\r\nValdés peninsula\r\nWorld Heritage Site",
+    "picture": "https://en.numista.com/catalogue/photos/argentine/63220c393fdde2.10373270-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/63220c393fdde2.10373270-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "series": "Native animals of Argentina",
+  "comments": "<p><a href=\"https://en.numista.com/catalogue/images/6383521cb657f.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6383521cb657f.jpg\" alt=\"\"></a><br><a href=\"https://en.numista.com/catalogue/images/6383522a5d13e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6383522a5d13e.jpg\" alt=\"\"></a><br>©Andrew D H Kelly<br>under UV light<br><br>Holographic effect on the security strip. Moving letters \"BCRA\" (Central Bank of the Argentine Republic).<br><a href=\"https://en.numista.com/catalogue/images/6980f435b4efc.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6980f435b4efc.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/6980f435df33a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6980f435df33a.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/6980f4360bc4a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6980f4360bc4a.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/6980f4362a3b0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6980f4362a3b0.jpg\"></a><br>©Emidevia5</p>",
+  "related_types": [
+    {
+      "id": 205902,
+      "title": "20 Pesos",
+      "category": "banknote",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 2017,
+      "maxYear": 2020
+    },
+    {
+      "id": 206693,
+      "title": "50 Pesos",
+      "category": "banknote",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 2018,
+      "maxYear": 2020
+    },
+    {
+      "id": 206732,
+      "title": "100 Pesos",
+      "category": "banknote",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 2018,
+      "maxYear": 2019
+    },
+    {
+      "id": 206624,
+      "title": "500 Pesos",
+      "category": "banknote",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 2016,
+      "maxYear": 2022
+    },
+    {
+      "id": 206628,
+      "title": "1000 Pesos",
+      "category": "banknote",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 2017,
+      "maxYear": 2022
+    }
+  ],
+  "tags": [
+    "Marine mammal",
+    "Sea",
+    "Map",
+    "Hologram",
+    "Flower"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "364"
+    }
+  ],
+  "watermark": {
+    "description": "Southern right whale (Eubalaena australis) and electrotype “200”",
+    "picture": "https://en.numista.com/catalogue/photos/argentine/67107669eb7400.52377455-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/67107669eb7400.52377455-180.jpg",
+    "picture_copyright": "ajbbarbados",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "printers": [
+    {
+      "id": "11",
+      "name": "Casa de Moneda"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

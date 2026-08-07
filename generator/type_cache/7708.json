@@ -1,0 +1,114 @@
+{
+  "id": 7708,
+  "url": "https://en.numista.com/7708",
+  "title": "10 Dollars",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "guyana",
+    "name": "Guyana"
+  },
+  "issuing_entity": {
+    "id": 526,
+    "name": "Bank of Guyana",
+    "wikidata_id": "Q1812564"
+  },
+  "min_year": 1996,
+  "max_year": 2018,
+  "ruler": [
+    {
+      "id": 3759,
+      "name": "Republic",
+      "wikidata_id": "Q734"
+    }
+  ],
+  "value": {
+    "text": "10 Dollars",
+    "numeric_value": 10,
+    "currency": {
+      "id": 47,
+      "name": "Dollar",
+      "full_name": "Dollar (decimalized, 1965-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23,
+  "thickness": 1.8,
+  "shape": "Heptagonal (7-sided)",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Helmeted and supported arms.",
+    "lettering": "GUYANA\r\n2013",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/guyana/634c65a63f83b3.07015490-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/guyana/634c65a63f83b3.07015490-180.jpg",
+    "picture_copyright": "ciscoins",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Ignatius Adams"
+    ],
+    "description": "Gold mining scene.",
+    "lettering": "TRADITIONAL GOLD MINING\r\n10 \r\nDOLLARS\r\nBANK OF GUYANA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/guyana/634c65a67a7fb4.84010319-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/guyana/634c65a67a7fb4.84010319-180.jpg",
+    "picture_copyright": "ciscoins",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "Pork-knockers are freelance Guyanese prospectors who mine for diamonds and gold in the alluvial plains of the Guyanese interior. Pork-knockers have been responsible for discovering large deposits of gold and diamonds. The name &quot;pork-knockers&quot; refers to their regular diet of pickled pork of wild pig that is often eaten at the end of the day. The coin depicts a porknocker engaged in traditional small-scale gold mining.<br /><br /><br />\r\nCoins 2011 and 2013 are different because the word &quot;GUYANA&quot; is smaller on 2011 coins compared to 2013 coins.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5804e4496aa81.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5804e4496aa81.jpg\" alt=\"\" width=\"199\" height=\"120\" /></a>",
+  "tags": [
+    "Cat or feline",
+    "Industry",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "52"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "52"
+    }
+  ],
+  "weight": 5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

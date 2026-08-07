@@ -1,0 +1,104 @@
+{
+  "id": 4566,
+  "url": "https://en.numista.com/4566",
+  "title": "100 Francs CFA",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "beac",
+    "name": "Central African States"
+  },
+  "issuing_entity": {
+    "id": 701,
+    "name": "Central Bank of Equatorial African States and Cameroon"
+  },
+  "min_year": 1966,
+  "max_year": 1968,
+  "value": {
+    "text": "100 Francs",
+    "numeric_value": 100,
+    "currency": {
+      "id": 449,
+      "name": "CFA franc",
+      "full_name": "CFA franc (Central bank of Equatorial African States and Cameroon, 1961-1973)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25,
+  "thickness": 3,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Lucien Georges Bazor"
+    ],
+    "description": "Three giant elands left.",
+    "lettering": "BANQUE CENTRALE\r\nGB·L·BAZOR\r\nETATS DE L'AFRIQUE EQUATORIALE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Bank of [the] Equatorial African States",
+    "picture": "https://en.numista.com/catalogue/photos/beac/652d2c72e8c434.55100926-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/beac/652d2c72e8c434.55100926-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "engravers": [
+      "Lucien Georges Bazor"
+    ],
+    "description": "Denomination within ornamental band, date above.",
+    "lettering": "1967\r\n100\r\nFRANCS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/beac/652d2c730ef2a3.70069757-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/beac/652d2c730ef2a3.70069757-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "comments": "Nice private label.",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "5"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "16"
+    }
+  ],
+  "weight": 12.125,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/beac/69b8fcf6ab6f29.82006554-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/beac/69b8fcf6ab6f29.82006554-180.jpg",
+    "picture_copyright": "Marcin Łysik"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

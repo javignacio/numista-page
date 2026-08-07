@@ -1,0 +1,115 @@
+{
+  "id": 3003,
+  "url": "https://en.numista.com/3003",
+  "title": "1 Centavo",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "equateur",
+    "name": "Ecuador"
+  },
+  "min_year": 2003,
+  "max_year": 2003,
+  "ruler": [
+    {
+      "id": 3758,
+      "name": "Republic",
+      "wikidata_id": "Q736"
+    }
+  ],
+  "value": {
+    "text": "1 Centavo",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 361,
+      "name": "U.S. dollar",
+      "full_name": "U.S. dollar (2000-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 19,
+  "thickness": 1.45,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Name of the country, stylized image of the globe with the equator passing through Ecuador, and rays emanating from Ecuador",
+    "lettering": "REPUBLICA DEL ECUADOR\r\n**LUZ DE AMERICA**",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Ecuador\r\nLight of America",
+    "picture": "https://en.numista.com/catalogue/photos/equateur/662-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/equateur/662-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "description": "Denomination in digits, denomination in words, year of issue",
+    "lettering": "BANCO CENTRAL DEL ECUADOR\r\nAÑO \r\n2003\r\n1\r\nUN CENTAVO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Bank of Ecuador\r\nYear 2003\r\n1\r\nOne centavo",
+    "picture": "https://en.numista.com/catalogue/photos/equateur/663-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/equateur/663-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "comments": "Due to rampant inflation in the 1980&#039;s and 1990&#039;s, the government of Ecuador abandoned the Sucre in 2000 and adopted the United States Dollar. These coins where introduced to supplement the circulation of the <a href=\"https://en.numista.com/43\">1 Cent coin</a>.",
+  "related_types": [
+    {
+      "id": 2977,
+      "title": "1 Centavo",
+      "category": "coin",
+      "country": {
+        "code": "equateur",
+        "name": "Ecuador"
+      },
+      "minYear": 2000,
+      "maxYear": 2004
+    }
+  ],
+  "tags": [
+    "Map"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "104a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "100a"
+    }
+  ],
+  "weight": 2.35,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 29,
+      "name": "Mexican Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

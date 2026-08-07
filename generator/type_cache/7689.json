@@ -1,0 +1,128 @@
+{
+  "id": 7689,
+  "url": "https://en.numista.com/7689",
+  "title": "1 Markka",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "finlande",
+    "name": "Finland"
+  },
+  "min_year": 1952,
+  "max_year": 1953,
+  "ruler": [
+    {
+      "id": 3291,
+      "name": "Republic",
+      "wikidata_id": "Q33"
+    }
+  ],
+  "value": {
+    "text": "1 Markka",
+    "numeric_value": 1,
+    "currency": {
+      "id": 1156,
+      "name": "Markka",
+      "full_name": "Markka (1860-1963)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1963-00-00"
+  },
+  "size": 16,
+  "thickness": 1.1,
+  "shape": "Round",
+  "composition": {
+    "text": "Iron"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Peippo Uolevi Helle"
+    ],
+    "description": "Four joined loops form design, date below.",
+    "lettering": "SUOMEN TASAVALTA\r\n∙ 1952 ∙",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic Of Finland",
+    "picture": "https://en.numista.com/catalogue/photos/finlande/695d28cc228749.86813519-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/695d28cc228749.86813519-180.jpg",
+    "picture_copyright": "wjrlock",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Peippo Uolevi Helle"
+    ],
+    "description": "Grasped hands flank denomination.",
+    "lettering": "1 MARKKA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/finlande/695d28cd04c362.55447353-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/695d28cd04c362.55447353-180.jpg",
+    "picture_copyright": "wjrlock",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/653e5bca68d78.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/653e5bca68d78.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "related_types": [
+    {
+      "id": 5058,
+      "title": "1 Markka",
+      "category": "coin",
+      "country": {
+        "code": "finlande",
+        "name": "Finland"
+      },
+      "minYear": 1953,
+      "maxYear": 1962
+    }
+  ],
+  "tags": [
+    "Hand"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "36"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "39"
+    }
+  ],
+  "weight": 1.15,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/finlande/1314-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/1314-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 1333,
+      "name": "Mint of Finland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

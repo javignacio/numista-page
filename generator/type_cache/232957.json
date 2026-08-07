@@ -1,0 +1,101 @@
+{
+  "id": 232957,
+  "url": "https://en.numista.com/232957",
+  "title": "1 Peso / ⅒ Condor",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "chili",
+    "name": "Chile"
+  },
+  "issuing_entity": {
+    "id": 904,
+    "name": "Central Bank of Chile",
+    "wikidata_id": "Q2631674"
+  },
+  "min_year": 1932,
+  "max_year": 1942,
+  "ruler": [
+    {
+      "id": 3299,
+      "name": "Republic",
+      "wikidata_id": "Q298"
+    }
+  ],
+  "value": {
+    "text": "1 Peso ",
+    "numeric_value": 1,
+    "currency": {
+      "id": 237,
+      "name": "Peso",
+      "full_name": "Peso (1835-1959)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 120,
+  "size2": 60,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Black frame with blue center and wide diagonal pink stripe.\r\nBank seal at right.",
+    "lettering": "UN PESO\r\nBANCO CENTRAL DE CHILE\r\nBillete Provisional\r\nUN DECIMO DE CONDOR\r\n* BANCO CENTRAL DE CHILE * SANTIAGO\r\n12 de Septiembre de 1932\r\nCONVERTIBLE EN ORO CONFORME A LA LEY\r\nTALLERES DE ESPECIES VALORADAS SANTIAGO, CHILE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "One peso\r\nCentral Bank of Chile\r\nProvisional banknote\r\nOne tenth of one Condor\r\n* Central bank of Chile * Santiago\r\nSeptember 12, 1932\r\nConvertible in gold according to the law",
+    "picture": "https://en.numista.com/catalogue/photos/chili/65b9812cedcaf6.03480689-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/65b9812cedcaf6.03480689-180.jpg",
+    "picture_copyright": "Limbru",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Green print.\r\nGeometric grid with value.",
+    "lettering": "UN PESO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "One Peso",
+    "picture": "https://en.numista.com/catalogue/photos/chili/65b9812dd4d778.53324379-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/65b9812dd4d778.53324379-180.jpg",
+    "picture_copyright": "Limbru",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "series": "1932-1943 Billete Provisional Issues",
+  "comments": "<p><u>Issuing varieties</u>:</p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/659d59ad2eabb.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/659d59ad2eabb.jpg\"></a> &nbsp;<a href=\"https://en.numista.com/catalogue/images/659d59bdc58de.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/659d59bdc58de.jpg\"></a></p><p>P#88a - tan paper, size: 120mm x 60mm</p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/659d59c6ec5e0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/659d59c6ec5e0.jpg\"></a> &nbsp;<a href=\"https://en.numista.com/catalogue/images/659d59cfbddfc.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/659d59cfbddfc.jpg\"></a></p><p>P#88b - peach paper, size: 120mm x 60mm</p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/659d59d834cda.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/659d59d834cda.jpg\"></a> &nbsp;<a href=\"https://en.numista.com/catalogue/images/659d59e09afa6.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/659d59e09afa6.jpg\"></a></p><p>P#89 - peach paper, size: 124mm x 62mm</p>",
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "88"
+    },
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "89"
+    }
+  ],
+  "printers": [
+    {
+      "id": 17,
+      "name": "Talleres de Especies Valoradas"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

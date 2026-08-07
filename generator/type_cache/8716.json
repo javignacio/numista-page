@@ -1,0 +1,109 @@
+{
+  "id": 8716,
+  "url": "https://en.numista.com/8716",
+  "title": "25 Øre - Haakon VII",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "norvege",
+    "name": "Norway"
+  },
+  "min_year": 1921,
+  "max_year": 1923,
+  "ruler": [
+    {
+      "id": 449,
+      "name": "Haakon VII",
+      "wikidata_id": "Q154927",
+      "group": {
+        "id": 358,
+        "name": "House of Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "25 Øre",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 16,
+      "name": "Krone",
+      "full_name": "Krone (1875-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 17,
+  "thickness": 1.45,
+  "shape": "Round with a round hole",
+  "composition": {
+    "text": "Copper-nickel (Cu 75%, Ni 25%)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Crowned monogram of Haakon VII, with a hole in the middle. Surrounded by inscription. Beaded ring on the rim.",
+    "lettering": "⸰ALT⸰FOR⸰NORGE⸰\r\nH7",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Everything for Norway",
+    "picture": "https://en.numista.com/catalogue/photos/norvege/64a6e825b01b23.58450659-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/64a6e825b01b23.58450659-180.jpg",
+    "picture_copyright": "Elvi75"
+  },
+  "reverse": {
+    "description": "Crowned norwegian lion holding a halberd and facing left, with a hole in the middle. Inscription and date above the lion. Mintmark and value below the lion. A triskelion on each side of the lion. Beaded ring on the rim.",
+    "lettering": "NORGE•1923\r\n⚒ 25 ØRE ⸰",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Norway",
+    "picture": "https://en.numista.com/catalogue/photos/norvege/64a6e8268cf3e3.96169037-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/64a6e8268cf3e3.96169037-180.jpg",
+    "picture_copyright": "Elvi75"
+  },
+  "comments": "<p>Mintage included in KM#381</p>",
+  "tags": [
+    "Cat or feline"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "382"
+    },
+    {
+      "catalogue": {
+        "id": 201,
+        "code": "Rønning"
+      },
+      "number": "270"
+    }
+  ],
+  "weight": 2.4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded.",
+    "picture": "https://en.numista.com/catalogue/photos/norvege/637381a7bb6083.98995968-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/637381a7bb6083.98995968-180.jpg",
+    "picture_copyright": "karrlot"
+  },
+  "mints": [
+    {
+      "id": 1888,
+      "name": "Norwegian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

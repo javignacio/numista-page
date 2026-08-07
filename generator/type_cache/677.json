@@ -1,0 +1,151 @@
+{
+  "id": 677,
+  "url": "https://en.numista.com/677",
+  "title": "2 Francs",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "france",
+    "name": "France"
+  },
+  "min_year": 1941,
+  "max_year": 1959,
+  "ruler": [
+    {
+      "id": 9,
+      "name": "French State",
+      "wikidata_id": "Q69808",
+      "group": {
+        "id": 89,
+        "name": "Modern France"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Fourth Republic",
+      "wikidata_id": "Q69829",
+      "group": {
+        "id": 89,
+        "name": "Modern France"
+      }
+    }
+  ],
+  "value": {
+    "text": "2 Francs",
+    "numeric_value": 2,
+    "currency": {
+      "id": 303,
+      "name": "Franc",
+      "full_name": "Franc (1795-1959)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2005-02-17"
+  },
+  "size": 27,
+  "thickness": 1.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium (95% Aluminium, 5% Magnesium)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Pierre-Alexandre Morlon"
+    ],
+    "description": "Wreathed female head facing left, lettering around edge both sides, engraver's name behind head.",
+    "lettering": "REPUBLIQVE FRANÇAISE\r\nMORLON",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "French Republic",
+    "picture": "https://en.numista.com/catalogue/photos/france/5f9b4e1b39d6b7.83362783-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/5f9b4e1b39d6b7.83362783-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "reverse": {
+    "engravers": [
+      "Pierre-Alexandre Morlon"
+    ],
+    "description": "A cornucopia on each side, lettering at top, value in middle with date below. Privy mark to right of date.\nIf there is a B or C Mintmark it is in the gap between the two bases, below date.",
+    "lettering": "LIBERTE-EGALITE\r\nFRATERNITE\r\n2\r\nFRANCS\r\n1958",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Liberty, Equality, Fraternity",
+    "picture": "https://en.numista.com/catalogue/photos/france/5f9b4e1b8857a3.87871273-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/5f9b4e1b8857a3.87871273-180.jpg",
+    "picture_copyright": "Jérémy Pureur"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/5d056af80a448.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d056af80a448.jpg\" alt=\"\" width=\"200\" height=\"142\" /></a><br />\n<a href=\"https://en.numista.com/catalogue/images/5d094b3b1fe3f.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d094b3b1fe3f.jpg\" alt=\"\" width=\"199\" height=\"131\" /></a>",
+  "tags": [
+    "Allegory",
+    "Cornucopia",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 34,
+        "code": "Franc 2014"
+      },
+      "number": "269"
+    },
+    {
+      "catalogue": {
+        "id": 109,
+        "code": "Gad 1789"
+      },
+      "number": "538"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "886a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "201a"
+    }
+  ],
+  "weight": 2.2,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/france/11258-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/11258-180.jpg",
+    "picture_copyright": "Eagle68",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    },
+    {
+      "id": 72,
+      "name": "Beaumont-le-Roger"
+    },
+    {
+      "id": 74,
+      "name": "Castelsarrasin"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

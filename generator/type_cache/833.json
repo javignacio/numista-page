@@ -1,0 +1,107 @@
+{
+  "id": 833,
+  "url": "https://en.numista.com/833",
+  "title": "10 Cents (SOUTH AFRICA - SUID-AFRIKA)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "afrique_du_sud",
+    "name": "South Africa"
+  },
+  "min_year": 1970,
+  "max_year": 1989,
+  "ruler": [
+    {
+      "id": 634,
+      "name": "Republic",
+      "wikidata_id": "Q258"
+    }
+  ],
+  "value": {
+    "text": "10 Cents",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 156,
+      "name": "Rand",
+      "full_name": "Rand (1961-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 20.7,
+  "thickness": 1.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Arthur Sutherland"
+    ],
+    "description": "South Africa coat of arms with the motto surrounded by English/Afrikaans legend",
+    "lettering": "SOUTH AFRICA\r\nSUID-AFRIKA\r\nEX UNITATE VIRES\r\nA L S\r\n1988",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "South Africa\r\nPower Through Unity",
+    "picture": "https://en.numista.com/catalogue/photos/afrique_du_sud/1694-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/1694-180.jpg"
+  },
+  "reverse": {
+    "engravers": [
+      "Tommy Sasseen"
+    ],
+    "description": "Aloe plant with denomination above\r\nThe plant is a Cape Aloe (Aloe Ferox), belonging to the Asphodelaceae family, a plant native to South Africa.",
+    "lettering": "10\r\nT.S.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/afrique_du_sud/1695-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/1695-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "comments": "Obverse engraver initials varieties exist:<br />\r\n1970-83 - &#039;T.S.&#039; below base of Coat of Arms right hand side (Tommy Sasseen)<br />\r\n1984 - no engraver initials (Arthur Sutherland)<br />\r\n1985-89 - &#039;A L S&#039; below base of Coat of Arms left hand side (Arthur Sutherland)<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5f78e631e128a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5f78e631e128a.jpg\" alt=\"\" width=\"199\" height=\"65\" /></a>",
+  "tags": [
+    "Coat of Arms",
+    "Flower"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "85"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "124"
+    }
+  ],
+  "weight": 4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 1872,
+      "name": "Pretoria"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

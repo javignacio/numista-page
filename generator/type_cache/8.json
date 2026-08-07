@@ -1,0 +1,177 @@
+{
+  "id": 8,
+  "url": "https://en.numista.com/8",
+  "title": "5 Francs (signature \"O. Roty\")",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "france",
+    "name": "France"
+  },
+  "min_year": 1969,
+  "max_year": 2001,
+  "ruler": [
+    {
+      "id": 11,
+      "name": "Fifth Republic",
+      "wikidata_id": "Q200686",
+      "group": {
+        "id": 89,
+        "name": "Modern France"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Francs",
+    "numeric_value": 5,
+    "currency": {
+      "id": 77,
+      "name": "New franc",
+      "full_name": "New franc (1960-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2002-02-17"
+  },
+  "size": 29,
+  "thickness": 2.09,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Louis-Oscar Roty"
+    ],
+    "description": "The Sower, designed by Oscar Roty in 1900, a national emblem of the French Republic",
+    "lettering": "REPUBLIQUE FRANÇAISE\r\nO. Roty",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "French Republic.",
+    "picture": "https://en.numista.com/catalogue/photos/france/5f9dd414800e77.93186810-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/5f9dd414800e77.93186810-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "reverse": {
+    "engravers": [
+      "Louis-Oscar Roty"
+    ],
+    "description": "Olive branches, oak branches and wheat ears, underneath the face value, are surrounded with the French motto.",
+    "lettering": "LIBERTE•EGALITE•FRATERNITE\r\n5\r\nFRANCS\r\n1983",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "LIBERTY • EQUALITY • FRATERNITY",
+    "picture": "https://en.numista.com/catalogue/photos/france/5f9dd414d40668.27338105-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/5f9dd414d40668.27338105-180.jpg",
+    "picture_copyright": "Jérémy Pureur"
+  },
+  "series": "5 francs Semeuse",
+  "comments": "Pré-série de 5 FRANCS Semeuse, 1969 Paris GEM.154 10<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5d1491d78fb7d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d1491d78fb7d.jpg\" alt=\"\" width=\"200\" height=\"72\" /></a><br /><br />\r\n<span style=\"text-decoration:underline;\">The different brands of general engravers</span><br />\r\nOwl 1958-74 Raymond Joly.<br /><br />\r\nDolphin 1975-94 Rousseau.<br />\r\nBee 1994-2000 Pierre Rodier<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5e5a8f695f109.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e5a8f695f109.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\n<span style=\"text-decoration:underline;\">Head of the Engraving Service</span><br />\r\nHorseshoe 2001 Gérard Buquoy",
+  "related_types": [
+    {
+      "id": 679,
+      "title": "5 Francs",
+      "category": "coin",
+      "country": {
+        "code": "france",
+        "name": "France"
+      },
+      "minYear": 1960,
+      "maxYear": 1969
+    },
+    {
+      "id": 19264,
+      "title": "5 Francs (signature \"D'AP. O.ROTY\")",
+      "category": "coin",
+      "country": {
+        "code": "france",
+        "name": "France"
+      },
+      "minYear": 1991,
+      "maxYear": 2001
+    },
+    {
+      "id": 19302,
+      "title": "5 Francs",
+      "category": "coin",
+      "country": {
+        "code": "france",
+        "name": "France"
+      },
+      "minYear": 2001,
+      "maxYear": 2001
+    },
+    {
+      "id": 53744,
+      "title": "5 Francs PROOF (Last Franc)",
+      "category": "coin",
+      "country": {
+        "code": "france",
+        "name": "France"
+      },
+      "minYear": 2001,
+      "maxYear": 2001
+    }
+  ],
+  "tags": [
+    "Phrygian cap"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 34,
+        "code": "Franc 2014"
+      },
+      "number": "341"
+    },
+    {
+      "catalogue": {
+        "id": 109,
+        "code": "Gad 1789"
+      },
+      "number": "771"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "926a.1"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "235a"
+    }
+  ],
+  "weight": 10,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/france/69516b13ec4710.25868682-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/69516b13ec4710.25868682-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,135 @@
+{
+  "id": 24193,
+  "url": "https://en.numista.com/24193",
+  "title": "10 Centavos (No number on obverse; silver .835)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "chili",
+    "name": "Chile"
+  },
+  "min_year": 1896,
+  "max_year": 1896,
+  "ruler": [
+    {
+      "id": 3299,
+      "name": "Republic",
+      "wikidata_id": "Q298"
+    }
+  ],
+  "value": {
+    "text": "10 Centavos",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 237,
+      "name": "Peso",
+      "full_name": "Peso (1835-1959)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 17,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.835)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Louis-Oscar Roty"
+    ],
+    "description": "Defiant condor on rock left.",
+    "lettering": "REPUBLICA DE CHILE\r\nO. Roty",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Oscar Roty.",
+    "lettering_translation": "Republic of Chile.",
+    "picture": "https://en.numista.com/catalogue/photos/chili/63c315979bc3e3.35225146-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/63c315979bc3e3.35225146-180.jpg",
+    "picture_copyright": "Katz Coins Notes & Supplies Corp.",
+    "picture_copyright_url": "https://www.katzauction.com"
+  },
+  "reverse": {
+    "description": "Denomination above date within laurel wreath with hammer and sickle below.",
+    "lettering": "So\r\nDIEZ\r\nCENTAVOS\r\n1896",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Ten Centavos.",
+    "picture": "https://en.numista.com/catalogue/photos/chili/63c31597f19a13.15236674-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/63c31597f19a13.15236674-180.jpg",
+    "picture_copyright": "Katz Coins Notes & Supplies Corp.",
+    "picture_copyright_url": "https://www.katzauction.com"
+  },
+  "related_types": [
+    {
+      "id": 16042,
+      "title": "10 Centavos (0.5 on obverse; silver .500)",
+      "category": "coin",
+      "country": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "minYear": 1899,
+      "maxYear": 1907
+    },
+    {
+      "id": 16045,
+      "title": "10 Centavos (No number on obverse; billon .400)",
+      "category": "coin",
+      "country": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "minYear": 1908,
+      "maxYear": 1920
+    },
+    {
+      "id": 25176,
+      "title": "10 Centavos (0.45 on obverse; billon .450)",
+      "category": "coin",
+      "country": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "minYear": 1915,
+      "maxYear": 1918
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Hammer and sickle",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "156.1"
+    }
+  ],
+  "weight": 2,
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

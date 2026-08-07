@@ -1,0 +1,95 @@
+{
+  "id": 35218,
+  "url": "https://en.numista.com/35218",
+  "title": "8 Reales - Ferdinand VII (bust of Ferdinand VII)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "chili",
+    "name": "Chile"
+  },
+  "min_year": 1812,
+  "max_year": 1817,
+  "ruler": [
+    {
+      "id": 11583,
+      "name": "Ferdinand VII",
+      "wikidata_id": "Q186256",
+      "nomisma_id": "ferdinand_vii_of_spain",
+      "group": {
+        "id": 1015,
+        "name": "Viceroyalty of Spain, House of Bourbon"
+      }
+    }
+  ],
+  "value": {
+    "text": "8 Reales",
+    "numeric_value": 8,
+    "currency": {
+      "id": 1203,
+      "name": "Real",
+      "full_name": "Real (1541-1852)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 40.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.896)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Bust of Fernando VII, date below",
+    "lettering": "FERDIN VII DEI GRATIA\r\n1816",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chili/622-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/622-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "description": "Crowned arms and pillars",
+    "lettering": "HISPAN ET IND REX\r\nSo 8R FJ\r\nPLUS VLTRA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chili/623-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/623-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "80"
+    }
+  ],
+  "weight": 27.0674,
+  "orientation": "medal",
+  "edge": {
+    "description": "Chained"
+  },
+  "mints": [
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

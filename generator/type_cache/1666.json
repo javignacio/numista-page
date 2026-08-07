@@ -1,0 +1,136 @@
+{
+  "id": 1666,
+  "url": "https://en.numista.com/1666",
+  "title": "50 Cents (ribbon upwards)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "singapour",
+    "name": "Singapore"
+  },
+  "min_year": 1985,
+  "max_year": 1991,
+  "ruler": [
+    {
+      "id": 906,
+      "name": "Republic",
+      "wikidata_id": "Q334"
+    }
+  ],
+  "value": {
+    "text": "50 Cents",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 55,
+      "name": "Dollar",
+      "full_name": "Dollar (1967-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24.66,
+  "thickness": 2.06,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Christopher Ironside"
+    ],
+    "description": "Emblem with date underneath and 'Singapore' on four sides in English, Tamil, Chinese, and Malay.",
+    "lettering": "SINGAPURA \r\nசிங்கப்பூர் 新加坡\r\n1987\r\nSINGAPORE",
+    "lettering_scripts": [
+      {
+        "name": "Chinese"
+      },
+      {
+        "name": "Latin"
+      },
+      {
+        "name": "Tamil"
+      }
+    ],
+    "lettering_translation": "Singapore",
+    "picture": "https://en.numista.com/catalogue/photos/singapour/7-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/singapour/7-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Christopher Ironside"
+    ],
+    "description": "Denomination",
+    "lettering": "FIFTY CENTS\r\n50",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/singapour/8-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/singapour/8-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "Reverse: Yellow allamanda flower (Binomial Name: Allamanda cathartica)<br /><br />\r\nBelow is a picture for comparison of 1988 and 1989 edges.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5cb741c415650.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5cb741c415650.jpg\" alt=\"\" width=\"200\" height=\"80\" /></a>",
+  "related_types": [
+    {
+      "id": 1672,
+      "title": "50 Cents (ribbon downwards)",
+      "category": "coin",
+      "country": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "minYear": 1992,
+      "maxYear": 2013
+    }
+  ],
+  "tags": [
+    "Cat or feline",
+    "Flower",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "53"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "43"
+    }
+  ],
+  "weight": 7.29,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded or Smooth with incuse lettering",
+    "lettering": "REPUBLIC OF SINGAPORE",
+    "picture": "https://en.numista.com/catalogue/photos/singapour/695b5cad6bafb6.78109931-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/singapour/695b5cad6bafb6.78109931-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 25,
+      "name": "Singapore Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

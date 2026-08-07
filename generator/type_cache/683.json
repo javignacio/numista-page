@@ -1,0 +1,152 @@
+{
+  "id": 683,
+  "url": "https://en.numista.com/683",
+  "title": "10 Francs",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "france",
+    "name": "France"
+  },
+  "min_year": 1974,
+  "max_year": 1987,
+  "ruler": [
+    {
+      "id": 11,
+      "name": "Fifth Republic",
+      "wikidata_id": "Q200686",
+      "group": {
+        "id": 89,
+        "name": "Modern France"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Francs",
+    "numeric_value": 10,
+    "currency": {
+      "id": 77,
+      "name": "New franc",
+      "full_name": "New franc (1960-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1993-07-01"
+  },
+  "size": 26.01,
+  "thickness": 2.54,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-aluminium-nickel (92% Copper, 6% Nickel, 2% Aluminium)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Georges Mathieu"
+    ],
+    "description": "A map of metropolitan France with flashes pointing to Paris, and stylized initials RF on top with lettering around outside, date below with privy mark\r\n\r\nThe coin represents change of France from tradition to modernity, showing a modern country of energy and technology.",
+    "lettering": "REPUBLIQUE FRANÇAISE\r\nRF\r\nMATHIEU\r\n1987",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "French Republic",
+    "picture": "https://en.numista.com/catalogue/photos/france/5f9dd538867559.74919442-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/5f9dd538867559.74919442-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "reverse": {
+    "engravers": [
+      "Georges Mathieu"
+    ],
+    "description": "Value on band across centre, and industry in background",
+    "lettering": "10 FRANCS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/france/5f9dd538da1981.75573891-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/5f9dd538da1981.75573891-180.jpg",
+    "picture_copyright": "Jérémy Pureur"
+  },
+  "series": "10 francs Mathieu",
+  "comments": "There are two varieties:<br />\r\nType A: obverse face up when reading the edge<br />\r\nType B: reverse face up when reading the edge<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5cb45aec61bf5.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5cb45aec61bf5.jpg\" alt=\"\" width=\"200\" height=\"118\" /></a><br />\r\nEagle68<br /><br />\r\nVarieties for 1978:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5e5ff15e8d51d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e5ff15e8d51d.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "related_types": [
+    {
+      "id": 167496,
+      "title": "200 Euros - Coin of History (La France)",
+      "category": "coin",
+      "country": {
+        "code": "france",
+        "name": "France"
+      },
+      "minYear": 2019,
+      "maxYear": 2019
+    }
+  ],
+  "tags": [
+    "Industry",
+    "Map",
+    "Monogram"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 34,
+        "code": "Franc 2014"
+      },
+      "number": "365"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "242"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "940"
+    },
+    {
+      "catalogue": {
+        "id": 109,
+        "code": "Gad 1789"
+      },
+      "number": "814"
+    }
+  ],
+  "weight": 10,
+  "orientation": "coin",
+  "edge": {
+    "description": "Smooth with inscription, separated by patterns",
+    "lettering": "LIBERTE EGALITE FRATERNITE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Liberty Equality Brotherhood",
+    "picture": "https://en.numista.com/catalogue/photos/france/69520edeafec64.40391919-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/69520edeafec64.40391919-180.jpg",
+    "picture_copyright": "Alessandro Bentivegna Cesta"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

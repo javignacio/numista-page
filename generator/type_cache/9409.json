@@ -1,0 +1,175 @@
+{
+  "id": 9409,
+  "url": "https://en.numista.com/9409",
+  "title": "10 Pence - Elizabeth II (2nd portrait; large type)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "iles_malouines",
+    "name": "Falkland Islands"
+  },
+  "min_year": 1974,
+  "max_year": 1992,
+  "ruler": [
+    {
+      "id": 2978,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 829,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Pence",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 118,
+      "name": "Pound",
+      "full_name": "Pound (decimalized, 1971-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1993-07-01"
+  },
+  "size": 28.5,
+  "thickness": 2.3,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Arnold Machin"
+    ],
+    "description": "Young bust of Queen Elizabeth II facing right surrounded by legend",
+    "lettering": "QUEEN ELIZABETH THE SECOND",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/iles_malouines/6012eff0250d24.83779506-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/iles_malouines/6012eff0250d24.83779506-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "William Maving Gardner"
+    ],
+    "description": "Pair of South American sea lion below the name of the country. Value and date below. Otaria flavescens, formerly Otaria byronia, also called the southern sea lion or Patagonian sea lion, locally Lobo Marino or León Marino can be found from the Peruvian coast to Patagonia and Uruguay to the east. A large adult bull (as featured, > 300 kg) may have up to 15 females",
+    "lettering": "FALKLAND ISLANDS\r\n10\r\n1987\r\nWG",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/iles_malouines/6012eff0de1186.64706935-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/iles_malouines/6012eff0de1186.64706935-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "related_types": [
+    {
+      "id": 7137,
+      "title": "½ Penny - Elizabeth II (2nd portrait)",
+      "category": "coin",
+      "country": {
+        "code": "iles_malouines",
+        "name": "Falkland Islands"
+      },
+      "minYear": 1974,
+      "maxYear": 1983
+    },
+    {
+      "id": 5729,
+      "title": "1 Penny - Elizabeth II (2nd portrait; non-magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "iles_malouines",
+        "name": "Falkland Islands"
+      },
+      "minYear": 1974,
+      "maxYear": 1992
+    },
+    {
+      "id": 5730,
+      "title": "2 Pence - Elizabeth II (2nd portrait)",
+      "category": "coin",
+      "country": {
+        "code": "iles_malouines",
+        "name": "Falkland Islands"
+      },
+      "minYear": 1974,
+      "maxYear": 1992
+    },
+    {
+      "id": 9408,
+      "title": "5 Pence - Elizabeth II (2nd portrait; large type)",
+      "category": "coin",
+      "country": {
+        "code": "iles_malouines",
+        "name": "Falkland Islands"
+      },
+      "minYear": 1974,
+      "maxYear": 1992
+    },
+    {
+      "id": 9410,
+      "title": "20 Pence - Elizabeth II (2nd portrait)",
+      "category": "coin",
+      "country": {
+        "code": "iles_malouines",
+        "name": "Falkland Islands"
+      },
+      "minYear": 1982,
+      "maxYear": 1999
+    },
+    {
+      "id": 9411,
+      "title": "50 Pence - Elizabeth II (2nd portrait; large type)",
+      "category": "coin",
+      "country": {
+        "code": "iles_malouines",
+        "name": "Falkland Islands"
+      },
+      "minYear": 1980,
+      "maxYear": 1992
+    }
+  ],
+  "tags": [
+    "Marine mammal"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "5.1"
+    }
+  ],
+  "weight": 11.31,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

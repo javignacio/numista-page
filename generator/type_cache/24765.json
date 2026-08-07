@@ -1,0 +1,115 @@
+{
+  "id": 24765,
+  "url": "https://en.numista.com/24765",
+  "title": "3 Kreuzers - Leopold I (Hall)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "tyrol_county",
+    "name": "Tyrol, County of"
+  },
+  "min_year": 1667,
+  "max_year": 1690,
+  "ruler": [
+    {
+      "id": 13164,
+      "name": "Leopold I",
+      "wikidata_id": "Q150494"
+    }
+  ],
+  "value": {
+    "text": "3 Kreuzers",
+    "numeric_value": 0.05,
+    "numerator": 1,
+    "denominator": 20,
+    "currency": {
+      "id": 1314,
+      "name": "Thaler",
+      "full_name": "Thaler"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 20.5,
+  "thickness": 0.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Billon (.46875 silver)"
+  },
+  "obverse": {
+    "description": "Leopold I of Habsburg facing right, lion head on shoulder, in an inner circle with legend around.",
+    "lettering": "LEOPOLDVS·D:G·R·I·S·A·G·H.B·R·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Leopoldus Dei Gratia Romanorum Imperator Semper Augustus Germaniae Hungariae Bohemiae Rex",
+    "lettering_translation": "Leopold, by the Grace of God, Emperor of the Romans, always August, King of Germany, Hungary and Bohemia.",
+    "picture": "https://en.numista.com/catalogue/photos/tyrol_county/68d0358b4f8861.72482031-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/tyrol_county/68d0358b4f8861.72482031-180.jpg",
+    "picture_copyright": "Auktionen Frühwald",
+    "picture_copyright_url": "http://www.auktionen-fruehwald.com/"
+  },
+  "reverse": {
+    "description": "Two shields under a crown, left Further Austria (Vorderösterreich), and right Tyrol, value below. Legend around and value in a cartouche below.",
+    "lettering": "ARCHID·A:D·B·CO·TY· 16  76\r\n(3)",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Archidux Austriae Dux Burgundiae Comes Tyrolis",
+    "picture": "https://en.numista.com/catalogue/photos/tyrol_county/68d0358bb3dd64.25187982-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/tyrol_county/68d0358bb3dd64.25187982-180.jpg",
+    "picture_copyright": "Auktionen Frühwald",
+    "picture_copyright_url": "http://www.auktionen-fruehwald.com/"
+  },
+  "comments": "<p>After the death of Sigismund Franz and the extinction of the Tyrolean branch of the Habsburg family, Leopold I took over Further Austria and Tyrol.<br>Variants: punctuation with : (e.g. 1672) or . (e.g. 1682). Armour on the shoulder different (e.g. 1689):<br><a href=\"https://en.numista.com/catalogue/images/573b1b6ec3be7.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/573b1b6ec3be7.jpg\" alt=\"\"></a><br>Photo ECapoe</p>",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1245"
+    },
+    {
+      "catalogue": {
+        "id": 3425,
+        "code": "Herinek 1657-1740"
+      },
+      "number": "1411-1434"
+    },
+    {
+      "catalogue": {
+        "id": 60,
+        "code": "MT"
+      },
+      "number": "719-741"
+    },
+    {
+      "catalogue": {
+        "id": 60,
+        "code": "MT"
+      },
+      "number": "779-782"
+    }
+  ],
+  "weight": 1.47,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 1315,
+      "name": "Hall"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

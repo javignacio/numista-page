@@ -1,0 +1,108 @@
+{
+  "id": 2722,
+  "url": "https://en.numista.com/2722",
+  "title": "500 Pesos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "chili",
+    "name": "Chile"
+  },
+  "min_year": 2000,
+  "max_year": 2023,
+  "ruler": [
+    {
+      "id": 3299,
+      "name": "Republic",
+      "wikidata_id": "Q298"
+    }
+  ],
+  "value": {
+    "text": "500 Pesos",
+    "numeric_value": 500,
+    "currency": {
+      "id": 146,
+      "name": "Peso",
+      "full_name": "Peso (1975-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 26,
+  "thickness": 1.55,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: copper-aluminium centre in nickel brass ring (Core: 95% Copper, 5% Aluminium. Ring: 70% Copper, 15% Nickel, 15% Zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Francisco Orellana P."
+    ],
+    "description": "Portrait of Cardinal Raúl Silva Henríquez with the mintmark right of the head, engraver's signature in the right side of the bust (if present).",
+    "lettering": "REPUBLICA DE CHILE\r\nSo\r\nCARDENAL \r\nRAUL SILVA\r\nHENRIQUEZ\r\nF.ORE.P.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Chile\r\nSo\r\nCardinal\r\nRaul Silva\r\nHenriquez\r\nF.ORE.P.",
+    "picture": "https://en.numista.com/catalogue/photos/chili/898-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/898-180.jpg",
+    "picture_copyright": "Quodlibet"
+  },
+  "reverse": {
+    "description": "Value and date within wreath, star above.",
+    "lettering": "500\r\nPESOS\r\n2008",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chili/899-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/899-180.jpg",
+    "picture_copyright": "Quodlibet"
+  },
+  "comments": "Different dies are known.<br /><br />\r\n<span style=\"font-style:italic;\">Obverse</span><br />\r\nDie <span style=\"font-weight:bold;\">1</span> - bowed portrait with signature on the right truncation of shoulder.<br />\r\nDie <span style=\"font-weight:bold;\">2</span> - sitting portrait with signature.<br />\r\nDie <span style=\"font-weight:bold;\">3</span> - sitting portrait without signature, bold script of REPUBLICA DE CHILE.<br />\r\nDie 4 - sitting portrait without signature, fine script of REPUBLICA DE CHILE.<br />\r\n<span style=\"font-style:italic;\">Notes</span>. 1. The main difference between bowed and sitting portrait is the rotation of the portrait only with respect to other fragments. After the introducing the die <span style=\"font-weight:bold;\">1</span> at the next dies the portrait was rotated for 4° counterclockwise to make impression of sitting figure.<br />\r\n2. There are many other features, which distinguish the dies, such as size of mintmark and fonts of legends.<br />\r\nPicture: © Images courtesy of Alexandr Prokofyev.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/61b5fe16c0cd9.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/61b5fe16c0cd9.jpg\" alt=\"\" width=\"191\" height=\"250\" /></a><br /><br />\r\n<span style=\"font-style:italic;\">Reverse</span><br />\r\nDie <span style=\"font-weight:bold;\">A</span> - numeral &#039;5&#039; in denomination with serif at horizontal bar, wide leaves in wreath.<br />\r\nDie <span style=\"font-weight:bold;\">B</span> - numeral &#039;5&#039; in denomination without serif at horizontal bar, narrow leaves in wreath.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/61b5fe6676fd9.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/61b5fe6676fd9.jpg\" alt=\"\" width=\"200\" height=\"207\" /></a><br />\r\nPicture: © Images courtesy of Alexandr Prokofyev.<br />\r\nNote. From year to year position and font of date differs.<br /><br />\r\n<span style=\"text-decoration:underline;\">2002 </span><br />\r\nDie <span style=\"font-weight:bold;\">A1</span> - numerals in date narrow and tall, the date condensed.<br />\r\nDie <span style=\"font-weight:bold;\">A2</span>- numerals in date wide, the date wide.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/59ec28299abe3.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/59ec28299abe3.jpg\" alt=\"\" width=\"200\" height=\"108\" /></a><br /><br />\r\n<span style=\"font-style:italic;\">Edge</span><br />\r\n<span style=\"font-weight:bold;\">a</span> - 23.5 grooves/cm.<br />\r\n<span style=\"font-weight:bold;\">b</span> - 27 grooves/cm.<br />\r\nEdge <span style=\"font-weight:bold;\">a</span> at the top of the photo, <span style=\"font-weight:bold;\">b</span> - at the bottom.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/59ec281bbe75b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/59ec281bbe75b.jpg\" alt=\"\" width=\"200\" height=\"112\" /></a><br /><br />\r\n<span style=\"font-style:italic;\">Combinations</span><br />\r\n<span style=\"font-weight:bold;\">1</span>+<span style=\"font-weight:bold;\">A</span>+<span style=\"font-weight:bold;\">a</span>: 2000, 2001, 2002 A1, 2002 A2, 2003.<br />\r\n<span style=\"font-weight:bold;\">1</span>+<span style=\"font-weight:bold;\">A</span>+<span style=\"font-weight:bold;\">b</span>: 2002 A2, 2003, 2008.<br />\r\n<span style=\"font-weight:bold;\">2</span>+<span style=\"font-weight:bold;\">B</span>+<span style=\"font-weight:bold;\">b</span>: 2008.<br />\r\n<span style=\"font-weight:bold;\">3</span>+<span style=\"font-weight:bold;\">C</span>+<span style=\"font-weight:bold;\">b</span>: 2010-2014.<br />\r\n<span style=\"font-weight:bold;\">4</span>+<span style=\"font-weight:bold;\">C</span>+<span style=\"font-weight:bold;\">b</span>: 2015, 2016.<br />\r\n<span style=\"font-weight:bold;\">4</span>+<span style=\"font-weight:bold;\">C</span>: 2017.<br /><br />\r\n<span style=\"font-style:italic;\">2008</span><br />\r\nIn 2008 coins were struck with both dies <span style=\"font-weight:bold;\">A</span> and <span style=\"font-weight:bold;\">B</span> which have additional difference in font of date: bold font die <span style=\"font-weight:bold;\">A</span> (top line of photos) and fine font die <span style=\"font-weight:bold;\">B</span> (bottom line of photos).<br />\r\n<a href=\"https://en.numista.com/catalogue/images/59ec268d8c94b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/59ec268d8c94b.jpg\" alt=\"\" width=\"200\" height=\"106\" /></a><br /><br />\r\nPhotos of reverses with different styles of dates:<br /><br />\r\nnumerals in date wide and bold, the date wide<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5cdfc3b080e27.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5cdfc3b080e27.jpg\" alt=\"\" width=\"200\" height=\"108\" /></a><a href=\"https://en.numista.com/catalogue/images/5cdfc3ba9de23.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5cdfc3ba9de23.jpg\" alt=\"\" width=\"200\" height=\"108\" /></a><br /><br />\r\nnumerals in date wide and fine, the date wide<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5cdfc45933b9d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5cdfc45933b9d.jpg\" alt=\"\" width=\"200\" height=\"108\" /></a><a href=\"https://en.numista.com/catalogue/images/5cdfc460aa5fa.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5cdfc460aa5fa.jpg\" alt=\"\" width=\"199\" height=\"104\" /></a><br /><br />\r\nnumerals in date narrow and tall, the date condensed, position low<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5cdfc4e0a1ec0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5cdfc4e0a1ec0.jpg\" alt=\"\" width=\"200\" height=\"108\" /></a><br /><br />\r\nnumerals in date narrow and tall, the date condensed, position high<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5cdfc530a3283.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5cdfc530a3283.jpg\" alt=\"\" width=\"200\" height=\"108\" /></a><a href=\"https://en.numista.com/catalogue/images/5cdfc53e6fead.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5cdfc53e6fead.jpg\" alt=\"\" width=\"200\" height=\"108\" /></a>",
+  "tags": [
+    "Religious figure",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "235"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "86"
+    }
+  ],
+  "weight": 6.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded. Coins from 2000 to 2003 haves 23.5 grooves/cm and from 2008 to 2016 haves 27 grooves/cm. There are some scarce varieties with 27 grooves/cm in 2002 Large date variety and 2003.",
+    "picture": "https://en.numista.com/catalogue/photos/chili/652196ed40d533.65901274-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/652196ed40d533.65901274-180.jpg",
+    "picture_copyright": "adnansami"
+  },
+  "mints": [
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

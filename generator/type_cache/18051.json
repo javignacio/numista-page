@@ -1,0 +1,166 @@
+{
+  "id": 18051,
+  "url": "https://en.numista.com/18051",
+  "title": "20 Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bolivie",
+    "name": "Bolivia"
+  },
+  "min_year": 2010,
+  "max_year": 2016,
+  "ruler": [
+    {
+      "id": 4380,
+      "name": "Plurinational State",
+      "wikidata_id": "Q750"
+    }
+  ],
+  "value": {
+    "text": "20 Centavos",
+    "numeric_value": 0.2,
+    "currency": {
+      "id": 8,
+      "name": "Second boliviano",
+      "full_name": "Second boliviano (1986-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 22,
+  "thickness": 1.44,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "National arms, circular legend with new country name, star on bottom.",
+    "lettering": "ESTADO PLURINACIONAL DE BOLIVIA\r\nBOLIVIA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Plurinational state of Bolivia\r\nBolivia",
+    "picture": "https://en.numista.com/catalogue/photos/bolivie/1042-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bolivie/1042-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "description": "Face value with sprigs below within inner rope circle, motto between beaded outer circle and inner rope circle, date below.",
+    "lettering": "LA UNION ES LA FUERZA\r\n20\r\nCENTAVOS\r\n2012",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Unity is strength\r\n20\r\nCentavos\r\n2012",
+    "picture": "https://en.numista.com/catalogue/photos/bolivie/1043-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bolivie/1043-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "comments": "Though SCWC gives mass 3.25 g, most probably it is a mistake. The mass measurements of checked specimens give about 3.6 g, that matches with official weight given by Banco Central de Bolivia (Central Bank of Bolivia - issuer).<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/62010693b2104.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/62010693b2104.jpg\" alt=\"\" width=\"200\" height=\"202\" /></a><br />\r\n2016 Issue, picture by Heidjer",
+  "related_types": [
+    {
+      "id": 18050,
+      "title": "10 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "bolivie",
+        "name": "Bolivia"
+      },
+      "minYear": 2010,
+      "maxYear": 2012
+    },
+    {
+      "id": 18052,
+      "title": "50 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "bolivie",
+        "name": "Bolivia"
+      },
+      "minYear": 2010,
+      "maxYear": 2025
+    },
+    {
+      "id": 18053,
+      "title": "1 Boliviano",
+      "category": "coin",
+      "country": {
+        "code": "bolivie",
+        "name": "Bolivia"
+      },
+      "minYear": 2010,
+      "maxYear": 2025
+    },
+    {
+      "id": 18054,
+      "title": "2 Bolivianos",
+      "category": "coin",
+      "country": {
+        "code": "bolivie",
+        "name": "Bolivia"
+      },
+      "minYear": 2010,
+      "maxYear": 2017
+    },
+    {
+      "id": 18055,
+      "title": "5 Bolivianos",
+      "category": "coin",
+      "country": {
+        "code": "bolivie",
+        "name": "Bolivia"
+      },
+      "minYear": 2010,
+      "maxYear": 2012
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Flag",
+    "Coat of Arms",
+    "Firearms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "215"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "47"
+    }
+  ],
+  "weight": 3.6,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    },
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,150 @@
+{
+  "id": 2283,
+  "url": "https://en.numista.com/2283",
+  "title": "25 Cents - Elizabeth II (1st portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "oeco",
+    "name": "Eastern Caribbean States"
+  },
+  "min_year": 1955,
+  "max_year": 1965,
+  "ruler": [
+    {
+      "id": 1089,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 810,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "25 Cents",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 262,
+      "name": "British West Indies dollar",
+      "full_name": "British West Indies dollar (1935-1965)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 24,
+  "thickness": 1.9,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Cecil Thomas"
+    ],
+    "description": "Portrait of Queen Elizabeth II to the right.",
+    "lettering": "QUEEN ELIZABETH THE SECOND",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/oeco/617a6db37b4c33.87155020-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/oeco/617a6db37b4c33.87155020-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Thomas Humphrey Paget"
+    ],
+    "description": "The \"Golden Hind\", ship of Sir Francis Drake (1542-1596), corsair and English explorer.",
+    "lettering": "BRITISH CARIBBEAN TERRITORIES\r\nTWENTY FIVE CENTS\r\n25 25\r\n1965\r\n· EASTERN GROUP ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/oeco/617a6db3d05cf2.95204029-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/oeco/617a6db3d05cf2.95204029-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "related_types": [
+    {
+      "id": 1298,
+      "title": "25 Cents - Elizabeth II (2nd portrait)",
+      "category": "coin",
+      "country": {
+        "code": "oeco",
+        "name": "Eastern Caribbean States"
+      },
+      "minYear": 1981,
+      "maxYear": 2000
+    },
+    {
+      "id": 5714,
+      "title": "25 Cents - Elizabeth II (4th portrait)",
+      "category": "coin",
+      "country": {
+        "code": "oeco",
+        "name": "Eastern Caribbean States"
+      },
+      "minYear": 2002,
+      "maxYear": 2007
+    },
+    {
+      "id": 31887,
+      "title": "25 Cents - Elizabeth II (4th portrait)",
+      "category": "coin",
+      "country": {
+        "code": "oeco",
+        "name": "Eastern Caribbean States"
+      },
+      "minYear": 2010,
+      "maxYear": 2022
+    }
+  ],
+  "tags": [
+    "Boat or watercraft"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "6"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "6"
+    }
+  ],
+  "weight": 6.48,
+  "orientation": "medal",
+  "edge": {
+    "description": "Milled",
+    "picture": "https://en.numista.com/catalogue/photos/oeco/615b4f01d942c7.48238028-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/oeco/615b4f01d942c7.48238028-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

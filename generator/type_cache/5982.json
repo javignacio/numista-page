@@ -1,0 +1,130 @@
+{
+  "id": 5982,
+  "url": "https://en.numista.com/5982",
+  "title": "25 New Pence - Elizabeth II (Silver Wedding)",
+  "object_type": {
+    "id": 3,
+    "name": "Non-circulating coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1972,
+  "max_year": 1972,
+  "ruler": [
+    {
+      "id": 275,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 527,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "25 Pence",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 126,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (decimalized, 1971-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 38.61,
+  "thickness": 3.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Cu, 25% Ni)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Arnold Machin"
+    ],
+    "description": "Second crowned portrait of Queen Elizabeth II right, wearing the Girls of Great Britain and Ireland tiara, legend around.",
+    "lettering": "ELIZABETH II  D·G·REG·F·D·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Elizabeth II Dei Gratia Regina Fidei Defensatrix",
+    "lettering_translation": "Elizabeth II by the Grace of God Queen Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/3598-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/3598-180.jpg",
+    "picture_copyright": "Nestor"
+  },
+  "reverse": {
+    "engravers": [
+      "Arnold Machin"
+    ],
+    "description": "The crowned letters EP within a floral garland, the naked figure of Eros at the centre, legend and dates around.",
+    "lettering": "·ELIZABETH AND PHILIP·\r\nEP\r\n20 NOVEMBER·1947-1972",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/3599-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/3599-180.jpg",
+    "picture_copyright": "Nestor"
+  },
+  "commemorated_topic": "25th wedding anniversary of Queen Elizabeth II and Prince Philip",
+  "comments": "The first crown-sized coin to be issued following Decimalisation Day on 15th February 1971, the denomination was updated from 5 shillings to 25 new pence. Despite being produced in their millions and being available at face value from most post offices and banks, the ordinary business strike was a Royal Mint commemorative issue and not intended for general circulation.<br /><br />\r\nThe proof strike was issued as part of the Annual Proof coin set.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/6281515214ed7.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6281515214ed7.jpg\" alt=\"\" width=\"200\" height=\"137\" /></a><a href=\"https://en.numista.com/catalogue/images/62815139907d0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/62815139907d0.jpg\" alt=\"\" width=\"167\" height=\"250\" /></a><a href=\"https://en.numista.com/catalogue/images/628151413a44c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/628151413a44c.jpg\" alt=\"\" width=\"167\" height=\"250\" /></a><br /><br />\r\n<span style=\"font-style:italic;\">Royal Mint standard twenty-five pence coin production from 1st April 1972 to 31st March 1973</span><br />\r\nTower Hill - 5,652,100<br />\r\nLlantrisant - 1,800,000<br />\r\nTotal struck - 7,452,100<br />\r\nTotal value - £1,863,025<br /><br />\r\n(former Spink ref. 4226)",
+  "related_types": [
+    {
+      "id": 26158,
+      "title": "25 New Pence - Elizabeth II (Silver Wedding; Silver Proof)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1972,
+      "maxYear": 1972
+    }
+  ],
+  "tags": [
+    "Marriage"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "917"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "LL1"
+    }
+  ],
+  "weight": 28.28,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    },
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Non-circulating coins"
+}

@@ -1,0 +1,129 @@
+{
+  "id": 4078,
+  "url": "https://en.numista.com/4078",
+  "title": "50 Roubles (non-magnetic; segmented edge)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "russie",
+    "name": "Russian Federation (1991-date)"
+  },
+  "issuing_entity": {
+    "id": 937,
+    "name": "Central Bank of Russia",
+    "wikidata_id": "Q806651"
+  },
+  "min_year": 1993,
+  "max_year": 1993,
+  "ruler": [
+    {
+      "id": 1573,
+      "name": "Russian Federation",
+      "wikidata_id": "Q159"
+    }
+  ],
+  "value": {
+    "text": "50 Roubles",
+    "numeric_value": 50,
+    "currency": {
+      "id": 221,
+      "name": "Rouble",
+      "full_name": "Rouble (1992-1997)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1998-01-01"
+  },
+  "size": 25,
+  "thickness": 1.9,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The Emblem of the Bank of Russia (the two headed eagle).",
+    "lettering": "ПЯТЬДЕСЯТ РУБЛЕЙ\r\nБАНК РОССИИ",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "Fifty Roubles\r\nBank of Russia",
+    "picture": "https://en.numista.com/catalogue/photos/russie/108-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/russie/108-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Value, date.",
+    "lettering": "50\r\nРУБЛЕЙ \r\nММД\r\n1993",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "Roubles\r\nMMD",
+    "picture": "https://en.numista.com/catalogue/photos/russie/107-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/russie/107-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "NOTE: different mintmarks.<br />\r\n&quot;ММД&quot; in oval = Moscow Mint:<br />\r\n<img src=\"https://en.numista.com/catalogue/images/5714cba41b11f.jpg\" alt=\"\" width=\"129\" height=\"125\" /><br /><br />\r\n&quot;ЛМД&quot; in oval = Leningrad Mint (St. Petersburg Mint):<br />\r\n<img src=\"https://en.numista.com/catalogue/images/5714cbab98528.jpg\" alt=\"\" width=\"141\" height=\"113\" /><br /><br />\r\nTwo different variates of the Obverse (head) ЛМД Mintmark (Leningrad - St. Petersburg Mint) exist:<br />\r\n1. All feathers of the eagle are punching<br />\r\n2. 2 feathers of the eagle are not punching (on both sides of the body)<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5ead869f49bc0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5ead869f49bc0.jpg\" alt=\"\" width=\"200\" height=\"64\" /></a>",
+  "related_types": [
+    {
+      "id": 16501,
+      "title": "50 Roubles (magnetic; smooth edge)",
+      "category": "coin",
+      "country": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "minYear": 1993,
+      "maxYear": 1993
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "329.1"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "279"
+    }
+  ],
+  "weight": 6,
+  "orientation": "medal",
+  "edge": {
+    "description": "Alternating smooth and reeded segments",
+    "picture": "https://en.numista.com/catalogue/photos/russie/695b5b5a825f24.43437415-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/russie/695b5b5a825f24.43437415-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 7,
+      "name": "Saint Petersburg"
+    },
+    {
+      "id": 6,
+      "name": "Moscow Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,127 @@
+{
+  "id": 3032,
+  "url": "https://en.numista.com/3032",
+  "title": "1 Shilling - George VI",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "afrique_occidentale_britannique",
+    "name": "British West Africa"
+  },
+  "issuing_entity": {
+    "id": 5877,
+    "name": "West African Currency Board"
+  },
+  "min_year": 1938,
+  "max_year": 1947,
+  "ruler": [
+    {
+      "id": 1755,
+      "name": "George VI",
+      "wikidata_id": "Q280856",
+      "group": {
+        "id": 823,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Shilling",
+    "numeric_value": 0.05,
+    "numerator": 1,
+    "denominator": 20,
+    "currency": {
+      "id": 281,
+      "name": "Pound",
+      "full_name": "Pound (1907-1968)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 23.6,
+  "thickness": 1.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass (79% Copper, 20% Zinc, 1% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Percy Metcalfe"
+    ],
+    "description": "Portrait of George VI",
+    "lettering": ":GEORGIVS VI D·G·BRITT·OMN·REX F·D·IND·IMP\r\nPM",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/afrique_occidentale_britannique/68703355d12e78.56182914-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/afrique_occidentale_britannique/68703355d12e78.56182914-180.jpg",
+    "picture_copyright": "Zanzibar.Orc.Coins",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Face value and palm tree\r\n\r\nEventual mint marks none, H or KN wil be found under the palm tree trunk",
+    "lettering": "BRITISH WEST AFRICA\r\n. 19 47 .\r\nONE SHILLING",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/afrique_occidentale_britannique/68703357371369.54468981-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/afrique_occidentale_britannique/68703357371369.54468981-180.jpg",
+    "picture_copyright": "Zanzibar.Orc.Coins",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p><a href=\"https://en.numista.com/catalogue/images/69777f45c5175.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/69777f45c5175.jpg\"></a></p>",
+  "tags": [
+    "Monarch",
+    "Crown",
+    "Tree"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "23"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "26"
+    }
+  ],
+  "weight": 5.66,
+  "orientation": "medal",
+  "edge": {
+    "description": "Security edge"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    },
+    {
+      "id": 18,
+      "name": "Heaton and Sons / The Mint Birmingham"
+    },
+    {
+      "id": 31,
+      "name": "Kings Norton Metal Company"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

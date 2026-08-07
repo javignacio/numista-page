@@ -1,0 +1,131 @@
+{
+  "id": 3377,
+  "url": "https://en.numista.com/3377",
+  "title": "1 Penny - Victoria (2nd portrait; 1st type)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1860,
+  "max_year": 1874,
+  "ruler": [
+    {
+      "id": 270,
+      "name": "Victoria",
+      "wikidata_id": "Q9439",
+      "nomisma_id": "queen_victoria",
+      "group": {
+        "id": 525,
+        "name": "House of Hanover"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Penny",
+    "numeric_value": 0.004166666666666667,
+    "numerator": 1,
+    "denominator": 240,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1971)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1971-08-31"
+  },
+  "size": 30.8,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Leonard Charles Wyon"
+    ],
+    "description": "Second laureate and draped bust ('Bun Head') of Queen Victoria left, legend around.\r\n\r\nNote: varieties exist",
+    "lettering": "VICTORIA D:G: BRITT:REG:F:D:",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Victoria Dei Gratia Britanniarum Regina Fidei Defensatrix",
+    "lettering_translation": "Victoria by the Grace of God Queen of the Britains Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/5fa68ec50b4e02.59941740-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/5fa68ec50b4e02.59941740-180.jpg",
+    "picture_copyright": "narracan coins"
+  },
+  "reverse": {
+    "engravers": [
+      "Leonard Charles Wyon"
+    ],
+    "description": "Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right, sea behind with lighthouse on left and ship on right, denomination around, date in exergue.\r\n\r\nNote: varieties exist",
+    "lettering": "ONE PENNY\r\n1863",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/5fa68ec5c8a650.13680512-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/5fa68ec5c8a650.13680512-180.jpg",
+    "picture_copyright": "narracan coins"
+  },
+  "comments": "<p>The standard weight of these pieces was 48 to the pound avoirdupois (1/3 ounce or 145.8 grains).<br><br>There are many obverse and reverse varieties for this type, following is a selection of them:<br><br><strong>Sp#3954</strong> <i>(1860-1894)</i> no mintmark on reverse;<br><strong>Sp#3955</strong> <i>(1874/5/6, 1881/2)</i> 'H' mintmark on reverse below date, struck at Ralph Heaton &amp; Sons, Birmingham.<br><br>In 1874, the second portrait was very slightly changed. In KM#749, the D:G: is closer to the Queen's head.<br>So take care if you have an 1874 in case it is KM#755.<br><br><strong>KM#749.1</strong> <i>(1860 only)</i> Beaded border, without die number;<br><strong>KM#749.2</strong> <i>(1860-1874)</i> Toothed border, without die number;<br><strong>KM#749.3</strong> <i>(1863 only)</i> Toothed border, with die number below date;</p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/6957df5f03259.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6957df5f03259.jpg\"></a><br><br>There are many other small variations to the obverse and reverse designs, all full list of which can be found (with pictures) in the latest version of the Spink Standard Catalogue of British Coins.<br><br>How to count number of leaves on the wreath:<br><br><a href=\"https://en.numista.com/catalogue/images/67a3bc3684858.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67a3bc3684858.png\"></a></p><p>&nbsp;</p><p>Sometimes, the striking process and excessive wear make it difficult to differentiate the 1860 beads and denticles varieties. The following illustrations should help:</p><p><a href=\"https://en.numista.com/catalogue/images/68b3202472d0e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/68b3202472d0e.jpg\"></a> <a href=\"https://en.numista.com/catalogue/images/68b3202f8d7ce.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/68b3202f8d7ce.jpg\"></a></p>",
+  "tags": [
+    "Armour",
+    "Lighthouse",
+    "Monarch",
+    "Sea",
+    "Boat or watercraft",
+    "Allegory"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "749"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "3954"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "3955"
+    }
+  ],
+  "weight": 9.45,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/67564ebe212d33.53018434-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/67564ebe212d33.53018434-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

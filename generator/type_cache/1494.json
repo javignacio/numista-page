@@ -1,0 +1,130 @@
+{
+  "id": 1494,
+  "url": "https://en.numista.com/1494",
+  "title": "5 Öre - Gustaf VI Adolf",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "suede",
+    "name": "Sweden"
+  },
+  "min_year": 1952,
+  "max_year": 1971,
+  "ruler": [
+    {
+      "id": 2365,
+      "name": "Gustaf VI Adolf",
+      "wikidata_id": "Q52878",
+      "group": {
+        "id": 99,
+        "name": "House of Bernadotte"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Öre",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 18,
+      "name": "Krona",
+      "full_name": "Krona (1873-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1985-06-30"
+  },
+  "size": 27,
+  "thickness": 1.87,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze (95% copper, 4% tin, 1% zinc)"
+  },
+  "technique": {
+    "text": "Milled, Incuse"
+  },
+  "obverse": {
+    "description": "Large incused crown at top; below raised lettering in rectangular indentations. At bottom there are the mintmark at left and the first letter in the surname of the Governor of the Riksbank at right.",
+    "lettering": "GUSTAF VI ADOLF\r\nSVERIGES\r\nKONUNG\r\nU",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Gustaf VI Adolf, King of Sweden.",
+    "picture": "https://en.numista.com/catalogue/photos/suede/2026-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suede/2026-180.jpg",
+    "picture_copyright": "whitegandalf"
+  },
+  "reverse": {
+    "description": "Big value (raised numeral in central round indentation) with small crown above. Date and letters of denomination in indentations respectively at sides and below central value.",
+    "lettering": "19 5 70\r\nÖRE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/suede/2027-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suede/2027-180.jpg",
+    "picture_copyright": "whitegandalf"
+  },
+  "comments": "<p>The mint masters on the 1961 coin</p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/65b3e543065b8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/65b3e543065b8.jpg\"></a></p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/686fa230294ee.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686fa230294ee.jpg\"></a></p><p><a href=\"https://en.numista.com/catalogue/images/686fa23ea4b8c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686fa23ea4b8c.jpg\"></a></p>",
+  "related_types": [
+    {
+      "id": 1506,
+      "title": "1 Öre - Gustaf VI Adolf",
+      "category": "coin",
+      "country": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "minYear": 1952,
+      "maxYear": 1971
+    },
+    {
+      "id": 1033,
+      "title": "2 Öre - Gustaf VI Adolf",
+      "category": "coin",
+      "country": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "minYear": 1952,
+      "maxYear": 1971
+    }
+  ],
+  "tags": [
+    "Crown"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "822"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "50"
+    }
+  ],
+  "weight": 8,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 5989,
+      "name": "Kungliga Myntet"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

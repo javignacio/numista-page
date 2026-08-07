@@ -1,0 +1,143 @@
+{
+  "id": 101,
+  "url": "https://en.numista.com/101",
+  "title": "20 Euro Cents (1st map)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "france",
+    "name": "France"
+  },
+  "min_year": 1999,
+  "max_year": 2006,
+  "ruler": [
+    {
+      "id": 11,
+      "name": "Fifth Republic",
+      "wikidata_id": "Q200686",
+      "group": {
+        "id": 89,
+        "name": "Modern France"
+      }
+    }
+  ],
+  "value": {
+    "text": "20 Euro Cents",
+    "numeric_value": 0.2,
+    "currency": {
+      "id": 9006,
+      "name": "Euro",
+      "full_name": "Euro (2002-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2002-01-01"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 22.25,
+  "thickness": 2.14,
+  "shape": "Spanish flower",
+  "composition": {
+    "text": "Nordic gold (89% Copper, 5% Aluminium, 5% Zinc, 1% Tin)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Laurent Jorio"
+    ],
+    "description": "A modern adaptation of the Sower, initially designed by Oscar Roty, representing \"France, which stays true to itself, whilst integrating into Europe\", is encircled by the twelve stars of Europe",
+    "lettering": "L. JORIO d'ap. O. ROTY\r\n2006 RF",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/france/627a57b6432958.11758022-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/627a57b6432958.11758022-180.jpg",
+    "picture_copyright": "Mike Bentley",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Luc Luycx"
+    ],
+    "description": "A map, next to the face value, symbolizes the gathering of the fifteen nations of the European Union",
+    "lettering": "20 \r\nLL\r\nEURO \r\nCENT",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/france/627a57b761ff10.55042719-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/627a57b761ff10.55042719-180.jpg",
+    "picture_copyright": "Mike Bentley",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p><u>Different Mint Master Marks</u><br>&nbsp;</p><ul><li><img src=\"https://en.numista.com/catalogue/images/5fa0215c0e68b.jpg\" alt=\"\"> Pierre Rodier, from 1999 to 2000, a mark of a bee<br>&nbsp;</li><li><img src=\"https://en.numista.com/catalogue/images/5fa0212561d01.jpg\" alt=\"\"> Gerard Buquoy, from 2001 to 2002, a mark of a horseshoe<br>&nbsp;</li><li><img src=\"https://en.numista.com/catalogue/images/5fa021a3b37d4.jpg\" alt=\"\"> Serge Levet, in 2003, a mark of a stylised heart with the initials of the mint master (SL)<br>&nbsp;</li><li><img src=\"https://en.numista.com/catalogue/images/5fa02200bd651.jpg\" alt=\"\"> Hubert Lariviere, from 2004 to 2006, a mark of a hunting horn with a wave and a fish<br>&nbsp;</li></ul><p><br><strong><u>BUNC Sets Released</u></strong><br>&nbsp;</p><ul><li>1999 - 35000 Annual Coin Sets<br>&nbsp;</li><li>2000 - 35000 Annual Coin Sets<br>&nbsp;</li><li>2001 - 35000 Annual Coin Sets<br>&nbsp;</li><li>2002 - 145563 Annual Coin Sets + 19727 <i>The Little Prince</i> Coin Sets<br>&nbsp;</li><li>2003 - 109407 Annual Coin Sets + 10094 <i>The Little Prince</i> Coin Sets + 12638 Tourism Coin Sets (Eiffel Tower)<br>&nbsp;</li><li>2004 - 120000 Annual Coin Sets + 5399 <i>The Little Prince</i> Coin Sets + 3704 Tourism Coin Sets (Provence)<br>&nbsp;</li><li>2005 - 69999 Annual Coin Sets + 2611 <i>Moebius </i>Coin Sets + 2541 Tourism Coin Sets (Garonne)<br>&nbsp;</li><li>2006 - 70000 Annual Coin Sets + 20 different illustrated Coin Sets of 500 issues each<br>&nbsp;</li></ul><p><br><strong><u>PROOF Sets Released</u></strong><br>&nbsp;</p><ul><li>From 1999 to 2006 - Annual Coin Sets<br>&nbsp;</li></ul><p><br>In 1999 there are two types of engraver general marks: the bee is closer to the star under it on one type and the bee higher from the star and moved to the right.<br><a href=\"https://en.numista.com/catalogue/images/5f422b8a1a424.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5f422b8a1a424.jpg\" alt=\"\"></a><br>A very good site to see the classification:<br><a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"http://eucoins.byethost9.com/fr.html\">http://eucoins.byethost9.com/fr.html</a></p>",
+  "related_types": [
+    {
+      "id": 6373,
+      "title": "20 Euro Cents (2nd map)",
+      "category": "coin",
+      "country": {
+        "code": "france",
+        "name": "France"
+      },
+      "minYear": 2007,
+      "maxYear": 2023
+    }
+  ],
+  "tags": [
+    "Map",
+    "Allegory",
+    "Phrygian cap"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1286"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "655"
+    },
+    {
+      "catalogue": {
+        "id": 109,
+        "code": "Gad 1789"
+      },
+      "number": "5 (Ed.2019)"
+    }
+  ],
+  "weight": 5.74,
+  "orientation": "medal",
+  "edge": {
+    "description": "Smooth with seven indentations (\"Spanish flower\")",
+    "picture": "https://en.numista.com/catalogue/photos/france/8648-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/8648-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

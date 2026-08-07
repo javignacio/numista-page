@@ -1,0 +1,117 @@
+{
+  "id": 2634,
+  "url": "https://en.numista.com/2634",
+  "title": "1 Shilling (Copper-nickel)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "kenya",
+    "name": "Kenya"
+  },
+  "min_year": 1978,
+  "max_year": 1989,
+  "ruler": [
+    {
+      "id": 937,
+      "name": "Republic",
+      "wikidata_id": "Q114"
+    }
+  ],
+  "value": {
+    "text": "1 Shilling",
+    "numeric_value": 1,
+    "currency": {
+      "id": 179,
+      "name": "Shilling",
+      "full_name": "Shilling (1966-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 27.8,
+  "thickness": 1.65,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms of Kenya dividing date.",
+    "lettering": "REPUBLIC OF KENYA \r\n1980\r\nHARAMBEE\r\n1 \r\nONE SHILLING",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "All pull together.",
+    "picture": "https://en.numista.com/catalogue/photos/kenya/261-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/kenya/261-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "description": "Bust of Daniel Toroitich Arap Moi facing right.",
+    "lettering": "PRESIDENT OF REPUBLIC OF KENYA\r\nDANIEL TOROITICH ARAP MOI",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/kenya/262-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/kenya/262-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "related_types": [
+    {
+      "id": 12198,
+      "title": "1 Shilling (Plated steel)",
+      "category": "coin",
+      "country": {
+        "code": "kenya",
+        "name": "Kenya"
+      },
+      "minYear": 1994,
+      "maxYear": 1994
+    }
+  ],
+  "tags": [
+    "Coat of Arms",
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "20"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "20"
+    }
+  ],
+  "weight": 7.9,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/kenya/5e9921c8596295.14877539-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/kenya/5e9921c8596295.14877539-180.jpg",
+    "picture_copyright": "Wilson Roberto Vasques Nunes"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

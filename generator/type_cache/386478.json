@@ -1,0 +1,112 @@
+{
+  "id": 386478,
+  "url": "https://en.numista.com/386478",
+  "title": "10 Cents - Charles III",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "canada",
+    "name": "Canada"
+  },
+  "min_year": 2023,
+  "max_year": 2026,
+  "ruler": [
+    {
+      "id": 6816,
+      "name": "Charles III",
+      "wikidata_id": "Q43274",
+      "group": {
+        "id": 827,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Cents",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 44,
+      "name": "Dollar",
+      "full_name": "Dollar (1858-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 18.03,
+  "thickness": 1.3,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Steven Rosati"
+    ],
+    "description": "Bust of King Charles III, in suit and tie, aged 74, facing left.",
+    "lettering": "CHARLES III D·G·REX\r\nSR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "CHARLES III DEI GRATIA REX",
+    "lettering_translation": "Charles III, by the Grace of God, King",
+    "picture": "https://en.numista.com/catalogue/photos/canada/671297621ec556.53156850-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/671297621ec556.53156850-180.jpg",
+    "picture_copyright": "Frenchlover"
+  },
+  "reverse": {
+    "designers": [
+      "Emanuel Otto Hahn"
+    ],
+    "description": "Schooner sailing left. Date at right, value below.",
+    "lettering": "CANADA\r\n2024\r\n10 CENTS\r\nH",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/canada/67129762e80847.36375445-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/67129762e80847.36375445-180.jpg",
+    "picture_copyright": "Frenchlover"
+  },
+  "comments": "<p>\"These coins (except the 50-cent) were put into circulation on December 14, 2023.\" - Royal Canadian Mint</p><p>&nbsp;</p><p><strong>The Brilliant uncirculated coin come from collection sets or a special roller set.</strong></p><p><strong><img class=\"image_resized\" style=\"width:22.3%;\" src=\"https://en.numista.com/catalogue/images/miniatures/67158d2c9e167.jpg\"></strong><img class=\"image_resized\" style=\"width:22.3%;\" src=\"https://en.numista.com/catalogue/images/miniatures/67158d36b3b26.jpg\"></p><p><strong>The Proof and Specimen coins come from collection sets.</strong></p><p><img class=\"image_resized\" style=\"width:20.54%;\" src=\"https://fr.numista.com/catalogue/photos/canada/668021189671c7.05256311-180.jpg\" alt=\"10 cents - Charles III (Épreuve) - avers\"><img src=\"https://fr.numista.com/catalogue/photos/canada/66802118bfb792.62456067-180.jpg\" alt=\"10 cents - Charles III (Épreuve) - revers\"><img src=\"https://fr.numista.com/catalogue/photos/canada/66353fc0936a07.00141065-180.jpg\" alt=\"10 cents - Charles III (Spécimen) - avers\"><img src=\"https://fr.numista.com/catalogue/photos/canada/66353fc158b455.80808618-180.jpg\" alt=\"10 cents - Charles III (Spécimen) - revers\"></p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<strong>Proof &nbsp; &nbsp;</strong> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<strong>Specimen</strong></p>",
+  "tags": [
+    "Boat or watercraft"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "3336"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "3418"
+    }
+  ],
+  "weight": 1.75,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

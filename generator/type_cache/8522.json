@@ -1,0 +1,118 @@
+{
+  "id": 8522,
+  "url": "https://en.numista.com/8522",
+  "title": "100 Francs",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "gabon",
+    "name": "Gabon"
+  },
+  "issuing_entity": {
+    "id": 699,
+    "name": "Bank of Central African States",
+    "wikidata_id": "Q189972"
+  },
+  "min_year": 1975,
+  "max_year": 1985,
+  "ruler": [
+    {
+      "id": 833,
+      "name": "Republic",
+      "wikidata_id": "Q1000"
+    }
+  ],
+  "value": {
+    "text": "100 Francs CFA",
+    "numeric_value": 100,
+    "currency": {
+      "id": 9038,
+      "name": "CFA franc",
+      "full_name": "CFA franc (Bank of Central African States, 1973-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25,
+  "thickness": 1.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Lucien Georges Bazor"
+    ],
+    "designers": [
+      "Robert Cochet"
+    ],
+    "description": "Three great eland left",
+    "lettering": "REPUBLIQUE GABONAISE\r\nG.B.L.BAZOR\r\nRC",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Gabonese Republic",
+    "picture": "https://en.numista.com/catalogue/photos/gabon/60560779643e01.27962679-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/gabon/60560779643e01.27962679-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "reverse": {
+    "description": "Denomination within circle, date below",
+    "lettering": "BANQUE DES ETATS DE\r\nL'AFRIQUE CENTRALE\r\n100\r\nFRANCS\r\n1975",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Banc of the Central African States",
+    "picture": "https://en.numista.com/catalogue/photos/gabon/60560779b1eda4.54432745-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/gabon/60560779b1eda4.54432745-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "comments": "<span style=\"font-weight:bold;\">nickel</span> (magnetic) and not cupronickel",
+  "tags": [
+    "Cow or bovine"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "13"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "12"
+    }
+  ],
+  "weight": 7,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/gabon/187-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/gabon/187-180.jpg",
+    "picture_copyright": "CyrusPamelaOne",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

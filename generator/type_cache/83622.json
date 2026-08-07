@@ -1,0 +1,109 @@
+{
+  "id": 83622,
+  "url": "https://en.numista.com/83622",
+  "title": "1 Real (Olympic Games Rio 2016 - Paralympic Mascot)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "bresil",
+    "name": "Brazil"
+  },
+  "min_year": 2016,
+  "max_year": 2016,
+  "ruler": [
+    {
+      "id": 2684,
+      "name": "Federative Republic of Brazil",
+      "wikidata_id": "Q155"
+    }
+  ],
+  "value": {
+    "text": "1 Real",
+    "numeric_value": 1,
+    "currency": {
+      "id": 158,
+      "name": "Real",
+      "full_name": "Real (1994-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 27,
+  "thickness": 1.95,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: stainless steel centre in bronze plated steel ring"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Paralympic mascot, named Tom, and the Rio Games logo.",
+    "lettering": "BRASIL\r\nRIO 2016",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Brazil\r\nRio 2016",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/62bf845352fec1.46322062-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/62bf845352fec1.46322062-180.jpg",
+    "picture_copyright": "Ben-jamin",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "reverse": {
+    "description": "Numeral 1 on stylized detail of national arms (South Cross constellation, symbolizing position of the country).",
+    "lettering": "1\r\nREAL\r\n2016",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bresil/62bf8453b8ba86.30889499-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/62bf8453b8ba86.30889499-180.jpg",
+    "picture_copyright": "Ben-jamin",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "series": "2016 Summer Olympics, Rio",
+  "commemorated_topic": "Paralympic Mascot",
+  "tags": [
+    "Summer Olympic Games"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "727"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "232"
+    }
+  ],
+  "weight": 7,
+  "orientation": "coin",
+  "edge": {
+    "description": "Mills and smooth section",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/1943-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/1943-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 1335,
+      "name": "Mint of Brazil"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

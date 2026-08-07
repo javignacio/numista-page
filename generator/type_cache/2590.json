@@ -1,0 +1,119 @@
+{
+  "id": 2590,
+  "url": "https://en.numista.com/2590",
+  "title": "50 Fillér",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "hongrie",
+    "name": "Hungary"
+  },
+  "min_year": 1990,
+  "max_year": 1999,
+  "ruler": [
+    {
+      "id": 1801,
+      "name": "Republic",
+      "wikidata_id": "Q718422"
+    }
+  ],
+  "value": {
+    "text": "50 Fillér",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 71,
+      "name": "Forint",
+      "full_name": "Forint (1946-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 21.5,
+  "thickness": 1.4,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Iván István"
+    ],
+    "description": "Erzsébet Bridge in Budapest",
+    "lettering": "MAGYAR KÖZTÁRSASÁG ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Hungary",
+    "picture": "https://en.numista.com/catalogue/photos/hongrie/6303aeedc6ecc8.72466463-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hongrie/6303aeedc6ecc8.72466463-180.jpg",
+    "picture_copyright": "Máté Bikfalvi",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "Iván István"
+    ],
+    "description": "Denomination, leaves behind",
+    "lettering": "50\r\nFILLÉR\r\n1993\r\nBP.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/hongrie/6303aeee432d49.67594545-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hongrie/6303aeee432d49.67594545-180.jpg",
+    "picture_copyright": "Máté Bikfalvi",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "tags": [
+    "Bridge"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "677"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "176"
+    },
+    {
+      "catalogue": {
+        "id": 360,
+        "code": "Adamo"
+      },
+      "number": "F5.3"
+    }
+  ],
+  "weight": 1.2,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/hongrie/61581d561e2a79.00184277-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hongrie/61581d561e2a79.00184277-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 1248,
+      "name": "Hungarian mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

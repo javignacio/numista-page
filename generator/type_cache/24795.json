@@ -1,0 +1,104 @@
+{
+  "id": 24795,
+  "url": "https://en.numista.com/24795",
+  "title": "1 Penny - George III (Thin numerals; incl. Maundy)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1792,
+  "max_year": 1792,
+  "ruler": [
+    {
+      "id": 267,
+      "name": "George III",
+      "wikidata_id": "Q127318",
+      "group": {
+        "id": 525,
+        "name": "House of Hanover"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Penny",
+    "numeric_value": 0.004166666666666667,
+    "numerator": 1,
+    "denominator": 240,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1971)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 12,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.925)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Older laureate and draped bust of King George III right, legend around.",
+    "lettering": "GEORGIVS III DEI GRATIA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "George the Third by the Grace of God",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/63c2a9bd15b008.92215227-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/63c2a9bd15b008.92215227-180.jpg",
+    "picture_copyright": "PCGS",
+    "picture_copyright_url": "https://www.pcgs.com/"
+  },
+  "reverse": {
+    "description": "Central crowned denomination above date, legend around.\r\n\r\nNote: thin numeral known as 'Wire Money'.",
+    "lettering": "MAG·BRI·FR·ET·HIB·REX\r\n1\r\n·1792·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Magnae Britanniae Franciae Et Hiberniae Rex",
+    "lettering_translation": "King of Great Britain France and Ireland",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/63c2a9bec42377.78615039-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/63c2a9bec42377.78615039-180.jpg",
+    "picture_copyright": "PCGS",
+    "picture_copyright_url": "https://www.pcgs.com/"
+  },
+  "comments": "The standard weight of this coin was 1/62 troy ounce or 7.7 grains.<br /><br />\r\nBefore the Great Recoinage of 1817, there is no known evidence to suggest that separate &#039;prooflike&#039; strikes were issued for the Maundy ceremony, suggesting that the money handed out was identical to the current circulating coinage.<br /><br />\r\n<span style=\"font-weight:bold;\">Sp#3763</span> <span style=\"font-style:italic;\">Maundy money set listed with its KM# ref:</span><br /><br />\r\n1792 MDS60",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "610"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "3760"
+    }
+  ],
+  "weight": 0.5,
+  "orientation": "medal",
+  "mints": [
+    {
+      "id": 4872,
+      "name": "Royal Mint (Tower of London)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

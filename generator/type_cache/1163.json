@@ -1,0 +1,115 @@
+{
+  "id": 1163,
+  "url": "https://en.numista.com/1163",
+  "title": "5 Jiao",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "chine",
+    "name": "China, People's Republic of"
+  },
+  "min_year": 1991,
+  "max_year": 2001,
+  "ruler": [
+    {
+      "id": 1436,
+      "name": "People's Republic",
+      "wikidata_id": "Q148"
+    }
+  ],
+  "value": {
+    "text": "5 Jiao",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 198,
+      "name": "Rénmínbì",
+      "full_name": "Rénmínbì (1955-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1992-06-01"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 20.5,
+  "thickness": 1.65,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "China's emblem: Tian'anmen, \"Gate of Heavenly Peace\", gate to the forbidden city, 5 stars above it. The text reads \"People's Republic of China\"",
+    "lettering": "ZHONGHUA RENMIN GONGHEGUO\r\n中华人民共和国\r\n2000",
+    "lettering_scripts": [
+      {
+        "name": "Chinese"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chine/5-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chine/5-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Prunus mume blossom (also known as Chinese plum or Japanese apricot), value in Chinese and Piniyin",
+    "lettering": "5 角\r\nWU JIAO",
+    "lettering_scripts": [
+      {
+        "name": "Chinese"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chine/6-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chine/6-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "NOTE: previous Y#329",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "336"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "288"
+    },
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "329"
+    }
+  ],
+  "weight": 3.8,
+  "orientation": "medal",
+  "edge": {
+    "description": "Alternating reeded and smooth segments (6 sets of 8 reeds)",
+    "picture": "https://en.numista.com/catalogue/photos/chine/69a5e1634e9fa8.74965763-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chine/69a5e1634e9fa8.74965763-180.jpg",
+    "picture_copyright": "ZacUK"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

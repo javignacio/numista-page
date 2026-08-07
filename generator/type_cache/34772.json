@@ -1,0 +1,173 @@
+{
+  "id": 34772,
+  "url": "https://en.numista.com/34772",
+  "title": "100 Pesos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "colombie",
+    "name": "Colombia"
+  },
+  "min_year": 2012,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 4088,
+      "name": "Republic",
+      "wikidata_id": "Q739"
+    }
+  ],
+  "value": {
+    "text": "100 Pesos",
+    "numeric_value": 100,
+    "currency": {
+      "id": 147,
+      "name": "Peso decimalized",
+      "full_name": "Peso decimalized (1847-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 20.3,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "José Antonio Suárez"
+    ],
+    "description": "The country name over the value in the center, date below",
+    "lettering": "·REPÚBLICA DE COLOMBIA·\r\n100 \r\n·PESOS· \r\n2018",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "·Republic of Colombia·\r\n100 \r\n·Pesos· \r\n2018",
+    "picture": "https://en.numista.com/catalogue/photos/colombie/5e6f79cb449a31.02991353-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/5e6f79cb449a31.02991353-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "designers": [
+      "Johanna Calle"
+    ],
+    "description": "A Frailejón plant with it's common name and scientific name to the left.",
+    "lettering": "FRAILEJÓN\r\nESPELETIA GRANDIFLORA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/colombie/5e6f79cbaf0484.40537849-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/5e6f79cbaf0484.40537849-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "comments": "<p>The frailejón plant (Espeletia, a genus of perennial subshrubs, in the family Asteracea) is endemic mainly to Colombia, Venezuela, and Ecuador.<br><br><a href=\"https://en.numista.com/catalogue/images/64907466195f2.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64907466195f2.jpg\" alt=\"\"></a></p><p>&nbsp;</p><p>The artist Johanna Calle was the first female artist to design Colombian circulation coinage, with her designs appearing in the $100 and $500 (<a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"/34774\">N#34774</a>) pesos coins&nbsp;</p><p>&nbsp;</p><p>There are some varieties for all 100 pesos (especially for 2017, 2018):</p><p><a href=\"https://en.numista.com/catalogue/images/697289099cf46.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/697289099cf46.jpg\"></a> &nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/6972891b234ba.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6972891b234ba.jpg\"></a></p>",
+  "related_types": [
+    {
+      "id": 34771,
+      "title": "50 Pesos",
+      "category": "coin",
+      "country": {
+        "code": "colombie",
+        "name": "Colombia"
+      },
+      "minYear": 2012,
+      "maxYear": 2025
+    },
+    {
+      "id": 34773,
+      "title": "200 Pesos",
+      "category": "coin",
+      "country": {
+        "code": "colombie",
+        "name": "Colombia"
+      },
+      "minYear": 2012,
+      "maxYear": 2026
+    },
+    {
+      "id": 34774,
+      "title": "500 Pesos",
+      "category": "coin",
+      "country": {
+        "code": "colombie",
+        "name": "Colombia"
+      },
+      "minYear": 2012,
+      "maxYear": 2025
+    },
+    {
+      "id": 34775,
+      "title": "1000 Pesos",
+      "category": "coin",
+      "country": {
+        "code": "colombie",
+        "name": "Colombia"
+      },
+      "minYear": 2012,
+      "maxYear": 2024
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "296"
+    },
+    {
+      "catalogue": {
+        "id": 347,
+        "code": "Hernández"
+      },
+      "number": "651"
+    },
+    {
+      "catalogue": {
+        "id": 348,
+        "code": "Restrepo"
+      },
+      "number": "445A"
+    }
+  ],
+  "weight": 3.34,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 4172,
+      "name": "Fábrica de Moneda de Ibagué"
+    },
+    {
+      "id": 1262,
+      "name": "Kremnica"
+    },
+    {
+      "id": 27,
+      "name": "Mint of Poland"
+    },
+    {
+      "id": 27,
+      "name": "Mint of Poland"
+    },
+    {
+      "id": 7,
+      "name": "Saint Petersburg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

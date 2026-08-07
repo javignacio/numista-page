@@ -1,0 +1,122 @@
+{
+  "id": 189639,
+  "url": "https://en.numista.com/189639",
+  "title": "¼ Dollar \"Washington Quarter\" (Tallgrass Prairie National Preserve, Kansas)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "etats-unis",
+    "name": "United States"
+  },
+  "min_year": 2020,
+  "max_year": 2020,
+  "ruler": [
+    {
+      "id": 4720,
+      "name": "Federal republic",
+      "wikidata_id": "Q30"
+    }
+  ],
+  "value": {
+    "text": "¼ Dollar ",
+    "numeric_value": 0.25,
+    "numerator": 1,
+    "denominator": 4,
+    "currency": {
+      "id": 59,
+      "name": "Dollar",
+      "full_name": "Dollar (1785-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24.26,
+  "thickness": 1.75,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel clad copper"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "John Flanagan",
+      "William Cousins"
+    ],
+    "description": "The portrait in left profile of George Washington, the first President of the United States from 1789 to 1797.",
+    "lettering": "UNITED STATES OF AMERICA\r\nIN\r\nGOD WE\r\nTRUST\r\nLIBERTY P\r\nJF WC\r\nQUARTER DOLLAR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/5509-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/5509-180.jpg",
+    "picture_copyright": "Image courtesy of the United States Mint"
+  },
+  "reverse": {
+    "engravers": [
+      "Renata Gordon",
+      "Emily S. Damstra"
+    ],
+    "description": "The reverse design depicts a skyward view of a Regal Fritillary butterfly against a backdrop of Big Bluestem and Indian grasses, iconic to Tallgrass Prairie National Preserve.",
+    "lettering": "TALLGRASS PRAIRIE\r\nKANSAS\r\n2020\r\nE PLURIBUS UNUM",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/5510-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/5510-180.jpg",
+    "picture_copyright": "Image courtesy of the United States Mint"
+  },
+  "series": "United States Mint's \"America the Beautiful\" Quarters Program",
+  "commemorated_topic": "Tallgrass Prairie National Preserve",
+  "comments": "The Tallgrass Prairie National Preserve in Kansas encompasses nearly 11,000 acres and is located in the heart of the Flint Hills–the largest expanse of tallgrass prairie left in North America. It is the only unit of the National Park Service dedicated to the rich, natural history of the tallgrass prairie. Authorized in 1996, the enabling legislation for the preserve also directed the National Park Service to interpret the region’s ranching legacy; a portion of the preserve is still grazed by cattle.<br /><br />\r\n2020-W America the Beautiful quarter dollars were issued with an obverse privy mark paying homage to the 75th anniversary of American involvement at the end of World War II.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5e27ff336caca.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e27ff336caca.jpg\" alt=\"\" width=\"200\" height=\"201\" /></a>",
+  "tags": [
+    "Insect"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "723"
+    }
+  ],
+  "weight": 5.67,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/65d2790e0ea766.13201319-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/65d2790e0ea766.13201319-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 10,
+      "name": "United States Mint of Denver"
+    },
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    },
+    {
+      "id": 12,
+      "name": "United States Mint of San Francisco"
+    },
+    {
+      "id": 13,
+      "name": "United States Mint of West Point"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

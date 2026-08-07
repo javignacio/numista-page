@@ -1,0 +1,126 @@
+{
+  "id": 3253,
+  "url": "https://en.numista.com/3253",
+  "title": "20 Centavos (non magnetic; reeded edge)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "argentine",
+    "name": "Argentina"
+  },
+  "min_year": 1951,
+  "max_year": 1952,
+  "ruler": [
+    {
+      "id": 3983,
+      "name": "Federal Republic",
+      "wikidata_id": "Q414"
+    }
+  ],
+  "value": {
+    "text": "20 Centavos",
+    "numeric_value": 0.2,
+    "currency": {
+      "id": 261,
+      "name": "Peso moneda nacional",
+      "full_name": "Peso moneda nacional (1881-1969)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1970-01-01"
+  },
+  "size": 21,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Value",
+    "lettering": "REPUBLICA ARGENTINA \r\n20 \r\nCENTAVOS\r\n· 1951 ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Argentina",
+    "picture": "https://en.numista.com/catalogue/photos/argentine/60d64e7f5e5bc2.00989969-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/60d64e7f5e5bc2.00989969-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "reverse": {
+    "engravers": [
+      "Mario Baiardi"
+    ],
+    "description": "Jose de San Martín portrait right.",
+    "lettering": "JOSE DE SAN MARTIN",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/argentine/60d64e7fa18355.62840713-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/60d64e7fa18355.62840713-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "comments": "<p>There are variants for 1951 year. The variants reside in the different stretch of the edge.<br>Thick edge (15 s/cm - Stretch)<br>Thin edge (21 s/cm - Stretch)<br>Irregular edge<br>Previously KM#23</p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/6827479cc599c.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6827479cc599c.png\"></a></p>",
+  "related_types": [
+    {
+      "id": 8092,
+      "title": "20 Centavos (magnetic; larger head; smooth edge)",
+      "category": "coin",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 1952,
+      "maxYear": 1953
+    }
+  ],
+  "tags": [
+    "Military leader",
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "48"
+    },
+    {
+      "catalogue": {
+        "id": 160,
+        "code": "CJ"
+      },
+      "number": "229,230"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "51"
+    }
+  ],
+  "weight": 4,
+  "orientation": "coin",
+  "edge": {
+    "description": "Milled"
+  },
+  "mints": [
+    {
+      "id": 1336,
+      "name": "Buenos Aires"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

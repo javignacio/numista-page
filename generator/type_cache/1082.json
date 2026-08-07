@@ -1,0 +1,133 @@
+{
+  "id": 1082,
+  "url": "https://en.numista.com/1082",
+  "title": "50 Pesos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "mexique",
+    "name": "Mexico"
+  },
+  "min_year": 1984,
+  "max_year": 1988,
+  "ruler": [
+    {
+      "id": 4029,
+      "name": "United Mexican States/Mexican Republic",
+      "wikidata_id": "Q96"
+    }
+  ],
+  "value": {
+    "text": "50 Pesos",
+    "numeric_value": 50,
+    "currency": {
+      "id": 150,
+      "name": "Peso",
+      "full_name": "Peso (1863-1992)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1995-11-15"
+  },
+  "size": 23.5,
+  "thickness": 2.55,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The national emblem of Mexico (a Mexican golden eagle perched on a prickly pear cactus devouring a snake above a half-wreath of oak and laurel below and the legend forming the upper semicircle)",
+    "lettering": "ESTADOS UNIDOS MEXICANOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "United Mexican States",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/62e816cbeedaa8.76731433-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/62e816cbeedaa8.76731433-180.jpg",
+    "picture_copyright": "Numismatica Quetzalcoatl (Gabriel Herrera)",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Value and date at left, 5 points above (Braille 50) and a portrait of Benito Pablo Juárez García to the right",
+    "lettering": "⠑⠚\r\n$50\r\nMo\r\n1984\r\nJUAREZ",
+    "lettering_scripts": [
+      {
+        "name": "Braille"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/mexique/62e816cc473c27.60015629-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/62e816cc473c27.60015629-180.jpg",
+    "picture_copyright": "Numismatica Quetzalcoatl (Gabriel Herrera)",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "related_types": [
+    {
+      "id": 7360,
+      "title": "50 Pesos",
+      "category": "coin",
+      "country": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "minYear": 1988,
+      "maxYear": 1992
+    }
+  ],
+  "tags": [
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "495"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "85"
+    },
+    {
+      "catalogue": {
+        "id": 2898,
+        "code": "Galst/Alfen"
+      },
+      "number": "X.31"
+    }
+  ],
+  "weight": 8.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/5ec04a141b17b8.91194134-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/5ec04a141b17b8.91194134-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 29,
+      "name": "Mexican Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

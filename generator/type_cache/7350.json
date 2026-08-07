@@ -1,0 +1,169 @@
+{
+  "id": 7350,
+  "url": "https://en.numista.com/7350",
+  "title": "10 Pence - Elizabeth II (4th portrait; Royal Shield, non-magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 2008,
+  "max_year": 2010,
+  "ruler": [
+    {
+      "id": 275,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 527,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Pence",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 126,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (decimalized, 1971-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24.5,
+  "thickness": 1.85,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Cu, 25% Ni)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Ian Rank-Broadley"
+    ],
+    "description": "Fourth crowned portrait of Queen Elizabeth II right, wearing the Girls of Great Britain and Ireland tiara, legend around.",
+    "lettering": "ELIZABETH·II·D·G REG·F·D·2009\r\nIRB",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Elizabeth II Dei Gratia Regina Fidei Defensatrix",
+    "lettering_translation": "Elizabeth II by the Grace of God Queen Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/5539-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/5539-180.jpg",
+    "picture_copyright": "Monéphil",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Matthew Dent"
+    ],
+    "description": "Upper left section of the Royal Shield of Arms, denomination to upper segment.",
+    "lettering": "TEN PENCE\r\nMD",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/5540-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/5540-180.jpg",
+    "picture_copyright": "Monéphil",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p>Introduced in 2008 when the small coinage designs were changed from the Emblems of Britain to the Royal Shield of Arms. The 2008 coin was issued part way through the year and so was not part of the annual coin sets, however it was issued in both a Brilliant Uncirculated set (Issue Limit: 100,000) and a Proof set (Issue Limit: 20,000) it was also issued in silver proof, silver piedfort, gold proof and platinum proof.<br><a href=\"https://en.numista.com/catalogue/images/604d18386fde7.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/604d18386fde7.jpg\" alt=\"\"></a><a href=\"https://en.numista.com/catalogue/images/604d183e624b1.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/604d183e624b1.jpg\" alt=\"\"></a><br>© The Royal Mint, 2008<br><br>The 2015 strike was issued as part of the dual set to commemorate the change from the 4th portrait to the 5th and was also struck in silver proof, gold proof and platinum proof.<br><a href=\"https://en.numista.com/catalogue/images/604d18692c31e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/604d18692c31e.jpg\" alt=\"\"></a><br>©The Royal Mint, 2015<br><br>Message received from the Royal Mint Museum circulating coin team:<br><br><i>\"The mintage figures shown on the Royal Mint’s website for 2011 (</i><a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.royalmint.com/currency/uk-currency/mintages/10-pence/\"><i><a href=\"https://www.royalmint.com/currency/uk-currency/mintages/10-pence/\" rel=\"ugc noopener\" target=\"_blank\" >https://www.royalmint.com/currency/uk-currency/mintages/10-pence/</a></i></a><i>) are quantities of nickel-plated steel coins only. There were no cupro-nickel 5 and 10 pence pieces issued after 2010.\"</i></p>",
+  "related_types": [
+    {
+      "id": 2236,
+      "title": "10 Pence - Elizabeth II (4th portrait; Crowned Lion)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1998,
+      "maxYear": 2008
+    },
+    {
+      "id": 208018,
+      "title": "10 Pence - Elizabeth II (4th portrait; Royal Shield, Silver Proof)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2008,
+      "maxYear": 2015
+    },
+    {
+      "id": 25746,
+      "title": "10 Pence - Elizabeth II (4th portrait; Royal Shield, magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2011,
+      "maxYear": 2015
+    },
+    {
+      "id": 206861,
+      "title": "10 Pence - Elizabeth II (4th portrait; Royal Shield, Silver Proof)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2012,
+      "maxYear": 2012
+    }
+  ],
+  "tags": [
+    "Cat or feline",
+    "Puzzle coin",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1110"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "F6"
+    }
+  ],
+  "weight": 6.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/5f9f259c1cfab3.94322892-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/5f9f259c1cfab3.94322892-180.jpg",
+    "picture_copyright": "stratocaster",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

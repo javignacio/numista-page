@@ -1,0 +1,100 @@
+{
+  "id": 5394,
+  "url": "https://en.numista.com/5394",
+  "title": "10 Cruzeiros Reais",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bresil",
+    "name": "Brazil"
+  },
+  "min_year": 1993,
+  "max_year": 1994,
+  "ruler": [
+    {
+      "id": 2684,
+      "name": "Federative Republic of Brazil",
+      "wikidata_id": "Q155"
+    }
+  ],
+  "value": {
+    "text": "10 Cruzeiros Reais",
+    "numeric_value": 10,
+    "currency": {
+      "id": 157,
+      "name": "Cruzeiro real",
+      "full_name": "Cruzeiro real (1993-1994)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1994-06-01"
+  },
+  "size": 22,
+  "thickness": 1.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Value.",
+    "lettering": "BRASIL\r\n1993 10 \r\nCR$",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bresil/62ab5f6398b9a3.33374259-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/62ab5f6398b9a3.33374259-180.jpg",
+    "picture_copyright": "papilio",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Anteater. The southern tamandua (T. tetradactyla), found from Venezuela and Trinidad to northern Argentina, southern Brazil and Uruguay.",
+    "lettering": "TAMANDUÁ",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bresil/62ab5f64364b20.94349127-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/62ab5f64364b20.94349127-180.jpg",
+    "picture_copyright": "papilio",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "628"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "137"
+    }
+  ],
+  "weight": 3.59,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/6606f5ea727c09.36593639-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/6606f5ea727c09.36593639-180.jpg",
+    "picture_copyright": "Julio Vega",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

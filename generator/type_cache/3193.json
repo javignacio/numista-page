@@ -1,0 +1,99 @@
+{
+  "id": 3193,
+  "url": "https://en.numista.com/3193",
+  "title": "1 Rupee (magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "sri_lanka_period",
+    "name": "Sri Lanka (1972-date)"
+  },
+  "min_year": 1996,
+  "max_year": 2004,
+  "ruler": [
+    {
+      "id": 589,
+      "name": "Democratic Socialist Republic",
+      "wikidata_id": "Q854"
+    }
+  ],
+  "value": {
+    "text": "1 Rupee",
+    "numeric_value": 1,
+    "currency": {
+      "id": 176,
+      "name": "Rupee",
+      "full_name": "Rupee (1972-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel clad steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Emblem",
+    "picture": "https://en.numista.com/catalogue/photos/sri_lanka_period/653766832c4e91.62561838-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/sri_lanka_period/653766832c4e91.62561838-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Inscription below designs within wreath",
+    "lettering": "ශ්‍රී ලංකා\r\nරුපියලයි\r\nஒரு ரூபாய்\r\nONE RUPEE\r\n1996",
+    "picture": "https://en.numista.com/catalogue/photos/sri_lanka_period/653766833425b8.63854814-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/sri_lanka_period/653766833425b8.63854814-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "related_types": [
+    {
+      "id": 895,
+      "title": "1 Rupee (non-magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "sri_lanka_period",
+        "name": "Sri Lanka (1972-date)"
+      },
+      "minYear": 1972,
+      "maxYear": 1994
+    }
+  ],
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "136a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "81a"
+    }
+  ],
+  "weight": 7.128,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

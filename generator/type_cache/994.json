@@ -1,0 +1,129 @@
+{
+  "id": 994,
+  "url": "https://en.numista.com/994",
+  "title": "25 Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "perou",
+    "name": "Peru"
+  },
+  "issuing_entity": {
+    "id": 936,
+    "name": "Central Reserve Bank of Peru",
+    "wikidata_id": "Q932146"
+  },
+  "min_year": 1966,
+  "max_year": 1973,
+  "ruler": [
+    {
+      "id": 3757,
+      "name": "Republic",
+      "wikidata_id": "Q419"
+    }
+  ],
+  "value": {
+    "text": "25 Centavos",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 218,
+      "name": "Sol",
+      "full_name": "Sol (1863-1930) / Sol de Oro (1931-1985)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 21.3,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "National arms within circle, date below. Issuer name around on top and sides, near edge.",
+    "lettering": "BANCO CENTRAL DE RESERVA DEL PERU\r\n1970",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Reserve Bank of Peru",
+    "picture": "https://en.numista.com/catalogue/photos/perou/1149-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/1149-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "reverse": {
+    "description": "Value to left of Cantuta flower (Cantua buxifolia).",
+    "lettering": "25 Centavos",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "25 Cents",
+    "picture": "https://en.numista.com/catalogue/photos/perou/1150-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/1150-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "comments": "<p>Cantuta (Cantua buxifolia) is the national flower of Perú.</p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/5dacb4230f8f8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5dacb4230f8f8.jpg\" alt=\"\"></a></p>",
+  "related_types": [
+    {
+      "id": 7414,
+      "title": "25 Centavos (Casa de Moneda)",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 1965,
+      "maxYear": 1965
+    },
+    {
+      "id": 9091,
+      "title": "25 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 1973,
+      "maxYear": 1975
+    }
+  ],
+  "tags": [
+    "Flower",
+    "Coat of Arms",
+    "Cornucopia"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "246"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "51"
+    }
+  ],
+  "weight": 3.2,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded (KM# 246.1, issues 1966-1968) or\r\nPlain (KM# 246.2, issues 1968-1973)\r\n1968 exist on both varieties",
+    "picture": "https://en.numista.com/catalogue/photos/perou/64a0b3cfa8d476.82124889-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/64a0b3cfa8d476.82124889-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

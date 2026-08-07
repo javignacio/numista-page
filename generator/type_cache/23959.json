@@ -1,0 +1,150 @@
+{
+  "id": 23959,
+  "url": "https://en.numista.com/23959",
+  "title": "25 Kopecks (Aluminium bronze, second coat of arms)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "transnistrie",
+    "name": "Transnistria"
+  },
+  "min_year": 2005,
+  "max_year": 2005,
+  "ruler": [
+    {
+      "id": 2040,
+      "name": "Republic",
+      "wikidata_id": "Q907112"
+    }
+  ],
+  "value": {
+    "text": "25 Kopecks",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 242,
+      "name": "Third rouble",
+      "full_name": "Third rouble (2000-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 17,
+  "thickness": 1.36,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The image of PMR State Emblem with the circular inscription “Приднестровская Молдавская Республика ” (Pridnestrovskaia Moldavskaia Respublika).",
+    "lettering": "ПРИДНЕСТРОВСКАЯ МОЛДАВСКАЯ РЕСПУБЛИКА\r\n2005",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "Transnistrian Moldovan Republic\r\n2005",
+    "picture": "https://en.numista.com/catalogue/photos/transnistrie/1025-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/transnistrie/1025-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "reverse": {
+    "description": "The embossed image of the figure 25, indicating the denomination circled with the stylized laurel branch . The inscription “КОПЕЕК” (kopecks in Cyrillic) is below the denomination.",
+    "lettering": "25 \r\nКОПЕЕК",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "25 Kopecks",
+    "picture": "https://en.numista.com/catalogue/photos/transnistrie/1026-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/transnistrie/1026-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "related_types": [
+    {
+      "id": 1556,
+      "title": "25 Kopecks (Aluminium bronze)",
+      "category": "coin",
+      "country": {
+        "code": "transnistrie",
+        "name": "Transnistria"
+      },
+      "minYear": 2002,
+      "maxYear": 2002
+    },
+    {
+      "id": 23947,
+      "title": "25 Kopecks (Bronze plated steel, second coat of arms)",
+      "category": "coin",
+      "country": {
+        "code": "transnistrie",
+        "name": "Transnistria"
+      },
+      "minYear": 2005,
+      "maxYear": 2005
+    },
+    {
+      "id": 176818,
+      "title": "25 Kopecks (Brass plated steel, third coat of arms)",
+      "category": "coin",
+      "country": {
+        "code": "transnistrie",
+        "name": "Transnistria"
+      },
+      "minYear": 2019,
+      "maxYear": 2019
+    },
+    {
+      "id": 422670,
+      "title": "25 Kopecks (Brass plated steel, fourth coat of arms)",
+      "category": "coin",
+      "country": {
+        "code": "transnistrie",
+        "name": "Transnistria"
+      },
+      "minYear": 2020,
+      "maxYear": 2025
+    }
+  ],
+  "tags": [
+    "Hammer and sickle"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "52"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "4.2"
+    }
+  ],
+  "weight": 2.2,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/transnistrie/703-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/transnistrie/703-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 27,
+      "name": "Mint of Poland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

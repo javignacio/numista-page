@@ -1,0 +1,114 @@
+{
+  "id": 13209,
+  "url": "https://en.numista.com/13209",
+  "title": "4 Pence - Victoria (1st portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1837,
+  "max_year": 1862,
+  "ruler": [
+    {
+      "id": 270,
+      "name": "Victoria",
+      "wikidata_id": "Q9439",
+      "nomisma_id": "queen_victoria",
+      "group": {
+        "id": 525,
+        "name": "House of Hanover"
+      }
+    }
+  ],
+  "value": {
+    "text": "4 Pence",
+    "numeric_value": 0.016666666666666666,
+    "numerator": 1,
+    "denominator": 60,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1971)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 16,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.925)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "William Wyon"
+    ],
+    "description": "Young uncrowned bust of Queen Victoria left, hair in bun, legend around",
+    "lettering": "VICTORIA D:G: BRITANNIAR: REGINA F:D:",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Victoria Dei Gratia Britanniarum Regina Fidei Defensatrix",
+    "lettering_translation": "Victoria by the Grace of God Queen of the Britains Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/6398-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/6398-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "description": "Seated figure of Britannia right, trident in left hand, shield with Union flag in right, denomination around, date in exergue.",
+    "lettering": "FOUR PENCE\r\n1848",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/6400-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/6400-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "The standard weight of this coin was 2/33 troy ounce or 29.1 grains. This piece was produced for circulation in both Great Britain and British Guiana, where it was equivalent to 1/4 guilder.<br /><br />\r\nThe first modern fourpenny piece was struck in 1836 on the suggestion of Joseph Hume MP, saying that the piece would be useful for paying taxi drivers as the standard charge for a taxi at the the time was four pence, but riders often paid with a sixpence and let the driver keep two pence as a tip. Due to taxi drivers missing out on their tips, the coin immediately became unpopular and was seldom used. By 1862, the piece had become completely redundant and production was stopped (though more were issued in the colonies as late as 1888).<br /><br />\r\n<span style=\"font-weight:bold;\">KM#731.1</span> <span style=\"font-style:italic;\">(1838-62)</span> Milled edge, circulation and proof;<br />\r\n<span style=\"font-weight:bold;\">KM#731.2</span> <span style=\"font-style:italic;\">(1838-53)</span> Plain edge, proof only.",
+  "tags": [
+    "Armour",
+    "Cold weapons"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "731"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "3913"
+    }
+  ],
+  "weight": 1.89,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded (plain edge varieties exist)"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,106 @@
+{
+  "id": 1357,
+  "url": "https://en.numista.com/1357",
+  "title": "2 New Pence - Elizabeth II (2nd portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "jersey",
+    "name": "Jersey"
+  },
+  "min_year": 1971,
+  "max_year": 1980,
+  "ruler": [
+    {
+      "id": 3218,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 783,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "2 Pence",
+    "numeric_value": 0.02,
+    "currency": {
+      "id": 378,
+      "name": "Pound",
+      "full_name": "Pound (decimalized, 1971-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25.91,
+  "thickness": 1.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Arnold Machin"
+    ],
+    "description": "Young crowned bust right",
+    "lettering": "QUEEN ELIZABETH THE SECOND",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/jersey/11-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/jersey/11-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "George Kruger Gray"
+    ],
+    "description": "Shield above written value and date",
+    "lettering": "BAILIWICK OF JERSEY\r\nTWO NEW PENCE 1971",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/jersey/12-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/jersey/12-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "31"
+    }
+  ],
+  "weight": 7.21,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

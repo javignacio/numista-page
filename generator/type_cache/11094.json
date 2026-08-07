@@ -1,0 +1,123 @@
+{
+  "id": 11094,
+  "url": "https://en.numista.com/11094",
+  "title": "10 Centavos (FAO)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "bresil",
+    "name": "Brazil"
+  },
+  "min_year": 1995,
+  "max_year": 1995,
+  "ruler": [
+    {
+      "id": 2684,
+      "name": "Federative Republic of Brazil",
+      "wikidata_id": "Q155"
+    }
+  ],
+  "value": {
+    "text": "10 Centavos",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 158,
+      "name": "Real",
+      "full_name": "Real (1994-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23,
+  "thickness": 1.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Hands holding seedling.",
+    "lettering": "BRASIL\r\nFAO-1945*1995\r\nALIMENTOS PARA TODOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "BRAZIL\r\nFAO-1945*1995\r\nFOOD FOR ALL",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/5f3596d96e6033.96168292-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/5f3596d96e6033.96168292-180.jpg",
+    "picture_copyright": "Rafael Augusto de Mattos Ferreira"
+  },
+  "reverse": {
+    "description": "Denomination flanked by laurel leaves behind diagonal stripes, and year of issue.",
+    "lettering": "10\r\nCENTAVOS\r\n1995",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "10\r\nCENTAVOS\r\n1995",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/5f3596d9cb4bb6.88104419-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/5f3596d9cb4bb6.88104419-180.jpg",
+    "picture_copyright": "Rafael Augusto de Mattos Ferreira"
+  },
+  "commemorated_topic": "50 Year Anniversary of the FAO",
+  "related_types": [
+    {
+      "id": 11095,
+      "title": "25 Centavos (FAO)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1995,
+      "maxYear": 1995
+    }
+  ],
+  "tags": [
+    "Agriculture",
+    "FAO"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "641"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "150"
+    },
+    {
+      "catalogue": {
+        "id": 1678,
+        "code": "Bentes"
+      },
+      "number": "799"
+    }
+  ],
+  "weight": 3.59,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 1335,
+      "name": "Mint of Brazil"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

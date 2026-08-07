@@ -1,0 +1,108 @@
+{
+  "id": 4751,
+  "url": "https://en.numista.com/4751",
+  "title": "1 Laari (FAO)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "maldives",
+    "name": "Maldives"
+  },
+  "min_year": 1984,
+  "max_year": 2012,
+  "ruler": [
+    {
+      "id": 4946,
+      "name": "Second Republic",
+      "wikidata_id": "Q826"
+    }
+  ],
+  "value": {
+    "text": "1 Laari",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 177,
+      "name": "Rufiyaa",
+      "full_name": "Rufiyaa (1947-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 15,
+  "thickness": 1.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Value",
+    "lettering": "MALDIVES ދިވެހި ރާއްޖޭ\r\n1\r\nލާރި\r\nLAARI",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      },
+      {
+        "name": "Thaana"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/maldives/248-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/maldives/248-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "reverse": {
+    "description": "Palm tree within circle",
+    "lettering": "2002 ١٤٢٣\r\nMMA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/maldives/247-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/maldives/247-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "commemorated_topic": "FAO",
+  "comments": "The inner circle in the AH1433/2012 coin is higher than on the AH1404/1984 and AH1423/2002 coins. The dates are a little larger and closer to the rim.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5df9050c160f9.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5df9050c160f9.png\" alt=\"\" width=\"200\" height=\"202\" /></a>",
+  "tags": [
+    "FAO",
+    "Tree"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "68"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "29"
+    }
+  ],
+  "weight": 0.46,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/maldives/249-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/maldives/249-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

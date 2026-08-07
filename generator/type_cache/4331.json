@@ -1,0 +1,92 @@
+{
+  "id": 4331,
+  "url": "https://en.numista.com/4331",
+  "title": "1 Décimo",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "chili",
+    "name": "Chile"
+  },
+  "min_year": 1879,
+  "max_year": 1894,
+  "ruler": [
+    {
+      "id": 3299,
+      "name": "Republic",
+      "wikidata_id": "Q298"
+    }
+  ],
+  "value": {
+    "text": "1 Décimo",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 237,
+      "name": "Peso",
+      "full_name": "Peso (1835-1959)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 18,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.500)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Denomination within wreath.",
+    "lettering": "REPUBLICA DE CHILE.0 5.So\r\nUN \r\nDECIMO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "REPUBLIC OF CHILE.0 5.So\r\nONE\r\nTENTH",
+    "picture": "https://en.numista.com/catalogue/photos/chili/626dae00c1f966.10203131-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/626dae00c1f966.10203131-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Condor with spread wings.",
+    "lettering": "POR LA RAZON O LA FUERZA\r\n* 1881 *",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "BY REASON OR BY FORCE\r\n*1881*",
+    "picture": "https://en.numista.com/catalogue/photos/chili/626dae00927e82.66342772-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/626dae00927e82.66342772-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p>NOTE: different silver alloys = .500 (KM#136.3) compared to .835 (KM#136.2) and .900 silver (KM#136.1)</p>",
+  "tags": [
+    "Bird"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "136.3"
+    }
+  ],
+  "weight": 2.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

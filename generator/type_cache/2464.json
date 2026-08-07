@@ -1,0 +1,106 @@
+{
+  "id": 2464,
+  "url": "https://en.numista.com/2464",
+  "title": "1 Sentimo",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "philippines",
+    "name": "Philippines"
+  },
+  "issuing_entity": {
+    "id": 492,
+    "name": "Central Bank of the Philippines",
+    "wikidata_id": "Q1853468"
+  },
+  "min_year": 1983,
+  "max_year": 1993,
+  "ruler": [
+    {
+      "id": 1639,
+      "name": "Republic",
+      "wikidata_id": "Q928"
+    }
+  ],
+  "value": {
+    "text": "1 Sentimo",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 151,
+      "name": "Piso",
+      "full_name": "Piso (1967-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1998-01-02"
+  },
+  "size": 15.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Left-facing head of Lapulapu.",
+    "lettering": "REPUBLIKA NG PILIPINAS\r\nLAPULAPU\r\n1987",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of the Philippines.",
+    "picture": "https://en.numista.com/catalogue/photos/philippines/684-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/philippines/684-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "reverse": {
+    "description": "Sea snail (Voluta imperialis), facing right.",
+    "lettering": "1 SENTIMO\r\nVOLUTA\r\nIMPERIALIS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/philippines/685-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/philippines/685-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "series": "Flora & Fauna",
+  "tags": [
+    "Shell"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "238"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "79"
+    }
+  ],
+  "weight": 0.7,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 5198,
+      "name": "BSP Security Plant Complex"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

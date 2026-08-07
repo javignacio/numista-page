@@ -1,0 +1,114 @@
+{
+  "id": 4452,
+  "url": "https://en.numista.com/4452",
+  "title": "1 Franc",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "rwanda",
+    "name": "Rwanda"
+  },
+  "issuing_entity": {
+    "id": 938,
+    "name": "National Bank of Rwanda",
+    "wikidata_id": "Q4314980"
+  },
+  "min_year": 1974,
+  "max_year": 1985,
+  "ruler": [
+    {
+      "id": 1431,
+      "name": "Republic",
+      "wikidata_id": "Q1037"
+    }
+  ],
+  "value": {
+    "text": "1 Franc",
+    "numeric_value": 1,
+    "currency": {
+      "id": 81,
+      "name": "Franc",
+      "full_name": "Franc (1964-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 21,
+  "thickness": 1.3,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium (98.3-97.6% Aluminium, 2.4-1.7% Magnesium)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Leslie Durbin"
+    ],
+    "description": "Denomination above the coat of arms of Rwanda.",
+    "lettering": "UN · FRANC\r\n1\r\nREPUBLIQUE RWANDAISE\r\nLIBERTE · COOPERATION · PROGRES",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "One franc\r\nRwandan Republic\r\nFreedom · Cooperation · Progress",
+    "picture": "https://en.numista.com/catalogue/photos/rwanda/95-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/rwanda/95-180.jpg",
+    "picture_copyright": "HOOK"
+  },
+  "reverse": {
+    "engravers": [
+      "Leslie Durbin"
+    ],
+    "description": "Millet flower with legend around, date below.",
+    "lettering": "BANQUE · NATIONALE · DU · RWANDA\r\n1985",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "National Bank of Rwanda",
+    "picture": "https://en.numista.com/catalogue/photos/rwanda/94-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/rwanda/94-180.jpg",
+    "picture_copyright": "HOOK"
+  },
+  "series": "1974 series",
+  "tags": [
+    "Coat of Arms",
+    "Flower"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "12"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "13"
+    }
+  ],
+  "weight": 1.06,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,126 @@
+{
+  "id": 102872,
+  "url": "https://en.numista.com/102872",
+  "title": "50 Groszy (non magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "pologne",
+    "name": "Poland"
+  },
+  "min_year": 2017,
+  "max_year": 2019,
+  "ruler": [
+    {
+      "id": 3739,
+      "name": "Third Republic",
+      "wikidata_id": "Q1259201"
+    }
+  ],
+  "value": {
+    "text": "50 Groszys",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 200,
+      "name": "Fourth Zloty",
+      "full_name": "Fourth Zloty (1995-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 20.5,
+  "thickness": 1.65,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Sebastian Mikołajczak"
+    ],
+    "description": "Polish eagle (state emblem) with stylized rings intersecting at top and split at bottom by date",
+    "lettering": "mw \r\nRZECZPOSPOLITA POLSKA\r\n2017",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/pologne/5895-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pologne/5895-180.jpg",
+    "picture_copyright": "Narodowy Bank Polski",
+    "picture_copyright_url": "http://www.nbp.pl"
+  },
+  "reverse": {
+    "designers": [
+      "Ewa Tyc-Karpińska"
+    ],
+    "description": "Fifty Oak leaves in semi-circular formation and denomination.",
+    "lettering": "50 \r\nGROSZY",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/pologne/5896-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pologne/5896-180.jpg",
+    "picture_copyright": "Narodowy Bank Polski",
+    "picture_copyright_url": "http://www.nbp.pl"
+  },
+  "comments": "<p>***** issue for this year according to NBP is 55 990 000 pcs but 1 000 000 of this mintage were pilot- magnetic they are placed here <a class=\"n-link\" data-mention=\"N#233819\" data-n-number=\"233819\" data-issuer=\"Poland\" title=\"50 Groszy\" href=\"/233819\">N#233819</a></p>",
+  "related_types": [
+    {
+      "id": 521,
+      "title": "50 Groszy",
+      "category": "coin",
+      "country": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "minYear": 1990,
+      "maxYear": 2016
+    },
+    {
+      "id": 233819,
+      "title": "50 Groszy (Magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "minYear": 2019,
+      "maxYear": 2025
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "973"
+    }
+  ],
+  "weight": 3.94,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/pologne/5889-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pologne/5889-180.jpg",
+    "picture_copyright": "Narodowy Bank Polski",
+    "picture_copyright_url": "http://www.nbp.pl"
+  },
+  "mints": [
+    {
+      "id": 27,
+      "name": "Mint of Poland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

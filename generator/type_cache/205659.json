@@ -1,0 +1,102 @@
+{
+  "id": 205659,
+  "url": "https://en.numista.com/205659",
+  "title": "5000 Pesos",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "chili",
+    "name": "Chile"
+  },
+  "issuing_entity": {
+    "id": 904,
+    "name": "Central Bank of Chile",
+    "wikidata_id": "Q2631674"
+  },
+  "min_year": 1981,
+  "max_year": 2008,
+  "ruler": [
+    {
+      "id": 3299,
+      "name": "Republic",
+      "wikidata_id": "Q298"
+    }
+  ],
+  "value": {
+    "text": "5000 Pesos",
+    "numeric_value": 5000,
+    "currency": {
+      "id": 146,
+      "name": "Peso",
+      "full_name": "Peso (1975-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 145,
+  "size2": 70,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Brown and red-violet on multicolor underprint.\r\nPortrait of Chilean poet Gabriela Mistral at right; left side an allegory to motherhood.",
+    "lettering": "BANCO CENTRAL DE CHILE\r\n5000\r\nCINCO MIL PESOS\r\nCASA DE MONEDA DE CHILE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Bank of Chile\r\nFive Thousand Pesos\r\nChile Mint",
+    "picture": "https://en.numista.com/catalogue/photos/chili/64aadfedd74b43.08969834-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/64aadfedd74b43.08969834-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "reverse": {
+    "engravers": [
+      "Erik Lindberg"
+    ],
+    "description": "Brown and red-violet on multicolor underprint.\r\nAllegorical woman with musical instrument, seated male at center (Allegory to the arts).",
+    "lettering": "BANCO CENTRAL DE CHILE\r\n5000\r\nCINCO MIL PESOS\r\nPREMIO NOBEL 1945",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Bank of Chile\r\nFive Thousand Pesos\r\nNobel Prize 1945",
+    "picture": "https://en.numista.com/catalogue/photos/chili/64aadfee521d33.57951458-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/64aadfee521d33.57951458-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "series": "1975-2009 Issue",
+  "comments": "<p><u>Details of different types</u>:</p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/65973e23eef96.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/65973e23eef96.jpg\"></a> &nbsp;<a href=\"https://en.numista.com/catalogue/images/65973eb7add47.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/65973eb7add47.jpg\"></a></p><p><strong>P#155a/b/d (1981 to 1994)</strong> - Plain security thread; with printer name (CASA DE MONEDA DE CHILE).</p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/65973ee56263d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/65973ee56263d.jpg\"></a> &nbsp;<a href=\"https://en.numista.com/catalogue/images/65973eed99cd8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/65973eed99cd8.jpg\"></a></p><p><strong>P#155c (1991)</strong> - Plain security thread; with printer name (CASA DE MONEDA DE CHILE); stamp <strong>“INTERINO”</strong> on signature title of Gerente General.</p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/6597402a0c632.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6597402a0c632.jpg\"></a> &nbsp;<a href=\"https://en.numista.com/catalogue/images/6597403399d22.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6597403399d22.jpg\"></a></p><p><strong>P#155e (1994 to 2001)</strong> - Segmented security thread; with printer name (CASA DE MONEDA DE CHILE).</p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/65974134592be.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/65974134592be.jpg\"></a> &nbsp;<a href=\"https://en.numista.com/catalogue/images/6597413e1c7aa.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6597413e1c7aa.jpg\"></a></p><p><strong>P#155e (2002 to 2005)</strong> - Segmented security thread; without printer name.</p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/659741b60d84e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/659741b60d84e.jpg\"></a> &nbsp;<a href=\"https://en.numista.com/catalogue/images/659741bf1d08b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/659741bf1d08b.jpg\"></a></p><p><strong>P#155f (2006 and 2007)</strong> - Segmented security thread; without printer name; tactile mark (type 1).</p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/6597435c7dec0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6597435c7dec0.jpg\"></a> &nbsp;<a href=\"https://en.numista.com/catalogue/images/65974368a7ba0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/65974368a7ba0.jpg\"></a></p><p><strong>P#155g (2008)</strong> - Segmented security thread; without printer name; tactile mark (type 2).</p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/6597422ed12d0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6597422ed12d0.jpg\"></a> &nbsp;<a href=\"https://en.numista.com/catalogue/images/659742371a7df.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/659742371a7df.jpg\"></a></p><p><strong>P#155s (1981) </strong>- Specimen; red diagonal stamp in both sides.</p><p>&nbsp;</p><p>UV activity:<br><a href=\"https://en.numista.com/catalogue/images/64a1cc742fcab.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64a1cc742fcab.png\" alt=\"\"></a><br>© gyoschak</p>",
+  "tags": [
+    "Allegory"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "155"
+    }
+  ],
+  "watermark": {
+    "description": "Portrait of Gabriela Mistral",
+    "picture": "https://en.numista.com/catalogue/photos/chili/632d03773e3a54.75187058-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/632d03773e3a54.75187058-180.jpg",
+    "picture_copyright": "Thuri"
+  },
+  "printers": [
+    {
+      "id": 18,
+      "name": "Casa de Moneda de Chile"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

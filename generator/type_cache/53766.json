@@ -1,0 +1,113 @@
+{
+  "id": 53766,
+  "url": "https://en.numista.com/53766",
+  "title": "1 Crown - Charles II (2nd bust)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "england",
+    "name": "England"
+  },
+  "min_year": 1667,
+  "max_year": 1671,
+  "ruler": [
+    {
+      "id": 515,
+      "name": "Charles II",
+      "wikidata_id": "Q122553",
+      "group": {
+        "id": 28,
+        "name": "House of Stuart Restored (1660-1714)"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Crown",
+    "numeric_value": 0.25,
+    "numerator": 1,
+    "denominator": 4,
+    "currency": {
+      "id": 9077,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1970)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 38.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.925)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Second laureate and draped bust of King Charles II right, legend around.",
+    "lettering": "CAROLVS·II·  DEI·GRATIA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Charles the Second by the Grace of God",
+    "picture": "https://en.numista.com/catalogue/photos/england/859-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/england/859-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "description": "Crowned cruciform shields around central Garter star with interlinked C's in angles, divided date above, legend around.",
+    "lettering": "MAG· BR·FRA· ET·HIB· REX·1667·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Magnae Britanniae Franciae Et Hiberniae Rex",
+    "lettering_translation": "King of Great Britain France and Ireland",
+    "picture": "https://en.numista.com/catalogue/photos/england/858-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/england/858-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "The standard weight of this coin was 30/31 troy ounce or 464.5 grains.",
+  "tags": [
+    "Cat or feline",
+    "Crown",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "3357"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "422.3"
+    }
+  ],
+  "weight": 30.1,
+  "orientation": "coin",
+  "edge": {
+    "description": "Regnal year in Latin",
+    "lettering": "DECIMO NONO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Nineteenth"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,143 @@
+{
+  "id": 868,
+  "url": "https://en.numista.com/868",
+  "title": "2 Pence - Elizabeth II (3rd portrait; magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1992,
+  "max_year": 1997,
+  "ruler": [
+    {
+      "id": 275,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 527,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "2 Pence",
+    "numeric_value": 0.02,
+    "currency": {
+      "id": 126,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (decimalized, 1971-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25.9,
+  "thickness": 2.05,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Raphael David Maklouf"
+    ],
+    "description": "Third crowned portrait of Queen Elizabeth II right, wearing the George IV State Diadem, legend around.",
+    "lettering": "ELIZABETH II D·G·REG·F·D·1997\r\nRDM",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Elizabeth II Dei Gratia Regina Fidei Defensatrix",
+    "lettering_translation": "Elizabeth II by the Grace of God Queen Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/68f066e6aa5e62.66608061-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/68f066e6aa5e62.66608061-180.jpg",
+    "picture_copyright": "riversxian",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Christopher Ironside"
+    ],
+    "description": "Badge of the Prince of Wales, a plume of three ostrich feathers enfiling a coronet of cross pattée and fleur de lys, dividing motto with legend above and denomination below.",
+    "lettering": "TWO PENCE\r\nICH DIEN\r\n2",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "I serve",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/68f066e8c4dd04.56671564-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/68f066e8c4dd04.56671564-180.jpg",
+    "picture_copyright": "riversxian",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "1992 saw the changeover from bronze to copper-plated steel for both the 1p &amp; 2p to reduce the cost of production. Both bronze and copper-plated steel 1992 coins can be found, however those in Proof &amp; Brilliant Uncirculated sets were struck in Bronze, while circulation strikes were copper-plated steel.<br /><br />\r\n<span style=\"font-style:italic;\">1993 reverse die varieties:</span><br /><br />\r\n<span style=\"font-weight:bold;\">Reverse A</span> <span style=\"font-style:italic;\">(1992-93)</span> P shorter foot, E between pearls, pearls near to border;<br />\r\n<span style=\"font-weight:bold;\">Reverse B</span> <span style=\"font-style:italic;\">(1993-97)</span> P longer foot, E at a pearl, pearls far from border;<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5df211fcdbde7.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5df211fcdbde7.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nInformation has been received to suggest that 1993 BU and Proof sets were struck with Reverse B but this is yet to be confirmed.",
+  "related_types": [
+    {
+      "id": 867,
+      "title": "2 Pence - Elizabeth II (3rd portrait; non-magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1985,
+      "maxYear": 1992
+    },
+    {
+      "id": 41309,
+      "title": "2 Pence - Elizabeth II (3rd portrait; Silver Proof)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1996,
+      "maxYear": 1996
+    }
+  ],
+  "tags": [
+    "Crown",
+    "Cross",
+    "Fleur-de-lis"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "936a"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "C4"
+    }
+  ],
+  "weight": 7.12,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

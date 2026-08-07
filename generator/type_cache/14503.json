@@ -1,0 +1,98 @@
+{
+  "id": 14503,
+  "url": "https://en.numista.com/14503",
+  "title": "1 Peso",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "chili",
+    "name": "Chile"
+  },
+  "min_year": 1932,
+  "max_year": 1932,
+  "ruler": [
+    {
+      "id": 3299,
+      "name": "Republic",
+      "wikidata_id": "Q298"
+    }
+  ],
+  "value": {
+    "text": "1 Peso",
+    "numeric_value": 1,
+    "currency": {
+      "id": 237,
+      "name": "Peso",
+      "full_name": "Peso (1835-1959)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 26,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Billon (.400 silver)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Andean condor on rock.",
+    "lettering": "REPUBLICA DE CHILE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chili/1234-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/1234-180.jpg",
+    "picture_copyright": "Infierno"
+  },
+  "reverse": {
+    "description": "Value within laurel wreath.",
+    "lettering": "So\r\nUN\r\nPESO\r\n1932",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chili/1235-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/1235-180.jpg",
+    "picture_copyright": "Infierno"
+  },
+  "tags": [
+    "Bird",
+    "Hammer and sickle"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "174"
+    }
+  ],
+  "weight": 6,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/chili/6609503282b757.57224023-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/6609503282b757.57224023-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

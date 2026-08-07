@@ -1,0 +1,120 @@
+{
+  "id": 3238,
+  "url": "https://en.numista.com/3238",
+  "title": "1 Centavo",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "argentine",
+    "name": "Argentina"
+  },
+  "min_year": 1992,
+  "max_year": 1993,
+  "ruler": [
+    {
+      "id": 3983,
+      "name": "Federal Republic",
+      "wikidata_id": "Q414"
+    }
+  ],
+  "value": {
+    "text": "1 Centavo",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 145,
+      "name": "Peso convertible",
+      "full_name": "Peso convertible (1992-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 16.2,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Four line inscription within wreath around the rim and the country name at the top",
+    "lettering": ".REPUBLICA ARGENTINA.\r\nEN\r\nUNION\r\nY\r\nLIBERTAD",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Argentina\r\nIn\r\nUnion\r\nand\r\nLiberty",
+    "picture": "https://en.numista.com/catalogue/photos/argentine/5f464a46b0c268.80927413-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/5f464a46b0c268.80927413-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "The value in large font with the date below",
+    "lettering": "1\r\ncentavo\r\n1993",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/argentine/5f464a46ea0710.09206727-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/5f464a46ea0710.09206727-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/576804bbd9091.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/576804bbd9091.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nPreviously KM#88",
+  "tags": [
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "113"
+    },
+    {
+      "catalogue": {
+        "id": 160,
+        "code": "CJ"
+      },
+      "number": "1"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "108"
+    }
+  ],
+  "weight": 1.77,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 29,
+      "name": "Mexican Mint"
+    },
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    },
+    {
+      "id": 1300,
+      "name": "South African Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

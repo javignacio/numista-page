@@ -1,0 +1,166 @@
+{
+  "id": 876,
+  "url": "https://en.numista.com/876",
+  "title": "5 Pence - Elizabeth II (4th portrait; Crowned Thistle)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1998,
+  "max_year": 2008,
+  "ruler": [
+    {
+      "id": 275,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 527,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Pence",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 126,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (decimalized, 1971-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 18,
+  "thickness": 1.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Cu, 25% Ni)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Ian Rank-Broadley"
+    ],
+    "description": "Fourth crowned portrait of Queen Elizabeth II right, wearing the Girls of Great Britain and Ireland tiara, legend around.",
+    "lettering": "ELIZABETH·II·D·G REG·F·D·2006\r\nIRB",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Elizabeth II Dei Gratia Regina Fidei Defensatrix",
+    "lettering_translation": "Elizabeth II by the Grace of God Queen Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/5533-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/5533-180.jpg",
+    "picture_copyright": "Monéphil",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Christopher Ironside"
+    ],
+    "description": "The Badge of Scotland, a thistle royally crowned, with legend above and denomination below.",
+    "lettering": "FIVE PENCE\r\n5",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/5534-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/5534-180.jpg",
+    "picture_copyright": "Monéphil",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "related_types": [
+    {
+      "id": 205236,
+      "title": "5 Pence - Elizabeth II (4th portrait; Crowned Thistle, Silver Proof)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2000,
+      "maxYear": 2008
+    },
+    {
+      "id": 279960,
+      "title": "5 Pence - Elizabeth II (4th Portrait; Crowned Thistle, Gold Proof)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2002,
+      "maxYear": 2008
+    },
+    {
+      "id": 279961,
+      "title": "5 Pence - Elizabeth II (4th Portrait; Crowned Thistle, Platinum Proof)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2008,
+      "maxYear": 2008
+    },
+    {
+      "id": 6612,
+      "title": "5 Pence - Elizabeth II (4th portrait; Royal Shield, non-magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2008,
+      "maxYear": 2010
+    }
+  ],
+  "tags": [
+    "Crown"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "988"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "D5"
+    }
+  ],
+  "weight": 3.25,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/10227-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/10227-180.jpg",
+    "picture_copyright": "CyrusPamelaOne",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,131 @@
+{
+  "id": 102871,
+  "url": "https://en.numista.com/102871",
+  "title": "20 Groszy (non magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "pologne",
+    "name": "Poland"
+  },
+  "min_year": 2017,
+  "max_year": 2019,
+  "ruler": [
+    {
+      "id": 3739,
+      "name": "Third Republic",
+      "wikidata_id": "Q1259201"
+    }
+  ],
+  "value": {
+    "text": "20 Groszys",
+    "numeric_value": 0.2,
+    "currency": {
+      "id": 200,
+      "name": "Fourth Zloty",
+      "full_name": "Fourth Zloty (1995-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 18.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Sebastian Mikołajczak"
+    ],
+    "description": "The white eagle, the emblem of Poland depicted on its coat of arms, surrounded by the country name",
+    "lettering": "mw \r\nRZECZPOSPOLITA POLSKA\r\n2017",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "MW\r\nRepublic of Poland\r\n2017",
+    "picture": "https://en.numista.com/catalogue/photos/pologne/63ab87153a4418.32233992-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pologne/63ab87153a4418.32233992-180.jpg",
+    "picture_copyright": "Ringgy",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "Ewa Tyc-Karpińska"
+    ],
+    "description": "The face value is surrounded with a stylized leaves coronal.",
+    "lettering": "20 \r\nGROSZY",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/pologne/63ab8715a8c163.87937125-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pologne/63ab8715a8c163.87937125-180.jpg",
+    "picture_copyright": "Ringgy",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "<p>***** issue for this year according to NBP is 59 320 000 pcs but 1 000 000 of this mintage were pilot- and are magnetic they are placed here :<a class=\"n-link\" data-mention=\"N#233820\" data-n-number=\"233820\" data-issuer=\"Poland\" title=\"20 Groszy\" href=\"/233820\">N#233820</a></p>",
+  "related_types": [
+    {
+      "id": 522,
+      "title": "20 Groszy",
+      "category": "coin",
+      "country": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "minYear": 1990,
+      "maxYear": 2016
+    },
+    {
+      "id": 233820,
+      "title": "20 Groszy (Magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "minYear": 2019,
+      "maxYear": 2025
+    }
+  ],
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "972"
+    }
+  ],
+  "weight": 3.22,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/pologne/5886-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pologne/5886-180.jpg",
+    "picture_copyright": "Narodowy Bank Polski",
+    "picture_copyright_url": "http://www.nbp.pl"
+  },
+  "mints": [
+    {
+      "id": 27,
+      "name": "Mint of Poland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

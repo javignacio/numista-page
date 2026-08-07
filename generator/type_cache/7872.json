@@ -1,0 +1,104 @@
+{
+  "id": 7872,
+  "url": "https://en.numista.com/7872",
+  "title": "25 Paisa - Birendra Bir Bikram (large type)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "nepal",
+    "name": "Nepal"
+  },
+  "min_year": 1982,
+  "max_year": 1993,
+  "ruler": [
+    {
+      "id": 3964,
+      "name": "Birendra Bir Bikram Shah",
+      "wikidata_id": "Q162306",
+      "group": {
+        "id": 240,
+        "name": "Shah dynasty"
+      }
+    }
+  ],
+  "value": {
+    "text": "25 Paisa",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 173,
+      "name": "Rupee",
+      "full_name": "Rupee (1932-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24.5,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Crown\r\n\"Shree 5 Virendra Veer Vikram Shahdev\"\r\nNepal - date\" in Devanagari\r\nencircled in beads",
+    "lettering": "श्री ५ वीरेन्द्र वीर विक्रम शाहदेव \r\nनेपाल - २०४७",
+    "lettering_scripts": [
+      {
+        "name": "Devanagari"
+      }
+    ],
+    "lettering_translation": "Birendra Bir Bikram Shah Dev\r\nNepal - 2047",
+    "picture": "https://en.numista.com/catalogue/photos/nepal/1545-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nepal/1545-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "reverse": {
+    "description": "\"Shree Bhavani\"\r\n\"Pachis paisa\" in Devanagari\r\nDenomination flanked by grain ears",
+    "lettering": "श्री भवानी \r\n२५\r\nपचीस पैसा",
+    "lettering_scripts": [
+      {
+        "name": "Devanagari"
+      }
+    ],
+    "unabridged_legend": "Shree Bhavani\r\n25\r\nPachis paisa",
+    "lettering_translation": "Goddess Bhavani\r\n25\r\nTwenty-five paisa",
+    "picture": "https://en.numista.com/catalogue/photos/nepal/1546-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nepal/1546-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "comments": "Varieties exist:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5849ff3d2a8de.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5849ff3d2a8de.jpg\" alt=\"\" width=\"200\" height=\"194\" /></a>",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1015.1"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "254"
+    }
+  ],
+  "weight": 1.8,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 4344,
+      "name": "Mint Division of the Central Bank of Nepal"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

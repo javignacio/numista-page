@@ -1,0 +1,101 @@
+{
+  "id": 12984,
+  "url": "https://en.numista.com/12984",
+  "title": "2 Öre - Oscar II",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "suede",
+    "name": "Sweden"
+  },
+  "min_year": 1906,
+  "max_year": 1907,
+  "ruler": [
+    {
+      "id": 2363,
+      "name": "Oscar II",
+      "wikidata_id": "Q52924",
+      "group": {
+        "id": 99,
+        "name": "House of Bernadotte"
+      }
+    }
+  ],
+  "value": {
+    "text": "2 Öre",
+    "numeric_value": 0.02,
+    "currency": {
+      "id": 18,
+      "name": "Krona",
+      "full_name": "Krona (1873-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 21,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Crowned King's monogram. King's motto above, and Stockholm mintmark below, near rim.",
+    "lettering": "SVERIGES VÄL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "The welfare of Sweden.",
+    "picture": "https://en.numista.com/catalogue/photos/suede/1016-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suede/1016-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "description": "Value and date together with the Three Crowns, symbol of Sweden, within ornate circle.",
+    "lettering": "2\r\nÖRE\r\n1907",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/suede/1017-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suede/1017-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "<p><a href=\"https://en.numista.com/catalogue/images/672f1df5d2138.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/672f1df5d2138.jpg\"></a></p>",
+  "tags": [
+    "Crown",
+    "Monogram"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "769"
+    }
+  ],
+  "weight": 4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 5989,
+      "name": "Kungliga Myntet"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

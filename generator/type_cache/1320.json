@@ -1,0 +1,112 @@
+{
+  "id": 1320,
+  "url": "https://en.numista.com/1320",
+  "title": "25 000 Lira",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "turquie",
+    "name": "Turkey"
+  },
+  "min_year": 1995,
+  "max_year": 2000,
+  "ruler": [
+    {
+      "id": 2047,
+      "name": "Republic",
+      "wikidata_id": "Q43"
+    }
+  ],
+  "value": {
+    "text": "25 000 Lira",
+    "numeric_value": 25000,
+    "currency": {
+      "id": 124,
+      "name": "Old lira",
+      "full_name": "Old lira (1923-2005)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 26,
+  "thickness": 2.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass (69.5% Copper, 18% Zinc, 12% Nickel, 0.5% Manganese)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Depiction of the head of Mustafa Kemal Atatürk facing left.",
+    "lettering": "TÜRKİYE CUMHURİYETİ",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "REPUBLIC OF TURKEY",
+    "picture": "https://en.numista.com/catalogue/photos/turquie/12-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/turquie/12-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Crescent moon and star, value and year left of a rose.",
+    "lettering": "25 BİN\r\nLİRA\r\n2000",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/turquie/13-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/turquie/13-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "<a href=\"https://www.darphane.gov.tr/cumhuriyet-donemi-tedavul-paralari#\" rel=\"nofollow\">https://www.darphane.gov.tr/cumhuriyet-donemi-tedavul-paralari#</a>",
+  "tags": [
+    "Politician",
+    "Flower",
+    "Moon"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1041"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "560"
+    }
+  ],
+  "weight": 11,
+  "orientation": "coin",
+  "edge": {
+    "description": "Smooth with inscription: 5 times \"T.C.\" and a flower.\nNote: variation exist up or down text on edge.",
+    "lettering": "T.C.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "TÜRKİYE CUMHURİYETİ",
+    "lettering_translation": "Republic of Turkey",
+    "picture": "https://en.numista.com/catalogue/photos/turquie/695d42c78a5878.57660329-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/turquie/695d42c78a5878.57660329-180.jpg",
+    "picture_copyright": "ZacUK"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

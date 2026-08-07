@@ -1,0 +1,153 @@
+{
+  "id": 1654,
+  "url": "https://en.numista.com/1654",
+  "title": "10 Won",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "coree_du_sud",
+    "name": "South Korea"
+  },
+  "issuing_entity": {
+    "id": 687,
+    "name": "Bank of Korea",
+    "wikidata_id": "Q485531"
+  },
+  "min_year": 2006,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 3992,
+      "name": "Republic",
+      "wikidata_id": "Q884"
+    }
+  ],
+  "value": {
+    "text": "10 Won",
+    "numeric_value": 10,
+    "currency": {
+      "id": 196,
+      "name": "New won",
+      "full_name": "New won (1962-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2006-12-18"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 18,
+  "thickness": 1.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper clad aluminium (48% Copper, 52% Aluminium)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Dabotap Pagoda, located in Gyeongju, one of the national treasures of South Korea, dividing the value in Hangul on both sides",
+    "lettering": "십 원",
+    "lettering_scripts": [
+      {
+        "name": "Hangul"
+      }
+    ],
+    "lettering_translation": "Ten Won",
+    "picture": "https://en.numista.com/catalogue/photos/coree_du_sud/11-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/11-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Value in numerals in the center with \"Bank of Korea\" in Hangul below and the date above",
+    "lettering": "2007 10 한국은행",
+    "lettering_scripts": [
+      {
+        "name": "Hangul"
+      }
+    ],
+    "lettering_translation": "Bank of Korea",
+    "picture": "https://en.numista.com/catalogue/photos/coree_du_sud/12-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/12-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "The Standard Catalog ofWorld Coins lists an aluminium bronze version of this coin dated between 2006 and 2013 as &quot;KM#33.2a&quot;. Records from the Bank of Korea indicate that no such coins exist and that all 2006 dated coins are either this type or KM#103, with all later issues KM#103.",
+  "related_types": [
+    {
+      "id": 2646,
+      "title": "10 Won",
+      "category": "coin",
+      "country": {
+        "code": "coree_du_sud",
+        "name": "South Korea"
+      },
+      "minYear": 1966,
+      "maxYear": 1970
+    },
+    {
+      "id": 2796,
+      "title": "10 Won",
+      "category": "coin",
+      "country": {
+        "code": "coree_du_sud",
+        "name": "South Korea"
+      },
+      "minYear": 1970,
+      "maxYear": 1982
+    },
+    {
+      "id": 978,
+      "title": "10 Won",
+      "category": "coin",
+      "country": {
+        "code": "coree_du_sud",
+        "name": "South Korea"
+      },
+      "minYear": 1983,
+      "maxYear": 2006
+    }
+  ],
+  "tags": [
+    "Religious building"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "103"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "163"
+    }
+  ],
+  "weight": 1.22,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/coree_du_sud/694c18de935e29.79733262-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/694c18de935e29.79733262-180.jpg",
+    "picture_copyright": "Saber82"
+  },
+  "mints": [
+    {
+      "id": 1299,
+      "name": "Korea Minting and Security Printing Corporation"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

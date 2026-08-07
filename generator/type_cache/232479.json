@@ -1,0 +1,141 @@
+{
+  "id": 232479,
+  "url": "https://en.numista.com/232479",
+  "title": "2 Dollars - Elizabeth II (Bill Reid)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "canada",
+    "name": "Canada"
+  },
+  "min_year": 2020,
+  "max_year": 2020,
+  "ruler": [
+    {
+      "id": 2095,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 827,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "2 Dollars",
+    "numeric_value": 2,
+    "currency": {
+      "id": 44,
+      "name": "Dollar",
+      "full_name": "Dollar (1858-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 28,
+  "thickness": 1.77,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: brass plated aluminium bronze centre in nickel plated steel ring"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Susan Taylor"
+    ],
+    "designers": [
+      "Susanna Blunt"
+    ],
+    "description": "Head of Queen Elizabeth II, as at 77 years of age, bare headed, wearing necklace and earrings, facing right.",
+    "lettering": "ELIZABETH II  D·G·REGINA\r\nCANADA 2 DOLLARS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "ELIZABETH II DEI GRATIA REGINA",
+    "lettering_translation": "Elizabeth II Queen by the grace of God",
+    "picture": "https://en.numista.com/catalogue/photos/canada/5f35bc8e9424d5.53804449-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/5f35bc8e9424d5.53804449-180.jpg",
+    "picture_copyright": "bbybugs",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "Bill Reid"
+    ],
+    "description": "Haida Art, Xhuwaji, Haida Grizzly Bear.",
+    "lettering": "BILL REID\r\n2020",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/canada/5f35bc8edb9633.49563464-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/5f35bc8edb9633.49563464-180.jpg",
+    "picture_copyright": "bbybugs",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "commemorated_topic": "100th Anniversary of the Bill Reid's Birth",
+  "comments": "Bill Reid (1920 – 1998) was a Canadian artist whose works include jewelry, sculpture, screen-printing, and paintings. The artwork featured on the reverse of this coin was also featured on the Canadian $20 banknote from 2004 to 2011.",
+  "related_types": [
+    {
+      "id": 232478,
+      "title": "2 Dollars - Elizabeth II (Bill Reid; colored)",
+      "category": "coin",
+      "country": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "minYear": 2020,
+      "maxYear": 2020
+    }
+  ],
+  "tags": [
+    "Bear",
+    "Birth anniversary"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 2048,
+        "code": "RCM/MRC"
+      },
+      "number": "175450"
+    },
+    {
+      "catalogue": {
+        "id": 2048,
+        "code": "RCM/MRC"
+      },
+      "number": "175955"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "2925"
+    }
+  ],
+  "weight": 6.99,
+  "orientation": "medal",
+  "edge": {
+    "description": "Interrupted serrations separated by maple leaf"
+  },
+  "mints": [
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

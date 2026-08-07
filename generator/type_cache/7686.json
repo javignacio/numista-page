@@ -1,0 +1,110 @@
+{
+  "id": 7686,
+  "url": "https://en.numista.com/7686",
+  "title": "5 Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "cap-vert",
+    "name": "Cape Verde"
+  },
+  "min_year": 1930,
+  "max_year": 1930,
+  "ruler": [
+    {
+      "id": 4332,
+      "name": "Colony of the Portuguese Empire",
+      "wikidata_id": "Q3023340",
+      "group": {
+        "id": 465,
+        "name": "Portuguese Cape verde"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Centavos",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 1573,
+      "name": "Escudo",
+      "full_name": "Escudo (1914-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 19,
+  "thickness": 1.39,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass (96% Copper, 4% Zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Liberty head looking left",
+    "lettering": "CABO VERDE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/cap-vert/6985a768130437.61266083-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/cap-vert/6985a768130437.61266083-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "reverse": {
+    "description": "Face value, date below",
+    "lettering": "REPUBLICA PORTUGUESA\r\n5\r\nCENTAVOS\r\n1930",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/cap-vert/6985a7691b5754.37270033-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/cap-vert/6985a7691b5754.37270033-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "related_types": [
+    {
+      "id": 5168,
+      "title": "5 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "portugal",
+        "name": "Portugal"
+      },
+      "minYear": 1924,
+      "maxYear": 1927
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1"
+    },
+    {
+      "catalogue": {
+        "id": 108,
+        "code": "Gomes"
+      },
+      "number": "CV 01.01"
+    }
+  ],
+  "weight": 3,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/cap-vert/6067a98c897363.19521610-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/cap-vert/6067a98c897363.19521610-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,100 @@
+{
+  "id": 6335,
+  "url": "https://en.numista.com/6335",
+  "title": "1 Centavo (Cowboy)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bresil",
+    "name": "Brazil"
+  },
+  "min_year": 1989,
+  "max_year": 1990,
+  "ruler": [
+    {
+      "id": 2684,
+      "name": "Federative Republic of Brazil",
+      "wikidata_id": "Q155"
+    }
+  ],
+  "value": {
+    "text": "1 Centavo",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 208,
+      "name": "Cruzado novo",
+      "full_name": "Cruzado novo (1989-1990)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1993-07-31"
+  },
+  "size": 16.5,
+  "thickness": 1.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Face value with big numeral, country name below; on background big circle resembling the center of Brazilian flag, on right 1 5-pointed star, indicating face value in Braille code,",
+    "lettering": "1\r\nCENTAVO \r\nBRASIL",
+    "lettering_scripts": [
+      {
+        "name": "Braille"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "1 \r\nCent\r\nBrazil",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/2509-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/2509-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "description": "Cattle herder riding, in front silhouettes of cows, issuing year below",
+    "lettering": "1989",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bresil/2508-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/2508-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "comments": "The directive from the Central Bank of Brazil (BCB) which requested the creation of the coin stated the figure were to be stamped on the obverse of the coin. Numista, however, to keep order in its database prefers to show the figure as stamped on the reverse.",
+  "tags": [
+    "Cow or bovine",
+    "Horse or equine"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "611"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "120"
+    }
+  ],
+  "weight": 2.01,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

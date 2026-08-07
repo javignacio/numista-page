@@ -1,0 +1,200 @@
+{
+  "id": 8327,
+  "url": "https://en.numista.com/8327",
+  "title": "50 Cents - Elizabeth II (4th Portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "australie",
+    "name": "Australia"
+  },
+  "min_year": 1999,
+  "max_year": 2019,
+  "ruler": [
+    {
+      "id": 1783,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 825,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "50 Cents",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 243,
+      "name": "Dollar",
+      "full_name": "Dollar (1966-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 31.51,
+  "thickness": 3,
+  "shape": "Dodecagonal (12-sided)",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Ian Rank-Broadley"
+    ],
+    "description": "4th portrait of Queen Elizabeth II facing right wearing the Girls of Great Britain and Ireland Tiara",
+    "lettering": "ELIZABETH II \r\nAUSTRALIA 2014\r\nIRB",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/australie/65b272ddca97a3.83325007-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/australie/65b272ddca97a3.83325007-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "Stuart Devlin"
+    ],
+    "description": "Australia coat of arms (the escutcheon is carried by a red kangaroo (Macropus rufus) and an Emu (Dromaius novaehollandiae)) and the numeral \"50\"",
+    "lettering": "50 \r\nSD",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/australie/65b272dfbae489.45032680-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/australie/65b272dfbae489.45032680-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p>In 1999 the 50 cent standard Australian Coat of Arms coin debuted the 4th portrait of Queen Elizabeth II as designed by Ian Rank-Broadley. It has been issued into <u>circulation</u> in every year since then except for 2000, 2001, 2002, 2003, &amp; 2005. The final issue was in 2019 when the effigy on Australian coins was switched to the Jody Clark 6th Portrait of QE II. Both versions were issued in 2019.<br>&nbsp;</p><p>The <strong>2005 </strong>issue can only be found in this joint Australian &amp; UK PNC which included an Australian 50 cent coin and a UK 50 pence coin.</p><p>It was Issued by Australia Post and the Royal Mail on 21/4/2005 (30,000 copies)<br><a href=\"https://en.numista.com/catalogue/images/5ddd1f44772d7.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5ddd1f44772d7.jpg\" alt=\"\"></a> <a href=\"https://en.numista.com/catalogue/images/5ddd1f4fb7a1a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5ddd1f4fb7a1a.jpg\" alt=\"\"></a><br><br>It has also been issued in various Uncirculated &amp; Proof Year sets, Baby Uncirculated &amp; Proof Year sets, Wedding Specimen and Proof Sets, Various PNC's, Uncirculated Berlin WMF Sets, Uncirculated Legends Sets and other special Sets.<br><br>In 2019 the RAM released a special Five-Coin Set to commemorate the <strong>Fiftieth Anniversary of the Dodecagon 50 cent Coin</strong>. The five coins in the set are each dated 2019 and each one portrays a different effigy of Queen Elizabeth II as used on the 12 sided 50 cent coin since it was introduced in 1969 as well as the new Jody Clark Sixth Effigy introduced on Australian coins in 2019.<br><a href=\"https://en.numista.com/catalogue/images/5d0de16168bf0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d0de16168bf0.jpg\" alt=\"\"></a> <a href=\"https://en.numista.com/catalogue/images/5d0de1730151b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d0de1730151b.jpg\" alt=\"\"></a><br><br>Fine Silver (.999) Proof versions of this coin have also been issued in various Fine Silver sets.</p>",
+  "related_types": [
+    {
+      "id": 6761,
+      "title": "50 Cents - Elizabeth II (2nd Portrait)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 1966,
+      "maxYear": 1966
+    },
+    {
+      "id": 904,
+      "title": "50 Cents - Elizabeth II (2nd Portrait; Dodecagonal)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 1969,
+      "maxYear": 1984
+    },
+    {
+      "id": 5027,
+      "title": "50 Cents - Elizabeth II (3rd Portrait)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 1985,
+      "maxYear": 2019
+    },
+    {
+      "id": 71381,
+      "title": "50 Cents - Elizabeth II (4th Portrait; Silver Proof)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 2004,
+      "maxYear": 2019
+    },
+    {
+      "id": 168438,
+      "title": "50 Cents - Elizabeth II (5th Portrait)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 2019,
+      "maxYear": 2019
+    },
+    {
+      "id": 168436,
+      "title": "50 Cents - Elizabeth II (6th Portrait)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 2019,
+      "maxYear": 2023
+    },
+    {
+      "id": 416678,
+      "title": "50 Cents - Charles III (1st Portrait)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 2024,
+      "maxYear": 2025
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Marsupial",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "404"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "420"
+    }
+  ],
+  "weight": 15.55,
+  "orientation": "medal",
+  "edge": {
+    "description": "12-sided, smooth",
+    "picture": "https://en.numista.com/catalogue/photos/australie/10805-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/australie/10805-180.jpg",
+    "picture_copyright": "Mike Bentley",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 28,
+      "name": "Royal Australian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

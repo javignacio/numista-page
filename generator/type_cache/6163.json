@@ -1,0 +1,129 @@
+{
+  "id": 6163,
+  "url": "https://en.numista.com/6163",
+  "title": "1 Lira (heavy type)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "turquie",
+    "name": "Turkey"
+  },
+  "min_year": 2009,
+  "max_year": 2022,
+  "ruler": [
+    {
+      "id": 2047,
+      "name": "Republic",
+      "wikidata_id": "Q43"
+    }
+  ],
+  "value": {
+    "text": "1 Lira",
+    "numeric_value": 1,
+    "currency": {
+      "id": 125,
+      "name": "New lira",
+      "full_name": "New lira (2005-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 26.15,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: copper-nickel centre in brass ring (Core: 75% Copper, 15% Nickel, 10% Zinc - Ring: 81% Copper, 4% Nickel, 15% Zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Head of Mustafa Kemal Atatürk facing left.",
+    "lettering": "TÜRKİYE CUMHURİYETİ",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Turkey",
+    "picture": "https://en.numista.com/catalogue/photos/turquie/2815-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/turquie/2815-180.jpg",
+    "picture_copyright": "Dario Silva Collection",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Crescent and star (National Emblem) at the top and the date at the bottom of a designed ring of Rumi art and denomination in the center and a Rumi Motif in the background.",
+    "lettering": "1\r\nTÜRK LİRASI\r\n2012",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Turkish Lira",
+    "picture": "https://en.numista.com/catalogue/photos/turquie/2816-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/turquie/2816-180.jpg",
+    "picture_copyright": "Dario Silva Collection",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p style=\"margin-left:0px;\">Reverse:</p><p style=\"margin-left:0px;\">Type <strong>A</strong>- &nbsp;bold script, &nbsp;numeral \"1\" with wide base, left of the photo below.</p><p style=\"margin-left:0px;\">Type <strong>B</strong> - &nbsp;thin script, &nbsp;numeral \"1\" with narrow base, right of the photo below.</p><p style=\"margin-left:0px;\">Picture: © Images courtesy of Alexandr Prokofyev.<br><a href=\"https://en.numista.com/catalogue/images/58c929c1e6fa7.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/58c929c1e6fa7.jpg\" alt=\"\"></a><br><i>Combinations</i></p><p style=\"margin-left:0px;\"><strong>A</strong> : 2009.</p><p style=\"margin-left:0px;\"><strong>B</strong>: 2009-2022 both standard and commemorative issues.<br><br>Coins from the year <strong>2021 </strong>have <i>two</i> types of years written with thinner or thicker font.<br>©Asmus96<br><img class=\"image_resized\" style=\"width:22.4%;\" src=\"https://en.numista.com/catalogue/images/miniatures/686b6bd11fce7.jpg\"></p>",
+  "related_types": [
+    {
+      "id": 362474,
+      "title": "1 Lira",
+      "category": "coin",
+      "country": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "minYear": 2023,
+      "maxYear": 2026
+    }
+  ],
+  "tags": [
+    "Artist",
+    "Military leader",
+    "Politician",
+    "Moon"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1244"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "808"
+    }
+  ],
+  "weight": 8.2,
+  "orientation": "medal",
+  "edge": {
+    "description": "Smooth with repeated imprints and inscriptions of letters \"T.C.\", sets of 5 vertical lines outwardly decreasing in length and tulip figures ('⤙⥺' in lettering).",
+    "lettering": "ı∣|∣ı T.C. ı∣|∣ı ⤙⥺ ı∣|∣ı T.C. ı∣|∣ı ⤙⥺ ı∣|∣ı T.C. ı∣|∣ı ⤙⥺",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Türkiye Cumhuriyeti",
+    "lettering_translation": "Republic of Turkey",
+    "picture": "https://en.numista.com/catalogue/photos/turquie/655225876cc994.64700823-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/turquie/655225876cc994.64700823-180.jpg",
+    "picture_copyright": "E. Timmermans",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

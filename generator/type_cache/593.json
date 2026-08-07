@@ -1,0 +1,97 @@
+{
+  "id": 593,
+  "url": "https://en.numista.com/593",
+  "title": "20 Nuevos Pesos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "mexique",
+    "name": "Mexico"
+  },
+  "min_year": 1993,
+  "max_year": 1995,
+  "ruler": [
+    {
+      "id": 4029,
+      "name": "United Mexican States/Mexican Republic",
+      "wikidata_id": "Q96"
+    }
+  ],
+  "value": {
+    "text": "20 New Pesos",
+    "numeric_value": 20,
+    "currency": {
+      "id": 271,
+      "name": "New Peso",
+      "full_name": "New Peso (1992-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 32,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: silver (.925) centre in aluminium bronze ring (Silver content: 1/4 troy oz (7.776g))"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Issuer's name above its coat of arms.",
+    "lettering": "ESTADOS UNIDOS MEXICANOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "United Mexican States",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/66516ac3530bb2.42954548-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/66516ac3530bb2.42954548-180.jpg",
+    "picture_copyright": "Scott Doll"
+  },
+  "reverse": {
+    "description": "The portrait in left profile of Miguel Hidalgo (1753-1811), Mexican patriot and chief leader of Mexico's war of independence against Spain, is accompanied with the legend \"HIDALGO\" and surrounded with a vegetable crown and the face value",
+    "lettering": "N$20  HIDALGO  1993 M",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/mexique/66516ac5e148d5.50585535-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/66516ac5e148d5.50585535-180.jpg",
+    "picture_copyright": "Scott Doll"
+  },
+  "comments": "An uncertain number of coins were minted with an error in the number 2, making it look like an &quot;8&quot; or sometimes like an inverted &quot;6&quot;<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5696f5a61f2ae.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5696f5a61f2ae.jpg\" alt=\"\" width=\"190\" height=\"200\" /></a><a href=\"https://en.numista.com/catalogue/images/569813c687db0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/569813c687db0.jpg\" alt=\"\" width=\"200\" height=\"198\" /></a>",
+  "tags": [
+    "Bird",
+    "Eagle",
+    "Military leader",
+    "Coat of Arms",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "561"
+    }
+  ],
+  "weight": 16.996,
+  "orientation": "coin",
+  "edge": {
+    "description": "Segmented reeding."
+  },
+  "mints": [
+    {
+      "id": 29,
+      "name": "Mexican Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

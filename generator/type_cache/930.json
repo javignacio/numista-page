@@ -1,0 +1,147 @@
+{
+  "id": 930,
+  "url": "https://en.numista.com/930",
+  "title": "10 Francs (with IEOM)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "french_polynesia_period",
+    "name": "French Polynesia (1957-date)"
+  },
+  "issuing_entity": {
+    "id": 6709,
+    "name": "Overseas Institution of Issue"
+  },
+  "min_year": 1972,
+  "max_year": 2005,
+  "ruler": [
+    {
+      "id": 5295,
+      "name": "French Overseas Territory",
+      "wikidata_id": "Q2327385"
+    },
+    {
+      "id": 5296,
+      "name": "French Overseas Collectivity",
+      "wikidata_id": "Q719487"
+    }
+  ],
+  "value": {
+    "text": "10 Francs",
+    "numeric_value": 10,
+    "currency": {
+      "id": 8112,
+      "name": "CFP Franc",
+      "full_name": "CFP Franc (1945-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2022-11-30"
+  },
+  "size": 24,
+  "thickness": 1.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Raymond Joly"
+    ],
+    "description": "Capped bust Marianne to left above date.",
+    "lettering": "RÉPUBLIQUE FRANÇAISE\r\nR. JOLY\r\nI·E·O·M\r\n1986",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "French Republic\n",
+    "picture": "https://en.numista.com/catalogue/photos/french_polynesia_period/6543c6a300b5d5.80503723-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/french_polynesia_period/6543c6a300b5d5.80503723-180.jpg",
+    "picture_copyright": "gef"
+  },
+  "reverse": {
+    "engravers": [
+      "Aleth Guzman-Nageotte"
+    ],
+    "description": "A tribal mask above the value.",
+    "lettering": "POLYNESIE FRANÇAISE\r\n10 f\r\nAG",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "French Polynesia",
+    "picture": "https://en.numista.com/catalogue/photos/french_polynesia_period/6543c6a30f7402.04170989-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/french_polynesia_period/6543c6a30f7402.04170989-180.jpg",
+    "picture_copyright": "gef"
+  },
+  "comments": "<p><i>Obverse</i><br>Die <strong>1</strong> - dots on the sides of the date, interpunct in engraver's name R·JOLY.<br>Die <strong>2</strong> - dots on the sides of the date, space in engraver's name R JOLY.<br>Die <strong>3</strong> - mintmark and privy mark on the sides of the date, space in engraver's name R JOLY.<br><br><i>Reverse</i><br>Die <strong>A</strong> - mintmark and privy mark on the sides of the mask.<br>Die <strong>B</strong> - no marks on the sides of the mask.<br><a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.numista.com/catalogue/images/6157627faff82.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6157627faff82.jpg\" alt=\"\"></a><br><br><i>Combinations</i><br>Metal: nickel<br><strong>1</strong>+<strong>A</strong>: all issues from 1972 till 2001.<br><strong>2</strong>+<strong>A</strong>: 2002.<br><strong>2</strong>+<strong>B</strong>: 2002.<br><strong>3</strong>+<strong>B</strong>: 2003-2005.<br>Metal: copper-nickel<br><strong>3</strong>+<strong>B</strong>: 2005-2014.<br><br><br><i>Note</i>. Starting from 2005 the metal was changed into copper-nickel, those coins are in the next article N#30252.</p>",
+  "related_types": [
+    {
+      "id": 3746,
+      "title": "10 Francs (without IEOM)",
+      "category": "coin",
+      "country": {
+        "code": "french_polynesia_period",
+        "name": "French Polynesia (1957-date)"
+      },
+      "minYear": 1967,
+      "maxYear": 1967
+    },
+    {
+      "id": 30252,
+      "title": "10 Francs (IEOM; non-magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "french_polynesia_period",
+        "name": "French Polynesia (1957-date)"
+      },
+      "minYear": 2006,
+      "maxYear": 2020
+    }
+  ],
+  "tags": [
+    "Allegory",
+    "Sculpture",
+    "Phrygian cap"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "8"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "15"
+    }
+  ],
+  "weight": 6,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/french_polynesia_period/67919478b8b975.10185516-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/french_polynesia_period/67919478b8b975.10185516-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

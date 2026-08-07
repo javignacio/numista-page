@@ -1,0 +1,216 @@
+{
+  "id": 666,
+  "url": "https://en.numista.com/666",
+  "title": "50 Centavos (Rio Branco; stainless steel)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bresil",
+    "name": "Brazil"
+  },
+  "min_year": 2002,
+  "max_year": 2024,
+  "ruler": [
+    {
+      "id": 2684,
+      "name": "Federative Republic of Brazil",
+      "wikidata_id": "Q155"
+    }
+  ],
+  "value": {
+    "text": "50 Centavos",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 158,
+      "name": "Real",
+      "full_name": "Real (1994-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23,
+  "thickness": 2.85,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Luciano Dias Araújo"
+    ],
+    "description": "Portrait of José Maria da Silva Paranhos Júnior, map of Brazil left",
+    "lettering": "BRASIL\r\nRIO BRANCO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Brazil",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/695bacd408cd95.27845614-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/695bacd408cd95.27845614-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "reverse": {
+    "description": "Denomination above the date in front of diagonal lines and the southern cross",
+    "lettering": "50 \r\nCENTAVOS \r\n2012",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bresil/695bacd574af09.85211883-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/695bacd574af09.85211883-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "comments": "<p style=\"margin-left:0px;\">José Maria da Silva Paranhos Júnior (1845 - 1912), Baron of Rio Branco, &nbsp;was a statesman, diplomat, and historian.</p><p style=\"margin-left:0px;\">&nbsp;</p><p style=\"margin-left:0px;\">Varieties list (font variants aren't included, please see information bellow):</p><p style=\"margin-left:0px;\">1. 1998, 2000, 2001: copper-nickel; \"T\" wholly inside stripes; 5 lines; no mintmark (KM#651);<br>2. 2002: stainless steel; \"T\" wholly inside stripes; 5 lines; no mintmark (KM#651a);<br>3. 2003, 2005, 2008: stainless steel; \"T\" partially inside stripes; 5 lines; no mintmark (KM#651a.1);<br>4. 2005-date: stainless steel; \"T\" partially inside stripes; 6 lines; no mintmark (KM#651a.1);<br>5. 2019: stainless steel; \"T\" partially inside stripes; 6 lines; \"A\" mintmark (KM#651a.1).</p><p>&nbsp;</p><p>5-6 lines variants:</p><p><a href=\"https://en.numista.com/catalogue/images/6932a96521468.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6932a96521468.jpg\"></a></p><p style=\"margin-left:0px;\">&nbsp;</p><p style=\"margin-left:0px;\">G in “PROGRESSO” (text on edge) varieties:</p><p><a href=\"https://en.numista.com/catalogue/images/5edd2d967c8a9.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5edd2d967c8a9.png\" alt=\"\"></a></p><p style=\"margin-left:0px;\">1. \"Arrow\" G with spud and bar, standard font for all years, including KM#651;<br>2. \"Large arrow\" G with larger spud and bar in 2018 and 2019 coins;<br>3. Regular G with bar in 2010-2013 coins;<br>4. Italic regular G in 2014 and 2015 coins;<br>5. Regular G with small bar in 2018 and 2019 coins.<br>&nbsp;</p><p style=\"margin-left:0px;\">A new die was introduced in 2018 (the major diference can be observed in \"Rio Branco\" letter, which use bolder font than previous die):<br><a href=\"https://en.numista.com/catalogue/images/5ede76e64a5fd.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5ede76e64a5fd.png\" alt=\"\"></a><br>&nbsp;</p><p style=\"margin-left:0px;\">Variant on the edge of the 2020 coin (large letters and small letters):</p><p style=\"margin-left:0px;\"><a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.numista.com/catalogue/images/6561bfd537bc8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6561bfd537bc8.jpg\"></a><br>&nbsp;</p><p style=\"margin-left:0px;\"><a href=\"https://en.numista.com/catalogue/images/67ce218b51deb.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67ce218b51deb.jpg\"></a> <a href=\"https://en.numista.com/catalogue/images/67ce2194490fb.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67ce2194490fb.jpg\"></a></p><p style=\"margin-left:0px;\">Official Sets - 2018 - Mintage 3000 Sets</p><p style=\"margin-left:0px;\">&nbsp;</p><p style=\"margin-left:0px;\"><a href=\"https://en.numista.com/catalogue/images/5d87a4d855fff.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d87a4d855fff.jpg\" alt=\"\"></a> <a href=\"https://en.numista.com/catalogue/images/5d87a4e1d1e0e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d87a4e1d1e0e.jpg\" alt=\"\"></a><br>Official Sets - 2019 - Mintage 3000 Sets</p><p style=\"margin-left:0px;\">&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/67ce2b6e785bb.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67ce2b6e785bb.jpg\"></a> <a href=\"https://en.numista.com/catalogue/images/67ce2b71c0f43.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67ce2b71c0f43.jpg\"></a></p><p>Official card with complete set, including 1 real commemorative coin</p><p style=\"margin-left:0px;\">&nbsp;</p><p style=\"margin-left:0px;\"><a href=\"https://en.numista.com/catalogue/images/67ce21a745445.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67ce21a745445.jpg\"></a> <a href=\"https://en.numista.com/catalogue/images/67ce21ac0ba70.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67ce21ac0ba70.jpg\"></a></p><p style=\"margin-left:0px;\">Official Sets - 2020 - Mintage 3000 Sets</p><p style=\"margin-left:0px;\"><br><a href=\"https://en.numista.com/catalogue/images/6206caf9525a4.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6206caf9525a4.jpg\" alt=\"\"></a> <a href=\"https://en.numista.com/catalogue/images/6206cb05ec58f.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6206cb05ec58f.jpg\" alt=\"\"></a><br>Official Sets - 2021 - Mintage 5000 Sets</p>",
+  "related_types": [
+    {
+      "id": 4049,
+      "title": "1 Centavo (Cabral)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1998,
+      "maxYear": 2004
+    },
+    {
+      "id": 1049,
+      "title": "5 Centavos (Tiradentes)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1998,
+      "maxYear": 2025
+    },
+    {
+      "id": 2253,
+      "title": "10 Centavos (Pedro I)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1998,
+      "maxYear": 2025
+    },
+    {
+      "id": 2252,
+      "title": "25 Centavos (Deodoro da Fonseca)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1998,
+      "maxYear": 2025
+    },
+    {
+      "id": 8895,
+      "title": "50 Centavos (Rio Branco; copper-nickel)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1998,
+      "maxYear": 2001
+    },
+    {
+      "id": 94947,
+      "title": "50 Centavos (Mule Coin)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 2012,
+      "maxYear": 2012
+    },
+    {
+      "id": 3817,
+      "title": "1 Real",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1998,
+      "maxYear": 1999
+    },
+    {
+      "id": 8896,
+      "title": "1 Real",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 2002,
+      "maxYear": 2024
+    }
+  ],
+  "tags": [
+    "Politician",
+    "Map"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "651a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "159a"
+    },
+    {
+      "catalogue": {
+        "id": 1678,
+        "code": "Bentes"
+      },
+      "number": "780"
+    }
+  ],
+  "weight": 7.81,
+  "orientation": "coin",
+  "edge": {
+    "description": "Smooth and inscripted",
+    "lettering": "* ORDEM E PROGRESSO * BRASIL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Order and Progress Brazil",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/1500-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/1500-180.jpg",
+    "picture_copyright": "ZacUK"
+  },
+  "mints": [
+    {
+      "id": 1335,
+      "name": "Mint of Brazil"
+    },
+    {
+      "id": 23,
+      "name": "Royal Dutch Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

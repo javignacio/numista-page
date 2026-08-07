@@ -1,0 +1,168 @@
+{
+  "id": 3768,
+  "url": "https://en.numista.com/3768",
+  "title": "1 Tetri",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "georgie",
+    "name": "Georgia (1991-date)"
+  },
+  "min_year": 1993,
+  "max_year": 2015,
+  "ruler": [
+    {
+      "id": 3265,
+      "name": "Republic",
+      "wikidata_id": "Q230"
+    }
+  ],
+  "value": {
+    "text": "1 Tetri",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 98,
+      "name": "Lari",
+      "full_name": "Lari (1995-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2020-12-31"
+  },
+  "size": 15,
+  "thickness": 1.25,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Borjgali, a Georgian symbol of the Sun with seven rotating wings, over the Christian Tree of Life and the country name in Roman characters above and in Latin characters below",
+    "lettering": "საქართველოს რესპუბლიკა\r\nREPUBLIC OF GEORGIA\r\n1993",
+    "lettering_scripts": [
+      {
+        "name": "Georgian (Mkhedruli)"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Georgia\r\nRepublic of Georgia\r\n1993",
+    "picture": "https://en.numista.com/catalogue/photos/georgie/5fc82e3875e008.43220493-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/georgie/5fc82e3875e008.43220493-180.jpg",
+    "picture_copyright": "Ben-jamin",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "reverse": {
+    "description": "Denomination above stylized grapes figure from Svetitskhoveli Cathedral",
+    "lettering": "1 თეთრი",
+    "lettering_scripts": [
+      {
+        "name": "Georgian (Mkhedruli)"
+      }
+    ],
+    "lettering_translation": "1 Tetri",
+    "picture": "https://en.numista.com/catalogue/photos/georgie/5fc82e38d429c0.14818956-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/georgie/5fc82e38d429c0.14818956-180.jpg",
+    "picture_copyright": "Ben-jamin",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "comments": "<p>An unknown number of coins were minted in 2015 by the Royal Spanish Mint.</p><p>&nbsp;</p><p><img src=\"https://en.numista.com/catalogue/images/55e88aba3051b.jpg\" alt=\"\"></p>",
+  "related_types": [
+    {
+      "id": 3786,
+      "title": "2 Tetri",
+      "category": "coin",
+      "country": {
+        "code": "georgie",
+        "name": "Georgia (1991-date)"
+      },
+      "minYear": 1993,
+      "maxYear": 2015
+    },
+    {
+      "id": 3769,
+      "title": "5 Tetri",
+      "category": "coin",
+      "country": {
+        "code": "georgie",
+        "name": "Georgia (1991-date)"
+      },
+      "minYear": 1993,
+      "maxYear": 2015
+    },
+    {
+      "id": 2852,
+      "title": "10 Tetri",
+      "category": "coin",
+      "country": {
+        "code": "georgie",
+        "name": "Georgia (1991-date)"
+      },
+      "minYear": 1993,
+      "maxYear": 1993
+    },
+    {
+      "id": 3770,
+      "title": "20 Tetri",
+      "category": "coin",
+      "country": {
+        "code": "georgie",
+        "name": "Georgia (1991-date)"
+      },
+      "minYear": 1993,
+      "maxYear": 1993
+    },
+    {
+      "id": 3790,
+      "title": "50 Tetri",
+      "category": "coin",
+      "country": {
+        "code": "georgie",
+        "name": "Georgia (1991-date)"
+      },
+      "minYear": 1993,
+      "maxYear": 1993
+    }
+  ],
+  "tags": [
+    "Fruit",
+    "Sun"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "76"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "7"
+    }
+  ],
+  "weight": 1.38,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 24,
+      "name": "Royal Mint of Madrid"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

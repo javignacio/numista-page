@@ -1,0 +1,93 @@
+{
+  "id": 33451,
+  "url": "https://en.numista.com/33451",
+  "title": "½ Décimo",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "chili",
+    "name": "Chile"
+  },
+  "min_year": 1860,
+  "max_year": 1862,
+  "ruler": [
+    {
+      "id": 3299,
+      "name": "Republic",
+      "wikidata_id": "Q298"
+    }
+  ],
+  "value": {
+    "text": "½ Décimo",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 237,
+      "name": "Peso",
+      "full_name": "Peso (1835-1959)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 15,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.900)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Denomination within wreath",
+    "lettering": "REPUBLICA DE CHILE • So •\r\nMEDIO\r\nDECIMO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chili/488-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/488-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "description": "Condor with spread wings, chain in beak",
+    "lettering": "POR LA RAZON O LA FUERZA\r\n1862",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chili/489-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/489-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "tags": [
+    "Bird"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "121a"
+    }
+  ],
+  "weight": 1.15,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded."
+  },
+  "mints": [
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

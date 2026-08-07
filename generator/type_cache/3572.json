@@ -1,0 +1,130 @@
+{
+  "id": 3572,
+  "url": "https://en.numista.com/3572",
+  "title": "1 Soldo / 5 Centesimi - Pius IX",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "papal_states",
+    "name": "Papal States"
+  },
+  "min_year": 1866,
+  "max_year": 1867,
+  "ruler": [
+    {
+      "id": 3577,
+      "name": "Pius IX",
+      "wikidata_id": "Q43720"
+    }
+  ],
+  "value": {
+    "text": "1 Soldo",
+    "numeric_value": 0.05,
+    "numerator": 1,
+    "denominator": 20,
+    "currency": {
+      "id": 315,
+      "name": "Lira",
+      "full_name": "Lira (1866-1870)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 25.5,
+  "thickness": 1,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Carl Friedrich Voigt"
+    ],
+    "description": "Bust left within beaded circle, date below.",
+    "lettering": "PIVS · IX · PONT · MAX · ANN · XXI\r\n* 1867 *",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Pius IX, Pontifex Maximus, Anno XXI",
+    "lettering_translation": "Pius IX, Supreme Pontiff, year 21",
+    "picture": "https://en.numista.com/catalogue/photos/papal_states/227-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/papal_states/227-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "engravers": [
+      "Carl Friedrich Voigt"
+    ],
+    "description": "Value within beaded circle.",
+    "lettering": "STATO PONTIFICIO\r\n1\r\nSOLDO\r\nR\r\n5·CENT·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Papal states",
+    "picture": "https://en.numista.com/catalogue/photos/papal_states/228-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/papal_states/228-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "<p>KM#1372.1 - Small Bust<br>KM#1372.2 - Large Bust<br><br>Varity with small bust:<br><a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.numista.com/catalogue/images/64b2ace8e9cd8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64b2ace8e9cd8.jpg\" alt=\"\"></a> <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.numista.com/catalogue/images/64b2acf0238fd.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64b2acf0238fd.jpg\" alt=\"\"></a><br>© Nomisma</p><p>&nbsp;</p><p>Large date vs Small date:</p><p><a href=\"https://en.numista.com/catalogue/images/655643eec463e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/655643eec463e.jpg\"></a></p>",
+  "tags": [
+    "Monarch"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1372"
+    },
+    {
+      "catalogue": {
+        "id": 51,
+        "code": "MIR"
+      },
+      "number": "3174"
+    },
+    {
+      "catalogue": {
+        "id": 27,
+        "code": "Munt"
+      },
+      "number": "60-61"
+    },
+    {
+      "catalogue": {
+        "id": 300,
+        "code": "Berman"
+      },
+      "number": "3348-3349"
+    }
+  ],
+  "weight": 5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/papal_states/635c973b4aedc9.89031514-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/papal_states/635c973b4aedc9.89031514-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 22,
+      "name": "Rome"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

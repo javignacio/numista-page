@@ -1,0 +1,127 @@
+{
+  "id": 7888,
+  "url": "https://en.numista.com/7888",
+  "title": "25 Kuruş",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "turquie",
+    "name": "Turkey"
+  },
+  "issuing_entity": {
+    "id": 2456,
+    "name": "Devlet Darphanesi, Istanbul"
+  },
+  "min_year": 1959,
+  "max_year": 1978,
+  "ruler": [
+    {
+      "id": 2047,
+      "name": "Republic",
+      "wikidata_id": "Q43"
+    }
+  ],
+  "value": {
+    "text": "25 Kuruş",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 124,
+      "name": "Old lira",
+      "full_name": "Old lira (1923-2005)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 22.6,
+  "thickness": 1.57,
+  "shape": "Round",
+  "composition": {
+    "text": "Acmonital"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Pietro Giampaoli"
+    ],
+    "description": "Lady in traditional turkish garments holding a gun shell, walking on either smooth or rough ground, with country name around the rim above",
+    "lettering": "TÜRKİYE CUMHURİYETİ",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Turkey",
+    "picture": "https://en.numista.com/catalogue/photos/turquie/5ffdd1136b41b5.58394225-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/turquie/5ffdd1136b41b5.58394225-180.jpg",
+    "picture_copyright": "Nicola M",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Pietro Giampaoli"
+    ],
+    "description": "Value & date within wreath of wheat stalk on left, olive sprig on right, star & crescent at the top above denomination.",
+    "lettering": "25 \r\nKURUŞ\r\n1967",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/turquie/5ffdd114170058.16029959-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/turquie/5ffdd114170058.16029959-180.jpg",
+    "picture_copyright": "Cahir G",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "KM#892.1 with smooth ground below figure:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/636946e419ee8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/636946e419ee8.jpg\" alt=\"\" width=\"200\" height=\"200\" /></a>",
+  "tags": [
+    "Moon",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "892"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "407"
+    }
+  ],
+  "weight": 5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain with lettering, patterns and dots",
+    "lettering": "T.C.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "TÜRKİYE CUMHURİYETİ",
+    "lettering_translation": "Republic of Turkey",
+    "picture": "https://en.numista.com/catalogue/photos/turquie/697-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/turquie/697-180.jpg",
+    "picture_copyright": "ZacUK"
+  },
+  "mints": [
+    {
+      "id": 1364,
+      "name": "Turkish State Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

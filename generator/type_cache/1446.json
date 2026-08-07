@@ -1,0 +1,121 @@
+{
+  "id": 1446,
+  "url": "https://en.numista.com/1446",
+  "title": "5 Kroner - Olav V (Type 2)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "norvege",
+    "name": "Norway"
+  },
+  "min_year": 1974,
+  "max_year": 1988,
+  "ruler": [
+    {
+      "id": 451,
+      "name": "Olav V",
+      "wikidata_id": "Q154912",
+      "group": {
+        "id": 358,
+        "name": "House of Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Kroner",
+    "numeric_value": 5,
+    "currency": {
+      "id": 16,
+      "name": "Krone",
+      "full_name": "Krone (1875-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2000-07-09"
+  },
+  "size": 29.5,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Cu, 25% Ni)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Øivind Hansen"
+    ],
+    "description": "Bust of king Olav V facing left. Engraver's initials behind back of bust. Surrounded by inscription. Mintmark below bust. Solid ring on the rim.",
+    "lettering": "OLAV V NORGES KONGE\r\nØH\r\n⚒",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Olav V, King of Norway",
+    "picture": "https://en.numista.com/catalogue/photos/norvege/840-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/840-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "reverse": {
+    "engravers": [
+      "Øivind Hansen"
+    ],
+    "description": "Crowned shield with a crowned norwegian lion holding a halberd and facing left. Value below the shield. Date divided by shield. Solid ring on the rim.",
+    "lettering": "19 80\r\n5 KRONER",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/norvege/841-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/841-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "comments": "<p>Schön#71.1 (1974-1987) and Schön#71.2 (1988)</p><p><a href=\"https://en.numista.com/catalogue/images/691f3ae62744a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/691f3ae62744a.jpg\"></a></p>",
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "420"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "71"
+    }
+  ],
+  "weight": 11.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Waved line engraved, 4 crossed hammers and a letter referring to the chief of The Royal Mint, B for Arne Bakken (1974-1980) and K for Ole-Robert Kolberg (1981-1988).",
+    "lettering": "B",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/norvege/408-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/408-180.jpg",
+    "picture_copyright": "ZacUK"
+  },
+  "mints": [
+    {
+      "id": 1888,
+      "name": "Norwegian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

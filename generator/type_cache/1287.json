@@ -1,0 +1,123 @@
+{
+  "id": 1287,
+  "url": "https://en.numista.com/1287",
+  "title": "2 Pence - George III (2nd issue; 'Cartwheel')",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1797,
+  "max_year": 1797,
+  "ruler": [
+    {
+      "id": 267,
+      "name": "George III",
+      "wikidata_id": "Q127318",
+      "group": {
+        "id": 525,
+        "name": "House of Hanover"
+      }
+    }
+  ],
+  "value": {
+    "text": "2 Pence",
+    "numeric_value": 0.008333333333333333,
+    "numerator": 1,
+    "denominator": 120,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1971)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1869-12-31"
+  },
+  "size": 41,
+  "thickness": 5,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Conrad Heinrich Küchler"
+    ],
+    "description": "Laureate and draped portrait of King George III right, legend around on raised rim.",
+    "lettering": "GEORGIUS III · D:G · REX.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Georgius III Dei Gratia Rex",
+    "lettering_translation": "George the Third by the Grace of God King",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/2695-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/2695-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "engravers": [
+      "Conrad Heinrich Küchler"
+    ],
+    "description": "Seated figure of Britannia facing left, trident in left hand, olive branch in raised right hand, shield bearing Union flag resting on left, sea behind with ship on left, mint name below shield, legend above and date below on raised rim.",
+    "lettering": "BRITANNIA.\r\nSOHO\r\n1797",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/2696-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/2696-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "The largest regal coin to circulate in Britain, these pieces were produced by Matthew Boulton using a steam powered press at the Soho mint in Birmingham beginning in 1797.<br /><br />\r\nFrom 1770 until the end of the 18th century the practice of melting down the official copper coins and making lightweight forgeries had become so widespread that it prompted industrialist Matthew Boulton to offer a potential solution. He proposed that each coin should actually be made to contain its value in copper (two ounces avoirdupois), that the quality should be improved by using a retaining collar during striking (to give a perfectly round coin) and by designing the coins with thick raised borders to prevent them wearing so easily.<br /><br />\r\nThis type was struck in copper by Boulton for several years after 1797 with no change in date, along with some later strikes in a variety of metals. Further restrikes were produced by W.J. Taylor when he bought the dies in 1848; the chief way these later issues can be distinguished is by marks resulting from die corrosion.<br /><br />\r\nThe sheer weight of these coins means that they are very susceptable to edge knocks. They were found to be too heavy for regular use and no more copper or bronze twopence coins were struck until decimalisation in 1971.",
+  "tags": [
+    "Armour",
+    "Sea",
+    "Boat or watercraft",
+    "Allegory"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "619"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "3776"
+    }
+  ],
+  "weight": 56.7,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/5e9d4580018757.37890097-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/5e9d4580018757.37890097-180.jpg",
+    "picture_copyright": "Timbrimi"
+  },
+  "mints": [
+    {
+      "id": 1808,
+      "name": "Soho Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

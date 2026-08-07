@@ -1,0 +1,148 @@
+{
+  "id": 1933,
+  "url": "https://en.numista.com/1933",
+  "title": "5 Deutsche Mark",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "allemagne",
+    "name": "Germany, Federal Republic of"
+  },
+  "min_year": 1951,
+  "max_year": 1974,
+  "ruler": [
+    {
+      "id": 2860,
+      "name": "Federal Republic",
+      "wikidata_id": "Q183"
+    }
+  ],
+  "value": {
+    "text": "5 Deutsche Mark",
+    "numeric_value": 5,
+    "currency": {
+      "id": 131,
+      "name": "Deutsche Mark",
+      "full_name": "Deutsche Mark (1948-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1975-08-01"
+  },
+  "size": 29,
+  "thickness": 2.07,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.625) (Copper .375)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Albert Holl"
+    ],
+    "description": "An eagle facing left, the emblem of Germany",
+    "picture": "https://en.numista.com/catalogue/photos/allemagne/242-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/242-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "Albert Holl"
+    ],
+    "description": "The mintmark below the date",
+    "lettering": "BUNDESREPUBLIK DEUTSCHLAND\r\nDEUTSCHE MARK\r\n5\r\n*1970*\r\nG",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Federal Republic of Germany\r\nDeutsche Mark\r\n5\r\n1970\r\nG",
+    "picture": "https://en.numista.com/catalogue/photos/allemagne/243-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/243-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "The different lettering design, different stars next to the date, and the heraldic eagle&#039;s design<br />\r\nType A: thin legend<br />\r\nType B: thick legend",
+  "related_types": [
+    {
+      "id": 843,
+      "title": "5 Deutsche Mark",
+      "category": "coin",
+      "country": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+      },
+      "minYear": 1975,
+      "maxYear": 2001
+    }
+  ],
+  "tags": [
+    "Bird"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "112"
+    },
+    {
+      "catalogue": {
+        "id": 80,
+        "code": "J"
+      },
+      "number": "387"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "110"
+    }
+  ],
+  "weight": 11.2,
+  "orientation": "medal",
+  "edge": {
+    "description": "Smooth with the inscription of the German motto (unity, justice, and freedom)",
+    "lettering": "EINIGKEIT UND RECHT UND FREIHEIT",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Unity and Justice and Freedom",
+    "picture": "https://en.numista.com/catalogue/photos/allemagne/697fb0b51e2081.53081845-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/697fb0b51e2081.53081845-180.jpg",
+    "picture_copyright": "Walter_Scott"
+  },
+  "mints": [
+    {
+      "id": 1,
+      "name": "Munich"
+    },
+    {
+      "id": 2,
+      "name": "Staatliche Münze Baden-Württemberg"
+    },
+    {
+      "id": 3,
+      "name": "Staatliche Münze Baden-Württemberg"
+    },
+    {
+      "id": 4,
+      "name": "Hamburgische Münze"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

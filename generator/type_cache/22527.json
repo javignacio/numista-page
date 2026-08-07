@@ -1,0 +1,94 @@
+{
+  "id": 22527,
+  "url": "https://en.numista.com/22527",
+  "title": "1 Peso",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "chili",
+    "name": "Chile"
+  },
+  "min_year": 1915,
+  "max_year": 1917,
+  "ruler": [
+    {
+      "id": 3299,
+      "name": "Republic",
+      "wikidata_id": "Q298"
+    }
+  ],
+  "value": {
+    "text": "1 Peso",
+    "numeric_value": 1,
+    "currency": {
+      "id": 237,
+      "name": "Peso",
+      "full_name": "Peso (1835-1959)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 28,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.720)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Condor on rock surrounded by legend",
+    "lettering": "REPUBLICA DE CHILE\r\n0,72",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chili/1569-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/1569-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "description": "Date below denomination in wreath",
+    "lettering": "So\r\nUN\r\nPESO\r\n1915",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chili/1570-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/1570-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "tags": [
+    "Bird",
+    "Hammer and sickle"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "152.4"
+    }
+  ],
+  "weight": 9,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

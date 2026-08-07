@@ -1,0 +1,138 @@
+{
+  "id": 64,
+  "url": "https://en.numista.com/64",
+  "title": "2 Euros (1st map)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "autriche",
+    "name": "Austria"
+  },
+  "min_year": 2002,
+  "max_year": 2006,
+  "ruler": [
+    {
+      "id": 149,
+      "name": "Second Republic",
+      "wikidata_id": "Q40"
+    }
+  ],
+  "value": {
+    "text": "2 Euros",
+    "numeric_value": 2,
+    "currency": {
+      "id": 9002,
+      "name": "Euro",
+      "full_name": "Euro (2002-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2002-01-01"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25.75,
+  "thickness": 2.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Josef Kaiser"
+    ],
+    "description": "A portrait of the radical pacifist Bertha von Suttner, a symbol of Austria's efforts over many decades to support peace, is accompanied with the face value",
+    "lettering": "2 EURO 2004",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/autriche/612b57d586e444.07957554-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/autriche/612b57d586e444.07957554-180.jpg",
+    "picture_copyright": "Mike Bentley",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Luc Luycx"
+    ],
+    "description": "A map, next to the face value, shows the fifteen states of the European Union",
+    "lettering": "2 EURO LL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/autriche/612b57d61a27c2.50126084-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/autriche/612b57d61a27c2.50126084-180.jpg",
+    "picture_copyright": "Mike Bentley",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "Variations in the edge features are known:<br />\r\nVarying star size, 2002:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/6033a8c14bbf5.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6033a8c14bbf5.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nVariation in font size/spacing, 2002<br />\r\n<a href=\"https://en.numista.com/catalogue/images/6425f2a77f635.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6425f2a77f635.jpg\" alt=\"\" width=\"150\" height=\"200\" /></a>",
+  "related_types": [
+    {
+      "id": 9761,
+      "title": "2 Euros (2nd map)",
+      "category": "coin",
+      "country": {
+        "code": "autriche",
+        "name": "Austria"
+      },
+      "minYear": 2008,
+      "maxYear": 2026
+    }
+  ],
+  "tags": [
+    "Literature",
+    "Map",
+    "Peace"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "3089"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "284"
+    }
+  ],
+  "weight": 8.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Finely ribbed with edge lettering: four times the sequence of the text \"2 EURO\" and three stars alternately upright and inverted",
+    "lettering": "2 EURO *** 2 EURO *** 2 EURO *** 2 EURO ***",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/autriche/3037-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/autriche/3037-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 232,
+      "name": "Münze Österreich"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

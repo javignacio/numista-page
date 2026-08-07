@@ -1,0 +1,128 @@
+{
+  "id": 2834,
+  "url": "https://en.numista.com/2834",
+  "title": "50 Pesos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "chili",
+    "name": "Chile"
+  },
+  "min_year": 1981,
+  "max_year": 2024,
+  "ruler": [
+    {
+      "id": 3299,
+      "name": "Republic",
+      "wikidata_id": "Q298"
+    }
+  ],
+  "value": {
+    "text": "50 Pesos",
+    "numeric_value": 50,
+    "currency": {
+      "id": 146,
+      "name": "Peso",
+      "full_name": "Peso (1975-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25,
+  "thickness": 1.8,
+  "shape": "Decagonal (10-sided)",
+  "composition": {
+    "text": "Copper-aluminium-nickel (92% Copper, 6% Nickel, 2% Aluminium)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "René Thénot"
+    ],
+    "description": "Portrait of Bernardo O'Higgins to the right",
+    "lettering": "REPUBLICA DE CHILE\r\nSo\r\nLIBERTADOR\r\nB. O'HIGGINS\r\nR.THENOT",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Chile\r\nLiberator",
+    "picture": "https://en.numista.com/catalogue/photos/chili/1701-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/1701-180.jpg",
+    "picture_copyright": "Quodlibet"
+  },
+  "reverse": {
+    "description": "The value within a laurel wreath",
+    "lettering": "50\r\nPESOS\r\n2008",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chili/1702-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/1702-180.jpg",
+    "picture_copyright": "Quodlibet"
+  },
+  "comments": "<p>Variants can be found as illustrated below.<br><br>1989 Varieties:<br><a href=\"https://en.numista.com/catalogue/images/59ea49395332d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/59ea49395332d.jpg\" alt=\"\"></a><br><br>2008 Varieties:<br><a href=\"https://en.numista.com/catalogue/images/59eae5a5434a1.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/59eae5a5434a1.jpg\" alt=\"\"></a><br><a href=\"https://en.numista.com/catalogue/images/59eaebd80b2f8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/59eaebd80b2f8.jpg\" alt=\"\"></a><br><a href=\"https://en.numista.com/catalogue/images/59eaeae23ecc3.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/59eaeae23ecc3.jpg\" alt=\"\"></a><br><br>2009 Varieties:<br><a href=\"https://en.numista.com/catalogue/images/59ea8cf20b6fa.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/59ea8cf20b6fa.jpg\" alt=\"\"></a><br><a href=\"https://en.numista.com/catalogue/images/59ea8d00a4359.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/59ea8d00a4359.jpg\" alt=\"\"></a><br><br>2010 Varieties:<br><a href=\"https://en.numista.com/catalogue/images/59ea82766e27f.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/59ea82766e27f.jpg\" alt=\"\"></a><br><br>After 2008, there seem to be varieties concerning the lettering on the lower left shoulder parts on the obverse, as it seems there was no lettering prior.<br><br>After 2008, including that year, it seems there are three different fonts for which the date is inscripted. The first is narrowly spaced with high relief lettering, the second is medium spaced with high relief lettering, and the third is wide-spaced lettering with lower relief (less bold lettering, too). These differences are best spotted in the lettering of the \"0\".</p><p>&nbsp;</p><p>Selected examples of the development of both obverse and reverse across the years:</p><p><a href=\"https://en.numista.com/catalogue/images/6779a672d1a24.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6779a672d1a24.jpg\"></a></p>",
+  "tags": [
+    "Military leader",
+    "Politician",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "219"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "70"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "219.1"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "219.2"
+    }
+  ],
+  "weight": 7,
+  "orientation": "coin",
+  "edge": {
+    "description": "Smooth with 23 ellipsoid dents",
+    "picture": "https://en.numista.com/catalogue/photos/chili/946-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/946-180.jpg",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    },
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

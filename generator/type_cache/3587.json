@@ -1,0 +1,148 @@
+{
+  "id": 3587,
+  "url": "https://en.numista.com/3587",
+  "title": "5 Cents - Elizabeth II (4th portrait; magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "canada",
+    "name": "Canada"
+  },
+  "min_year": 2003,
+  "max_year": 2006,
+  "ruler": [
+    {
+      "id": 2095,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 827,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Cents",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 44,
+      "name": "Dollar",
+      "full_name": "Dollar (1858-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21.1,
+  "thickness": 1.76,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Susan Taylor"
+    ],
+    "designers": [
+      "Susanna Blunt"
+    ],
+    "description": "Head of Queen Elizabeth II, as at 77 years of age, bare headed, wearing necklace and earrings, facing right.",
+    "lettering": "ELIZABETH II D·G·REGINA\r\nP",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "ELIZABETH II DEI GRATIA REGINA",
+    "lettering_translation": "Elizabeth II Queen by the grace of God",
+    "picture": "https://en.numista.com/catalogue/photos/canada/64fa21037feb09.53067585-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/64fa21037feb09.53067585-180.jpg",
+    "picture_copyright": "monnaiecanada.com",
+    "picture_copyright_url": "https://www.monnaiecanada.com/"
+  },
+  "reverse": {
+    "designers": [
+      "George Kruger Gray"
+    ],
+    "description": "A beaver, over the inscription \"CANADA\", is surrounded with the face value, flanked on both sides by a maple leaf",
+    "lettering": "5 CENTS\r\nCANADA\r\n2006\r\nK·G",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/canada/3213-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/3213-180.jpg",
+    "picture_copyright": "levan"
+  },
+  "comments": "<p>(C) mintage included with the circulation coin.</p>",
+  "related_types": [
+    {
+      "id": 377393,
+      "title": "5 Cents - Elizabeth II (4th portrait; non-magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "minYear": 2006,
+      "maxYear": 2006
+    },
+    {
+      "id": 395,
+      "title": "5 Cents - Elizabeth II (4th portrait; magnetic with RCM logo)",
+      "category": "coin",
+      "country": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "minYear": 2006,
+      "maxYear": 2022
+    }
+  ],
+  "tags": [
+    "Rodent",
+    "Monarch"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "519"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "491"
+    }
+  ],
+  "weight": 3.95,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/canada/672b9186e4cd11.27212144-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/672b9186e4cd11.27212144-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 19,
+      "name": "Royal Canadian Mint of Ottawa"
+    },
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

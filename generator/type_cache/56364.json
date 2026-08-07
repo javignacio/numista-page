@@ -1,0 +1,124 @@
+{
+  "id": 56364,
+  "url": "https://en.numista.com/56364",
+  "title": "20 Pence - Elizabeth II (2nd portrait; Silver Piedfort)",
+  "object_type": {
+    "id": 3,
+    "name": "Non-circulating coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1982,
+  "max_year": 1982,
+  "ruler": [
+    {
+      "id": 275,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 527,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "20 Pence",
+    "numeric_value": 0.2,
+    "currency": {
+      "id": 126,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (decimalized, 1971-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21.4,
+  "shape": "Equilateral curve heptagon (7-sided)",
+  "composition": {
+    "text": "Silver (.925)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Arnold Machin"
+    ],
+    "description": "Second crowned portrait of Queen Elizabeth II right, wearing the Girls of Great Britain and Ireland tiara, legend around.",
+    "lettering": "ELIZABETH II\r\nD·G·REG·F·D·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Elizabeth II Dei Gratia Regina Fidei Defensatrix",
+    "lettering_translation": "Elizabeth II by the Grace of God Queen Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/7507-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/7507-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "engravers": [
+      "William Maving Gardner"
+    ],
+    "description": "Crowned Tudor rose dividing date and legend, denomination below",
+    "lettering": "TWENTY PENCE\r\n19 82\r\nW G\r\n20",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/7508-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/7508-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "commemorated_topic": "1st circulating issue of 20p coin",
+  "comments": "Issue Limit: 25,000<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5ec02fbc7d45c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5ec02fbc7d45c.jpg\" alt=\"\" width=\"133\" height=\"250\" /></a><br />\r\n(former Spink ref. 4230)",
+  "related_types": [
+    {
+      "id": 865,
+      "title": "20 Pence - Elizabeth II (2nd portrait)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1982,
+      "maxYear": 1984
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "P2"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "G1"
+    }
+  ],
+  "weight": 10,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Non-circulating coins"
+}

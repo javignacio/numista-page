@@ -1,0 +1,108 @@
+{
+  "id": 2753,
+  "url": "https://en.numista.com/2753",
+  "title": "1 Paisa",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "pakistan",
+    "name": "Pakistan"
+  },
+  "min_year": 1967,
+  "max_year": 1973,
+  "ruler": [
+    {
+      "id": 5238,
+      "name": "Islamic Republic",
+      "wikidata_id": "Q843"
+    }
+  ],
+  "value": {
+    "text": "1 Paisa",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 417,
+      "name": "Rupee",
+      "full_name": "Rupee (decimalized, 1961-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2014-09-30"
+  },
+  "size": 17,
+  "thickness": 1.35,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Crescent and Star above Tughra",
+    "lettering": "পাকিস্তান সরকার \r\nحكومت پاكستان\r\n1970",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      },
+      {
+        "name": "Devanagari"
+      }
+    ],
+    "lettering_translation": "Government of Pakistan\r\nGovernment of Pakistan\r\n1970",
+    "picture": "https://en.numista.com/catalogue/photos/pakistan/505-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pakistan/505-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "reverse": {
+    "description": "Value flanked by Oat Sprigs",
+    "lettering": "ایک  پیسہ\r\n1\r\nএক পয়সা",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      },
+      {
+        "name": "Devanagari"
+      }
+    ],
+    "lettering_translation": "One Paisa\r\n1\r\nOne Paisa",
+    "picture": "https://en.numista.com/catalogue/photos/pakistan/506-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pakistan/506-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "tags": [
+    "Moon"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "29"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "22b"
+    }
+  ],
+  "weight": 0.6,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 1876,
+      "name": "Lahore"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

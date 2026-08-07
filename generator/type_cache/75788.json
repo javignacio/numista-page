@@ -1,0 +1,100 @@
+{
+  "id": 75788,
+  "url": "https://en.numista.com/75788",
+  "title": "2 Rand (Union Buildings)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "afrique_du_sud",
+    "name": "South Africa"
+  },
+  "min_year": 2014,
+  "max_year": 2014,
+  "ruler": [
+    {
+      "id": 634,
+      "name": "Republic",
+      "wikidata_id": "Q258"
+    }
+  ],
+  "value": {
+    "text": "2 Rand",
+    "numeric_value": 2,
+    "currency": {
+      "id": 156,
+      "name": "Rand",
+      "full_name": "Rand (1961-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23,
+  "thickness": 1.75,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated copper"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Arthur Sutherland"
+    ],
+    "lettering": "2014\r\niNingizimu Afrika  -  uMzantsi Afrika\r\nALS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/afrique_du_sud/1605-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/1605-180.jpg"
+  },
+  "reverse": {
+    "engravers": [
+      "Thinus Scheepers"
+    ],
+    "description": "Union Buildings (seat of the South African government), naming.",
+    "lettering": "2 Rand\r\n100 YEAR ANNIVERSARY \r\nOF THE \r\nUNION BUILDINGS\r\nMJS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/afrique_du_sud/1606-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/1606-180.jpg"
+  },
+  "commemorated_topic": "100th anniversary of the Union Buildings",
+  "comments": "Legends in the 11 Official Languages of the Republic of South Africa:<br />\r\nAfrikaans: Suid-Afrika<br />\r\nEnglish: South Africa<br />\r\nSesotho and Sepedi: Afrika Borwa<br />\r\nTswana: Aforika Borwa<br />\r\nXhosa: uMzantsi Afrika<br />\r\nZulu: iNingizimu Afrika<br />\r\nNdebele: iSewula frika<br />\r\nVenda: Afurika Tshipembe<br />\r\nsiSwati: Ningizimu Afrika<br />\r\nTsonga: Afrika Dzonga",
+  "related_types": [
+    {
+      "id": 53696,
+      "title": "2 Rand (Union Buildings)",
+      "category": "coin",
+      "country": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "minYear": 2013,
+      "maxYear": 2013
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Government building",
+    "Coat of Arms"
+  ],
+  "weight": 5.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded with blank spaces",
+    "picture": "https://en.numista.com/catalogue/photos/afrique_du_sud/697e325b9410a3.09218348-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/697e325b9410a3.09218348-180.jpg",
+    "picture_copyright": "LMVH"
+  },
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

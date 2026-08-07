@@ -1,0 +1,87 @@
+{
+  "id": 14974,
+  "url": "https://en.numista.com/14974",
+  "title": "2½ Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "chili",
+    "name": "Chile"
+  },
+  "min_year": 1886,
+  "max_year": 1898,
+  "ruler": [
+    {
+      "id": 3299,
+      "name": "Republic",
+      "wikidata_id": "Q298"
+    }
+  ],
+  "value": {
+    "text": "2½ Centavos",
+    "numeric_value": 0.025,
+    "currency": {
+      "id": 237,
+      "name": "Peso",
+      "full_name": "Peso (1835-1959)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 27,
+  "thickness": 1.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Grain sprigs form wreath around head left",
+    "lettering": "REPUBLICA DE CHILE\r\nSo",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chili/1329-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/1329-180.jpg",
+    "picture_copyright": "Image courtesy of Heritage Auctions"
+  },
+  "reverse": {
+    "description": "Denomination within circle, date below",
+    "lettering": "ECONOMIA ES RIQUEZA\r\nDOS I MEDIO\r\n2½ CENTAVOS\r\n1898",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chili/1330-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/1330-180.jpg",
+    "picture_copyright": "Image courtesy of Heritage Auctions"
+  },
+  "tags": [
+    "Allegory",
+    "Phrygian cap"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "150"
+    }
+  ],
+  "weight": 8,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,103 @@
+{
+  "id": 4128,
+  "url": "https://en.numista.com/4128",
+  "title": "2 Øre - Oscar II",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "norvege",
+    "name": "Norway"
+  },
+  "min_year": 1876,
+  "max_year": 1902,
+  "ruler": [
+    {
+      "id": 448,
+      "name": "Oscar II",
+      "wikidata_id": "Q52924",
+      "group": {
+        "id": 357,
+        "name": "House of Bernadotte"
+      }
+    }
+  ],
+  "value": {
+    "text": "2 Øre",
+    "numeric_value": 0.02,
+    "currency": {
+      "id": 16,
+      "name": "Krone",
+      "full_name": "Krone (1875-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 21,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze (Cu 95%, Sn 4%, Zn 1%)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Crowned rectangular shield with a crowned norwegian lion holding a halberd and facing left with vertical lines in the background, inside the shield. Inscription divided by shield. Solid ring on the rim.",
+    "lettering": "Ocr= II",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Oscar II",
+    "picture": "https://en.numista.com/catalogue/photos/norvege/624-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/624-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "description": "Value in two lines, surrounded by wreath. Date divided by mintmark below the wreath. Solid ring on the rim.",
+    "lettering": "ØRE\r\n2\r\n19 ⚒ 02",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/norvege/625-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/625-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "353"
+    },
+    {
+      "catalogue": {
+        "id": 201,
+        "code": "Rønning"
+      },
+      "number": "242"
+    }
+  ],
+  "weight": 4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain."
+  },
+  "mints": [
+    {
+      "id": 1888,
+      "name": "Norwegian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

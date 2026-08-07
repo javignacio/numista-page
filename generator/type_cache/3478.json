@@ -1,0 +1,107 @@
+{
+  "id": 3478,
+  "url": "https://en.numista.com/3478",
+  "title": "20 Pence - Elizabeth II (Corbière Lighthouse)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "jersey",
+    "name": "Jersey"
+  },
+  "min_year": 1983,
+  "max_year": 1997,
+  "ruler": [
+    {
+      "id": 3218,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 783,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "20 Pence",
+    "numeric_value": 0.2,
+    "currency": {
+      "id": 378,
+      "name": "Pound",
+      "full_name": "Pound (decimalized, 1971-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21.4,
+  "thickness": 1.7,
+  "shape": "Equilateral curve heptagon (7-sided)",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Arnold Machin"
+    ],
+    "description": "Second crowned portrait of Queen Elizabeth II facing right, wearing the Girls of Great Britain tiara",
+    "lettering": "QUEEN ELIZABETH THE SECOND\r\n1983",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/jersey/624cf43a8cfa23.28235285-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/jersey/624cf43a8cfa23.28235285-180.jpg",
+    "picture_copyright": "Mike Bentley",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Robert Lowe"
+    ],
+    "description": "Lighthouse at La Corbière with sea in background, country lettering above, value lettering below",
+    "lettering": "BAILIWICK OF JERSEY\r\nTWENTY PENCE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/jersey/624cf43b85aac3.23353009-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/jersey/624cf43b85aac3.23353009-180.jpg",
+    "picture_copyright": "Mike Bentley",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "tags": [
+    "Lighthouse",
+    "Monarch"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "66"
+    }
+  ],
+  "weight": 5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,132 @@
+{
+  "id": 3076,
+  "url": "https://en.numista.com/3076",
+  "title": "25 New Pence - Elizabeth II (Royal Wedding)",
+  "object_type": {
+    "id": 3,
+    "name": "Non-circulating coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1981,
+  "max_year": 1981,
+  "ruler": [
+    {
+      "id": 275,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 527,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "25 Pence",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 126,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (decimalized, 1971-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 38.61,
+  "thickness": 3.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Cu, 25% Ni)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Arnold Machin"
+    ],
+    "description": "Second crowned portrait of Queen Elizabeth II right, wearing the Girls of Great Britain and Ireland tiara, legend around.",
+    "lettering": "ELIZABETH II  D·G·REG·F·D·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Elizabeth II Dei Gratia Regina Fidei Defensatrix",
+    "lettering_translation": "Elizabeth II by the Grace of God Queen Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/7020-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/7020-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "reverse": {
+    "engravers": [
+      "Philip Nathan"
+    ],
+    "description": "Conjoined profile portraits of the Prince of Wales and Lady Diana Spencer left, legend around, date below.",
+    "lettering": "H.R.H. THE PRINCE OF WALES AND LADY DIANA SPENCER\r\nPN\r\n·1981·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/7021-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/7021-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "series": "Royal Wedding 1981",
+  "commemorated_topic": "Wedding of Prince Charles and Lady Diana Spencer",
+  "comments": "<p>Despite being produced in their millions and being available at face value from most post offices and banks, the ordinary business strike was a Royal Mint commemorative issue and not intended for general circulation.&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/680799cbd8b22.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/680799cbd8b22.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/680799cb8678c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/680799cb8678c.jpg\"></a></p><p>&nbsp;</p><p>The coin was also issued in an individual pack struck to the same quality, known as circulating standard, and was also released as part of a 12-coin set from The Royal Mint called Royal Wedding Crowns. The coin was also struck in silver proof.<br><br><a href=\"https://en.numista.com/catalogue/images/60999158c5dec.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/60999158c5dec.jpg\" alt=\"\"></a></p>",
+  "related_types": [
+    {
+      "id": 38852,
+      "title": "25 New Pence - Elizabeth II (Royal Wedding; Silver Proof)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1981,
+      "maxYear": 1981
+    }
+  ],
+  "tags": [
+    "Marriage"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "925"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "LL4"
+    }
+  ],
+  "weight": 28.28,
+  "orientation": "medal",
+  "edge": {
+    "description": "Milled",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/10699-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/10699-180.jpg",
+    "picture_copyright": "CyrusPamelaOne",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Non-circulating coins"
+}

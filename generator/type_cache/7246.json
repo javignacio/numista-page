@@ -1,0 +1,140 @@
+{
+  "id": 7246,
+  "url": "https://en.numista.com/7246",
+  "title": "1 Shilling - George VI (Scottish crest; with 'IND:IMP')",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1937,
+  "max_year": 1946,
+  "ruler": [
+    {
+      "id": 274,
+      "name": "George VI",
+      "wikidata_id": "Q280856",
+      "group": {
+        "id": 527,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Shilling",
+    "numeric_value": 0.05,
+    "numerator": 1,
+    "denominator": 20,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1971)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1990-12-31"
+  },
+  "size": 23.5,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.500)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Thomas Humphrey Paget"
+    ],
+    "description": "Uncrowned portrait of King George VI left, legend around.",
+    "lettering": "GEORGIVS VI D:G:BR:OMN:REX\r\nHP",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "George the Sixth by the Grace of God King of all the Britains",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/3445-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/3445-180.jpg",
+    "picture_copyright": "radrick007",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "George Kruger Gray"
+    ],
+    "description": "Crowned lion seated atop crown holding sword and sceptre dividing date, shields flank, legend above, denomination below.",
+    "lettering": "FID:DEF IND:IMP\r\n19 44\r\nK G\r\nONE·SHILLING",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Defender of the Faith Emperor of India",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/3446-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/3446-180.jpg",
+    "picture_copyright": "radrick007",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "The standard weight of these coins was 2/11 troy ounce (87.3 grains).",
+  "related_types": [
+    {
+      "id": 6982,
+      "title": "1 Shilling - George VI (English crest; with 'IND:IMP')",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1937,
+      "maxYear": 1946
+    }
+  ],
+  "tags": [
+    "Cat or feline",
+    "Crown",
+    "Coat of Arms",
+    "Cross"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "854"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "4083"
+    }
+  ],
+  "weight": 5.66,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/6a397228229495.29075616-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/6a397228229495.29075616-180.jpg",
+    "picture_copyright": "Harryg",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

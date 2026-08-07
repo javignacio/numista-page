@@ -1,0 +1,113 @@
+{
+  "id": 7829,
+  "url": "https://en.numista.com/7829",
+  "title": "10 Markkaa",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "finlande",
+    "name": "Finland"
+  },
+  "min_year": 1952,
+  "max_year": 1962,
+  "ruler": [
+    {
+      "id": 3291,
+      "name": "Republic",
+      "wikidata_id": "Q33"
+    }
+  ],
+  "value": {
+    "text": "10 Markkaa",
+    "numeric_value": 10,
+    "currency": {
+      "id": 1156,
+      "name": "Markka",
+      "full_name": "Markka (1860-1963)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 20,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze (93% Copper, 3% Aluminium, 2% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Peippo Uolevi Helle"
+    ],
+    "description": "Rampant lion left within circle, date below",
+    "lettering": "SUOMEN TASAVALTA\r\nH\r\n1953",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic Of Finland",
+    "picture": "https://en.numista.com/catalogue/photos/finlande/1581-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/1581-180.jpg",
+    "picture_copyright": "gef"
+  },
+  "reverse": {
+    "engravers": [
+      "Peippo Uolevi Helle"
+    ],
+    "description": "NOTE: varieties exist in length of tree root",
+    "lettering": "10\r\nMARKKAA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/finlande/1582-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/1582-180.jpg",
+    "picture_copyright": "gef"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/603e435d1b21b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/603e435d1b21b.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nWide and narrow &quot;1&quot; on the 1958 coin<br />\r\n<a href=\"https://en.numista.com/catalogue/images/560c449b48b17.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/560c449b48b17.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\nOle<br />\r\nWide &amp; narrow &quot;1&quot; on the 1961 coin<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5a3132c17b917.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5a3132c17b917.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\nSmall and large flowers<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5f57b1a357627.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5f57b1a357627.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "tags": [
+    "Cat or feline",
+    "Flower",
+    "Tree",
+    "Coat of Arms",
+    "Cold weapons"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "38"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "41"
+    }
+  ],
+  "weight": 3,
+  "orientation": "medal",
+  "edge": {
+    "description": "Milled",
+    "picture": "https://en.numista.com/catalogue/photos/finlande/614d9ab13c07c9.29871927-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/614d9ab13c07c9.29871927-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 1333,
+      "name": "Mint of Finland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

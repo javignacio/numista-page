@@ -1,0 +1,122 @@
+{
+  "id": 5589,
+  "url": "https://en.numista.com/5589",
+  "title": "5 Cents",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "aruba",
+    "name": "Aruba"
+  },
+  "min_year": 1986,
+  "max_year": 2024,
+  "ruler": [
+    {
+      "id": 3297,
+      "name": "Beatrix",
+      "wikidata_id": "Q29574",
+      "group": {
+        "id": 752,
+        "name": "House of Orange-Nassau"
+      }
+    },
+    {
+      "id": 3298,
+      "name": "Willem-Alexander",
+      "wikidata_id": "Q154952",
+      "group": {
+        "id": 752,
+        "name": "House of Orange-Nassau"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Cents",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 69,
+      "name": "Florin",
+      "full_name": "Florin (1986-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 16,
+  "thickness": 1.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Evelino Fingal"
+    ],
+    "description": "Coat of Arms of Aruba underneath legend between horizontal lines. Year, privy and mint mark.",
+    "lettering": "ARUBA \r\n2001",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/aruba/50-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/aruba/50-180.jpg",
+    "picture_copyright": "gef"
+  },
+  "reverse": {
+    "engravers": [
+      "Evelino Fingal"
+    ],
+    "description": "5 c above line structure with filled shapes",
+    "lettering": "5 c",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "5 Cent",
+    "picture": "https://en.numista.com/catalogue/photos/aruba/51-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/aruba/51-180.jpg",
+    "picture_copyright": "gef"
+  },
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "1"
+    }
+  ],
+  "weight": 2,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/aruba/65e68dc90bb0b1.53721422-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/aruba/65e68dc90bb0b1.53721422-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 23,
+      "name": "Royal Dutch Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

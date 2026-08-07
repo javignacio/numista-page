@@ -1,0 +1,111 @@
+{
+  "id": 2148,
+  "url": "https://en.numista.com/2148",
+  "title": "20 Korun",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "republique_tcheque",
+    "name": "Czech Republic"
+  },
+  "min_year": 1993,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 1309,
+      "name": "Republic",
+      "wikidata_id": "Q213"
+    }
+  ],
+  "value": {
+    "text": "20 Korun",
+    "numeric_value": 20,
+    "currency": {
+      "id": 19,
+      "name": "Koruna",
+      "full_name": "Koruna (1993-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 26,
+  "thickness": 2.55,
+  "shape": "Tridecagonal (13-sided)",
+  "composition": {
+    "text": "Brass plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Crowned Czech Lion facing left, date and mintmark below.",
+    "lettering": "ČESKÁ REPUBLIKA\r\n·2017·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Czech Republic\r\n2017",
+    "picture": "https://en.numista.com/catalogue/photos/republique_tcheque/565-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/republique_tcheque/565-180.jpg",
+    "picture_copyright": "Mihajlo Nešić (MihajloNesic)"
+  },
+  "reverse": {
+    "engravers": [
+      "Vladimír Oppl"
+    ],
+    "description": "Denomination, the St. Wenceslas (Wenceslaus I, Duke of Bohemia, c. 907 - September 28, 935) monument on Wenceslas Square, inscription from the monument: \"SVATÝ VÁCLAVE NEDEJ ZAHYNOUT NÁM I BUDOUCÍM\".",
+    "lettering": "20 \r\nKč\r\nSVATÝ VÁCLAVE NEDEJ\r\nZAHYNOUT NÁM I BUDOUCÍM\r\nVO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "20 \r\nKr\r\nSaint Wencelas, do not let us and future ones perish\r\nVO",
+    "picture": "https://en.numista.com/catalogue/photos/republique_tcheque/566-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/republique_tcheque/566-180.jpg",
+    "picture_copyright": "Mihajlo Nešić (MihajloNesic)"
+  },
+  "comments": "Different mintmarks (castle = (HM), Hamburg Mint, crowned &quot;b&quot; = Bizuterie Jablonec Czech Mint)<br />\r\n<a href=\"https://en.numista.com/catalogue/images/56daa4b903e8e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/56daa4b903e8e.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nTwo main groups of Reverse dies are known.<br /><br />\r\n<span style=\"font-style:italic;\">Reverse</span><br />\r\nDie <span style=\"font-weight:bold;\">A</span> - shallow outline of script, the lower line of ribbon behind the horse was forgotten to draw.<br />\r\nDie <span style=\"font-weight:bold;\">B</span> - deep outline of script, the lower line of ribbon behind the horse is shown clearly.<br /><br />\r\nThe dies have many other feathers, by which they differ, these a just the two which are enough for attribution.<br /><br />\r\n<span style=\"font-style:italic;\">Combinations</span><br />\r\nDie <span style=\"font-weight:bold;\">A</span>: 1993-1994.<br />\r\nDie <span style=\"font-weight:bold;\">B</span>: 1995- .<br />\r\n<a href=\"https://en.numista.com/catalogue/images/6118df001e0f0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6118df001e0f0.jpg\" alt=\"\" width=\"200\" height=\"160\" /></a>",
+  "tags": [
+    "Horse or equine"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "5"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "179"
+    }
+  ],
+  "weight": 8.49,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/republique_tcheque/615b5c7626e2a1.01264732-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/republique_tcheque/615b5c7626e2a1.01264732-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 30,
+      "name": "Czech Mint"
+    },
+    {
+      "id": 4,
+      "name": "Hamburgische Münze"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

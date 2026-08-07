@@ -1,0 +1,105 @@
+{
+  "id": 2457,
+  "url": "https://en.numista.com/2457",
+  "title": "1 Dinar",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "algerie",
+    "name": "Algeria"
+  },
+  "min_year": 1964,
+  "max_year": 1964,
+  "ruler": [
+    {
+      "id": 3733,
+      "name": "People's Democratic Republic",
+      "wikidata_id": "Q262"
+    }
+  ],
+  "value": {
+    "text": "1 Dinar",
+    "numeric_value": 1,
+    "currency": {
+      "id": 23,
+      "name": "Dinar",
+      "full_name": "Dinar (1964-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 25,
+  "thickness": 1.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The first emblem of Algeria (1971-1976): 2 Algerian flags, the hand of Fatima and the star in a crescent",
+    "picture": "https://en.numista.com/catalogue/photos/algerie/60d5c8dfbf5909.01825406-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/algerie/60d5c8dfbf5909.01825406-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "reverse": {
+    "description": "Denomination and date",
+    "lettering": "الجمهورية الجزائرية الديمقراطية الشعبية\r\n1964 ١٣٨٣\r\n١\r\nدينار واحد",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "1964 1383\r\nPeople's Democratic Republic of Algeria\r\n1\r\nOne dinar",
+    "picture": "https://en.numista.com/catalogue/photos/algerie/60d5c8e016e3d5.93458234-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/algerie/60d5c8e016e3d5.93458234-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "tags": [
+    "Flag",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "100"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "10"
+    },
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "10"
+    }
+  ],
+  "weight": 7,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 18,
+      "name": "Heaton and Sons / The Mint Birmingham"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

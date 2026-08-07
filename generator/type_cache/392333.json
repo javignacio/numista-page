@@ -1,0 +1,110 @@
+{
+  "id": 392333,
+  "url": "https://en.numista.com/392333",
+  "title": "25 Centavos (Alberto Spencer)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "equateur",
+    "name": "Ecuador"
+  },
+  "issuing_entity": {
+    "id": 909,
+    "name": "Central Bank of Ecuador",
+    "wikidata_id": "Q1797646"
+  },
+  "min_year": 2023,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 3758,
+      "name": "Republic",
+      "wikidata_id": "Q736"
+    }
+  ],
+  "value": {
+    "text": "25 Centavos",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 361,
+      "name": "U.S. dollar",
+      "full_name": "U.S. dollar (2000-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24.2,
+  "thickness": 1.75,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Name of the country, national coat of arms, portrait, and name of soccer player Alberto Spencer",
+    "lettering": "REPÚBLICA DEL ECUADOR\r\n★★ ALBERTO SPENCER ★★",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Ecuador",
+    "picture": "https://en.numista.com/catalogue/photos/equateur/65b67e18ab5272.33045562-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/equateur/65b67e18ab5272.33045562-180.jpg",
+    "picture_copyright": "OhLook!ACoin!",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Lettering surrounding both date and face value.",
+    "lettering": "BANCO CENTRAL DEL ECUADOR\r\nAÑO 2023 25\r\nVEINTICINCO CENTAVOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Bank of Ecuador\r\nYear 2023 25\r\nTwenty-five Centavos",
+    "picture": "https://en.numista.com/catalogue/photos/equateur/65b67e1b648440.22112170-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/equateur/65b67e1b648440.22112170-180.jpg",
+    "picture_copyright": "OhLook!ACoin!",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "series": "Ecuador Historical Figures",
+  "tags": [
+    "Soccer",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "134"
+    }
+  ],
+  "weight": 5.8,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded.",
+    "picture": "https://en.numista.com/catalogue/photos/equateur/65b67e1dd57504.80886137-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/equateur/65b67e1dd57504.80886137-180.jpg",
+    "picture_copyright": "OhLook!ACoin!",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

@@ -1,0 +1,91 @@
+{
+  "id": 51115,
+  "url": "https://en.numista.com/51115",
+  "title": "50 Luma (Horse)",
+  "object_type": {
+    "id": 8,
+    "name": "Fantasy coins"
+  },
+  "issuer": {
+    "code": "haut-karabagh",
+    "name": "Artsakh"
+  },
+  "min_year": 2013,
+  "max_year": 2013,
+  "ruler": [
+    {
+      "id": 2050,
+      "name": "Republic",
+      "wikidata_id": "Q244165"
+    }
+  ],
+  "value": {
+    "text": "50 Luma",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 9494,
+      "name": "Dram",
+      "full_name": "Dram (2003-2023)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 19.8,
+  "thickness": 1.4,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms of the Nagorno-Karabakh Republic.",
+    "lettering": "NAGORNO-KARABAKH \r\nԼԵՌՆԱՅԻՆ ՂԱՐԱԲԱՂԻ ՀԱՆՐԱՊԵՏՈՒԹՅՈՒՆ\r\nԱՐՑԱԽ\r\nREPUBLIC",
+    "lettering_scripts": [
+      {
+        "name": "Armenian"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Nagorno-Karabakh Republic\r\nArtsakh",
+    "picture": "https://en.numista.com/catalogue/photos/haut-karabagh/6724dce807efe3.77488537-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/haut-karabagh/6724dce807efe3.77488537-180.jpg",
+    "picture_copyright": "Heinz-Uwe"
+  },
+  "reverse": {
+    "description": "Horse cantering right.",
+    "lettering": "50 LUMA\r\n2013",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/haut-karabagh/6724dce80b16c7.68865978-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/haut-karabagh/6724dce80b16c7.68865978-180.jpg",
+    "picture_copyright": "Heinz-Uwe"
+  },
+  "tags": [
+    "Horse or equine",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "26"
+    }
+  ],
+  "weight": 0.95,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "category": "exonumia",
+  "type": "Fantasy coins"
+}

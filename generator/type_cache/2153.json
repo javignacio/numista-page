@@ -1,0 +1,117 @@
+{
+  "id": 2153,
+  "url": "https://en.numista.com/2153",
+  "title": "2½ Gulden - Beatrix",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "pays-bas",
+    "name": "Netherlands"
+  },
+  "min_year": 1982,
+  "max_year": 2001,
+  "ruler": [
+    {
+      "id": 1303,
+      "name": "Beatrix",
+      "wikidata_id": "Q29574",
+      "group": {
+        "id": 750,
+        "name": "House of Orange-Nassau"
+      }
+    }
+  ],
+  "value": {
+    "text": "2½ Gulden",
+    "numeric_value": 2.5,
+    "currency": {
+      "id": 70,
+      "name": "Gulden",
+      "full_name": "Gulden (decimalized, 1817-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2002-02-28"
+  },
+  "size": 29,
+  "thickness": 2.25,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Bruno Ninaber van Eyben"
+    ],
+    "description": "Head left with vertical inscription.",
+    "lettering": "BEATRIX \r\nKONINGIN DER \r\nNEDERLANDEN",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Beatrix queen of the Netherlands",
+    "picture": "https://en.numista.com/catalogue/photos/pays-bas/671a39d1035026.29453124-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/671a39d1035026.29453124-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Bruno Ninaber van Eyben"
+    ],
+    "description": "Value within horizontal, vertical and diagonal lines, privy mark and mintmark on the sides of date. The fraction line in \"1/2\" is not shown.",
+    "lettering": "2 1 2 G\r\n1982",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "2½  Gulden",
+    "picture": "https://en.numista.com/catalogue/photos/pays-bas/671a39d1e4b180.44408820-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/671a39d1e4b180.44408820-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "Coin orientation is between coin and medal.",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "206"
+    }
+  ],
+  "weight": 10,
+  "orientation": "nine",
+  "edge": {
+    "description": "Inscripted",
+    "lettering": "★ GOD ★ ZIJ ★ MET ★ ONS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "God be with us",
+    "picture": "https://en.numista.com/catalogue/photos/pays-bas/667-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/667-180.jpg",
+    "picture_copyright": "ZacUK"
+  },
+  "mints": [
+    {
+      "id": 23,
+      "name": "Royal Dutch Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

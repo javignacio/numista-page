@@ -1,0 +1,120 @@
+{
+  "id": 9097,
+  "url": "https://en.numista.com/9097",
+  "title": "½ Sol de Oro (small Coat of Arms)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "perou",
+    "name": "Peru"
+  },
+  "min_year": 1973,
+  "max_year": 1975,
+  "ruler": [
+    {
+      "id": 3757,
+      "name": "Republic",
+      "wikidata_id": "Q419"
+    }
+  ],
+  "value": {
+    "text": "½ Sol",
+    "numeric_value": 0.5,
+    "numerator": 1,
+    "denominator": 2,
+    "currency": {
+      "id": 218,
+      "name": "Sol",
+      "full_name": "Sol (1863-1930) / Sol de Oro (1931-1985)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 22.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Armando F. Pareja"
+    ],
+    "description": "National arms within circle, issuer name around, date below.",
+    "lettering": "BANCO CENTRAL DE RESERVA DEL PERU\r\n1975",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Reserve Bank of Peru\r\n1975",
+    "picture": "https://en.numista.com/catalogue/photos/perou/1229-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/1229-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "reverse": {
+    "engravers": [
+      "Armando F. Pareja"
+    ],
+    "description": "Value to right of a vicuña, engraver's name below image.",
+    "lettering": "1/2 SOL DE ORO\r\nPAREJA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/perou/1230-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/1230-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "comments": "The difference between &quot;large&quot; coat of arms (KM# 247) and &quot;small&quot; (KM# 260) in the 1973 mintage is very hard to see in the naked eye. A better clue is to check the size of the letters, where big letters (small space between the text and the edge) would mean &quot;large coat of arms&quot;, and vice versa.<br /><br />\r\nKM# 247 Vs KM# 260:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5834b384b7be6.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5834b384b7be6.jpg\" alt=\"\" width=\"200\" height=\"100\" /></a><br />\r\n© nalaberong © Ulmo<br /><br />\r\nKM# 247 Vs KM# 260:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5834b3909d0a8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5834b3909d0a8.jpg\" alt=\"\" width=\"200\" height=\"100\" /></a><br />\r\n© g00n © Alessandro Bentivegna Cesta",
+  "related_types": [
+    {
+      "id": 909,
+      "title": "½ Sol de Oro (Large Coat of Arms)",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 1966,
+      "maxYear": 1973
+    }
+  ],
+  "tags": [
+    "Camel or camelid",
+    "Coat of Arms",
+    "Cornucopia"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "260"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "52.3"
+    }
+  ],
+  "weight": 4.16,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/perou/64a0d2e6e7d909.77699414-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/64a0d2e6e7d909.77699414-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,173 @@
+{
+  "id": 1835,
+  "url": "https://en.numista.com/1835",
+  "title": "1 Rupee",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "maurice",
+    "name": "Mauritius"
+  },
+  "min_year": 1987,
+  "max_year": 2020,
+  "ruler": [
+    {
+      "id": 4123,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 275,
+        "name": "British Crown"
+      }
+    },
+    {
+      "id": 4124,
+      "name": "Republic",
+      "wikidata_id": "Q1027"
+    }
+  ],
+  "value": {
+    "text": "1 Rupee",
+    "numeric_value": 1,
+    "currency": {
+      "id": 170,
+      "name": "Rupee",
+      "full_name": "Rupee (1835-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 26.5,
+  "thickness": 1.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "George Kruger Gray"
+    ],
+    "description": "Bespectacled portrait wearing suit and tie, facing half right",
+    "lettering": "DR THE RIGHT HONOURABLE SIR SEEWOOSAGUR RAMGOOLAM KT",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/maurice/329-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/maurice/329-180.jpg"
+  },
+  "reverse": {
+    "engravers": [
+      "George Kruger Gray"
+    ],
+    "description": "The coat of arms of Mauritius divides date, value below",
+    "lettering": "·⁕·MAURITIUS·⁕·\r\n20 04\r\nK G\r\n·⁕·ONE·RUPEE·⁕·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Mauritius\r\n2004\r\nGeorge Kruger Gray\r\nOne Rupee",
+    "picture": "https://en.numista.com/catalogue/photos/maurice/330-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/maurice/330-180.jpg"
+  },
+  "related_types": [
+    {
+      "id": 9713,
+      "title": "1 Rupee - George V",
+      "category": "coin",
+      "country": {
+        "code": "maurice",
+        "name": "Mauritius"
+      },
+      "minYear": 1934,
+      "maxYear": 1934
+    },
+    {
+      "id": 34038,
+      "title": "1 Rupee - George VI",
+      "category": "coin",
+      "country": {
+        "code": "maurice",
+        "name": "Mauritius"
+      },
+      "minYear": 1938,
+      "maxYear": 1938
+    },
+    {
+      "id": 4991,
+      "title": "1 Rupee - George VI",
+      "category": "coin",
+      "country": {
+        "code": "maurice",
+        "name": "Mauritius"
+      },
+      "minYear": 1950,
+      "maxYear": 1951
+    },
+    {
+      "id": 1831,
+      "title": "1 Rupee - Elizabeth II (1st portrait)",
+      "category": "coin",
+      "country": {
+        "code": "maurice",
+        "name": "Mauritius"
+      },
+      "minYear": 1956,
+      "maxYear": 1978
+    },
+    {
+      "id": 40521,
+      "title": "1 Rupee",
+      "category": "coin",
+      "country": {
+        "code": "maurice",
+        "name": "Mauritius"
+      },
+      "minYear": 2012,
+      "maxYear": 2023
+    }
+  ],
+  "tags": [
+    "Coat of Arms",
+    "Politician",
+    "Tree",
+    "Boat or watercraft"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "55"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "55"
+    }
+  ],
+  "weight": 7.45,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

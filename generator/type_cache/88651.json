@@ -1,0 +1,139 @@
+{
+  "id": 88651,
+  "url": "https://en.numista.com/88651",
+  "title": "5 Kronor - Carl XVI Gustaf",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "suede",
+    "name": "Sweden"
+  },
+  "min_year": 2016,
+  "max_year": 2024,
+  "ruler": [
+    {
+      "id": 2366,
+      "name": "Carl XVI Gustaf",
+      "wikidata_id": "Q45068",
+      "group": {
+        "id": 99,
+        "name": "House of Bernadotte"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Kronor",
+    "numeric_value": 5,
+    "currency": {
+      "id": 18,
+      "name": "Krona",
+      "full_name": "Krona (1873-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23.75,
+  "thickness": 1.97,
+  "shape": "Round",
+  "composition": {
+    "text": "Nordic gold (Copper-Aluminium-Zinc-Tin)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Ernst Nordin"
+    ],
+    "description": "King Carl XVI Gustaf's monogram separating date",
+    "lettering": "CARL XVI GUSTAF\r\n20 16\r\nEN\r\nSVERIGES KONUNG",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "King of Sweden.",
+    "picture": "https://en.numista.com/catalogue/photos/suede/2793-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suede/2793-180.jpg",
+    "picture_copyright": "Ngdawa",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Ernst Nordin"
+    ],
+    "description": "Stylized waves above the denomination and three crowns above",
+    "lettering": "S SI\r\nSVERIGE\r\n5\r\nKRONOR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Sweden.",
+    "picture": "https://en.numista.com/catalogue/photos/suede/2794-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suede/2794-180.jpg",
+    "picture_copyright": "Ngdawa",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "related_types": [
+    {
+      "id": 456216,
+      "title": "5 Kronor - Carl XVI Gustaf (Pattern)",
+      "category": "coin",
+      "country": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "minYear": 2015,
+      "maxYear": 2015
+    }
+  ],
+  "tags": [
+    "Crown",
+    "Coat of Arms",
+    "Monogram"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "930"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "153"
+    }
+  ],
+  "weight": 6.1,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/suede/605d9db4e805d6.03212591-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suede/605d9db4e805d6.03212591-180.jpg",
+    "picture_copyright": "Ngdawa",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 1334,
+      "name": "Mint of Finland"
+    },
+    {
+      "id": 23,
+      "name": "Royal Dutch Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

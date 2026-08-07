@@ -1,0 +1,103 @@
+{
+  "id": 12982,
+  "url": "https://en.numista.com/12982",
+  "title": "1 Öre - Oscar II",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "suede",
+    "name": "Sweden"
+  },
+  "min_year": 1906,
+  "max_year": 1907,
+  "ruler": [
+    {
+      "id": 2363,
+      "name": "Oscar II",
+      "wikidata_id": "Q52924",
+      "group": {
+        "id": 99,
+        "name": "House of Bernadotte"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Öre",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 18,
+      "name": "Krona",
+      "full_name": "Krona (1873-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 16,
+  "thickness": 1.32,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Crowned King's monogram. King's motto above, and Stockholm mintmark below, near rim.",
+    "lettering": "SVERIGES VÄL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "The Welfare of Sweden.",
+    "picture": "https://en.numista.com/catalogue/photos/suede/2082-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suede/2082-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "description": "Value and date together with the Three Crowns, symbol of Sweden.",
+    "lettering": "1 \r\nÖRE\r\n1907",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/suede/2083-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suede/2083-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "768"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "11"
+    }
+  ],
+  "weight": 2,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 5989,
+      "name": "Kungliga Myntet"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

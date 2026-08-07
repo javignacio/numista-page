@@ -1,0 +1,149 @@
+{
+  "id": 2129,
+  "url": "https://en.numista.com/2129",
+  "title": "1 Kobo",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "nigeria",
+    "name": "Nigeria"
+  },
+  "min_year": 1973,
+  "max_year": 1974,
+  "ruler": [
+    {
+      "id": 1081,
+      "name": "Federal Republic",
+      "wikidata_id": "Q1033"
+    }
+  ],
+  "value": {
+    "text": "1 Kobo",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 137,
+      "name": "Naira",
+      "full_name": "Naira (1973-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1973-01-00"
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2007-00-00"
+  },
+  "size": 25,
+  "thickness": 1.1,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze (97% Copper, 2.5% Zinc, 0.5% Tin)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Geoffrey Colley"
+    ],
+    "description": "Coat of arms of Nigeria, date below.",
+    "lettering": "FEDERAL REPUBLIC OF NIGERIA\r\nUNITY AND FAITH\r\n1974",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/nigeria/5eff9f97614708.23513868-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nigeria/5eff9f97614708.23513868-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Geoffrey Colley"
+    ],
+    "description": "Denomination between two oil wells.",
+    "lettering": "1\r\nkobo",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/nigeria/5eff9f97b28254.18986910-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nigeria/5eff9f97b28254.18986910-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "KM#8.1/S#39: UNITY AND FAITH under the arms<br /><br />\r\nKM#8.2/S#43: UNITY AND FAITH, PEACE AND PROGRESS under the arms<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5e7382f664eff.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e7382f664eff.jpg\" alt=\"\" width=\"200\" height=\"202\" /></a><br /><br />\r\n<a href=\"https://en.wikipedia.org/wiki/Oil_well\" rel=\"nofollow\">https://en.wikipedia.org/wiki/Oil_well</a>",
+  "related_types": [
+    {
+      "id": 241187,
+      "title": "1 Kobo",
+      "category": "coin",
+      "country": {
+        "code": "nigeria",
+        "name": "Nigeria"
+      },
+      "minYear": 1987,
+      "maxYear": 1988
+    },
+    {
+      "id": 11569,
+      "title": "1 Kobo",
+      "category": "coin",
+      "country": {
+        "code": "nigeria",
+        "name": "Nigeria"
+      },
+      "minYear": 1991,
+      "maxYear": 1991
+    }
+  ],
+  "tags": [
+    "Eagle",
+    "Horse or equine",
+    "Tower",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "8.1"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "39"
+    }
+  ],
+  "weight": 5.8,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/nigeria/5e97d457d0a8a0.62886083-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nigeria/5e97d457d0a8a0.62886083-180.jpg",
+    "picture_copyright": "Wilson Roberto Vasques Nunes"
+  },
+  "mints": [
+    {
+      "id": 1325,
+      "name": "Nigerian Security Printing and Minting Company Limited"
+    },
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

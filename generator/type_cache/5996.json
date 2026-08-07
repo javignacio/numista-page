@@ -1,0 +1,126 @@
+{
+  "id": 5996,
+  "url": "https://en.numista.com/5996",
+  "title": "1 Centavo",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "philippines",
+    "name": "Philippines"
+  },
+  "issuing_entity": {
+    "id": 492,
+    "name": "Central Bank of the Philippines",
+    "wikidata_id": "Q1853468"
+  },
+  "min_year": 1958,
+  "max_year": 1963,
+  "ruler": [
+    {
+      "id": 1639,
+      "name": "Republic",
+      "wikidata_id": "Q928"
+    }
+  ],
+  "value": {
+    "text": "1 Centavo",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 6360,
+      "name": "Peso",
+      "full_name": "Peso (1857-1967)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1979-08-31"
+  },
+  "size": 19,
+  "thickness": 1.45,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass (95% Copper, 5% Zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms of the Philippines.",
+    "lettering": "CENTRAL BANK OF THE PHILIPPINES  •\r\nREPUBLIC OF THE PHILIPPINES",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/philippines/642-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/philippines/642-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "reverse": {
+    "description": "Full-length figure of a seated man in left, facing right, with hammer and anvil, Mayon Volcano in right.",
+    "lettering": "ONE CENTAVO\r\n1960",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/philippines/643-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/philippines/643-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "series": "English Series",
+  "comments": "Although this type is listed in the &quot;Standard Catalog of World Coins&quot; as being made of bronze, official mint records state that these are made of copper and zinc.",
+  "related_types": [
+    {
+      "id": 6378,
+      "title": "1 Centavo",
+      "category": "coin",
+      "country": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "minYear": 1937,
+      "maxYear": 1945
+    }
+  ],
+  "tags": [
+    "Mountain",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "186"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "24"
+    }
+  ],
+  "weight": 3.08,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/philippines/626fd6721480c9.82697212-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/philippines/626fd6721480c9.82697212-180.jpg",
+    "picture_copyright": "Harryg",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

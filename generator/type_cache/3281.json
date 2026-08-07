@@ -1,0 +1,123 @@
+{
+  "id": 3281,
+  "url": "https://en.numista.com/3281",
+  "title": "10 Pennia",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "finlande",
+    "name": "Finland"
+  },
+  "min_year": 1983,
+  "max_year": 1990,
+  "ruler": [
+    {
+      "id": 3291,
+      "name": "Republic",
+      "wikidata_id": "Q33"
+    }
+  ],
+  "value": {
+    "text": "10 Pennia",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 133,
+      "name": "New Markka",
+      "full_name": "New Markka (1963-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 20,
+  "thickness": 1.4,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium (97.5% Aluminium, 2.5% Magnesium)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "A rampant lion holding a sword facing left with the date below",
+    "lettering": "SUOMEN TASAVALTA\r\nN\r\n* 1985 *",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic Of Finland\r\nN\r\n1985",
+    "picture": "https://en.numista.com/catalogue/photos/finlande/1315-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/1315-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "reverse": {
+    "description": "The denomination to the left and below the tree",
+    "lettering": "10\r\nPENNIÄ",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/finlande/1316-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/1316-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "related_types": [
+    {
+      "id": 1530,
+      "title": "10 Pennia",
+      "category": "coin",
+      "country": {
+        "code": "finlande",
+        "name": "Finland"
+      },
+      "minYear": 1963,
+      "maxYear": 1982
+    }
+  ],
+  "tags": [
+    "Cat or feline",
+    "Tree",
+    "Coat of Arms",
+    "Cold weapons"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "46a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "50a"
+    }
+  ],
+  "weight": 1,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/finlande/1317-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/1317-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 1333,
+      "name": "Mint of Finland"
+    },
+    {
+      "id": 1334,
+      "name": "Mint of Finland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

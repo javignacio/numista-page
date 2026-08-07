@@ -1,0 +1,132 @@
+{
+  "id": 2345,
+  "url": "https://en.numista.com/2345",
+  "title": "1 Farthing - Elizabeth II (1st portrait; without 'BRITT:OMN')",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1954,
+  "max_year": 1956,
+  "ruler": [
+    {
+      "id": 275,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 527,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Farthing",
+    "numeric_value": 0.0010416666666666667,
+    "numerator": 1,
+    "denominator": 960,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1970)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1960-12-31"
+  },
+  "size": 20,
+  "thickness": 1.33,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Mary Gillick"
+    ],
+    "description": "Young laureate portrait of Queen Elizabeth II right, legend around.\r\n\r\nNote: no 'BRITT:OMN'",
+    "lettering": "ELIZABETH·II·DEI·GRATIA·REGINA·F:D:+\r\nM · G ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Elizabeth II Dei Gratia Regina Fidei Defensatrix",
+    "lettering_translation": "Elizabeth II by the Grace of God Queen Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/7033-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/7033-180.jpg",
+    "picture_copyright": "radrick007",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "Harold Wilson Parker"
+    ],
+    "description": "Eurasian wren left (Troglodytes troglodytes), date above and denomination below (from the Greek 'troglodytes' meaning cave-dweller).",
+    "lettering": "1955\r\nHWP\r\nFARTHING",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/7034-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/7034-180.jpg",
+    "picture_copyright": "radrick007",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "House of Windsor (1917 to date), Elizabeth II (1952-2022), Pre-decimal issues (1953-70).<br /><br />\r\nThe designer&#039;s initials are located on the truncation of the bust and require a degree of magnification to see clearly.<br /><br />\r\nThe original weight of these pieces was 1/10 ounce avoirdupois (43.75 grains).<br /><br />\r\nFor further reading on these pieces, please visit <a href=\"http://aboutfarthings.co.uk/catalogue/uk-farthings/1953-1956-elizabeth-ii\" rel=\"nofollow\">Aboutfarthings</a>.",
+  "related_types": [
+    {
+      "id": 7396,
+      "title": "1 Farthing - Elizabeth II (1st portrait; with 'BRITT:OMN')",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1953,
+      "maxYear": 1953
+    }
+  ],
+  "tags": [
+    "Bird"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "895"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "4159"
+    }
+  ],
+  "weight": 2.83,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

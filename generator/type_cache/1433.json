@@ -1,0 +1,128 @@
+{
+  "id": 1433,
+  "url": "https://en.numista.com/1433",
+  "title": "2 Øre - Haakon VII",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "norvege",
+    "name": "Norway"
+  },
+  "min_year": 1909,
+  "max_year": 1952,
+  "ruler": [
+    {
+      "id": 449,
+      "name": "Haakon VII",
+      "wikidata_id": "Q154927",
+      "group": {
+        "id": 358,
+        "name": "House of Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "2 Øre",
+    "numeric_value": 0.02,
+    "currency": {
+      "id": 16,
+      "name": "Krone",
+      "full_name": "Krone (1875-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 21,
+  "thickness": 1.55,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze (Cu 95%, Sn 4%, Zn 1%)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Crowned monogram of Haakon VII, in a solid ring. Surrounded by inscription. Solid ring on the rim.",
+    "lettering": "⸰KONGERIKET⸰NORGE⸰\r\nH7",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Kingdom of Norway",
+    "picture": "https://en.numista.com/catalogue/photos/norvege/65b7bbb2bccb18.94714138-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/65b7bbb2bccb18.94714138-180.jpg",
+    "picture_copyright": "Oslo Myntgalleri",
+    "picture_copyright_url": "http://www.oslomyntgalleri.no"
+  },
+  "reverse": {
+    "description": "Value and date in three lines. A triskelion on each side of the value and below the date. Date divided by mintmark. Solid ring on the rim.",
+    "lettering": "2\r\nØRE\r\n19 ⚒ 35",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/norvege/65b7bbb44f4bc7.92597872-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/65b7bbb44f4bc7.92597872-180.jpg",
+    "picture_copyright": "Oslo Myntgalleri",
+    "picture_copyright_url": "http://www.oslomyntgalleri.no"
+  },
+  "comments": "<p>Overdates for 1935: &nbsp;1935/31, 1935/33.</p><p><a href=\"https://en.numista.com/catalogue/images/6939c683b46bb.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6939c683b46bb.jpg\"></a></p><p>&nbsp;</p><p>1936 date varieties</p><p><a href=\"https://en.numista.com/catalogue/images/67474e891ed02.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67474e891ed02.jpg\"></a></p><p>&nbsp;</p><p>Overdate 1937/36<br><a href=\"https://en.numista.com/catalogue/images/6302124b0f041.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6302124b0f041.jpg\" alt=\"\"></a></p><p><a href=\"https://en.numista.com/catalogue/images/68a12b7dcd768.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/68a12b7dcd768.jpg\"></a></p><p><a href=\"https://en.numista.com/catalogue/images/68618cbe1fc22.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/68618cbe1fc22.jpg\"></a></p>",
+  "related_types": [
+    {
+      "id": 15635,
+      "title": "2 Øre - Haakon VII",
+      "category": "coin",
+      "country": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "minYear": 1917,
+      "maxYear": 1920
+    },
+    {
+      "id": 5684,
+      "title": "2 Øre (German Occupation Coinage)",
+      "category": "coin",
+      "country": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "minYear": 1943,
+      "maxYear": 1945
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "371"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "18"
+    }
+  ],
+  "weight": 4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain."
+  },
+  "mints": [
+    {
+      "id": 1888,
+      "name": "Norwegian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

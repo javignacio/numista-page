@@ -1,0 +1,127 @@
+{
+  "id": 4080,
+  "url": "https://en.numista.com/4080",
+  "title": "10 Para (small)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "yougoslavie",
+    "name": "Yugoslavia"
+  },
+  "min_year": 1994,
+  "max_year": 1994,
+  "ruler": [
+    {
+      "id": 2379,
+      "name": "Federal Republic of Yugoslavia",
+      "wikidata_id": "Q37024"
+    }
+  ],
+  "value": {
+    "text": "10 Paras",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 34,
+      "name": "New Dinar",
+      "full_name": "New Dinar (1994-2003)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 18,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Emblem of the People's Bank of Yugoslavia",
+    "lettering": "SR JUGOSLAVIJA\r\nЈНБ\r\nСР ЈУГОСЛАВИЈА",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "САВЕЗНА РЕПУБЛИКА ЈУГОСЛАВИЈА\r\nЈУГОСЛOBAHCKA HAPOДHA БAHKA\r\nSAVEZNA REPUBLIKA JUGOSLAVIJA",
+    "lettering_translation": "Federal Republic of Yugoslavia, Yugoslav National Bank",
+    "picture": "https://en.numista.com/catalogue/photos/yougoslavie/63b04bfe6349e6.82508182-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/yougoslavie/63b04bfe6349e6.82508182-180.jpg",
+    "picture_copyright": "mikimaus",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Denomination in Cyrillic and Latin scripts",
+    "lettering": "ПАРА\r\n10\r\nPARA\r\n1994",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "10 Paras",
+    "picture": "https://en.numista.com/catalogue/photos/yougoslavie/63b04bfea13925.17403250-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/yougoslavie/63b04bfea13925.17403250-180.jpg",
+    "picture_copyright": "mikimaus",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "related_types": [
+    {
+      "id": 11110,
+      "title": "10 Para (large; ЈНБ logo)",
+      "category": "coin",
+      "country": {
+        "code": "yougoslavie",
+        "name": "Yugoslavia"
+      },
+      "minYear": 1995,
+      "maxYear": 1995
+    },
+    {
+      "id": 9943,
+      "title": "10 Para (large; with eagle)",
+      "category": "coin",
+      "country": {
+        "code": "yougoslavie",
+        "name": "Yugoslavia"
+      },
+      "minYear": 1996,
+      "maxYear": 1998
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "162.1"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "159"
+    }
+  ],
+  "weight": 3.38,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,305 @@
+{
+  "id": 1726,
+  "url": "https://en.numista.com/1726",
+  "title": "1 Lira",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "israel",
+    "name": "Israel"
+  },
+  "min_year": 1967,
+  "max_year": 1980,
+  "ruler": [
+    {
+      "id": 4056,
+      "name": "State of Israel",
+      "wikidata_id": "Q801"
+    }
+  ],
+  "value": {
+    "text": "1 Israeli Pound",
+    "numeric_value": 1,
+    "currency": {
+      "id": 9318,
+      "name": "Pound",
+      "full_name": "Pound (1960-1980)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1967-09-00"
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1984-03-31"
+  },
+  "size": 27.5,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Gerd Rothschild",
+      "Zeev Lipman"
+    ],
+    "description": "Three stylized grenadine fruits, state emblem (menorah flanked by olive branches)",
+    "lettering": "ישראל\r\nישראל\r\nISRAEL اسرائيل",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      },
+      {
+        "name": "Hebrew"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Israel\r\nIsrael\r\nIsrael Israel",
+    "picture": "https://en.numista.com/catalogue/photos/israel/2272-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/israel/2272-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "reverse": {
+    "engravers": [
+      "Zvi Narkiss"
+    ],
+    "description": "Value, 2 stars (image from early coins at about 103 B.C. Alexander Jannaeus)",
+    "lettering": "1\r\nלירה\r\n ישראלית\r\nאחת\r\nתשל\"א",
+    "lettering_scripts": [
+      {
+        "name": "Hebrew"
+      }
+    ],
+    "lettering_translation": "1\r\nLirah\r\nIsraeli\r\nOne\r\nthe date (in this case, 5731)",
+    "picture": "https://en.numista.com/catalogue/photos/israel/2273-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/israel/2273-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "comments": "Some coins show a small &quot;Star of David&quot; on the obverse. These are set issues.<br /><br />\r\nDate of Issue: September 1967<br /><br />\r\nOf the coins dated 5733 (1973), 150,000 were minted in Jerusalem and 10,115,000 were minted in Bern.<br />\r\nOf the coins dated 5734 (1974), 2,287,000 were minted in Jerusalem and 4,000,000 were minted by the Royal Canadian Mint in Ottawa.<br />\r\nOf the coins dated 5735 (1975), 7,225,000 were minted in Jerusalem and 6,000,000 were minted by the Royal Australian Mint in Canberra.<br />\r\nOf the coins dated 5738 (1978), 11,129,000 were minted in Jerusalem and 36,391,000 were minted by the Royal Canadian Mint in Winnipeg.<br />\r\nOf the coins dated 5739 (1979), 10,615,464 were minted in Jerusalem and 24,200,000 were minted by the Royal Canadian Mint in Ottawa.",
+  "related_types": [
+    {
+      "id": 42540,
+      "title": "Prutah - Alexander Jannaeus",
+      "category": "coin",
+      "country": {
+        "code": "judee",
+        "name": "Judea"
+      },
+      "minYear": -104,
+      "maxYear": -76
+    },
+    {
+      "id": 93081,
+      "title": "¼ Sheqel (Year 1)",
+      "category": "coin",
+      "country": {
+        "code": "judee",
+        "name": "Judea"
+      },
+      "minYear": 66,
+      "maxYear": 67
+    },
+    {
+      "id": 93080,
+      "title": "½ Sheqel (Year 1)",
+      "category": "coin",
+      "country": {
+        "code": "judee",
+        "name": "Judea"
+      },
+      "minYear": 66,
+      "maxYear": 67
+    },
+    {
+      "id": 93169,
+      "title": "½ Sheqel (Year 2)",
+      "category": "coin",
+      "country": {
+        "code": "judee",
+        "name": "Judea"
+      },
+      "minYear": 67,
+      "maxYear": 68
+    },
+    {
+      "id": 93182,
+      "title": "½ Sheqel (Year 3)",
+      "category": "coin",
+      "country": {
+        "code": "judee",
+        "name": "Judea"
+      },
+      "minYear": 68,
+      "maxYear": 69
+    },
+    {
+      "id": 93276,
+      "title": "½ Sheqel (Year 4)",
+      "category": "coin",
+      "country": {
+        "code": "judee",
+        "name": "Judea"
+      },
+      "minYear": 69,
+      "maxYear": 70
+    },
+    {
+      "id": 93083,
+      "title": "½ Sheqel (Year 5)",
+      "category": "coin",
+      "country": {
+        "code": "judee",
+        "name": "Judea"
+      },
+      "minYear": 70,
+      "maxYear": 70
+    },
+    {
+      "id": 93076,
+      "title": "Sheqel (Year 1; Prototype)",
+      "category": "coin",
+      "country": {
+        "code": "judee",
+        "name": "Judea"
+      },
+      "minYear": 66,
+      "maxYear": 67
+    },
+    {
+      "id": 93079,
+      "title": "Sheqel (Year 1)",
+      "category": "coin",
+      "country": {
+        "code": "judee",
+        "name": "Judea"
+      },
+      "minYear": 66,
+      "maxYear": 67
+    },
+    {
+      "id": 93166,
+      "title": "Sheqel (Year 2)",
+      "category": "coin",
+      "country": {
+        "code": "judee",
+        "name": "Judea"
+      },
+      "minYear": 67,
+      "maxYear": 68
+    },
+    {
+      "id": 93181,
+      "title": "Sheqel (Year 3)",
+      "category": "coin",
+      "country": {
+        "code": "judee",
+        "name": "Judea"
+      },
+      "minYear": 68,
+      "maxYear": 69
+    },
+    {
+      "id": 93275,
+      "title": "Sheqel (Year 4)",
+      "category": "coin",
+      "country": {
+        "code": "judee",
+        "name": "Judea"
+      },
+      "minYear": 69,
+      "maxYear": 70
+    },
+    {
+      "id": 93090,
+      "title": "Sheqel (Year 5)",
+      "category": "coin",
+      "country": {
+        "code": "judee",
+        "name": "Judea"
+      },
+      "minYear": 70,
+      "maxYear": 70
+    }
+  ],
+  "tags": [
+    "Fruit",
+    "Hexagram"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "47.1"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "47.2"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "47.3"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "29"
+    },
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "46"
+    }
+  ],
+  "weight": 9,
+  "orientation": "medal",
+  "edge": {
+    "description": "Alternating segments: five smooth, five milled",
+    "picture": "https://en.numista.com/catalogue/photos/israel/614e0b10953a13.60429752-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/israel/614e0b10953a13.60429752-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 247,
+      "name": "Bern"
+    },
+    {
+      "id": 1540,
+      "name": "Jerusalem"
+    },
+    {
+      "id": 28,
+      "name": "Royal Australian Mint"
+    },
+    {
+      "id": 19,
+      "name": "Royal Canadian Mint of Ottawa"
+    },
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,109 @@
+{
+  "id": 291096,
+  "url": "https://en.numista.com/291096",
+  "title": "Antoninianus - Aurelianus (RESTITVT ORBIS)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "rome",
+    "name": "Roman Empire (27 BC - 395 AD)"
+  },
+  "min_year": 270,
+  "max_year": 275,
+  "ruler": [
+    {
+      "id": 107,
+      "name": "Aurelian",
+      "wikidata_id": "Q46780",
+      "nomisma_id": "aurelian",
+      "group": {
+        "id": 323,
+        "name": "Illyrian emperors"
+      }
+    }
+  ],
+  "value": {
+    "text": "Antoninianus",
+    "numeric_value": 1,
+    "currency": {
+      "id": 1615,
+      "name": "Antoninianus, Reform of Caracalla",
+      "full_name": "Antoninianus, Reform of Caracalla (AD 215 – 301)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 22.5,
+  "shape": "Round (irregular)",
+  "composition": {
+    "text": "Silver"
+  },
+  "technique": {
+    "text": "Hammered"
+  },
+  "obverse": {
+    "description": "Bust of Aurelian, radiate, draped, right or bust of Aurelian, radiate, cuirassed, right.",
+    "lettering": "IMP AVRELIANVS AVG",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Imperator Aurelianus Augustus.\nSupreme commander (Imperator), Aurelian, emperor (Augustus).",
+    "picture": "https://en.numista.com/catalogue/photos/rome/60924e05158ee8.49176173-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/rome/60924e05158ee8.49176173-180.jpg",
+    "picture_copyright": "Münzkabinett der Universität Göttingen",
+    "picture_copyright_url": "https://www.uni-goettingen.de/de/149540.html",
+    "picture_license_name": "CC BY-NC 4.0 DE",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.de"
+  },
+  "reverse": {
+    "description": "Woman, draped, standing right, presenting wreath to Aurelian, standing left, holding sceptre.",
+    "lettering": "RESTITVT ORBIS\n*//KAA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Restitutor Orbis.\nRestorer of the city (Rome).",
+    "picture": "https://en.numista.com/catalogue/photos/rome/60924e05efca02.39458152-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/rome/60924e05efca02.39458152-180.jpg",
+    "picture_copyright": "Münzkabinett der Universität Göttingen",
+    "picture_copyright_url": "https://www.uni-goettingen.de/de/149540.html",
+    "picture_license_name": "CC BY-NC 4.0 DE",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.de"
+  },
+  "comments": "Mass varies: 3.737–4.18 g;<br />\nDiameter varies: 22.39–23.1 mm;<br /><br />\nExample of this type:<br />\n<a href=\"http://hdl.handle.net/428894.vzg/c724b200-87d8-42d1-b10a-31b578943b71\" rel=\"nofollow\">Münzkabinett der Universität Göttingen</a><br /><br />\nSource:<br />\n<a href=\"http://numismatics.org/ocre/\" rel=\"nofollow\">Online Coins of the Roman Empire (OCRE)</a>",
+  "tags": [
+    "Wreath",
+    "Armour"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 454,
+        "code": "RIC V.1"
+      },
+      "number": "289"
+    },
+    {
+      "catalogue": {
+        "id": 1020,
+        "code": "OCRE"
+      },
+      "number": "ric.5.aur.289"
+    }
+  ],
+  "weight": 4,
+  "mints": [
+    {
+      "id": 841,
+      "name": "Serdica, Thrace"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

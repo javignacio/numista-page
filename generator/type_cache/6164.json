@@ -1,0 +1,105 @@
+{
+  "id": 6164,
+  "url": "https://en.numista.com/6164",
+  "title": "25 Kuruş",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "turquie",
+    "name": "Turkey"
+  },
+  "min_year": 2009,
+  "max_year": 2022,
+  "ruler": [
+    {
+      "id": 2047,
+      "name": "Republic",
+      "wikidata_id": "Q43"
+    }
+  ],
+  "value": {
+    "text": "25 Kuruş",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 125,
+      "name": "New lira",
+      "full_name": "New lira (2005-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 20.5,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass (60% Copper, 14% Nickel, 26% Zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Mustafa Kemal Atatürk facing left with the country name around the rim",
+    "lettering": "TÜRKİYE CUMHURİYETİ",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Turkey",
+    "picture": "https://en.numista.com/catalogue/photos/turquie/60b653bcd11049.31947954-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/turquie/60b653bcd11049.31947954-180.jpg",
+    "picture_copyright": "rsirian1",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Decorative flourishes top, bottom, left and right, leaving a square central area. Crescent and Star (National Emblem of Turkey), in the top decoration. Value in the centre, and year in the bottom decoration.",
+    "lettering": "25\r\nKURUŞ\r\n2009",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/turquie/60b653bd2e8064.89871840-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/turquie/60b653bd2e8064.89871840-180.jpg",
+    "picture_copyright": "rsirian1",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "<p>The original entry for this coin listed the decoration on the reverse as a “Kufic calligraphic”. Kufic is the oldest calligraphic form of the various Arabic scripts developed in the 7th century. &nbsp;The design elements are perfectly symmetrical and although somewhat similar in style, there appears to be no calligraphy. &nbsp;Also confirmed in this forum thread: <a href=\"https://en.numista.com/forum/topic167668.html\" rel=\"ugc noopener\" target=\"_blank\" >https://en.numista.com/forum/topic167668.html</a></p>",
+  "tags": [
+    "Artist",
+    "Military leader",
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1242"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "806"
+    }
+  ],
+  "weight": 4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/turquie/60b653bd690f64.48018107-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/turquie/60b653bd690f64.48018107-180.jpg",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

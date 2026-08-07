@@ -1,0 +1,128 @@
+{
+  "id": 1272,
+  "url": "https://en.numista.com/1272",
+  "title": "10 Lipa (Croatian text)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "croatie",
+    "name": "Croatia"
+  },
+  "min_year": 1993,
+  "max_year": 2021,
+  "ruler": [
+    {
+      "id": 3278,
+      "name": "Republic",
+      "wikidata_id": "Q224"
+    }
+  ],
+  "value": {
+    "text": "10 Lipa",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 91,
+      "name": "Kuna",
+      "full_name": "Kuna (1994-2022)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2023-01-15"
+  },
+  "size": 20,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass plated steel (Plating: 72.5% Copper, 27.5% Zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Kuzma Kovačić"
+    ],
+    "description": "A stylized linden branch is in inflorescence and the value of the coin (10) on the leaves and the written inscription \"LIPA\" (linden) underneath. Around the top edge, the words \"REPUBLIKA HRVATSKA\" appear along with the Croatian coat of arms on the bottom, and braided ornaments on both sides of the arms.",
+    "lettering": "REPUBLIKA HRVATSKA\r\n10\r\nLIPA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "REPUBLIC OF CROATIA\r\n10\r\nLIPA",
+    "picture": "https://en.numista.com/catalogue/photos/croatie/106-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/croatie/106-180.jpg",
+    "picture_copyright": "Sjoelund",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Kuzma Kovačić"
+    ],
+    "description": "A stalk of the tobacco in an inflorescence is in the center and the Croatian name of the plant (DUHAN) above and the year of mintage and the artist's initials on a leaf.",
+    "lettering": "DUHAN\r\nKK\r\n2007.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "TOBACCO\r\nKK\r\n1993",
+    "picture": "https://en.numista.com/catalogue/photos/croatie/64522176b0f186.90701333-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/croatie/64522176b0f186.90701333-180.jpg",
+    "picture_copyright": "Sjoelund",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "comments": "The 2007 coin variations<br />\r\n<a href=\"https://en.numista.com/catalogue/images/645f76e2a5601.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/645f76e2a5601.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nNOTE: The engraver of the coin, Kuzma Kovačić, is a distinguished Croatian academic sculptor.<br /><br />\r\nYear of minting-in circulation from:<br />\r\n1993-30.5.1994.<br />\r\n1995.-15.7.1995.<br />\r\n1997.-15.5.1997.<br />\r\n1999.-25.2.1999.<br />\r\n2001.-20.2.2001.<br />\r\n2003.-24.2.2003.<br />\r\n2005.-26.1.2005.<br />\r\n2007.-29.1.2007.<br />\r\n2009.-23.2.2009.<br />\r\n2011.-21.3.2011.<br />\r\n2013.-22.4.2013.",
+  "related_types": [
+    {
+      "id": 5780,
+      "title": "10 Lipa (Latin text)",
+      "category": "coin",
+      "country": {
+        "code": "croatie",
+        "name": "Croatia"
+      },
+      "minYear": 1994,
+      "maxYear": 2022
+    }
+  ],
+  "tags": [
+    "Flower"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "6"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "10"
+    }
+  ],
+  "weight": 3.25,
+  "orientation": "medal",
+  "edge": {
+    "description": "Smooth, without notches.",
+    "picture": "https://en.numista.com/catalogue/photos/croatie/6151d09e9acbf9.77779837-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/croatie/6151d09e9acbf9.77779837-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 4815,
+      "name": "Croatian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

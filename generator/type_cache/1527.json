@@ -1,0 +1,108 @@
+{
+  "id": 1527,
+  "url": "https://en.numista.com/1527",
+  "title": "1 Markka",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "finlande",
+    "name": "Finland"
+  },
+  "min_year": 1993,
+  "max_year": 2001,
+  "ruler": [
+    {
+      "id": 3291,
+      "name": "Republic",
+      "wikidata_id": "Q33"
+    }
+  ],
+  "value": {
+    "text": "1 Markka",
+    "numeric_value": 1,
+    "currency": {
+      "id": 133,
+      "name": "New Markka",
+      "full_name": "New Markka (1963-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2002-02-28"
+  },
+  "size": 22.25,
+  "thickness": 1.94,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Rampant lion in the coat-of-arms of Finland within a circle, State name in two languages, and year of issue.",
+    "lettering": "SUOMI \r\nFINLAND \r\n2001 M",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/finlande/6953ac720e5ad9.01895421-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/6953ac720e5ad9.01895421-180.jpg",
+    "picture_copyright": "DominusDeus",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Number '1' with ornaments flank denomination within circle. Currency name in two languages.",
+    "lettering": "1 MARKKA MARK",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/finlande/6953ac73c26282.41510450-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/6953ac73c26282.41510450-180.jpg",
+    "picture_copyright": "DominusDeus",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "tags": [
+    "Cat or feline",
+    "Coat of Arms",
+    "Cold weapons"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "76"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "75"
+    }
+  ],
+  "weight": 5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/finlande/614da2b34f0015.17181455-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/614da2b34f0015.17181455-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 1334,
+      "name": "Mint of Finland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

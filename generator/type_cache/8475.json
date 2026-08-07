@@ -1,0 +1,125 @@
+{
+  "id": 8475,
+  "url": "https://en.numista.com/8475",
+  "title": "1 Crown - George V ('Wreath' Crown)",
+  "object_type": {
+    "id": 3,
+    "name": "Non-circulating coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1927,
+  "max_year": 1936,
+  "ruler": [
+    {
+      "id": 272,
+      "name": "George V",
+      "wikidata_id": "Q269412",
+      "group": {
+        "id": 526,
+        "name": "House of Saxe-Coburg and Gotha"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Crown",
+    "numeric_value": 0.25,
+    "numerator": 1,
+    "denominator": 4,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1971)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 38.61,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.500)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Edgar Bertram MacKennal"
+    ],
+    "description": "Uncrowned portrait of King George V left, legend around.",
+    "lettering": "GEORGIVS V DEI GRA: BRITT: OMN: REX\r\nBM",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Georgius V Dei Gratia Britanniarum Omnium Rex",
+    "lettering_translation": "George the Fifth by the Grace of God King of all the Britains",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/7037-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/7037-180.jpg",
+    "picture_copyright": "radrick007",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "George Kruger Gray"
+    ],
+    "description": "Crown below date within wreath with national flower emblems, legend around.",
+    "lettering": "·FID· ·DEF· ·IND· ·IMP·\r\n1933\r\n·CROWN·\r\nKG",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Fidei Defensor Indiae Imperator",
+    "lettering_translation": "Defender of the Faith Emperor of India",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/7038-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/7038-180.jpg",
+    "picture_copyright": "radrick007",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "The standard weight of these coins was 10/11 troy ounce (436.4 grains).<br /><br />\r\nGenerally struck late in the year according to demand and intended to be purchased as Christmas gifts, they did not circulate well, due to the low mintage.<br /><br />\r\nProofs for all dates exist but are extremely rare, with no known mintage figures, as they were for V.I.P issue.<br /><br />\r\nThis coin was not included in demonetization legislation when decimalization was introduced in 1971. It has been confirmed by the Royal Mint that the coin remains legal tender, having been remonetized with a value of 25 pence.",
+  "tags": [
+    "Crown",
+    "Flower"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "836"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "4036"
+    }
+  ],
+  "weight": 28.28,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/62753b9cc2ac45.73780338-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/62753b9cc2ac45.73780338-180.jpg",
+    "picture_copyright": "Michass",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Non-circulating coins"
+}

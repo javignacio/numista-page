@@ -1,0 +1,112 @@
+{
+  "id": 1408,
+  "url": "https://en.numista.com/1408",
+  "title": "1 Krone - Frederik IX",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "danemark",
+    "name": "Denmark"
+  },
+  "min_year": 1960,
+  "max_year": 1972,
+  "ruler": [
+    {
+      "id": 2403,
+      "name": "Frederick IX",
+      "wikidata_id": "Q151312",
+      "group": {
+        "id": 104,
+        "name": "House of Schleswig-Holstein-Sonderburg-Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Krone",
+    "numeric_value": 1,
+    "currency": {
+      "id": 13,
+      "name": "Krone",
+      "full_name": "Krone (1873-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25.5,
+  "thickness": 1.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% copper, 25% nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Head of Frederik IX. to the right",
+    "lettering": "FREDERIK IX KONGE AF DANMARK \r\nC ♥ S",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "King of Denmark",
+    "picture": "https://en.numista.com/catalogue/photos/danemark/64d416e2d84574.26608874-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/64d416e2d84574.26608874-180.jpg",
+    "picture_copyright": "Elvi75"
+  },
+  "reverse": {
+    "engravers": [
+      "Harald Salomon"
+    ],
+    "description": "Value, crowned royal coat of arms",
+    "lettering": "1 KRONE \r\n1961",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/danemark/64d416e3c1d558.88700967-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/64d416e3c1d558.88700967-180.jpg",
+    "picture_copyright": "Elvi75"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/5e9707faaf617.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e9707faaf617.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "tags": [
+    "Monarch",
+    "Crown",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "851"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "70"
+    }
+  ],
+  "weight": 6.8,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/danemark/616b17efcdb0a6.74477521-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/616b17efcdb0a6.74477521-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 260,
+      "name": "Royal Danish Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,147 @@
+{
+  "id": 4056,
+  "url": "https://en.numista.com/4056",
+  "title": "5 Forint (Lajos Kossuth; small issue)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "hongrie",
+    "name": "Hungary"
+  },
+  "min_year": 1983,
+  "max_year": 1989,
+  "ruler": [
+    {
+      "id": 1800,
+      "name": "People's Republic",
+      "wikidata_id": "Q16410"
+    }
+  ],
+  "value": {
+    "text": "5 Forint",
+    "numeric_value": 5,
+    "currency": {
+      "id": 71,
+      "name": "Forint",
+      "full_name": "Forint (1946-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1995-12-31"
+  },
+  "size": 23.4,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Lajos Kossuth facing right",
+    "lettering": "MAGYAR NÉPKÖZTÁRSASÁG\r\nKOSSUTH",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Hungarian People's Republic\r\nKossuth",
+    "picture": "https://en.numista.com/catalogue/photos/hongrie/136-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hongrie/136-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Small shield above denomination separating date with BP. between shield and numeral",
+    "lettering": "19 89\r\nBP.\r\n5\r\nFORINT",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/hongrie/135-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hongrie/135-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "related_types": [
+    {
+      "id": 10564,
+      "title": "5 Forint (Lajos Kossuth)",
+      "category": "coin",
+      "country": {
+        "code": "hongrie",
+        "name": "Hungary"
+      },
+      "minYear": 1967,
+      "maxYear": 1968
+    },
+    {
+      "id": 1894,
+      "title": "5 Forint (Lajos Kossuth; large issue)",
+      "category": "coin",
+      "country": {
+        "code": "hongrie",
+        "name": "Hungary"
+      },
+      "minYear": 1971,
+      "maxYear": 1982
+    }
+  ],
+  "tags": [
+    "Politician",
+    "Coat of Arms",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "635"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "95a"
+    },
+    {
+      "catalogue": {
+        "id": 14,
+        "code": "ÉH"
+      },
+      "number": "1636"
+    },
+    {
+      "catalogue": {
+        "id": 360,
+        "code": "Adamo"
+      },
+      "number": "F8.4"
+    }
+  ],
+  "weight": 5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Milled",
+    "picture": "https://en.numista.com/catalogue/photos/hongrie/61581c9d9e1887.31229516-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hongrie/61581c9d9e1887.31229516-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 1248,
+      "name": "Hungarian mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

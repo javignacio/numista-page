@@ -1,0 +1,151 @@
+{
+  "id": 9489,
+  "url": "https://en.numista.com/9489",
+  "title": "2 Bolívares",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "venezuela",
+    "name": "Venezuela"
+  },
+  "min_year": 1989,
+  "max_year": 1990,
+  "ruler": [
+    {
+      "id": 4706,
+      "name": "Fourth Republic",
+      "wikidata_id": "Q21296156"
+    }
+  ],
+  "value": {
+    "text": "2 Bolivars",
+    "numeric_value": 2,
+    "currency": {
+      "id": 7,
+      "name": "Bolivar",
+      "full_name": "Bolivar (1879-2007)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2011-12-31"
+  },
+  "size": 27,
+  "thickness": 2.06,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel clad steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms with legend at top. Value and date at bottom.",
+    "lettering": "★ REPÚBLICA DE VENEZUELA ★\r\n19 DE ABRIL DE 1810\r\nINDEPENDENCIA\r\n20 DE FEBRERO DE 1859\r\nFEDERACION\r\nREPUBLICA DE VENEZUELA\r\nDOS BOLÍVARES ★ 1989",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "REPUBLIC OF VENEZUELA\r\n19 APRIL 1810\r\nINDEPENDENCE\r\n20 FEBRUARY 1859\r\nFEDERATION\r\nREPUBLIC OF VENEZUELA\r\nTwo Bolivares 1989",
+    "picture": "https://en.numista.com/catalogue/photos/venezuela/63b5a5fce1c514.11690030-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/venezuela/63b5a5fce1c514.11690030-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "reverse": {
+    "engravers": [
+      "Désiré-Albert Barre"
+    ],
+    "description": "Bust left, flanked with legend and engraver's name at base.",
+    "lettering": "BOLÍVAR LIBERTADOR\r\nBARRE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Bolivar Liberator",
+    "picture": "https://en.numista.com/catalogue/photos/venezuela/63b5a5fd7c0ac6.55930601-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/venezuela/63b5a5fd7c0ac6.55930601-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "comments": "The issue was stuck by 3 mints which differ by dies.<br /><br />\r\n<span style=\"font-style:italic;\">Obverse</span><br />\r\nDie <span style=\"font-weight:bold;\">1</span> - small bust, far from R in LIBERTADOR.<br />\r\nDie <span style=\"font-weight:bold;\">2</span> - large bust, truncation close and lower R in LIBERTADOR.<br />\r\nDie <span style=\"font-weight:bold;\">3</span> - medium bust, R in LIBERTADOR almost touches truncation.<br /><br />\r\n<span style=\"font-style:italic;\">Reverse</span><br />\r\nDie<span style=\"font-weight:bold;\"> A</span> - small letters in legend, lines beneath horse.<br />\r\nDie <span style=\"font-weight:bold;\">B</span> - large letters in legend, no lines beneath horse, bold date<br />\r\nDie <span style=\"font-weight:bold;\">C </span>- large letters in legend, no lines beneath horse, fine date.<br />\r\n<span style=\"font-style:italic;\">Note</span>. There are many differences between dies in shape and position of cornucopias, details, falling from cornucopias, quantities and position of leaves in wreath, see some of them at the images in <span style=\"font-style:italic;\">Combinations</span>.<br /><br />\r\n<span style=\"font-weight:bold;\">Combinations</span><br />\r\n<span style=\"font-weight:bold;\">1</span>+<span style=\"font-weight:bold;\">A</span>: 1989, 1990, Caracas mint.<br />\r\nPicture: © Images courtesy of Alexandr Prokofyev.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/6319b7d04eac7.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6319b7d04eac7.jpg\" alt=\"\" width=\"199\" height=\"58\" /></a><br />\r\n<span style=\"font-weight:bold;\">2</span>+<span style=\"font-weight:bold;\">B</span>: 1989, Werdohl Metalworks.<br />\r\n<span style=\"font-weight:bold;\">3</span>+<span style=\"font-weight:bold;\">C</span>: 1989, Schwerte Metalworks.<br />\r\nPicture: © Images courtesy of Alexandr Prokofyev.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/6319b7de52be8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6319b7de52be8.jpg\" alt=\"\" width=\"199\" height=\"58\" /></a><br /><br />\r\nCorrespondence with Standard Catalog of World Coins<br />\r\n<span style=\"font-weight:bold;\">1</span>+<span style=\"font-weight:bold;\">A</span> - Y#43a.2 (c) 1989, Y#43a.1 1990 (c).<br />\r\n<span style=\"font-weight:bold;\">2</span>+<span style=\"font-weight:bold;\">B</span> - Y#43a.2 (w).<br />\r\n<span style=\"font-weight:bold;\">3</span>+<span style=\"font-weight:bold;\">C</span> - Y#43a.1 (sc).<br /><br />\r\nThe Numismatic Catalog of Venezuela describes six varieties for 1989.<br />\r\n<a href=\"https://www.numismatica.info.ve/en/coins/mv2bs-cb01%40.htm\" rel=\"nofollow\">https://www.numismatica.info.ve/en/coins/mv2bs-cb01%40.htm</a>",
+  "related_types": [
+    {
+      "id": 5801,
+      "title": "2 Bolívares",
+      "category": "coin",
+      "country": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "minYear": 1967,
+      "maxYear": 1988
+    },
+    {
+      "id": 315496,
+      "title": "2 Bolívares (Pattern)",
+      "category": "coin",
+      "country": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "minYear": 1989,
+      "maxYear": 1989
+    }
+  ],
+  "tags": [
+    "Horse or equine",
+    "Military leader",
+    "Politician",
+    "Coat of Arms",
+    "Cornucopia"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "43a.1"
+    },
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "43a.2"
+    },
+    {
+      "catalogue": {
+        "id": 2068,
+        "code": "NCV"
+      },
+      "number": "mv2bs-cb"
+    }
+  ],
+  "weight": 7.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 305,
+      "name": "Caracas"
+    },
+    {
+      "id": 4157,
+      "name": "VDM Metals / Vereinigte Deutsche Metallwerke"
+    },
+    {
+      "id": 4175,
+      "name": "Vereinigte Deutsche Nickelwerke"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

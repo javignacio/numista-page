@@ -1,0 +1,119 @@
+{
+  "id": 562,
+  "url": "https://en.numista.com/562",
+  "title": "20 Drachmai",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "grece",
+    "name": "Greece"
+  },
+  "min_year": 1973,
+  "max_year": 1973,
+  "ruler": [
+    {
+      "id": 1253,
+      "name": "Regime of the Colonels",
+      "wikidata_id": "Q504081"
+    }
+  ],
+  "value": {
+    "text": "20 Drachmai",
+    "numeric_value": 20,
+    "currency": {
+      "id": 62,
+      "name": "Third modern drachma",
+      "full_name": "Third modern drachma (1954-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 29,
+  "thickness": 2.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Yannis Stinis"
+    ],
+    "description": "A phoenix rising from its flames is surrounded with the inscription \"ΕΛΛΗΝΙΚΗ ΔΗΜΟΚΡΑΤΙΑ,\" engraver's abbreviation under flames.",
+    "lettering": "ΕΛΛΗΝΙΚΗ ΔΗΜΟΚΡΑΤΙΑ \r\nΙ. ΣΤΙΝ.\r\n1973",
+    "lettering_scripts": [
+      {
+        "name": "Greek"
+      }
+    ],
+    "lettering_translation": "Greek Republic",
+    "picture": "https://en.numista.com/catalogue/photos/grece/1774-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/grece/1774-180.jpg",
+    "picture_copyright": "Ma collection de monnaies",
+    "picture_copyright_url": "https://monnaiesetvarietes.numista.com/"
+  },
+  "reverse": {
+    "engravers": [
+      "Nikos Perantinos"
+    ],
+    "description": "The portrait in left profile of the goddess Athena is accompanied with the face value and engraver's name in front of her.",
+    "lettering": "20\r\nΔΡΧ.\r\nΝ. ΠΕΡΑΝΤΙΝΟΣ",
+    "lettering_scripts": [
+      {
+        "name": "Greek"
+      }
+    ],
+    "lettering_translation": "20\nDrachmai",
+    "picture": "https://en.numista.com/catalogue/photos/grece/1775-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/grece/1775-180.jpg",
+    "picture_copyright": "Ma collection de monnaies",
+    "picture_copyright_url": "https://monnaiesetvarietes.numista.com/"
+  },
+  "tags": [
+    "Bird",
+    "Fantasy animal",
+    "Armour",
+    "Mythology"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "112"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "55"
+    }
+  ],
+  "weight": 11,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain Inscribed.",
+    "lettering": "ΕΛΛΗΝΙΚΗ ΔΗΜΟΚΡΑΤΙΑ",
+    "lettering_scripts": [
+      {
+        "name": "Greek"
+      }
+    ],
+    "lettering_translation": "Greek Republic"
+  },
+  "mints": [
+    {
+      "id": 1889,
+      "name": "National Mint of the Bank of Greece"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

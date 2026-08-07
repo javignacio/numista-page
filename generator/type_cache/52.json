@@ -1,0 +1,144 @@
+{
+  "id": 52,
+  "url": "https://en.numista.com/52",
+  "title": "1 Dime \"Roosevelt Silver Dime\"",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "etats-unis",
+    "name": "United States"
+  },
+  "min_year": 1946,
+  "max_year": 1964,
+  "ruler": [
+    {
+      "id": 4720,
+      "name": "Federal republic",
+      "wikidata_id": "Q30"
+    }
+  ],
+  "value": {
+    "text": "1 Dime ",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 59,
+      "name": "Dollar",
+      "full_name": "Dollar (1785-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 17.9,
+  "thickness": 1.1,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.900)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "John R. Sinnock"
+    ],
+    "description": "The portrait in left profile of Franklin D. Roosevelt, the 32nd President of the United States from 1933 to his death in 1945, is accompanied with the motto: \"IN GOD WE TRUST\" and surrounded with the lettering \"LIBERTY\". Engraver's initials under truncation.",
+    "lettering": "LIBERTY\r\nIN GOD\r\nWE TRUST 1964 JS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/60bccbece29267.71807036-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/60bccbece29267.71807036-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "engravers": [
+      "John R. Sinnock"
+    ],
+    "description": "Ahead the motto \"E • PLU RIB US • U NUM\", an olive branch, a torch and an oak branch symbolize respectively peace, liberty and victory and are surrounded with the face value and the lettering \"UNITED STATES OF AMERICA\".\r\n\r\nIf there is a mintmark (D or S) it is to the lower left of the torch (below B of PLURIBUS and above E of ONE).",
+    "lettering": "UNITED STATES OF AMERICA\r\nE • PLU RIB US • U NUM  \r\n • ONE DIME •",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "UNITED STATES OF AMERICA \r\nOUT • OF MANY • ONE \r\n• ONE DIME •",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/60bccbee9ec9b5.21597932-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/60bccbee9ec9b5.21597932-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "<span style=\"text-decoration:underline;\">1964</span><br />\r\n<span style=\"font-style:italic;\">Obverse</span><br /><br />\r\nDie <span style=\"font-weight:bold;\">1</span> - 9 in date with pointed end.<br />\r\nDie <span style=\"font-weight:bold;\">2</span> - 9 in date with blunt end.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/61598accebdb5.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/61598accebdb5.jpg\" alt=\"\" width=\"200\" height=\"143\" /></a><br /><br />\r\n1960 doubled die<br />\r\n<a href=\"https://en.numista.com/catalogue/images/63838cafeb6a8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/63838cafeb6a8.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\n1963 doubled die<br />\r\n<a href=\"https://en.numista.com/catalogue/images/63838ce7ec9d6.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/63838ce7ec9d6.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\n1964D doubled die<br />\r\n<a href=\"https://en.numista.com/catalogue/images/63838d0823a27.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/63838d0823a27.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\n<span style=\"font-style:italic;\">Combinations</span><br />\r\nDie <span style=\"font-weight:bold;\">1</span>: 1964, 1964 D, 1964 Proof.<br />\r\nDie <span style=\"font-weight:bold;\">2</span>: 1964, 1964 D, 1964 Proof.<br /><br />\r\nThese coins circulated alongside the <a href=\"https://en.numista.com/10902\">25 Centavo</a> piece in El Salvador, as they were worth the same at the time.",
+  "related_types": [
+    {
+      "id": 53,
+      "title": "1 Dime \"Roosevelt Dime\"",
+      "category": "coin",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 1965,
+      "maxYear": 2025
+    },
+    {
+      "id": 8934,
+      "title": "1 Dime \"Roosevelt Dime\" (Silver Proof)",
+      "category": "coin",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 1992,
+      "maxYear": 2018
+    }
+  ],
+  "tags": [
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "195"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "197"
+    }
+  ],
+  "weight": 2.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded (118 reeds)",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/6145baa4e45e63.26679789-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/6145baa4e45e63.26679789-180.jpg",
+    "picture_copyright": "Walter_Scott"
+  },
+  "mints": [
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    },
+    {
+      "id": 10,
+      "name": "United States Mint of Denver"
+    },
+    {
+      "id": 12,
+      "name": "United States Mint of San Francisco"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

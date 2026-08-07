@@ -1,0 +1,107 @@
+{
+  "id": 1366,
+  "url": "https://en.numista.com/1366",
+  "title": "10 Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "portugal",
+    "name": "Portugal"
+  },
+  "min_year": 1969,
+  "max_year": 1979,
+  "ruler": [
+    {
+      "id": 1294,
+      "name": "Second Republic",
+      "wikidata_id": "Q17748736"
+    },
+    {
+      "id": 1295,
+      "name": "Third Republic",
+      "wikidata_id": "Q1259200"
+    }
+  ],
+  "value": {
+    "text": "10 Centavos",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 65,
+      "name": "Escudo",
+      "full_name": "Escudo (1911-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2002-02-28"
+  },
+  "size": 15,
+  "thickness": 1.36,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Marcelino Norte de Almeida"
+    ],
+    "description": "The Portuguese shield: five escutcheons forming a cross.\r\nFive dots within each of the five escutcheons, year of production flanked by two designs.",
+    "lettering": "REPUBLICA PORTVGVESA \r\n1971",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/portugal/3355-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/portugal/3355-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "reverse": {
+    "engravers": [
+      "Marcelino Norte de Almeida"
+    ],
+    "description": "Value above two Olive sprigs, engraver's name to the right.",
+    "lettering": "10\r\nCENTAVOS\r\nM.NORTE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/portugal/3356-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/portugal/3356-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "series": "System 1969-1980",
+  "comments": "The olive fruit/tree (Binomial name: Olea europaea)",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "594"
+    },
+    {
+      "catalogue": {
+        "id": 108,
+        "code": "Gomes"
+      },
+      "number": "R 11"
+    }
+  ],
+  "weight": 0.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/portugal/614c79cb686492.11627966-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/portugal/614c79cb686492.11627966-180.jpg",
+    "picture_copyright": "Walter_Scott"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

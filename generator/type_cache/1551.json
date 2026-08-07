@@ -1,0 +1,129 @@
+{
+  "id": 1551,
+  "url": "https://en.numista.com/1551",
+  "title": "5 Krónur (Magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "islande",
+    "name": "Iceland"
+  },
+  "min_year": 1996,
+  "max_year": 2008,
+  "ruler": [
+    {
+      "id": 1592,
+      "name": "Republic",
+      "wikidata_id": "Q189"
+    }
+  ],
+  "value": {
+    "text": "5 Krónur",
+    "numeric_value": 5,
+    "currency": {
+      "id": 15,
+      "name": "New króna",
+      "full_name": "New króna (1980-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24.5,
+  "thickness": 1.78,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The four traditional protector spirits (\"Landvættir\") of Iceland. These are Griðungur the bull, Gammur the eagle, Dreki the dragon, and Bergrisi the giant.",
+    "lettering": "FIMM KRÓNUR\r\nÍSLAND 1996",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Five Krónur\r\nIceland 1996",
+    "picture": "https://en.numista.com/catalogue/photos/islande/27-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/islande/27-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Face value below two Dolphins (Delphinus delphis)",
+    "lettering": "5 KR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "5 Krónur",
+    "picture": "https://en.numista.com/catalogue/photos/islande/28-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/islande/28-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "<p>Iceland mixed date mint set, including KM#24, KM#25, KM#26a, KM#27a, KM#28a, KM#29.1a, KM#31, KM#35</p><p><a href=\"https://en.numista.com/catalogue/images/686e1c567d17f.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686e1c567d17f.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/686e1c55cd5ee.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686e1c55cd5ee.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/686e1c3b4a0a4.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686e1c3b4a0a4.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/686e1c4435d01.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686e1c4435d01.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/686e1c670fcd8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686e1c670fcd8.jpg\"></a></p><p>@gdch6ng</p><p>&nbsp;</p><p>2000 mint set, including KM#27a, KM#28a, KM#29.1a, KM#31, KM#35</p><p><a href=\"https://en.numista.com/catalogue/images/686e1c4691c9c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686e1c4691c9c.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/686e1c59275f5.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686e1c59275f5.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/686e1c59bbb71.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686e1c59bbb71.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/686e1c5a1fb5c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686e1c5a1fb5c.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/686e1c43e2976.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686e1c43e2976.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/686e1c55085b7.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686e1c55085b7.jpg\"></a></p><p>@gdch6ng</p>",
+  "related_types": [
+    {
+      "id": 6882,
+      "title": "5 Krónur (Non-magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "islande",
+        "name": "Iceland"
+      },
+      "minYear": 1981,
+      "maxYear": 1992
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Cow or bovine",
+    "Fantasy animal",
+    "Marine mammal",
+    "Mythology"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "28a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "31a"
+    },
+    {
+      "catalogue": {
+        "id": 144,
+        "code": "SIEG"
+      },
+      "number": "46.2"
+    }
+  ],
+  "weight": 5.6,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/islande/665e1e6824f8a5.40544950-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/islande/665e1e6824f8a5.40544950-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

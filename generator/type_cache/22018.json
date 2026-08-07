@@ -1,0 +1,100 @@
+{
+  "id": 22018,
+  "url": "https://en.numista.com/22018",
+  "title": "1 Centavo",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "chili",
+    "name": "Chile"
+  },
+  "min_year": 1904,
+  "max_year": 1919,
+  "ruler": [
+    {
+      "id": 3299,
+      "name": "Republic",
+      "wikidata_id": "Q298"
+    }
+  ],
+  "value": {
+    "text": "1 Centavo",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 237,
+      "name": "Peso",
+      "full_name": "Peso (1835-1959)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 20,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Liberty head left",
+    "lettering": "REPUBLICA DE CHILE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Chile",
+    "picture": "https://en.numista.com/catalogue/photos/chili/63443cba602267.81034514-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/63443cba602267.81034514-180.jpg",
+    "picture_copyright": "eze711cba",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Value and the motto \"Economy is wealth\".\r\nDenomination within wreath, date below.",
+    "lettering": "ECONOMIA ES RIQUEZA\r\nUN \r\nCENTAVO\r\nSo\r\n1908",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Economy is Wealth\r\nOne\r\nCent\r\nSo\r\n1919",
+    "picture": "https://en.numista.com/catalogue/photos/chili/63443cbc0c78d4.79830076-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/63443cbc0c78d4.79830076-180.jpg",
+    "picture_copyright": "eze711cba",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "KM 1901-2000 and numismaster.com split KM# KM# 161 into .1 and .2, claiming that 1919 coins are lighter and smaller. But coins from 1919 with a diameter of 20mm weighing 3.5g exist and no 2.5g coins have been found by the Numista community.",
+  "tags": [
+    "Allegory",
+    "Phrygian cap"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "161"
+    }
+  ],
+  "weight": 3.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

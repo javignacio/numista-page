@@ -1,0 +1,182 @@
+{
+  "id": 3300,
+  "url": "https://en.numista.com/3300",
+  "title": "50 Fils",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "irak",
+    "name": "Iraq"
+  },
+  "min_year": 1969,
+  "max_year": 1990,
+  "ruler": [
+    {
+      "id": 3860,
+      "name": "Republic",
+      "wikidata_id": "Q796"
+    }
+  ],
+  "value": {
+    "text": "50 Fils",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 25,
+      "name": "Dinar",
+      "full_name": "Dinar (1931-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 23,
+  "thickness": 1.75,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Value in Arabic in a central circle with lettering, wheat ear and leaf below, lettering above",
+    "lettering": "الجمهورية العراقية\r\n٥٠\r\nً فلسا",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "The Iraqi Republic\r\n50\r\nFils",
+    "picture": "https://en.numista.com/catalogue/photos/irak/680a5740133ac7.61882017-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/irak/680a5740133ac7.61882017-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "reverse": {
+    "engravers": [
+      "Geoffrey Colley"
+    ],
+    "description": "Three palm trees in foreground, row of trees in background both sides, years to the side",
+    "lettering": "١٤٠١ ١٩٨١",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "1981 1401",
+    "picture": "https://en.numista.com/catalogue/photos/irak/680a5740163c46.65363548-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/irak/680a5740163c46.65363548-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "comments": "Years 1969-1980 and 1990 were struck at British Royal Mint, Llantrisant<br />\r\nYear 1981 was struck at Royal Canadian Mint, Winnipeg",
+  "related_types": [
+    {
+      "id": 4180,
+      "title": "5 Fils",
+      "category": "coin",
+      "country": {
+        "code": "irak",
+        "name": "Iraq"
+      },
+      "minYear": 1967,
+      "maxYear": 1971
+    },
+    {
+      "id": 12725,
+      "title": "5 Fils",
+      "category": "coin",
+      "country": {
+        "code": "irak",
+        "name": "Iraq"
+      },
+      "minYear": 1971,
+      "maxYear": 1981
+    },
+    {
+      "id": 7817,
+      "title": "10 Fils",
+      "category": "coin",
+      "country": {
+        "code": "irak",
+        "name": "Iraq"
+      },
+      "minYear": 1967,
+      "maxYear": 1971
+    },
+    {
+      "id": 4660,
+      "title": "10 Fils",
+      "category": "coin",
+      "country": {
+        "code": "irak",
+        "name": "Iraq"
+      },
+      "minYear": 1971,
+      "maxYear": 1981
+    },
+    {
+      "id": 3302,
+      "title": "25 Fils",
+      "category": "coin",
+      "country": {
+        "code": "irak",
+        "name": "Iraq"
+      },
+      "minYear": 1969,
+      "maxYear": 1981
+    },
+    {
+      "id": 4664,
+      "title": "100 Fils",
+      "category": "coin",
+      "country": {
+        "code": "irak",
+        "name": "Iraq"
+      },
+      "minYear": 1970,
+      "maxYear": 1979
+    }
+  ],
+  "tags": [
+    "Tree"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "128"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "34"
+    }
+  ],
+  "weight": 5.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/irak/68657a622e02e3.32231029-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/irak/68657a622e02e3.32231029-180.jpg",
+    "picture_copyright": "bulgarian",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    },
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

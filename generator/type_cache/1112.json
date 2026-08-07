@@ -1,0 +1,142 @@
+{
+  "id": 1112,
+  "url": "https://en.numista.com/1112",
+  "title": "1 Shilling - George VI (Scottish crest; with 'IND:IMP')",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1947,
+  "max_year": 1948,
+  "ruler": [
+    {
+      "id": 274,
+      "name": "George VI",
+      "wikidata_id": "Q280856",
+      "group": {
+        "id": 527,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Shilling",
+    "numeric_value": 0.05,
+    "numerator": 1,
+    "denominator": 20,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1970)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1990-12-31"
+  },
+  "size": 23.5,
+  "thickness": 1.73,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (.750 Cu, .250 Ni)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Thomas Humphrey Paget"
+    ],
+    "description": "Uncrowned portrait of King George VI left, legend around.",
+    "lettering": "GEORGIVS VI D:G:BR:OMN:REX\r\nHP",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Georgius VI Dei Gratia Britanniarum Omnium Rex",
+    "lettering_translation": "George the Sixth by the Grace of God King of all the Britains",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/60ba67181e5e17.52879508-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/60ba67181e5e17.52879508-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "George Kruger Gray"
+    ],
+    "description": "Crowned lion seated atop crown holding sword and sceptre dividing date, shields flank, legend above, denomination below.",
+    "lettering": "FID:DEF·IND:IMP\r\n19 48\r\nK G\r\nONE·SHILLING",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Fidei Defensor Indiae Imperator",
+    "lettering_translation": "Defender of the Faith Emperor of India",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/60ba6718ad4bf4.22285775-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/60ba6718ad4bf4.22285775-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "The original weight of these coins was 2/11 troy ounce (87.3 grains). Under the Coinage Act of 1946, the composition changed from .500 silver to .750 copper/.250 nickel but the weight remained at 87.3 grains.",
+  "related_types": [
+    {
+      "id": 2346,
+      "title": "1 Shilling - George VI (English crest; with 'IND:IMP')",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1947,
+      "maxYear": 1948
+    }
+  ],
+  "tags": [
+    "Cat or feline",
+    "Crown",
+    "Flower",
+    "Coat of Arms",
+    "Cross",
+    "Cold weapons"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "864"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "4104"
+    }
+  ],
+  "weight": 5.66,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/663e3162c4d3a4.65885901-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/663e3162c4d3a4.65885901-180.jpg",
+    "picture_copyright": "Marcin Łysik"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

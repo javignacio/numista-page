@@ -1,0 +1,153 @@
+{
+  "id": 1911,
+  "url": "https://en.numista.com/1911",
+  "title": "5 Reichspfennig",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "allemagne-pre1945",
+    "name": "Germany (1871-1948)"
+  },
+  "min_year": 1936,
+  "max_year": 1939,
+  "ruler": [
+    {
+      "id": 3581,
+      "name": "Third Reich",
+      "wikidata_id": "Q7318"
+    }
+  ],
+  "value": {
+    "text": "5 Pfennigs",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 230,
+      "name": "Reichsmark",
+      "full_name": "Reichsmark (1924-1948)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 18.1,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Hans Herbert Schweitzer",
+      "Franz Paul Krischker"
+    ],
+    "description": "An Eagle on top of a swastika",
+    "lettering": "Deutsches Reich 1939",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "German Reich 1939",
+    "picture": "https://en.numista.com/catalogue/photos/allemagne-pre1945/5066-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/allemagne-pre1945/5066-180.jpg",
+    "picture_copyright": "smy77",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Hans Herbert Schweitzer",
+      "Franz Paul Krischker"
+    ],
+    "description": "Value with oak-leaves below",
+    "lettering": "Reichspfennig\r\n5\r\nD",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/allemagne-pre1945/5067-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/allemagne-pre1945/5067-180.jpg",
+    "picture_copyright": "smy77",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "The Third Reich, meaning &quot;Third Realm&quot; or &quot;Third Empire&quot;, alluded to the Nazis&#039; conceit that Nazi Germany was the successor to the earlier Holy Roman Empire (800–1806) and German Empire (1871–1918).",
+  "tags": [
+    "Bird",
+    "Eagle",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "91"
+    },
+    {
+      "catalogue": {
+        "id": 81,
+        "code": "AKS"
+      },
+      "number": "50"
+    },
+    {
+      "catalogue": {
+        "id": 80,
+        "code": "J"
+      },
+      "number": "363"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "87"
+    }
+  ],
+  "weight": 2.51,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 5,
+      "name": "Berlin"
+    },
+    {
+      "id": 232,
+      "name": "Münze Österreich"
+    },
+    {
+      "id": 1,
+      "name": "Munich"
+    },
+    {
+      "id": 1366,
+      "name": "Muldenhütten"
+    },
+    {
+      "id": 2,
+      "name": "Staatliche Münze Baden-Württemberg"
+    },
+    {
+      "id": 3,
+      "name": "Staatliche Münze Baden-Württemberg"
+    },
+    {
+      "id": 4,
+      "name": "Hamburgische Münze"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

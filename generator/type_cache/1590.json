@@ -1,0 +1,139 @@
+{
+  "id": 1590,
+  "url": "https://en.numista.com/1590",
+  "title": "1 Yen - Shōwa",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "japon",
+    "name": "Japan"
+  },
+  "min_year": 1955,
+  "max_year": 1989,
+  "ruler": [
+    {
+      "id": 335,
+      "name": "Shōwa",
+      "wikidata_id": "Q327567"
+    }
+  ],
+  "value": {
+    "text": "1 Yen",
+    "numeric_value": 1,
+    "currency": {
+      "id": 197,
+      "name": "Yen",
+      "full_name": "Yen (1871-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 20,
+  "thickness": 1.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium (100% Aluminium)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Sprouting bamboo branch in center, authority on top, value and denomination on bottom.",
+    "lettering": "日 本 国\r\n一 円",
+    "lettering_scripts": [
+      {
+        "name": "Chinese (traditional, regular script)"
+      }
+    ],
+    "lettering_translation": "State of Japan.\r\nOne yen.",
+    "picture": "https://en.numista.com/catalogue/photos/japon/5f5bf82ebcbac9.17203884-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/japon/5f5bf82ebcbac9.17203884-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Big value within two inner circles, date below.",
+    "lettering": "1\r\n昭和三十九年",
+    "lettering_scripts": [
+      {
+        "name": "Chinese (traditional, regular script)"
+      }
+    ],
+    "lettering_translation": "Year Thirty-ninth of Shōwa.",
+    "picture": "https://en.numista.com/catalogue/photos/japon/5f5bf82f469b72.76162324-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/japon/5f5bf82f469b72.76162324-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "related_types": [
+    {
+      "id": 983,
+      "title": "1 Yen - Heisei",
+      "category": "coin",
+      "country": {
+        "code": "japon",
+        "name": "Japan"
+      },
+      "minYear": 1989,
+      "maxYear": 2019
+    },
+    {
+      "id": 182978,
+      "title": "1 Yen - Reiwa",
+      "category": "coin",
+      "country": {
+        "code": "japon",
+        "name": "Japan"
+      },
+      "minYear": 2019,
+      "maxYear": 2026
+    }
+  ],
+  "tags": [
+    "Tree"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "74"
+    },
+    {
+      "catalogue": {
+        "id": 3041,
+        "code": "JNDA"
+      },
+      "number": "02-13"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "48"
+    }
+  ],
+  "weight": 1,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain.",
+    "picture": "https://en.numista.com/catalogue/photos/japon/68f033a3159216.59548467-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/japon/68f033a3159216.59548467-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 41,
+      "name": "Japan Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

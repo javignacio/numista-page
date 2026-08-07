@@ -1,0 +1,147 @@
+{
+  "id": 85536,
+  "url": "https://en.numista.com/85536",
+  "title": "100 Pounds - Elizabeth II (3rd portrait; 1 oz Fine Gold)",
+  "object_type": {
+    "id": 3,
+    "name": "Non-circulating coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1987,
+  "max_year": 1989,
+  "ruler": [
+    {
+      "id": 275,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 527,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "100 Pounds",
+    "numeric_value": 100,
+    "currency": {
+      "id": 126,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (decimalized, 1971-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 32.69,
+  "shape": "Round",
+  "composition": {
+    "text": "Gold (.9167) (copper alloy)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Raphael David Maklouf"
+    ],
+    "description": "Third crowned portrait of Queen Elizabeth II right, wearing the George IV State Diadem, legend around.",
+    "lettering": "ELIZABETH'II'DEI'GRATIA'REGINA'F'D\r\nRDM\r\n'100 POUNDS'",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Elizabeth II Dei Gratia Regina Fidei Defensatrix",
+    "lettering_translation": "Elizabeth II by the Grace of God Queen Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/612e15d10e1176.78630069-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/612e15d10e1176.78630069-180.jpg",
+    "picture_copyright": "The Royal Mint, 1987"
+  },
+  "reverse": {
+    "engravers": [
+      "Philip Nathan"
+    ],
+    "description": "Standing figure of Britannia with trident and shield, legend around.",
+    "lettering": "'ONE'OUNCE'FINE' 'GOLD' 'BRITANNIA'1987'\r\nNATHAN",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/612e15d1dbd985.44456663-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/612e15d1dbd985.44456663-180.jpg",
+    "picture_copyright": "The Royal Mint, 1987"
+  },
+  "series": "Gold Britannia",
+  "comments": "1987 introduced the Gold Britannia series, where one Troy ounce of fine gold was alloyed with copper.<br /><br />\r\nThe 1987 strike was issued in the 4-coin Britannia Gold Proof sets, issue limit: 10,000 (10,000 sales), and individually with issue limit: 2,500 (2,486 sales).<br />\r\n<a href=\"https://en.numista.com/catalogue/images/612e12fddc325.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/612e12fddc325.jpg\" alt=\"\" width=\"200\" height=\"172\" /></a><a href=\"https://en.numista.com/catalogue/images/612e14a28520f.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/612e14a28520f.jpg\" alt=\"\" width=\"200\" height=\"238\" /></a><br />\r\n© The Royal Mint, 1987<br /><br />\r\nThe 1988 strike was issued as part of the 4-coin Britannia Gold Proof sets, issue limit: 6,500 (3,305 sales), and individually with issue limit: 2,000 (626 sales).<br />\r\n<a href=\"https://en.numista.com/catalogue/images/612e15278f518.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/612e15278f518.jpg\" alt=\"\" width=\"200\" height=\"147\" /></a><a href=\"https://en.numista.com/catalogue/images/612e1530e3078.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/612e1530e3078.jpg\" alt=\"\" width=\"200\" height=\"248\" /></a><br />\r\n© The Royal Mint, 1988<br /><br />\r\nThe 1989 strike was issued as part of the 4-coin Britannia Gold Proof sets, issue limit: 2,500 (2,268 sales), and individually with issue limit: 1,000 (328 sales).<br />\r\n<a href=\"https://en.numista.com/catalogue/images/612e157281d09.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/612e157281d09.jpg\" alt=\"\" width=\"199\" height=\"146\" /></a><br />\r\n© The Royal Mint, 1989<br /><br />\r\nNote: Proof strikes have initials P.NATHAN and a frosted effect while Bullion strikes have initials NATHAN",
+  "related_types": [
+    {
+      "id": 14362,
+      "title": "10 Pounds - Elizabeth II (3rd portrait; 1/10 oz Fine Gold)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1987,
+      "maxYear": 1989
+    },
+    {
+      "id": 97388,
+      "title": "25 Pounds - Elizabeth II (3rd portrait; 1/4 oz Fine Gold)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1987,
+      "maxYear": 1989
+    },
+    {
+      "id": 97386,
+      "title": "50 Pounds - Elizabeth II (3rd portrait; 1/2 oz Fine Gold)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1987,
+      "maxYear": 1989
+    }
+  ],
+  "tags": [
+    "Armour"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "953"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "BGF1"
+    }
+  ],
+  "weight": 34.05,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Non-circulating coins"
+}

@@ -1,0 +1,148 @@
+{
+  "id": 2284,
+  "url": "https://en.numista.com/2284",
+  "title": "10 Cents - Elizabeth II (1st portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "oeco",
+    "name": "Eastern Caribbean States"
+  },
+  "min_year": 1955,
+  "max_year": 1965,
+  "ruler": [
+    {
+      "id": 1089,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 810,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Cents",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 262,
+      "name": "British West Indies dollar",
+      "full_name": "British West Indies dollar (1935-1965)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 18.01,
+  "thickness": 1.35,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Cecil Thomas"
+    ],
+    "description": "Portrait of Queen Elizabeth II to the right",
+    "lettering": "QUEEN ELIZABETH THE SECOND\r\nCT",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/oeco/5efe282ca3d4a4.89740311-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/oeco/5efe282ca3d4a4.89740311-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Thomas Humphrey Paget"
+    ],
+    "description": "The \"Golden Hind\", ship of Sir Francis Drake (1542-1596), corsair and English explorer",
+    "lettering": "BRITISH CARIBBEAN TERRITORIES\r\nTEN CENTS\r\n10 10\r\n1965\r\n· EASTERN GROUP ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/oeco/5efe282cebfee5.26726799-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/oeco/5efe282cebfee5.26726799-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "related_types": [
+    {
+      "id": 932,
+      "title": "10 Cents - Elizabeth II (2nd portrait)",
+      "category": "coin",
+      "country": {
+        "code": "oeco",
+        "name": "Eastern Caribbean States"
+      },
+      "minYear": 1981,
+      "maxYear": 2000
+    },
+    {
+      "id": 5712,
+      "title": "10 Cents - Elizabeth II (4th portrait)",
+      "category": "coin",
+      "country": {
+        "code": "oeco",
+        "name": "Eastern Caribbean States"
+      },
+      "minYear": 2002,
+      "maxYear": 2007
+    },
+    {
+      "id": 31888,
+      "title": "10 Cents - Elizabeth II (4th portrait)",
+      "category": "coin",
+      "country": {
+        "code": "oeco",
+        "name": "Eastern Caribbean States"
+      },
+      "minYear": 2009,
+      "maxYear": 2022
+    }
+  ],
+  "tags": [
+    "Boat or watercraft"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "5"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "5"
+    }
+  ],
+  "weight": 2.59,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

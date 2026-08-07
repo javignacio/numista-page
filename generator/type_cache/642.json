@@ -1,0 +1,141 @@
+{
+  "id": 642,
+  "url": "https://en.numista.com/642",
+  "title": "¼ Dollar \"Washington Quarter\" (North Dakota)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "etats-unis",
+    "name": "United States"
+  },
+  "min_year": 2006,
+  "max_year": 2006,
+  "ruler": [
+    {
+      "id": 4720,
+      "name": "Federal republic",
+      "wikidata_id": "Q30"
+    }
+  ],
+  "value": {
+    "text": "¼ Dollar ",
+    "numeric_value": 0.25,
+    "numerator": 1,
+    "denominator": 4,
+    "currency": {
+      "id": 59,
+      "name": "Dollar",
+      "full_name": "Dollar (1785-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24.26,
+  "thickness": 1.75,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel clad copper"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "John Flanagan",
+      "William Cousins"
+    ],
+    "description": "The portrait in left profile of George Washington, the first President of the United Stats from 1789 to 1797, is accompanied with the motto \"IN GOD WE TRUST\" and the lettering \"LIBERTY\" and it is surrounded with the face value and the inscription \"UNITED STATES OF AMERICA\"",
+    "lettering": "UNITED STATES OF AMERICA\r\nIN\r\nGOD WE\r\nTRUST\r\nLIBERTY  S\r\nJF  WC\r\nQUARTER DOLLAR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/65bd55f3e2bee0.05512095-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/65bd55f3e2bee0.05512095-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Donna Weaver",
+      "Stephen Clark"
+    ],
+    "description": "A pair of grazing American bison in the foreground, a sunset view of the rugged buttes and canyons that symbolize the State’s Badlands region.",
+    "lettering": "NORTH DAKOTA\r\n1889\r\nDW\r\n2006\r\nE PLURIBUS UNUM",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "North Dakota\r\n1889\r\nDW\r\n2006\r\nOut of Many, One",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/65bd55f50b4b14.40780313-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/65bd55f50b4b14.40780313-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "series": "United States Mint's 50 State Quarters Program",
+  "commemorated_topic": "North Dakota",
+  "related_types": [
+    {
+      "id": 14885,
+      "title": "¼ Dollar \"Washington Quarter\" (North Dakota - Silver Proof)",
+      "category": "coin",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 2006,
+      "maxYear": 2006
+    }
+  ],
+  "tags": [
+    "Cow or bovine",
+    "Sun"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "385"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "385"
+    }
+  ],
+  "weight": 5.67,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/3202-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/3202-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 10,
+      "name": "United States Mint of Denver"
+    },
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    },
+    {
+      "id": 12,
+      "name": "United States Mint of San Francisco"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

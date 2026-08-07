@@ -1,0 +1,113 @@
+{
+  "id": 2152,
+  "url": "https://en.numista.com/2152",
+  "title": "10 Korun",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "republique_tcheque",
+    "name": "Czech Republic"
+  },
+  "min_year": 1993,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 1309,
+      "name": "Republic",
+      "wikidata_id": "Q213"
+    }
+  ],
+  "value": {
+    "text": "10 Korun",
+    "numeric_value": 10,
+    "currency": {
+      "id": 19,
+      "name": "Koruna",
+      "full_name": "Koruna (1993-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24.5,
+  "thickness": 2.55,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Ladislav Kozák"
+    ],
+    "description": "Crowned Czech lion, year of production, mintmark.",
+    "lettering": "ČESKÁ REPUBLIKA\r\n·2016·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "CZECH REPUBLIC\r\n·2016·",
+    "picture": "https://en.numista.com/catalogue/photos/republique_tcheque/563-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/republique_tcheque/563-180.jpg",
+    "picture_copyright": "Mihajlo Nešić (MihajloNesic)"
+  },
+  "reverse": {
+    "engravers": [
+      "Ladislav Kozák"
+    ],
+    "description": "Cathedral of Saints Peter and Paul on Petrov hill in Brno, value, engraver's mark.\r\n\r\nThe engraver's mark \"LK\" can be at different positions, see Comments below.",
+    "lettering": "BRNO\r\nKČ 10 LK",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/republique_tcheque/564-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/republique_tcheque/564-180.jpg",
+    "picture_copyright": "Mihajlo Nešić (MihajloNesic)"
+  },
+  "comments": "<p>Different mintmarks (castle = (HM), Hamburg Mint, crowned \"b\" or \"CM\" monogram = Bizuterie Jablonec Czech Mint).<br><br><i>Obverse</i><br>Die <strong>1</strong> - script finer.<br>Die <strong>2</strong> - script slightly bolder, lion with deep engravings, another shape of the tail ends.<br><br>In 1994 two types of die <strong>1</strong> are known: of bright metal (on the photo at the left, mintage at least 30000 pcs included in 1993) and on dark metal (on the photo at the right).<br><a href=\"https://en.numista.com/catalogue/images/56daa3c23110b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/56daa3c23110b.jpg\" alt=\"\"></a><br><br><i>Reverse</i><br>Small \"KČ\" 1993 was a trial strike that got into circulation.<br><a href=\"https://en.numista.com/catalogue/images/5e78ca26720d3.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e78ca26720d3.jpg\" alt=\"\"></a><br><br>Two groups of dies are known: 1993 - 1995 have monogram \"LK\" right from 0 (the first group) and since 1995 monogram was moved under denomination (the second group).<br><a href=\"https://en.numista.com/catalogue/images/56daa398348f2.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/56daa398348f2.jpg\" alt=\"\"></a><br><br>Two dies are known in the second group:<br><br>Die A - windows under triangle roof with round tops, engraver's initials narrow.<br>Die B - windows under triangle roof with elongated tops, engraver's initials wide, all details with strengthened outline.<br><br><i>Edge</i><br>In 1996 there were two types of edge: mechanical (on the photo top) and electrical discharge machining (on the photo bottom)<br><a href=\"https://en.numista.com/catalogue/images/56daa3d8a87bf.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/56daa3d8a87bf.jpg\" alt=\"\"></a><br><br><i>Combinations</i><br><strong>1</strong>: 1993 both Reverse, 1994 both Obverse, 1994 MS, 1995 L·K at right,<br><strong>1</strong>+<strong>A</strong>: 1995 L·K at bottom, 1996 edm, 1996 me, 1996 MS, 1997 MS.<br>Sample photos of 1996 edm<br><a href=\"https://en.numista.com/catalogue/images/612ff121d328e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/612ff121d328e.jpg\" alt=\"\"></a><br><br><strong>2</strong>: 2000 Millennium<br><strong>2</strong>+<strong>B</strong>: 1999 MS (NATO-50), 2002 MS, 2003, 2003 PS, 2004, 2004 MS, 2006 PS, 2008, 2009, 2010, 2011 MS, 2012 MS, 2012 PS, 2013, 2014, 2014 MS, 2015, 2016, 2017, 2017 MS, 2018, 2018 MS, 2019, 2021, 2021 MS.<br>Sample photos of 2003<br><a href=\"https://en.numista.com/catalogue/images/612ff13f33695.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/612ff13f33695.jpg\" alt=\"\"></a><br><br><i>Abbreviations&nbsp;</i><br>MS - mint set, PS - proof set,<br>edm -electrical discharge machining edge, me - mechanical edge.<br><br><br>Brass 1993 trial strike exist - 8.72 g.</p>",
+  "tags": [
+    "Religious building"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "4"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "178"
+    }
+  ],
+  "weight": 7.62,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded (144 reeds)",
+    "picture": "https://en.numista.com/catalogue/photos/republique_tcheque/615b5d34bd3d64.95470295-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/republique_tcheque/615b5d34bd3d64.95470295-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 30,
+      "name": "Czech Mint"
+    },
+    {
+      "id": 4,
+      "name": "Hamburgische Münze"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

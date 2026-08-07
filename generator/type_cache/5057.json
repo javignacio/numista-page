@@ -1,0 +1,106 @@
+{
+  "id": 5057,
+  "url": "https://en.numista.com/5057",
+  "title": "5 Markkaa",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "finlande",
+    "name": "Finland"
+  },
+  "min_year": 1953,
+  "max_year": 1962,
+  "ruler": [
+    {
+      "id": 3291,
+      "name": "Republic",
+      "wikidata_id": "Q33"
+    }
+  ],
+  "value": {
+    "text": "5 Markkaa",
+    "numeric_value": 5,
+    "currency": {
+      "id": 1156,
+      "name": "Markka",
+      "full_name": "Markka (1860-1963)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 18,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated iron"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Peippo Uolevi Helle"
+    ],
+    "description": "Four joined loops form design, date below.",
+    "lettering": "SUOMEN TASAVALTA\r\n• 1958 •",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic Of Finland",
+    "picture": "https://en.numista.com/catalogue/photos/finlande/615032722beeb7.09140977-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/615032722beeb7.09140977-180.jpg",
+    "picture_copyright": "Zlatko Viščević"
+  },
+  "reverse": {
+    "engravers": [
+      "Peippo Uolevi Helle"
+    ],
+    "description": "Grasped hands flank denomination.",
+    "lettering": "5 \r\nMARKKAA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/finlande/61503272799742.01514464-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/61503272799742.01514464-180.jpg",
+    "picture_copyright": "Zlatko Viščević"
+  },
+  "tags": [
+    "Hand"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "37a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "40a"
+    }
+  ],
+  "weight": 2.55,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 1333,
+      "name": "Mint of Finland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

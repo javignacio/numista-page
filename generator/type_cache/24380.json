@@ -1,0 +1,100 @@
+{
+  "id": 24380,
+  "url": "https://en.numista.com/24380",
+  "title": "1 Øre - Haakon VII",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "norvege",
+    "name": "Norway"
+  },
+  "min_year": 1906,
+  "max_year": 1907,
+  "ruler": [
+    {
+      "id": 449,
+      "name": "Haakon VII",
+      "wikidata_id": "Q154927",
+      "group": {
+        "id": 358,
+        "name": "House of Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Øre",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 16,
+      "name": "Krone",
+      "full_name": "Krone (1875-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 16,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze (Cu 95%, Sn 4%, Zn 1%)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Crowned rectangular shield with a crowned norwegian lion holding a halberd and facing left with vertical lines in the background, inside the shield. Another crowned norwegian lion holding a halberd and facing left on top. Inscription divided by shield. Solid ring on the rim.",
+    "lettering": "H VII",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Haakon VII",
+    "picture": "https://en.numista.com/catalogue/photos/norvege/790-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/790-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "reverse": {
+    "description": "Value in two lines, surrounded by wreath. Date divided by mintmark below the wreath. Solid ring on the rim.",
+    "lettering": "ØRE\r\n1\r\n19 ⚒ 06",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/norvege/791-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/791-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "361"
+    },
+    {
+      "catalogue": {
+        "id": 201,
+        "code": "Rønning"
+      },
+      "number": "262"
+    }
+  ],
+  "weight": 2,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain."
+  },
+  "mints": [
+    {
+      "id": 1888,
+      "name": "Norwegian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

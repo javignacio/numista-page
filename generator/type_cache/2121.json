@@ -1,0 +1,135 @@
+{
+  "id": 2121,
+  "url": "https://en.numista.com/2121",
+  "title": "100 Yen - Heisei",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "japon",
+    "name": "Japan"
+  },
+  "min_year": 1989,
+  "max_year": 2019,
+  "ruler": [
+    {
+      "id": 336,
+      "name": "Heisei",
+      "wikidata_id": "Q234510"
+    }
+  ],
+  "value": {
+    "text": "100 Yen",
+    "numeric_value": 100,
+    "currency": {
+      "id": 197,
+      "name": "Yen",
+      "full_name": "Yen (1871-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 22.6,
+  "thickness": 1.69,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Cherry blossoms, authority above, value below",
+    "lettering": "日 本 国\r\n百 円",
+    "lettering_scripts": [
+      {
+        "name": "Chinese"
+      }
+    ],
+    "lettering_translation": "State of Japan\r\n100 yen",
+    "picture": "https://en.numista.com/catalogue/photos/japon/1081-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/japon/1081-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "reverse": {
+    "description": "Large value in center, date below",
+    "lettering": "100\r\n平 成 9 年",
+    "lettering_scripts": [
+      {
+        "name": "Chinese"
+      }
+    ],
+    "lettering_translation": "Year 9 of Heisei",
+    "picture": "https://en.numista.com/catalogue/photos/japon/1082-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/japon/1082-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "related_types": [
+    {
+      "id": 1589,
+      "title": "100 Yen - Shōwa",
+      "category": "coin",
+      "country": {
+        "code": "japon",
+        "name": "Japan"
+      },
+      "minYear": 1967,
+      "maxYear": 1988
+    },
+    {
+      "id": 173796,
+      "title": "100 Yen - Reiwa",
+      "category": "coin",
+      "country": {
+        "code": "japon",
+        "name": "Japan"
+      },
+      "minYear": 2019,
+      "maxYear": 2026
+    }
+  ],
+  "tags": [
+    "Flower"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "98"
+    },
+    {
+      "catalogue": {
+        "id": 3041,
+        "code": "JNDA"
+      },
+      "number": "02-4"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "76"
+    }
+  ],
+  "weight": 4.8,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/japon/1906-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/japon/1906-180.jpg",
+    "picture_copyright": "Saber82"
+  },
+  "mints": [
+    {
+      "id": 41,
+      "name": "Japan Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

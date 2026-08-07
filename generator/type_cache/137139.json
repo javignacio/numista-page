@@ -1,0 +1,103 @@
+{
+  "id": 137139,
+  "url": "https://en.numista.com/137139",
+  "title": "1 Bolívar",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "venezuela",
+    "name": "Venezuela"
+  },
+  "min_year": 2018,
+  "max_year": 2018,
+  "ruler": [
+    {
+      "id": 4707,
+      "name": "Bolivarian Republic",
+      "wikidata_id": "Q717"
+    }
+  ],
+  "value": {
+    "text": "1 Bolivar",
+    "numeric_value": 1,
+    "currency": {
+      "id": 7373,
+      "name": "Bolivar Soberano",
+      "full_name": "Bolivar Soberano (2018-2021)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 24,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: nickel plated steel centre in brass plated steel ring"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms, at left of value",
+    "lettering": "REPUBLICA BOLIVARIANA DE VENEZUELA\r\n1 BOLIVAR\r\n2018",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Bolivarian Republic of Venezuela",
+    "picture": "https://en.numista.com/catalogue/photos/venezuela/798-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/venezuela/798-180.jpg",
+    "picture_copyright": "Alema66"
+  },
+  "reverse": {
+    "description": "Bolivar head facing left",
+    "lettering": "BOLIVAR\r\nBARRE\r\nLIBERTADOR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/venezuela/797-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/venezuela/797-180.jpg",
+    "picture_copyright": "Alema66"
+  },
+  "tags": [
+    "Horse or equine",
+    "Military leader",
+    "Politician",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "108"
+    },
+    {
+      "catalogue": {
+        "id": 2068,
+        "code": "NCV"
+      },
+      "number": "mv1bss-aa01"
+    }
+  ],
+  "weight": 8.08,
+  "orientation": "coin",
+  "edge": {
+    "description": "Lettering alterned up and down",
+    "lettering": "BCV 1"
+  },
+  "mints": [
+    {
+      "id": 4182,
+      "name": "Casa de la Moneda de Venezuela"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,181 @@
+{
+  "id": 1,
+  "url": "https://en.numista.com/1",
+  "title": "1 Centime (5th republic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "france",
+    "name": "France"
+  },
+  "min_year": 1962,
+  "max_year": 2001,
+  "ruler": [
+    {
+      "id": 11,
+      "name": "Fifth Republic",
+      "wikidata_id": "Q200686",
+      "group": {
+        "id": 89,
+        "name": "Modern France"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Centime",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 77,
+      "name": "New franc",
+      "full_name": "New franc (1960-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2005-02-17"
+  },
+  "size": 15,
+  "thickness": 1.45,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Marcel Guilleminet"
+    ],
+    "description": "An ear of wheat is surrounded with the cursive lettering: \"république française\" (French Republic).\r\nSome pieces have a rim (an outgrowth of metal) at the bottom of the the high curve on the right leaf of the ear.\r\nA.G.M.M. (Gravure des Monnaies et Médailles) mark at 6h25.",
+    "lettering": "république française",
+    "lettering_scripts": [
+      {
+        "name": "Latin (cursive)"
+      }
+    ],
+    "lettering_translation": "french republic",
+    "picture": "https://en.numista.com/catalogue/photos/france/11234-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/11234-180.jpg",
+    "picture_copyright": "Subli37",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "Marcel Guilleminet"
+    ],
+    "description": "The number \"1\" is surrounded with date and the cursive lettering: \"centime\".",
+    "lettering": "1985\r\n1\r\ncentime",
+    "lettering_scripts": [
+      {
+        "name": "Latin (cursive)"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/france/11235-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/11235-180.jpg",
+    "picture_copyright": "Subli37",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "series": "1 centime épi",
+  "comments": "<p><u>Different privy marks throughout mintages :</u><br>Owl 1958-1974 Raymond Joly<br>Dolphin 1975-1993 Emile Rousseau<br>Bee 1994-2000 Pierre Rodier<br>Horseshoe 2001 Gérard Buquoy<br><br><a href=\"https://en.numista.com/catalogue/images/5be05bd097af5.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5be05bd097af5.jpg\" alt=\"\"></a><br>The ledge results from a break, caused by a physical phenomenon associating the hardness of the stainless steel blank, the positioning of the right leaf of the cob and the depth of the engraving, all of which makes the resistance of the monetary die fragile at this level. The position of the leaf blocking the radiant thrust during the crushing of the metal and its displacement during the striking leads to rapid deterioration of the tools. This is the reason why for each year there are pieces without break at the beginning of the use of the die and pieces with break during the striking process. It is therefore not different dies but a simple manufacturing defect<br>Source: Le Franc 2019, p. 1022<br><br><a href=\"https://en.numista.com/catalogue/images/5c374b8c2e667.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5c374b8c2e667.jpg\" alt=\"\"></a><br>Trial strike<br><a href=\"https://en.numista.com/catalogue/images/5ca84752afaec.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5ca84752afaec.jpg\" alt=\"\"></a><br>Eagle68</p><p><a href=\"https://en.numista.com/catalogue/images/694824074e601.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/694824074e601.jpg\"></a></p>",
+  "related_types": [
+    {
+      "id": 126103,
+      "title": "1 Centime (5th republic, gold pattern)",
+      "category": "coin",
+      "country": {
+        "code": "france",
+        "name": "France"
+      },
+      "minYear": 1962,
+      "maxYear": 1992
+    },
+    {
+      "id": 78629,
+      "title": "1 Centime (5th republic, silver pattern)",
+      "category": "coin",
+      "country": {
+        "code": "france",
+        "name": "France"
+      },
+      "minYear": 1962,
+      "maxYear": 1992
+    },
+    {
+      "id": 55117,
+      "title": "1 Centime (5th republic, Gold)",
+      "category": "coin",
+      "country": {
+        "code": "france",
+        "name": "France"
+      },
+      "minYear": 2000,
+      "maxYear": 2001
+    },
+    {
+      "id": 14692,
+      "title": "2 Centimes (5th republic, pattern)",
+      "category": "coin",
+      "country": {
+        "code": "france",
+        "name": "France"
+      },
+      "minYear": 1960,
+      "maxYear": 1961
+    },
+    {
+      "id": 689,
+      "title": "5 Centimes (5th republic)",
+      "category": "coin",
+      "country": {
+        "code": "france",
+        "name": "France"
+      },
+      "minYear": 1960,
+      "maxYear": 1964
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 109,
+        "code": "Gad 1789"
+      },
+      "number": "91 / 91b"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "225"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "928"
+    }
+  ],
+  "weight": 1.65,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/france/696141d1474d70.67695133-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/696141d1474d70.67695133-180.jpg",
+    "picture_copyright": "ADRIARTH"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

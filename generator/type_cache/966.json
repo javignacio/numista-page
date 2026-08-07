@@ -1,0 +1,123 @@
+{
+  "id": 966,
+  "url": "https://en.numista.com/966",
+  "title": "1 New Dollar",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "taiwan",
+    "name": "Taiwan"
+  },
+  "min_year": 1981,
+  "max_year": 2023,
+  "ruler": [
+    {
+      "id": 5351,
+      "name": "Republic",
+      "wikidata_id": "Q865"
+    }
+  ],
+  "value": {
+    "text": "1 Yuan",
+    "numeric_value": 1,
+    "currency": {
+      "id": 57,
+      "name": "New dollar",
+      "full_name": "New dollar (1949-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 20,
+  "thickness": 1.57,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-aluminium-nickel (92% Copper, 6% Nickel, 2% Aluminium)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Chiang Kai-shek bust left, date above",
+    "lettering": "年十七國民華中",
+    "lettering_scripts": [
+      {
+        "name": "Chinese (traditional, regular script)"
+      }
+    ],
+    "lettering_translation": "Republic of China Year 70",
+    "picture": "https://en.numista.com/catalogue/photos/taiwan/371-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/taiwan/371-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "reverse": {
+    "description": "Denomination",
+    "lettering": "圓壹 \r\n1",
+    "lettering_scripts": [
+      {
+        "name": "Chinese (traditional, regular script)"
+      }
+    ],
+    "lettering_translation": "One Dollar",
+    "picture": "https://en.numista.com/catalogue/photos/taiwan/372-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/taiwan/372-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "related_types": [
+    {
+      "id": 1274,
+      "title": "1 New Dollar",
+      "category": "coin",
+      "country": {
+        "code": "taiwan",
+        "name": "Taiwan"
+      },
+      "minYear": 1960,
+      "maxYear": 1980
+    }
+  ],
+  "tags": [
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "551"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "21"
+    }
+  ],
+  "weight": 3.8,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/taiwan/60ce42785d85f7.92641519-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/taiwan/60ce42785d85f7.92641519-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 4724,
+      "name": "Central Mint of Taiwan"
+    },
+    {
+      "id": 1299,
+      "name": "Korea Minting and Security Printing Corporation"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,124 @@
+{
+  "id": 189633,
+  "url": "https://en.numista.com/189633",
+  "title": "¼ Dollar \"Washington Quarter\" (Salt River Bay National Historical Park and Ecological Preserve, U.S. Virgin Islands)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "etats-unis",
+    "name": "United States"
+  },
+  "min_year": 2020,
+  "max_year": 2020,
+  "ruler": [
+    {
+      "id": 4720,
+      "name": "Federal republic",
+      "wikidata_id": "Q30"
+    }
+  ],
+  "value": {
+    "text": "¼ Dollar ",
+    "numeric_value": 0.25,
+    "numerator": 1,
+    "denominator": 4,
+    "currency": {
+      "id": 59,
+      "name": "Dollar",
+      "full_name": "Dollar (1785-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24.26,
+  "thickness": 1.75,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel clad copper"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "John Flanagan",
+      "William Cousins"
+    ],
+    "description": "The portrait in left profile of George Washington, the first President of the United States from 1789 to 1797.",
+    "lettering": "UNITED STATES OF AMERICA\r\nIN\r\nGOD WE\r\nTRUST\r\nLIBERTY P\r\nJF WC\r\nQUARTER DOLLAR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/68f2d4271b66b2.84883368-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/68f2d4271b66b2.84883368-180.jpg",
+    "picture_copyright": "shoebox911",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Joseph Francis Menna"
+    ],
+    "designers": [
+      "Richard Masters"
+    ],
+    "description": "The reverse design depicts a red mangrove tree in an early stage of its life cycle, as it evolves from a very small plant to an adult tree. The design brings awareness to the park’s endangered mangrove forests and the unique and delicate nature of how the species reproduces in salt water.",
+    "lettering": "SALT RIVER BAY\r\nU.S. VIRGIN ISLANDS\r\n2020\r\nE PLURIBUS UNUM\r\nRaM\r\nJFM",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/68f2d428167ec9.02820428-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/68f2d428167ec9.02820428-180.jpg",
+    "picture_copyright": "shoebox911",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "series": "United States Mint's \"America the Beautiful\" Quarters Program",
+  "commemorated_topic": "Salt River Bay National Historical Park and Ecological Preserve, U.S. Virgin Islands",
+  "comments": "Salt River Bay National Historical Park and Ecological Preserve is a living museum on St. Croix, U.S. Virgin Islands. It possesses an archeological and historical heritage more than 2,000 years old that exists within a dynamic ecosystem, which supports threatened and endangered species. In 1992, Congress created Salt River Bay as part of the National Park System to preserve, protect, and tell the story of its rich contributions to the nation’s natural and cultural heritage.<br /><br />\r\n2020-W America the Beautiful quarter dollars were issued with an obverse privy mark paying homage to the 75th anniversary of American involvement at the end of World War II.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5e27fec7beec5.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e27fec7beec5.jpg\" alt=\"\" width=\"200\" height=\"201\" /></a>",
+  "tags": [
+    "Park",
+    "Tree"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "721"
+    }
+  ],
+  "weight": 5.67,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 10,
+      "name": "United States Mint of Denver"
+    },
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    },
+    {
+      "id": 12,
+      "name": "United States Mint of San Francisco"
+    },
+    {
+      "id": 13,
+      "name": "United States Mint of West Point"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

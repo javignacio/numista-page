@@ -1,0 +1,128 @@
+{
+  "id": 6882,
+  "url": "https://en.numista.com/6882",
+  "title": "5 Krónur (Non-magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "islande",
+    "name": "Iceland"
+  },
+  "min_year": 1981,
+  "max_year": 1992,
+  "ruler": [
+    {
+      "id": 1592,
+      "name": "Republic",
+      "wikidata_id": "Q189"
+    }
+  ],
+  "value": {
+    "text": "5 Krónur",
+    "numeric_value": 5,
+    "currency": {
+      "id": 15,
+      "name": "New króna",
+      "full_name": "New króna (1980-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24.5,
+  "thickness": 1.83,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The four traditional protector spirits (\"Landvættir\") of Iceland. These are Griðungur the bull, Gammur the eagle, Dreki the dragon, and Bergrisi the giant.",
+    "lettering": "FIMM KRÓNUR\r\nÍSLAND 1992",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Five Krónur, Iceland",
+    "picture": "https://en.numista.com/catalogue/photos/islande/167-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/islande/167-180.jpg",
+    "picture_copyright": "gef"
+  },
+  "reverse": {
+    "description": "Face value below two Dolphins (Delphinus delphis).",
+    "lettering": "5 KR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "5 Krónur",
+    "picture": "https://en.numista.com/catalogue/photos/islande/168-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/islande/168-180.jpg",
+    "picture_copyright": "gef"
+  },
+  "related_types": [
+    {
+      "id": 1551,
+      "title": "5 Krónur (Magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "islande",
+        "name": "Iceland"
+      },
+      "minYear": 1996,
+      "maxYear": 2008
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Cow or bovine",
+    "Fantasy animal",
+    "Marine mammal",
+    "Mythology"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "28"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "31"
+    },
+    {
+      "catalogue": {
+        "id": 144,
+        "code": "SIEG"
+      },
+      "number": "46.1"
+    }
+  ],
+  "weight": 6.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/islande/62a7a407437524.32901505-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/islande/62a7a407437524.32901505-180.jpg",
+    "picture_copyright": "felixs"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

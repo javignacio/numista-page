@@ -1,0 +1,116 @@
+{
+  "id": 4341,
+  "url": "https://en.numista.com/4341",
+  "title": "1 Córdoba",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "nicaragua",
+    "name": "Nicaragua"
+  },
+  "issuing_entity": {
+    "id": 863,
+    "name": "Central Bank of Nicaragua",
+    "wikidata_id": "Q4504274"
+  },
+  "min_year": 1972,
+  "max_year": 1972,
+  "ruler": [
+    {
+      "id": 4284,
+      "name": "Republic",
+      "wikidata_id": "Q811"
+    }
+  ],
+  "value": {
+    "text": "1 Córdoba",
+    "numeric_value": 1,
+    "currency": {
+      "id": 3148,
+      "name": "First Córdoba",
+      "full_name": "First Córdoba (1912-1987)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1988-02-15"
+  },
+  "size": 29,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Bust Francisco Hernández de Córdoba facing, legend at top and date at bottom.",
+    "lettering": "REPUBLICA DE NICARAGUA \r\n1972",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Nicaragua",
+    "picture": "https://en.numista.com/catalogue/photos/nicaragua/60227a0f510385.27463138-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nicaragua/60227a0f510385.27463138-180.jpg",
+    "picture_copyright": "aaronmgd 2019",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Five volcanoes in a row with radiant sun behind, motto at top and value at bottom.",
+    "lettering": "EN DIOS CONFIAMOS\r\nUN CORDOBA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "In God we trust\r\nOne Cordoba",
+    "picture": "https://en.numista.com/catalogue/photos/nicaragua/60227a0f9cb241.68286030-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nicaragua/60227a0f9cb241.68286030-180.jpg",
+    "picture_copyright": "aaronmgd 2019",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "series": "1972 Series",
+  "comments": "<p>Issued in case with COA:</p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/69731778b65a8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/69731778b65a8.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/697317797e226.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/697317797e226.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/6973177914cd5.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6973177914cd5.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/697317787ab1e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/697317787ab1e.jpg\"></a></p>",
+  "tags": [
+    "Explorer",
+    "Mountain"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "26"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "25"
+    }
+  ],
+  "weight": 9.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/nicaragua/69571da5ed9502.17933518-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nicaragua/69571da5ed9502.17933518-180.jpg",
+    "picture_copyright": "Dieter83"
+  },
+  "mints": [
+    {
+      "id": 3,
+      "name": "State Mint of Karlsruhe / State Mints of Baden-Württemberg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

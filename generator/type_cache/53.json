@@ -1,0 +1,179 @@
+{
+  "id": 53,
+  "url": "https://en.numista.com/53",
+  "title": "1 Dime \"Roosevelt Dime\"",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "etats-unis",
+    "name": "United States"
+  },
+  "min_year": 1965,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 4720,
+      "name": "Federal republic",
+      "wikidata_id": "Q30"
+    }
+  ],
+  "value": {
+    "text": "1 Dime ",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 59,
+      "name": "Dollar",
+      "full_name": "Dollar (1785-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 17.91,
+  "thickness": 1.35,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel clad copper (91.67% Copper, 8.33% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "John R. Sinnock"
+    ],
+    "designers": [
+      "John R. Sinnock"
+    ],
+    "description": "The portrait of Franklin D. Roosevelt facing left, the 32nd President of the United States from 1933 to his death in 1945, accompanied by the motto: \"IN GOD WE TRUST\" and surrounded with the lettering \"LIBERTY\".",
+    "lettering": "LIBERTY \r\nIN GOD WE TRUST \r\n2017 P\r\nJS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/65d617cd00a8c7.08505494-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/65d617cd00a8c7.08505494-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "John R. Sinnock"
+    ],
+    "designers": [
+      "John R. Sinnock"
+    ],
+    "description": "Ahead of the motto \"E • PLU RIB US • U NUM\", an olive branch, a torch, and an oak branch symbolize respectively peace, liberty, and victory and are surrounded with the face value and the lettering \"UNITED STATES OF AMERICA\"",
+    "lettering": "E • PLURIBUS • UNUM  \r\nUNITED STATES OF AMERICA \r\n• ONE DIME •",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Out of Many, One",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/65d617ce98bea5.74831487-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/65d617ce98bea5.74831487-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "The standard weight of this coin is 35 grains.<br /><br />\r\nMintmark varieties:<br />\r\n1) No mintmark (1965-1979)<br />\r\n2) &quot;P&quot; on obverse (1980-date)<br />\r\n3) &quot;D&quot; on obverse (1968-date)<br />\r\n4) &quot;S&quot; on obverse (Proof Issues, 1968-date)<br />\r\n5) San Francisco without a mintmark (1968, 1970, 1975, 1983)<br />\r\n6) &quot;W&quot; on obverse, 1996 (Mint sets only)<br />\r\nType II Proofs have a clearer mintmark than Type I Proofs.<br /><br />\r\n1979S proof<br />\r\n<a href=\"https://en.numista.com/catalogue/images/63838df7ccf19.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/63838df7ccf19.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\n1981S proof<br />\r\n<a href=\"https://en.numista.com/catalogue/images/63838e0c53acf.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/63838e0c53acf.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\n1982 weak / strong strikes - mint marks / none<br />\r\n<a href=\"https://en.numista.com/catalogue/images/63838ea3ed284.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/63838ea3ed284.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nThis design was adopted for the American Dime in 1946, one year after Franklin D. Roosevelt&#039;s death. It was minted in 90% silver from 1946 to 1964, until the United States removed silver from nearly all circulation coins starting in 1965. Since 1965, the design has remained relatively unchanged, meaning that the Roosevelt Dime is currently the oldest coin with consistent design, weight, and composition in current American production.<br /><br />\r\nFrom 1965 to 1967, these coins were minted in Philadelphia and Denver without a mintmark.",
+  "related_types": [
+    {
+      "id": 52,
+      "title": "1 Dime \"Roosevelt Silver Dime\"",
+      "category": "coin",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 1946,
+      "maxYear": 1964
+    },
+    {
+      "id": 8934,
+      "title": "1 Dime \"Roosevelt Dime\" (Silver Proof)",
+      "category": "coin",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 1992,
+      "maxYear": 2018
+    },
+    {
+      "id": 166351,
+      "title": "1 Dime \"Roosevelt Dime\" (Silver Proof)",
+      "category": "coin",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 2019,
+      "maxYear": 2025
+    }
+  ],
+  "tags": [
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "195a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "197a"
+    }
+  ],
+  "weight": 2.268,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded (118 reeds)",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/3290-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/3290-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 10,
+      "name": "United States Mint of Denver"
+    },
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    },
+    {
+      "id": 12,
+      "name": "United States Mint of San Francisco"
+    },
+    {
+      "id": 10,
+      "name": "United States Mint of Denver"
+    },
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    },
+    {
+      "id": 12,
+      "name": "United States Mint of San Francisco"
+    },
+    {
+      "id": 13,
+      "name": "United States Mint of West Point"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

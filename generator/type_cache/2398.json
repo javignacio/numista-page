@@ -1,0 +1,113 @@
+{
+  "id": 2398,
+  "url": "https://en.numista.com/2398",
+  "title": "10 Kroner - Olav V",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "norvege",
+    "name": "Norway"
+  },
+  "min_year": 1983,
+  "max_year": 1991,
+  "ruler": [
+    {
+      "id": 451,
+      "name": "Olav V",
+      "wikidata_id": "Q154912",
+      "group": {
+        "id": 358,
+        "name": "House of Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Kroner",
+    "numeric_value": 10,
+    "currency": {
+      "id": 16,
+      "name": "Krone",
+      "full_name": "Krone (1875-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1984-03-15"
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1996-09-15"
+  },
+  "size": 24,
+  "thickness": 2.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel silver (81% Cu, 10% Zn, 9% Ni)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Øivind Hansen"
+    ],
+    "description": "Bust of king Olav V facing left. Engraver's initials below back of bust. Raised 9-sided ring around it. Surrounded by inscription. Solid 9-sided ring on the rim.",
+    "lettering": "OLAV · V · NORGES · KONGE ·\r\nØ.H.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Olav V, King of Norway",
+    "picture": "https://en.numista.com/catalogue/photos/norvege/64c9974fbf2fb3.86050318-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/64c9974fbf2fb3.86050318-180.jpg",
+    "picture_copyright": "Elvi75"
+  },
+  "reverse": {
+    "engravers": [
+      "Øivind Hansen"
+    ],
+    "description": "Value in two lines, in a solid ring. Chain of the Order of Saint Olaf around it. Date divided by chain below. Mintmark on the left side of date. Mintmaster's initial on the right side of date. Solid 9-sided ring on the rim.",
+    "lettering": "10\r\nKR\r\n⚒ 19 88 K",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/norvege/64c99750cd16a0.23506993-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/64c99750cd16a0.23506993-180.jpg",
+    "picture_copyright": "Elvi75"
+  },
+  "comments": "<p>10 kroner 1991 was included in 1991, 1992, 1993 and 1994 mint sets.</p>",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "427"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "78"
+    }
+  ],
+  "weight": 9,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 1888,
+      "name": "Norwegian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

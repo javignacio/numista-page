@@ -1,0 +1,91 @@
+{
+  "id": 23449,
+  "url": "https://en.numista.com/23449",
+  "title": "1 Peso",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "chili",
+    "name": "Chile"
+  },
+  "min_year": 1902,
+  "max_year": 1905,
+  "ruler": [
+    {
+      "id": 3299,
+      "name": "Republic",
+      "wikidata_id": "Q298"
+    }
+  ],
+  "value": {
+    "text": "1 Peso",
+    "numeric_value": 1,
+    "currency": {
+      "id": 237,
+      "name": "Peso",
+      "full_name": "Peso (1835-1959)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 34.9,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.700)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Condor on rock surrounded by legend",
+    "lettering": "REPUBLICA DE CHILE\r\n0.7\r\nO.Roty",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chili/6650cbc85f4cc4.15489348-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/6650cbc85f4cc4.15489348-180.jpg",
+    "picture_copyright": "Quodlibet"
+  },
+  "reverse": {
+    "description": "Date below denomination in wreath",
+    "lettering": "So\r\nUN \r\nPESO\r\n1905",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chili/6650cbcca2b516.67442698-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/6650cbcca2b516.67442698-180.jpg",
+    "picture_copyright": "Quodlibet"
+  },
+  "tags": [
+    "Bird",
+    "Hammer and sickle"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "152.2"
+    }
+  ],
+  "weight": 20,
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

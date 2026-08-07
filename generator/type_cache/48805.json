@@ -1,0 +1,125 @@
+{
+  "id": 48805,
+  "url": "https://en.numista.com/48805",
+  "title": "20 Lekë (Magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "albanie",
+    "name": "Albania"
+  },
+  "min_year": 2012,
+  "max_year": 2024,
+  "ruler": [
+    {
+      "id": 583,
+      "name": "Fourth Republic",
+      "wikidata_id": "Q222"
+    }
+  ],
+  "value": {
+    "text": "20 Lekë",
+    "numeric_value": 20,
+    "currency": {
+      "id": 311,
+      "name": "New lek",
+      "full_name": "New lek (1965-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2013-06-24"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Namik Prizëreni"
+    ],
+    "description": "Liburne motif",
+    "lettering": "·REPUBLIKA E SHQIPERISE· \r\n2012\r\nA. LIBURNE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Albania",
+    "picture": "https://en.numista.com/catalogue/photos/albanie/60bb5c26adf6b4.84983482-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/albanie/60bb5c26adf6b4.84983482-180.jpg",
+    "picture_copyright": "lidianb"
+  },
+  "reverse": {
+    "engravers": [
+      "Namik Prizëreni"
+    ],
+    "description": "Denomination",
+    "lettering": "20 LEKE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/albanie/60bb5c26e726a3.45772284-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/albanie/60bb5c26e726a3.45772284-180.jpg",
+    "picture_copyright": "lidianb"
+  },
+  "comments": "Lettering of 2012 is “LEKE” and “SHQIPERISE”.(without umlaut on &quot;E&quot;)<br />\r\nLettering of 2016 and 2020 is “LEKË” and “SHQIPËRISË”.(with umlaut on &quot;E&quot;)",
+  "related_types": [
+    {
+      "id": 2875,
+      "title": "20 Lekë (Non-magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "albanie",
+        "name": "Albania"
+      },
+      "minYear": 1996,
+      "maxYear": 2000
+    }
+  ],
+  "tags": [
+    "Marine mammal",
+    "Boat or watercraft",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "78a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "77a"
+    }
+  ],
+  "weight": 4.6,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/albanie/697780bf89fe73.08302978-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/albanie/697780bf89fe73.08302978-180.jpg",
+    "picture_copyright": "Polette",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,122 @@
+{
+  "id": 2384,
+  "url": "https://en.numista.com/2384",
+  "title": "25 Escudos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "portugal",
+    "name": "Portugal"
+  },
+  "min_year": 1980,
+  "max_year": 1986,
+  "ruler": [
+    {
+      "id": 1295,
+      "name": "Third Republic",
+      "wikidata_id": "Q1259200"
+    }
+  ],
+  "value": {
+    "text": "25 Escudos",
+    "numeric_value": 25,
+    "currency": {
+      "id": 65,
+      "name": "Escudo",
+      "full_name": "Escudo (1911-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 28.5,
+  "thickness": 2.25,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Marcelino Norte de Almeida"
+    ],
+    "description": "The shield of Portugal with the denomination to the right and below and the country name above",
+    "lettering": "REPÚBLICA PORTUGUESA\r\n25 \r\nESCUDOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Portugal",
+    "picture": "https://en.numista.com/catalogue/photos/portugal/3010-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/portugal/3010-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "reverse": {
+    "description": "Laureate head facing left and the date to the left",
+    "lettering": "LIBERDADE DEMOCRACIA \r\n1986\r\nNORTE D'ALMEIDA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Freedom and Democracy",
+    "picture": "https://en.numista.com/catalogue/photos/portugal/3009-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/portugal/3009-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "series": "System 1981-2001",
+  "comments": "This coin is larger than the previous version (KM# 607, Schön# 63).",
+  "related_types": [
+    {
+      "id": 2383,
+      "title": "25 Escudos",
+      "category": "coin",
+      "country": {
+        "code": "portugal",
+        "name": "Portugal"
+      },
+      "minYear": 1977,
+      "maxYear": 1978
+    }
+  ],
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "607a"
+    },
+    {
+      "catalogue": {
+        "id": 108,
+        "code": "Gomes"
+      },
+      "number": "R 54"
+    }
+  ],
+  "weight": 10.8,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/portugal/614c78f3e40dc5.10356404-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/portugal/614c78f3e40dc5.10356404-180.jpg",
+    "picture_copyright": "Walter_Scott"
+  },
+  "mints": [
+    {
+      "id": 1337,
+      "name": "Imprensa Nacional - Casa da Moeda"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

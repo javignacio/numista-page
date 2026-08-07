@@ -1,0 +1,118 @@
+{
+  "id": 1053,
+  "url": "https://en.numista.com/1053",
+  "title": "2 Colones",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "costa_rica",
+    "name": "Costa Rica"
+  },
+  "issuing_entity": {
+    "id": 907,
+    "name": "Central Bank of Costa Rica",
+    "wikidata_id": "Q4504273"
+  },
+  "min_year": 1982,
+  "max_year": 1984,
+  "ruler": [
+    {
+      "id": 3834,
+      "name": "Second Republic",
+      "wikidata_id": "Q800"
+    }
+  ],
+  "value": {
+    "text": "2 Colones",
+    "numeric_value": 2,
+    "currency": {
+      "id": 10,
+      "name": "Colón",
+      "full_name": "Colón (1896-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 23.1,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The arms of Costa Rica (seven stars representing the seven provinces, three extinct volcanoes for the three mountain ranges, two ships symbolizing the country's geographical situation between the Atlantic and Pacific ocean and sunrise on the left) along with the country name above around the rim and the date at the bottom.",
+    "lettering": "REPUBLICA DE COSTA RICA\r\nAMERICA CENTRAL\r\nREPUBLICA DE COSTA RICA\r\n· 1983 ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Costa Rica\r\nCentral America\r\nRepublic of Costa Rica",
+    "picture": "https://en.numista.com/catalogue/photos/costa_rica/806-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/costa_rica/806-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "reverse": {
+    "description": "The value within a laurel wreath and abbreviation of the \"Banco Central de Costa Rica\".",
+    "lettering": "AMERICA CENTRAL\r\n2\r\nCOLONES\r\nB.C.C.R.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "America Central\r\n2\r\nColones\r\nBanco Central de Costa Rica",
+    "lettering_translation": "Central America\r\n2\r\nColones\r\nCentral Bank of Costa Rica",
+    "picture": "https://en.numista.com/catalogue/photos/costa_rica/807-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/costa_rica/807-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "comments": "Although these coins have been demonetized, they are still redeemable at the Central Bank of Costa Rica.",
+  "tags": [
+    "Mountain",
+    "Coat of Arms",
+    "Wreath",
+    "Boat or watercraft"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "211"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "77"
+    }
+  ],
+  "weight": 4.25,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/costa_rica/808-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/costa_rica/808-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 1335,
+      "name": "Mint of Brazil"
+    },
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

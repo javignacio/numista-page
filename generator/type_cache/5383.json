@@ -1,0 +1,130 @@
+{
+  "id": 5383,
+  "url": "https://en.numista.com/5383",
+  "title": "1 Centavo (FAO)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "bresil",
+    "name": "Brazil"
+  },
+  "min_year": 1975,
+  "max_year": 1978,
+  "ruler": [
+    {
+      "id": 2684,
+      "name": "Federative Republic of Brazil",
+      "wikidata_id": "Q155"
+    }
+  ],
+  "value": {
+    "text": "1 Centavo",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 206,
+      "name": "Cruzeiro novo",
+      "full_name": "Cruzeiro novo (1967-1986)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1980-12-31"
+  },
+  "size": 17,
+  "thickness": 1.15,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Effigy of Republic and the country name to the left",
+    "lettering": "* BRASIL *",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Brazil",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/695ba6b60f3e78.24500488-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/695ba6b60f3e78.24500488-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "reverse": {
+    "description": "Sugar Cane, denomination, and date to the right",
+    "lettering": "ALIMENTOS PARA O MUNDO\r\n1\r\ncentavo\r\naçúcar\r\n1975",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Food for the World\r\n1\r\nCentavo\r\nSugar\r\n1975",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/695ba6b7223363.28711996-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/695ba6b7223363.28711996-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "commemorated_topic": "Sugar Cane",
+  "related_types": [
+    {
+      "id": 5384,
+      "title": "2 Centavos (FAO)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1975,
+      "maxYear": 1978
+    },
+    {
+      "id": 3816,
+      "title": "5 Centavos (FAO)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1975,
+      "maxYear": 1978
+    }
+  ],
+  "tags": [
+    "FAO"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "585"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "91"
+    }
+  ],
+  "weight": 1.77,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/635f2e878b4062.20436439-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/635f2e878b4062.20436439-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 1335,
+      "name": "Mint of Brazil"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

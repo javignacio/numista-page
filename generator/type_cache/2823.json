@@ -1,0 +1,153 @@
+{
+  "id": 2823,
+  "url": "https://en.numista.com/2823",
+  "title": "50 Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bresil",
+    "name": "Brazil"
+  },
+  "min_year": 1994,
+  "max_year": 1995,
+  "ruler": [
+    {
+      "id": 2684,
+      "name": "Federative Republic of Brazil",
+      "wikidata_id": "Q155"
+    }
+  ],
+  "value": {
+    "text": "50 Centavos",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 158,
+      "name": "Real",
+      "full_name": "Real (1994-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The effigy of the Brazilian Republic, surrounded by the stylish representation of laurel leaves",
+    "lettering": "BRASIL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Brazil",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/6415b2c961b0f5.06049392-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/6415b2c961b0f5.06049392-180.jpg",
+    "picture_copyright": "Rogbert",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "The denomination flanked by laurel leaves behind diagonal stripes, and the year below",
+    "lettering": "50 \r\nCENTAVOS \r\n1994",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bresil/6415b2caa48180.88510249-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/6415b2caa48180.88510249-180.jpg",
+    "picture_copyright": "Rogbert",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "related_types": [
+    {
+      "id": 1104,
+      "title": "5 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1994,
+      "maxYear": 1997
+    },
+    {
+      "id": 2822,
+      "title": "10 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1994,
+      "maxYear": 1997
+    },
+    {
+      "id": 2242,
+      "title": "25 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1994,
+      "maxYear": 1995
+    },
+    {
+      "id": 3198,
+      "title": "1 Real",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1994,
+      "maxYear": 1994
+    }
+  ],
+  "tags": [
+    "Allegory"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "635"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "144"
+    }
+  ],
+  "weight": 3.92,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/651a20ec7febf6.07667401-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/651a20ec7febf6.07667401-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 1335,
+      "name": "Mint of Brazil"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

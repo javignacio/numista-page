@@ -1,0 +1,142 @@
+{
+  "id": 1190,
+  "url": "https://en.numista.com/1190",
+  "title": "5 Francs",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "france",
+    "name": "France"
+  },
+  "min_year": 1945,
+  "max_year": 1952,
+  "ruler": [
+    {
+      "id": 10,
+      "name": "Fourth Republic",
+      "wikidata_id": "Q69829",
+      "group": {
+        "id": 89,
+        "name": "Modern France"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Francs",
+    "numeric_value": 5,
+    "currency": {
+      "id": 303,
+      "name": "Franc",
+      "full_name": "Franc (1795-1959)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1966-10-01"
+  },
+  "size": 31,
+  "thickness": 2.3,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "André-Henri Lavrillier"
+    ],
+    "description": "Laureate head left",
+    "lettering": "REPUBLIQVE FRANÇAISE\r\nA.LAVRILLIER",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "French Republic",
+    "picture": "https://en.numista.com/catalogue/photos/france/11101-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/11101-180.jpg",
+    "picture_copyright": "thomasha",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "André-Henri Lavrillier"
+    ],
+    "description": "The denomination above date within sectioned wreath with the mintmark below the lowest of the seven ║ in the design",
+    "lettering": "RF\r\n5\r\nFRANCS\r\n1947",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "République Française",
+    "picture": "https://en.numista.com/catalogue/photos/france/11102-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/11102-180.jpg",
+    "picture_copyright": "thomasha",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "series": "5 francs Lavrillier",
+  "comments": "<span style=\"text-decoration:underline;\">Question about weight.</span><br />\r\nThanks to certain correspondence found in the archives, we know that the 1945 strikes fall into two main categories: 3.5g and 3.8g. Using the register of issue judgments allows us to go further because, in addition to the number of coins struck, it shows the total weight of each issue. We thus have confirmation that the strikes started in 1945, on January 2, at the target weight of 3.5g.<br />\r\nOf all 95,398,800 struck in Paris in 1945, we already know that 11,786,400 copies were struck at a target weight of 3.5g while the others are distributed in a range of 3.75 to 3.9g<br />\r\nFor Beaumont-Le-Roger, the aluminum strikes do not start until the end of May at a target weight of 3.8g.<br />\r\nFor Castelsarrasin, we have no data.<br />\r\nThe 1952 production would have been destined for Algeria.<br />\r\nSource: Le Franc 2019 (page 910)<br /><br />\r\n<span style=\"text-decoration:underline;\">Where to look mint:</span><br />\r\n<a href=\"https://en.numista.com/catalogue/images/57389ded6f48e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/57389ded6f48e.jpg\" alt=\"\" width=\"200\" height=\"29\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5cc1676a652fb.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5cc1676a652fb.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\n<span style=\"text-decoration:underline;\">How to understand the difference between closed and opened &quot;9&quot;:</span><br />\r\n<a href=\"https://en.numista.com/catalogue/images/57389df654862.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/57389df654862.jpg\" alt=\"\" width=\"200\" height=\"57\" /></a><br />\r\nat the left is closed and at the right is opened &quot;9&quot;<br /><br />\r\n<span style=\"text-decoration:underline;\">1950 date varieties</span><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5cd0fe83aee32.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5cd0fe83aee32.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "tags": [
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 34,
+        "code": "Franc 2014"
+      },
+      "number": "339"
+    },
+    {
+      "catalogue": {
+        "id": 109,
+        "code": "Gad 1789"
+      },
+      "number": "766"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "888b"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "203b"
+    }
+  ],
+  "weight": 3.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/france/615767a5180462.47754994-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/615767a5180462.47754994-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    },
+    {
+      "id": 72,
+      "name": "Beaumont-le-Roger"
+    },
+    {
+      "id": 74,
+      "name": "Castelsarrasin"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,113 @@
+{
+  "id": 3258,
+  "url": "https://en.numista.com/3258",
+  "title": "50 Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "argentine",
+    "name": "Argentina"
+  },
+  "min_year": 1952,
+  "max_year": 1956,
+  "ruler": [
+    {
+      "id": 3983,
+      "name": "Federal Republic",
+      "wikidata_id": "Q414"
+    }
+  ],
+  "value": {
+    "text": "50 Centavos",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 261,
+      "name": "Peso moneda nacional",
+      "full_name": "Peso moneda nacional (1881-1969)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1970-01-01"
+  },
+  "size": 23,
+  "thickness": 1.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel clad steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Value and denomination, date below.",
+    "lettering": "REPUBLICA ARGENTINA \r\n50 \r\nCENTAVOS\r\n· 1953 ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Argentina\r\n50\r\nCentavos\r\n.1953.",
+    "picture": "https://en.numista.com/catalogue/photos/argentine/61edd4bf24a0e9.05076911-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/61edd4bf24a0e9.05076911-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "reverse": {
+    "engravers": [
+      "Mario Baiardi"
+    ],
+    "description": "Side profile of Jose De San Martin, facing right.",
+    "lettering": "JOSE DE SAN MARTIN",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/argentine/61edd4bf7b7c93.56366609-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/61edd4bf7b7c93.56366609-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "comments": "José Francisco de San Martín y Matorras (25 February 1778 – 17 August 1850), known simply as José de San Martín was an Argentine general and the prime leader of the southern part of South America&#039;s successful struggle for independence from the Spanish Empire who served as the Protector of Peru (first President of Peru).<br /><br />\r\nPreviously KM#24",
+  "tags": [
+    "Military leader",
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "49"
+    },
+    {
+      "catalogue": {
+        "id": 160,
+        "code": "CJ"
+      },
+      "number": "223-227"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "52"
+    }
+  ],
+  "weight": 5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 1336,
+      "name": "Buenos Aires"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

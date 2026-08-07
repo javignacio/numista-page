@@ -1,0 +1,126 @@
+{
+  "id": 9924,
+  "url": "https://en.numista.com/9924",
+  "title": "¼ Riyal / 25 Halālah - Fayṣal (FAO)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "saudi-arabia-period",
+    "name": "Saudi Arabia (1932-date)"
+  },
+  "min_year": 1973,
+  "max_year": 1973,
+  "ruler": [
+    {
+      "id": 3136,
+      "name": "Faisal bin Abdulaziz",
+      "wikidata_id": "Q217167"
+    }
+  ],
+  "value": {
+    "text": "25 Halalas",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 164,
+      "name": "Riyal",
+      "full_name": "Riyal (1960-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "National emblem",
+    "lettering": "فيصل عبد العزيز آل سعود\r\nملك المملكة العربية السعودية",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "Faisal 'Abd al-'Aziz Al Sa'ud\r\nKing of the Kingdom of Saudi Arabia",
+    "picture": "https://en.numista.com/catalogue/photos/saudi-arabia-period/663250f7380461.60289187-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/saudi-arabia-period/663250f7380461.60289187-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "lettering": "خمس وعشرون هللة\r\nربع ريال\r\n25 ٢٥\r\n١٣٩٢هـ ١٩٧٣م\r\nواطعموا البائس الفقير",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "Twenty five Halala\r\nQuarter Rial\r\n1973 1392\r\nAnd feed the desperate",
+    "picture": "https://en.numista.com/catalogue/photos/saudi-arabia-period/663250f75b8cb2.67514253-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/saudi-arabia-period/663250f75b8cb2.67514253-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "commemorated_topic": "F.A.O.",
+  "related_types": [
+    {
+      "id": 3144,
+      "title": "½ Riyal / 50 Halalah - Fayṣal (FAO)",
+      "category": "coin",
+      "country": {
+        "code": "saudi-arabia-period",
+        "name": "Saudi Arabia (1932-date)"
+      },
+      "minYear": 1972,
+      "maxYear": 1972
+    }
+  ],
+  "tags": [
+    "FAO",
+    "Tree",
+    "Coat of Arms",
+    "Cold weapons"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "49"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "29"
+    },
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "A31"
+    }
+  ],
+  "weight": 5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 1876,
+      "name": "Lahore"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

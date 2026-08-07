@@ -1,0 +1,93 @@
+{
+  "id": 25127,
+  "url": "https://en.numista.com/25127",
+  "title": "2 Cruzeiros",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bresil",
+    "name": "Brazil"
+  },
+  "min_year": 1956,
+  "max_year": 1956,
+  "ruler": [
+    {
+      "id": 2685,
+      "name": "Republic of the United States of Brazil",
+      "wikidata_id": "Q2414171"
+    }
+  ],
+  "value": {
+    "text": "2 Cruzeiros",
+    "numeric_value": 2,
+    "currency": {
+      "id": 204,
+      "name": "Cruzeiro",
+      "full_name": "Cruzeiro (1942-1967)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 21,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze (90% Copper, 8% Aluminium, 2% Zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "National Arms",
+    "lettering": "REPUBLICA DOS ESTADOS UNIDOS DO BRASIL.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of the United States of Brazil",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/2673-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/2673-180.jpg"
+  },
+  "reverse": {
+    "description": "Denomination above line, date below",
+    "lettering": "2 CRUZEIROS\r\n1956",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bresil/2674-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/2674-180.jpg"
+  },
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "568"
+    }
+  ],
+  "weight": 5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/65c11f21107b64.48671898-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/65c11f21107b64.48671898-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 1335,
+      "name": "Mint of Brazil"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

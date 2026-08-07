@@ -1,0 +1,113 @@
+{
+  "id": 3094,
+  "url": "https://en.numista.com/3094",
+  "title": "1 Ban",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "moldavie",
+    "name": "Moldova"
+  },
+  "issuing_entity": {
+    "id": 69,
+    "name": "National Bank of Moldova",
+    "wikidata_id": "Q2636071"
+  },
+  "min_year": 1993,
+  "max_year": 2017,
+  "ruler": [
+    {
+      "id": 1312,
+      "name": "Republic",
+      "wikidata_id": "Q217"
+    }
+  ],
+  "value": {
+    "text": "1 Ban",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 103,
+      "name": "Leu",
+      "full_name": "Leu (1993-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1993-11-00"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 14.5,
+  "thickness": 1.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms of the Republic of Moldova and two oak leaves below.",
+    "lettering": "REPUBLICA MOLDOVA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Moldova.",
+    "picture": "https://en.numista.com/catalogue/photos/moldavie/106-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/moldavie/106-180.jpg",
+    "picture_copyright": "HOOK"
+  },
+  "reverse": {
+    "engravers": [
+      "Constantin Dumitrescu"
+    ],
+    "description": "Face value divides date above \"M\" monogram of Moldova.",
+    "lettering": "2004\r\n1 BAN\r\nM",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/moldavie/107-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/moldavie/107-180.jpg",
+    "picture_copyright": "HOOK"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/6283a398bfd13.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6283a398bfd13.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "tags": [
+    "Bird",
+    "Cow or bovine",
+    "Eagle",
+    "Coat of Arms",
+    "Cross"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "1"
+    }
+  ],
+  "weight": 0.67,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/moldavie/615224ff8a38e0.31632795-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/moldavie/615224ff8a38e0.31632795-180.jpg"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

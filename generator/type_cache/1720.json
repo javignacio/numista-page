@@ -1,0 +1,135 @@
+{
+  "id": 1720,
+  "url": "https://en.numista.com/1720",
+  "title": "½ New Sheqel",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "israel",
+    "name": "Israel"
+  },
+  "min_year": 1985,
+  "max_year": 2017,
+  "ruler": [
+    {
+      "id": 4056,
+      "name": "State of Israel",
+      "wikidata_id": "Q801"
+    }
+  ],
+  "value": {
+    "text": "½ New Sheqel",
+    "numeric_value": 0.5,
+    "numerator": 1,
+    "denominator": 2,
+    "currency": {
+      "id": 183,
+      "name": "New Shekel",
+      "full_name": "New Shekel (1986-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 26,
+  "thickness": 1.93,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-aluminium-nickel (92% Copper, 6% Aluminium, 2% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Nathan Karp"
+    ],
+    "description": "Twelve-stringed harp resembling the seal of princess Ma'adana",
+    "picture": "https://en.numista.com/catalogue/photos/israel/784-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/israel/784-180.jpg",
+    "picture_copyright": "HOOK"
+  },
+  "reverse": {
+    "engravers": [
+      "Gabi Neumann"
+    ],
+    "description": "Value and year",
+    "lettering": "اسرائيل ISRAEL התשנ\"ה ישראל\r\n1/2 \r\nשקל \r\nחדש \r\nNEW SHEQEL",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      },
+      {
+        "name": "Hebrew"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/israel/785-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/israel/785-180.jpg",
+    "picture_copyright": "HOOK"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/60f7ecd8dfd81.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/60f7ecd8dfd81.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "tags": [
+    "Music"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "159"
+    }
+  ],
+  "weight": 6.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/israel/614e0ff3e865c9.55405277-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/israel/614e0ff3e865c9.55405277-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    },
+    {
+      "id": 1540,
+      "name": "Jerusalem"
+    },
+    {
+      "id": 1299,
+      "name": "Korea Minting and Security Printing Corporation"
+    },
+    {
+      "id": 1334,
+      "name": "Mint of Finland"
+    },
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    },
+    {
+      "id": 1889,
+      "name": "National Mint of the Bank of Greece"
+    },
+    {
+      "id": 28,
+      "name": "Royal Australian Mint"
+    },
+    {
+      "id": 23,
+      "name": "Royal Dutch Mint"
+    },
+    {
+      "id": 2,
+      "name": "Staatliche Münze Baden-Württemberg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

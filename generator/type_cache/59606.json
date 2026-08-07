@@ -1,0 +1,110 @@
+{
+  "id": 59606,
+  "url": "https://en.numista.com/59606",
+  "title": "1 Dollar - Elizabeth II (4th Portrait - 100 Years of ANZAC)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "australie",
+    "name": "Australia"
+  },
+  "min_year": 2014,
+  "max_year": 2018,
+  "ruler": [
+    {
+      "id": 1783,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 825,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Dollar",
+    "numeric_value": 1,
+    "currency": {
+      "id": 243,
+      "name": "Dollar",
+      "full_name": "Dollar (1966-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25,
+  "thickness": 2.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze (92% Copper, 6% Aluminium, 2% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Ian Rank-Broadley"
+    ],
+    "description": "4th portrait of Queen Elizabeth II facing right wearing the Girls of Great Britain and Ireland Tiara",
+    "lettering": "ELIZABETH II \r\nAUSTRALIA 2014\r\nIRB",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/australie/67683637a92a79.86392091-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/australie/67683637a92a79.86392091-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Logo of the ANZAC centenary. Australian soldier with head bowed and rifle reversed in solemn reflection.",
+    "lettering": "100 YEARS OF ANZAC\r\nTHE SPIRIT LIVES\r\n2014 - 2018\r\nAL\r\nONE DOLLAR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/australie/67683638a61af8.81259635-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/australie/67683638a61af8.81259635-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "commemorated_topic": "100 Years of the ANZAC Spirit",
+  "comments": "This Commemorative coin was issued into circulation each year over a five year period in 2014, 2015, 2016, 2017 &amp; 2018. The coin celebrates 100 Years of ANZAC - Australian and New Zealand Army Corps.<br /><br />\r\nIn addition to being released into general circulation it was available as follows ...<br />\r\nThe 2014 dated coin was available in a Coincard with (M) Melbourne and (AL) Albany Counterstamps.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5d8cb33f54d55.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d8cb33f54d55.jpg\" alt=\"\" width=\"200\" height=\"215\" /></a> <a href=\"https://en.numista.com/catalogue/images/5d8cb350068be.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d8cb350068be.jpg\" alt=\"\" width=\"200\" height=\"202\" /></a><br />\r\n<span style=\"font-weight:bold;\">The coin on this Numista page above is one with an Albany Counterstamp.</span><br /><br />\r\nThe 2014 dated coin was also issued in PNC Issue 5 of 2014 by Australia Post<br />\r\nIt was also issued in a special limited edition PNC at the Brisbane ANDA Show<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5dd6238a5d409.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5dd6238a5d409.jpg\" alt=\"\" width=\"200\" height=\"111\" /></a> <a href=\"https://en.numista.com/catalogue/images/5dd62396ee264.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5dd62396ee264.jpg\" alt=\"\" width=\"200\" height=\"112\" /></a><br /><br />\r\nThe low mintage 2016 coin was also issued in a PNC by Australia Post.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5dd624b1af982.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5dd624b1af982.jpg\" alt=\"\" width=\"200\" height=\"117\" /></a> <a href=\"https://en.numista.com/catalogue/images/5dd624bc5349c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5dd624bc5349c.jpg\" alt=\"\" width=\"200\" height=\"117\" /></a><br /><br />\r\nThe 2015 dated coin was available in various RAM coin swap events in bags of 10 coins<br />\r\nThe 2015 dated coin was available with a Changeover Tour (MAP) Counterstamp in the shape of Australia<br />\r\nThe 2016 dated coin was available with a Changeover Tour (MAP) Counterstamp in the shape of Australia<br />\r\nThe 2017 dated coin was available in various RAM coin swap events in bags of 10 coins<br />\r\nThe 2018 dated coin was available in various RAM coin swap events in bags of 10 coins<br />\r\nThe 2018 dated coin was available in a small coincard with an (AL) Albany Counterstamp<br /><br />\r\nAll Five years (2014,5,6,7&amp;8) were issued in a special &quot;Spirit Lives&quot; 5 Coin set in 2018.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5de1e59c2767b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5de1e59c2767b.jpg\" alt=\"\" width=\"200\" height=\"161\" /></a> <a href=\"https://en.numista.com/catalogue/images/5de1e5a6655e0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5de1e5a6655e0.jpg\" alt=\"\" width=\"200\" height=\"92\" /></a><br /><br />\r\nThere have been reports of a possible Mule coin dated 2014 which has a 10 cent Obverse.",
+  "tags": [
+    "War"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "2936"
+    }
+  ],
+  "weight": 9,
+  "orientation": "medal",
+  "edge": {
+    "description": "7 shorter smooth segments between 7 reeded segments (11 grooves each)",
+    "picture": "https://en.numista.com/catalogue/photos/australie/67683639a91f88.34330295-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/australie/67683639a91f88.34330295-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 28,
+      "name": "Royal Australian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

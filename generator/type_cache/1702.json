@@ -1,0 +1,187 @@
+{
+  "id": 1702,
+  "url": "https://en.numista.com/1702",
+  "title": "20 Cents - Elizabeth II (4th Portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "australie",
+    "name": "Australia"
+  },
+  "min_year": 1999,
+  "max_year": 2019,
+  "ruler": [
+    {
+      "id": 1783,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 825,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "20 Cents",
+    "numeric_value": 0.2,
+    "currency": {
+      "id": 243,
+      "name": "Dollar",
+      "full_name": "Dollar (1966-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 28.52,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Ian Rank-Broadley"
+    ],
+    "description": "4th portrait of Queen Elizabeth II facing right wearing the Girls of Great Britain and Ireland Tiara",
+    "lettering": "ELIZABETH II \r\nAUSTRALIA 2000\r\nIRB",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/australie/689c9be7d5a370.79317751-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/australie/689c9be7d5a370.79317751-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "Stuart Devlin"
+    ],
+    "description": "Platypus (Ornithorhynchus anatinus) and the numeral \"20\"",
+    "lettering": "20\r\nSD",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/australie/689c9be92e0c97.34035800-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/australie/689c9be92e0c97.34035800-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p>In 1999 the RAM updated the standard circulation Platypus 20 cent coin with the Ian Rank Broadley 4th Portrait of the Queen on the Obverse. The coin has also been issued in Uncirculated &amp; Proof Year Sets, UNC in WMF Berlin Money Fair Sets, and various Baby UNC &amp; Proof sets. Specimen versions of the coin were issued in Wedding Sets from 2002 to 2009. From 2010 all Wedding Sets were Proof issues. 2019 is the final year for the IRB Obverse.<br><br>The 2001 issues featured 3 different versions of the IRB Initials, \"IRB\" joined, \"IRB\" spaced and \"RB\" Joined.<br><a href=\"https://en.numista.com/catalogue/images/61751b1814d53.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/61751b1814d53.jpg\" alt=\"\"></a><br><br>The 2004 issued coin has two varieties, large and small QE II Head on the obverse, see this image.<br><a href=\"https://en.numista.com/catalogue/images/602aad8f16e70.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/602aad8f16e70.jpg\" alt=\"\"></a><br><br>Fine Silver (.999) Proof versions of the coin have been released in the Masterpieces in Silver 1998 Set &amp; Fine Silver Proof Sets in 2004 &amp; 2009 onwards.<br><br>2008 ‘Wave gap variety’<br>In the early 2010s it was noticed that a small number of 2008 Australian 20c pieces had a small gap between the wave and the playtpus' head, similar to the wave gap used as a mintmark on 1966 20c pieces. While it is a part of the design that is subject to die fill, it was realised that it was likely a genuine variety as the 2008 Wedding Set coins all exhibit the same wave gap. With a mintage of just 3,278 sets, the wave gap was unlikely to be due to die fill, especially as Wedding Set coins were specially struck. It seems likely that the Royal Australian Mint accidentally deployed a Wedding Set reverse die for the production of some circulating 20c pieces, though it is unclear why such a design change was made for the Wedding Set coins. The wave gap reverse design has not been noted on any other contemporary 20c pieces so it did not supercede the then in-use reverse design.<br><br>2008 20c circulation break-downs<br>Normal Wave gap<br>99.2% &nbsp;0.8%<br>While the wave gap variety makes up a very small percentage of the total mintage, with 132,900,000 2008 20c pieces struck, there were approximately 1,000,000 wave gap coins struck. While a study has not been carried out, the high number of wave gap coins struck would suggest that more than one Wedding Set reverse die was used too.</p>",
+  "related_types": [
+    {
+      "id": 1003,
+      "title": "20 Cents - Elizabeth II (2nd Portrait)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 1966,
+      "maxYear": 1984
+    },
+    {
+      "id": 1703,
+      "title": "20 Cents - Elizabeth II (3rd Portrait)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 1985,
+      "maxYear": 2019
+    },
+    {
+      "id": 126671,
+      "title": "20 Cents - Elizabeth II (4th Portrait - Platypus - Fine Silver Proof)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 1998,
+      "maxYear": 2019
+    },
+    {
+      "id": 348627,
+      "title": "20 Cents - Elizabeth II (4th Portrait - Platypus - Gold Proof)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 2001,
+      "maxYear": 2019
+    },
+    {
+      "id": 175061,
+      "title": "20 Cents - Elizabeth II (6th Portrait)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 2019,
+      "maxYear": 2023
+    },
+    {
+      "id": 416669,
+      "title": "20 Cents - Charles III (1st Portrait)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 2024,
+      "maxYear": 2026
+    }
+  ],
+  "tags": [
+    "Other animal"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "403"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "419"
+    }
+  ],
+  "weight": 11.31,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/australie/9337-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/australie/9337-180.jpg",
+    "picture_copyright": "Mike Bentley",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 28,
+      "name": "Royal Australian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

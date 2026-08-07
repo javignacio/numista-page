@@ -1,0 +1,129 @@
+{
+  "id": 834,
+  "url": "https://en.numista.com/834",
+  "title": "5 Cents (SOUTH AFRICA - SUID-AFRIKA)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "afrique_du_sud",
+    "name": "South Africa"
+  },
+  "min_year": 1990,
+  "max_year": 1995,
+  "ruler": [
+    {
+      "id": 634,
+      "name": "Republic",
+      "wikidata_id": "Q258"
+    }
+  ],
+  "value": {
+    "text": "5 Cents",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 156,
+      "name": "Rand",
+      "full_name": "Rand (1961-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21,
+  "thickness": 1.9,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze plated steel (Plating: 99% Copper, 1% Tin)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Arthur Sutherland"
+    ],
+    "description": "South Africa coat of arms with the motto \"Ex Unitate Vires\" (Power Through Unity) surrounded by bilingual English/Afrikaans legend",
+    "lettering": "SOUTH AFRICA · SUID-AFRIKA\r\nEX UNITATE VIRES\r\nALS\r\n1993",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/afrique_du_sud/1471-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/1471-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "reverse": {
+    "engravers": [
+      "Gert Richards"
+    ],
+    "description": "Standing blue crane with large denomination at left",
+    "lettering": "5c \r\nGJR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/afrique_du_sud/1472-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/1472-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "comments": "Legends in the 11 Official Languages of the Republic of South Africa:<br />\r\nAfrikaans: Suid-Afrika<br />\r\nEnglish: South Africa<br />\r\nSesotho and Sepedi: Afrika Borwa<br />\r\nTswana: Aforika Borwa<br />\r\nXhosa: uMzantsi Afrika<br />\r\nZulu: iNingizimu Afrika<br />\r\nNdebele: iSewula frika<br />\r\nVenda: Afurika Tshipembe<br />\r\nsiSwati: Ningizimu Afrika<br />\r\nTsonga: Afrika Dzonga",
+  "related_types": [
+    {
+      "id": 3376,
+      "title": "5 Cents (AFRIKA-DZONGA)",
+      "category": "coin",
+      "country": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "minYear": 1996,
+      "maxYear": 2000
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "134"
+    },
+    {
+      "catalogue": {
+        "id": 146,
+        "code": "Hern"
+      },
+      "number": "Nc1-6"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "171"
+    }
+  ],
+  "weight": 4.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/afrique_du_sud/6978c4983e10c2.91580591-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/6978c4983e10c2.91580591-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 1872,
+      "name": "Pretoria"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

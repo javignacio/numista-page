@@ -1,0 +1,140 @@
+{
+  "id": 3110,
+  "url": "https://en.numista.com/3110",
+  "title": "5 Mark - 20 Years of GDR (Nickel Bronze)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "ddr",
+    "name": "German Democratic Republic"
+  },
+  "min_year": 1969,
+  "max_year": 1969,
+  "ruler": [
+    {
+      "id": 1313,
+      "name": "Democratic Republic",
+      "wikidata_id": "Q16957"
+    }
+  ],
+  "value": {
+    "text": "5 Mark",
+    "numeric_value": 5,
+    "currency": {
+      "id": 229,
+      "name": "Mark",
+      "full_name": "Mark (1948-1990)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1990-06-30"
+  },
+  "size": 29,
+  "thickness": 1.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass (90% Copper; 10% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Emblem of the German Democratic Republic (hammer and protractor surrounded by banners and wreath) surrounded by legend",
+    "lettering": "DEUTSCHE DEMOKRATISCHE REPUBLIK",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "German Democratic Republic",
+    "picture": "https://en.numista.com/catalogue/photos/ddr/66a3777fa0b239.15301829-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ddr/66a3777fa0b239.15301829-180.jpg",
+    "picture_copyright": "Shanto98"
+  },
+  "reverse": {
+    "description": "Numerical denomination and words",
+    "lettering": "XX\r\nJAHRE\r\nDDR\r\n\r\n1969 5 MARK",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "20\r\nYears\r\nGDR",
+    "picture": "https://en.numista.com/catalogue/photos/ddr/66a3778029b313.53452788-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ddr/66a3778029b313.53452788-180.jpg",
+    "picture_copyright": "Shanto98"
+  },
+  "commemorated_topic": "20th Anniversary of the founding of the GDR 1949-1969",
+  "comments": "Previously AKS# 803 and AKS# 503.<br /><br />\r\nThe Berlin mint also produced commemorative coins for Mongolia which is how some coins were produced with a Mongolian inscription on the edge. Only two copies are known.",
+  "related_types": [
+    {
+      "id": 129712,
+      "title": "5 Mark (20 Years of GDR - Copper-Nickel)",
+      "category": "coin",
+      "country": {
+        "code": "ddr",
+        "name": "German Democratic Republic"
+      },
+      "minYear": 1969,
+      "maxYear": 1969
+    }
+  ],
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "22"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "24"
+    },
+    {
+      "catalogue": {
+        "id": 80,
+        "code": "J"
+      },
+      "number": "1524"
+    },
+    {
+      "catalogue": {
+        "id": 81,
+        "code": "AKS"
+      },
+      "number": "95"
+    }
+  ],
+  "weight": 9.87,
+  "orientation": "medal",
+  "edge": {
+    "description": "Smooth with inscriptions",
+    "lettering": "5 MARK 🞹 5 MARK 🞹 5 MARK 🞹 5 MARK 🞹",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/ddr/6949614056a9a3.43184632-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ddr/6949614056a9a3.43184632-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 5,
+      "name": "Berlin"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

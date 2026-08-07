@@ -1,0 +1,126 @@
+{
+  "id": 102873,
+  "url": "https://en.numista.com/102873",
+  "title": "1 Zloty (non magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "pologne",
+    "name": "Poland"
+  },
+  "min_year": 2017,
+  "max_year": 2019,
+  "ruler": [
+    {
+      "id": 3739,
+      "name": "Third Republic",
+      "wikidata_id": "Q1259201"
+    }
+  ],
+  "value": {
+    "text": "1 Zloty",
+    "numeric_value": 1,
+    "currency": {
+      "id": 200,
+      "name": "Fourth Zloty",
+      "full_name": "Fourth Zloty (1995-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Sebastian Mikołajczak"
+    ],
+    "description": "The white eagle, the emblem of Poland which is depicted on its coats of arms, is surrounded with the inscription \"RZECZPOSPOLITA POLSKA\" (Republic of Poland).",
+    "lettering": "mw \r\nRZECZPOSPOLITA POLSKA\r\n2017",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/pologne/5893-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pologne/5893-180.jpg",
+    "picture_copyright": "Narodowy Bank Polski",
+    "picture_copyright_url": "http://www.nbp.pl"
+  },
+  "reverse": {
+    "designers": [
+      "Ewa Tyc-Karpińska"
+    ],
+    "description": "The face value is encircled by a coronal of oak leaves.",
+    "lettering": "1 \r\nZŁOTY",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/pologne/5894-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pologne/5894-180.jpg",
+    "picture_copyright": "Narodowy Bank Polski",
+    "picture_copyright_url": "http://www.nbp.pl"
+  },
+  "comments": "<p>***** issue for this year according to NBP is 61 700 000 pcs but 1 000 000 of this mintage were pilot- non magnetic they are placed here <a class=\"n-link\" data-mention=\"N#233818\" data-n-number=\"233818\" data-issuer=\"Poland\" title=\"1 Zloty\" href=\"/233818\">N#233818</a></p>",
+  "related_types": [
+    {
+      "id": 520,
+      "title": "1 Zloty",
+      "category": "coin",
+      "country": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "minYear": 1990,
+      "maxYear": 2016
+    },
+    {
+      "id": 233818,
+      "title": "1 Zloty (Magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "minYear": 2019,
+      "maxYear": 2025
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "974"
+    }
+  ],
+  "weight": 5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Segmented reeding (4 reeded and 4 plain parts)",
+    "picture": "https://en.numista.com/catalogue/photos/pologne/5892-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pologne/5892-180.jpg",
+    "picture_copyright": "Narodowy Bank Polski",
+    "picture_copyright_url": "http://www.nbp.pl"
+  },
+  "mints": [
+    {
+      "id": 27,
+      "name": "Mint of Poland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,119 @@
+{
+  "id": 13146,
+  "url": "https://en.numista.com/13146",
+  "title": "1 Shilling - George III (Young bust; 'Northumberland Shilling')",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1763,
+  "max_year": 1763,
+  "ruler": [
+    {
+      "id": 267,
+      "name": "George III",
+      "wikidata_id": "Q127318",
+      "group": {
+        "id": 525,
+        "name": "House of Hanover"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Shilling",
+    "numeric_value": 0.05,
+    "numerator": 1,
+    "denominator": 20,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1971)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 25,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.925)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Richard Yeo"
+    ],
+    "description": "Young laureate and draped bust of King George III right, legend around.",
+    "lettering": "GEORGIVS·III·DEI·GRATIA·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "George the Third by the Grace of God",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/2714-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/2714-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "engravers": [
+      "John Croker"
+    ],
+    "description": "Crowned cruciform shields with central Garter star, plain angles, divided date above, legend around.",
+    "lettering": "M·B·F·E·T·H·REX·F·D·B·ET·L·D·S·R·I·A·T·ET·E·1763·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Magnae Britanniae Franciae Et Hiberniae Rex Fidei Defensor Brun Et Lunebergen-sis Dux Sacri Romani Imperii Archi-Thesaurius Et Elector",
+    "lettering_translation": "King of Great Britain France and Ireland Defender of the Faith Duke of Brunswick and Lueneburg Arch Treasurer and Elector of the Holy Roman Empire",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/2715-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/2715-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "According to H.A. Seaby’s &#039;English Silver Coinage from 1649&#039;, a special issue of 2,000 shillings was produced for Hugh, Earl of Northumberland, Viceroy of Ireland, for distribution in Dublin. The reality is somewhat different as the Royal Mint produced £5,000 worth of shillings in 1763 (100,000 pieces of which 2,000 circulated in Ireland) which was, compared to other dates, still a relatively scarce coin.<br /><br />\r\nPlain edge patterns exist for 1764 and 1778 - both are extremely rare. Beware, low grade counterfeits exist.<br /><br />\r\nThe standard weight of these coins was 6/31 troy ounce (92.9 grains).",
+  "tags": [
+    "Cat or feline",
+    "Crown",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "597"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "3742"
+    },
+    {
+      "catalogue": {
+        "id": 1831,
+        "code": "ESC"
+      },
+      "number": "1214"
+    }
+  ],
+  "weight": 6.02,
+  "orientation": "coin",
+  "edge": {
+    "description": "Varieties exist"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

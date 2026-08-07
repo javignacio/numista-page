@@ -1,0 +1,131 @@
+{
+  "id": 323,
+  "url": "https://en.numista.com/323",
+  "title": "25 Cents - Elizabeth II (Remembrance Day)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "canada",
+    "name": "Canada"
+  },
+  "min_year": 2004,
+  "max_year": 2005,
+  "ruler": [
+    {
+      "id": 2095,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 827,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "25 Cents",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 44,
+      "name": "Dollar",
+      "full_name": "Dollar (1858-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23.9,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled, Coloured"
+  },
+  "obverse": {
+    "engravers": [
+      "Susan Taylor"
+    ],
+    "designers": [
+      "Susanna Blunt"
+    ],
+    "description": "Head of Queen Elizabeth II, as at 77 years of age, bare headed, wearing necklace and earrings, facing right.",
+    "lettering": "ELIZABETH II D·G·REGINA \r\nP",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "ELIZABETH II DEI GRATIA REGINA",
+    "lettering_translation": "Elizabeth II Queen by the grace of God",
+    "picture": "https://en.numista.com/catalogue/photos/canada/3246-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/3246-180.jpg",
+    "picture_copyright": "Monéphil",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Stan Witten"
+    ],
+    "designers": [
+      "Cosme Saffioti"
+    ],
+    "description": "A maple leaf, in the center containing a poppy, the symbol of remembrance of the sacrifice in World War I and other wars, colored in red and surrounded with the word \"Remember\" in English and French below and the face value and country name above the poppy",
+    "lettering": "CANADA 2004\r\n25\r\nCents\r\nREMEMBER\r\nSOUVENIR\r\nCS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/canada/3247-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/3247-180.jpg",
+    "picture_copyright": "Monéphil",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "commemorated_topic": "Remembrance Day",
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/5d177ae98d0a0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d177ae98d0a0.jpg\" alt=\"\" width=\"200\" height=\"200\" /></a><br />\n<a href=\"https://en.numista.com/catalogue/images/5d177af414de3.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d177af414de3.jpg\" alt=\"\" width=\"125\" height=\"250\" /></a><br />\n<a href=\"https://en.numista.com/catalogue/images/63dad530424ca.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/63dad530424ca.jpg\" alt=\"\" width=\"200\" height=\"152\" /></a><br /><br />\nThis was the first colored general circulation coin in the world.<br /><br />\nAlso known as the conspiracy coin, due to the red center, the US Secret Service believed there to be a microchip inside the coin, enabling them to be satellite tracked.<br /><br />\nIn 2005 coin was issued again, this time not for circulation but as UNC in bookmark. Printed poppy seems to be little different than in 2004:<br />\n<a href=\"https://en.numista.com/catalogue/images/62767a14c6b22.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/62767a14c6b22.jpg\" alt=\"\" width=\"200\" height=\"234\" /></a><a href=\"https://en.numista.com/catalogue/images/62767a1f9170c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/62767a1f9170c.jpg\" alt=\"\" width=\"200\" height=\"228\" /></a><br /><br />\n<a href=\"https://en.numista.com/catalogue/images/62767a3616b0f.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/62767a3616b0f.jpg\" alt=\"\" width=\"77\" height=\"250\" /></a><a href=\"https://en.numista.com/catalogue/images/62767a41d0f30.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/62767a41d0f30.jpg\" alt=\"\" width=\"78\" height=\"249\" /></a><br /><br />\n<a href=\"https://en.numista.com/catalogue/images/5d177ae98d0a0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d177ae98d0a0.jpg\" alt=\"\" width=\"200\" height=\"200\" /></a><br />\n<a href=\"https://en.numista.com/catalogue/images/5d177af414de3.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d177af414de3.jpg\" alt=\"\" width=\"125\" height=\"250\" /></a>",
+  "tags": [
+    "War",
+    "Flower"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 133,
+        "code": "Ch"
+      },
+      "number": "RC-662b"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "533.1"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "510"
+    }
+  ],
+  "weight": 4.4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

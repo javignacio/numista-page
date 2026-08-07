@@ -1,0 +1,153 @@
+{
+  "id": 10859,
+  "url": "https://en.numista.com/10859",
+  "title": "20 Euro Cents (2nd type; 2nd map)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "espagne",
+    "name": "Spain"
+  },
+  "min_year": 2010,
+  "max_year": 2026,
+  "ruler": [
+    {
+      "id": 150,
+      "name": "Felipe VI",
+      "wikidata_id": "Q191045",
+      "group": {
+        "id": 44,
+        "name": "House of Bourbon"
+      }
+    },
+    {
+      "id": 151,
+      "name": "Juan Carlos I",
+      "wikidata_id": "Q19943",
+      "group": {
+        "id": 44,
+        "name": "House of Bourbon"
+      }
+    }
+  ],
+  "value": {
+    "text": "20 Euro Cents",
+    "numeric_value": 0.2,
+    "currency": {
+      "id": 9004,
+      "name": "Euro",
+      "full_name": "Euro (2002-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 22.25,
+  "thickness": 2.14,
+  "shape": "Spanish flower",
+  "composition": {
+    "text": "Nordic gold (89% Copper, 5% Aluminium, 5% Zinc, 1% Tin)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Begoña Castellanos García"
+    ],
+    "description": "Head of the Spanish writer Miguel de Cervantes front-facing, a quill and the twelve stars of Europe.",
+    "lettering": "ESPAÑA\r\nCervantes\r\nM\r\n2010",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Spain",
+    "picture": "https://en.numista.com/catalogue/photos/espagne/6272890540f705.93800949-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/6272890540f705.93800949-180.jpg",
+    "picture_copyright": "Mike Bentley",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Luc Luycx"
+    ],
+    "description": "Second map of Europe symbolizing the gathering of the fifteen nations of the European Union and twelve stars (six above and six below map).",
+    "lettering": "20 EURO CENT\r\nLL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/espagne/6272890650d6c4.19617522-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/6272890650d6c4.19617522-180.jpg",
+    "picture_copyright": "Mike Bentley",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p><strong>Miguel de Cervantes Saavedra</strong> (29 September 1547 (assumed) – 22 April 1616 NS) was an Early Modern Spanish writer widely regarded as the greatest writer in the Spanish language and one of the world's pre-eminent novelists. He is best known for his novel Don Quixote, a work considered as the first modern novel. The novel has been labelled by many well-known authors as the “best book of all time” and the \"best and most central work in world literature\".</p><p>&nbsp;</p><p><i>Varieties:</i></p><p>In 2023, coins with both old and new reverse were issued into circulation.</p><p>(<strong>New reverse</strong> on the left, <strong>old reverse</strong> on the right)</p><p><a href=\"https://en.numista.com/catalogue/images/66c0822205bee.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/66c0822205bee.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/66c08221c23c0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/66c08221c23c0.jpg\"></a></p><p><a href=\"https://en.numista.com/catalogue/images/66f96fbe6f467.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/66f96fbe6f467.jpg\"></a> &nbsp;<a href=\"https://en.numista.com/catalogue/images/66f96fc64ce3a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/66f96fc64ce3a.jpg\"></a> &nbsp;<a href=\"https://en.numista.com/catalogue/images/66f96fcf8e01c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/66f96fcf8e01c.jpg\"></a> &nbsp;<a href=\"https://en.numista.com/catalogue/images/66f96fd82da83.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/66f96fd82da83.jpg\"></a></p><p><a href=\"https://en.numista.com/catalogue/images/68b9c12c85ae0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/68b9c12c85ae0.jpg\"></a></p>",
+  "related_types": [
+    {
+      "id": 85,
+      "title": "20 Euro Cents (1st type; 1st map)",
+      "category": "coin",
+      "country": {
+        "code": "espagne",
+        "name": "Spain"
+      },
+      "minYear": 1999,
+      "maxYear": 2006
+    },
+    {
+      "id": 6361,
+      "title": "20 Euro Cents (1st type; 2nd map)",
+      "category": "coin",
+      "country": {
+        "code": "espagne",
+        "name": "Spain"
+      },
+      "minYear": 2007,
+      "maxYear": 2009
+    }
+  ],
+  "tags": [
+    "Literature",
+    "Map",
+    "Mustache/Beard"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1148"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "467"
+    }
+  ],
+  "weight": 5.74,
+  "orientation": "medal",
+  "edge": {
+    "description": "Smooth with seven indentations (\"Spanish flower\")",
+    "picture": "https://en.numista.com/catalogue/photos/espagne/4263-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/4263-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 24,
+      "name": "Royal Mint of Madrid"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

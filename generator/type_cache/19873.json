@@ -1,0 +1,116 @@
+{
+  "id": 19873,
+  "url": "https://en.numista.com/19873",
+  "title": "1 Øre - Haakon VII",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "norvege",
+    "name": "Norway"
+  },
+  "min_year": 1918,
+  "max_year": 1921,
+  "ruler": [
+    {
+      "id": 449,
+      "name": "Haakon VII",
+      "wikidata_id": "Q154927",
+      "group": {
+        "id": 358,
+        "name": "House of Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Øre",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 16,
+      "name": "Krone",
+      "full_name": "Krone (1875-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 16,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Iron (Fe 99.9%, C 0.1%)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Crowned monogram of Haakon VII, in a solid ring. Surrounded by inscription. Solid ring on the rim.",
+    "lettering": "⸰KONGERIKET⸰NORGE⸰\r\nH7",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Kingdom of Norway",
+    "picture": "https://en.numista.com/catalogue/photos/norvege/65b7bb6e3d1ad3.88191282-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/65b7bb6e3d1ad3.88191282-180.jpg",
+    "picture_copyright": "Oslo Myntgalleri",
+    "picture_copyright_url": "http://www.oslomyntgalleri.no"
+  },
+  "reverse": {
+    "description": "Alue and date in three lines. A triskelion on each side of the value and below the date. Date divided by mintmark. Solid ring on the rim.",
+    "lettering": "1\r\nØRE\r\n19 ⚒ 18",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/norvege/65b7bb6ee70983.36841832-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/65b7bb6ee70983.36841832-180.jpg",
+    "picture_copyright": "Oslo Myntgalleri",
+    "picture_copyright_url": "http://www.oslomyntgalleri.no"
+  },
+  "related_types": [
+    {
+      "id": 4127,
+      "title": "1 Øre - Haakon VII",
+      "category": "coin",
+      "country": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "minYear": 1908,
+      "maxYear": 1952
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "367a"
+    },
+    {
+      "catalogue": {
+        "id": 201,
+        "code": "Rønning"
+      },
+      "number": "264"
+    }
+  ],
+  "weight": 1.74,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain."
+  },
+  "mints": [
+    {
+      "id": 1888,
+      "name": "Norwegian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

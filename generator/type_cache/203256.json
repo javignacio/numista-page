@@ -1,0 +1,129 @@
+{
+  "id": 203256,
+  "url": "https://en.numista.com/203256",
+  "title": "2 Pesos",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "argentine",
+    "name": "Argentina"
+  },
+  "issuing_entity": {
+    "id": 597,
+    "name": "Central Bank of the Argentine Republic",
+    "wikidata_id": "Q642444"
+  },
+  "min_year": 1997,
+  "max_year": 2002,
+  "ruler": [
+    {
+      "id": 3983,
+      "name": "Federal Republic",
+      "wikidata_id": "Q414"
+    }
+  ],
+  "value": {
+    "text": "2 Pesos",
+    "numeric_value": 2,
+    "currency": {
+      "id": 145,
+      "name": "Peso convertible",
+      "full_name": "Peso convertible (1992-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2018-06-30"
+  },
+  "size": 155,
+  "size2": 65,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Portrait of Lieutenant General Bartolomé Mitre\r\nReplica of a handwritten manuscript of History of Belgrano and of the Independence of Argentina\r\nInner door of Mitre's house\r\n\r\nConvertibles de Curso Legal means that its value was fixed to the same amount in US dollars",
+    "lettering": "BANCO CENTRAL DE LA REPUBLICA ARGENTINA\r\nDOS PESOS\r\nCONVERTIBLES DE CURSO LEGAL\r\nBARTOLOME MITRE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Bank of the Argentine Republic\r\nTwo Pesos\r\nConvertable of Legal Tender\r\nBartolomé Mitre",
+    "picture": "https://en.numista.com/catalogue/photos/argentine/5e98970d1c4882.84797899-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/5e98970d1c4882.84797899-180.jpg",
+    "picture_copyright": "robertmx",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Mitre Museum",
+    "lettering": "DOS PESOS\r\nREPUBLICA ARGENTINA EN UNIÓN Y LIBERTAD\r\nBartolomé Mitre (Buenos Aires 1821-1906)\r\nDestacado político, militar, historiador, hombre de letras y periodista. Gobernador de la Provincia de Buenos Aires y Presidente de la República Argentina (1862-1868)\r\nMuseo Mitre\r\nCasa de Moneda",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Two Pesos\r\nArgentine Republic in union and freedom\r\nBartolomé Mitre (Buenos Aires 1821-1906)\r\nOutstanding politician, military man, historian, man of letters and journalist. Governor of the Province of Buenos Aires and President of the Argentine Republic (1862-1868)\r\nMitre Museum\r\nNational Mint",
+    "picture": "https://en.numista.com/catalogue/photos/argentine/5e98970d4c2b11.74290767-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/5e98970d4c2b11.74290767-180.jpg",
+    "picture_copyright": "robertmx",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "series": "Convertibles de Curso Legal 2nd issue",
+  "comments": "With text &quot;Convertibles de Curso Legal&quot; next to denomination on obverse side<br />\r\nThe similar later note is without the text &quot;Convertibles de Curso Legal&quot;",
+  "related_types": [
+    {
+      "id": 203649,
+      "title": "2 Pesos",
+      "category": "banknote",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 1992,
+      "maxYear": 1997
+    },
+    {
+      "id": 201923,
+      "title": "2 Pesos (without Convertibles de Curso Legal)",
+      "category": "banknote",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 2002,
+      "maxYear": 2014
+    }
+  ],
+  "tags": [
+    "Museum"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "346"
+    },
+    {
+      "catalogue": {
+        "id": 1841,
+        "code": "Bottero"
+      },
+      "number": "3201 to 3211"
+    }
+  ],
+  "printers": [
+    {
+      "id": 11,
+      "name": "Casa de Moneda"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

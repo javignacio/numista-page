@@ -1,0 +1,101 @@
+{
+  "id": 5006,
+  "url": "https://en.numista.com/5006",
+  "title": "1 Tyiyn",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "kirghizistan",
+    "name": "Kyrgyzstan"
+  },
+  "min_year": 2008,
+  "max_year": 2008,
+  "ruler": [
+    {
+      "id": 1317,
+      "name": "Republic",
+      "wikidata_id": "Q813"
+    }
+  ],
+  "value": {
+    "text": "1 Tyiyn",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 185,
+      "name": "Som",
+      "full_name": "Som (1993-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 14,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of Arms of the Kyrgyz Republic and the year when the coin was issued",
+    "lettering": "КЫРГЫЗ\r\nРЕСПУБИКАСЫ\r\n2008",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "Kyrgyz Republic",
+    "picture": "https://en.numista.com/catalogue/photos/kirghizistan/6532dd2b614471.19470635-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/kirghizistan/6532dd2b614471.19470635-180.jpg",
+    "picture_copyright": "Saeib",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "\"Gul\" flower, which is one of the most well-known and beautiful symbols used in Kyrgyz ornamental art since the ancient time and denomination",
+    "lettering": "1\r\nТЫЙЫН",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "1 Tıyın",
+    "picture": "https://en.numista.com/catalogue/photos/kirghizistan/6532dd2b9a1043.33487567-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/kirghizistan/6532dd2b9a1043.33487567-180.jpg",
+    "picture_copyright": "Saeib",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "11"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "15"
+    }
+  ],
+  "weight": 1,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 9,
+      "name": "Kazakhstan Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

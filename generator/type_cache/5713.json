@@ -1,0 +1,124 @@
+{
+  "id": 5713,
+  "url": "https://en.numista.com/5713",
+  "title": "5 Cents - Elizabeth II (4th portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "oeco",
+    "name": "Eastern Caribbean States"
+  },
+  "min_year": 2002,
+  "max_year": 2022,
+  "ruler": [
+    {
+      "id": 1089,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 810,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Cents",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 45,
+      "name": "Dollar",
+      "full_name": "Dollar (1965-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23.11,
+  "thickness": 1.87,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Ian Rank-Broadley"
+    ],
+    "description": "Portrait of Queen Elizabeth II facing right.",
+    "lettering": "QUEEN ELIZABETH THE SECOND\r\nIRB",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/oeco/69a33632e21c15.35672787-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/oeco/69a33632e21c15.35672787-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "reverse": {
+    "engravers": [
+      "Thomas Humphrey Paget"
+    ],
+    "description": "Value flanked by palm tree fronds.",
+    "lettering": "EAST CARIBBEAN STATES 2002\r\n5\r\nFIVE CENTS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/oeco/69a33634c41c75.36866864-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/oeco/69a33634c41c75.36866864-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "comments": "Two main types are known:<br /><br />\r\n<span style=\"font-style:italic;\">Obverse</span><br />\r\nDie <span style=\"font-weight:bold;\">1</span> - font almost without serifs.<br />\r\nDie <span style=\"font-weight:bold;\">2</span> - font with tall serifs.<br /><br />\r\n<span style=\"font-style:italic;\">Reverse</span><br />\r\nDie <span style=\"font-weight:bold;\">A</span> - bold small font of legends, narrow script of <span style=\"font-style:italic;\">5</span> in center.<br />\r\nDie <span style=\"font-weight:bold;\">B</span> - tall font of legends, bolder script of <span style=\"font-style:italic;\">5</span> in center.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5ec045d1d9869.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5ec045d1d9869.jpg\" alt=\"\" width=\"200\" height=\"200\" /></a><br /><br />\r\n<span style=\"font-style:italic;\">Combinations</span><br />\r\n<span style=\"font-weight:bold;\">1</span>+<span style=\"font-weight:bold;\">A</span> 2002, 2004, 2008.<br />\r\n<span style=\"font-weight:bold;\">2</span>+<span style=\"font-weight:bold;\">B</span> 2010, 2015, 2019.",
+  "related_types": [
+    {
+      "id": 3526,
+      "title": "5 Cents - Elizabeth II (2nd portrait)",
+      "category": "coin",
+      "country": {
+        "code": "oeco",
+        "name": "Eastern Caribbean States"
+      },
+      "minYear": 1981,
+      "maxYear": 2000
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "36"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "37"
+    }
+  ],
+  "weight": 1.74,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    },
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

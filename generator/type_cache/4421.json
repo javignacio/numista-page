@@ -1,0 +1,111 @@
+{
+  "id": 4421,
+  "url": "https://en.numista.com/4421",
+  "title": "1 Franc Guinéen",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "guinee",
+    "name": "Guinea"
+  },
+  "min_year": 1985,
+  "max_year": 1985,
+  "ruler": [
+    {
+      "id": 845,
+      "name": "Republic",
+      "wikidata_id": "Q1006"
+    }
+  ],
+  "value": {
+    "text": "1 Franc Guinéen",
+    "numeric_value": 1,
+    "currency": {
+      "id": 78,
+      "name": "New franc",
+      "full_name": "New franc (1985-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 15.5,
+  "thickness": 1.22,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms",
+    "lettering": "RÉPUBLIQUE DE GUINÉE\r\n1985\r\nUN FRANC GUINÉEN",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Guinea\r\nOne Guinean Franc",
+    "picture": "https://en.numista.com/catalogue/photos/guinee/5fd1ae93cc2229.75996892-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/guinee/5fd1ae93cc2229.75996892-180.jpg",
+    "picture_copyright": "Ben-jamin",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "reverse": {
+    "description": "Palm leaf with denomination",
+    "lettering": "1\r\nFRANC\r\nGUINÉEN",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "One Guinean Franc",
+    "picture": "https://en.numista.com/catalogue/photos/guinee/5fd1ae943c2de0.26778221-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/guinee/5fd1ae943c2de0.26778221-180.jpg",
+    "picture_copyright": "Ben-jamin",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "tags": [
+    "Bird",
+    "Coat of Arms",
+    "Cold weapons",
+    "Firearms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "56"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "53"
+    }
+  ],
+  "weight": 1.4,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/guinee/5e9379a53fd3b6.33419138-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/guinee/5e9379a53fd3b6.33419138-180.jpg",
+    "picture_copyright": "Wilson Roberto Vasques Nunes"
+  },
+  "mints": [
+    {
+      "id": 2,
+      "name": "State Mint of Stuttgart / State Mints of Baden-Württemberg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

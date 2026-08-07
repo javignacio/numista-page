@@ -1,0 +1,156 @@
+{
+  "id": 1466,
+  "url": "https://en.numista.com/1466",
+  "title": "10 Öre - Carl XVI Gustaf",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "suede",
+    "name": "Sweden"
+  },
+  "min_year": 1976,
+  "max_year": 1991,
+  "ruler": [
+    {
+      "id": 2366,
+      "name": "Carl XVI Gustaf",
+      "wikidata_id": "Q45068",
+      "group": {
+        "id": 99,
+        "name": "House of Bernadotte"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Öre",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 18,
+      "name": "Krona",
+      "full_name": "Krona (1873-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1992-09-30"
+  },
+  "size": 15,
+  "thickness": 1.14,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Lars Englund"
+    ],
+    "description": "Crowned Carl XVI Gustaf monogram divides date at sides.",
+    "lettering": "CG XVI \r\n1978",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/suede/2008-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suede/2008-180.jpg"
+  },
+  "reverse": {
+    "engravers": [
+      "Lars Englund"
+    ],
+    "description": "On the reverse is the figure 10. Above the figure is the text SVERIGE and below is the text ÖRE. Left of ÖRE is the mintmark while at right there is the first letter in the surname of the Governor of the Riksbank.",
+    "lettering": "SVERIGE\r\n10 ÖRE\r\nE U",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Sweden",
+    "picture": "https://en.numista.com/catalogue/photos/suede/2009-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suede/2009-180.jpg"
+  },
+  "comments": "<p><a href=\"https://en.numista.com/catalogue/images/65b3e6a5b4395.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/65b3e6a5b4395.jpg\"></a></p>",
+  "related_types": [
+    {
+      "id": 1467,
+      "title": "5 Öre - Carl XVI Gustaf",
+      "category": "coin",
+      "country": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "minYear": 1976,
+      "maxYear": 1981
+    },
+    {
+      "id": 6861,
+      "title": "5 Öre - Carl XVI Gustaf",
+      "category": "coin",
+      "country": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "minYear": 1981,
+      "maxYear": 1984
+    },
+    {
+      "id": 1464,
+      "title": "25 Öre - Carl XVI Gustaf",
+      "category": "coin",
+      "country": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "minYear": 1976,
+      "maxYear": 1984
+    },
+    {
+      "id": 3380,
+      "title": "50 Öre - Carl XVI Gustaf",
+      "category": "coin",
+      "country": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "minYear": 1976,
+      "maxYear": 1991
+    }
+  ],
+  "tags": [
+    "Monogram"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "850"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "71"
+    }
+  ],
+  "weight": 1.44,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 4665,
+      "name": "Myntverket"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

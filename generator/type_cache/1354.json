@@ -1,0 +1,106 @@
+{
+  "id": 1354,
+  "url": "https://en.numista.com/1354",
+  "title": "10 Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "equateur",
+    "name": "Ecuador"
+  },
+  "min_year": 1976,
+  "max_year": 1976,
+  "ruler": [
+    {
+      "id": 3758,
+      "name": "Republic",
+      "wikidata_id": "Q736"
+    }
+  ],
+  "value": {
+    "text": "10 Centavos",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 187,
+      "name": "Sucre",
+      "full_name": "Sucre (1884-2000)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2000-10-09"
+  },
+  "size": 19.1,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel clad steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Name of the country, coat of arms, year of issue",
+    "lettering": "REPUBLICA DEL ECUADOR\r\n1976",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Ecuador",
+    "picture": "https://en.numista.com/catalogue/photos/equateur/531-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/equateur/531-180.jpg",
+    "picture_copyright": "Ciscoins.net",
+    "picture_copyright_url": "https://web.archive.org/web/20201116183734/http://ciscoins.net/"
+  },
+  "reverse": {
+    "description": "Denomination with laurels",
+    "lettering": "10 CENTAVOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/equateur/532-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/equateur/532-180.jpg",
+    "picture_copyright": "Ciscoins.net",
+    "picture_copyright_url": "https://web.archive.org/web/20201116183734/http://ciscoins.net/"
+  },
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "76d"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "69d"
+    }
+  ],
+  "weight": 2.75,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/equateur/68dc8c76084aa6.58150445-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/equateur/68dc8c76084aa6.58150445-180.jpg",
+    "picture_copyright": "dmk Collection"
+  },
+  "mints": [
+    {
+      "id": 4175,
+      "name": "Vereinigte Deutsche Nickelwerke"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

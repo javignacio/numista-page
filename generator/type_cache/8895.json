@@ -1,0 +1,201 @@
+{
+  "id": 8895,
+  "url": "https://en.numista.com/8895",
+  "title": "50 Centavos (Rio Branco; copper-nickel)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bresil",
+    "name": "Brazil"
+  },
+  "min_year": 1998,
+  "max_year": 2001,
+  "ruler": [
+    {
+      "id": 2684,
+      "name": "Federative Republic of Brazil",
+      "wikidata_id": "Q155"
+    }
+  ],
+  "value": {
+    "text": "50 Centavos",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 158,
+      "name": "Real",
+      "full_name": "Real (1994-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23,
+  "thickness": 2.85,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Portrait of José Maria da Silva Paranhos Júnior, map of Brazil left",
+    "lettering": "BRASIL\r\nRIO BRANCO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bresil/641492bb55a757.70518275-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/641492bb55a757.70518275-180.jpg",
+    "picture_copyright": "Rogbert",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Denomination above the date in front of diagonal lines and the southern cross",
+    "lettering": "50 \r\nCENTAVOS \r\n2000",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bresil/641492bd338740.35032404-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/641492bd338740.35032404-180.jpg",
+    "picture_copyright": "Rogbert",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p>José Maria da Silva Paranhos Júnior (1845 - 1912), Baron of Rio Branco, &nbsp;was a statesman, diplomat, and historian.</p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/673612feb9863.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/673612feb9863.jpg\"></a></p>",
+  "related_types": [
+    {
+      "id": 4049,
+      "title": "1 Centavo (Cabral)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1998,
+      "maxYear": 2004
+    },
+    {
+      "id": 1049,
+      "title": "5 Centavos (Tiradentes)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1998,
+      "maxYear": 2025
+    },
+    {
+      "id": 2253,
+      "title": "10 Centavos (Pedro I)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1998,
+      "maxYear": 2025
+    },
+    {
+      "id": 2252,
+      "title": "25 Centavos (Deodoro da Fonseca)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1998,
+      "maxYear": 2025
+    },
+    {
+      "id": 666,
+      "title": "50 Centavos (Rio Branco; stainless steel)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 2002,
+      "maxYear": 2024
+    },
+    {
+      "id": 94947,
+      "title": "50 Centavos (Mule Coin)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 2012,
+      "maxYear": 2012
+    },
+    {
+      "id": 3817,
+      "title": "1 Real",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1998,
+      "maxYear": 1999
+    },
+    {
+      "id": 8896,
+      "title": "1 Real",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 2002,
+      "maxYear": 2024
+    }
+  ],
+  "tags": [
+    "Politician",
+    "Map"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "651"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "159"
+    }
+  ],
+  "weight": 9.25,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain with lettering, variants exist",
+    "lettering": "* BRASIL * ORDEM E PROGRESSO\r\n/\r\n* BRASIL * ORDEM E PROGRESSC",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/2282-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/2282-180.jpg",
+    "picture_copyright": "Julio Campos",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 1335,
+      "name": "Mint of Brazil"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,111 @@
+{
+  "id": 6466,
+  "url": "https://en.numista.com/6466",
+  "title": "10 Bututs",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "gambie",
+    "name": "Gambia, The"
+  },
+  "min_year": 1998,
+  "max_year": 1998,
+  "ruler": [
+    {
+      "id": 945,
+      "name": "Republic",
+      "wikidata_id": "Q1005"
+    }
+  ],
+  "value": {
+    "text": "10 Bututs",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 21,
+      "name": "Dalasi",
+      "full_name": "Dalasi (1971-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 26,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "National arms",
+    "lettering": "REPUBLIC OF THE GAMBIA \r\nPROGRESS PEACE PROSPERITY\r\n1998",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/gambie/68a5a2ae7dc2a2.90733255-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/gambie/68a5a2ae7dc2a2.90733255-180.jpg",
+    "picture_copyright": "Numismatica Quetzalcoatl",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Michael Rizzello"
+    ],
+    "description": "Double-spurred francolin (Francolinus bicalcaratus)",
+    "lettering": "10 BUTUTS\r\nبُتُوتْ",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/gambie/68a5a2af374824.70964884-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/gambie/68a5a2af374824.70964884-180.jpg",
+    "picture_copyright": "Numismatica Quetzalcoatl",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "The double-spurred spurfowl (Pternistis bicalcaratus) is a gamebird in the pheasant family Phasianidae of the order Galliformes, gallinaceous birds. Like most spurfowls, it is restricted to Africa. It is a resident breeder in tropical west Africa, with its range including all of the The Gambia.<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/63c3c7119886a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/63c3c7119886a.jpg\" alt=\"\" width=\"200\" height=\"206\" /></a>",
+  "tags": [
+    "Bird",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "56"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "65"
+    }
+  ],
+  "weight": 5.6,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

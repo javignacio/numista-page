@@ -1,0 +1,116 @@
+{
+  "id": 7599,
+  "url": "https://en.numista.com/7599",
+  "title": "25 Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "colombie",
+    "name": "Colombia"
+  },
+  "min_year": 1979,
+  "max_year": 1979,
+  "ruler": [
+    {
+      "id": 4088,
+      "name": "Republic",
+      "wikidata_id": "Q739"
+    }
+  ],
+  "value": {
+    "text": "25 Centavos",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 147,
+      "name": "Peso decimalized",
+      "full_name": "Peso decimalized (1847-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 23.25,
+  "thickness": 1.65,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze (92% Copper, 6% Aluminium, 2% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The portrait of Simon Bolivar facing right with the country name around the rim and the date below",
+    "lettering": "REPUBLICA DE COLOMBIA\r\n1979",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Colombia",
+    "picture": "https://en.numista.com/catalogue/photos/colombie/69862f4411b430.53504417-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/69862f4411b430.53504417-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "reverse": {
+    "description": "Value in circles",
+    "lettering": "25\r\nCENTAVOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/colombie/69862f45817d27.62119881-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/69862f45817d27.62119881-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "comments": "<p>Continuous legend \"REPUBLICA DE COLOMBIA\" (without gap)<br><br>There are date lettering varieties, especially of the 9:<br><a href=\"https://en.numista.com/catalogue/images/69a73fd006d12.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/69a73fd006d12.jpg\"></a></p>",
+  "tags": [
+    "Military leader",
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "267"
+    },
+    {
+      "catalogue": {
+        "id": 348,
+        "code": "Restrepo"
+      },
+      "number": "399"
+    },
+    {
+      "catalogue": {
+        "id": 347,
+        "code": "Hernández"
+      },
+      "number": "478-480"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "93"
+    }
+  ],
+  "weight": 4.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 280,
+      "name": "Bogota Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

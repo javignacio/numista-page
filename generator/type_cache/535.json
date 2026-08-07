@@ -1,0 +1,113 @@
+{
+  "id": 535,
+  "url": "https://en.numista.com/535",
+  "title": "20 Lepta",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "grece",
+    "name": "Greece"
+  },
+  "min_year": 1976,
+  "max_year": 1978,
+  "ruler": [
+    {
+      "id": 1254,
+      "name": "Third Hellenic Republic",
+      "wikidata_id": "Q17765809"
+    }
+  ],
+  "value": {
+    "text": "20 Lepta",
+    "numeric_value": 0.2,
+    "currency": {
+      "id": 62,
+      "name": "Third modern drachma",
+      "full_name": "Third modern drachma (1954-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 22,
+  "thickness": 1.65,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium (95% Aluminium, 5% Magnesium)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "L. Orphanos"
+    ],
+    "description": "The National Emblem of Greece, which consists of a blue escutcheon with a white cross totally surrounded by two laurel branches",
+    "lettering": "ΕΛΛΗΝΙΚΗ ΔΗΜΟΚΡΑΤΙΑ\r\n • 1976 •",
+    "lettering_scripts": [
+      {
+        "name": "Greek"
+      }
+    ],
+    "lettering_translation": "HELLENIC REPUBLIC \r\n• 1976 •",
+    "picture": "https://en.numista.com/catalogue/photos/grece/991-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/grece/991-180.jpg",
+    "picture_copyright": "MesBedes",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "L. Orphanos"
+    ],
+    "description": "A bust of stallion looking left, denomination below",
+    "lettering": "ΛΕΠΤΑ\r\n20",
+    "lettering_scripts": [
+      {
+        "name": "Greek"
+      }
+    ],
+    "lettering_translation": "LEPTA\r\n20",
+    "picture": "https://en.numista.com/catalogue/photos/grece/992-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/grece/992-180.jpg",
+    "picture_copyright": "MesBedes",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "tags": [
+    "Horse or equine",
+    "Coat of Arms",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "114"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "57"
+    }
+  ],
+  "weight": 1.3,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 1889,
+      "name": "National Mint of the Bank of Greece"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

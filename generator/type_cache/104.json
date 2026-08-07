@@ -1,0 +1,144 @@
+{
+  "id": 104,
+  "url": "https://en.numista.com/104",
+  "title": "2 Euros (1st map)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "france",
+    "name": "France"
+  },
+  "min_year": 1999,
+  "max_year": 2006,
+  "ruler": [
+    {
+      "id": 11,
+      "name": "Fifth Republic",
+      "wikidata_id": "Q200686",
+      "group": {
+        "id": 89,
+        "name": "Modern France"
+      }
+    }
+  ],
+  "value": {
+    "text": "2 Euros",
+    "numeric_value": 2,
+    "currency": {
+      "id": 9006,
+      "name": "Euro",
+      "full_name": "Euro (2002-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2002-01-01"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25.75,
+  "thickness": 2.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Joaquin Jimenez"
+    ],
+    "description": "A tree, symbolising life, continuity and growth, is contained in a hexagon and encircled by the French motto \"LIBERTÉ ÉGALITÉ FRATERNITÉ\" (liberty, equality, fraternity) and the twelve stars of Europe",
+    "lettering": "LIBERTÉ ÉGALITÉ FRATERNITÉ\r\nJ. JIMENEZ\r\nR F\r\n2001",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "République française",
+    "picture": "https://en.numista.com/catalogue/photos/france/612b60f308b778.39080981-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/612b60f308b778.39080981-180.jpg",
+    "picture_copyright": "Mike Bentley",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Luc Luycx"
+    ],
+    "description": "A map, next to the face value, shows the fifteen states of the European Union",
+    "lettering": "2 EURO LL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/france/612b60f3b51139.67693305-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/612b60f3b51139.67693305-180.jpg",
+    "picture_copyright": "Mike Bentley",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<span style=\"text-decoration:underline;\"><span style=\"font-weight:bold;\">Direction of the Mint Master Bee in 1999 and 2000</span></span><br />\r\nIn the 1999 coin the Bee from the engraver is pointing to the left.<br />\r\nIn the 2000 coin the Bee from the engraver is pointing to the right.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5fa04fa51a41e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5fa04fa51a41e.jpg\" alt=\"\" width=\"200\" height=\"100\" /></a><a href=\"https://en.numista.com/catalogue/images/5fa04fab9e48d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5fa04fab9e48d.jpg\" alt=\"\" width=\"200\" height=\"100\" /></a>",
+  "related_types": [
+    {
+      "id": 6376,
+      "title": "2 Euros (2nd map)",
+      "category": "coin",
+      "country": {
+        "code": "france",
+        "name": "France"
+      },
+      "minYear": 2007,
+      "maxYear": 2021
+    }
+  ],
+  "tags": [
+    "Map",
+    "Tree"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1289"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "658"
+    },
+    {
+      "catalogue": {
+        "id": 109,
+        "code": "Gad 1789"
+      },
+      "number": "8 (Ed.2019)"
+    }
+  ],
+  "weight": 8.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Finely ribbed with edge lettering: six times the sequence \"2 * * \" alternately upright and inverted",
+    "lettering": "2 ** 2 ** 2 ** 2 ** 2 ** 2 **",
+    "picture": "https://en.numista.com/catalogue/photos/france/6963dde86f5b08.47933456-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/6963dde86f5b08.47933456-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,201 @@
+{
+  "id": 3927,
+  "url": "https://en.numista.com/3927",
+  "title": "50 Cents - Elizabeth II (4th portrait; Magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "nouvelle-zelande",
+    "name": "New Zealand"
+  },
+  "min_year": 2006,
+  "max_year": 2020,
+  "ruler": [
+    {
+      "id": 629,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 788,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "50 Cents",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 54,
+      "name": "Dollar",
+      "full_name": "Dollar (1967-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24.75,
+  "thickness": 1.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Ian Rank-Broadley"
+    ],
+    "description": "Fourth crowned portrait of Queen Elizabeth II facing right, wearing the Girls of Great Britain and Ireland Tiara, legend around, date below.",
+    "lettering": "NEW ZEALAND ELIZABETH II\r\nIRB\r\n2015",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/nouvelle-zelande/66f24ba8166946.87715027-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/66f24ba8166946.87715027-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "George James Berry"
+    ],
+    "description": "The barque HMS Endeavour, commanded by Capt. James Cook on his first exploration of the Pacific in 1769-1771, sailing to the right, passing in front of Mount Taranaki (Mount Egmont), denomination above left, legend below.",
+    "lettering": "50\r\nENDEAVOUR\r\nJB",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/nouvelle-zelande/66f24ba941fee5.52631618-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/66f24ba941fee5.52631618-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p>This coin was first issued into circulation in 2006. It was replacing the old larger heavier copper-nickel version of the 50 cent coin first issued in 1967. The Reserve Bank of NZ &amp; the NZ Post Office issued a Limited Edition special set of coins called <strong>\"Small Change Smaller Change\"</strong> to celebrate the redesign of this coin and the 10 &amp; 20 cent coins and the removal of the 5 cent coin.<br><br><a href=\"https://en.numista.com/catalogue/images/601a316cd6c77.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/601a316cd6c77.jpg\" alt=\"\"></a> <a href=\"https://en.numista.com/catalogue/images/601a317c818b9.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/601a317c818b9.jpg\" alt=\"\"></a> <a href=\"https://en.numista.com/catalogue/images/601a318cb9b0e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/601a318cb9b0e.jpg\" alt=\"\"></a><br><br><a href=\"https://en.numista.com/catalogue/images/601a31a27c39e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/601a31a27c39e.jpg\" alt=\"\"></a> <a href=\"https://en.numista.com/catalogue/images/601a31b227d9e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/601a31b227d9e.jpg\" alt=\"\"></a> <a href=\"https://en.numista.com/catalogue/images/601a31c4c9f65.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/601a31c4c9f65.jpg\" alt=\"\"></a><br><br><i>2015 &amp; 2018 mintage figures:</i><br>It has been confirmed by the RBNZ Statistics Team that the total circulating coin production for 2015 was 12.7 million 50 cent pieces comprising 1 million ANZAC Centenary commemoratives and 11.7 million Endeavour definitives. This is the same for 2018; 6 million 50 cent pieces were minted, comprising 2 million Armistice Centenary commemoratives and 4 million Endeavour definitives.</p>",
+  "related_types": [
+    {
+      "id": 22619,
+      "title": "50 Cents - Elizabeth II (2nd Portrait - Captain Cook Bicentenary)",
+      "category": "coin",
+      "country": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "minYear": 1969,
+      "maxYear": 1969
+    },
+    {
+      "id": 3527,
+      "title": "50 Cents - Elizabeth II (3rd portrait)",
+      "category": "coin",
+      "country": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "minYear": 1986,
+      "maxYear": 1998
+    },
+    {
+      "id": 3916,
+      "title": "50 Cents - Elizabeth II (4th portrait; Non-Magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "minYear": 1999,
+      "maxYear": 2006
+    },
+    {
+      "id": 130098,
+      "title": "50 Cents - Elizabeth II (4th portrait; Non-magnetic, Set issue)",
+      "category": "coin",
+      "country": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "minYear": 2010,
+      "maxYear": 2023
+    },
+    {
+      "id": 71016,
+      "title": "50 Cents - Elizabeth II (4th Portrait; Spirit of ANZAC)",
+      "category": "coin",
+      "country": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "minYear": 2015,
+      "maxYear": 2015
+    },
+    {
+      "id": 139787,
+      "title": "50 Cents - Elizabeth II (4th Portrait; Centenary of the 1918 Armistice)",
+      "category": "coin",
+      "country": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "minYear": 2018,
+      "maxYear": 2018
+    }
+  ],
+  "tags": [
+    "Explorer",
+    "Mountain",
+    "Boat or watercraft"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "119a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "199"
+    }
+  ],
+  "weight": 5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/nouvelle-zelande/66f24baa570d92.11817105-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/66f24baa570d92.11817105-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 21,
+      "name": "Perth Mint"
+    },
+    {
+      "id": 28,
+      "name": "Royal Australian Mint"
+    },
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    },
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,220 @@
+{
+  "id": 890,
+  "url": "https://en.numista.com/890",
+  "title": "50 Centimes",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "france",
+    "name": "France"
+  },
+  "min_year": 1931,
+  "max_year": 1947,
+  "ruler": [
+    {
+      "id": 8,
+      "name": "Third Republic",
+      "wikidata_id": "Q70802",
+      "group": {
+        "id": 89,
+        "name": "Modern France"
+      }
+    },
+    {
+      "id": 9,
+      "name": "French State",
+      "wikidata_id": "Q69808",
+      "group": {
+        "id": 89,
+        "name": "Modern France"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Fourth Republic",
+      "wikidata_id": "Q69829",
+      "group": {
+        "id": 89,
+        "name": "Modern France"
+      }
+    }
+  ],
+  "value": {
+    "text": "50 Centimes",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 303,
+      "name": "Franc",
+      "full_name": "Franc (1795-1959)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1949-08-05"
+  },
+  "size": 18,
+  "thickness": 1.23,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Pierre-Alexandre Morlon"
+    ],
+    "description": "Marianne's head left wearing a phrygian cap decorated with a composite wreath made of olive tree leaves, oak and wheat.",
+    "lettering": "REPUBLIQUE FRANÇAISE\r\nMORLON",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "FRENCH REPUBLIC",
+    "picture": "https://en.numista.com/catalogue/photos/france/64111438a30ae6.07757107-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/64111438a30ae6.07757107-180.jpg",
+    "picture_copyright": "eze711cba",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Pierre-Alexandre Morlon"
+    ],
+    "description": "Value encompassed on either side by Cornucopia (or horn of plenty, overflowing with produce, flowers or nuts).",
+    "lettering": "LIBERTE·EGALITE\r\nFRATERNITE\r\n50\r\nCENTIMES\r\n1931",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "FREEDOM·EQUALITY\nBROTHERHOOD",
+    "picture": "https://en.numista.com/catalogue/photos/france/6411143977c838.90220189-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/6411143977c838.90220189-180.jpg",
+    "picture_copyright": "eze711cba",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p><strong><u>1931</u></strong><br><u>F. 192/1</u> Curved trial, with grape and without fruit<br><a href=\"https://en.numista.com/catalogue/images/5e90771ebfa8c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e90771ebfa8c.jpg\" alt=\"\"></a><br><u>F. 192/2</u> Straight trial, with grapes and with fruit<br><a href=\"https://en.numista.com/catalogue/images/5e9077dc00d95.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e9077dc00d95.jpg\" alt=\"\"></a><br><strong>Trial variety with fruit rarer</strong><br><u>F. 192/3</u> Without grapes and without fruit<br><a href=\"https://en.numista.com/catalogue/images/5e9078fb38910.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e9078fb38910.jpg\" alt=\"\"></a><br><u>F. 192/4 </u>With grapes and without fruit<br><a href=\"https://en.numista.com/catalogue/images/5e907b0a34b1a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e907b0a34b1a.jpg\" alt=\"\"></a><br><u>F. 192/5</u> With grapes and with fruit<br><a href=\"https://en.numista.com/catalogue/images/5e907dc3697a4.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e907dc3697a4.jpg\" alt=\"\"></a><br><br><strong><u>1932</u></strong><br><u>F. 192/6</u> Trial, 9 and 2 close, without grapes and without fruit<br><a href=\"https://en.numista.com/catalogue/images/5e90870817a24.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e90870817a24.jpg\" alt=\"\"></a><br><u>F. 192/7</u> 9 and 2 open, with grapes and without fruit<br><a href=\"https://en.numista.com/catalogue/images/5e908b2974fe1.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e908b2974fe1.jpg\" alt=\"\"></a><br><u>F. 192/8</u> 9 and 2 open, without grapes and without fruit<br><a href=\"https://en.numista.com/catalogue/images/5e908be79db64.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e908be79db64.jpg\" alt=\"\"></a><br><u>F. 192/9</u> 9 and 2 close, without grapes and without fruit<br><a href=\"https://en.numista.com/catalogue/images/5e908df45c534.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e908df45c534.jpg\" alt=\"\"></a><br><br><strong><u>1933</u></strong> 9 open and 9 close<br><a href=\"https://en.numista.com/catalogue/images/5e908f66a45bc.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e908f66a45bc.jpg\" alt=\"\"></a><a href=\"https://en.numista.com/catalogue/images/5e908f6f21b14.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e908f6f21b14.jpg\" alt=\"\"></a><br><br><strong><u>1939</u></strong> Mint of Paris and Bruxelles<br><a href=\"https://en.numista.com/catalogue/images/5e9090587b3d4.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e9090587b3d4.jpg\" alt=\"\"></a><a href=\"https://en.numista.com/catalogue/images/5e909066cc10b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e909066cc10b.jpg\" alt=\"\"></a></p>",
+  "related_types": [
+    {
+      "id": 889,
+      "title": "50 Centimes (Chambers of Commerce)",
+      "category": "coin",
+      "country": {
+        "code": "france",
+        "name": "France"
+      },
+      "minYear": 1920,
+      "maxYear": 1929
+    },
+    {
+      "id": 18127,
+      "title": "50 Centimes (heavy type)",
+      "category": "coin",
+      "country": {
+        "code": "france",
+        "name": "France"
+      },
+      "minYear": 1941,
+      "maxYear": 1941
+    },
+    {
+      "id": 891,
+      "title": "50 Centimes (light type)",
+      "category": "coin",
+      "country": {
+        "code": "france",
+        "name": "France"
+      },
+      "minYear": 1941,
+      "maxYear": 1947
+    },
+    {
+      "id": 18131,
+      "title": "50 Centimes (Vichy French State; heavy type)",
+      "category": "coin",
+      "country": {
+        "code": "france",
+        "name": "France"
+      },
+      "minYear": 1942,
+      "maxYear": 1943
+    },
+    {
+      "id": 300,
+      "title": "50 Centimes (Vichy French State; light type)",
+      "category": "coin",
+      "country": {
+        "code": "france",
+        "name": "France"
+      },
+      "minYear": 1942,
+      "maxYear": 1944
+    }
+  ],
+  "tags": [
+    "Phrygian cap",
+    "Cornucopia"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 34,
+        "code": "Franc 2014"
+      },
+      "number": "192"
+    },
+    {
+      "catalogue": {
+        "id": 109,
+        "code": "Gad 1789"
+      },
+      "number": "423"
+    },
+    {
+      "catalogue": {
+        "id": 690,
+        "code": "GEM"
+      },
+      "number": "84.1 / 84.2"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "894.1"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "894.2"
+    }
+  ],
+  "weight": 2,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/france/69c57114e67625.39426341-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/69c57114e67625.39426341-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    },
+    {
+      "id": 1338,
+      "name": "Royal Mint of Belgium"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

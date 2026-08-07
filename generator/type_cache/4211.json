@@ -1,0 +1,113 @@
+{
+  "id": 4211,
+  "url": "https://en.numista.com/4211",
+  "title": "6 Pence - Edward VII",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1902,
+  "max_year": 1910,
+  "ruler": [
+    {
+      "id": 271,
+      "name": "Edward VII",
+      "wikidata_id": "Q20875",
+      "group": {
+        "id": 526,
+        "name": "House of Saxe-Coburg and Gotha"
+      }
+    }
+  ],
+  "value": {
+    "text": "6 Pence",
+    "numeric_value": 0.025,
+    "numerator": 1,
+    "denominator": 40,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1971)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1980-06-30"
+  },
+  "size": 19.3,
+  "thickness": 1,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.925)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "George William de Saulles"
+    ],
+    "description": "Uncrowned bust of King Edward VII right, legend around.",
+    "lettering": "EDWARDVS VII DEI GRA:BRITT:OMN:REX FID:DEF:IND:IMP:\r\nDES.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Edward the Seventh by the Grace of God King of all the Britains Defender of the Faith Emperor of India",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/2559-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/2559-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "engravers": [
+      "Jean Baptiste Merlen"
+    ],
+    "description": "Crowned denomination within wreath (olive sprig on left, oak on right), date below.",
+    "lettering": "SIX\r\nPENCE\r\n-·-\r\n1902",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/2560-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/2560-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "The standard weight of these coins was 1/11 troy ounce (43.6 grains).",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "799"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "3983"
+    }
+  ],
+  "weight": 2.83,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

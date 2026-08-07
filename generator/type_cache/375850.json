@@ -1,0 +1,52 @@
+{
+  "id": 375850,
+  "url": "https://en.numista.com/375850",
+  "title": "Casino Token - Casinos del Sur",
+  "object_type": {
+    "id": 41,
+    "name": "Game machine and arcade tokens"
+  },
+  "issuer": {
+    "code": "argentine",
+    "name": "Argentina"
+  },
+  "size": 25.5,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": ""
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "*Casinos del Sur *\r\nBariloche",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/argentine/64f633b6062c52.01097642-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/64f633b6062c52.01097642-180.jpg",
+    "picture_copyright": "Arkerho",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "*Casinos del Sur *\r\nRío Negro",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/argentine/64f633b6d660c3.01767168-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/64f633b6d660c3.01767168-180.jpg",
+    "picture_copyright": "Arkerho",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "weight": 6.35,
+  "orientation": "medal",
+  "category": "exonumia",
+  "type": "Game machine and arcade tokens"
+}

@@ -1,0 +1,106 @@
+{
+  "id": 5011,
+  "url": "https://en.numista.com/5011",
+  "title": "10 Cents",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bahamas",
+    "name": "Bahamas, The"
+  },
+  "min_year": 2007,
+  "max_year": 2016,
+  "ruler": [
+    {
+      "id": 952,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 797,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Cents",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 39,
+      "name": "Dollar",
+      "full_name": "Dollar (1966-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23.5,
+  "thickness": 1.8,
+  "shape": "Scalloped (with 12 notches)",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The arms of the Bahamas with the country name above and the date below",
+    "lettering": "COMMONWEALTH OF THE BAHAMAS\r\nFORWARD UPWARD ONWARD TOGETHER\r\n2007",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bahamas/674-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bahamas/674-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "reverse": {
+    "description": "Two Bonefish (Albula vulpes) and the denomination above",
+    "lettering": "10 CENTS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bahamas/675-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bahamas/675-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "tags": [
+    "Bird",
+    "Fish",
+    "Shell",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "219"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "191"
+    }
+  ],
+  "weight": 5.2,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

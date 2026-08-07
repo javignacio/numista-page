@@ -1,0 +1,102 @@
+{
+  "id": 245848,
+  "url": "https://en.numista.com/245848",
+  "title": "5 Centavos (Patria o Muerte)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "cuba",
+    "name": "Cuba"
+  },
+  "min_year": 2016,
+  "max_year": 2020,
+  "ruler": [
+    {
+      "id": 4118,
+      "name": "Second Republic",
+      "wikidata_id": "Q241"
+    }
+  ],
+  "value": {
+    "text": "5 Centavos",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 148,
+      "name": "Cuban Peso",
+      "full_name": "Cuban Peso (moneda nacional, 1914-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21.21,
+  "thickness": 1.81,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium (aluminium 97.15%, magnesium 2.5%, manganese 0.35%)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Charles Edward Barber"
+    ],
+    "description": "Cuban coat of arms, country name as curved legend on top, face value in letters as curved legend on bottom, line of denticles close to rim.",
+    "lettering": "REPUBLICA DE CUBA\r\n• CINCO CENTAVOS •",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Cuba\r\nFive Centavos",
+    "picture": "https://en.numista.com/catalogue/photos/cuba/69887895075c50.46634207-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/cuba/69887895075c50.46634207-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "reverse": {
+    "description": "Face value in Roman numeral in circle over a five-pointed star, motto \"Fatherland or Death\" as curved legend on top, date on exergue, line of denticles close to rim.",
+    "lettering": "PATRIA O MUERTE\r\nV\r\n• 2016 •",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Fatherland or Death\r\nV (5)\r\n2016",
+    "picture": "https://en.numista.com/catalogue/photos/cuba/698878967c0b22.25307662-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/cuba/698878967c0b22.25307662-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "comments": "This coin was split from KM# 34 (see link) cause the change of legend is considered a major variation.<br /><br />\r\nOn 2016 legend was changed from &quot;PATRIA Y LIBERTAD&quot; to &quot;PATRIA O MUERTE&quot;, this legend have been changed on 1 and 2 centavos coins on 1983, and on 20 and 40 centavos on 1982, but remained unchanged on 5 centavos value. 2016 coins are not still listed on Krause.<br />\r\n1 cent coins had the same variation and kept same KM#, as variant; therefore, is possible when Krause list this coin be catalogued (relisted) as KM# 34.1 up to 2015, and added as KM# 34.2 from 2016 and on.<br /><br />\r\n<span style=\"font-weight:bold;\">UPDATE:</span> For a new &quot;PATRIA O MUERTE&quot; modification the left point of the star points on the left leg of the A<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5fb447aa7f4a9.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5fb447aa7f4a9.jpg\" alt=\"\" width=\"199\" height=\"99\" /></a><br />\r\n(source: picture taken by Pksaha)<br /><br />\r\nKnown variations on year issues:<br />\r\n2017: Thick slightly larger date<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/60297f02d451e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/60297f02d451e.jpg\" alt=\"\" width=\"200\" height=\"201\" /></a><a href=\"https://en.numista.com/catalogue/images/60297f1b58185.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/60297f1b58185.jpg\" alt=\"\" width=\"200\" height=\"197\" /></a><br />\r\n(Images courtesy of steffffffan)<br /><br />\r\n<span style=\"font-weight:bold;\">UPDATE:</span> On website Numismaster, issues this coin dated 2016 &amp; 2017 were recently listed together with KM# 34. Considering change of legend is a major variation, we assume they did not notice the difference, and only added the new dates. There is not a picture of the coin, and only a drawing of the 1968 issue.",
+  "related_types": [
+    {
+      "id": 2855,
+      "title": "5 Centavos (Patria y Libertad)",
+      "category": "coin",
+      "country": {
+        "code": "cuba",
+        "name": "Cuba"
+      },
+      "minYear": 1963,
+      "maxYear": 2015
+    }
+  ],
+  "tags": [
+    "Coat of Arms"
+  ],
+  "weight": 1.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 295,
+      "name": "Empresa Cubana de Acuñaciones"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

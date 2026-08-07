@@ -1,0 +1,80 @@
+{
+  "id": 35343,
+  "url": "https://en.numista.com/35343",
+  "title": "½ Centavo",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "chili",
+    "name": "Chile"
+  },
+  "min_year": 1851,
+  "max_year": 1851,
+  "ruler": [
+    {
+      "id": 3299,
+      "name": "Republic",
+      "wikidata_id": "Q298"
+    }
+  ],
+  "value": {
+    "text": "½ Centavo",
+    "numeric_value": 0.005,
+    "currency": {
+      "id": 237,
+      "name": "Peso",
+      "full_name": "Peso (1835-1959)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 22,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Raised star, dots flank date.",
+    "lettering": "REPUBLICA DE CHILE\r\n· 1851 ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chili/673-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/673-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "description": "Denomination in wreath.",
+    "lettering": "ECONOMIA ES RIQUEZA\r\nMEDIO\r\nCENTAVO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chili/674-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/674-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "118"
+    }
+  ],
+  "weight": 4.6,
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

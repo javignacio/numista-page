@@ -1,0 +1,147 @@
+{
+  "id": 1678,
+  "url": "https://en.numista.com/1678",
+  "title": "100 Rupiah",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "indonesie",
+    "name": "Indonesia (1949-date)"
+  },
+  "issuing_entity": {
+    "id": 574,
+    "name": "Bank Indonesia",
+    "wikidata_id": "Q1906161"
+  },
+  "min_year": 1999,
+  "max_year": 2005,
+  "ruler": [
+    {
+      "id": 4071,
+      "name": "Republic",
+      "wikidata_id": "Q252"
+    }
+  ],
+  "value": {
+    "text": "100 Rupiah",
+    "numeric_value": 100,
+    "currency": {
+      "id": 172,
+      "name": "Rupiah",
+      "full_name": "Rupiah (1965-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The national emblem of Indonesia (Garuda Pancasila) with the date above the issuer name below",
+    "lettering": "BHINNEKA TUNGGAL IKA\r\n2005\r\nBANK INDONESIA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Unity in Diversity\r\n2005\r\nBank of Indonesia",
+    "picture": "https://en.numista.com/catalogue/photos/indonesie/5-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Black Palm Cockatoo (Probosciger aterrimus) and the denomination to the right",
+    "lettering": "KAKAKTUA RAJA\r\n100\r\nRUPIAH",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Cockatoo\r\n100\r\nRupiah",
+    "picture": "https://en.numista.com/catalogue/photos/indonesie/6-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/indonesie/6-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/5dd81e830f845.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5dd81e830f845.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "related_types": [
+    {
+      "id": 5928,
+      "title": "50 Rupiah",
+      "category": "coin",
+      "country": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "minYear": 1999,
+      "maxYear": 2003
+    },
+    {
+      "id": 1677,
+      "title": "200 Rupiah",
+      "category": "coin",
+      "country": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "minYear": 2003,
+      "maxYear": 2003
+    },
+    {
+      "id": 1676,
+      "title": "500 Rupiah",
+      "category": "coin",
+      "country": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "minYear": 2003,
+      "maxYear": 2003
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "61"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "51"
+    }
+  ],
+  "weight": 1.79,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 4154,
+      "name": "Perum Peruri"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

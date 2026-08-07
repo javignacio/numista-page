@@ -1,0 +1,213 @@
+{
+  "id": 7668,
+  "url": "https://en.numista.com/7668",
+  "title": "10 Shillings (Ox)",
+  "object_type": {
+    "id": 3,
+    "name": "Non-circulating coins"
+  },
+  "issuer": {
+    "code": "somalie",
+    "name": "Somalia"
+  },
+  "min_year": 2000,
+  "max_year": 2000,
+  "ruler": [
+    {
+      "id": 2700,
+      "name": "Somali Republic",
+      "wikidata_id": "Q7559152"
+    }
+  ],
+  "value": {
+    "text": "10 Shillings",
+    "numeric_value": 10,
+    "currency": {
+      "id": 181,
+      "name": "Shilling",
+      "full_name": "Shilling (1962-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel clad steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The coat of arms of Somalia, value below",
+    "lettering": "·REPUBLIC OF SOMALIA·\r\nSHILLINGS 10 SCELLINI",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/somalie/63ba8f67538593.63905756-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/somalie/63ba8f67538593.63905756-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "reverse": {
+    "description": "Ox left, date below",
+    "lettering": "1901·1913·1925·1937·1949·1961·1973·1985·1997·2009\r\nOX\r\n2000",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/somalie/63ba8f67d5b694.95442632-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/somalie/63ba8f67d5b694.95442632-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "series": "Asian Astrology",
+  "related_types": [
+    {
+      "id": 7667,
+      "title": "10 Shillings (Rat)",
+      "category": "coin",
+      "country": {
+        "code": "somalie",
+        "name": "Somalia"
+      },
+      "minYear": 2000,
+      "maxYear": 2000
+    },
+    {
+      "id": 7669,
+      "title": "10 Shillings (Tiger)",
+      "category": "coin",
+      "country": {
+        "code": "somalie",
+        "name": "Somalia"
+      },
+      "minYear": 2000,
+      "maxYear": 2000
+    },
+    {
+      "id": 7670,
+      "title": "10 Shillings (Rabbit)",
+      "category": "coin",
+      "country": {
+        "code": "somalie",
+        "name": "Somalia"
+      },
+      "minYear": 2000,
+      "maxYear": 2000
+    },
+    {
+      "id": 7671,
+      "title": "10 Shillings (Dragon)",
+      "category": "coin",
+      "country": {
+        "code": "somalie",
+        "name": "Somalia"
+      },
+      "minYear": 2000,
+      "maxYear": 2000
+    },
+    {
+      "id": 7672,
+      "title": "10 Shillings (Snake)",
+      "category": "coin",
+      "country": {
+        "code": "somalie",
+        "name": "Somalia"
+      },
+      "minYear": 2000,
+      "maxYear": 2000
+    },
+    {
+      "id": 7673,
+      "title": "10 Shillings (Horse)",
+      "category": "coin",
+      "country": {
+        "code": "somalie",
+        "name": "Somalia"
+      },
+      "minYear": 2000,
+      "maxYear": 2000
+    },
+    {
+      "id": 7674,
+      "title": "10 Shillings (Goat)",
+      "category": "coin",
+      "country": {
+        "code": "somalie",
+        "name": "Somalia"
+      },
+      "minYear": 2000,
+      "maxYear": 2000
+    },
+    {
+      "id": 7675,
+      "title": "10 Shillings (Monkey)",
+      "category": "coin",
+      "country": {
+        "code": "somalie",
+        "name": "Somalia"
+      },
+      "minYear": 2000,
+      "maxYear": 2000
+    },
+    {
+      "id": 7676,
+      "title": "10 Shillings (Rooster)",
+      "category": "coin",
+      "country": {
+        "code": "somalie",
+        "name": "Somalia"
+      },
+      "minYear": 2000,
+      "maxYear": 2000
+    },
+    {
+      "id": 7677,
+      "title": "10 Shillings (Dog)",
+      "category": "coin",
+      "country": {
+        "code": "somalie",
+        "name": "Somalia"
+      },
+      "minYear": 2000,
+      "maxYear": 2000
+    },
+    {
+      "id": 7678,
+      "title": "10 Shillings (Pig)",
+      "category": "coin",
+      "country": {
+        "code": "somalie",
+        "name": "Somalia"
+      },
+      "minYear": 2000,
+      "maxYear": 2000
+    }
+  ],
+  "tags": [
+    "Cow or bovine",
+    "Chinese calendar"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "91"
+    }
+  ],
+  "weight": 4.82,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "category": "coin",
+  "type": "Non-circulating coins"
+}

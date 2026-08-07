@@ -1,0 +1,121 @@
+{
+  "id": 2379,
+  "url": "https://en.numista.com/2379",
+  "title": "10 Kroner - Margrethe II (1st portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "danemark",
+    "name": "Denmark"
+  },
+  "issuing_entity": {
+    "id": 588,
+    "name": "National Bank of Denmark",
+    "wikidata_id": "Q683252"
+  },
+  "min_year": 1979,
+  "max_year": 1988,
+  "ruler": [
+    {
+      "id": 2404,
+      "name": "Margrethe II",
+      "wikidata_id": "Q102139",
+      "group": {
+        "id": 104,
+        "name": "House of Schleswig-Holstein-Sonderburg-Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Kroner",
+    "numeric_value": 10,
+    "currency": {
+      "id": 13,
+      "name": "Krone",
+      "full_name": "Krone (1873-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 28,
+  "thickness": 2.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Frode Bahnsen"
+    ],
+    "description": "Bust of Queen Margrethe II facing right surrounded by inscription, mintmark and initials at the bottom. All in a beaded ring, solid ring on the rim.",
+    "lettering": "MARGRETHE II DANMARKS DRONNING\r\nB ♥ B",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Margrethe II, Queen of Denmark.",
+    "picture": "https://en.numista.com/catalogue/photos/danemark/64d422412e5126.39923502-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/64d422412e5126.39923502-180.jpg",
+    "picture_copyright": "Elvi75",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Frode Bahnsen"
+    ],
+    "description": "Large numeral value in the centre with horizontal lines behind, rye stalks on each side. Date at the top, demonination at the bottom. All in a beaded ring, solid ring on the rim.",
+    "lettering": "1979\r\n10 \r\nKRONER",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/danemark/64d422422d8374.87740869-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/64d422422d8374.87740869-180.jpg",
+    "picture_copyright": "Elvi75",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "tags": [
+    "Monarch",
+    "Flower",
+    "Heart"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "864"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "82"
+    }
+  ],
+  "weight": 12.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain."
+  },
+  "mints": [
+    {
+      "id": 260,
+      "name": "Royal Danish Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

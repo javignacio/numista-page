@@ -1,0 +1,144 @@
+{
+  "id": 8725,
+  "url": "https://en.numista.com/8725",
+  "title": "25 Pennia",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "finlande",
+    "name": "Finland"
+  },
+  "min_year": 1921,
+  "max_year": 1940,
+  "ruler": [
+    {
+      "id": 3291,
+      "name": "Republic",
+      "wikidata_id": "Q33"
+    }
+  ],
+  "value": {
+    "text": "25 Pennia",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 1156,
+      "name": "Markka",
+      "full_name": "Markka (1860-1963)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 16,
+  "thickness": 1,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Isak Gustaf Sundell"
+    ],
+    "description": "Coat of arms of Finland - a rampant lion left with the right foreleg replaced with an armoured hand brandishing a sword, trampling on a sabre with the hindpaws. \r\nDate divided by coat of arms.",
+    "lettering": "1921\r\nH",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/finlande/5f5a5a1e515111.46199260-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/5f5a5a1e515111.46199260-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Isak Gustaf Sundell"
+    ],
+    "description": "Denomination flanked by grain sprigs",
+    "lettering": "25\r\nPENNIÄ",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "25\r\nPENNIES",
+    "picture": "https://en.numista.com/catalogue/photos/finlande/5f5a5a1eb66240.47074053-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/5f5a5a1eb66240.47074053-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "related_types": [
+    {
+      "id": 5846,
+      "title": "25 Pennia",
+      "category": "coin",
+      "country": {
+        "code": "finlande",
+        "name": "Finland"
+      },
+      "minYear": 1940,
+      "maxYear": 1943
+    },
+    {
+      "id": 9254,
+      "title": "25 Pennia",
+      "category": "coin",
+      "country": {
+        "code": "finlande",
+        "name": "Finland"
+      },
+      "minYear": 1943,
+      "maxYear": 1945
+    }
+  ],
+  "tags": [
+    "Cat or feline",
+    "Flower",
+    "Coat of Arms",
+    "Cold weapons"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "25"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "20"
+    }
+  ],
+  "weight": 1.27,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/finlande/1299-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/1299-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 1333,
+      "name": "Mint of Finland"
+    },
+    {
+      "id": 18,
+      "name": "Heaton and Sons / The Mint Birmingham"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

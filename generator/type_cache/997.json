@@ -1,0 +1,109 @@
+{
+  "id": 997,
+  "url": "https://en.numista.com/997",
+  "title": "50 Santimat / Centimes - Hassan II (2nd portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "maroc",
+    "name": "Morocco"
+  },
+  "min_year": 1974,
+  "max_year": 1974,
+  "ruler": [
+    {
+      "id": 3830,
+      "name": "Hassan II",
+      "wikidata_id": "Q69103",
+      "group": {
+        "id": 223,
+        "name": "Alaouite Kings"
+      }
+    }
+  ],
+  "value": {
+    "text": "50 Centimes",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 36,
+      "name": "Dirham",
+      "full_name": "Dirham (1960-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21,
+  "thickness": 1.55,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "David Wynne"
+    ],
+    "description": "Head Hassan II left",
+    "lettering": "الحسن الثاني\r\nالمملكة المغربية",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "Hassan II\r\nKingdom of Morocco",
+    "picture": "https://en.numista.com/catalogue/photos/maroc/1362-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/maroc/1362-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "description": "Arms of the Kingdom",
+    "lettering": "1974 1394\r\nخمسون 50 سنتيما",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "1974 1394\r\nFifty centimes",
+    "picture": "https://en.numista.com/catalogue/photos/maroc/1363-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/maroc/1363-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "comments": "KM#MS2:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5945afe633cea.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5945afe633cea.jpg\" alt=\"\" width=\"199\" height=\"157\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5945aff81299e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5945aff81299e.jpg\" alt=\"\" width=\"195\" height=\"250\" /></a> <a href=\"https://en.numista.com/catalogue/images/5945b000ee8a7.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5945b000ee8a7.jpg\" alt=\"\" width=\"151\" height=\"250\" /></a><br />\r\n© Hering",
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "62"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "54"
+    }
+  ],
+  "weight": 4,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

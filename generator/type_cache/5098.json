@@ -1,0 +1,105 @@
+{
+  "id": 5098,
+  "url": "https://en.numista.com/5098",
+  "title": "50 Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "colombie",
+    "name": "Colombia"
+  },
+  "min_year": 1970,
+  "max_year": 1980,
+  "ruler": [
+    {
+      "id": 4088,
+      "name": "Republic",
+      "wikidata_id": "Q739"
+    }
+  ],
+  "value": {
+    "text": "50 Centavos",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 147,
+      "name": "Peso decimalized",
+      "full_name": "Peso decimalized (1847-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23.5,
+  "thickness": 1.5,
+  "shape": "Dodecagonal (12-sided)",
+  "composition": {
+    "text": "Nickel clad steel (90% steel, 10% nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Portrait of Francisco de Paula Santander facing right, with the country name above and date below.",
+    "lettering": "REPUBLICA DE COLOMBIA\r\n* 1975 *",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Colombia",
+    "picture": "https://en.numista.com/catalogue/photos/colombie/1309-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/1309-180.jpg",
+    "picture_copyright": "Ciscoins.net",
+    "picture_copyright_url": "https://web.archive.org/web/20201116183734/http://ciscoins.net/"
+  },
+  "reverse": {
+    "description": "Value within laurel wreath",
+    "lettering": "50 \r\nCENTAVOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/colombie/1310-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/1310-180.jpg",
+    "picture_copyright": "Ciscoins.net",
+    "picture_copyright_url": "https://web.archive.org/web/20201116183734/http://ciscoins.net/"
+  },
+  "comments": "KM#244.1: Flat truncation, 5 far from wreath<br />\r\nKM#244.2: Angled truncation, 5 close to the wreath<br />\r\nKM#244.3: Angled truncation, 5 far from the wreath<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5f8b52c86efa4.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5f8b52c86efa4.jpg\" alt=\"\" width=\"200\" height=\"98\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5f8b52d2e9325.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5f8b52d2e9325.jpg\" alt=\"\" width=\"199\" height=\"99\" /></a><br /><br />\r\nDate varieties exist.<br />\r\nThe photos show the difference in the border, font and size of the date in 1970 and 1971:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5d89b8ff9af5f.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d89b8ff9af5f.jpg\" alt=\"\" width=\"200\" height=\"111\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5d89b91974e5a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d89b91974e5a.jpg\" alt=\"\" width=\"200\" height=\"113\" /></a>",
+  "tags": [
+    "Military leader",
+    "Politician",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "244"
+    },
+    {
+      "catalogue": {
+        "id": 348,
+        "code": "Restrepo"
+      },
+      "number": "424-426"
+    }
+  ],
+  "weight": 4.52,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 280,
+      "name": "Bogota Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

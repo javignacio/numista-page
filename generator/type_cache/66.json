@@ -1,0 +1,128 @@
+{
+  "id": 66,
+  "url": "https://en.numista.com/66",
+  "title": "10 Cents",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "barbade",
+    "name": "Barbados"
+  },
+  "min_year": 1973,
+  "max_year": 2005,
+  "ruler": [
+    {
+      "id": 3989,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 244,
+        "name": "Commonwealth Realm"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Cents",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 51,
+      "name": "Dollar",
+      "full_name": "Dollar (1973-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 17.78,
+  "thickness": 1.13,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Philip Nathan"
+    ],
+    "description": "National arms of Barbados",
+    "lettering": "2000\r\nPRIDE AND INDUSTRY\r\nBARBADOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/barbade/311-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/barbade/311-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "engravers": [
+      "Philip Nathan"
+    ],
+    "description": "Gull (probably a Laughing Gull) flying left, value below.",
+    "lettering": "PN\r\nTEN CENTS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/barbade/312-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/barbade/312-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "comments": "<p>The Central Bank of Barbados identifies the bird as a tern (<a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"http://www.centralbank.org.bb/banknotes/circulation-coins/cultural-symbols-on-circulation-coins\">http://www.centralbank.org.bb/banknotes/circulation-coins/cultural-symbols-on-circulation-coins</a>) but this is incorrect as terns have a forked tail.<br><br>The Royal Mint coins were struck by two groups of dies for Obverse and Reverse.<br><br><i>Obverse</i><br>Die <strong>1</strong> - motto 'PRIDE AND INDUSTRY' bold, all the rest details thin and far from each other.<br>Die <strong>2</strong> - motto 'PRIDE AND INDUSTRY' thin, all the rest details thick and closer to each other.<br><a href=\"https://en.numista.com/catalogue/images/5d1dde926b135.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d1dde926b135.jpg\" alt=\"\"></a><br><br><i>Reverse</i><br>Die <strong>A</strong> - letters of the denomination are thin, PN tall, the upper clow next to C in CENTS pointed down.<br>Die <strong>B</strong> - letters of the denomination are thick, PN low, the upper clow next to C in CENTS pointed up.<br><a href=\"https://en.numista.com/catalogue/images/5d1ddea704850.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d1ddea704850.jpg\" alt=\"\"></a><br><br><i>Combinations</i><br>Dies <strong>1+A</strong> in 1973-1987.<br>Dies<strong> 2+B</strong> in 1989-2005 and continued 2006-2018 on Nickel plated Steel planchets (N#19165).</p>",
+  "tags": [
+    "Bird",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "12"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "4"
+    }
+  ],
+  "weight": 2.26,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/barbade/698b07ae688c58.48496914-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/barbade/698b07ae688c58.48496914-180.jpg",
+    "picture_copyright": "Harryg",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 19,
+      "name": "Royal Canadian Mint of Ottawa"
+    },
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    },
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    },
+    {
+      "id": 1319,
+      "name": "Franklin Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

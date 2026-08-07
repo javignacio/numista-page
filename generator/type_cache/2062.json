@@ -1,0 +1,152 @@
+{
+  "id": 2062,
+  "url": "https://en.numista.com/2062",
+  "title": "10 Zlotys",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "pologne",
+    "name": "Poland"
+  },
+  "min_year": 1984,
+  "max_year": 1988,
+  "ruler": [
+    {
+      "id": 3738,
+      "name": "Polish People's Republic",
+      "wikidata_id": "Q211274"
+    }
+  ],
+  "value": {
+    "text": "10 Zlotys",
+    "numeric_value": 10,
+    "currency": {
+      "id": 199,
+      "name": "Third Zloty",
+      "full_name": "Third Zloty (1949-1994)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1984-12-06"
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1995-01-01"
+  },
+  "size": 25,
+  "thickness": 2.04,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Stanisława Wątróbska-Frindt"
+    ],
+    "description": "The White Eagle, national coat of arms of Poland.",
+    "lettering": "POLSKA RZECZPOSPOLITA LUDOWA\r\nmw \r\n·1986·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Polish People's Republic",
+    "picture": "https://en.numista.com/catalogue/photos/pologne/21-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pologne/21-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Ewa Tyc-Karpińska"
+    ],
+    "description": "Denomination",
+    "lettering": "10 \r\nZŁOTYCH",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/pologne/22-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pologne/22-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "related_types": [
+    {
+      "id": 2068,
+      "title": "10 Zlotys",
+      "category": "coin",
+      "country": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "minYear": 1989,
+      "maxYear": 1990
+    },
+    {
+      "id": 2061,
+      "title": "20 Zlotys (large type)",
+      "category": "coin",
+      "country": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "minYear": 1984,
+      "maxYear": 1988
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "152.1"
+    },
+    {
+      "catalogue": {
+        "id": 165,
+        "code": "ParM"
+      },
+      "number": "243"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "146"
+    },
+    {
+      "catalogue": {
+        "id": 166,
+        "code": "Fischer Po"
+      },
+      "number": "OB068"
+    }
+  ],
+  "weight": 7.7,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/pologne/6159d16c1b5bb1.53766017-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pologne/6159d16c1b5bb1.53766017-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 27,
+      "name": "Mint of Poland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

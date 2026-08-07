@@ -1,0 +1,113 @@
+{
+  "id": 433,
+  "url": "https://en.numista.com/433",
+  "title": "1 Cent - Elizabeth II (1st portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "canada",
+    "name": "Canada"
+  },
+  "min_year": 1953,
+  "max_year": 1964,
+  "ruler": [
+    {
+      "id": 2095,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 827,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Cent",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 44,
+      "name": "Dollar",
+      "full_name": "Dollar (1858-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 19.05,
+  "thickness": 1.65,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze (98% copper, 0.5% tin, 1.5% zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Mary Gillick",
+      "Thomas Shingles"
+    ],
+    "description": "Bust of Queen Elizabeth II, as at 27 years of age, wearing a wreath, facing right with engraver's initials in truncation.",
+    "lettering": "ELIZABETH II DEI GRATIA REGINA\r\nM·G·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Elizabeth II Queen by the grace of God",
+    "picture": "https://en.numista.com/catalogue/photos/canada/724-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/724-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "engravers": [
+      "George Kruger Gray"
+    ],
+    "description": "A maple twig is surrounded with the face value, the inscription \"CANADA,\" and the date to the left.",
+    "lettering": "1 CENT\r\nCANADA\r\n1953\r\nK·G",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/canada/725-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/725-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "<p style=\"margin-left:0px;\">(C) mintage included with the circulation coin.</p><p>&nbsp;</p><p>This coin has some varieties known as 'Shoulder fold' (SF) and 'No shoulder fold' (NSF). This was due to weak relief on dies, and accidental reuse of the old dies. These varieties can be found in the years 1953, 1954 and 1955, with the 1955 NSF being the rarity. Since it is difficult to differentiate SF from NSF, it is helpful to look at the \"I\" in \"DEI\". If it points directly to a denticle, it is the SF obverse. If pointing in between two denticles, it is the NSF obverse.<br><a href=\"https://en.numista.com/catalogue/images/601c2ec0b599a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/601c2ec0b599a.jpg\" alt=\"\"></a></p>",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "49"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "48"
+    }
+  ],
+  "weight": 3.24,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/canada/699c12176e6486.63612901-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/699c12176e6486.63612901-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 19,
+      "name": "Royal Canadian Mint of Ottawa"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

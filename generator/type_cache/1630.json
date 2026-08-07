@@ -1,0 +1,120 @@
+{
+  "id": 1630,
+  "url": "https://en.numista.com/1630",
+  "title": "10 Paise",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "inde",
+    "name": "India"
+  },
+  "min_year": 1983,
+  "max_year": 1993,
+  "ruler": [
+    {
+      "id": 2943,
+      "name": "Republic",
+      "wikidata_id": "Q668"
+    }
+  ],
+  "value": {
+    "text": "10 Paise",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 171,
+      "name": "Rupee",
+      "full_name": "Rupee (decimalized, 1957-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2011-06-30"
+  },
+  "size": 23.03,
+  "thickness": 1.94,
+  "shape": "Scalloped (with 8 notches)",
+  "composition": {
+    "text": "Aluminium (96% Aluminium, 4% Magnesium)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Ashoka lion capital with the country name on both sides",
+    "lettering": "भारत INDIA\r\nसत्यमेव जयते",
+    "lettering_scripts": [
+      {
+        "name": "Devanagari"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "India India\r\nTruth alone triumphs",
+    "picture": "https://en.numista.com/catalogue/photos/inde/2339-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/inde/2339-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "reverse": {
+    "description": "The denomination above the date",
+    "lettering": "पस\r\n10\r\nPAISE\r\n1984",
+    "lettering_scripts": [
+      {
+        "name": "Devanagari"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Paise\r\n10\r\nPaise",
+    "picture": "https://en.numista.com/catalogue/photos/inde/3110-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/inde/3110-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "tags": [
+    "Cat or feline",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "39"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "163"
+    }
+  ],
+  "weight": 1.76,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/inde/6924d3182810d7.19217966-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/inde/6924d3182810d7.19217966-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 1803,
+      "name": "Kolkata / Calcutta / Murshidabad"
+    },
+    {
+      "id": 1806,
+      "name": "Hyderabad"
+    },
+    {
+      "id": 1804,
+      "name": "Mumbai / Bombay"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

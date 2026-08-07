@@ -1,0 +1,115 @@
+{
+  "id": 4536,
+  "url": "https://en.numista.com/4536",
+  "title": "10 Céntimos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "venezuela",
+    "name": "Venezuela"
+  },
+  "min_year": 2007,
+  "max_year": 2012,
+  "ruler": [
+    {
+      "id": 4707,
+      "name": "Bolivarian Republic",
+      "wikidata_id": "Q717"
+    }
+  ],
+  "value": {
+    "text": "10 Centimos",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 274,
+      "name": "Bolivar Fuerte",
+      "full_name": "Bolivar Fuerte (2008-2018)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2018-12-03"
+  },
+  "size": 18,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms with legend and date on outer circle.",
+    "lettering": "• REPÚBLICA BOLIVIANA DE VENEZUELA •\r\n2007",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Bolivarian Republic of Venezuela",
+    "picture": "https://en.numista.com/catalogue/photos/venezuela/627543d380ebf1.34798920-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/venezuela/627543d380ebf1.34798920-180.jpg",
+    "picture_copyright": "Yurek70"
+  },
+  "reverse": {
+    "description": "Value at right with diagonal waves crossing the coin. Eight stars and mint mark at right.",
+    "lettering": "★★★★★★★★\r\n10\r\nCÉNTIMOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "10 Centimes",
+    "picture": "https://en.numista.com/catalogue/photos/venezuela/627543d4f25816.31952938-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/venezuela/627543d4f25816.31952938-180.jpg",
+    "picture_copyright": "Yurek70"
+  },
+  "comments": "2007: fat (left) and slim (right) zeros:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/624e779114247.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/624e779114247.jpg\" alt=\"\" width=\"200\" height=\"128\" /></a><a href=\"https://en.numista.com/catalogue/images/624e7798b1073.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/624e7798b1073.jpg\" alt=\"\" width=\"200\" height=\"117\" /></a>",
+  "tags": [
+    "Horse or equine",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "89"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "102"
+    },
+    {
+      "catalogue": {
+        "id": 2068,
+        "code": "NCV"
+      },
+      "number": "mv10ctsf-aa"
+    }
+  ],
+  "weight": 2.62,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 4182,
+      "name": "Casa de la Moneda de Venezuela"
+    },
+    {
+      "id": 27,
+      "name": "Mint of Poland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

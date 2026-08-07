@@ -1,0 +1,143 @@
+{
+  "id": 10733,
+  "url": "https://en.numista.com/10733",
+  "title": "10 New Pence - Elizabeth II (Three Legs of Man)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "ile_de_man",
+    "name": "Isle of Man"
+  },
+  "min_year": 1971,
+  "max_year": 1975,
+  "ruler": [
+    {
+      "id": 3222,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 784,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 New Pence",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 428,
+      "name": "Pound",
+      "full_name": "Pound (decimalized, 1971-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 28.5,
+  "thickness": 2.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Arnold Machin"
+    ],
+    "description": "Right facing uncouped bust of Queen Elizabeth II, wearing the \" Girls of Great Britain and Ireland \" Tiara, legend around, date below",
+    "lettering": "ELIZABETH THE SECOND\r\n· 1971 ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/ile_de_man/5f00aa325698f7.46935202-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ile_de_man/5f00aa325698f7.46935202-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Christopher Ironside"
+    ],
+    "description": "Triskelion",
+    "lettering": "· ISLE OF MAN ·\r\nTEN NEW PENCE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/ile_de_man/5f00aa32b0ab76.85662906-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ile_de_man/5f00aa32b0ab76.85662906-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "series": "1971 series",
+  "comments": "<p>The PM mint mark appears on the obverse below the Queen's bust for the coins from 1972. PM stands for the Pobjoy Mint.</p><p>&nbsp;</p><p>The Three Legs device, in its characterist armoured and spurred Manx form, is known from heraldic rolls dating from the late 13th century. It formed the heraldic arms of the medieval King of Man, and later became adopted as the official arms of the Island.</p>",
+  "related_types": [
+    {
+      "id": 92032,
+      "title": "10 New Pence - Elizabeth II (Three Legs of Man; Silver)",
+      "category": "coin",
+      "country": {
+        "code": "ile_de_man",
+        "name": "Isle of Man"
+      },
+      "minYear": 1975,
+      "maxYear": 1975
+    },
+    {
+      "id": 92033,
+      "title": "10 New Pence - Elizabeth II (Three Legs of Man; Platinum)",
+      "category": "coin",
+      "country": {
+        "code": "ile_de_man",
+        "name": "Isle of Man"
+      },
+      "minYear": 1975,
+      "maxYear": 1975
+    }
+  ],
+  "tags": [
+    "Triskelion"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "23"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "23"
+    }
+  ],
+  "weight": 11.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    },
+    {
+      "id": 26,
+      "name": "Pobjoy Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,108 @@
+{
+  "id": 1152,
+  "url": "https://en.numista.com/1152",
+  "title": "10 Pence - Elizabeth II",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "guernesey",
+    "name": "Guernsey"
+  },
+  "min_year": 1977,
+  "max_year": 1984,
+  "ruler": [
+    {
+      "id": 2969,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 782,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Pence",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 332,
+      "name": "Pound",
+      "full_name": "Pound (decimalized, 1971-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 28.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms",
+    "lettering": "S'BALLIVIE INSVLE DE GERNERE VE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "The Bailiwick of the Island of Guernsey",
+    "picture": "https://en.numista.com/catalogue/photos/guernesey/218-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/guernesey/218-180.jpg",
+    "picture_copyright": "Ma collection de monnaies",
+    "picture_copyright_url": "https://monnaiesetvarietes.numista.com/"
+  },
+  "reverse": {
+    "engravers": [
+      "Paul Vincze"
+    ],
+    "description": "Guernsey cow",
+    "lettering": "10\r\n1977\r\nTEN PENCE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/guernesey/219-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/guernesey/219-180.jpg",
+    "picture_copyright": "Ma collection de monnaies",
+    "picture_copyright_url": "https://monnaiesetvarietes.numista.com/"
+  },
+  "tags": [
+    "Cow or bovine"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "30"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "33"
+    }
+  ],
+  "weight": 11.31,
+  "orientation": "medal",
+  "edge": {
+    "description": "Milled"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

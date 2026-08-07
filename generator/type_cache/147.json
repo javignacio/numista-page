@@ -1,0 +1,136 @@
+{
+  "id": 147,
+  "url": "https://en.numista.com/147",
+  "title": "5 Euro Cents - Beatrix",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "pays-bas",
+    "name": "Netherlands"
+  },
+  "min_year": 1999,
+  "max_year": 2013,
+  "ruler": [
+    {
+      "id": 1303,
+      "name": "Beatrix",
+      "wikidata_id": "Q29574",
+      "group": {
+        "id": 750,
+        "name": "House of Orange-Nassau"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Euro Cents",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 9012,
+      "name": "Euro",
+      "full_name": "Euro (2002-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2002-01-01"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21.25,
+  "thickness": 1.67,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Bruno Ninaber van Eyben"
+    ],
+    "description": "Profile of Queen Beatrix encircled by twelve stars of Europe.",
+    "lettering": "BEATRIX KONINGIN DER NEDERLANDEN",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Beatrix Queen of the Netherlands",
+    "picture": "https://en.numista.com/catalogue/photos/pays-bas/61fde4379b8e66.45331830-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/61fde4379b8e66.45331830-180.jpg",
+    "picture_copyright": "Mike Bentley",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Luc Luycx"
+    ],
+    "description": "A globe, next to the face value, shows Europe in relation to Africa and Asia.",
+    "lettering": "5 EURO\r\nCENT LL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/pays-bas/61fde438a4eb65.87953789-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/61fde438a4eb65.87953789-180.jpg",
+    "picture_copyright": "Mike Bentley",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p>This coin was engraved by the Utrecht mint by several engravers in the following periods:<br></p><ul><li>1999: bow bandaged and cocked; Chris Van Dranen (titular)<br></li><li>2000: banded and cocked bow and star; Erik Jan van Schouwenburg (interim)<br></li><li>2001: cluster; Robert Bruens (incumbent)<br></li><li>2002: cluster and star; Maarten Brouwer (interim)<br></li><li>2003 - 2013: sails; Maarten Brouwer (incumbent)<br></li></ul><p><br><strong><u>BU 1999</u></strong><br>Charité - \"Clini-clowns\" 75,000 copies<br><strong><u>BU 2000</u></strong><br>Charité - \"Nature's masterpieces\" 75000 copies<br><strong><u>UNC 2000</u></strong><br>Rabo-bank 13850 copies<br><strong><u>BU 2001</u></strong><br>Charity - \"Fund for the disabled\" 65000 copies<br>Information set \"Denmark\" 15000 copies<br><strong><u>BU 2002</u></strong><br>Charity - \"Guide dogs for the blind\" 105000 copies<br>Beatrix box set 59500 copies<br>Birth 25000 copies<br>VOC 1 - The foundation 10000 copies<br>VOC 2 - The ships 10000 copies<br>VOC 3 - Itineraries 10,000 copies<br>VOC 4 - Heroes 10000 copies<br>Wedding 10000 copies<br>Mint Day 2002 copies<br>VVV IRIS gift vouchers 2500 copies<br>BVC Bloemendaal 3000 copies<br>Themaset - Beatrix 3500 copies<br><strong><u>BU 2003</u></strong><br>Charité - \"Fondation contre l'épilepsie\" 75,000 copies<br>VOC 5 - Goods 10,000 copies<br>VOC 6 - Money 4,500 copies<br>Marriage 15,000 copies<br>Birth 25,000 copies<br>Themaset - Princess birth 20,000 copies<br>Mint Day 2,003 copies<br>Themaset - Maîtres de la Monnaie 3,500 copies<br>VVV IRIS gift vouchers 10,000 copies<br>World Money Fair Basel 1,000 copies<br>Hungary\" information set 11,000 copies<br><strong><u>BU 2004</u></strong><br>Charity - \"Burn victims\" 50,000 copies<br>Birth 20,000 copies<br>Wedding 10,000 copies<br>Themaset - Mint Masters 3,500 copies<br>VVV IRIS gift vouchers 3,500 copies<br>Themaset - Souvenir de la Reine Juliana 10,000 copies<br>Jour de la Monnaie 2,004<br>Basel World Money Fair 1,000 copies<br><strong><u>BU 2005</u></strong><br>Charity - \"Princess Beatrix Fund\" 55,000 copies<br>Wedding 10,000 copies<br>Birth 14,500 copies<br>Miffy 50th anniversary box set 20,000 copies<br>Mint Day 2,005 copies<br>Themaset - Maîtres de la Monnaie 3,500 copies<br>World Money Fair Basel 1,000 copies<br>Themaset - Netherlands and Canada: 60 years of liberation 17,500 copies<br><strong><u>BU 2006</u></strong><br>Charité - \"KIKA Foundation\" 38,000 copies<br>World Money Fair Berlin 1,000 copies<br>Jour de la Monnaie 2,006 copies<br>Themaset - Maîtres de la Monnaie 3,500 copies<br>200 years of Dutch coinage 4,500 copies<br>Six Rembrandt series (silver collection) 4,000 copies<br><strong><u>BU 2007</u></strong><br>Annual boxed set 40,000 copies<br>Themaset - Maîtres de la Monnaie 3,500 copies<br>Jour de la Monnaie 2,007 copies<br>World Money Fair Berlin 500 copies<br>Six Michiel de Ruyter series (Silver collection) 3,000 copies<br>Themaset - 200 years of the royal predicate 5,000 copies<br><strong><u>BU 2008</u></strong><br>Annual boxed set 40,000 copies<br>Themaset - Maîtres de la Monnaie 3,500 copies*<br>World Money Fair Berlin 500 copies<br>Jour de la Monnaie 2,008 copies<br>Themaset - 150th anniversary of the birth of Queen Emma 5,000 copies<br><strong><u>BU 2009</u></strong><br>Annual box set 35,000 copies<br>Themaset - 100th anniversary of the birth of Queen Juliana 5,000 copies<br>Themaset - Maîtres de la Monnaie 3,500 copies<br>Jour de la Monnaie 2,009 copies<br>World Money Fair Berlin 500 copies<br>Coin Convention Tokyo 500 copies<br><strong><u>BU 2010</u></strong><br>Annual boxed set 25,000 copies<br>Themaset - 30th anniversary of Queen Beatrix's reign 5,000 copies<br>Mint Day 2,010 copies<br>Museum Series - Noord-Brabants Museum 3,000 copies<br>World Money Fair Berlin 500 copies<br><strong><u>BU 2011</u></strong><br>Annual box set 25,000 copies<br>Mint Day 2,011 copies<br>Museum Series - Groninger Museum 3,000 copies<br>Themaset - 100th anniversary of Prince Bernhard's birth 5,000 copies<br>Wedding 1,250 copies<br>World Money Fair Berlin 500 copies<br>Birth 5,000 copies<br><strong><u>BU 2012</u></strong><br>Birth 2,500 copies<br>Wedding 1,250 copies<br>Annual box set 25,000 copies<br>Museum Series - Drents Central Museum 3,000 copies<br>Mint Day 2,012 copies<br>Themaset - 10th wedding anniversary of Prince Willem-Alexander and Princess Maxima 5,000 copies<br>World Money Fair Berlin 500 copies<br><strong><u>BU 2013</u></strong><br>Annual box set 15,000 copies<br>Museum Series - National Museum of Antiquities Leiden 2,250 copies<br>World Money Fair Berlin 500 copies<br>Abdication I 10,000 copies<br>Mint Day 2,013 copies<br>Birth boy 2,000 copies<br>Birth girl 2,000 copies<br>Birth 2,000 copies<br>Wedding 1,000 copies<br>Themaset: the Queen's last day 4,000 copies</p>",
+  "related_types": [
+    {
+      "id": 54953,
+      "title": "5 Euro Cents - Willem-Alexander",
+      "category": "coin",
+      "country": {
+        "code": "pays-bas",
+        "name": "Netherlands"
+      },
+      "minYear": 2014,
+      "maxYear": 2026
+    }
+  ],
+  "tags": [
+    "Map",
+    "Monarch"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "236"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "119"
+    }
+  ],
+  "weight": 3.92,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/pays-bas/2008-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/2008-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 23,
+      "name": "Royal Dutch Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

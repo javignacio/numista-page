@@ -1,0 +1,156 @@
+{
+  "id": 19977,
+  "url": "https://en.numista.com/19977",
+  "title": "1 Cent - Elizabeth II (4th portrait; magnetic with RCM logo)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "canada",
+    "name": "Canada"
+  },
+  "min_year": 2006,
+  "max_year": 2012,
+  "ruler": [
+    {
+      "id": 2095,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 827,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Cent",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 44,
+      "name": "Dollar",
+      "full_name": "Dollar (1858-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 19.05,
+  "thickness": 1.45,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper plated steel (94% steel, 1.5% nickel, 4.5% copper plating)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Susan Taylor"
+    ],
+    "designers": [
+      "Susanna Blunt"
+    ],
+    "description": "Head of Queen Elizabeth II, as at 77 years of age, bare headed, wearing necklace and earrings, facing right.",
+    "lettering": "ELIZABETH II D·G·REGINA\r\nSB",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "ELIZABETH II DEI GRATIA REGINA",
+    "lettering_translation": "Elizabeth II Queen by the grace of God",
+    "picture": "https://en.numista.com/catalogue/photos/canada/64fa23e2625b35.92327956-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/64fa23e2625b35.92327956-180.jpg",
+    "picture_copyright": "monnaiecanada.com",
+    "picture_copyright_url": "https://www.monnaiecanada.com/"
+  },
+  "reverse": {
+    "engravers": [
+      "George Kruger Gray"
+    ],
+    "description": "A maple twig with the denomination above, the date to the left, and the country name below.",
+    "lettering": "1 CENT\r\n2006\r\nCANADA\r\nK·G",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/canada/64fb4c3bb23644.69767075-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/64fb4c3bb23644.69767075-180.jpg",
+    "picture_copyright": "monnaiecanada.com",
+    "picture_copyright_url": "https://www.monnaiecanada.com/"
+  },
+  "comments": "<p>(C) mintage included with the circulation coin.</p><p>&nbsp;</p><p>Since being announced in March 2012 the Canadian mint would cease production of the one cent coin and would gradually withdraw the coin the following year. The last coin was minted on May 4th 2012 and the Canadian mint ceased distribution of them as of February 4 2013 but it remains legal tender. Since then all Cash transactions are now rounded to the nearest 5¢.</p>",
+  "related_types": [
+    {
+      "id": 377356,
+      "title": "1 Cent - Elizabeth II (4th portrait; non-magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "minYear": 2003,
+      "maxYear": 2006
+    },
+    {
+      "id": 377353,
+      "title": "1 Cent - Elizabeth II (4th portrait; magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "minYear": 2003,
+      "maxYear": 2006
+    },
+    {
+      "id": 421,
+      "title": "1 Cent - Elizabeth II (4th portrait; non-magnetic with RCM logo)",
+      "category": "coin",
+      "country": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "minYear": 2006,
+      "maxYear": 2012
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "490a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "518b"
+    }
+  ],
+  "weight": 2.35,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/canada/5118-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/5118-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    },
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

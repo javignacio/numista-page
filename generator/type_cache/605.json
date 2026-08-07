@@ -1,0 +1,140 @@
+{
+  "id": 605,
+  "url": "https://en.numista.com/605",
+  "title": "¼ Dollar \"Washington Quarter\" (Pennsylvania)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "etats-unis",
+    "name": "United States"
+  },
+  "min_year": 1999,
+  "max_year": 1999,
+  "ruler": [
+    {
+      "id": 4720,
+      "name": "Federal republic",
+      "wikidata_id": "Q30"
+    }
+  ],
+  "value": {
+    "text": "¼ Dollar ",
+    "numeric_value": 0.25,
+    "numerator": 1,
+    "denominator": 4,
+    "currency": {
+      "id": 59,
+      "name": "Dollar",
+      "full_name": "Dollar (1785-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24.26,
+  "thickness": 1.75,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel clad copper"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "John Flanagan",
+      "William Cousins"
+    ],
+    "description": "The portrait in left profile of George Washington, the first President of the United States from 1789 to 1797, is accompanied with the motto \"IN GOD WE TRUST\" and the lettering \"LIBERTY\" and it is surrounded with the face value and the inscription \"UNITED STATES OF AMERICA\", engravers' initials on neck truncation.",
+    "lettering": "UNITED STATES OF AMERICA\r\nIN \r\nGOD WE \r\nTRUST\r\nLIBERTY  S\r\nJF  WC\r\nQUARTER DOLLAR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/65bf5a09b81a90.20432696-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/65bf5a09b81a90.20432696-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "John Mercanti"
+    ],
+    "description": "The statue \"Commonwealth\", an allegorical female figure, against the outline of the state, is accompanied with the state's name (\"PENNSYLVANIA\"), the date of its admission into Union (\"1787\"), a keystone which illustrates its nickname (The Keystone State), the three words \"VIRTUE LIBERTY INDEPENDENCE\", the motto \"E PLURIBUS UNUM\" at the bottom and engraver's initials to the right of statue's legs.",
+    "lettering": "PENNSYLVANIA \r\n1787  \r\nVIRTUE \r\nLIBERTY \r\nINDEPENDENCE  \r\nJM\r\n1999  \r\nE PLURIBUS UNUM",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Out of Many, One",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/65bf5a0c4a0aa0.71761695-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/65bf5a0c4a0aa0.71761695-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "series": "United States Mint's 50 State Quarters Program",
+  "commemorated_topic": "Pennsylvania",
+  "related_types": [
+    {
+      "id": 13558,
+      "title": "¼ Dollar \"Washington Quarter\" (Pennsylvania - Silver Proof)",
+      "category": "coin",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 1999,
+      "maxYear": 1999
+    }
+  ],
+  "tags": [
+    "Sculpture",
+    "Map"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "294"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "294"
+    }
+  ],
+  "weight": 5.67,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/3177-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/3177-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 10,
+      "name": "United States Mint of Denver"
+    },
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    },
+    {
+      "id": 12,
+      "name": "United States Mint of San Francisco"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

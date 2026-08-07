@@ -1,0 +1,116 @@
+{
+  "id": 4537,
+  "url": "https://en.numista.com/4537",
+  "title": "12½ Céntimos \"Locha\"",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "venezuela",
+    "name": "Venezuela"
+  },
+  "min_year": 2007,
+  "max_year": 2007,
+  "ruler": [
+    {
+      "id": 4707,
+      "name": "Bolivarian Republic",
+      "wikidata_id": "Q717"
+    }
+  ],
+  "value": {
+    "text": "12½ Centimos",
+    "numeric_value": 0.125,
+    "currency": {
+      "id": 274,
+      "name": "Bolivar Fuerte",
+      "full_name": "Bolivar Fuerte (2008-2018)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 23,
+  "thickness": 1.43,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms with legend and date on outer circle.",
+    "lettering": "• REPÚBLICA BOLIVIANA DE VENEZUELA •\r\n2007",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Bolivarian Republic of Venezuela",
+    "picture": "https://en.numista.com/catalogue/photos/venezuela/63b5a0564b5323.24060979-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/venezuela/63b5a0564b5323.24060979-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "reverse": {
+    "description": "Value with mint mark at left and eight stars at bottom within sprays.",
+    "lettering": "12½\r\n★★★★★★★★\r\nCÉNTIMOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "12.5 Centimes",
+    "picture": "https://en.numista.com/catalogue/photos/venezuela/63b5a056d42074.98418974-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/venezuela/63b5a056d42074.98418974-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "comments": "<p>Almost fallen in disuse due to its fractional nature and the lack of a \"½ Centimo\" coin, so these have to be in pairs to be usable; and with the existence of a \"25 Centimos\" coin these coins are mostly useless.</p><p>&nbsp;</p><p>12½ Céntimos coin is popularly known as \"Locha\" in Venezuela.</p>",
+  "tags": [
+    "Horse or equine",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "90"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "103"
+    },
+    {
+      "catalogue": {
+        "id": 2068,
+        "code": "NCV"
+      },
+      "number": "mv12.5ctsf-aa01"
+    }
+  ],
+  "weight": 3.93,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 4182,
+      "name": "Casa de la Moneda de Venezuela"
+    },
+    {
+      "id": 27,
+      "name": "Mint of Poland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

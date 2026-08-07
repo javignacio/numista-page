@@ -1,0 +1,130 @@
+{
+  "id": 10641,
+  "url": "https://en.numista.com/10641",
+  "title": "5 Shillings - George VI (Festival of Britain)",
+  "object_type": {
+    "id": 3,
+    "name": "Non-circulating coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1951,
+  "max_year": 1951,
+  "ruler": [
+    {
+      "id": 274,
+      "name": "George VI",
+      "wikidata_id": "Q280856",
+      "group": {
+        "id": 527,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Shillings",
+    "numeric_value": 0.25,
+    "numerator": 5,
+    "denominator": 20,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1971)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 38.61,
+  "thickness": 2.9,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Cu, 25% Ni)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Thomas Humphrey Paget"
+    ],
+    "description": "Uncrowned portrait of King George VI left, legend above, denomination below.",
+    "lettering": "GEORGIVS VI D:G:BR:OMN:REX F:D:\r\nHP\r\nFIVE SHILLINGS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Georgius VI Dei Gratia Britanniarum Omnium Rex Fidei Defensor\r\nHumphrey Paget",
+    "lettering_translation": "George the Sixth by the Grace of God King of all the Britains Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/10311-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/10311-180.jpg",
+    "picture_copyright": "Purzelgnom"
+  },
+  "reverse": {
+    "designers": [
+      "Benedetto Pistrucci"
+    ],
+    "description": "St. George slaying the dragon right, date and designer's initials in exergue.",
+    "lettering": "1951  B.P",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Benedetto Pistrucci",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/10312-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/10312-180.jpg",
+    "picture_copyright": "Purzelgnom"
+  },
+  "commemorated_topic": "Festival of Britain, 1951",
+  "comments": "The standard weight of these coins was 10/11 troy ounce (436.4 grains). Under the Coinage Act of 1946, the composition changed from .500 silver to .750 copper/.250 nickel but the weight remained unchanged.<br /><br />\r\nThis coin was not included in demonetization legislation when decimalization was introduced in 1971. It has been confirmed by the Royal Mint that the coin remains legal tender, having been remonetized with a value of 25 pence.<br /><br />\r\n<a href=\"https://en.wikipedia.org/wiki/Benedetto_Pistrucci\" rel=\"nofollow\">https://en.wikipedia.org/wiki/Benedetto_Pistrucci</a>",
+  "tags": [
+    "Fantasy animal",
+    "Carnival or festival",
+    "Mythology"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "880"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "4111"
+    }
+  ],
+  "weight": 28.28,
+  "orientation": "medal",
+  "edge": {
+    "description": "Incuse legend in Latin with dates in Roman numerals.",
+    "lettering": "MDCCCLI CIVIUM INDUSTRIA FLORET CIVITAS MCMLI",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "1851 By the industry of its people the state flourishes 1951",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/5623-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/5623-180.jpg",
+    "picture_copyright": "Monéphil",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Non-circulating coins"
+}

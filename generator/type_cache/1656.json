@@ -1,0 +1,176 @@
+{
+  "id": 1656,
+  "url": "https://en.numista.com/1656",
+  "title": "10 Sen",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "malaisie",
+    "name": "Malaysia"
+  },
+  "issuing_entity": {
+    "id": 359,
+    "name": "Central Bank of Malaysia",
+    "wikidata_id": "Q806646"
+  },
+  "min_year": 1989,
+  "max_year": 2011,
+  "ruler": [
+    {
+      "id": 905,
+      "name": "Federal elective constitutional monarchy",
+      "wikidata_id": "Q833"
+    }
+  ],
+  "value": {
+    "text": "10 Sen",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 163,
+      "name": "Ringgit",
+      "full_name": "Ringgit (1967-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 19.4,
+  "thickness": 1.37,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Value divides date below Hibiscus flower blossom (Binomial name: Hibiscus rosa-sinensis), the national flower of Malaysia",
+    "lettering": "BANK NEGARA MALAYSIA\r\n10 SEN\r\n1997",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Malaysian National Bank",
+    "picture": "https://en.numista.com/catalogue/photos/malaisie/8-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/malaisie/8-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Congkak (a game of Malay origin for two consisting of a board which has several 'houses' and 'storehouses')",
+    "picture": "https://en.numista.com/catalogue/photos/malaisie/7-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/malaisie/7-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "There are many differences between the years (see the overlap):<br />\r\n- 10, year and SEN are more or less low,<br />\r\n- the zero of 10 is more or less wide,<br />\r\n- the margin of the leaves is very indented or almost smooth,<br />\r\n- the right leaf is higher or lower,<br />\r\n- the flower is more or less rotated,<br />\r\n- the veins of the petals are more or less marked,<br />\r\n- the space between the petals is more or less wide,<br />\r\n- the pistil is more or less arched,<br />\r\n- the tip of the pistil is more or less close to the right leaf.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5f80c4bc69753.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5f80c4bc69753.jpg\" alt=\"\" width=\"200\" height=\"192\" /></a>",
+  "related_types": [
+    {
+      "id": 931,
+      "title": "1 Sen",
+      "category": "coin",
+      "country": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "minYear": 1989,
+      "maxYear": 2008
+    },
+    {
+      "id": 1659,
+      "title": "5 Sen",
+      "category": "coin",
+      "country": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "minYear": 1989,
+      "maxYear": 2011
+    },
+    {
+      "id": 1658,
+      "title": "20 Sen",
+      "category": "coin",
+      "country": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "minYear": 1989,
+      "maxYear": 2011
+    },
+    {
+      "id": 1655,
+      "title": "50 Sen",
+      "category": "coin",
+      "country": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "minYear": 1989,
+      "maxYear": 2011
+    },
+    {
+      "id": 3684,
+      "title": "1 Ringgit - Agong IX (Type 1 denomination)",
+      "category": "coin",
+      "country": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "minYear": 1989,
+      "maxYear": 1993
+    },
+    {
+      "id": 3685,
+      "title": "1 Ringgit - Agong X (Type 2 denomination)",
+      "category": "coin",
+      "country": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "minYear": 1993,
+      "maxYear": 1998
+    }
+  ],
+  "tags": [
+    "Toy or game",
+    "Flower"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "51"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "93"
+    }
+  ],
+  "weight": 2.82,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/malaisie/6939f19de5cf78.78989592-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/malaisie/6939f19de5cf78.78989592-180.jpg",
+    "picture_copyright": "Dieter83"
+  },
+  "mints": [
+    {
+      "id": 4395,
+      "name": "Shah Alam"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

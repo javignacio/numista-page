@@ -1,0 +1,111 @@
+{
+  "id": 3373,
+  "url": "https://en.numista.com/3373",
+  "title": "25 Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "equateur",
+    "name": "Ecuador"
+  },
+  "issuing_entity": {
+    "id": 909,
+    "name": "Central Bank of Ecuador",
+    "wikidata_id": "Q1797646"
+  },
+  "min_year": 2000,
+  "max_year": 2000,
+  "ruler": [
+    {
+      "id": 3758,
+      "name": "Republic",
+      "wikidata_id": "Q736"
+    }
+  ],
+  "value": {
+    "text": "25 Centavos",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 361,
+      "name": "U.S. dollar",
+      "full_name": "U.S. dollar (2000-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24.2,
+  "thickness": 1.75,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Name of the country, national coat of arms, portrait, and name of the president José Joaquín de Olmedo",
+    "lettering": "REPUBLICA DEL ECUADOR\r\n**JOSE JOAQUIN DE OLMEDO**",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Ecuador\r\nJosé Joaquín de Olmedo",
+    "picture": "https://en.numista.com/catalogue/photos/equateur/465-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/equateur/465-180.jpg",
+    "picture_copyright": "ciscoins.net",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Denomination in digits, denomination in words, year of issue",
+    "lettering": "BANCO CENTRAL DEL ECUADOR\r\n25\r\nAÑO \r\n2000\r\nVEINTICINCO CENTAVOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Bank of Ecuador\r\n25\r\nYear \r\n2000\r\nTwenty five centavos",
+    "picture": "https://en.numista.com/catalogue/photos/equateur/466-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/equateur/466-180.jpg",
+    "picture_copyright": "ciscoins.net",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "Due to rampant inflation in the 1980&#039;s and 1990&#039;s, the government of Ecuador abandoned the Sucre in 2000 and adopted the United States Dollar. These coins where introduced to supplement the circulation of the Quarter Dollar.",
+  "tags": [
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "107"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "103"
+    }
+  ],
+  "weight": 5.8,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 29,
+      "name": "Mexican Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

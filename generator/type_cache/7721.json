@@ -1,0 +1,103 @@
+{
+  "id": 7721,
+  "url": "https://en.numista.com/7721",
+  "title": "5 Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "mexique",
+    "name": "Mexico"
+  },
+  "min_year": 1936,
+  "max_year": 1942,
+  "ruler": [
+    {
+      "id": 4029,
+      "name": "United Mexican States/Mexican Republic",
+      "wikidata_id": "Q96"
+    }
+  ],
+  "value": {
+    "text": "5 Centavos",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 150,
+      "name": "Peso",
+      "full_name": "Peso (1863-1992)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 20.5,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The Mexican coat of arms (a Mexican golden eagle perched on a prickly pear cactus devouring a rattlesnake. At the base there is a holm oak (Encina) branch on one side and a laurel branch on the other) and the country name above",
+    "lettering": "ESTADOS UNIDOS MEXICANOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "United Mexican States",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/687d99f822dff6.77318900-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/687d99f822dff6.77318900-180.jpg",
+    "picture_copyright": "La Caja De Moneda"
+  },
+  "reverse": {
+    "description": "The outer circles of the Mexica, or Aztec, Sun Stone, with the year, mintmark (M), and 5 Centavos, in the center.",
+    "lettering": "1938\r\nM \r\n5 \r\nCENTAVOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/mexique/687d99f9947708.33414841-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/687d99f9947708.33414841-180.jpg",
+    "picture_copyright": "La Caja De Moneda"
+  },
+  "tags": [
+    "Eagle"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "423"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "35"
+    }
+  ],
+  "weight": 4,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/66fcb08e4b2df8.69845561-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/66fcb08e4b2df8.69845561-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 29,
+      "name": "Mexican Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

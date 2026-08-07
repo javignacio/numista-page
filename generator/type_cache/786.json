@@ -1,0 +1,145 @@
+{
+  "id": 786,
+  "url": "https://en.numista.com/786",
+  "title": "1 Peseta - Francisco Franco (Ávalos)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "espagne",
+    "name": "Spain"
+  },
+  "min_year": 1967,
+  "max_year": 1975,
+  "ruler": [
+    {
+      "id": 152,
+      "name": "Francisco Franco",
+      "wikidata_id": "Q29179"
+    }
+  ],
+  "value": {
+    "text": "1 Peseta",
+    "numeric_value": 1,
+    "currency": {
+      "id": 142,
+      "name": "Peseta",
+      "full_name": "Peseta (1868-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1997-01-01"
+  },
+  "size": 21,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze (92.5% copper, 7.5% aluminium)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Manuel Marín Jimeno"
+    ],
+    "designers": [
+      "Juan de Ávalos Taborda"
+    ],
+    "description": "Head of Francisco Franco facing right.",
+    "lettering": "FRANCISCO FRANCO CAUDILLO DE ESPAÑA POR LA G.DE DIOS\r\n✠ 1966 ✠",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Francisco Franco, caudillo de España por la gracia de Dios.",
+    "lettering_translation": "Francisco Franco, Leader of Spain by the grace of God.",
+    "picture": "https://en.numista.com/catalogue/photos/espagne/226-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/226-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Manuel Marín Jimeno"
+    ],
+    "description": "Coat of arms of Spain with yoke and arrows below.",
+    "lettering": "🟌 UNA 🟌 PESETA\r\nUNA GRANDE LIBRE\r\nPLUS ULTRA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "One Peseta. One, Great, Free. Further Beyond.",
+    "picture": "https://en.numista.com/catalogue/photos/espagne/227-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/227-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "For the production years check the date inside the stars on the reverse:<br />\n<img src=\"https://en.numista.com/catalogue/images/565b00c9aca0a.jpg\" alt=\"\" width=\"640\" height=\"480\" /><br />\n© Alberto Cerioli ceriox@gmail.com",
+  "related_types": [
+    {
+      "id": 785,
+      "title": "1 Peseta - Francisco Franco (Benlliure)",
+      "category": "coin",
+      "country": {
+        "code": "espagne",
+        "name": "Spain"
+      },
+      "minYear": 1948,
+      "maxYear": 1967
+    },
+    {
+      "id": 787,
+      "title": "1 Peseta - Juan Carlos I",
+      "category": "coin",
+      "country": {
+        "code": "espagne",
+        "name": "Spain"
+      },
+      "minYear": 1976,
+      "maxYear": 1980
+    }
+  ],
+  "tags": [
+    "Military leader",
+    "Politician",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "796"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "33"
+    }
+  ],
+  "weight": 3.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/espagne/60a4e442626982.64465041-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/60a4e442626982.64465041-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 24,
+      "name": "Royal Mint of Madrid"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

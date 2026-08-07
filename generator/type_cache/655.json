@@ -1,0 +1,114 @@
+{
+  "id": 655,
+  "url": "https://en.numista.com/655",
+  "title": "50 Groschen",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "autriche",
+    "name": "Austria"
+  },
+  "min_year": 1959,
+  "max_year": 2001,
+  "ruler": [
+    {
+      "id": 149,
+      "name": "Second Republic",
+      "wikidata_id": "Q40"
+    }
+  ],
+  "value": {
+    "text": "50 Groschen",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 178,
+      "name": "Second Schilling",
+      "full_name": "Second Schilling (1945-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2002-02-28"
+  },
+  "size": 19.5,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze (91.5% Copper, 8.5% Aluminium)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Hans Köttenstorfer"
+    ],
+    "description": "The Austrian escutcheon and the state title in semi-circle.",
+    "lettering": "REPUBLIK ÖSTERREICH",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Austria",
+    "picture": "https://en.numista.com/catalogue/photos/autriche/149-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/autriche/149-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Ferdinand Welz"
+    ],
+    "description": "The face value divides the date and a gentian flower or Stemless gentian flower (Binomial Name: Gentiana acaulis) partially inside the numeral '0' of denomination.",
+    "lettering": "50\r\n1991\r\nGROSCHEN",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/autriche/151-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/autriche/151-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "tags": [
+    "Flower",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "2885"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "76"
+    }
+  ],
+  "weight": 3,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/autriche/6988bc0d30d036.26950232-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/autriche/6988bc0d30d036.26950232-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 232,
+      "name": "Münze Österreich"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

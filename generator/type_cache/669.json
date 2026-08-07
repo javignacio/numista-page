@@ -1,0 +1,139 @@
+{
+  "id": 669,
+  "url": "https://en.numista.com/669",
+  "title": "1 Penny - George VI (with 'IND:IMP')",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1937,
+  "max_year": 1948,
+  "ruler": [
+    {
+      "id": 274,
+      "name": "George VI",
+      "wikidata_id": "Q280856",
+      "group": {
+        "id": 527,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Penny",
+    "numeric_value": 0.004166666666666667,
+    "numerator": 1,
+    "denominator": 240,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1970)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1971-08-31"
+  },
+  "size": 30.8,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Thomas Humphrey Paget"
+    ],
+    "description": "Uncrowned portrait of King George VI left, legend around.\r\n\r\nNote: with title 'IND:IMP'",
+    "lettering": "GEORGIVS VI D:G:BR:OMN:REX F:D:IND:IMP.\r\nHP",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Georgius VI Dei Gratia Britanniarum Omnium Rex Fidei Defensor Indiae Imperator",
+    "lettering_translation": "George the Sixth by the Grace of God King of all the Britons Defender of the Faith Emperor of India",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/6284913fcd7764.78944742-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/6284913fcd7764.78944742-180.jpg",
+    "picture_copyright": "gdch6ng",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Charles Walter Coombes"
+    ],
+    "description": "Seated figure of Britannia right, with trident in left hand and shield bearing the Union flag in right, sea behind with lighthouse to left, denomination above and date in exergue.",
+    "lettering": "ONE PENNY\r\n1937",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/62849140292c81.45708438-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/62849140292c81.45708438-180.jpg",
+    "picture_copyright": "gdch6ng",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p>The standard weight of these pieces was 48 to the pound avoirdupois (1/3 ounce or 145.8 grains).<br><br><i>1937 obverse and reverse die varieties:</i><br><strong>Obverse 1</strong> P of IMP at a tooth, I of IMP to the left of a tooth, : before IMP nearly at a tooth, dot after IMP is small;<br><strong>Obverse 2</strong> P of IMP to the right of a tooth, I of IMP to the right of a tooth, : before IMP between teeth, dot after IMP is larger;<br><strong>Reverse A</strong> Right leg of 2nd N in PENNY at a tooth, sea level on right at a tooth, longer teeth;<br><strong>Reverse B</strong> Right leg of both Ns in PENNY between teeth, sea level on right slightly above a tooth, shorter teeth;<br><a href=\"https://en.numista.com/catalogue/images/5a6bc5d920349.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5a6bc5d920349.jpg\" alt=\"\"></a><br><i>1940 reverse die varieties:</i><br><strong>Reverse B</strong> Single exergue line (11.6%)<br><strong>Reverse C</strong> Double exergue line (88.4%)<br><a href=\"https://en.numista.com/catalogue/images/5a6c2e4739ec6.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5a6c2e4739ec6.jpg\" alt=\"\"></a><br><i>1944 reverse die varieties:</i><br>Note the differing positions of the last 4 in the date, relative to the wave above.<br><a href=\"https://en.numista.com/catalogue/images/5cc41906e30dc.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5cc41906e30dc.jpg\" alt=\"\"></a><br><i>1946 reverse die varieties:</i><br>Although not a genuine variety by any definition, the 'dot' penny die flaw has crept into most reference books;<br><a href=\"https://en.numista.com/catalogue/images/5a6c31d1ed5b4.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5a6c31d1ed5b4.jpg\" alt=\"\"></a><br>Not a published variety but straight and wavy exergue line varieties observed by Numista member ALLRED1950;<br><a href=\"https://en.numista.com/catalogue/images/561cd9caed0e7.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/561cd9caed0e7.jpg\" alt=\"\"></a><br><br>Images above are reproduced with kind permission of<br>Numista member Sjoelund and <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"http://www.declanmageecoins.co.uk/G6P.html\">Declan Magee Coins</a></p>",
+  "related_types": [
+    {
+      "id": 7604,
+      "title": "1 Penny - George VI (without 'IND:IMP')",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1949,
+      "maxYear": 1952
+    }
+  ],
+  "tags": [
+    "Armour",
+    "Lighthouse",
+    "Sea",
+    "Allegory",
+    "Cold weapons"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "845"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "4114"
+    }
+  ],
+  "weight": 9.45,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/697fef96197a31.13226680-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/697fef96197a31.13226680-180.jpg",
+    "picture_copyright": "Dieter83"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

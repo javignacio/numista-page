@@ -1,0 +1,152 @@
+{
+  "id": 1349,
+  "url": "https://en.numista.com/1349",
+  "title": "50 Francs (with IEOM; magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "french_polynesia_period",
+    "name": "French Polynesia (1957-date)"
+  },
+  "issuing_entity": {
+    "id": 6709,
+    "name": "Overseas Institution of Issue"
+  },
+  "min_year": 1975,
+  "max_year": 2005,
+  "ruler": [
+    {
+      "id": 5295,
+      "name": "French Overseas Territory",
+      "wikidata_id": "Q2327385"
+    },
+    {
+      "id": 5296,
+      "name": "French Overseas Collectivity",
+      "wikidata_id": "Q719487"
+    },
+    {
+      "id": 5297,
+      "name": "French Overseas Country",
+      "wikidata_id": "Q3078827"
+    }
+  ],
+  "value": {
+    "text": "50 Francs",
+    "numeric_value": 50,
+    "currency": {
+      "id": 8112,
+      "name": "CFP Franc",
+      "full_name": "CFP Franc (1945-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2022-11-30"
+  },
+  "size": 33,
+  "thickness": 2.35,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Raymond Joly"
+    ],
+    "description": "Capped bust Marianne facing left, date below.",
+    "lettering": "RÉPUBLIQUE FRANÇAISE\r\nR·JOLY\r\nI·E·O·M\r\n1988",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Institut d’émission d’outre-mer",
+    "lettering_translation": "French Republic",
+    "picture": "https://en.numista.com/catalogue/photos/french_polynesia_period/69035c860c13e8.01972954-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/french_polynesia_period/69035c860c13e8.01972954-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "engravers": [
+      "Aleth Guzman-Nageotte"
+    ],
+    "description": "Island Mooréa with mountain, native boats and palm trees, denomination above.",
+    "lettering": "POLYNESIE FRANÇAISE\r\n50 f\r\nGA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "French Polynesia",
+    "picture": "https://en.numista.com/catalogue/photos/french_polynesia_period/69035c86e67e89.85141545-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/french_polynesia_period/69035c86e67e89.85141545-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "comments": "<p>Till 2002 the privy marks are on the reverse, from 2003 on the privy marks are on the obverse.</p><p>&nbsp;</p><p>Some dates have R JOLY (without dot), others have R·JOLY (with dot). So far I haven't found any date yet with both varieties.</p><p><a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.numista.com/catalogue/images/69035c081295d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/69035c081295d.jpg\"></a> <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.numista.com/catalogue/images/69035c1b3ad37.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/69035c1b3ad37.jpg\"></a></p>",
+  "related_types": [
+    {
+      "id": 7954,
+      "title": "50 Francs (without IEOM)",
+      "category": "coin",
+      "country": {
+        "code": "french_polynesia_period",
+        "name": "French Polynesia (1957-date)"
+      },
+      "minYear": 1967,
+      "maxYear": 1967
+    },
+    {
+      "id": 30254,
+      "title": "50 Francs (with IEOM; non-magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "french_polynesia_period",
+        "name": "French Polynesia (1957-date)"
+      },
+      "minYear": 2006,
+      "maxYear": 2019
+    }
+  ],
+  "tags": [
+    "Allegory",
+    "Mountain",
+    "Tree",
+    "Phrygian cap",
+    "Boat or watercraft"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "13"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "17"
+    }
+  ],
+  "weight": 15,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

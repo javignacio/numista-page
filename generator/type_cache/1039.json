@@ -1,0 +1,151 @@
+{
+  "id": 1039,
+  "url": "https://en.numista.com/1039",
+  "title": "1 Centésimo (Bronze/Brass)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "panama",
+    "name": "Panama"
+  },
+  "min_year": 1961,
+  "max_year": 1987,
+  "ruler": [
+    {
+      "id": 4072,
+      "name": "Republic",
+      "wikidata_id": "Q804"
+    }
+  ],
+  "value": {
+    "text": "1 Centesimo",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 5,
+      "name": "Balboa",
+      "full_name": "Balboa (1904-date)"
+    }
+  },
+  "size": 19,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Written denomination under an arc of 9 stars (representing the nine provinces at the time, there are now ten), wreath, and date below",
+    "lettering": "· REPUBLICA · DE · PANAMA ·\r\n*********\r\nUN\r\nCENTESIMO\r\n1961",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Panama",
+    "picture": "https://en.numista.com/catalogue/photos/panama/391-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/panama/391-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "reverse": {
+    "description": "Bust of Chief Urraca (Urracá or Ubarragá Maniá Tigrí was an Amerindian Ngäbe chieftain), a person from the Province of Veraguas, who fought the Spaniards in Panamá between 1520 and 1531, facing left with the name above",
+    "lettering": "· URRACA ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/panama/390-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/panama/390-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "comments": "Urraca was an indian chief from the Province of Veraguas, who fought the Spaniards in Panamá between 1520 and 1531. The arc of 9 stars represent the 9 provinces of Panamá at that time (today 10).<br /><br />\r\nSince its separation from Colombia in 1903, Panama has used the United States Dollar. These coins have the same specifications as the <a href=\"https://en.numista.com/42\">United States 1 Cent</a> and circulated alongside it.<br /><br />\r\n1961 dated coins were made with 95% Copper, 5% Zinc and Tin. 1962 dated coins were made with 97% Copper, 2.5% Zinc, and 0.5% Tin. 1966-1983 dated coins were made with 95% Copper and 5% Zinc. The alloy used in 1983-1987 dated coins is currently unknown.<br /><br />\r\nDue to inflation and rising metal prices, the composition of United States Pennies changed from 95% Copper, 5% Zinc into 2.5% Copper, 97.5% Zinc in 1982. Panamanian coins followed suit in 1983.<br /><br />\r\nFor the 1968 circulation issue, 24,740,000 were minted in Denver and 260,000 were minted in San Francisco.<br />\r\nFor the 1975 circulation issue, 10,000,000 were minted in Philadelphia and 10,000,000 were minted in West Point.",
+  "related_types": [
+    {
+      "id": 24844,
+      "title": "1 Centésimo (Copper Plated Zinc)",
+      "category": "coin",
+      "country": {
+        "code": "panama",
+        "name": "Panama"
+      },
+      "minYear": 1983,
+      "maxYear": 1984
+    },
+    {
+      "id": 42,
+      "title": "1 Cent \"Lincoln Memorial Cent\" (Bronze)",
+      "category": "coin",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 1959,
+      "maxYear": 1982
+    }
+  ],
+  "tags": [
+    "Military leader",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "22"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "22"
+    }
+  ],
+  "weight": 3.11,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 29,
+      "name": "Mexican Mint"
+    },
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    },
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    },
+    {
+      "id": 10,
+      "name": "United States Mint of Denver"
+    },
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    },
+    {
+      "id": 12,
+      "name": "United States Mint of San Francisco"
+    },
+    {
+      "id": 13,
+      "name": "United States Mint of West Point"
+    },
+    {
+      "id": 1319,
+      "name": "Franklin Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

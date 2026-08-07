@@ -1,0 +1,152 @@
+{
+  "id": 2973,
+  "url": "https://en.numista.com/2973",
+  "title": "1 Bolívar",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "venezuela",
+    "name": "Venezuela"
+  },
+  "min_year": 1989,
+  "max_year": 1990,
+  "ruler": [
+    {
+      "id": 4706,
+      "name": "Fourth Republic",
+      "wikidata_id": "Q21296156"
+    }
+  ],
+  "value": {
+    "text": "1 Bolivar",
+    "numeric_value": 1,
+    "currency": {
+      "id": 7,
+      "name": "Bolivar",
+      "full_name": "Bolivar (1879-2007)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2011-12-31"
+  },
+  "size": 23,
+  "thickness": 1.55,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel clad steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "A. Barre"
+    ],
+    "description": "Coat of arms. With legend at top. Date and value at bottom.",
+    "lettering": "•REPUBLICA DE VENEZUELA•\r\n1989 1 BOLIVAR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Venezuela",
+    "picture": "https://en.numista.com/catalogue/photos/venezuela/674-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/venezuela/674-180.jpg",
+    "picture_copyright": "Makake"
+  },
+  "reverse": {
+    "description": "Bust left flanked with legend and engraver's name at base.",
+    "lettering": "BOLÍVAR LIBERTADOR\r\nBARRE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Bolivar Liberator",
+    "picture": "https://en.numista.com/catalogue/photos/venezuela/675-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/venezuela/675-180.jpg",
+    "picture_copyright": "Makake"
+  },
+  "comments": "Y#52a.1 - 1989 Werdohl mint: smaller date letters, less detailed leaves, one corn hanging from left of shield<br />\r\n&nbsp;Exist with or without accent in I of bolivar<br />\r\nY#52a.2 - 1989 Schwerte mint: larger date letters, detailed leaves, some leaves missing, three loose corns falling from left of shield<br />\r\nY#52a.2 - 1990 Mexico city mint: no lines behind horse in shield, detailed leaves, corn ear hanging from left of shield<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5ee0b042077c8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5ee0b042077c8.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nThe Numismatic Catalog of Venezuela describes six varieties for 1989.<br />\r\n<a href=\"https://www.numismatica.info.ve/en/coins/mv1bs-db01%40.htm\" rel=\"nofollow\">https://www.numismatica.info.ve/en/coins/mv1bs-db01%40.htm</a>",
+  "related_types": [
+    {
+      "id": 2972,
+      "title": "1 Bolívar",
+      "category": "coin",
+      "country": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "minYear": 1967,
+      "maxYear": 1967
+    },
+    {
+      "id": 1100,
+      "title": "1 Bolívar",
+      "category": "coin",
+      "country": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "minYear": 1977,
+      "maxYear": 1986
+    }
+  ],
+  "tags": [
+    "Horse or equine",
+    "Military leader",
+    "Politician",
+    "Coat of Arms",
+    "Cornucopia"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "52a.1"
+    },
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "52a.2"
+    },
+    {
+      "catalogue": {
+        "id": 2068,
+        "code": "NCV"
+      },
+      "number": "mv1bs-db"
+    }
+  ],
+  "weight": 4.2,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/venezuela/65f65e2264a3a9.71927514-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/venezuela/65f65e2264a3a9.71927514-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 29,
+      "name": "Mexican Mint"
+    },
+    {
+      "id": 4157,
+      "name": "VDM Metals / Vereinigte Deutsche Metallwerke"
+    },
+    {
+      "id": 4175,
+      "name": "Vereinigte Deutsche Nickelwerke"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

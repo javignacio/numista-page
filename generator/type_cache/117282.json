@@ -1,0 +1,90 @@
+{
+  "id": 117282,
+  "url": "https://en.numista.com/117282",
+  "title": "1 Guinea - George III (Pattern)",
+  "object_type": {
+    "id": 6,
+    "name": "Patterns"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1776,
+  "max_year": 1776,
+  "ruler": [
+    {
+      "id": 267,
+      "name": "George III",
+      "wikidata_id": "Q127318",
+      "group": {
+        "id": 525,
+        "name": "House of Hanover"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Guinea",
+    "numeric_value": 1.05,
+    "numerator": 21,
+    "denominator": 20,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1971)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "shape": "Round",
+  "composition": {
+    "text": "Gold"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Laureate portrait of King George III right, legend around.",
+    "lettering": "GEORGIVS • III • DEI • GRATIA •",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "George the Third by the Grace of God",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/8487-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/8487-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "description": "Crowned lion passant atop crown, divided date above, legend around.",
+    "lettering": "MAG • BRI • FR • ET • HIB • REX • 1776 •",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Magnae Britanniae Franciae Et Hiberniae Rex",
+    "lettering_translation": "King of Great Britain France and Ireland",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/8488-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/8488-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "tags": [
+    "Cat or feline"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "Pn55"
+    }
+  ],
+  "category": "coin",
+  "type": "Patterns"
+}

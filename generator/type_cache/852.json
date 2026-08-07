@@ -1,0 +1,140 @@
+{
+  "id": 852,
+  "url": "https://en.numista.com/852",
+  "title": "2 Pfennigs (non-magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "allemagne",
+    "name": "Germany, Federal Republic of"
+  },
+  "min_year": 1950,
+  "max_year": 1969,
+  "ruler": [
+    {
+      "id": 2860,
+      "name": "Federal Republic",
+      "wikidata_id": "Q183"
+    }
+  ],
+  "value": {
+    "text": "2 Pfennigs",
+    "numeric_value": 0.02,
+    "currency": {
+      "id": 131,
+      "name": "Deutsche Mark",
+      "full_name": "Deutsche Mark (1948-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2001-12-31"
+  },
+  "size": 19.25,
+  "thickness": 1.52,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Adolf Jäger"
+    ],
+    "description": "An oak seedling with the date below and the country name surrounding around the rim",
+    "lettering": "BUNDESREPUBLIK DEUTSCHLAND\r\n1964",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Federal Republic of Germany\r\n1964",
+    "picture": "https://en.numista.com/catalogue/photos/allemagne/5fd0b0f44d7398.44300713-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/5fd0b0f44d7398.44300713-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Mintmark between two rye ears, and the denomination below",
+    "lettering": "F\r\n2\r\nPFENNIG",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/allemagne/5fd0b0f4b79c24.48245212-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/5fd0b0f4b79c24.48245212-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p><a href=\"https://en.numista.com/catalogue/images/6737afbf090c7.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6737afbf090c7.jpg\"></a></p>",
+  "related_types": [
+    {
+      "id": 1937,
+      "title": "2 Pfennigs (magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+      },
+      "minYear": 1967,
+      "maxYear": 2001
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "106"
+    },
+    {
+      "catalogue": {
+        "id": 80,
+        "code": "J"
+      },
+      "number": "381"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "104"
+    }
+  ],
+  "weight": 3.25,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/allemagne/697fac0d02fb33.66050845-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/697fac0d02fb33.66050845-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 1,
+      "name": "Munich"
+    },
+    {
+      "id": 2,
+      "name": "Staatliche Münze Baden-Württemberg"
+    },
+    {
+      "id": 3,
+      "name": "Staatliche Münze Baden-Württemberg"
+    },
+    {
+      "id": 4,
+      "name": "Hamburgische Münze"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

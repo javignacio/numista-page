@@ -1,0 +1,151 @@
+{
+  "id": 58944,
+  "url": "https://en.numista.com/58944",
+  "title": "¼ Dollar \"Washington Quarter\" (Arches National Park, Utah)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "etats-unis",
+    "name": "United States"
+  },
+  "min_year": 2014,
+  "max_year": 2014,
+  "ruler": [
+    {
+      "id": 4720,
+      "name": "Federal republic",
+      "wikidata_id": "Q30"
+    }
+  ],
+  "value": {
+    "text": "¼ Dollar ",
+    "numeric_value": 0.25,
+    "numerator": 1,
+    "denominator": 4,
+    "currency": {
+      "id": 59,
+      "name": "Dollar",
+      "full_name": "Dollar (1785-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24.26,
+  "thickness": 1.75,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel clad copper"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "John Flanagan",
+      "William Cousins"
+    ],
+    "description": "The portrait in left profile of George Washington, the first President of the United States from 1789 to 1797, is accompanied with the motto \"IN GOD WE TRUST\" and the lettering \"LIBERTY\" surrounded with the denomination and the inscription \"UNITED STATES OF AMERICA\"",
+    "lettering": "UNITED STATES OF AMERICA\r\nIN\r\nGOD WE\r\nTRUST\r\nLIBERTY  P\r\nJF  WC\r\nQUARTER DOLLAR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/626b55dfd817a1.44840584-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/626b55dfd817a1.44840584-180.jpg",
+    "picture_copyright": "Slipstreamed",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Donna Weaver",
+      "Charles Lessie Vickers"
+    ],
+    "description": "Delicate Arch, a 65-foot freestanding natural arch. It is a widely recognizable landmark in Utah and the most famous arch found in the park. It has been depicted on postage stamps and license plates. The Olympic torch relay for the 2002 Winter Olympics passed through this arch. The La Sal Mountains are visible in the background.",
+    "lettering": "ARCHES\r\nDW  CLV\r\nUTAH   2014   E PLURIBUS UNUM",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Arches\r\nDW CLV\r\nUtah 2014 Out of Many, One",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/626b54f93faea2.03671752-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/626b54f93faea2.03671752-180.jpg",
+    "picture_copyright": "Slipstreamed",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "series": "United States Mint's \"America the Beautiful\" Quarters Program",
+  "commemorated_topic": "Arches National Park, Utah",
+  "related_types": [
+    {
+      "id": 58482,
+      "title": "¼ Dollar \"Washington Quarter\" (Arches National Park, Utah - Silver Proof)",
+      "category": "coin",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 2014,
+      "maxYear": 2014
+    },
+    {
+      "id": 89170,
+      "title": "¼ Dollar - \"Washington Quarter\" (Arches National Park - Silver 5 oz Bullion)",
+      "category": "coin",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 2014,
+      "maxYear": 2014
+    }
+  ],
+  "tags": [
+    "Park"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "568"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "561"
+    }
+  ],
+  "weight": 5.67,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/3233-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/3233-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 10,
+      "name": "United States Mint of Denver"
+    },
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    },
+    {
+      "id": 12,
+      "name": "United States Mint of San Francisco"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

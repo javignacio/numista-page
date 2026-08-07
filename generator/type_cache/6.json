@@ -1,0 +1,162 @@
+{
+  "id": 6,
+  "url": "https://en.numista.com/6",
+  "title": "1 Franc (Signature \"O. Roty\")",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "france",
+    "name": "France"
+  },
+  "min_year": 1960,
+  "max_year": 2001,
+  "ruler": [
+    {
+      "id": 11,
+      "name": "Fifth Republic",
+      "wikidata_id": "Q200686",
+      "group": {
+        "id": 89,
+        "name": "Modern France"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Franc",
+    "numeric_value": 1,
+    "currency": {
+      "id": 77,
+      "name": "New franc",
+      "full_name": "New franc (1960-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2002-02-17"
+  },
+  "size": 24,
+  "thickness": 1.79,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Louis-Oscar Roty"
+    ],
+    "description": "The Sower, designed by Oscar Roty in 1900, a national emblem of the French Republic",
+    "lettering": "REPUBLIQUE FRANÇAISE\r\nO. Roty",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "French Republic",
+    "picture": "https://en.numista.com/catalogue/photos/france/5f9dd7ac5115b2.11286692-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/5f9dd7ac5115b2.11286692-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "reverse": {
+    "engravers": [
+      "Louis-Oscar Roty"
+    ],
+    "description": "Underneath the face value, an olive branch is surrounded with the French motto.",
+    "lettering": "LIBERTE·EGALITE·FRATERNITE\r\n1\r\nFRANC\r\n1989",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Liberty · Equality · Fraternity",
+    "picture": "https://en.numista.com/catalogue/photos/france/5f9dd30fb1dc06.70955198-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/5f9dd30fb1dc06.70955198-180.jpg",
+    "picture_copyright": "Jérémy Pureur"
+  },
+  "series": "1 franc semeuse",
+  "comments": "The sower, symbol of the &quot;REPUBLIQUE FRANÇAISE&quot;<br />\n2 types exist:<br />\nKM # 925.1: O.Roty signature<br />\nKM # 925.2: signature preceded by D&#039;AP - proof (separate sheet)<br /><br /><br />\nDifferent privy marks throughout mintages:<br />\nOwl 1958-74 Raymond Joly<br />\nDolphin 1974-94 Rousseau<br />\nBee 1994- Pierre Rodier<br />\nHorseshoe 2000-2002 Gérard Buquoy<br /><br />\nHow to understand the difference between <span style=\"font-weight:bold;\">normal</span> and <span style=\"font-weight:bold;\">larger</span> &quot;0&quot; for 1960:<br />\n<a href=\"https://en.numista.com/catalogue/images/574520c5e284d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/574520c5e284d.jpg\" alt=\"\" width=\"200\" height=\"83\" /></a><br />\nleft &quot;0&quot; is normal and right &quot;0&quot; is larger<br />\n<a href=\"https://en.numista.com/catalogue/images/5bb25e2ab5c8e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5bb25e2ab5c8e.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\n<a href=\"https://en.numista.com/catalogue/images/5bb1ef8a6bac6.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5bb1ef8a6bac6.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\n<a href=\"https://en.numista.com/catalogue/images/5cde4aa74d947.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5cde4aa74d947.jpg\" alt=\"\" width=\"200\" height=\"72\" /></a><br />\n1965 owl: when the image is a little worn, the measurements are useful for identifying the variant",
+  "related_types": [
+    {
+      "id": 682,
+      "title": "1 Franc",
+      "category": "coin",
+      "country": {
+        "code": "france",
+        "name": "France"
+      },
+      "minYear": 1898,
+      "maxYear": 1920
+    },
+    {
+      "id": 178647,
+      "title": "1 franc Semeuse (essai en or)",
+      "category": "coin",
+      "country": {
+        "code": "france",
+        "name": "France"
+      },
+      "minYear": 1959,
+      "maxYear": 1959
+    }
+  ],
+  "tags": [
+    "Allegory",
+    "Phrygian cap"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 34,
+        "code": "Franc 2014"
+      },
+      "number": "226"
+    },
+    {
+      "catalogue": {
+        "id": 109,
+        "code": "Gad 1789"
+      },
+      "number": "474"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "925.1"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "233"
+    },
+    {
+      "catalogue": {
+        "id": 2254,
+        "code": "Wikidata"
+      },
+      "number": "Q286168"
+    }
+  ],
+  "weight": 6,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/france/69516ad5ea2629.00590536-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/69516ad5ea2629.00590536-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

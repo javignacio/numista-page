@@ -1,0 +1,123 @@
+{
+  "id": 7029,
+  "url": "https://en.numista.com/7029",
+  "title": "20 Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "honduras",
+    "name": "Honduras"
+  },
+  "min_year": 1991,
+  "max_year": 2019,
+  "ruler": [
+    {
+      "id": 4001,
+      "name": "Republic",
+      "wikidata_id": "Q783"
+    }
+  ],
+  "value": {
+    "text": "20 Centavos",
+    "numeric_value": 0.2,
+    "currency": {
+      "id": 101,
+      "name": "Lempira",
+      "full_name": "Lempira (1931-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 17.8,
+  "thickness": 1.1,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Honduran coat of arms: the triangle Coat of Arms of the Central American federation with a volcano between two towers in an oval. Behind it are a sun and a rainbow. On the oval are two cornucopias and a quiver of arrows. Under the oval is a landscape with oak and pine trees, and mining equipment.",
+    "lettering": "REPUBLICA DE HONDURAS\r\nREPUBLICA DE HONDURAS; LIBRE SOBERANA E INDEPENDIENTE\r\n15 DE SEPTIEMBRE\r\n1821\r\n2014",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Honduras\r\nRepublic of Honduras, Free, Sovereign, and Independent \r\nSeptember 15, 1821",
+    "picture": "https://en.numista.com/catalogue/photos/honduras/5e6e2ea006d326.68257306-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/honduras/5e6e2ea006d326.68257306-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "description": "Portrait of Chief Lempira (without feathers) facing left within a circle",
+    "lettering": "20 CENTAVOS DE LEMPIRA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "20 Centavos of a Lempira",
+    "picture": "https://en.numista.com/catalogue/photos/honduras/5e6e2ea0606484.67143573-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/honduras/5e6e2ea0606484.67143573-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "comments": "<p>Lempira, the present currency of Honduras, was introduced in 1931 replacing the Peso. The Lempira is divided into 100 Centavos.<br><br>The currency is named after Lempira, a chieftain of the indigenous Lenca people, who waged war against the Spanish occupation of the country during the 16th century. He is revered as a national hero.<br><br>The image on the reverse of this coin is of Lempira.<br>&nbsp;</p><p>KM#83a.1: With cloud</p><p>KM#83a.2: Without cloud</p><p><br>Coins dated 1991 through 2007 are composed of 90% Steel and 10% Nickel. Coins dated 2010 to date are 90.9% Steel and 9.1% Nickel.</p>",
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "83a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "38a"
+    }
+  ],
+  "weight": 2,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/honduras/497-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/honduras/497-180.jpg",
+    "picture_copyright": "jasanche",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 1334,
+      "name": "Mint of Finland"
+    },
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    },
+    {
+      "id": 23,
+      "name": "Royal Dutch Mint"
+    },
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    },
+    {
+      "id": 4175,
+      "name": "Vereinigte Deutsche Nickelwerke"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

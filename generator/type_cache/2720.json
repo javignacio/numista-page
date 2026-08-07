@@ -1,0 +1,132 @@
+{
+  "id": 2720,
+  "url": "https://en.numista.com/2720",
+  "title": "10 New Sheqalim",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "israel",
+    "name": "Israel"
+  },
+  "min_year": 1995,
+  "max_year": 2017,
+  "ruler": [
+    {
+      "id": 4056,
+      "name": "State of Israel",
+      "wikidata_id": "Q801"
+    }
+  ],
+  "value": {
+    "text": "10 New Sheqalim",
+    "numeric_value": 10,
+    "currency": {
+      "id": 183,
+      "name": "New Shekel",
+      "full_name": "New Shekel (1986-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23,
+  "thickness": 2.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: bronze plated steel centre in nickel plated steel ring (&quot;aureate bonded steel&quot; centre)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Ruben Nutels"
+    ],
+    "description": "Palm tree with seven leaves and two baskets with dates; the emblem of the State of Israel; the words \"for the redemption of Zion\" in ancient and modern Hebrew; vertical lines.",
+    "lettering": "ישראל\r\nלגאלת ציון • לגאלת ציון",
+    "lettering_scripts": [
+      {
+        "name": "Hebrew"
+      }
+    ],
+    "lettering_translation": "Israel\r\nFor the Redemption of Zion",
+    "picture": "https://en.numista.com/catalogue/photos/israel/863-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/israel/863-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "reverse": {
+    "engravers": [
+      "Ruben Nutels"
+    ],
+    "description": "The denomination \"10 New Sheqalim\" and \"Israel\" in Hebrew, Arabic and English; the date in Hebrew; branch with dates, vertical lines.",
+    "lettering": "ישראל · ISRAEL ·התשנ\"ה · إسرائيل \r\n10\r\nשקלים חדשים\r\nNEW SHEQALIM \r\n١٠ شيقل جديد",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      },
+      {
+        "name": "Hebrew"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Israel 5755\r\n10\r\nNew Sheqalim\r\n10 New Sheqalim",
+    "picture": "https://en.numista.com/catalogue/photos/israel/864-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/israel/864-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "comments": "<p>Four main types are known.<br><br><i>Obverse</i><br>Die <strong>1</strong> - large details, legend ends at the bottom to the left of a pearl.<br>Die <strong>2</strong> - smaller details, legend ends at the bottom under a pearl.<br><br><i>Reverse</i><br>Die <strong>A</strong> - wide vertical stripes, vivid script of denomination in Arabic.<br>Die <strong>B</strong> - narrow vertical stripes, fine fonts, canonical script of denomination in Arabic.<br>Picture: © Images courtesy of Alexandr Prokofyev.<br><a href=\"https://en.numista.com/catalogue/images/61bf28305aff8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/61bf28305aff8.jpg\" alt=\"\"></a><br><i>Note</i>. There are much more differences between dies, these were marked for easy attribution.<br><br><i>Combinations</i><br><strong>1</strong>+<strong>A</strong>: 5755, 5758, 5762, 5765↑↑, 5765↑↓, 5766, 5769.<br><strong>1</strong>+<strong>B</strong>: 5770.<br><strong>2</strong>+<strong>A</strong>: 5766.<br><strong>2</strong>+<strong>B</strong>: <strong><u>5770</u></strong>-5777.</p>",
+  "related_types": [
+    {
+      "id": 88342,
+      "title": "½ Sheqel (Year 4)",
+      "category": "coin",
+      "country": {
+        "code": "judee",
+        "name": "Judea"
+      },
+      "minYear": 69,
+      "maxYear": 70
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "270"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "158"
+    }
+  ],
+  "weight": 7,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 1334,
+      "name": "Mint of Finland"
+    },
+    {
+      "id": 1888,
+      "name": "Norwegian Mint"
+    },
+    {
+      "id": 23,
+      "name": "Royal Dutch Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

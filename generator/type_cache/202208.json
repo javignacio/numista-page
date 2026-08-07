@@ -1,0 +1,128 @@
+{
+  "id": 202208,
+  "url": "https://en.numista.com/202208",
+  "title": "20 Reais (2nd. Family)",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "bresil",
+    "name": "Brazil"
+  },
+  "issuing_entity": {
+    "id": 900,
+    "name": "Central Bank of Brazil",
+    "wikidata_id": "Q806186"
+  },
+  "min_year": 2010,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 2684,
+      "name": "Federative Republic of Brazil",
+      "wikidata_id": "Q155"
+    }
+  ],
+  "value": {
+    "text": "20 Reais",
+    "numeric_value": 20,
+    "currency": {
+      "id": 158,
+      "name": "Real",
+      "full_name": "Real (1994-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2012-07-23"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 142,
+  "size2": 65,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Symbolic effigy of the Republic, interpreted in the form of sculpture.\r\nIn the lower right corner, a tactile mark with two bars tilted to the right, for use by the visually impaired.",
+    "lettering": "REPÚBLICA FEDERATIVA DO BRASIL\r\n2010\r\n\r\nREPÚBLICA\r\nDEUS SEJA LOUVADO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Federative Republic of Brazil\r\n20\r\n2010\r\n20\r\nReais\r\nRepublic\r\nGod be praised",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/64d7d12b765f03.15557920-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/64d7d12b765f03.15557920-180.jpg",
+    "picture_copyright": "vladthiengo",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "A golden lion tamarin (Leontopithecus rosalia) supported on a tree trunk, next to the image of a golden lion tamarin in the forest.",
+    "lettering": "BANCO CENTRAL DO BRASIL 20\r\n20\r\nMINISTRO DA FAZENDA\r\nPRESIDENTE DO\r\nBANCO CENTRAL DO BRASIL\r\nMICO LEÃO DOURADO\r\nVINTE REAIS\r\nCASA DA MOEDA DO BRASIL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Brazilian Central Bank\r\n20\r\n20\r\nFinance Minister\r\nPresident of the Brazilian Central Bank\r\nGolden lion tamarin\r\nTwenty Reais\r\nBrazilian Mint",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/64d7d12cea9f28.76473344-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/64d7d12cea9f28.76473344-180.jpg",
+    "picture_copyright": "vladthiengo",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "series": "Real - 2nd Family",
+  "comments": "<p><strong>Curiosity</strong><br>(1) <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.wikipedia.org/wiki/Ef%C3%ADgie_da_Rep%C3%BAblica\"><i>Effigy of the Republic</i></a><br><br>(2) <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.wikipedia.org/wiki/Golden_lion_tamarin\"><i>Golden lion tamarin (Leontopithecus rosalia)</i></a><br>---<br><strong>Notes</strong><br><a href=\"https://en.numista.com/catalogue/images/5eb1d428e8152.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5eb1d428e8152.jpg\" alt=\"\"></a><br><i>more...</i> <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.numista.com/numisdoc/brazil-179.html\">Federative Republic of <strong>Brazil</strong></a> and <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.wikipedia.org/wiki/Brazilian_real\">Real (R$)</a><br>---<br><a href=\"https://en.numista.com/catalogue/images/5eb22e2b1e400.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5eb22e2b1e400.jpg\" alt=\"\"></a><br><i><strong>Important:</strong> Date is frozen on 2010 (release of the new banknote series)</i><br>---<br><a href=\"https://en.numista.com/catalogue/images/5eb249c44170d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5eb249c44170d.jpg\" alt=\"\"></a><br><i>Tactile mark for the visually impaired</i><br>---<br><a href=\"https://en.numista.com/catalogue/images/5eb249dad32e3.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5eb249dad32e3.jpg\" alt=\"\"></a><br><a href=\"https://en.numista.com/catalogue/images/5eb249eaf3b2c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5eb249eaf3b2c.jpg\" alt=\"\"></a><br><i>Specimen note sample</i><br><br>UV activity:<br><a href=\"https://en.numista.com/catalogue/images/64a0414b4c8b7.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64a0414b4c8b7.png\" alt=\"\"></a><br><a href=\"https://en.numista.com/catalogue/images/64a041597e94c.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64a041597e94c.png\" alt=\"\"></a><br>© gyoschak</p>",
+  "related_types": [
+    {
+      "id": 204240,
+      "title": "20 Reais (1st. Family; Stamp A)",
+      "category": "banknote",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 2002,
+      "maxYear": 2010
+    }
+  ],
+  "tags": [
+    "Allegory",
+    "Primate"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "255"
+    },
+    {
+      "catalogue": {
+        "id": 936,
+        "code": "TBB"
+      },
+      "number": "877"
+    }
+  ],
+  "watermark": {
+    "description": "Golden lion tamarin (Leontopithecus rosalia) and electrotype “20”",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/5eb24d1b08f1f3.11637629-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/5eb24d1b08f1f3.11637629-180.jpg",
+    "picture_copyright": "Wilson Roberto Vasques Nunes"
+  },
+  "printers": [
+    {
+      "id": "12",
+      "name": "Casa da Moeda do Brasil"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

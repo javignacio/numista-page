@@ -1,0 +1,228 @@
+{
+  "id": 1273,
+  "url": "https://en.numista.com/1273",
+  "title": "5 Milliemes - Hussein Kamel",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "egypte",
+    "name": "Egypt"
+  },
+  "min_year": 1916,
+  "max_year": 1917,
+  "ruler": [
+    {
+      "id": 2898,
+      "name": "Hussein Kamel",
+      "wikidata_id": "Q365930",
+      "nomisma_id": "sultan_husayn_kamil",
+      "group": {
+        "id": 163,
+        "name": "Sultanate of Egypt, Muhammad Ali dynasty"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Milliemes",
+    "numeric_value": 0.005,
+    "currency": {
+      "id": 117,
+      "name": "Pound",
+      "full_name": "Pound (1916-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 23.1,
+  "thickness": 1.48,
+  "shape": "Round with a round hole",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Sultan Hussein Kamil legend with accession date\r\nNOTE: All obverses with date digits ١٣٣٥",
+    "lettering": "حسين كامل\r\n1917 ١٣٣٥\r\nسلطان مصر\r\n۱۳۳۳",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "Hussein Kamil\r\n1917 1335\r\nSultan of Egypt\r\n1333",
+    "picture": "https://en.numista.com/catalogue/photos/egypte/60bbfdd9c47c67.18753467-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/egypte/60bbfdd9c47c67.18753467-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Center hole divides denomination with numerals on the left and Arabic on the right, in addition to denomination in words on the bottom with the mintmark",
+    "lettering": "خمسة مليمات\r\n5 ٥\r\nFIVE MILLIEMES\r\nH",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/egypte/60bbfdda48e819.93785693-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/egypte/60bbfdda48e819.93785693-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/5d08aa62177f7.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d08aa62177f7.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "related_types": [
+    {
+      "id": 21757,
+      "title": "½ Millieme - Hussein Kamel",
+      "category": "coin",
+      "country": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "minYear": 1917,
+      "maxYear": 1917
+    },
+    {
+      "id": 5592,
+      "title": "1 Millieme - Hussein Kamel",
+      "category": "coin",
+      "country": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "minYear": 1917,
+      "maxYear": 1917
+    },
+    {
+      "id": 4821,
+      "title": "2 Milliemes - Hussein Kamel",
+      "category": "coin",
+      "country": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "minYear": 1916,
+      "maxYear": 1917
+    },
+    {
+      "id": 8675,
+      "title": "10 Milliemes - Hussein Kamel",
+      "category": "coin",
+      "country": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "minYear": 1916,
+      "maxYear": 1917
+    },
+    {
+      "id": 18223,
+      "title": "2 Qirsh / Piastres - Hussein Kamel",
+      "category": "coin",
+      "country": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "minYear": 1916,
+      "maxYear": 1917
+    },
+    {
+      "id": 15843,
+      "title": "5 Qirsh/ Piastres - Hussein Kamel",
+      "category": "coin",
+      "country": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "minYear": 1916,
+      "maxYear": 1917
+    },
+    {
+      "id": 6040,
+      "title": "10 Qirsh/ Piastres - Hussein Kamel",
+      "category": "coin",
+      "country": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "minYear": 1916,
+      "maxYear": 1917
+    },
+    {
+      "id": 15234,
+      "title": "10 Qirsh/ Piastres - Hussein Kamel",
+      "category": "coin",
+      "country": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "minYear": 1917,
+      "maxYear": 1917
+    },
+    {
+      "id": 15235,
+      "title": "20 Qirsh/ Piastres - Hussein Kamel",
+      "category": "coin",
+      "country": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "minYear": 1916,
+      "maxYear": 1917
+    },
+    {
+      "id": 22329,
+      "title": "20 Qirsh/ Piastres - Hussein Kamel",
+      "category": "coin",
+      "country": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "minYear": 1917,
+      "maxYear": 1917
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "315"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "27"
+    }
+  ],
+  "weight": 4.75,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/egypte/614f13bf788083.19638943-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/egypte/614f13bf788083.19638943-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 1804,
+      "name": "Mumbai / Bombay"
+    },
+    {
+      "id": 18,
+      "name": "Heaton and Sons / The Mint Birmingham"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

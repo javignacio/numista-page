@@ -1,0 +1,107 @@
+{
+  "id": 1983,
+  "url": "https://en.numista.com/1983",
+  "title": "10 Stotinki (2nd Coat of Arms)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bulgarie",
+    "name": "Bulgaria"
+  },
+  "min_year": 1974,
+  "max_year": 1990,
+  "ruler": [
+    {
+      "id": 2054,
+      "name": "People's Republic",
+      "wikidata_id": "Q121932"
+    }
+  ],
+  "value": {
+    "text": "10 Stotinki",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 108,
+      "name": "Third lev",
+      "full_name": "Third lev (1962-1999)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 17,
+  "thickness": 1.1,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The arms of the People's Republic of Bulgaria (681 is the foundation date of the first Bulgarian empire, 1944 is the foundation date of the People's Republic of Bulgaria)",
+    "lettering": "НАРОДНА РЕПУБЛИКА\r\n681 1944\r\n* БЪЛГАРИЯ *",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "The People's Republic of\r\n681 1944\r\nBulgaria",
+    "picture": "https://en.numista.com/catalogue/photos/bulgarie/5-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bulgarie/5-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Denomination above the date flanked by wheat on both sides",
+    "lettering": "10\r\nСТОТИНКИ\r\n1974",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "10\r\nStotinki\r\n1974",
+    "picture": "https://en.numista.com/catalogue/photos/bulgarie/6-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bulgarie/6-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "87"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "85"
+    }
+  ],
+  "weight": 1.6,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/bulgarie/69c391780b61c9.00376015-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bulgarie/69c391780b61c9.00376015-180.jpg",
+    "picture_copyright": "Griffin S",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 1329,
+      "name": "Bulgarian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

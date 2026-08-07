@@ -1,0 +1,137 @@
+{
+  "id": 4218,
+  "url": "https://en.numista.com/4218",
+  "title": "5 Dollars - Elizabeth II (2nd portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "hong_kong",
+    "name": "Hong Kong"
+  },
+  "min_year": 1980,
+  "max_year": 1984,
+  "ruler": [
+    {
+      "id": 923,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 791,
+        "name": "British colony"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Dollars",
+    "numeric_value": 5,
+    "currency": {
+      "id": 48,
+      "name": "Dollar",
+      "full_name": "Dollar (1863-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 27,
+  "thickness": 3.26,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Arnold Machin"
+    ],
+    "description": "Crowned bust facing right",
+    "lettering": "QUEEN ELIZABETH THE SECOND",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/hong_kong/151-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hong_kong/151-180.jpg",
+    "picture_copyright": "Ma collection de monnaies",
+    "picture_copyright_url": "https://monnaiesetvarietes.numista.com/"
+  },
+  "reverse": {
+    "description": "Denomination surrounded by lettering",
+    "lettering": "HONG KONG\r\n5\r\n1984\r\nFIVE DOLLARS\r\n香港\r\n伍圓",
+    "lettering_scripts": [
+      {
+        "name": "Chinese"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Hong Kong\nFive Dollars",
+    "picture": "https://en.numista.com/catalogue/photos/hong_kong/152-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hong_kong/152-180.jpg",
+    "picture_copyright": "Ma collection de monnaies",
+    "picture_copyright_url": "https://monnaiesetvarietes.numista.com/"
+  },
+  "related_types": [
+    {
+      "id": 6421,
+      "title": "5 Dollars - Elizabeth II (3rd portrait)",
+      "category": "coin",
+      "country": {
+        "code": "hong_kong",
+        "name": "Hong Kong"
+      },
+      "minYear": 1985,
+      "maxYear": 1989
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "46"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "29"
+    }
+  ],
+  "weight": 13.4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Security edge with lettering",
+    "lettering": "HONG KONG FIVE DOLLARS 香 港 伍 圓",
+    "lettering_scripts": [
+      {
+        "name": "Chinese"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Hong Kong\nFive Dollars",
+    "picture": "https://en.numista.com/catalogue/photos/hong_kong/352-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hong_kong/352-180.jpg",
+    "picture_copyright": "Monéphil",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

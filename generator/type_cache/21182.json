@@ -1,0 +1,133 @@
+{
+  "id": 21182,
+  "url": "https://en.numista.com/21182",
+  "title": "3 Pence - George V (1st issue; incl. Maundy)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1911,
+  "max_year": 1920,
+  "ruler": [
+    {
+      "id": 272,
+      "name": "George V",
+      "wikidata_id": "Q269412",
+      "group": {
+        "id": 526,
+        "name": "House of Saxe-Coburg and Gotha"
+      }
+    }
+  ],
+  "value": {
+    "text": "3 Pence",
+    "numeric_value": 0.0125,
+    "numerator": 1,
+    "denominator": 80,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1971)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 16,
+  "thickness": 0.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.925)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Edgar Bertram MacKennal"
+    ],
+    "description": "Uncrowned portrait of King George V left, legend around.",
+    "lettering": "GEORGIVS V D.G.BRITT:OMN:REX F.D.IND:IMP:\r\nB.M.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "George the Fifth by the Grace of God King of all the Britains Defender of the Faith Emperor of India",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/6a4d2af0a45946.19673801-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/6a4d2af0a45946.19673801-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "reverse": {
+    "engravers": [
+      "Jean Baptiste Merlen"
+    ],
+    "description": "Crowned denomination dividing date within oak wreath.",
+    "lettering": "1916\r\n3",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/6a4d2af2455f14.84030386-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/6a4d2af2455f14.84030386-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "comments": "<p>Struck with prooflike finish for use in the Maundy ceremony and with a dull surface for domestic circulation. The standard weight of this coin was 1/22 troy ounce or 21.8 grains.<br><br><strong>Sp#4015</strong> <i>(1911-20)</i> Circulation issue with less prooflike surface.<br><br><i>1911 obverse and reverse die varieties:</i><br><a href=\"https://en.numista.com/catalogue/images/6075b6db54bd9.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6075b6db54bd9.jpg\" alt=\"\"></a><br><br><i>1914 obverse die varieties:</i><br><a href=\"https://en.numista.com/catalogue/images/6076f6a19709e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6076f6a19709e.jpg\" alt=\"\"></a><br><br><strong>Sp#4016</strong> Maundy money sets listed with their KM# reference:<br><br>1911 MDS168&amp;169 7,775 (partially Proof)<br>1912 MDS170 1,246 1917 MDS175 1,237<br>1913 MDS171 1,228 1918 MDS176 1,375<br>1914 MDS172 982 1919 MDS177 1,258<br>1915 MDS173 1,293 1920 MDS178 1,399<br>1916 MDS174 1,128<br><br><strong>Sp#4018</strong> <i>(1911-20)</i> Maundy prooflike issue.<br><br><i>Demonetization note:</i> Whilst the circulation strikes have been demonetized, the Maundy issues carry legal tender status and are still being struck to this day with the value updated to decimal pence.</p>",
+  "tags": [
+    "Crown",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "813"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "4015"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "4018"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "17"
+    }
+  ],
+  "weight": 1.41,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/6a34df30d40b61.45189897-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/6a34df30d40b61.45189897-180.jpg",
+    "picture_copyright": "jasanche",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

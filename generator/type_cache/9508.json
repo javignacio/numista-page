@@ -1,0 +1,132 @@
+{
+  "id": 9508,
+  "url": "https://en.numista.com/9508",
+  "title": "20 Bolívares (magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "venezuela",
+    "name": "Venezuela"
+  },
+  "min_year": 2000,
+  "max_year": 2002,
+  "ruler": [
+    {
+      "id": 4707,
+      "name": "Bolivarian Republic",
+      "wikidata_id": "Q717"
+    }
+  ],
+  "value": {
+    "text": "20 Bolivars",
+    "numeric_value": 20,
+    "currency": {
+      "id": 7,
+      "name": "Bolivar",
+      "full_name": "Bolivar (1879-2007)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2011-12-31"
+  },
+  "size": 20,
+  "thickness": 2.1,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel clad steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Small coat of arms with value sharing center. With legend around and date at bottom.",
+    "lettering": "•REPÚBLICA BOLIVARIANA DE VENEZUELA•\r\n20\r\nBOLÍVARES\r\n2001",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Bolivarian Republic of Venezuela\r\n20 Bolivares\r\n2001",
+    "picture": "https://en.numista.com/catalogue/photos/venezuela/660090ffd58e24.62494338-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/venezuela/660090ffd58e24.62494338-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "reverse": {
+    "description": "Bust left flanked with legend and engraver's name at base. Inside heptagon.",
+    "lettering": "BOLÍVAR LIBERTADOR\r\nBARRE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Bolivar Liberator",
+    "picture": "https://en.numista.com/catalogue/photos/venezuela/6600910081df88.76981249-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/venezuela/6600910081df88.76981249-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "related_types": [
+    {
+      "id": 2564,
+      "title": "20 Bolívares",
+      "category": "coin",
+      "country": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "minYear": 1998,
+      "maxYear": 1999
+    },
+    {
+      "id": 2534,
+      "title": "20 Bolívares (non-magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "minYear": 2001,
+      "maxYear": 2004
+    }
+  ],
+  "tags": [
+    "Horse or equine",
+    "Military leader",
+    "Politician",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "81"
+    },
+    {
+      "catalogue": {
+        "id": 2068,
+        "code": "NCV"
+      },
+      "number": "mv20bs-ca"
+    }
+  ],
+  "weight": 4.32,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/venezuela/660074c370dea1.89176510-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/venezuela/660074c370dea1.89176510-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 4182,
+      "name": "Casa de la Moneda de Venezuela"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

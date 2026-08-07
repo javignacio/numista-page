@@ -1,0 +1,106 @@
+{
+  "id": 1809,
+  "url": "https://en.numista.com/1809",
+  "title": "100 Francs CFA",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "beac",
+    "name": "Central African States"
+  },
+  "issuing_entity": {
+    "id": 699,
+    "name": "Bank of Central African States",
+    "wikidata_id": "Q189972"
+  },
+  "min_year": 2006,
+  "max_year": 2023,
+  "value": {
+    "text": "100 Francs CFA",
+    "numeric_value": 100,
+    "currency": {
+      "id": 84,
+      "name": "CFA franc",
+      "full_name": "CFA franc (Bank of Central African States, 1973-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: stainless steel centre in brass ring"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "A.G.M.M."
+    ],
+    "description": "Denomination",
+    "lettering": "BANQUE DES ÉTATS DE L'AFRIQUE CENTRALE\r\n100 FCFA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Bank of [the] Central African States",
+    "picture": "https://en.numista.com/catalogue/photos/beac/89-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/beac/89-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "reverse": {
+    "engravers": [
+      "A.G.M.M."
+    ],
+    "description": "Denomination above agricultural products",
+    "lettering": "CEMAC\r\n100 FRANCS\r\n2006",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "(Communauté Economique et Monétaire en Afrique Centrale) \r\n(Economic and Monetary Community in Central Africa)",
+    "picture": "https://en.numista.com/catalogue/photos/beac/88-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/beac/88-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "comments": "Concept of coins released in 2006 (1, 2, 5, 10, 25, 50, 100,500 Francs) (KM#15 to 22) are the agriculture produce of Central African Countries.<br />\r\nBelow the denomination on the reverse of the coin are two shrubs of of Cacao (Left) and Cassava (Right)",
+  "tags": [
+    "Flower"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "15"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "33"
+    }
+  ],
+  "weight": 6,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

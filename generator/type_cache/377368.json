@@ -1,0 +1,132 @@
+{
+  "id": 377368,
+  "url": "https://en.numista.com/377368",
+  "title": "25 Cents - Elizabeth II (4th portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "canada",
+    "name": "Canada"
+  },
+  "min_year": 2003,
+  "max_year": 2006,
+  "ruler": [
+    {
+      "id": 2095,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 827,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "25 Cents",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 44,
+      "name": "Dollar",
+      "full_name": "Dollar (1858-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23.88,
+  "thickness": 1.58,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel (94% steel, 3.8% copper, 2.2% nickel plating)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Susan Taylor"
+    ],
+    "designers": [
+      "Susanna Blunt"
+    ],
+    "description": "Head of Queen Elizabeth II, as at 77 years of age, bare headed, wearing necklace and earrings, facing right.",
+    "lettering": "ELIZABETH II  D·G·REGINA\r\nP",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "ELIZABETH II DEI GRATIA REGINA",
+    "lettering_translation": "Elizabeth II Queen by the grace of God",
+    "picture": "https://en.numista.com/catalogue/photos/canada/64f88fc50504b4.07420667-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/64f88fc50504b4.07420667-180.jpg",
+    "picture_copyright": "Monéphil"
+  },
+  "reverse": {
+    "designers": [
+      "Emanuel Otto Hahn"
+    ],
+    "description": "A caribou is accompanied with the face value and surrounded with the inscription \"CANADA\" and the date.",
+    "lettering": "CANADA 2003\r\n25\r\nCents\r\nH",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/canada/64f88fc561c6b4.80986911-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/64f88fc561c6b4.80986911-180.jpg",
+    "picture_copyright": "Monéphil"
+  },
+  "comments": "<p>(C) mintage included with the circulation coin.</p><p>&nbsp;</p><p>NOTE: 2006 last \"P\" (for plated) composition mark used on circulation coins and the RCM logo introduced as well.</p>",
+  "related_types": [
+    {
+      "id": 325,
+      "title": "25 Cents - Elizabeth II (4th portrait; RCM logo)",
+      "category": "coin",
+      "country": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "minYear": 2006,
+      "maxYear": 2022
+    }
+  ],
+  "tags": [
+    "Deer or cervid"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "493"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "521"
+    }
+  ],
+  "weight": 4.4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Serrated"
+  },
+  "mints": [
+    {
+      "id": 19,
+      "name": "Royal Canadian Mint of Ottawa"
+    },
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

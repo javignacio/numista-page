@@ -1,0 +1,91 @@
+{
+  "id": 325641,
+  "url": "https://en.numista.com/325641",
+  "title": "1 Cent",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "sierra_leone",
+    "name": "Sierra Leone"
+  },
+  "issuing_entity": {
+    "id": 940,
+    "name": "Bank of Sierra Leone",
+    "wikidata_id": "Q806691"
+  },
+  "min_year": 2022,
+  "max_year": 2022,
+  "ruler": [
+    {
+      "id": 938,
+      "name": "Second Republic",
+      "wikidata_id": "Q1044"
+    }
+  ],
+  "value": {
+    "text": "1 Cent",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 10352,
+      "name": "New Leone",
+      "full_name": "New Leone (2022-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 20,
+  "thickness": 1.3,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Microphone",
+    "lettering": "BANK OF SIERRA LEONE\r\n1 CENT\r\n2022",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/sierra_leone/6321abeab03a42.69980361-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/sierra_leone/6321abeab03a42.69980361-180.jpg",
+    "picture_copyright": "Fran Pascual"
+  },
+  "reverse": {
+    "description": "Portrait of Sullay Abu Bakarr",
+    "lettering": "SULLAY ABU BAKARR\r\n· ONE CENT ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/sierra_leone/6321abea7d8280.97451417-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/sierra_leone/6321abea7d8280.97451417-180.jpg",
+    "picture_copyright": "Fran Pascual"
+  },
+  "tags": [
+    "Music"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "503"
+    }
+  ],
+  "weight": 2.8,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

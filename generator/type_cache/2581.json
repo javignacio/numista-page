@@ -1,0 +1,103 @@
+{
+  "id": 2581,
+  "url": "https://en.numista.com/2581",
+  "title": "20 Pesos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "colombie",
+    "name": "Colombia"
+  },
+  "min_year": 2004,
+  "max_year": 2008,
+  "ruler": [
+    {
+      "id": 4088,
+      "name": "Republic",
+      "wikidata_id": "Q739"
+    }
+  ],
+  "value": {
+    "text": "20 Pesos",
+    "numeric_value": 20,
+    "currency": {
+      "id": 147,
+      "name": "Peso decimalized",
+      "full_name": "Peso decimalized (1847-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 17.2,
+  "thickness": 1.15,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass (70% Copper, 30% Zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Portrait of Simón Bolívar (1783-1830) facing left",
+    "lettering": "REPUBLICA DE COLOMBIA 2006\r\nSIMON BOLIVAR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Colombia 2006\r\nSimon Bolivar",
+    "picture": "https://en.numista.com/catalogue/photos/colombie/1289-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/1289-180.jpg",
+    "picture_copyright": "Ciscoins.net",
+    "picture_copyright_url": "https://web.archive.org/web/20201116183734/http://ciscoins.net/"
+  },
+  "reverse": {
+    "description": "Value",
+    "lettering": "20\r\nPESOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/colombie/1290-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/1290-180.jpg",
+    "picture_copyright": "Ciscoins.net",
+    "picture_copyright_url": "https://web.archive.org/web/20201116183734/http://ciscoins.net/"
+  },
+  "tags": [
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "294"
+    },
+    {
+      "catalogue": {
+        "id": 348,
+        "code": "Restrepo"
+      },
+      "number": "440"
+    },
+    {
+      "catalogue": {
+        "id": 347,
+        "code": "Hernández"
+      },
+      "number": "641-643"
+    }
+  ],
+  "weight": 2,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

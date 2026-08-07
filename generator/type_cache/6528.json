@@ -1,0 +1,109 @@
+{
+  "id": 6528,
+  "url": "https://en.numista.com/6528",
+  "title": "100 Sucres (Antonio José de Sucre)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "equateur",
+    "name": "Ecuador"
+  },
+  "min_year": 1995,
+  "max_year": 1995,
+  "ruler": [
+    {
+      "id": 3758,
+      "name": "Republic",
+      "wikidata_id": "Q736"
+    }
+  ],
+  "value": {
+    "text": "100 Sucres",
+    "numeric_value": 100,
+    "currency": {
+      "id": 187,
+      "name": "Sucre",
+      "full_name": "Sucre (1884-2000)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2000-09-10"
+  },
+  "size": 19.45,
+  "thickness": 1.75,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: bronze plated steel centre in nickel plated steel ring"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Name of the country, coat of arms, year of issue",
+    "lettering": "REPUBLICA DEL ECUADOR\r\n1995",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Ecuador",
+    "picture": "https://en.numista.com/catalogue/photos/equateur/535-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/equateur/535-180.jpg",
+    "picture_copyright": "Ciscoins.net",
+    "picture_copyright_url": "https://web.archive.org/web/20201116183734/http://ciscoins.net/"
+  },
+  "reverse": {
+    "description": "Denomination in digits (twice), denomination in words, portrait of Antonio José de Sucre",
+    "lettering": "100 · BICENTENARIO NATALICIO · 100\r\nANTONIO JOSE DE SUCRE\r\n· CIEN SUCRES ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "100 · Bicentennial of birth · 100\r\nAntonio José de Sucre\r\n· One hundred sucres ·",
+    "picture": "https://en.numista.com/catalogue/photos/equateur/536-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/equateur/536-180.jpg",
+    "picture_copyright": "Ciscoins.net",
+    "picture_copyright_url": "https://web.archive.org/web/20201116183734/http://ciscoins.net/"
+  },
+  "commemorated_topic": "Bicentennial of Birth of Antonio José de Sucre",
+  "comments": "<p><a href=\"https://en.numista.com/catalogue/images/6945828748c57.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6945828748c57.jpg\"></a></p>",
+  "tags": [
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "96"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "91"
+    }
+  ],
+  "weight": 3.55,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded and plain sections",
+    "picture": "https://en.numista.com/catalogue/photos/equateur/440-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/equateur/440-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 1339,
+      "name": "Sherritt Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

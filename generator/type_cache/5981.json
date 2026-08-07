@@ -1,0 +1,128 @@
+{
+  "id": 5981,
+  "url": "https://en.numista.com/5981",
+  "title": "25 New Pence - Elizabeth II (Queen Mother)",
+  "object_type": {
+    "id": 3,
+    "name": "Non-circulating coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1980,
+  "max_year": 1980,
+  "ruler": [
+    {
+      "id": 275,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 527,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "25 Pence",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 126,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (decimalized, 1971-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 38.61,
+  "thickness": 2.89,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Arnold Machin"
+    ],
+    "description": "Second crowned portrait of Queen Elizabeth II right, wearing the Girls of Great Britain and Ireland tiara, legend around",
+    "lettering": "ELIZABETH II  D·G·REG·F·D·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Elizabeth II Dei Gratia Regina Fidei Defensatrix",
+    "lettering_translation": "Elizabeth II by the Grace of God Queen Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/7024-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/7024-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "reverse": {
+    "engravers": [
+      "Richard Guyatt"
+    ],
+    "description": "Central portrait of the Queen Mother surrounded by a radiating pattern of symbolic bows and lions, which are an allusion to her family name.",
+    "lettering": "QUEEN ELIZABETH THE QUEEN MOTHER\r\nAUGUST 4th 1980",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/7025-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/7025-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "commemorated_topic": "80th birthday of Queen Elizabeth the Queen Mother",
+  "comments": "<p>Despite being produced in their millions and being available at face value from most post offices and banks, the ordinary business strike was a Royal Mint commemorative issue and not intended for general circulation.&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/6807989d062b3.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6807989d062b3.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/6807989ca9dbc.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6807989ca9dbc.jpg\"></a></p><p>&nbsp;</p><p>The coin was also issued in a presentation card.<br><a href=\"https://en.numista.com/catalogue/images/628153912f2de.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/628153912f2de.jpg\" alt=\"\"></a><br><br>This was the first time in the history of United Kingdom coinage that a reigning monarch appeared on the same coin as her mother.<br><br>Elizabeth Angela Marguerite Bowes-Lyon (4 August 1900 – 30 March 2002) was the wife of King George VI and the mother of Queen Elizabeth II and Princess Margaret. She was known as Queen Elizabeth, The Queen Mother, to avoid confusion with her daughter. She was the last Empress consort of India.<br><br><i>Planchet thickness</i> The coin thickness measures 2.9 mm at the centre and 3.2 mm at the rim.<br><br>(former Spink ref. 4228)</p>",
+  "related_types": [
+    {
+      "id": 37076,
+      "title": "25 New Pence - Elizabeth II (Queen Mother; Silver Proof)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1980,
+      "maxYear": 1980
+    }
+  ],
+  "tags": [
+    "Cat or feline",
+    "Birth anniversary",
+    "Monarch"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "921"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "LL3"
+    }
+  ],
+  "weight": 28.28,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Non-circulating coins"
+}

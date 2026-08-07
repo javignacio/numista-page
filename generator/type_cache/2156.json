@@ -1,0 +1,123 @@
+{
+  "id": 2156,
+  "url": "https://en.numista.com/2156",
+  "title": "50 Haléřů",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "republique_tcheque",
+    "name": "Czech Republic"
+  },
+  "min_year": 1993,
+  "max_year": 2008,
+  "ruler": [
+    {
+      "id": 1309,
+      "name": "Republic",
+      "wikidata_id": "Q213"
+    }
+  ],
+  "value": {
+    "text": "50 Haléřů",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 19,
+      "name": "Koruna",
+      "full_name": "Koruna (1993-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2008-08-31"
+  },
+  "size": 19,
+  "thickness": 1.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Vladimír Oppl"
+    ],
+    "description": "Crowned Czech lion facing left and the date below",
+    "lettering": "ČESKÁ REPUBLIKA\r\n·1996·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Czech Republic\r\n1996",
+    "picture": "https://en.numista.com/catalogue/photos/republique_tcheque/13-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/republique_tcheque/13-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Vladimír Oppl"
+    ],
+    "description": "The denomination in large font",
+    "lettering": "50 h\r\nVO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/republique_tcheque/14-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/republique_tcheque/14-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "An undistinguishable variant exists for year 1993, with slightly different alloy (Aluminium 97% + Magnesium 3%) - 56,000 pieces were made. They were all released to circulation and are supposed to be more shiny than usual.<br /><br />\r\nKM# 3.1 (smaller signature &quot;vo&quot;-mark, obverse: lion&#039;s crown more pointy and a bit farther from the letter &quot;E&quot;)<br />\r\nKM# 3.2 (larger signature &quot;vo&quot;-mark, obverse: lion&#039;s crown flatter and a bit closer to the letter &quot;E&quot;)<br />\r\nSince 2000, obverse lettering changed from Bold to Double lined.<br /><br />\r\nDifferent mintmarks (castle = (HM), Hamburg Mint, crowned &quot;b&quot; = Bizuterie Jablonec Czech Mint)<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/56dc956bc262c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/56dc956bc262c.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nAlloy is Aluminium with 1% of Magnesium.",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "3.1"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "3.2"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "174"
+    }
+  ],
+  "weight": 0.9,
+  "orientation": "medal",
+  "edge": {
+    "description": "Segmentedly reeded (6 segments with 7 grooves each)",
+    "picture": "https://en.numista.com/catalogue/photos/republique_tcheque/37-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/republique_tcheque/37-180.jpg",
+    "picture_copyright": "ZacUK"
+  },
+  "mints": [
+    {
+      "id": 30,
+      "name": "Czech Mint"
+    },
+    {
+      "id": 4,
+      "name": "Hamburgische Münze"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

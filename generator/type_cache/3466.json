@@ -1,0 +1,102 @@
+{
+  "id": 3466,
+  "url": "https://en.numista.com/3466",
+  "title": "5 Pence - Elizabeth II",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "guernesey",
+    "name": "Guernsey"
+  },
+  "min_year": 1977,
+  "max_year": 1982,
+  "ruler": [
+    {
+      "id": 2969,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 782,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Pence",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 332,
+      "name": "Pound",
+      "full_name": "Pound (decimalized, 1971-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 23.6,
+  "thickness": 1.78,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms of Guernsey",
+    "lettering": "S'BALLIVIE INSVLE DE GERNEREVE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Bailiwick of Guernsey",
+    "picture": "https://en.numista.com/catalogue/photos/guernesey/65b407270dd572.06182706-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/guernesey/65b407270dd572.06182706-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Guernsey lily\r\nBinomial Name: Nerine sarniensis",
+    "lettering": "FIVE 5 PENCE\r\n1977",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/guernesey/65b40727cd1f31.15760671-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/guernesey/65b40727cd1f31.15760671-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "tags": [
+    "Flower",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "29"
+    }
+  ],
+  "weight": 5.65,
+  "orientation": "medal",
+  "edge": {
+    "description": "Milled"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,162 @@
+{
+  "id": 185,
+  "url": "https://en.numista.com/185",
+  "title": "1 Franc (Helvetia standing; copper-nickel)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "suisse",
+    "name": "Switzerland (1848-date)"
+  },
+  "min_year": 1968,
+  "max_year": 2026,
+  "ruler": [
+    {
+      "id": 2857,
+      "name": "Federal State",
+      "wikidata_id": "Q355857"
+    }
+  ],
+  "value": {
+    "text": "1 Franc",
+    "numeric_value": 1,
+    "currency": {
+      "id": 82,
+      "name": "Franc",
+      "full_name": "Franc (1850-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23.2,
+  "thickness": 1.55,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% copper, 25% nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Antoine Bovy"
+    ],
+    "designers": [
+      "Albert Walch"
+    ],
+    "description": "Full-length figure of Helvetia, standing, facing left, wearing toga, holding spear in right hand, and supporting shield with coat of arms of Switzerland with left hand. 22 stars around, representing the 22 cantons of the Swiss confederation. In 1983, a 23rd star was added for the Canton of Jura, which was founded in 1979.",
+    "lettering": "HELVETIA\r\nA. BOVY INCᵀ.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Antoine Bovy incidit",
+    "lettering_translation": "Engraved by Antoine Bovy.",
+    "picture": "https://en.numista.com/catalogue/photos/suisse/67b239143dbbf1.11221158-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suisse/67b239143dbbf1.11221158-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "reverse": {
+    "engravers": [
+      "Antoine Bovy"
+    ],
+    "designers": [
+      "Friedrich Fisch"
+    ],
+    "description": "Wreath formed of oak and alpine rose branches tied with a ribbon below.",
+    "lettering": "1 Fr.\r\n1980",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/suisse/67b23914a5b510.49029439-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suisse/67b23914a5b510.49029439-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "series": "Helvetia standing series",
+  "comments": "<p>In 1967, the price of silver soared steeply, reaching 260 francs per kilogram in August and 350 francs per kilogram in March 1968. At this time, the melt value of the 1 franc pieces was ≈1.46 francs. Switzerland started to experience a severe shortage of cash, especially in the north, where people were exporting coins to Germany to be melted. In spite of strict measures against hoarding and melting coins, it is estimated that around 100 tonnes of silver in 1/2, 1 and 2 franc coins were melted. The crisis alleviated in 1968, when the Swiss mint started to mint coins in a copper-nickel alloy at full capacity, around 1.5 million coins per day. The coins were released on 10 May 1968 and the old silver coins were withdrawn on 1 April 1971.<br><br>Nevertheless, the mint in Bern did not have enough capacity to timely substitute around half a billion silver coins in circulation with new copper-nickel pieces. Therefore, the Royal Mint in London was contracted to supplement production in 1968-1970. The 1 franc coins were the most needed and therefore, the first to be produced from 20 June to 10 July 1968. Around 500 000 early coins produced in London were rejected by the Swiss, who were dissatisfied with the dull grey colour and the quality of the milled edge. Four Swiss experts were sent to London to ensure quality control.<br><br>Coins from 1968 without mintmark were minted in London, and they can be easily distinguished by the coins minted in Bern, which bear the B mintmark. At the time, opportunistic collectors tried to sell the coins with no mintmark as rare mint errors, which was not the case, given that 34 910 000 one franc pieces have been minted in London. In order to address these deceiving practices, the mint in London also adopted the B mintmark in 1969. As a result, it is almost impossible to distinguish between the coins minted in Bern and those minted in London in 1969. 19 910 000 pieces dated 1969 were minted in London, and 17 688 000 in Bern. The coins minted in London have a grey appearance, while those from Bern are more reflective.<br><br>Source: Ruedi Kunzmann; 2002. \"<i>Die Silbermünzenkrise der Schweiz von 1968 und die Tätigkeit der Royal Mint, London</i>\". Schweizer Münzblätter, volume 50-52, page 68-72.<br><br><a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.numista.com/catalogue/images/6068690b403fd.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6068690b403fd.jpg\" alt=\"\"></a><br><br>&nbsp;<a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.numista.com/catalogue/images/682afa53f010d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/682afa53f010d.jpg\"></a></p>",
+  "related_types": [
+    {
+      "id": 184,
+      "title": "1 Franc (Helvetia standing; silver)",
+      "category": "coin",
+      "country": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "minYear": 1875,
+      "maxYear": 1967
+    }
+  ],
+  "tags": [
+    "Allegory",
+    "Coat of Arms",
+    "Wreath",
+    "Cold weapons"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 1253,
+        "code": "HMZ 2"
+      },
+      "number": "1204"
+    },
+    {
+      "catalogue": {
+        "id": 962,
+        "code": "Divo/Tob19"
+      },
+      "number": "307a"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "24a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "28a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "58"
+    }
+  ],
+  "weight": 4.4,
+  "orientation": "variable",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    },
+    {
+      "id": 247,
+      "name": "Bern"
+    },
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

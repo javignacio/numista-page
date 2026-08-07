@@ -1,0 +1,112 @@
+{
+  "id": 5766,
+  "url": "https://en.numista.com/5766",
+  "title": "5 Gourdes",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "haiti",
+    "name": "Haiti (1804-date)"
+  },
+  "min_year": 1995,
+  "max_year": 2019,
+  "ruler": [
+    {
+      "id": 726,
+      "name": "Third Republic",
+      "wikidata_id": "Q790"
+    }
+  ],
+  "value": {
+    "text": "5 Gourdes",
+    "numeric_value": 5,
+    "currency": {
+      "id": 86,
+      "name": "Third gourde",
+      "full_name": "Third gourde (1872-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 28.05,
+  "thickness": 2,
+  "shape": "Equilateral curve heptagon (7-sided)",
+  "composition": {
+    "text": "Brass plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Four portraits in circle of Haitian statesmen, date below. \r\nTop: Gen. Toussaint Louverture, Left: Henri Christophe, \r\nRight: Jean-Jacques Dessalines, Bottom: Alexandre Pétion",
+    "lettering": "RÉPUBLİQUE D'HAÏTİ\r\n2018",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Haiti",
+    "picture": "https://en.numista.com/catalogue/photos/haiti/629617e299d1c8.30908025-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/haiti/629617e299d1c8.30908025-180.jpg",
+    "picture_copyright": "Polette",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Coat of Arms",
+    "lettering": "LİBERTÉ · ÉGALİTÉ · FRATERNİTÉ\r\n5\r\nGOURDES",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Liberty Equality Brotherhood",
+    "picture": "https://en.numista.com/catalogue/photos/haiti/629617e2d4a5d3.99524032-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/haiti/629617e2d4a5d3.99524032-180.jpg",
+    "picture_copyright": "Polette",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "tags": [
+    "Independence",
+    "Politician",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "156"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "110"
+    }
+  ],
+  "weight": 9.1,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded (with smooth corners)",
+    "picture": "https://en.numista.com/catalogue/photos/haiti/629617e30cd0d7.05120097-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/haiti/629617e30cd0d7.05120097-180.jpg",
+    "picture_copyright": "Polette",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

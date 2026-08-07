@@ -1,0 +1,127 @@
+{
+  "id": 5215,
+  "url": "https://en.numista.com/5215",
+  "title": "2 Cents - Elizabeth II (2nd portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "nouvelle-zelande",
+    "name": "New Zealand"
+  },
+  "min_year": 1967,
+  "max_year": 1985,
+  "ruler": [
+    {
+      "id": 629,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 788,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "2 Cents",
+    "numeric_value": 0.02,
+    "currency": {
+      "id": 54,
+      "name": "Dollar",
+      "full_name": "Dollar (1967-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1990-04-30"
+  },
+  "size": 21.1,
+  "thickness": 1.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Arnold Machin"
+    ],
+    "description": "Second crowned portrait of Queen Elizabeth II right, wearing the Girls of Great Britain and Ireland tiara, legend around, date below.",
+    "lettering": "ELIZABETH II NEW ZEALAND\r\n1973",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/nouvelle-zelande/66fa2eab2a4364.37253413-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/66fa2eab2a4364.37253413-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "George James Berry"
+    ],
+    "description": "Kowhai flowers around denomination.",
+    "lettering": "2\r\nJB",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/nouvelle-zelande/66fa2eac0564c0.76996345-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/66fa2eac0564c0.76996345-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p>Kowhai flower (<i>Sophora microphylla</i>) is also known as weeping kōwhai and small-leaved kōwhai.</p><p>&nbsp;</p><p>For the varieties between BU/Proof and circulation coins, please see the “Comments section” of the 1 cent coin&nbsp;</p><p><a class=\"n-link\" data-mention=\"N#1846\" data-n-number=\"1846\" data-issuer=\"New Zealand\" title=\"1 Cent - Elizabeth II (2nd portrait)\" href=\"/1846\">N#1846</a></p><p><br><br><i>Obverse die varieties:</i><br><strong>KM#32.1</strong> <i>(1967-85)</i> Rounded high relief portrait<br><strong>KM#32.2</strong> <i>(1984-85)</i> Die recut, low relief portrait<br><br><i>1971 date varieties</i><br><a href=\"https://en.numista.com/catalogue/images/6392bf5ef09ee.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6392bf5ef09ee.jpg\" alt=\"\"></a></p>",
+  "tags": [
+    "Flower"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "32.1"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "32.2"
+    }
+  ],
+  "weight": 4.15,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/nouvelle-zelande/6a0491f279b388.66179517-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/6a0491f279b388.66179517-180.jpg",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 28,
+      "name": "Royal Australian Mint"
+    },
+    {
+      "id": 19,
+      "name": "Royal Canadian Mint of Ottawa"
+    },
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

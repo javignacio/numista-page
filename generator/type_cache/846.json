@@ -1,0 +1,148 @@
+{
+  "id": 846,
+  "url": "https://en.numista.com/846",
+  "title": "1 Deutsche Mark",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "allemagne",
+    "name": "Germany, Federal Republic of"
+  },
+  "min_year": 1950,
+  "max_year": 2001,
+  "ruler": [
+    {
+      "id": 2860,
+      "name": "Federal Republic",
+      "wikidata_id": "Q183"
+    }
+  ],
+  "value": {
+    "text": "1 Deutsche Mark",
+    "numeric_value": 1,
+    "currency": {
+      "id": 131,
+      "name": "Deutsche Mark",
+      "full_name": "Deutsche Mark (1948-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2001-12-31"
+  },
+  "size": 23.5,
+  "thickness": 1.75,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "German eagle, mintmark below.",
+    "lettering": "BUNDESREPUBLIK DEUTSCHLAND \r\n∙ F ∙",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Federal Republic of Germany",
+    "picture": "https://en.numista.com/catalogue/photos/allemagne/6280f8dd78c295.68137920-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/6280f8dd78c295.68137920-180.jpg",
+    "picture_copyright": "PCGS",
+    "picture_copyright_url": "https://www.pcgs.com/"
+  },
+  "reverse": {
+    "engravers": [
+      "J. Bernhart"
+    ],
+    "description": "Two oak branches on either side of the face value.",
+    "lettering": "1 \r\nDEUTSCHE \r\nMARK \r\n1965",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "1 German Mark",
+    "picture": "https://en.numista.com/catalogue/photos/allemagne/6280f8dda0c876.82924426-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/6280f8dda0c876.82924426-180.jpg",
+    "picture_copyright": "PCGS",
+    "picture_copyright_url": "https://www.pcgs.com/"
+  },
+  "comments": "Different obverse and reverse designs (visible in eagle&#039;s head, legend lettering):<br /><br />\r\n-Type A (1950-1970): Obverse 1: tongue near the lower beak, large eyeball, thicker letters; Reverse 1: thicker letters with a smaller base<br />\r\n-Type B (1971-1973): Obverse 1: tongue near the lower beak, large eyeball, thicker letters; Reverse 2: thinner letters with larger and more detailed base<br />\r\n-Type C (1971-2001): Obverse 2: tongue in the middle, smaller eyeball, thinner letters; Reverse 2: thinner letters with larger and more detailed base<br />\r\n-Type D (1974): Obverse 2: tongue in the middle, smaller eyeball, thinner letters; Reverse 1: thicker letters with a smaller base<br /><br />\r\nsee here for pictures (Type C and D switched):<br />\r\n<a href=\"https://monnaiesetvarietes.numista.com/FICHES/Allemagne%20RFA/ALLEMAGNE%201%20Mark%20110.pdf\" rel=\"nofollow\">https://monnaiesetvarietes.numista.com/FICHES/Allemagne%20RFA/ALLEMAGNE%201%20Mark%20110.pdf</a>",
+  "related_types": [
+    {
+      "id": 284506,
+      "title": "1 Deutsche Mark (Pattern)",
+      "category": "coin",
+      "country": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+      },
+      "minYear": 1950,
+      "maxYear": 1965
+    }
+  ],
+  "tags": [
+    "Bird"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "110"
+    },
+    {
+      "catalogue": {
+        "id": 80,
+        "code": "J"
+      },
+      "number": "385"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "108"
+    }
+  ],
+  "weight": 5.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Smooth with imprints",
+    "lettering": "~*~ ~·~ ~*~ ~·~ ~*~ ~·~",
+    "picture": "https://en.numista.com/catalogue/photos/allemagne/1818-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/1818-180.jpg",
+    "picture_copyright": "ZacUK"
+  },
+  "mints": [
+    {
+      "id": 5,
+      "name": "Berlin"
+    },
+    {
+      "id": 1,
+      "name": "Munich"
+    },
+    {
+      "id": 2,
+      "name": "Staatliche Münze Baden-Württemberg"
+    },
+    {
+      "id": 3,
+      "name": "Staatliche Münze Baden-Württemberg"
+    },
+    {
+      "id": 4,
+      "name": "Hamburgische Münze"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

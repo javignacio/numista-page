@@ -1,0 +1,160 @@
+{
+  "id": 3366,
+  "url": "https://en.numista.com/3366",
+  "title": "1 Dollar \"Eisenhower Dollar\" (Bicentennial)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "etats-unis",
+    "name": "United States"
+  },
+  "min_year": 1976,
+  "max_year": 1976,
+  "ruler": [
+    {
+      "id": 4720,
+      "name": "Federal republic",
+      "wikidata_id": "Q30"
+    }
+  ],
+  "value": {
+    "text": "1 Dollar",
+    "numeric_value": 1,
+    "currency": {
+      "id": 59,
+      "name": "Dollar",
+      "full_name": "Dollar (1785-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 38.1,
+  "thickness": 2.58,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel clad copper"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Frank Gasparro"
+    ],
+    "description": "The portrait of Dwight D. Eisenhower facing left and dates below",
+    "lettering": "LIBERTY\r\nIN GOD WE\r\nTRUST\r\nFG\r\nD\r\n1776·1976",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/2864-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/2864-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "reverse": {
+    "engravers": [
+      "Dennis R. Williams"
+    ],
+    "description": "The Liberty Bell with the moon behind and to the right with the denomination below",
+    "lettering": "UNITED STATES OF AMERICA\r\nTHEREOF LEV. XXV. V X. PROCLAIM\r\nHOUSE OF PHILADA BY  OR\r\nPASS AND STOW\r\nPHILADA\r\nMDCCLIII\r\nE\r\nPLURIBUS\r\nUNUM\r\nDRW\r\nONE DOLLAR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "United States of America\r\nThereof Lev. XXV. V X. Proclaim\r\nHouse of Philada by or\r\nPass an Stow\r\nPhilada\r\nMDCCLIII\r\nOut\r\nof Many\r\nOne\r\nDRW\r\nOne Dollar",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/2865-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/2865-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "commemorated_topic": "United States 200th Anniversary of Independence",
+  "comments": "The American Revolution began in 1776. The 200th anniversary of this event in 1976 (also known as the American bicentennial), a widely celebrated event. All quarter dollars, half dollars, and dollars were struck with a special obverse during 1975 and 1976 to celebrate this event.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/639c7a0519574.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/639c7a0519574.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nThe mintmark is above the &quot;97&quot; in the date, below Eisenhower&#039;s portrait.",
+  "related_types": [
+    {
+      "id": 56,
+      "title": "¼ Dollar \"Washington Quarter\" (Bicentennial)",
+      "category": "coin",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 1976,
+      "maxYear": 1976
+    },
+    {
+      "id": 1489,
+      "title": "½ Dollar \"Kennedy Half Dollar\" (Bicentennial)",
+      "category": "coin",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 1976,
+      "maxYear": 1976
+    },
+    {
+      "id": 15203,
+      "title": "1 Dollar \"Eisenhower Bicentennial Dollar\" (Silver Collectors' Issue)",
+      "category": "coin",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 1976,
+      "maxYear": 1976
+    }
+  ],
+  "tags": [
+    "Independence",
+    "Military leader",
+    "Politician",
+    "Space",
+    "Moon"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "206"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "207"
+    }
+  ],
+  "weight": 22.68,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/62727b1390aa43.65890784-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/62727b1390aa43.65890784-180.jpg",
+    "picture_copyright": "Harryg",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    },
+    {
+      "id": 10,
+      "name": "United States Mint of Denver"
+    },
+    {
+      "id": 12,
+      "name": "United States Mint of San Francisco"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

@@ -1,0 +1,129 @@
+{
+  "id": 860,
+  "url": "https://en.numista.com/860",
+  "title": "1 Penny - Elizabeth II (3rd portrait; magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1992,
+  "max_year": 1997,
+  "ruler": [
+    {
+      "id": 275,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 527,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Penny",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 126,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (decimalized, 1971-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 20.3,
+  "thickness": 1.65,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Raphael David Maklouf"
+    ],
+    "description": "Third crowned portrait of Queen Elizabeth II right, wearing the George IV State Diadem, legend around.",
+    "lettering": "ELIZABETH II D·G·REG·F·D·1997\r\nRDM",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Elizabeth II Dei Gratia Regina Fidei Defensatrix",
+    "lettering_translation": "Elizabeth II by the Grace of God Queen Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/68f06798e1efb7.37119749-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/68f06798e1efb7.37119749-180.jpg",
+    "picture_copyright": "riversxian",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Christopher Ironside"
+    ],
+    "description": "A crowned portcullis with chains (an adaptation of the Badge of Henry VII, now the Badge of the Palace of Westminster) with legend above and denomination below.",
+    "lettering": "ONE PENNY\r\n1",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/68f0679ae53dd9.23177527-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/68f0679ae53dd9.23177527-180.jpg",
+    "picture_copyright": "riversxian",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "<p>1992 saw the changeover from bronze to copper-plated steel for both the 1p &amp; 2p to reduce the cost of production. Both bronze and copper-plated steel 1992 coins can be found, however those in Proof &amp; Brilliant Uncirculated sets were struck in bronze, while circulation strikes were copper-plated steel.<br><br><i>Reverse die varieties:</i><br><br><strong>Type A</strong> <i>(1992-94)</i> Junctions of portcullis bars are raised dots;<br><strong>Type B</strong> <i>(1992-97)</i> Junctions of portcullis bars are incuse circles;<br><br><a href=\"https://en.numista.com/catalogue/images/5df116a6c1ea9.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5df116a6c1ea9.jpg\" alt=\"\"></a><br><br>Information has been received to suggest that 1993-97 BU and Proof sets were struck with Type B but this is yet to be confirmed.</p>",
+  "related_types": [
+    {
+      "id": 861,
+      "title": "1 Penny - Elizabeth II (3rd portrait; non-magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1985,
+      "maxYear": 1992
+    }
+  ],
+  "tags": [
+    "Crown"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "935a"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "B4"
+    }
+  ],
+  "weight": 3.56,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

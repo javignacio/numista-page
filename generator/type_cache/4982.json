@@ -1,0 +1,117 @@
+{
+  "id": 4982,
+  "url": "https://en.numista.com/4982",
+  "title": "1 Cent",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "suriname",
+    "name": "Suriname"
+  },
+  "min_year": 1962,
+  "max_year": 1972,
+  "ruler": [
+    {
+      "id": 1930,
+      "name": "Juliana",
+      "wikidata_id": "Q154946",
+      "group": {
+        "id": 753,
+        "name": "Dutch Guiana"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Cent",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 318,
+      "name": "Guilder",
+      "full_name": "Guilder (1826-2003)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2004-00-00"
+  },
+  "size": 18,
+  "thickness": 1.36,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Joop Hekman"
+    ],
+    "description": "Coat of Arms surrounded by a wreath of red palulu flower (Heliconia Bihai).",
+    "lettering": "JUSTITIA PIETAS FIDES\r\nSURINAME",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Justice Piety Faith",
+    "picture": "https://en.numista.com/catalogue/photos/suriname/62cefb6aa68e69.68103991-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suriname/62cefb6aa68e69.68103991-180.jpg",
+    "picture_copyright": "Ben-jamin",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Joop Hekman"
+    ],
+    "description": "Design and circle surrounding year, value, privy and mint mark. The design is referring to wood carvings of the Surinamese maroons (escaped slaves).",
+    "lettering": "1\r\n1962\r\nCENT",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/suriname/62cefb6b11cad4.86069578-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suriname/62cefb6b11cad4.86069578-180.jpg",
+    "picture_copyright": "Ben-jamin",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "comments": "The &quot;S&quot; on the 1962 proof coin refers to minister of finance Jules Sedney.<br /><br />\r\nAccording to Passon (2022) a 1972 aluminium version exists as well.<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/64d949f2f0497.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64d949f2f0497.png\" alt=\"\" width=\"200\" height=\"168\" /></a><br />\r\nCoat of arms of Suriname (Source: Wikipedia)",
+  "tags": [
+    "Coat of Arms",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "11"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "2"
+    }
+  ],
+  "weight": 2.55,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 23,
+      "name": "Royal Dutch Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

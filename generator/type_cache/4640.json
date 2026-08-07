@@ -1,0 +1,135 @@
+{
+  "id": 4640,
+  "url": "https://en.numista.com/4640",
+  "title": "1 Sol de Oro",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "perou",
+    "name": "Peru"
+  },
+  "min_year": 1943,
+  "max_year": 1965,
+  "ruler": [
+    {
+      "id": 3757,
+      "name": "Republic",
+      "wikidata_id": "Q419"
+    }
+  ],
+  "value": {
+    "text": "1 Sol",
+    "numeric_value": 1,
+    "currency": {
+      "id": 218,
+      "name": "Sol",
+      "full_name": "Sol (1863-1930) / Sol de Oro (1931-1985)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 33,
+  "thickness": 1.95,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass (70% Copper, 30% Zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Peruvian coat of arms; no text.",
+    "picture": "https://en.numista.com/catalogue/photos/perou/1715-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/1715-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "description": "Face value in letters within circle, issuer name around, date below.",
+    "lettering": "EL BANCO CENTRAL DE RESERVA DEL PERU\r\nPAGARA AL PORTADOR\r\nUN\r\nSOL DE ORO\r\n1956",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "The Central Reserve Bank of Peru\r\nWill Pay to the Bearer\r\nOne Sol de Oro\r\n• 1956 •",
+    "picture": "https://en.numista.com/catalogue/photos/perou/1716-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/1716-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "comments": "<p>The coat of arms of Peru: a shield divided into three parts with a cornucopia on bottom pouring golden coins, a vicuña on top left, and a quinua tree (cinchona officinalis) on top right; civic crown above, a laurel branch on left and a palm branch on right, tied with a ribbon below.</p><p>&nbsp;</p><p><strong>Variants:</strong></p><p>How to understand the difference between wide and narrow dates for 1958:<br>- this one is <strong>wide</strong>:<br><a href=\"https://en.numista.com/catalogue/images/58bc2b7588df8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/58bc2b7588df8.jpg\" alt=\"\"></a><br>- and this one is <strong>narrow</strong>:<br><a href=\"https://en.numista.com/catalogue/images/58bc2b9f8b01b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/58bc2b9f8b01b.jpg\" alt=\"\"></a><br><br>The dates of the 1964 coins<br><a href=\"https://en.numista.com/catalogue/images/5f8c2e7d6ec74.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5f8c2e7d6ec74.jpg\" alt=\"\"></a></p>",
+  "related_types": [
+    {
+      "id": 4639,
+      "title": "1 Sol",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 1923,
+      "maxYear": 1935
+    },
+    {
+      "id": 4641,
+      "title": "1 Sol de Oro (Casa de Moneda)",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 1965,
+      "maxYear": 1965
+    },
+    {
+      "id": 920,
+      "title": "1 Sol de Oro",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 1966,
+      "maxYear": 1975
+    }
+  ],
+  "tags": [
+    "Coat of Arms",
+    "Cornucopia",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "222"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "24"
+    }
+  ],
+  "weight": 13.8,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/perou/64a09aa20407d8.42651725-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/64a09aa20407d8.42651725-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

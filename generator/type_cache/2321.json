@@ -1,0 +1,110 @@
+{
+  "id": 2321,
+  "url": "https://en.numista.com/2321",
+  "title": "10 Santimat / Centimes (FAO)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "maroc",
+    "name": "Morocco"
+  },
+  "min_year": 1987,
+  "max_year": 1987,
+  "ruler": [
+    {
+      "id": 3830,
+      "name": "Hassan II",
+      "wikidata_id": "Q69103",
+      "group": {
+        "id": 223,
+        "name": "Alaouite Kings"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Centimes",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 36,
+      "name": "Dirham",
+      "full_name": "Dirham (1960-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 20,
+  "thickness": 1.28,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Crowned arms with supporters",
+    "lettering": "المملكة المغربية\r\nإن تنصروا الله ينصركم‎‎",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "The Kingdom of Morocco\r\nIf you support God, he will help you",
+    "picture": "https://en.numista.com/catalogue/photos/maroc/1375-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/maroc/1375-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "description": "Single ear of corn to left of value, dates top right",
+    "lettering": "1987 - 1407\r\n10\r\n عشر سنتيمات",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "Ten Centimes",
+    "picture": "https://en.numista.com/catalogue/photos/maroc/1376-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/maroc/1376-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "commemorated_topic": "F.A.O.",
+  "tags": [
+    "Coat of Arms",
+    "FAO"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "84"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "90"
+    }
+  ],
+  "weight": 3,
+  "orientation": "coin",
+  "edge": {
+    "description": "Milled",
+    "picture": "https://en.numista.com/catalogue/photos/maroc/678859d2efef83.53369736-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/maroc/678859d2efef83.53369736-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 4878,
+      "name": "Dar As-Sikkah"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

@@ -1,0 +1,117 @@
+{
+  "id": 654,
+  "url": "https://en.numista.com/654",
+  "title": "10 Groschen",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "autriche",
+    "name": "Austria"
+  },
+  "min_year": 1951,
+  "max_year": 2001,
+  "ruler": [
+    {
+      "id": 149,
+      "name": "Second Republic",
+      "wikidata_id": "Q40"
+    }
+  ],
+  "value": {
+    "text": "10 Groschen",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 178,
+      "name": "Second Schilling",
+      "full_name": "Second Schilling (1945-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2002-02-28"
+  },
+  "size": 19.8,
+  "thickness": 1.55,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Hans Köttenstorfer"
+    ],
+    "description": "The Austrian coat of arms (the imperial eagle carrying the Austrian shield on its breast) with broken chains, which signify Austria as an independent country, and the country name as a stylized inscription, and denomination in the scalloped rim.",
+    "lettering": "10 10\r\nREPUBLIK\r\nÖSTERREICH",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "REPUBLIC\r\nAUSTRIA",
+    "picture": "https://en.numista.com/catalogue/photos/autriche/5f8a1be4027ae5.13137415-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/autriche/5f8a1be4027ae5.13137415-180.jpg",
+    "picture_copyright": "Ben-jamin",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Hans Köttenstorfer"
+    ],
+    "description": "The face value above the year in a scalloped rim.",
+    "lettering": "10\r\n1974\r\nGROSCHEN",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/autriche/5f8a1be4697460.20362744-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/autriche/5f8a1be4697460.20362744-180.jpg",
+    "picture_copyright": "Ben-jamin",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "comments": "There are two types:<br />\r\n&nbsp;- large eagle and narrow rim;<br />\r\n&nbsp;- small eagle and wide rim.<br /><br />\r\nThe difference is within in the crown, tongue, and the position of the letters<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5c391f7c1fec6.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5c391f7c1fec6.jpg\" alt=\"\" width=\"200\" height=\"162\" /></a> <a href=\"https://en.numista.com/catalogue/images/5c39203c780fe.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5c39203c780fe.jpg\" alt=\"\" width=\"200\" height=\"162\" /></a>",
+  "tags": [
+    "Bird",
+    "Eagle",
+    "Coat of Arms",
+    "Hammer and sickle"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "2878"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "67"
+    }
+  ],
+  "weight": 1.1,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/autriche/6988bbc9a2eb62.57827153-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/autriche/6988bbc9a2eb62.57827153-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 232,
+      "name": "Münze Österreich"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

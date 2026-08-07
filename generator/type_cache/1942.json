@@ -1,0 +1,128 @@
+{
+  "id": 1942,
+  "url": "https://en.numista.com/1942",
+  "title": "1 Groschen",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "autriche",
+    "name": "Austria"
+  },
+  "min_year": 1925,
+  "max_year": 1938,
+  "ruler": [
+    {
+      "id": 148,
+      "name": "First Republic",
+      "wikidata_id": "Q518101"
+    },
+    {
+      "id": 1450,
+      "name": "Federal State",
+      "wikidata_id": "Q176495"
+    }
+  ],
+  "value": {
+    "text": "1 Groschen",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 8669,
+      "name": "First Schilling",
+      "full_name": "First Schilling (1925-1938)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 17,
+  "thickness": 1,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Heinrich Zita"
+    ],
+    "description": "Crowned eagle head facing right, legend divided",
+    "lettering": "ÖSTER- -REICH·\r\nHZ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Austria\r\nHZ·",
+    "picture": "https://en.numista.com/catalogue/photos/autriche/6943cf3068f695.57190937-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/autriche/6943cf3068f695.57190937-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "reverse": {
+    "engravers": [
+      "Heinrich Zita"
+    ],
+    "description": "Value with date below",
+    "lettering": "1\r\nGROSCHEN\r\n1932",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/autriche/6943cf31511605.51110553-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/autriche/6943cf31511605.51110553-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "related_types": [
+    {
+      "id": 3834,
+      "title": "100 Kronen",
+      "category": "coin",
+      "country": {
+        "code": "autriche",
+        "name": "Austria"
+      },
+      "minYear": 1923,
+      "maxYear": 1924
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Eagle"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "2836"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "39"
+    }
+  ],
+  "weight": 1.6,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/autriche/6988ba80e85eb5.02643863-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/autriche/6988ba80e85eb5.02643863-180.jpg",
+    "picture_copyright": "Walter_Scott"
+  },
+  "mints": [
+    {
+      "id": 232,
+      "name": "Münze Österreich"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

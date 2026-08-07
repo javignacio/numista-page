@@ -1,0 +1,100 @@
+{
+  "id": 27755,
+  "url": "https://en.numista.com/27755",
+  "title": "50 Cèntims (Pope John Paul II)",
+  "object_type": {
+    "id": 47,
+    "name": "Collector coins"
+  },
+  "issuer": {
+    "code": "andorre",
+    "name": "Andorra"
+  },
+  "min_year": 2005,
+  "max_year": 2005,
+  "ruler": [
+    {
+      "id": 4700,
+      "name": "Joan Enric Vives i Sicília",
+      "wikidata_id": "Q57473",
+      "group": {
+        "id": 377,
+        "name": "Co-Principality"
+      }
+    }
+  ],
+  "value": {
+    "text": "50 Cèntims",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 251,
+      "name": "Diner",
+      "full_name": "Diner (1977-2014)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 25.9,
+  "thickness": 2.07,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms of Andorra with the motto \"Virtus Unita Fortior\" inside a semi-open circle",
+    "lettering": "PRINCIPAT D'ANDORRA\r\nVIRTVS VNITA FORTIOR\r\n50  ct.\r\n2005",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Principality of Andorra\nUnited virtue is stronger",
+    "picture": "https://en.numista.com/catalogue/photos/andorre/624c5b43c9a6d4.28229808-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/andorre/624c5b43c9a6d4.28229808-180.jpg"
+  },
+  "reverse": {
+    "description": "Portrait of Karol Wojtyla in his time as Cardinal",
+    "lettering": "KAROL WOJTYLA\r\n1967 · CARDENAL · 1978",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Karol Wojtyla\n1967 · Cardinal · 1978",
+    "picture": "https://en.numista.com/catalogue/photos/andorre/240-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/andorre/240-180.jpg"
+  },
+  "series": "Death of Pope John Paul II",
+  "commemorated_topic": "Cardinal Karol Wojtyla",
+  "comments": "Coin belonging to the Series dedicated to the death of John Paul II from the year 2005, commemorating his periods according to the following list:<br />\r\n<span style=\"font-weight:bold;\">Priest</span> (1946-1958) 1 Cèntim &amp; 2 Cèntims / <span style=\"font-weight:bold;\">Bishop</span> (1958-1964) 5 Cèntims / <span style=\"font-weight:bold;\">Archbishop</span> (1964-1967) 10 Cèntims /<br />\r\n<span style=\"font-weight:bold;\">Cardinal</span> (1967-1978) 25 Cèntims &amp; 50 Cèntims / <span style=\"font-weight:bold;\">Pope</span> (1978-2005) 1 Diner &amp; 2 Diners<br /><br />\r\n<span style=\"font-weight:bold;\">2005 BU Set</span><br />\r\n<a href=\"https://en.numista.com/catalogue/images/6502d405286f0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6502d405286f0.jpg\" alt=\"\" width=\"200\" height=\"142\" /></a> <a href=\"https://en.numista.com/catalogue/images/6502d41035d34.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6502d41035d34.jpg\" alt=\"\" width=\"200\" height=\"142\" /></a> <a href=\"https://en.numista.com/catalogue/images/6502d41e6a271.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6502d41e6a271.jpg\" alt=\"\" width=\"200\" height=\"141\" /></a> <a href=\"https://en.numista.com/catalogue/images/6502d42fdf0c0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6502d42fdf0c0.jpg\" alt=\"\" width=\"199\" height=\"141\" /></a>",
+  "tags": [
+    "Religious figure",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "241"
+    }
+  ],
+  "weight": 9,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 288,
+      "name": "Tower Mint"
+    }
+  ],
+  "category": "exonumia",
+  "type": "Collector coins"
+}

@@ -1,0 +1,93 @@
+{
+  "id": 11918,
+  "url": "https://en.numista.com/11918",
+  "title": "10 Centimos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "angola",
+    "name": "Angola"
+  },
+  "min_year": 1999,
+  "max_year": 1999,
+  "ruler": [
+    {
+      "id": 4317,
+      "name": "Republic",
+      "wikidata_id": "Q916"
+    }
+  ],
+  "value": {
+    "text": "10 Centimos",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 96,
+      "name": "Second Kwanza",
+      "full_name": "Second Kwanza (1999-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1999-11-12"
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2014-12-31"
+  },
+  "size": 15.04,
+  "thickness": 1.3,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms of Angola",
+    "lettering": "REPUBLICA DE ANGOLA\r\n1999",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/angola/627ff4d1357e01.19062923-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/angola/627ff4d1357e01.19062923-180.jpg",
+    "picture_copyright": "Yurek70"
+  },
+  "reverse": {
+    "description": "Face value of the coin",
+    "lettering": "10\r\nCENTIMOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/angola/627ff4d241c054.14250933-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/angola/627ff4d241c054.14250933-180.jpg",
+    "picture_copyright": "Yurek70"
+  },
+  "tags": [
+    "Coat of Arms",
+    "Sun",
+    "Cold weapons"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "95"
+    }
+  ],
+  "weight": 1.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

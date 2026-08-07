@@ -1,0 +1,127 @@
+{
+  "id": 68022,
+  "url": "https://en.numista.com/68022",
+  "title": "25 Fils (magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "emirats_arabes_unis",
+    "name": "United Arab Emirates"
+  },
+  "min_year": 2014,
+  "max_year": 2022,
+  "ruler": [
+    {
+      "id": 1500,
+      "name": "Khalifa bin Zayed Al Nahyan",
+      "wikidata_id": "Q1059948"
+    }
+  ],
+  "value": {
+    "text": "25 Fils",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 35,
+      "name": "Dirham",
+      "full_name": "Dirham (1973-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 20,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Denomination in Arabic characters surrounded by name of the country",
+    "lettering": "الامارات العربية المتحدة\r\n٢٥\r\nفلساً\r\nUNITED ARAB EMIRATES",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "United Arab Emirates\r\n25\r\nFils\r\nUnited Arab Emirates",
+    "picture": "https://en.numista.com/catalogue/photos/emirats_arabes_unis/62810e347fec82.51464804-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/emirats_arabes_unis/62810e347fec82.51464804-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "reverse": {
+    "engravers": [
+      "Geoffrey Colley"
+    ],
+    "description": "Gazelle facing left, date below. Probably the sand gazelle or goitered gazelle (Gazella subgutturosa marica), one of the 2 species found in the UAE",
+    "lettering": "١٤٣٥-٢٠١٤",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "2014-1435",
+    "picture": "https://en.numista.com/catalogue/photos/emirats_arabes_unis/62810e34d5c267.54263448-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/emirats_arabes_unis/62810e34d5c267.54263448-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "comments": "Fine (2018) vs. coarse (2014) edge reeding:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5dc297264a0b3.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5dc297264a0b3.jpg\" alt=\"\" width=\"199\" height=\"54\" /></a><br /><br />\r\nMint:<br />\r\nRoyal Canadian Mint (2014)<br />\r\nUnknown (2017)<br /><br />\r\n1435 (2014) Roll:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/598e221aafa26.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/598e221aafa26.jpg\" alt=\"\" width=\"200\" height=\"55\" /></a><br />\r\n© Amer Salmeh<br /><br />\r\n1438 (2017) Roll:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/598e2b34eb7a7.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/598e2b34eb7a7.jpg\" alt=\"\" width=\"200\" height=\"54\" /></a><br />\r\n© Zameer Abubakar",
+  "related_types": [
+    {
+      "id": 8241,
+      "title": "25 Dirhams",
+      "category": "coin",
+      "country": {
+        "code": "qatar-et-dubai",
+        "name": "Qatar and Dubai"
+      },
+      "minYear": 1966,
+      "maxYear": 1969
+    },
+    {
+      "id": 2451,
+      "title": "25 Fils (non-magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "emirats_arabes_unis",
+        "name": "United Arab Emirates"
+      },
+      "minYear": 1973,
+      "maxYear": 2011
+    }
+  ],
+  "tags": [
+    "Cow or bovine"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "4a"
+    }
+  ],
+  "weight": 3.48,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

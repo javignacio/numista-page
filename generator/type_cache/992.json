@@ -1,0 +1,142 @@
+{
+  "id": 992,
+  "url": "https://en.numista.com/992",
+  "title": "10 Soles de Oro",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "perou",
+    "name": "Peru"
+  },
+  "min_year": 1978,
+  "max_year": 1983,
+  "ruler": [
+    {
+      "id": 3757,
+      "name": "Republic",
+      "wikidata_id": "Q419"
+    }
+  ],
+  "value": {
+    "text": "10 Soles",
+    "numeric_value": 10,
+    "currency": {
+      "id": 218,
+      "name": "Sol",
+      "full_name": "Sol (1863-1930) / Sol de Oro (1931-1985)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 24.48,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of Arms within circle, legend around",
+    "lettering": "BANCO CENTRAL DE RESERVA DEL PERU\r\n1978",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Reserve Bank of Peru\r\n1978",
+    "picture": "https://en.numista.com/catalogue/photos/perou/1163-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/1163-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "reverse": {
+    "description": "Tupac Amaru, the last indigenous leader of the Inca people in Peru",
+    "lettering": "TUPAC AMARU\r\n10 SOLES DE ORO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/perou/1164-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/1164-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "comments": "Difference for the 1978 variety:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/62a4a71d485a9.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/62a4a71d485a9.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "related_types": [
+    {
+      "id": 6516,
+      "title": "10 Soles de Oro (Independence)",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 1971,
+      "maxYear": 1971
+    },
+    {
+      "id": 6517,
+      "title": "10 Soles de Oro",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 1972,
+      "maxYear": 1975
+    },
+    {
+      "id": 5358,
+      "title": "10 Soles de Oro (Admiral Grau)",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 1984,
+      "maxYear": 1984
+    }
+  ],
+  "tags": [
+    "Military leader",
+    "Hat",
+    "Coat of Arms",
+    "Cornucopia"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "272"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "73"
+    }
+  ],
+  "weight": 5.65,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/perou/64a0a0c7af7267.14347905-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/64a0a0c7af7267.14347905-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 297,
+      "name": "Lima"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

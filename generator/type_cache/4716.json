@@ -1,0 +1,115 @@
+{
+  "id": 4716,
+  "url": "https://en.numista.com/4716",
+  "title": "1 Florin - Edward VII",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1902,
+  "max_year": 1910,
+  "ruler": [
+    {
+      "id": 271,
+      "name": "Edward VII",
+      "wikidata_id": "Q20875",
+      "group": {
+        "id": 526,
+        "name": "House of Saxe-Coburg and Gotha"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Florin",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1971)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1993-06-30"
+  },
+  "size": 28.5,
+  "thickness": 2.3,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.925)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "George William de Saulles"
+    ],
+    "description": "Uncrowned portrait of King Edward VII right, legend around.",
+    "lettering": "EDWARDVS VII D:G: BRITT:OMN: REX F:D: IND: IMP:\r\nDES",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Edward the Seventh by the Grace of God King of all the Britains Defender of the Faith Emperor of India",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/60604ee16ee967.12843703-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/60604ee16ee967.12843703-180.jpg",
+    "picture_copyright": "Rowe Collection"
+  },
+  "reverse": {
+    "engravers": [
+      "George William de Saulles"
+    ],
+    "description": "Standing figure of Britannia on ship's bow holding trident in the right hand and shield bearing the Union flag in the left, legend around, date below.",
+    "lettering": "ONE FLORIN TWO SHILLINGS\r\n1906",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/60604ee2216194.81255980-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/60604ee2216194.81255980-180.jpg",
+    "picture_copyright": "Rowe Collection"
+  },
+  "comments": "The standard weight of these coins was 4/11 troy ounce (174.5 grains).",
+  "tags": [
+    "Armour",
+    "Sea",
+    "Boat or watercraft",
+    "Cold weapons"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "801"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "3981"
+    }
+  ],
+  "weight": 11.31,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

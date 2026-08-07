@@ -1,0 +1,137 @@
+{
+  "id": 1051,
+  "url": "https://en.numista.com/1051",
+  "title": "200 Pesos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "colombie",
+    "name": "Colombia"
+  },
+  "min_year": 1994,
+  "max_year": 2012,
+  "ruler": [
+    {
+      "id": 4088,
+      "name": "Republic",
+      "wikidata_id": "Q739"
+    }
+  ],
+  "value": {
+    "text": "200 Pesos",
+    "numeric_value": 200,
+    "currency": {
+      "id": 147,
+      "name": "Peso decimalized",
+      "full_name": "Peso decimalized (1847-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24.4,
+  "thickness": 1.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass (65% Copper, 20% Zinc, 15% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Dicken Castro"
+    ],
+    "description": "State name, denomination, and year of issue.",
+    "lettering": "REPUBLICA DE COLOMBIA\r\n200 \r\nPESOS\r\n2005",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Colombia",
+    "picture": "https://en.numista.com/catalogue/photos/colombie/1302-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/1302-180.jpg",
+    "picture_copyright": "Ciscoins.net",
+    "picture_copyright_url": "https://web.archive.org/web/20201116183734/http://ciscoins.net/"
+  },
+  "reverse": {
+    "designers": [
+      "Dicken Castro"
+    ],
+    "description": "Quimbaya spindlewheel with stylized bird heads.",
+    "picture": "https://en.numista.com/catalogue/photos/colombie/1301-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/1301-180.jpg",
+    "picture_copyright": "Ciscoins.net",
+    "picture_copyright_url": "https://web.archive.org/web/20201116183734/http://ciscoins.net/"
+  },
+  "comments": "<p>There are main groups of obverse and reverse.<br><br><i>Obverse</i><br>Die <strong>1</strong> - letters in REPUBLICA DE COLOMBIA short, there are no vertical lines of background pattern inside mashes of P and O in PESOS.<br>Die <strong>2</strong> - letters in REPUBLICA DE COLOMBIA short, there is vertical line of background pattern inside each mash of P and O in PESOS.<br>Die <strong>3</strong> - letters in REPUBLICA DE COLOMBIA tall, there is vertical line of background pattern inside each mash of P and O in PESOS.<br><br><a href=\"https://en.numista.com/catalogue/images/5d598a303a19f.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d598a303a19f.jpg\" alt=\"\"></a><br><br><i>Reverse</i><br><br>Die <strong>A</strong> - all 4 narrow lines in motif point to gap in between beads.<br>Die <strong>B</strong> - each of 4 narrow lines in motif point to bead.<br><br><a href=\"https://en.numista.com/catalogue/images/5d598a499bc6f.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d598a499bc6f.jpg\" alt=\"\"></a><br><br><strong>Combinations</strong><br><strong>1</strong>+<strong>A</strong> 1994.<br><strong>2</strong>+<strong>A</strong> 1995-1997.<br><strong>3</strong>+<strong>A </strong>1997, 2004-2007.<br><strong>3</strong>+<strong>B</strong> 2008-2012.<br><br>For 1995 there are some coins with an additional dot in the central circle, making 5 dots on the reverse.<br><a href=\"https://en.numista.com/catalogue/images/656897d5efa1d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/656897d5efa1d.jpg\"></a><br>Although Krause shows mintage numbers for 2003, this coin was not issued with that year.</p>",
+  "related_types": [
+    {
+      "id": 34773,
+      "title": "200 Pesos",
+      "category": "coin",
+      "country": {
+        "code": "colombie",
+        "name": "Colombia"
+      },
+      "minYear": 2012,
+      "maxYear": 2026
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "287"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "113"
+    },
+    {
+      "catalogue": {
+        "id": 348,
+        "code": "Restrepo"
+      },
+      "number": "446"
+    },
+    {
+      "catalogue": {
+        "id": 347,
+        "code": "Hernández"
+      },
+      "number": "652-653"
+    }
+  ],
+  "weight": 7.08,
+  "orientation": "coin",
+  "edge": {
+    "description": "Smooth with inscription",
+    "lettering": "MOTIVO QUIMBAYA ★★★ 200 PESOS ★★★",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Quimbayan motif  *** 200 Pesos ***",
+    "picture": "https://en.numista.com/catalogue/photos/colombie/291-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/291-180.jpg",
+    "picture_copyright": "ZacUK"
+  },
+  "mints": [
+    {
+      "id": 4172,
+      "name": "Fábrica de Moneda de Ibagué"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

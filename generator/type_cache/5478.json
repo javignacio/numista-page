@@ -1,0 +1,119 @@
+{
+  "id": 5478,
+  "url": "https://en.numista.com/5478",
+  "title": "2 Rupees (Unity in Diversity)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "inde",
+    "name": "India"
+  },
+  "min_year": 2005,
+  "max_year": 2007,
+  "ruler": [
+    {
+      "id": 2943,
+      "name": "Republic",
+      "wikidata_id": "Q668"
+    }
+  ],
+  "value": {
+    "text": "2 Rupees",
+    "numeric_value": 2,
+    "currency": {
+      "id": 171,
+      "name": "Rupee",
+      "full_name": "Rupee (decimalized, 1957-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 26.75,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Asoka lion pedestal, denomination, between lines",
+    "lettering": "भारत INDIA\r\nसत्यमेव जयते 2\r\n2006",
+    "lettering_scripts": [
+      {
+        "name": "Devanagari"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/inde/3198-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/inde/3198-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "reverse": {
+    "description": "Cross dividing four dots",
+    "lettering": "दो रुपये TWO RUPEES",
+    "lettering_scripts": [
+      {
+        "name": "Devanagari"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/inde/3199-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/inde/3199-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "series": "Unity in Diversity",
+  "comments": "Variants regarding the different form of the year see<br />\r\n<a href=\"http://monnaiesetvarietes.esy.es/FICHES/Inde/INDE%202%20Rupees%20KM%20326.pdf\" rel=\"nofollow\">http://monnaiesetvarietes.esy.es/FICHES/Inde/INDE%202%20Rupees%20KM%20326.pdf</a><br /><br />\r\n2005 Calcutta has two varieties - large and small date. There is not an obvious difference in the size of the text however the number 5 in the date shows a difference in thickness and design.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/62037ba5b895b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/62037ba5b895b.jpg\" alt=\"\" width=\"200\" height=\"75\" /></a><br /><br />\r\nIn 2006, some coins from Mumbai were struck with obverse die <span style=\"font-weight:bold;\">3</span>: the top of &quot;6&quot; is wide and the bottom is narrow.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/58b20257392a0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/58b20257392a0.jpg\" alt=\"\" width=\"200\" height=\"146\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5a96dea879e45.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5a96dea879e45.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nThere are two variants of the cross design.<br />\r\nSmall design: right vertical crossbar extends to the first E in RUPEES<br />\r\nLarge design: right vertical crossbar extends to the second E in RUPEES",
+  "tags": [
+    "Cat or feline",
+    "Coat of Arms",
+    "Cross"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "326"
+    }
+  ],
+  "weight": 5.8,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/inde/68da698a1205b1.81718854-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/inde/68da698a1205b1.81718854-180.jpg",
+    "picture_copyright": "Vidushi",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 1803,
+      "name": "Kolkata / Calcutta / Murshidabad"
+    },
+    {
+      "id": 1804,
+      "name": "Mumbai / Bombay"
+    },
+    {
+      "id": 1805,
+      "name": "Noida"
+    },
+    {
+      "id": 1806,
+      "name": "Hyderabad"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

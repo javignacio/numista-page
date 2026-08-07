@@ -1,0 +1,176 @@
+{
+  "id": 1565,
+  "url": "https://en.numista.com/1565",
+  "title": "10 Cents - Elizabeth II (4th Portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "australie",
+    "name": "Australia"
+  },
+  "min_year": 1999,
+  "max_year": 2019,
+  "ruler": [
+    {
+      "id": 1783,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 825,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Cents",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 243,
+      "name": "Dollar",
+      "full_name": "Dollar (1966-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23.6,
+  "thickness": 1.76,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Ian Rank-Broadley"
+    ],
+    "description": "4th portrait of Queen Elizabeth II facing right wearing the Girls of Great Britain and Ireland Tiara",
+    "lettering": "ELIZABETH II \r\nAUSTRALIA 2000\r\nIRB",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/australie/6682865298da13.98625617-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/australie/6682865298da13.98625617-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "Stuart Devlin"
+    ],
+    "description": "Male Superb Lyrebird (Menura novaehollandiae), value superimposed.",
+    "lettering": "10 \r\nSD",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/australie/668286536cb218.52804702-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/australie/668286536cb218.52804702-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p>This Copper-nickel 10 cent coin was first released into circulation by the RAM in 1966 with the standard Stuart Devlin Lyrebird reverse. It originally had the Arnold Machin 2nd Portrait of Queen Elizabeth II on the obverse. In 1985 it was updated with the Ralph David Makleouf 3rd Portrait of Queen Elizabeth II obverse. The RDM Obverse was used until 1998 when it was replaced with the Ian Rank-Broadley 4th Portrait of Queen Elizabeth II as shown on this coin. The Obverse design was finally replaced with the Jody Clark 6th Portrait of Queen Elizabeth II on some circulation coins in 2019 and all 10 cent coins from 2020.<br><br>This coin was issued into circulation every year from 1999 to 2019. It was included in every UNC &amp; Proof Year Set between 1995 &amp; 2019 as well as Baby Year Sets, Wedding Sets and Coin Fair Sets etc.&nbsp;<br><br>The 1999 Issued coin had large and small QE II head varieties, see this image.<br><a href=\"https://en.numista.com/catalogue/images/602a8d3204255.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/602a8d3204255.jpg\" alt=\"\"></a><br><br><a href=\"https://en.numista.com/catalogue/images/61751aa1592fc.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/61751aa1592fc.jpg\" alt=\"\"></a></p>",
+  "related_types": [
+    {
+      "id": 1282,
+      "title": "10 Cents - Elizabeth II (2nd Portrait)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 1966,
+      "maxYear": 2019
+    },
+    {
+      "id": 2561,
+      "title": "10 Cents - Elizabeth II (3rd Portrait)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 1985,
+      "maxYear": 1998
+    },
+    {
+      "id": 167502,
+      "title": "10 Cents - Elizabeth II (4th Portrait; Fine Silver Proof)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 2003,
+      "maxYear": 2019
+    },
+    {
+      "id": 175050,
+      "title": "10 Cents - Elizabeth II (6th Portrait)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 2019,
+      "maxYear": 2023
+    },
+    {
+      "id": 416666,
+      "title": "10 Cents - Charles III (1st Portrait)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 2024,
+      "maxYear": 2025
+    }
+  ],
+  "tags": [
+    "Bird"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "402"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "418"
+    }
+  ],
+  "weight": 5.66,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/australie/698b5454b18077.42829020-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/australie/698b5454b18077.42829020-180.jpg",
+    "picture_copyright": "Mike Bentley",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 28,
+      "name": "Royal Australian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

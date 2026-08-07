@@ -1,0 +1,142 @@
+{
+  "id": 1306,
+  "url": "https://en.numista.com/1306",
+  "title": "100 Fils - Hamad (1st type)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bahrein",
+    "name": "Bahrain"
+  },
+  "min_year": 2002,
+  "max_year": 2008,
+  "ruler": [
+    {
+      "id": 1510,
+      "name": "Hamad bin Isa Al Khalifa",
+      "wikidata_id": "Q57352",
+      "group": {
+        "id": 740,
+        "name": "House of Khalifa"
+      }
+    }
+  ],
+  "value": {
+    "text": "100 Fils",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 24,
+      "name": "Dinar",
+      "full_name": "Dinar (1965-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24,
+  "thickness": 1.9,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: copper-nickel centre in brass ring"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The Coat of Arms of Kingdom of Bahrain and the Country's Name in Arabic and English along with the Hijri (Islamic) and Gregorian dates in English.",
+    "lettering": "مملكة البحرين\r\n1423 2002\r\nKINGDOM OF BAHRAIN",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Kingdom of Bahrain \r\n1423 2002\r\nKingdom of Bahrain",
+    "picture": "https://en.numista.com/catalogue/photos/bahrein/5-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bahrein/5-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Numeric denomination back of boxed denomination within circle Surrounded by Chain border.\r\nIn the rectangular denomination box, The Last letter of the word \"فلس\" is written in Stylized Arabic.",
+    "lettering": "100\r\nفلس",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "100 Fils",
+    "picture": "https://en.numista.com/catalogue/photos/bahrein/6-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bahrein/6-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "Type 1 (this coin): In the rectangular denomination box, The Last letter of the word &quot;فلس&quot; is written in Stylized Arabic.<br />\r\nType 2: In the rectangular denomination box, The Last letter of the word &quot;فلس&quot; is written in Normal Arabic.<br />\r\nLink :<a href=\"https://en.numista.com/42554\">https://en.numista.com/42554</a>",
+  "related_types": [
+    {
+      "id": 2957,
+      "title": "100 Fils - Isa / Hamad",
+      "category": "coin",
+      "country": {
+        "code": "bahrein",
+        "name": "Bahrain"
+      },
+      "minYear": 1992,
+      "maxYear": 2001
+    },
+    {
+      "id": 42554,
+      "title": "100 Fils - Hamad (2nd type)",
+      "category": "coin",
+      "country": {
+        "code": "bahrein",
+        "name": "Bahrain"
+      },
+      "minYear": 2009,
+      "maxYear": 2018
+    }
+  ],
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "26.1"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "25.1"
+    }
+  ],
+  "weight": 6,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/bahrein/698b06ed268192.56038275-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bahrein/698b06ed268192.56038275-180.jpg",
+    "picture_copyright": "CyrusPamelaOne",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,146 @@
+{
+  "id": 2356,
+  "url": "https://en.numista.com/2356",
+  "title": "1 Cent \"Indian Head Cent\"",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "etats-unis",
+    "name": "United States"
+  },
+  "min_year": 1864,
+  "max_year": 1909,
+  "ruler": [
+    {
+      "id": 4720,
+      "name": "Federal republic",
+      "wikidata_id": "Q30"
+    }
+  ],
+  "value": {
+    "text": "1 Cent",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 59,
+      "name": "Dollar",
+      "full_name": "Dollar (1785-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 19,
+  "thickness": 1.47,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze (.950 copper, .050 tin and zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "James Barton Longacre"
+    ],
+    "designers": [
+      "James Barton Longacre"
+    ],
+    "description": "Liberty with Indian headdress bearing the word Liberty with the date below",
+    "lettering": "UNITED STATES OF AMERICA\r\nLIBERTY\r\nL\r\n1901",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/1584-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/1584-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "engravers": [
+      "James Barton Longacre"
+    ],
+    "designers": [
+      "James Barton Longacre"
+    ],
+    "description": "Shield and wreath with lettering centered and the mintmark below the date (1908 and 1909 only)",
+    "lettering": "ONE CENT",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/1585-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/1585-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "<p>Minted for over 50 years, Indian Head cents are widely considered the most beautiful copper coins in American history. Introduced shortly before the War between the States in 1859, they were struck by the U.S. Mint until 1909. Designed by James Longacre, these historic cents were the nation's first coinage tribute to the noble, proud American Indian. His Longacre design also represented the first time that official United States Mint coins featured a distinctly American motif. The standard weight of this coin was 48 grains.<br>1864<br><a href=\"https://en.numista.com/catalogue/images/61a53e27bbc66.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/61a53e27bbc66.jpg\" alt=\"\"></a><br>1865<br><a href=\"https://en.numista.com/catalogue/images/61a53e5cb8e03.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/61a53e5cb8e03.jpg\" alt=\"\"></a><br>1869<br><a href=\"https://en.numista.com/catalogue/images/61a53e723c907.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/61a53e723c907.jpg\" alt=\"\"></a><br>1870, 1871, 1872<br><a href=\"https://en.numista.com/catalogue/images/654f96f27beb4.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/654f96f27beb4.jpg\" alt=\"\"></a><br>1873<br><a href=\"https://en.numista.com/catalogue/images/61a53ee960fc8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/61a53ee960fc8.jpg\" alt=\"\"></a><br>1875<br><a href=\"https://en.numista.com/catalogue/images/61a53f04cfc75.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/61a53f04cfc75.jpg\" alt=\"\"></a><br>1886<br><a href=\"https://en.numista.com/catalogue/images/61a53f2237664.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/61a53f2237664.jpg\" alt=\"\"></a><br>1888<br><a href=\"https://en.numista.com/catalogue/images/61a53f36a374c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/61a53f36a374c.jpg\" alt=\"\"></a><br>1894<br><a href=\"https://en.numista.com/catalogue/images/61a53f47b9a38.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/61a53f47b9a38.jpg\" alt=\"\"></a></p><p>1905</p><p><a href=\"https://en.numista.com/catalogue/images/67c2020e5dfcc.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67c2020e5dfcc.jpg\"></a><br>1908<br><a href=\"https://en.numista.com/catalogue/images/61a53f613a0b3.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/61a53f613a0b3.jpg\" alt=\"\"></a></p>",
+  "related_types": [
+    {
+      "id": 4567,
+      "title": "1 Cent \"Indian Head Cent\" (without shield)",
+      "category": "coin",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 1859,
+      "maxYear": 1859
+    },
+    {
+      "id": 1108,
+      "title": "1 Cent \"Indian Head Cent\" (with shield)",
+      "category": "coin",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 1860,
+      "maxYear": 1864
+    }
+  ],
+  "tags": [
+    "Allegory",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "90a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "117a"
+    }
+  ],
+  "weight": 3.11,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/3286-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/3286-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    },
+    {
+      "id": 12,
+      "name": "United States Mint of San Francisco"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

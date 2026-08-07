@@ -1,0 +1,115 @@
+{
+  "id": 9524,
+  "url": "https://en.numista.com/9524",
+  "title": "25 Cents",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "suriname",
+    "name": "Suriname"
+  },
+  "min_year": 1987,
+  "max_year": 2017,
+  "ruler": [
+    {
+      "id": 1928,
+      "name": "Republic",
+      "wikidata_id": "Q730"
+    }
+  ],
+  "value": {
+    "text": "25 Cents",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 318,
+      "name": "Guilder",
+      "full_name": "Guilder (1826-2003)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 20,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms supported by two natives. Legend below and the whole surrounded by wreath.",
+    "lettering": "JUSITITIA PIETAS FIDES\r\nSURINAME",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Justice, Piety, Faith",
+    "picture": "https://en.numista.com/catalogue/photos/suriname/109-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suriname/109-180.jpg",
+    "picture_copyright": "HOOK"
+  },
+  "reverse": {
+    "description": "Denomination with year above flanked by mint and privy mark. The whole surrounded by circle and wreath.",
+    "lettering": "1989\r\n25\r\nCENT",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/suriname/110-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suriname/110-180.jpg",
+    "picture_copyright": "HOOK"
+  },
+  "comments": "In 2004, the Surinamese gulden was replaced by the Surinamese dollar. This coin was revalued at 1/4 of a dollar.<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/64d949f2f0497.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64d949f2f0497.png\" alt=\"\" width=\"200\" height=\"168\" /></a><br />\r\nCoat of arms of Suriname (Source: Wikipedia)",
+  "related_types": [
+    {
+      "id": 3776,
+      "title": "25 Cents",
+      "category": "coin",
+      "country": {
+        "code": "suriname",
+        "name": "Suriname"
+      },
+      "minYear": 1962,
+      "maxYear": 1986
+    }
+  ],
+  "tags": [
+    "Coat of Arms",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "14"
+    }
+  ],
+  "weight": 3.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/suriname/137-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suriname/137-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 23,
+      "name": "Royal Dutch Mint"
+    },
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

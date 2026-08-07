@@ -1,0 +1,156 @@
+{
+  "id": 6029,
+  "url": "https://en.numista.com/6029",
+  "title": "1 Sen - Omar Ali Saifuddin III",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "brunei",
+    "name": "Brunei"
+  },
+  "min_year": 1967,
+  "max_year": 1967,
+  "ruler": [
+    {
+      "id": 4067,
+      "name": "Omar Ali Saifuddien III",
+      "wikidata_id": "Q40512",
+      "group": {
+        "id": 267,
+        "name": "House of Bolkiah"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Sen",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 42,
+      "name": "Ringgit / Dollar",
+      "full_name": "Ringgit / Dollar (1967-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 17.7,
+  "thickness": 1.1,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze (97% Copper, 0.5% Tin, 2.5% Zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Christopher Ironside"
+    ],
+    "description": "Left facing bust of Sultan Omar Ali Saifuddin III",
+    "lettering": "SULTAN OMAR ALI SAIFUDDIN III",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/brunei/528-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/brunei/528-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "reverse": {
+    "engravers": [
+      "Christopher Ironside"
+    ],
+    "description": "Ornamentals",
+    "lettering": "KERAJAAN BRUNEI 1967\r\n1 SEN",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Government of Brunei",
+    "picture": "https://en.numista.com/catalogue/photos/brunei/529-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/brunei/529-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "related_types": [
+    {
+      "id": 12107,
+      "title": "5 Sen - Omar Ali Saifuddin III",
+      "category": "coin",
+      "country": {
+        "code": "brunei",
+        "name": "Brunei"
+      },
+      "minYear": 1967,
+      "maxYear": 1967
+    },
+    {
+      "id": 12108,
+      "title": "10 Sen - Omar Ali Saifuddin III",
+      "category": "coin",
+      "country": {
+        "code": "brunei",
+        "name": "Brunei"
+      },
+      "minYear": 1967,
+      "maxYear": 1967
+    },
+    {
+      "id": 12109,
+      "title": "20 Sen - Omar Ali Saifuddin III",
+      "category": "coin",
+      "country": {
+        "code": "brunei",
+        "name": "Brunei"
+      },
+      "minYear": 1967,
+      "maxYear": 1967
+    },
+    {
+      "id": 12110,
+      "title": "50 Sen - Omar Ali Saifuddin III",
+      "category": "coin",
+      "country": {
+        "code": "brunei",
+        "name": "Brunei"
+      },
+      "minYear": 1967,
+      "maxYear": 1967
+    }
+  ],
+  "tags": [
+    "Monarch"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "4"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "7"
+    }
+  ],
+  "weight": 1.94,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

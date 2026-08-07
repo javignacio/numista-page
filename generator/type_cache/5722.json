@@ -1,0 +1,111 @@
+{
+  "id": 5722,
+  "url": "https://en.numista.com/5722",
+  "title": "½ New Penny - Elizabeth II (2nd portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "jersey",
+    "name": "Jersey"
+  },
+  "min_year": 1971,
+  "max_year": 1980,
+  "ruler": [
+    {
+      "id": 3218,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 783,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "½ Penny",
+    "numeric_value": 0.005,
+    "currency": {
+      "id": 378,
+      "name": "Pound",
+      "full_name": "Pound (decimalized, 1971-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1985-02-18"
+  },
+  "size": 17.14,
+  "thickness": 1.05,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Arnold Machin"
+    ],
+    "description": "The head of Queen Elizabeth II, wearing the \"Girls of Great Britain and Ireland\" Tiara",
+    "lettering": "QUEEN ELIZABETH THE SECOND",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/jersey/1109-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/jersey/1109-180.jpg",
+    "picture_copyright": "radrick007",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "George Kruger Gray"
+    ],
+    "description": "Value, Coat of Arms",
+    "lettering": "BAILIWICK OF JERSEY\r\nHALF NEW PENNY 1971",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/jersey/1110-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/jersey/1110-180.jpg",
+    "picture_copyright": "radrick007",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "29"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "20"
+    }
+  ],
+  "weight": 1.7,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

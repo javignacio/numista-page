@@ -1,0 +1,149 @@
+{
+  "id": 24393,
+  "url": "https://en.numista.com/24393",
+  "title": "50 Øre - Haakon VII (WW2 Exile Coinage)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "norvege",
+    "name": "Norway"
+  },
+  "min_year": 1942,
+  "max_year": 1942,
+  "ruler": [
+    {
+      "id": 449,
+      "name": "Haakon VII",
+      "wikidata_id": "Q154927",
+      "group": {
+        "id": 358,
+        "name": "House of Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "50 Øre",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 16,
+      "name": "Krone",
+      "full_name": "Krone (1875-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": false
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 22,
+  "thickness": 1.85,
+  "shape": "Round with a round hole (Hole diameter 4,6mm)",
+  "composition": {
+    "text": "Nickel brass (79% Copper, 20% Zinc, 1% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Cross consisting of four crowned Haakon VII monograms around a hole, dividing inscription. Surrounded by inscription. Beaded ring on the rim.",
+    "lettering": "ALT | FOR | NOR- | GE⸰\r\nH7 H7 H7 H7",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Everything for Norway",
+    "picture": "https://en.numista.com/catalogue/photos/norvege/665bf98ad2e226.39585297-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/665bf98ad2e226.39585297-180.jpg",
+    "picture_copyright": "Oslo Myntgalleri",
+    "picture_copyright_url": "http://www.oslomyntgalleri.no"
+  },
+  "reverse": {
+    "description": "Crown above a hole in the middle. Value below the hole. A triskelion on each side of the hole. Date below hole, above value. Beaded ring on the rim.",
+    "lettering": "1942 \r\n50 ØRE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/norvege/665bf98cc9d853.41850641-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/665bf98cc9d853.41850641-180.jpg",
+    "picture_copyright": "Oslo Myntgalleri",
+    "picture_copyright_url": "http://www.oslomyntgalleri.no"
+  },
+  "comments": "<p>These were minted by the Royal Mint (of the United Kingdom) at the request of the Norwegian government-in-exile. They were intended to circulate in liberated areas upon an allied landing. However, since the German forces surrendered peacefully in 1945, none of the coins were ever placed into circulation. Practically all the coins were therefore sold back to the Royal Mint and melted. Approximately 10&nbsp;000 of each denomination were retained. Full sets consisting of the three different exile coins were sold until 1970, however, a majority of the coins are not in private possession. Amongst Norwegian collectors the coins go by the nickname \"London coins\" as the government-in-exile were seated in London.</p>",
+  "related_types": [
+    {
+      "id": 24385,
+      "title": "10 Øre - Haakon VII (WW2 Exile Coinage)",
+      "category": "coin",
+      "country": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "minYear": 1942,
+      "maxYear": 1942
+    },
+    {
+      "id": 24392,
+      "title": "25 Øre - Haakon VII (WW2 Exile Coinage)",
+      "category": "coin",
+      "country": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "minYear": 1942,
+      "maxYear": 1942
+    }
+  ],
+  "tags": [
+    "Crown",
+    "Monogram"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "393"
+    },
+    {
+      "catalogue": {
+        "id": 201,
+        "code": "Rønning"
+      },
+      "number": "287"
+    },
+    {
+      "catalogue": {
+        "id": 2875,
+        "code": "Brekke"
+      },
+      "number": "266"
+    },
+    {
+      "catalogue": {
+        "id": 3409,
+        "code": "S&B"
+      },
+      "number": "113"
+    }
+  ],
+  "weight": 4.8,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain."
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

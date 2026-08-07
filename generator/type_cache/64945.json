@@ -1,0 +1,108 @@
+{
+  "id": 64945,
+  "url": "https://en.numista.com/64945",
+  "title": "Maiorina - Arcadius (GLORIA ROMANORVM; Cyzicus)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "eastern_roman_empire",
+    "name": "Eastern Roman Empire"
+  },
+  "min_year": 392,
+  "max_year": 395,
+  "ruler": [
+    {
+      "id": 133,
+      "name": "Arcadius",
+      "wikidata_id": "Q159369",
+      "nomisma_id": "arcadius",
+      "group": {
+        "id": 325,
+        "name": "Valentinianic dynasty"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Maiorina",
+    "numeric_value": 0.013888888888888888,
+    "numerator": 1,
+    "denominator": 72,
+    "currency": {
+      "id": 10517,
+      "name": "Solidus",
+      "full_name": "Solidus (330-476)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 22,
+  "shape": "Round (irregular)",
+  "composition": {
+    "text": "Copper"
+  },
+  "technique": {
+    "text": "Hammered"
+  },
+  "obverse": {
+    "description": "Pearl-diademed, draped and cuirassed bust right",
+    "lettering": "D N ARCADIVS P F AVG",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Dominus Noster Arcadius Pius Felix Augustus",
+    "lettering_translation": "Our Lord Arcadius Pious Fortunate August",
+    "picture": "https://en.numista.com/catalogue/photos/eastern_roman_empire/5eebcde9b0a8a6.89322949-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/eastern_roman_empire/5eebcde9b0a8a6.89322949-180.jpg",
+    "picture_copyright": "lesalyen"
+  },
+  "reverse": {
+    "description": "Emperor standing facing holding labarum in right hand and globe in left.",
+    "lettering": "GLORIA  ROMANORVM\r\nSMKB",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "The glory of the Roman people",
+    "picture": "https://en.numista.com/catalogue/photos/eastern_roman_empire/5eebcde9c032c2.54544690-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/eastern_roman_empire/5eebcde9c032c2.54544690-180.jpg",
+    "picture_copyright": "lesalyen"
+  },
+  "tags": [
+    "Globe"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 461,
+        "code": "RIC IX"
+      },
+      "number": "27b"
+    },
+    {
+      "catalogue": {
+        "id": 1020,
+        "code": "OCRE"
+      },
+      "number": "ric.9.cyz.27B"
+    }
+  ],
+  "weight": 5.29,
+  "orientation": "variable",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 53,
+      "name": "Cyzicus"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

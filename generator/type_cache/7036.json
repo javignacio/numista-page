@@ -1,0 +1,119 @@
+{
+  "id": 7036,
+  "url": "https://en.numista.com/7036",
+  "title": "5 Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "republique_dominicaine",
+    "name": "Dominican Republic (1844-date)"
+  },
+  "min_year": 1937,
+  "max_year": 1974,
+  "ruler": [
+    {
+      "id": 4032,
+      "name": "Third Republic",
+      "wikidata_id": "Q51547013"
+    }
+  ],
+  "value": {
+    "text": "5 Centavos",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 152,
+      "name": "Peso oro",
+      "full_name": "Peso oro (1937-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21.2,
+  "thickness": 1.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Casimiro Nemesio de Moya"
+    ],
+    "description": "Coat of Arms",
+    "lettering": "DIOS PATRIA LIBERTAD\r\nREPUBLICA DOMINICANA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "God Fatherland Liberty\r\nDominican Republic",
+    "picture": "https://en.numista.com/catalogue/photos/republique_dominicaine/364-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/republique_dominicaine/364-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "engravers": [
+      "Thomas Humphrey Paget"
+    ],
+    "description": "Denomination, weight, year of issue, head of Indian woman (\"Liberty\") facing left",
+    "lettering": "* 5 CENTAVOS *\r\n* 5 GRAMOS *\r\nLIBERTAD\r\nHP\r\n1937",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "5 centavos\r\n5 grams (weight)\r\nLiberty",
+    "picture": "https://en.numista.com/catalogue/photos/republique_dominicaine/365-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/republique_dominicaine/365-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "All the specifications may vary:<br />\r\ndiameter 21.15-21.25 mm<br />\r\nthickness 1.6-1.85 mm<br />\r\nweight 4.65-5.0 g<br /><br />\r\nIn 1937-1947 there were no banknotes issued with the Dominican pesos denomination. US dollars were in circulation (since 1905), and local coins were circulating at par with US coins like in Panama and Ecuador in our days. The coins had weights, diameters, and composition identical to those of US coins of that period.",
+  "tags": [
+    "Allegory",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "18"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "3"
+    }
+  ],
+  "weight": 4.8,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 19,
+      "name": "Royal Canadian Mint of Ottawa"
+    },
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    },
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

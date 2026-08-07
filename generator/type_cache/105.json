@@ -1,0 +1,140 @@
+{
+  "id": 105,
+  "url": "https://en.numista.com/105",
+  "title": "1 Euro Cent",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "allemagne",
+    "name": "Germany, Federal Republic of"
+  },
+  "min_year": 2002,
+  "max_year": 2026,
+  "ruler": [
+    {
+      "id": 2860,
+      "name": "Federal Republic",
+      "wikidata_id": "Q183"
+    }
+  ],
+  "value": {
+    "text": "1 Euro Cent",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 9007,
+      "name": "Euro",
+      "full_name": "Euro (2002-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2002-01-01"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 16.25,
+  "thickness": 1.67,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Rolf Lederbogen"
+    ],
+    "description": "An oak twig, symbolizing stability, is surrounded with the twelve stars of Europe.",
+    "lettering": "D 2005",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/allemagne/1383-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/1383-180.jpg",
+    "picture_copyright": "Florino28",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Luc Luycx"
+    ],
+    "description": "A globe, next to the face value, shows Europe in relation to Africa and Asia, engraver's initials to the right.",
+    "lettering": "1 EURO \r\nCENT \r\nLL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/allemagne/1384-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/1384-180.jpg",
+    "picture_copyright": "Florino28",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p>The 2002 coins have a KMB Variant.<br>The KMB has a smaller (by about 10%) reverse design.<br>KMB = Kleines Münz Bild [petite pièce de monnaie / small coin]</p><p><img src=\"https://en.numista.com/catalogue/images/5711410341194.jpg\" alt=\"\"></p><p>&nbsp;</p><p>The estimated number of KMB coins by mint:</p><p>2002 A: 48 000 000</p><p>2002 F: 6 000 000</p><p>2002 G: 1 000 000</p><p>2002 J: 14 000 000<br><br>1, 2 &amp; 5 cents with large and small oak leaves<br><a href=\"https://en.numista.com/catalogue/images/663c7fd5c6750.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/663c7fd5c6750.jpg\"></a><br><br><a href=\"https://en.numista.com/catalogue/images/5ce1d9723cb48.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5ce1d9723cb48.jpg\" alt=\"\"></a><br>© Ulmo<br><br>Official Coincard of the Federal Ministry of Finance<br>2013<br><a href=\"https://en.numista.com/catalogue/images/58664e573f2c8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/58664e573f2c8.jpg\" alt=\"\"></a><br>2016<br><a href=\"https://en.numista.com/catalogue/images/58664e74c4227.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/58664e74c4227.jpg\" alt=\"\"></a></p>",
+  "tags": [
+    "Map"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "207"
+    },
+    {
+      "catalogue": {
+        "id": 80,
+        "code": "J"
+      },
+      "number": "482"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "206"
+    }
+  ],
+  "weight": 2.3,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/allemagne/2009-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/2009-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 5,
+      "name": "Berlin"
+    },
+    {
+      "id": 1,
+      "name": "Munich"
+    },
+    {
+      "id": 2,
+      "name": "Staatliche Münze Baden-Württemberg"
+    },
+    {
+      "id": 3,
+      "name": "Staatliche Münze Baden-Württemberg"
+    },
+    {
+      "id": 4,
+      "name": "Hamburgische Münze"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

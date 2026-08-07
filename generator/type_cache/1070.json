@@ -1,0 +1,149 @@
+{
+  "id": 1070,
+  "url": "https://en.numista.com/1070",
+  "title": "1 Cent",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "pays-bas",
+    "name": "Netherlands"
+  },
+  "min_year": 1877,
+  "max_year": 1900,
+  "ruler": [
+    {
+      "id": 1300,
+      "name": "William III",
+      "wikidata_id": "Q125649",
+      "group": {
+        "id": 750,
+        "name": "House of Orange-Nassau"
+      }
+    },
+    {
+      "id": 1301,
+      "name": "Wilhelmina",
+      "wikidata_id": "Q150747",
+      "nomisma_id": "queen_wilhelmina",
+      "group": {
+        "id": 750,
+        "name": "House of Orange-Nassau"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Cent",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 70,
+      "name": "Gulden",
+      "full_name": "Gulden (decimalized, 1817-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 19,
+  "thickness": 1,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Crowned rampant lion left on a field of 15 small shields all within beaded circle, date below",
+    "lettering": "KONINGRIJK DER NEDERLANDEN\r\n1880",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Kingdom of the Netherlands",
+    "picture": "https://en.numista.com/catalogue/photos/pays-bas/1109-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/1109-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "description": "Value within wreath",
+    "lettering": "1\r\nCENT",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/pays-bas/1110-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/1110-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "<p><a href=\"https://en.numista.com/catalogue/images/5de1aeebdc9a7.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5de1aeebdc9a7.jpg\" alt=\"\"></a><br><br>Variations of round (small date) and oval zeros (large date) exist.&nbsp;</p>",
+  "related_types": [
+    {
+      "id": 5534,
+      "title": "1 Cent (\"KONINKRIJK\")",
+      "category": "coin",
+      "country": {
+        "code": "pays-bas",
+        "name": "Netherlands"
+      },
+      "minYear": 1901,
+      "maxYear": 1901
+    },
+    {
+      "id": 3367,
+      "title": "1 Cent (\"KONINGRIJK\")",
+      "category": "coin",
+      "country": {
+        "code": "pays-bas",
+        "name": "Netherlands"
+      },
+      "minYear": 1901,
+      "maxYear": 1901
+    },
+    {
+      "id": 3171,
+      "title": "1 Cent",
+      "category": "coin",
+      "country": {
+        "code": "pays-bas",
+        "name": "Netherlands"
+      },
+      "minYear": 1902,
+      "maxYear": 1907
+    }
+  ],
+  "tags": [
+    "Cat or feline",
+    "Coat of Arms",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "107"
+    }
+  ],
+  "weight": 2.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/pays-bas/615ec07de74982.00631241-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/615ec07de74982.00631241-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 23,
+      "name": "Royal Dutch Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

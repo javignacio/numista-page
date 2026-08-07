@@ -1,0 +1,125 @@
+{
+  "id": 13181,
+  "url": "https://en.numista.com/13181",
+  "title": "1 Crown - George IV (1st portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1821,
+  "max_year": 1822,
+  "ruler": [
+    {
+      "id": 268,
+      "name": "George IV",
+      "wikidata_id": "Q130586",
+      "group": {
+        "id": 525,
+        "name": "House of Hanover"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Crown",
+    "numeric_value": 0.25,
+    "numerator": 1,
+    "denominator": 4,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1971)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 37.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.925)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Benedetto Pistrucci"
+    ],
+    "description": "Laureate portrait of King George IV left, legend around.",
+    "lettering": "GEORGIUS IIII D:G: BRITANNIAR:REX F:D:\r\nB.P.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "George the Fourth by the Grace of God King of the Britains Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/2647-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/2647-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "engravers": [
+      "Benedetto Pistrucci"
+    ],
+    "description": "St. George on horseback slaying the dragon right, date and engraver's initials in exergue.",
+    "lettering": "1821\r\nWWP\r\nB.P.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/2648-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/2648-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "The standard weight of these coins was 10/11 troy ounce (436.4 grains).<br /><br />\r\n<span style=\"font-style:italic;\">William Wellesley Pole, Master of the Royal Mint (1814-23)</span><br />\r\nAn elder brother of the Duke of Wellington, William Wellesley Pole was appointed Master of the Royal Mint in 1814. He took control of an ancient institution which had recently vacated its cramped traditional home within the walls of the Tower of London and re-established itself in specially-designed and newly-equipped buildings on nearby Tower Hill.",
+  "tags": [
+    "Fantasy animal",
+    "Horse or equine"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "680"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "3805"
+    }
+  ],
+  "weight": 28.28,
+  "orientation": "coin",
+  "edge": {
+    "description": "Inscribed",
+    "lettering": "DECUS  ET  TUTAMEN.  ANNO  REGNI SECUNDO.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "An ornament and a safeguard second year of reign",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/695a26899f7cf1.65145905-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/695a26899f7cf1.65145905-180.jpg",
+    "picture_copyright": "Timbrimi"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

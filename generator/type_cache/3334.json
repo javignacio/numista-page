@@ -1,0 +1,149 @@
+{
+  "id": 3334,
+  "url": "https://en.numista.com/3334",
+  "title": "1 Shilling - George VI (English crest; without 'IND:IMP')",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1949,
+  "max_year": 1952,
+  "ruler": [
+    {
+      "id": 274,
+      "name": "George VI",
+      "wikidata_id": "Q280856",
+      "group": {
+        "id": 527,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Shilling",
+    "numeric_value": 0.05,
+    "numerator": 1,
+    "denominator": 20,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1970)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1990-12-31"
+  },
+  "size": 23.5,
+  "thickness": 1.74,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Thomas Humphrey Paget"
+    ],
+    "description": "Uncrowned portrait of King George VI left, legend around.",
+    "lettering": "GEORGIVS VI D:G:BR:OMN:REX\r\nHP",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "George the Sixth by the Grace of God King of all the Britains",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/2184-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/2184-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "George Kruger Gray"
+    ],
+    "description": "Crowned lion passant atop crown dividing date, legend above, denomination below.",
+    "lettering": "·FID ·DEF·\r\n19 51\r\n·ONE SHILLING·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/2185-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/2185-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "The original weight of these coins was 2/11 troy ounce (87.3 grains). Under the Coinage Act of 1946, the composition changed from .500 silver to .750 copper/.250 nickel but the weight remained at 87.3 grains.",
+  "related_types": [
+    {
+      "id": 3335,
+      "title": "1 Shilling - George VI (Scottish crest; without 'IND:IMP')",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1949,
+      "maxYear": 1951
+    }
+  ],
+  "tags": [
+    "Cat or feline",
+    "Crown"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "876"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "4108"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "53"
+    },
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "109"
+    }
+  ],
+  "weight": 5.66,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/615adbd8ab85b4.48424421-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/615adbd8ab85b4.48424421-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,153 @@
+{
+  "id": 9930,
+  "url": "https://en.numista.com/9930",
+  "title": "½ Riyal / 50 Halalah - Abdullāh",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "saudi-arabia-period",
+    "name": "Saudi Arabia (1932-date)"
+  },
+  "min_year": 2007,
+  "max_year": 2015,
+  "ruler": [
+    {
+      "id": 3139,
+      "name": "Abdullah bin Abdulaziz",
+      "wikidata_id": "Q57298"
+    }
+  ],
+  "value": {
+    "text": "50 Halalas",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 164,
+      "name": "Riyal",
+      "full_name": "Riyal (1960-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 26,
+  "thickness": 1.69,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Palm tree with crossed swords",
+    "lettering": "الملك عبد الله بن عبد العزيز آل سعود\r\nخادم الحرمين الشريفين",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "King Abdallah bin 'Abd al-'Aziz Al Sa'ud\r\nCustodian of the Two Holy Mosques",
+    "picture": "https://en.numista.com/catalogue/photos/saudi-arabia-period/663250f97ea750.99447771-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/saudi-arabia-period/663250f97ea750.99447771-180.jpg",
+    "picture_copyright": "gef"
+  },
+  "reverse": {
+    "description": "Legend above inscription in circle, dividing value, date below",
+    "lettering": "خمسون هللات\r\n٥٠ نصف ريال 50\r\n١٤٢٨ هـ",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "Fifty Halalah\r\nHalf Qirsh\r\n1428 Hijra",
+    "picture": "https://en.numista.com/catalogue/photos/saudi-arabia-period/663250f9e703b0.58407902-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/saudi-arabia-period/663250f9e703b0.58407902-180.jpg",
+    "picture_copyright": "gef"
+  },
+  "comments": "<p><a href=\"https://en.numista.com/catalogue/images/68a086cbb021c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/68a086cbb021c.jpg\"></a>There are 3 subtypes known:<br><br>a) 1428H(2007): curved year, calligraphy type A for 'khamsun halala', without marks below \"halala<br>b) 1431H(2010): curved year, calligraphy type B for 'khamsun halala', with marks below \"halala\"<br>c) 1434H(2013) and 1436H (2015): straight year, calligraphy type B for 'khamsun halala' with marks<br><a href=\"https://en.numista.com/catalogue/images/58a6ff1f3ec3c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/58a6ff1f3ec3c.jpg\" alt=\"\"></a><br>You can see more detailed images here:<br><a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"http://worldcoinnews.blogspot.com/2015/04/saudi-arabia-50-halala-km68-three.html\">http://worldcoinnews.blogspot.com/2015/04/saudi-arabia-50-halala-km68-three.html</a></p>",
+  "related_types": [
+    {
+      "id": 29374,
+      "title": "1 Qirsh / 5 Halalāt - Abdullāh",
+      "category": "coin",
+      "country": {
+        "code": "saudi-arabia-period",
+        "name": "Saudi Arabia (1932-date)"
+      },
+      "minYear": 2009,
+      "maxYear": 2009
+    },
+    {
+      "id": 29375,
+      "title": "2 Qirsh / 10 Halalāt - Abdullāh",
+      "category": "coin",
+      "country": {
+        "code": "saudi-arabia-period",
+        "name": "Saudi Arabia (1932-date)"
+      },
+      "minYear": 2009,
+      "maxYear": 2009
+    },
+    {
+      "id": 16419,
+      "title": "¼ Riyal / 25 Halālah - Abdullāh",
+      "category": "coin",
+      "country": {
+        "code": "saudi-arabia-period",
+        "name": "Saudi Arabia (1932-date)"
+      },
+      "minYear": 2009,
+      "maxYear": 2014
+    },
+    {
+      "id": 18704,
+      "title": "1 Riyal / 100 Halalah - Abdullāh",
+      "category": "coin",
+      "country": {
+        "code": "saudi-arabia-period",
+        "name": "Saudi Arabia (1932-date)"
+      },
+      "minYear": 2008,
+      "maxYear": 2008
+    }
+  ],
+  "tags": [
+    "Tree",
+    "Coat of Arms",
+    "Cold weapons"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "68"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "53"
+    }
+  ],
+  "weight": 6.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/saudi-arabia-period/6942d54ca4a1d1.18711652-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/saudi-arabia-period/6942d54ca4a1d1.18711652-180.jpg",
+    "picture_copyright": "Dieter83"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

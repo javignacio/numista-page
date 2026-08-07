@@ -1,0 +1,116 @@
+{
+  "id": 5872,
+  "url": "https://en.numista.com/5872",
+  "title": "2 Centavos (Patria o Muerte)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "cuba",
+    "name": "Cuba"
+  },
+  "min_year": 1983,
+  "max_year": 2010,
+  "ruler": [
+    {
+      "id": 4118,
+      "name": "Second Republic",
+      "wikidata_id": "Q241"
+    }
+  ],
+  "value": {
+    "text": "2 Centavos",
+    "numeric_value": 0.02,
+    "currency": {
+      "id": 148,
+      "name": "Cuban Peso",
+      "full_name": "Cuban Peso (moneda nacional, 1914-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 19.31,
+  "thickness": 1.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium (aluminium 97.15%, magnesium 2.5%, manganese 0.35%)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Charles Edward Barber"
+    ],
+    "description": "Cuban coat of arms, country name as curved legend on top, face value in letters on bottom, line of denticles close to rim.",
+    "lettering": "REPUBLICA DE CUBA\r\n• DOS CENTAVOS •",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Cuba\r\n2 cents.",
+    "picture": "https://en.numista.com/catalogue/photos/cuba/6988786cc56778.39180156-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/cuba/6988786cc56778.39180156-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "reverse": {
+    "engravers": [
+      "Charles Edward Barber"
+    ],
+    "description": "Face value in Roman numerals in circle over a five-pointed star, motto \"Fatherland or Death\" as curved legend on top, date on excergue.",
+    "lettering": "PATRIA O MUERTE\r\n• 1984 •",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Fatherland or Death\r\n1984",
+    "picture": "https://en.numista.com/catalogue/photos/cuba/6988786e016679.90220096-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/cuba/6988786e016679.90220096-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "comments": "Minted at Leningrado,<br />\r\nAl 971.5‰; Mg 25‰; Mn 3,5‰.<br /><br />\r\nVarieties between KM #104.1 and #104.2:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/60a04b0d6a704.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/60a04b0d6a704.jpg\" alt=\"\" width=\"200\" height=\"101\" /></a><br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/609fd5b382613.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/609fd5b382613.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "104"
+    },
+    {
+      "catalogue": {
+        "id": 984,
+        "code": "JMA"
+      },
+      "number": "29-33"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "A32"
+    }
+  ],
+  "weight": 1,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 295,
+      "name": "Empresa Cubana de Acuñaciones"
+    },
+    {
+      "id": 7,
+      "name": "Saint Petersburg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

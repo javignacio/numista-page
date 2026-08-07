@@ -1,0 +1,127 @@
+{
+  "id": 670,
+  "url": "https://en.numista.com/670",
+  "title": "1 Penny - Victoria (3rd portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1895,
+  "max_year": 1901,
+  "ruler": [
+    {
+      "id": 270,
+      "name": "Victoria",
+      "wikidata_id": "Q9439",
+      "nomisma_id": "queen_victoria",
+      "group": {
+        "id": 525,
+        "name": "House of Hanover"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Penny",
+    "numeric_value": 0.004166666666666667,
+    "numerator": 1,
+    "denominator": 240,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1971)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1971-08-31"
+  },
+  "size": 30.8,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "George William de Saulles"
+    ],
+    "designers": [
+      "Thomas Brock"
+    ],
+    "description": "Older diademed and veiled portrait ('Old Head') of Queen Victoria left, legend around, designer's initials below bust.",
+    "lettering": "VICTORIA·DEI·GRA·BRITT·REGINA·FID·DEF·IND·IMP·\r\nT.B.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Victoria Dei Gratia Britanniarum Regina Fidei Defensatrix Indiae Imperatrix",
+    "lettering_translation": "Victoria by the Grace of God Queen of the Britains Defender of the Faith Empress of India",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/4128-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/4128-180.jpg",
+    "picture_copyright": "apuking",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "George William de Saulles"
+    ],
+    "designers": [
+      "Leonard Charles Wyon"
+    ],
+    "description": "Seated figure of Britannia right, with trident in left hand and shield bearing the Union flag in right, sea behind, denomination above and date in exergue.\r\n\r\nNote: varieties exist (see below)",
+    "lettering": "ONE PENNY\r\n1898",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/4129-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/4129-180.jpg",
+    "picture_copyright": "apuking",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "comments": "<p>The standard weight of these pieces was 48 to the pound avoirdupois (1/3 ounce or 145.8 grains).<br><br>Dies for the final Victoria veiled head issue were engraved by George William de Saulles. The obverse design was copied from a model by Thomas Brock and the reverse was a modified version of the Leonard Charles Wyon design, with the rock and lighthouse removed.<br><br><i>Obverse die varieties:</i><br><br>Die <strong>1a</strong> <i>(1895-1901)</i> T.B. under bust.<br>Die <strong>1b</strong> <i>(1896-97)</i> T B. under bust (no dot after T), T is lower and smaller.<br><br><i>Reverse die varieties:</i><br><br><a href=\"https://en.numista.com/catalogue/images/6118cad44fdf1.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6118cad44fdf1.jpg\" alt=\"\"></a><br>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/6957e2dfc78e6.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6957e2dfc78e6.jpg\"></a></p><p><br><strong>Sp#3961</strong> <i>(1895-1901)</i> <u>Normal tide</u> Horizon is level with folds in robe and 'P' 1mm from trident;<br><strong>Sp#3961A</strong> <i>(1895)</i> <u>Low tide</u> Horizon is level with hem line of robe and 'P' 2mm from trident;<br><strong>Sp#3961B</strong> <i>(1897)</i> <u>High tide</u> Higher tide level above two folds of robe.<br><br>Die <strong>A</strong> <i>(1895)</i> P of PENNY is 2mm from the corner of the trident.<br><br>Die <strong>Ba</strong> <i>(1897)</i> 10.5 teeth from the 1 to the bottom tip of the 7 in date. 7 skewed counter-clockwise: bottom to tooth, top line at left lower than at right.<br>Die <strong>Bb</strong> <i>(1897)</i> 10.5 teeth from the 1 to the bottom tip of the 7 in date. 7 far from 9.<br>Die <strong>Bc</strong> <i>(1897)</i> 9.5 teeth from the 1 to the bottom tip of the 7 in date. 7 very close to 9.<br>Die <strong>Bd</strong> <i>(1897)</i> 10 teeth from the 1 to the bottom tip of the 7 in date. 7 close to 9.<br><br>Die <strong>C</strong> - as <strong>B</strong>, but sea level on the right is slightly higher, there is no gap between shield and teeth border.<br><br><i>Combinations</i><br><strong>1a</strong>+<strong>Ba&nbsp;</strong><br><a href=\"https://en.numista.com/catalogue/images/6103cb325ad90.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6103cb325ad90.jpg\" alt=\"\"></a><br>© Alexandr Prokofyev<br><br><strong>1a</strong>+<strong>Bb</strong><br><strong>1a</strong>+<strong>Bc</strong><br><strong>1a</strong>+<strong>Bd</strong><br><strong>1a</strong>+<strong>C</strong><br><strong>1b</strong>+<strong>Ba</strong><br><strong>1b</strong>+<strong>Bd</strong><br><a href=\"https://en.numista.com/catalogue/images/6103cb78a19ed.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6103cb78a19ed.jpg\" alt=\"\"></a><br>© Alexandr Prokofyev<br><br><strong>1b</strong>+<strong>C</strong></p>",
+  "tags": [
+    "Armour",
+    "Sea"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "790"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "3961"
+    }
+  ],
+  "weight": 9.45,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

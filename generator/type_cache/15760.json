@@ -1,0 +1,114 @@
+{
+  "id": 15760,
+  "url": "https://en.numista.com/15760",
+  "title": "5 Rupees (non-magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "sri_lanka_period",
+    "name": "Sri Lanka (1972-date)"
+  },
+  "min_year": 1984,
+  "max_year": 2004,
+  "ruler": [
+    {
+      "id": 589,
+      "name": "Democratic Socialist Republic",
+      "wikidata_id": "Q854"
+    }
+  ],
+  "value": {
+    "text": "5 Rupees",
+    "numeric_value": 5,
+    "currency": {
+      "id": 176,
+      "name": "Rupee",
+      "full_name": "Rupee (1972-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23.4,
+  "thickness": 2.9,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "National arms",
+    "picture": "https://en.numista.com/catalogue/photos/sri_lanka_period/67c0b42aa19179.97562143-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/sri_lanka_period/67c0b42aa19179.97562143-180.jpg",
+    "picture_copyright": "Zanzibar.Orc.Coins"
+  },
+  "reverse": {
+    "description": "Inscription over and around value",
+    "lettering": "இலங்கை ශ්‍රී ලංකා SRI LANKA\r\n5\r\nරුපියල පහයි\r\nஐந்து ரூபாய்\r\nFIVE RUPEES\r\n1984",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      },
+      {
+        "name": "Sinhala"
+      },
+      {
+        "name": "Tamil"
+      }
+    ],
+    "lettering_translation": "Sri Lanka\r\nFive Rupees\r\n1984",
+    "picture": "https://en.numista.com/catalogue/photos/sri_lanka_period/67c0b42b572d79.92389287-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/sri_lanka_period/67c0b42b572d79.92389287-180.jpg",
+    "picture_copyright": "Zanzibar.Orc.Coins"
+  },
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "148"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "88"
+    }
+  ],
+  "weight": 9.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded with inscription:\r\n\"CBC\" for KM# 148.1\r\n\"CBSL\" for KM# 148.2",
+    "lettering": "ශී.ලං.ම.බැ.  இ.ம.வ.  C.B.S.L.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      },
+      {
+        "name": "Sinhala"
+      },
+      {
+        "name": "Tamil"
+      }
+    ],
+    "unabridged_legend": "ශ්‍රී ලංකා මහ බැංකුව\r\nஇலங்கை மத்திய வங்கி\r\nCentral Bank of Sri Linka",
+    "lettering_translation": "Central Bank of Sri Linka",
+    "picture": "https://en.numista.com/catalogue/photos/sri_lanka_period/695d3f745559c8.08699734-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/sri_lanka_period/695d3f745559c8.08699734-180.jpg",
+    "picture_copyright": "ZacUK"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

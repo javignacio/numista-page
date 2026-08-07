@@ -1,0 +1,200 @@
+{
+  "id": 2253,
+  "url": "https://en.numista.com/2253",
+  "title": "10 Centavos (Pedro I)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bresil",
+    "name": "Brazil"
+  },
+  "min_year": 1998,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 2684,
+      "name": "Federative Republic of Brazil",
+      "wikidata_id": "Q155"
+    }
+  ],
+  "value": {
+    "text": "10 Centavos",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 158,
+      "name": "Real",
+      "full_name": "Real (1994-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 20,
+  "thickness": 2.23,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Portrait of Pedro I facing left",
+    "lettering": "BRASIL \r\nPEDRO I",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Brazil",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/6415b4c0a6da96.46073896-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/6415b4c0a6da96.46073896-180.jpg",
+    "picture_copyright": "Rogbert",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Denomination above date with the National Emblem of Brazil (Southern Cross constellation) right and diagonal stripes left",
+    "lettering": "10 \r\nCENTAVOS \r\n2010",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bresil/6415b4c18b1fc0.64531988-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/6415b4c18b1fc0.64531988-180.jpg",
+    "picture_copyright": "Rogbert",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p>Pedro I (1798-1834) was the founder and first ruler of the Empire of Brazil.</p><p>&nbsp;</p><p><strong><u>Year varieties:</u></strong></p><p style=\"margin-left:2em;\">NOTE: SCWC New edition: KM#649.3 no longer exists. Despite that it is considered that:<br>KM#649.2 \"T\" wholly inside stripes on Rev.;<br>KM#649.3 \"T\" partially inside stripes.<br><a href=\"https://en.numista.com/catalogue/images/5cf91146c78e1.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5cf91146c78e1.jpg\" alt=\"\"></a><br>Placement of “T” from 1998-2002 and 2003-present.</p><p style=\"margin-left:2em;\"><br><a href=\"https://en.numista.com/catalogue/images/561ea379b0fb9.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/561ea379b0fb9.jpg\" alt=\"\"></a></p><p style=\"margin-left:2em;\">Double strike in date for year 2001.</p><p style=\"margin-left:2em;\"><br><a href=\"https://en.numista.com/catalogue/images/5a1e8d039827c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5a1e8d039827c.jpg\" alt=\"\"></a><br>Rim variations for year 2012.</p><p style=\"margin-left:2em;\"><br><a href=\"https://en.numista.com/catalogue/images/5eefb034e0bfc.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5eefb034e0bfc.png\" alt=\"\"></a></p><p style=\"margin-left:2em;\">New die introduced in 2017.<br>Its distinctive feature was the replacement of a Dot amongst the chest medals by a Star</p><p>&nbsp;</p><p>&nbsp;</p><p><strong><u>Official year sets:</u></strong></p><p style=\"margin-left:2em;\">&nbsp;</p><p style=\"margin-left:2em;\"><a href=\"https://en.numista.com/catalogue/images/67ce1f41ac361.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67ce1f41ac361.jpg\"></a> <a href=\"https://en.numista.com/catalogue/images/67ce1f4c99b15.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67ce1f4c99b15.jpg\"></a></p><p style=\"margin-left:2em;\">Official Sets - 2018 - Mintage 3000 Sets</p><p style=\"margin-left:2em;\">&nbsp;</p><p style=\"margin-left:2em;\"><a href=\"https://en.numista.com/catalogue/images/5d87a4d855fff.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d87a4d855fff.jpg\" alt=\"\"></a> <a href=\"https://en.numista.com/catalogue/images/5d87a4e1d1e0e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d87a4e1d1e0e.jpg\" alt=\"\"></a><br>Official Sets - 2019 - Mintage 3000 Sets</p><p style=\"margin-left:2em;\">&nbsp;</p><p style=\"margin-left:2em;\"><a href=\"https://en.numista.com/catalogue/images/67ce2b6e785bb.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67ce2b6e785bb.jpg\"></a> <a href=\"https://en.numista.com/catalogue/images/67ce2b71c0f43.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67ce2b71c0f43.jpg\"></a></p><p style=\"margin-left:2em;\">Official card with complete set, including 1 real commemorative coin</p><p style=\"margin-left:2em;\">&nbsp;</p><p style=\"margin-left:2em;\"><a href=\"https://en.numista.com/catalogue/images/67ce1f8a82f21.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67ce1f8a82f21.jpg\"></a> <a href=\"https://en.numista.com/catalogue/images/67ce1f8f96d52.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67ce1f8f96d52.jpg\"></a></p><p style=\"margin-left:2em;\">Official Sets - 2020 - Mintage 3000 Sets</p><p style=\"margin-left:2em;\"><br><a href=\"https://en.numista.com/catalogue/images/6206c9aa2620d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6206c9aa2620d.jpg\" alt=\"\"></a><a href=\"https://en.numista.com/catalogue/images/6206c9b9a0b97.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6206c9b9a0b97.jpg\" alt=\"\"></a><br>Official Sets - 2021 - Mintage 5000 Sets</p>",
+  "related_types": [
+    {
+      "id": 4049,
+      "title": "1 Centavo (Cabral)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1998,
+      "maxYear": 2004
+    },
+    {
+      "id": 1049,
+      "title": "5 Centavos (Tiradentes)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1998,
+      "maxYear": 2025
+    },
+    {
+      "id": 2252,
+      "title": "25 Centavos (Deodoro da Fonseca)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1998,
+      "maxYear": 2025
+    },
+    {
+      "id": 8895,
+      "title": "50 Centavos (Rio Branco; copper-nickel)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1998,
+      "maxYear": 2001
+    },
+    {
+      "id": 666,
+      "title": "50 Centavos (Rio Branco; stainless steel)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 2002,
+      "maxYear": 2024
+    },
+    {
+      "id": 94947,
+      "title": "50 Centavos (Mule Coin)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 2012,
+      "maxYear": 2012
+    },
+    {
+      "id": 3817,
+      "title": "1 Real",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1998,
+      "maxYear": 1999
+    },
+    {
+      "id": 8896,
+      "title": "1 Real",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 2002,
+      "maxYear": 2024
+    }
+  ],
+  "tags": [
+    "Horse or equine",
+    "Monarch",
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "649"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "157"
+    }
+  ],
+  "weight": 4.8,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded.\r\nNOTE: data in SCWC concerning issues of KM#649.2 to have plain/smooth edge are wrong. All issues seem to have reeding.",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/651a250cdf9ff0.77351619-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/651a250cdf9ff0.77351619-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 1335,
+      "name": "Mint of Brazil"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

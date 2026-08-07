@@ -1,0 +1,225 @@
+{
+  "id": 13820,
+  "url": "https://en.numista.com/13820",
+  "title": "2 Bolivianos (large type)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bolivie",
+    "name": "Bolivia"
+  },
+  "min_year": 1995,
+  "max_year": 2008,
+  "ruler": [
+    {
+      "id": 4379,
+      "name": "Republic",
+      "wikidata_id": "Q750"
+    }
+  ],
+  "value": {
+    "text": "2 Bolivianos",
+    "numeric_value": 2,
+    "currency": {
+      "id": 8,
+      "name": "Second boliviano",
+      "full_name": "Second boliviano (1986-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 29,
+  "thickness": 1.4,
+  "shape": "Hendecagonal (11-sided)",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "National arms, star below.",
+    "lettering": "REPUBLICA DE BOLIVIA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Bolivia",
+    "picture": "https://en.numista.com/catalogue/photos/bolivie/1096-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bolivie/1096-180.jpg",
+    "picture_copyright": "gef"
+  },
+  "reverse": {
+    "description": "Denomination within inner circle, motto between outer beaded circle and inner circle, date below.",
+    "lettering": "LA UNION ES LA FUERZA\r\n2\r\nBOLIVIANOS\r\n· 2008 ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Unity is strength",
+    "picture": "https://en.numista.com/catalogue/photos/bolivie/1097-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bolivie/1097-180.jpg",
+    "picture_copyright": "gef"
+  },
+  "comments": "Different designs of the coat of arms:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/578ca9645f30e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/578ca9645f30e.jpg\" alt=\"\" width=\"200\" height=\"131\" /></a><br /><br />\r\nDifferent denominations:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/636073da53dec.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/636073da53dec.jpg\" alt=\"\" width=\"200\" height=\"115\" /></a>",
+  "related_types": [
+    {
+      "id": 3220,
+      "title": "2 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "bolivie",
+        "name": "Bolivia"
+      },
+      "minYear": 1987,
+      "maxYear": 1987
+    },
+    {
+      "id": 7150,
+      "title": "5 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "bolivie",
+        "name": "Bolivia"
+      },
+      "minYear": 1987,
+      "maxYear": 1987
+    },
+    {
+      "id": 6772,
+      "title": "10 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "bolivie",
+        "name": "Bolivia"
+      },
+      "minYear": 1987,
+      "maxYear": 1997
+    },
+    {
+      "id": 15842,
+      "title": "10 Centavos (Type 1 denomination letter)",
+      "category": "coin",
+      "country": {
+        "code": "bolivie",
+        "name": "Bolivia"
+      },
+      "minYear": 1997,
+      "maxYear": 1997
+    },
+    {
+      "id": 12037,
+      "title": "10 Centavos (Type 2 denomination letter)",
+      "category": "coin",
+      "country": {
+        "code": "bolivie",
+        "name": "Bolivia"
+      },
+      "minYear": 2001,
+      "maxYear": 2008
+    },
+    {
+      "id": 3223,
+      "title": "20 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "bolivie",
+        "name": "Bolivia"
+      },
+      "minYear": 1987,
+      "maxYear": 2008
+    },
+    {
+      "id": 3225,
+      "title": "50 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "bolivie",
+        "name": "Bolivia"
+      },
+      "minYear": 1987,
+      "maxYear": 2008
+    },
+    {
+      "id": 3228,
+      "title": "1 Boliviano",
+      "category": "coin",
+      "country": {
+        "code": "bolivie",
+        "name": "Bolivia"
+      },
+      "minYear": 1987,
+      "maxYear": 2008
+    },
+    {
+      "id": 5784,
+      "title": "2 Bolivianos (small type)",
+      "category": "coin",
+      "country": {
+        "code": "bolivie",
+        "name": "Bolivia"
+      },
+      "minYear": 1991,
+      "maxYear": 1991
+    },
+    {
+      "id": 7561,
+      "title": "5 Bolivianos",
+      "category": "coin",
+      "country": {
+        "code": "bolivie",
+        "name": "Bolivia"
+      },
+      "minYear": 2001,
+      "maxYear": 2004
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Flag",
+    "Coat of Arms",
+    "Firearms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "206.2"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "A40"
+    }
+  ],
+  "weight": 6.4,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    },
+    {
+      "id": 4,
+      "name": "Hamburg Mint"
+    },
+    {
+      "id": 2,
+      "name": "State Mint of Stuttgart / State Mints of Baden-Württemberg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

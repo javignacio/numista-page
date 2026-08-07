@@ -1,0 +1,144 @@
+{
+  "id": 2451,
+  "url": "https://en.numista.com/2451",
+  "title": "25 Fils (non-magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "emirats_arabes_unis",
+    "name": "United Arab Emirates"
+  },
+  "min_year": 1973,
+  "max_year": 2011,
+  "ruler": [
+    {
+      "id": 1501,
+      "name": "Zayed bin Sultan Al Nahyan",
+      "wikidata_id": "Q167846"
+    },
+    {
+      "id": 1500,
+      "name": "Khalifa bin Zayed Al Nahyan",
+      "wikidata_id": "Q1059948"
+    }
+  ],
+  "value": {
+    "text": "25 Fils",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 35,
+      "name": "Dirham",
+      "full_name": "Dirham (1973-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 20,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Denomination in Arabic surrounded by name of the country in Arabic and English.",
+    "lettering": "الامارات العربية المتحدة\r\n٢٥\r\nفلساً\r\nUNITED ARAB EMIRATES",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "United Arab Emirates\r\n25\r\nFils",
+    "picture": "https://en.numista.com/catalogue/photos/emirats_arabes_unis/254-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/emirats_arabes_unis/254-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "reverse": {
+    "engravers": [
+      "Geoffrey Colley"
+    ],
+    "description": "Gazelle facing left, date below. Probably the sand gazelle or goitered gazelle (Gazella subgutturosa marica), one of the 2 species found in the UAE.",
+    "lettering": "١٤٢٨-٢٠٠٧",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "2007-1428",
+    "picture": "https://en.numista.com/catalogue/photos/emirats_arabes_unis/253-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/emirats_arabes_unis/253-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "comments": "Rulers:<br />\n1- Sheikh Zayed bin Sultan Al Nahayan (02 Dec 1971 - 02 Nov 2004)<br />\n2- Sheikh Khalifa bin Zayed Al Nahayan (03 Nov 2004 - Date)<br /><br />\nMint:<br />\nBritish Royal Mint (1973, 1982, 1984, 1989, 1995 &amp; 1998)<br />\nRoyal Canadian Mint (1986, 1987, 1988, 2005, 2007 &amp; 2011)<br /><br />\n1409 (1989) Specimen; Ex King&#039;s Norton Mint Collection:<br />\n<a href=\"https://en.numista.com/catalogue/images/581a130001cd5.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/581a130001cd5.jpg\" alt=\"\" width=\"200\" height=\"236\" /></a><br />\n© Zameer Abubakar<br /><br />\n1409 (1989) Proof Set (KM#MS1):<br />\n<a href=\"https://en.numista.com/catalogue/images/5970a2d5a7188.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5970a2d5a7188.jpg\" alt=\"\" width=\"200\" height=\"144\" /></a> <a href=\"https://en.numista.com/catalogue/images/5970a2db39eb7.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5970a2db39eb7.jpg\" alt=\"\" width=\"200\" height=\"113\" /></a><br />\n<a href=\"https://en.numista.com/catalogue/images/5970a2e226124.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5970a2e226124.jpg\" alt=\"\" width=\"200\" height=\"113\" /></a><br />\n© Zameer Abubakar<br /><br />\n1415-1418 (1995-1997) Proof Set:<br />\n<a href=\"https://en.numista.com/catalogue/images/597101ec0d0f4.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/597101ec0d0f4.jpg\" alt=\"\" width=\"200\" height=\"43\" /></a><br />\n<a href=\"https://en.numista.com/catalogue/images/597101f2ed144.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/597101f2ed144.jpg\" alt=\"\" width=\"191\" height=\"250\" /></a><br />\n<a href=\"https://en.numista.com/catalogue/images/597101fbe7810.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/597101fbe7810.jpg\" alt=\"\" width=\"200\" height=\"146\" /></a> <a href=\"https://en.numista.com/catalogue/images/5971020235a40.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5971020235a40.jpg\" alt=\"\" width=\"200\" height=\"130\" /></a><br />\n© Zameer Abubakar",
+  "related_types": [
+    {
+      "id": 8241,
+      "title": "25 Dirhams",
+      "category": "coin",
+      "country": {
+        "code": "qatar-et-dubai",
+        "name": "Qatar and Dubai"
+      },
+      "minYear": 1966,
+      "maxYear": 1969
+    },
+    {
+      "id": 68022,
+      "title": "25 Fils (magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "emirats_arabes_unis",
+        "name": "United Arab Emirates"
+      },
+      "minYear": 2014,
+      "maxYear": 2022
+    }
+  ],
+  "tags": [
+    "Cow or bovine"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "4"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "4"
+    }
+  ],
+  "weight": 3.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/emirats_arabes_unis/69432e5e6fbc89.29074142-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/emirats_arabes_unis/69432e5e6fbc89.29074142-180.jpg",
+    "picture_copyright": "Dieter83"
+  },
+  "mints": [
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    },
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

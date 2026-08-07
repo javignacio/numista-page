@@ -1,0 +1,90 @@
+{
+  "id": 27145,
+  "url": "https://en.numista.com/27145",
+  "title": "½ Centavo",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "chili",
+    "name": "Chile"
+  },
+  "min_year": 1871,
+  "max_year": 1873,
+  "ruler": [
+    {
+      "id": 3299,
+      "name": "Republic",
+      "wikidata_id": "Q298"
+    }
+  ],
+  "value": {
+    "text": "½ Centavo",
+    "numeric_value": 0.005,
+    "currency": {
+      "id": 237,
+      "name": "Peso",
+      "full_name": "Peso (1835-1959)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 19,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Grain sprigs from wreath around head left",
+    "lettering": "REPUBLICA DE CHILE\r\nSo",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Chile",
+    "picture": "https://en.numista.com/catalogue/photos/chili/1313-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/1313-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "description": "Denomination within circle of dots",
+    "lettering": "ECONOMIA ES RIQUEZA\r\nMEDIO\r\nCENTAVO\r\n1871",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Economy is wealth\r\nHalf Centavo",
+    "picture": "https://en.numista.com/catalogue/photos/chili/1314-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/1314-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "tags": [
+    "Allegory",
+    "Phrygian cap"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "148"
+    }
+  ],
+  "weight": 3,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

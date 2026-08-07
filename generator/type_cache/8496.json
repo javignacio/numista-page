@@ -1,0 +1,106 @@
+{
+  "id": 8496,
+  "url": "https://en.numista.com/8496",
+  "title": "10 Øre - Frederik VIII",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "danemark",
+    "name": "Denmark"
+  },
+  "min_year": 1907,
+  "max_year": 1912,
+  "ruler": [
+    {
+      "id": 2401,
+      "name": "Frederick VIII",
+      "wikidata_id": "Q152756",
+      "group": {
+        "id": 104,
+        "name": "House of Schleswig-Holstein-Sonderburg-Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Øre",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 13,
+      "name": "Krone",
+      "full_name": "Krone (1873-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1989-06-30"
+  },
+  "size": 15,
+  "thickness": 1.04,
+  "shape": "Round",
+  "composition": {
+    "text": "Billon (.400 silver)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Head left, initials GJ below",
+    "lettering": "FREDERIK·VIII·DANMARKS·KONGE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/danemark/5f4b67668f3be8.66479741-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/5f4b67668f3be8.66479741-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Value, date, mint mark, initials VBP within circle, lily ornamentation surrounds",
+    "lettering": "10\r\nØRE\r\n1910 VBP",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/danemark/5f4b6766e2bac1.73429905-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/5f4b6766e2bac1.73429905-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "807"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "15"
+    },
+    {
+      "catalogue": {
+        "id": 2262,
+        "code": "DNF"
+      },
+      "number": "4.3"
+    }
+  ],
+  "weight": 1.45,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

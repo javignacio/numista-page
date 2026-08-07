@@ -1,0 +1,115 @@
+{
+  "id": 3282,
+  "url": "https://en.numista.com/3282",
+  "title": "20 Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "portugal",
+    "name": "Portugal"
+  },
+  "min_year": 1969,
+  "max_year": 1974,
+  "ruler": [
+    {
+      "id": 1294,
+      "name": "Second Republic",
+      "wikidata_id": "Q17748736"
+    }
+  ],
+  "value": {
+    "text": "20 Centavos",
+    "numeric_value": 0.2,
+    "currency": {
+      "id": 65,
+      "name": "Escudo",
+      "full_name": "Escudo (1911-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2002-02-28"
+  },
+  "size": 16,
+  "thickness": 1.15,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze (Cu 950 + Sn 30 + Zn 20)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Marcelino Norte de Almeida"
+    ],
+    "description": "The Portuguese shield: five escutcheons forming a cross, each has five dots marking imaginary corners and center of a square.",
+    "lettering": "REPUBLICA PORTUGUESA\r\n1972",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/portugal/637b551e3567a4.23331048-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/portugal/637b551e3567a4.23331048-180.jpg",
+    "picture_copyright": "karrlot"
+  },
+  "reverse": {
+    "engravers": [
+      "Marcelino Norte de Almeida"
+    ],
+    "description": "Value above two olive sprigs.",
+    "lettering": "20\r\nCENTAVOS\r\nM NORTE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/portugal/637b551e6b67a9.41212167-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/portugal/637b551e6b67a9.41212167-180.jpg",
+    "picture_copyright": "karrlot"
+  },
+  "series": "System 1969-1980",
+  "comments": "The olive fruit/tree (Binomial name: Olea europaea).",
+  "related_types": [
+    {
+      "id": 1237,
+      "title": "20 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "portugal",
+        "name": "Portugal"
+      },
+      "minYear": 1942,
+      "maxYear": 1969
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "595"
+    },
+    {
+      "catalogue": {
+        "id": 108,
+        "code": "Gomes"
+      },
+      "number": "R 17"
+    }
+  ],
+  "weight": 1.8,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/portugal/5ea87a0fa66508.03935394-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/portugal/5ea87a0fa66508.03935394-180.jpg",
+    "picture_copyright": "ADRIARTH"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

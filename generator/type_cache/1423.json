@@ -1,0 +1,127 @@
+{
+  "id": 1423,
+  "url": "https://en.numista.com/1423",
+  "title": "10 Øre - Margrethe II",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "danemark",
+    "name": "Denmark"
+  },
+  "min_year": 1973,
+  "max_year": 1988,
+  "ruler": [
+    {
+      "id": 2404,
+      "name": "Margrethe II",
+      "wikidata_id": "Q102139",
+      "group": {
+        "id": 104,
+        "name": "House of Schleswig-Holstein-Sonderburg-Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Øre",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 13,
+      "name": "Krone",
+      "full_name": "Krone (1873-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1989-06-30"
+  },
+  "size": 18,
+  "thickness": 1.58,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Crowned monogram of Margrethe II dividing the date",
+    "lettering": "19   M 2 R    81\r\nS ♥ B",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/danemark/64d401582bade6.12697103-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/64d401582bade6.12697103-180.jpg",
+    "picture_copyright": "Elvi75"
+  },
+  "reverse": {
+    "description": "Value with oaktree-leaves and the country name above",
+    "lettering": "DANMARK \r\n10 \r\nØRE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Denmark \r\n10 \r\nØre",
+    "picture": "https://en.numista.com/catalogue/photos/danemark/64d40158e9ddc4.84786262-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/64d40158e9ddc4.84786262-180.jpg",
+    "picture_copyright": "Elvi75"
+  },
+  "tags": [
+    "Crown",
+    "Monogram"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "860"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "78"
+    },
+    {
+      "catalogue": {
+        "id": 2262,
+        "code": "DNF"
+      },
+      "number": "4.14"
+    },
+    {
+      "catalogue": {
+        "id": 2262,
+        "code": "DNF"
+      },
+      "number": "4.15"
+    },
+    {
+      "catalogue": {
+        "id": 2262,
+        "code": "DNF"
+      },
+      "number": "4.16"
+    }
+  ],
+  "weight": 3,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 260,
+      "name": "Royal Danish Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

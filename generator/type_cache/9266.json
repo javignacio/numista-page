@@ -1,0 +1,106 @@
+{
+  "id": 9266,
+  "url": "https://en.numista.com/9266",
+  "title": "2 Cents",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "kiribati",
+    "name": "Kiribati"
+  },
+  "min_year": 1979,
+  "max_year": 1992,
+  "ruler": [
+    {
+      "id": 1434,
+      "name": "Republic",
+      "wikidata_id": "Q710"
+    }
+  ],
+  "value": {
+    "text": "2 Cents",
+    "numeric_value": 0.02,
+    "currency": {
+      "id": 480,
+      "name": "Dollar",
+      "full_name": "Dollar (1979-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21.6,
+  "thickness": 1.9,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Michael Hibbit"
+    ],
+    "description": "Coat of Arms.",
+    "lettering": "KIRIBATI 1979",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/kiribati/63ba7d3d3f5144.21438489-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/kiribati/63ba7d3d3f5144.21438489-180.jpg",
+    "picture_copyright": "Numismatica Quetzalcoatl",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Michael Hibbit"
+    ],
+    "description": "B'abal plant below value.",
+    "lettering": "CENTS\r\n2",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/kiribati/63ba7d3da99ec9.68269448-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/kiribati/63ba7d3da99ec9.68269448-180.jpg",
+    "picture_copyright": "Numismatica Quetzalcoatl",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "2"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "2"
+    }
+  ],
+  "weight": 5.2,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

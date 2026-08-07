@@ -1,0 +1,130 @@
+{
+  "id": 3391,
+  "url": "https://en.numista.com/3391",
+  "title": "10 Aurar",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "islande",
+    "name": "Iceland"
+  },
+  "min_year": 1970,
+  "max_year": 1974,
+  "ruler": [
+    {
+      "id": 1592,
+      "name": "Republic",
+      "wikidata_id": "Q189"
+    }
+  ],
+  "value": {
+    "text": "10 Aurar",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 241,
+      "name": "Old króna",
+      "full_name": "Old króna (1885-1980)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 15,
+  "thickness": 1.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium (96.5% Aluminium, 3.5% Magnesium)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Icelandic coat of arms surrounded by a vegetable wreath.",
+    "lettering": "1971",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/islande/687a9230e9e842.48470482-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/islande/687a9230e9e842.48470482-180.jpg",
+    "picture_copyright": "Seal444",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Face value at the center and leaves of pubescent birch (Betula pubescens, only endemic tree of Iceland), to left and right.",
+    "lettering": "ÍSLAND \r\n10 \r\nAURAR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Iceland",
+    "picture": "https://en.numista.com/catalogue/photos/islande/687a9231d4f696.73074808-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/islande/687a9231d4f696.73074808-180.jpg",
+    "picture_copyright": "Seal444",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "related_types": [
+    {
+      "id": 1536,
+      "title": "10 Aurar",
+      "category": "coin",
+      "country": {
+        "code": "islande",
+        "name": "Iceland"
+      },
+      "minYear": 1946,
+      "maxYear": 1969
+    }
+  ],
+  "tags": [
+    "Coat of Arms",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "10a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "13a"
+    },
+    {
+      "catalogue": {
+        "id": 144,
+        "code": "SIEG"
+      },
+      "number": "14"
+    }
+  ],
+  "weight": 0.449,
+  "orientation": "medal",
+  "edge": {
+    "description": "Milled",
+    "picture": "https://en.numista.com/catalogue/photos/islande/5f133a40922cd2.74593094-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/islande/5f133a40922cd2.74593094-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

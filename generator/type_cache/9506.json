@@ -1,0 +1,129 @@
+{
+  "id": 9506,
+  "url": "https://en.numista.com/9506",
+  "title": "10 Bolívares (magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "venezuela",
+    "name": "Venezuela"
+  },
+  "min_year": 2000,
+  "max_year": 2002,
+  "ruler": [
+    {
+      "id": 4707,
+      "name": "Bolivarian Republic",
+      "wikidata_id": "Q717"
+    }
+  ],
+  "value": {
+    "text": "10 Bolivars",
+    "numeric_value": 10,
+    "currency": {
+      "id": 7,
+      "name": "Bolivar",
+      "full_name": "Bolivar (1879-2007)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2011-12-31"
+  },
+  "size": 17,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel clad steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Small shield and denomination at center. With legend around and date at bottom.",
+    "lettering": "• REPÚBLICA BOLIVARIANA DE VENEZUELA •\r\n2000",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Bolivarian Republic of Venezuela",
+    "picture": "https://en.numista.com/catalogue/photos/venezuela/805-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/venezuela/805-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "description": "Bust left, flanked with legend and engraver's name at base. Inside heptagon.",
+    "lettering": "BOLÍVAR LIBERTADOR\r\nBARRE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Bolivar Liberator",
+    "picture": "https://en.numista.com/catalogue/photos/venezuela/806-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/venezuela/806-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "related_types": [
+    {
+      "id": 5355,
+      "title": "10 Bolívares",
+      "category": "coin",
+      "country": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "minYear": 1998,
+      "maxYear": 1998
+    },
+    {
+      "id": 2538,
+      "title": "10 Bolívares (non-magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "minYear": 2001,
+      "maxYear": 2004
+    }
+  ],
+  "tags": [
+    "Horse or equine",
+    "Military leader",
+    "Politician",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "80"
+    },
+    {
+      "catalogue": {
+        "id": 2068,
+        "code": "NCV"
+      },
+      "number": "mv10bs-da"
+    }
+  ],
+  "weight": 2.33,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 4182,
+      "name": "Casa de la Moneda de Venezuela"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

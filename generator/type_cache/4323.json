@@ -1,0 +1,97 @@
+{
+  "id": 4323,
+  "url": "https://en.numista.com/4323",
+  "title": "1 Peso",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "chili",
+    "name": "Chile"
+  },
+  "min_year": 1867,
+  "max_year": 1891,
+  "ruler": [
+    {
+      "id": 3299,
+      "name": "Republic",
+      "wikidata_id": "Q298"
+    }
+  ],
+  "value": {
+    "text": "1 Peso",
+    "numeric_value": 1,
+    "currency": {
+      "id": 237,
+      "name": "Peso",
+      "full_name": "Peso (1835-1959)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 37,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.900)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Escutcheon above laurel wreath, ostrich feathers above and the denomination at the bottom of the coin",
+    "lettering": "REPUBLICA DE CHILE\r\nSo\r\nUN PESO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Chile\r\nSo\r\nOne Peso",
+    "picture": "https://en.numista.com/catalogue/photos/chili/818-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/818-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "description": "Andean condor with a claw on the shield and the date below",
+    "lettering": "POR LA RAZON O LA FUERZA\r\n* 1890 *",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "By Reason or Force\r\n1890",
+    "picture": "https://en.numista.com/catalogue/photos/chili/817-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/817-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "<p>These coins saw frequent circulation in El Salvador until they were withdrawn on September 3, 1892.</p>",
+  "tags": [
+    "Bird",
+    "Eagle"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "142"
+    }
+  ],
+  "weight": 25,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

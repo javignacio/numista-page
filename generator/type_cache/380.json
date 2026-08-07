@@ -1,0 +1,135 @@
+{
+  "id": 380,
+  "url": "https://en.numista.com/380",
+  "title": "10 Cents - Elizabeth II (3rd portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "canada",
+    "name": "Canada"
+  },
+  "min_year": 1990,
+  "max_year": 2000,
+  "ruler": [
+    {
+      "id": 2095,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 827,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Cents",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 44,
+      "name": "Dollar",
+      "full_name": "Dollar (1858-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 18.03,
+  "thickness": 1.22,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel (99.9% nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Ago Aarand"
+    ],
+    "designers": [
+      "Dora de Pédery-Hunt"
+    ],
+    "description": "Head of Queen Elizabeth II, as at 64 years of age, wearing the royal diadem, necklace, and earrings, facing right.",
+    "lettering": "ELIZABETH II D·G·REGINA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "ELIZABETH II DEI GRATIA REGINA",
+    "lettering_translation": "Elizabeth II Queen by the grace of God",
+    "picture": "https://en.numista.com/catalogue/photos/canada/6984d0afdf9952.57387763-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/6984d0afdf9952.57387763-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "reverse": {
+    "designers": [
+      "Emanuel Otto Hahn"
+    ],
+    "description": "The \"Bluenose\" under sail, a Canadian schooner from Nova Scotia, a celebrated racing ship and a symbol of the province, with the value below, the date to the right, and the country name at the top",
+    "lettering": "CANADA\r\n1991\r\n10 CENTS\r\nH",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/canada/6984d0b1b0c0a9.15159125-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/6984d0b1b0c0a9.15159125-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "comments": "<p>(C) mintage included with the circulation coin.</p><p>&nbsp;</p><p>Rim denticles on the reverse were replaced with rim beads in 1993.</p>",
+  "related_types": [
+    {
+      "id": 3565,
+      "title": "10 Cents - Elizabeth II (3rd portrait; plated)",
+      "category": "coin",
+      "country": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "minYear": 1999,
+      "maxYear": 2003
+    }
+  ],
+  "tags": [
+    "Boat or watercraft"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "183"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "165.1"
+    }
+  ],
+  "weight": 2.07,
+  "orientation": "medal",
+  "edge": {
+    "description": "Milled",
+    "picture": "https://en.numista.com/catalogue/photos/canada/5128-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/5128-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    },
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

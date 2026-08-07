@@ -1,0 +1,125 @@
+{
+  "id": 35834,
+  "url": "https://en.numista.com/35834",
+  "title": "5 Cents (Magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "kiribati",
+    "name": "Kiribati"
+  },
+  "min_year": 1979,
+  "max_year": 1979,
+  "ruler": [
+    {
+      "id": 1434,
+      "name": "Republic",
+      "wikidata_id": "Q710"
+    }
+  ],
+  "value": {
+    "text": "5 Cents",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 480,
+      "name": "Dollar",
+      "full_name": "Dollar (1979-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 19.3,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Michael Hibbit"
+    ],
+    "description": "Coat of Arms, date below.",
+    "lettering": "KIRIBATI 1979",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/kiribati/698f3a3da4c905.16732311-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/kiribati/698f3a3da4c905.16732311-180.jpg",
+    "picture_copyright": "riversxian",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Michael Hibbit"
+    ],
+    "description": "Stump-tailed Gecko (Gehyra mutilata), denomination above.",
+    "lettering": "CENTS\r\n5",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/kiribati/698f3a77e3ec29.52426635-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/kiribati/698f3a77e3ec29.52426635-180.jpg",
+    "picture_copyright": "riversxian",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "related_types": [
+    {
+      "id": 1593,
+      "title": "5 Cents (Non-magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "kiribati",
+        "name": "Kiribati"
+      },
+      "minYear": 1979,
+      "maxYear": 1979
+    }
+  ],
+  "tags": [
+    "Reptile"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "3a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "3a"
+    }
+  ],
+  "weight": 2.8,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/kiribati/231-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/kiribati/231-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

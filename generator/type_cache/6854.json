@@ -1,0 +1,124 @@
+{
+  "id": 6854,
+  "url": "https://en.numista.com/6854",
+  "title": "1 Centavo",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "cuba",
+    "name": "Cuba"
+  },
+  "min_year": 2000,
+  "max_year": 2017,
+  "ruler": [
+    {
+      "id": 4118,
+      "name": "Second Republic",
+      "wikidata_id": "Q241"
+    }
+  ],
+  "value": {
+    "text": "1 Centavo",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 149,
+      "name": "Convertible peso",
+      "full_name": "Convertible peso (1994-2020)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2021-01-01"
+  },
+  "size": 15,
+  "thickness": 1.43,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Charles Edward Barber"
+    ],
+    "description": "Cuban coat of arms, date below, circular legends: name of the country above, and face value in words below; with 8-sided ring on edge.",
+    "lettering": "REPUBLICA DE CUBA\r\n2016\r\nun centavo",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Cuba\r\n2016\r\none cent",
+    "picture": "https://en.numista.com/catalogue/photos/cuba/6988792a6664a1.44417947-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/cuba/6988792a6664a1.44417947-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "reverse": {
+    "description": "View of the \"Plaza de la Revolución\" (Revolution Square) at Havana, with face value as numerals on right, name of the place above; with 8-sided ring on edge.",
+    "lettering": "1¢\r\nPLAZA DE LA\r\nREVOLUCIÓN",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "1¢ (cent)\r\nRevolution \r\nSquare",
+    "picture": "https://en.numista.com/catalogue/photos/cuba/6988792b67f208.31874488-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/cuba/6988792b67f208.31874488-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "comments": "Picture shown on edge correspond to years (left to right) 2002, 2000, 2016, 2016, 2006, 2013, 2017 and 2007. It is noticeably both 2016 issues are a bit different, same as they are from one to other years.<br /><br />\r\nKnown variations on different year issues:<br />\r\n2006: small date<br /><br />\r\nNEW VARIETY FOUND:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5e4861d417675.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e4861d417675.jpg\" alt=\"\" width=\"200\" height=\"95\" /></a><br />\r\n2013 coin has other edge - reeded and not denticles and date is smaller and narrow. Size, weight is the same +/- in compare with known 2000.<br /><br /><br />\r\nThe Revolution Square is one of the biggest in world, with 72,000 sq. meters, features the Martí monument, 112.75m high (141.995 including lights and flags), and is the highest point at Havana.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/58f37de4a9a38.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/58f37de4a9a38.jpg\" alt=\"\" width=\"187\" height=\"249\" /></a><br />\r\nOut of its huge dimensions, also is noticeable by the view of the 2 shapes of Ernesto &quot;Che&quot; Guevara and Camilo Cienfuegos placed on the buildings of Ministries of the Interior and Communications. Those shapes include the quotations &quot;Hasta la Victoria, siempre&quot; (Until Victory, ever) below Che, and &quot;Vas bien Fidel&quot; (You&#039;re doing fine, Fidel) below Camilo<br />\r\n<a href=\"https://en.numista.com/catalogue/images/58f37e00375b9.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/58f37e00375b9.jpg\" alt=\"\" width=\"186\" height=\"250\" /></a> <a href=\"https://en.numista.com/catalogue/images/58f37e1496235.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/58f37e1496235.jpg\" alt=\"\" width=\"167\" height=\"249\" /></a>",
+  "related_types": [
+    {
+      "id": 2440,
+      "title": "1 Centavo",
+      "category": "coin",
+      "country": {
+        "code": "cuba",
+        "name": "Cuba"
+      },
+      "minYear": 2000,
+      "maxYear": 2019
+    }
+  ],
+  "tags": [
+    "Tower"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "729"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "712"
+    }
+  ],
+  "weight": 1.7,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/cuba/69c4d4c6d07d68.67473157-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/cuba/69c4d4c6d07d68.67473157-180.jpg",
+    "picture_copyright": "adanieluy",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 295,
+      "name": "Empresa Cubana de Acuñaciones"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

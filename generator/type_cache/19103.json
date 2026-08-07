@@ -1,0 +1,191 @@
+{
+  "id": 19103,
+  "url": "https://en.numista.com/19103",
+  "title": "1 Peso Uruguayo (Mulita)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "uruguay",
+    "name": "Uruguay"
+  },
+  "min_year": 2011,
+  "max_year": 2024,
+  "ruler": [
+    {
+      "id": 3897,
+      "name": "Oriental Republic of Uruguay",
+      "wikidata_id": "Q77"
+    }
+  ],
+  "value": {
+    "text": "1 Peso Uruguayo",
+    "numeric_value": 1,
+    "currency": {
+      "id": 153,
+      "name": "Peso uruguayo",
+      "full_name": "Peso uruguayo (1993-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 20,
+  "thickness": 1.65,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of Arms, surrounded with official full name of country, year on bottom.",
+    "lettering": "REPUBLICA ORIENTAL DEL URUGUAY\r\n2012",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Oriental Republic of Uruguay \r\n2012",
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/510-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/510-180.jpg",
+    "picture_copyright": "adanieluy",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Mulita (Dasypus hybridus) to right, face value on left side, animal name below.",
+    "lettering": "$1\r\nMULITA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "$1\r\nArmadillo",
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/511-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/511-180.jpg",
+    "picture_copyright": "adanieluy",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "series": "Native fauna of Uruguay",
+  "comments": "<p>Mulita (means little mule) is a shielded mammal, smallest species of the family of tatu (name of Brazilian origin, derived from a native language) and peludo (meaning hairy, since it has long and thick hairs on its body). They mainly can be distinguished by their size and the number of bands in the shield. Mulita's and tatu's diet is mainly vegetarian and insectivorous, while peludo is a scavenger. Builds long caves to live in and protect, and when in danger can bend its body into a ball shape, so the shield covers all its parts.<br><br>Note the represented animal has 11 mobile bands, that is not correct, as mulita has only 7 bands, tatu has 9 and peludo has only 6.<br><br><a href=\"https://en.numista.com/catalogue/images/5a6491fe24b0c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5a6491fe24b0c.jpg\" alt=\"\"></a> <a href=\"https://en.numista.com/catalogue/images/5a649236d138a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5a649236d138a.jpg\" alt=\"\"></a><br>(source of image: media.elobservador.com.uy) (source of image: 1.bp.blogspot.com)<br><br>2011 issue was minted in Spain.<br>2012 issue was minted in Monnaie de Paris.<br>2019 issue was minted in Kremnica.</p><p>on 2024 issue the mistake of the amount of mobile bands was corrected, now showing only 7.</p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/67bdcfdac4dad.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67bdcfdac4dad.jpg\"></a></p><p>Design with error on 2011-19; Design corrected on 2024</p><p>© Jorge Martinez</p>",
+  "related_types": [
+    {
+      "id": 19104,
+      "title": "2 Pesos Uruguayos (Carpincho)",
+      "category": "coin",
+      "country": {
+        "code": "uruguay",
+        "name": "Uruguay"
+      },
+      "minYear": 2011,
+      "maxYear": 2024
+    },
+    {
+      "id": 22259,
+      "title": "5 Pesos Uruguayos (Ñandu)",
+      "category": "coin",
+      "country": {
+        "code": "uruguay",
+        "name": "Uruguay"
+      },
+      "minYear": 2011,
+      "maxYear": 2024
+    },
+    {
+      "id": 22257,
+      "title": "10 Pesos Uruguayos (Puma)",
+      "category": "coin",
+      "country": {
+        "code": "uruguay",
+        "name": "Uruguay"
+      },
+      "minYear": 2011,
+      "maxYear": 2015
+    }
+  ],
+  "tags": [
+    "Other animal",
+    "Coat of Arms",
+    "Sun",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "135"
+    },
+    {
+      "catalogue": {
+        "id": 709,
+        "code": "SA"
+      },
+      "number": "153"
+    },
+    {
+      "catalogue": {
+        "id": 709,
+        "code": "SA"
+      },
+      "number": "158"
+    },
+    {
+      "catalogue": {
+        "id": 2069,
+        "code": "CG"
+      },
+      "number": "183"
+    },
+    {
+      "catalogue": {
+        "id": 2069,
+        "code": "CG"
+      },
+      "number": "189"
+    },
+    {
+      "catalogue": {
+        "id": 2069,
+        "code": "CG"
+      },
+      "number": "207"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "111"
+    }
+  ],
+  "weight": 3.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/6518e988c05296.21048657-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/6518e988c05296.21048657-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 1262,
+      "name": "Kremnica"
+    },
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    },
+    {
+      "id": 24,
+      "name": "Royal Mint of Madrid"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

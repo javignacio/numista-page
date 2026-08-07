@@ -1,0 +1,121 @@
+{
+  "id": 5916,
+  "url": "https://en.numista.com/5916",
+  "title": "50 Francs (Type 1 legend)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "rwanda",
+    "name": "Rwanda"
+  },
+  "issuing_entity": {
+    "id": 938,
+    "name": "National Bank of Rwanda",
+    "wikidata_id": "Q4314980"
+  },
+  "min_year": 2003,
+  "max_year": 2003,
+  "ruler": [
+    {
+      "id": 1431,
+      "name": "Republic",
+      "wikidata_id": "Q1037"
+    }
+  ],
+  "value": {
+    "text": "50 Francs",
+    "numeric_value": 50,
+    "currency": {
+      "id": 81,
+      "name": "Franc",
+      "full_name": "Franc (1964-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24,
+  "thickness": 1.85,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel clad steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms of Rwanda.",
+    "lettering": "REPUBLIKA Y'U RWANDA\r\nUBUMWI UMURIMO GUKUNDA IGIHUGU\r\nAMAFARANGA 50 MIRONGO ITANU",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Rwanda. Unity work patriotism. Fifty francs.",
+    "picture": "https://en.numista.com/catalogue/photos/rwanda/183-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/rwanda/183-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "reverse": {
+    "description": "Ear of maize encircled by legend and date.",
+    "lettering": "BANKI NASIYONALI Y'U RWANDA\r\n2003",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "National Bank of Rwanda.",
+    "picture": "https://en.numista.com/catalogue/photos/rwanda/182-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/rwanda/182-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "series": "2003 series",
+  "related_types": [
+    {
+      "id": 40537,
+      "title": "50 Francs (Type 2 legend)",
+      "category": "coin",
+      "country": {
+        "code": "rwanda",
+        "name": "Rwanda"
+      },
+      "minYear": 2009,
+      "maxYear": 2011
+    }
+  ],
+  "tags": [
+    "Agriculture",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "26"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "29"
+    }
+  ],
+  "weight": 5.7,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

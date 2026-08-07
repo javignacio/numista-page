@@ -1,0 +1,120 @@
+{
+  "id": 19165,
+  "url": "https://en.numista.com/19165",
+  "title": "10 Cents (Magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "barbade",
+    "name": "Barbados"
+  },
+  "min_year": 2007,
+  "max_year": 2023,
+  "ruler": [
+    {
+      "id": 3989,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 244,
+        "name": "Commonwealth Realm"
+      }
+    },
+    {
+      "id": 5811,
+      "name": "Republic",
+      "wikidata_id": "Q244",
+      "group": {
+        "id": 633,
+        "name": "Commonwealth Republic"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Cents",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 51,
+      "name": "Dollar",
+      "full_name": "Dollar (1973-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 17.77,
+  "thickness": 1.35,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Philip Nathan"
+    ],
+    "description": "Coat-of-Arms of Barbados.",
+    "lettering": "2017\r\nBARBADOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/barbade/337-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/barbade/337-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "designers": [
+      "Philip Nathan"
+    ],
+    "description": "Gull (probably a Laughing Gull) flying left, value below.",
+    "lettering": "TEN CENTS\r\nPN",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/barbade/338-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/barbade/338-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "comments": "The Central Bank of Barbados identifies the bird as a tern (<a href=\"http://www.centralbank.org.bb/banknotes/circulation-coins/cultural-symbols-on-circulation-coins\" rel=\"nofollow\">http://www.centralbank.org.bb/banknotes/circulation-coins/cultural-symbols-on-circulation-coins</a>) but this is incorrect as terns have a forked tail.",
+  "related_types": [
+    {
+      "id": 66,
+      "title": "10 Cents",
+      "category": "coin",
+      "country": {
+        "code": "barbade",
+        "name": "Barbados"
+      },
+      "minYear": 1973,
+      "maxYear": 2005
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "12a"
+    }
+  ],
+  "weight": 2.09,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

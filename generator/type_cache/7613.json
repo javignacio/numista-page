@@ -1,0 +1,115 @@
+{
+  "id": 7613,
+  "url": "https://en.numista.com/7613",
+  "title": "10 Pennia (with center hole)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "finlande",
+    "name": "Finland"
+  },
+  "min_year": 1941,
+  "max_year": 1943,
+  "ruler": [
+    {
+      "id": 3291,
+      "name": "Republic",
+      "wikidata_id": "Q33"
+    }
+  ],
+  "value": {
+    "text": "10 Pennia",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 1156,
+      "name": "Markka",
+      "full_name": "Markka (1860-1963)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 18.5,
+  "thickness": 1.47,
+  "shape": "Round with a round hole",
+  "composition": {
+    "text": "Copper"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Rosette above center hole, flanked by leaves dividing date below.",
+    "lettering": "1941",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/finlande/1483-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/1483-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "reverse": {
+    "description": "Center hole divides denomination, two rosettes flanking.",
+    "lettering": "10 PENNIÄ",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/finlande/1484-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/1484-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "related_types": [
+    {
+      "id": 7050,
+      "title": "10 Pennia (with center hole)",
+      "category": "coin",
+      "country": {
+        "code": "finlande",
+        "name": "Finland"
+      },
+      "minYear": 1943,
+      "maxYear": 1945
+    }
+  ],
+  "tags": [
+    "Flower"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "33.1"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "30"
+    }
+  ],
+  "weight": 2.55,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/finlande/1291-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/1291-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 1333,
+      "name": "Mint of Finland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,152 @@
+{
+  "id": 1258,
+  "url": "https://en.numista.com/1258",
+  "title": "100 Pesetas - Juan Carlos I (Value as \"CIEN\")",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "espagne",
+    "name": "Spain"
+  },
+  "min_year": 1982,
+  "max_year": 1990,
+  "ruler": [
+    {
+      "id": 151,
+      "name": "Juan Carlos I",
+      "wikidata_id": "Q19943",
+      "group": {
+        "id": 44,
+        "name": "House of Bourbon"
+      }
+    }
+  ],
+  "value": {
+    "text": "100 Pesetas",
+    "numeric_value": 100,
+    "currency": {
+      "id": 142,
+      "name": "Peseta",
+      "full_name": "Peseta (1868-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2002-02-28"
+  },
+  "size": 24.5,
+  "thickness": 2.3,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze (88.4% copper, 5% nickel, 5% aluminium, 1% iron, 0.6% manganese)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Manuel Martínez Tornero"
+    ],
+    "description": "Head of King Juan Carlos I facing left.",
+    "lettering": "JUAN CARLOS I REY DE ESPAÑA\r\n· 1986 ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Juan Carlos I King of Spain",
+    "picture": "https://en.numista.com/catalogue/photos/espagne/181-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/181-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Manuel Martínez Tornero"
+    ],
+    "description": "Coat of arms of Spain with Pillars of Hercules.",
+    "lettering": "CIEN PESETAS\r\nPLVS VLTRA\r\nM",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "One Hundred Pesetas\r\nFurther Beyond",
+    "picture": "https://en.numista.com/catalogue/photos/espagne/182-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/182-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "<p>1986 heads<br><a href=\"https://en.numista.com/catalogue/images/63988fd5b6695.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/63988fd5b6695.jpg\" alt=\"\"></a><br>1988 heads<br><a href=\"https://en.numista.com/catalogue/images/63988feb166a0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/63988feb166a0.jpg\" alt=\"\"></a><br><br>To face the problems that the previous circulating coins presented, mainly caused by inflation and the disparity among the prices of metals and the face value of some coins, on February 9th, 1982, the Delegated Commission for Economic Affairs within the Government of Spain proposed the introduction of new coins following the socio-economic context of the country. On March 14th of the same year, the Cabinet approved the proposal of the Commission and promulgated the <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.boe.es/buscar/doc.php?id=BOE-A-1982-16228\">Royal Decree 1417/1982</a>. That Royal Decree states that the previous 100 pesetas coin, even though essential, proved itself to be extremely uncomfortable for daily transactions due to its size; and, in its Article 3.1, introduced the specifications for a new coin to replace it. This new 100 pesetas coin would consist of 88.4% copper, 5% aluminum, 5% nickel, 1% iron and 0.6% manganese.<br><br>On July 15th, 1982, the Ministry of the Treasury gave the <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.boe.es/buscar/doc.php?id=BOE-A-1982-19984\">order</a> for the new coin to enter circulation on September 15th of that very same year. That fact that was celebrated by the FNMT with the issuance of a proof version in a special package.<br><br><a href=\"https://en.numista.com/catalogue/images/5951c70a6d4c1.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5951c70a6d4c1.jpg\" alt=\"\"></a><br><br>The new coin, which was also known as \"20 duros\", immediately became wildly popular among Spaniards. So much so, that when in 1983 the FNMT workers decided to go on strike, both the Mint and the Government suddenly found themselves with a huge problem when the demand for more coins could not be met. To solve it, the production of new coins was ordered to German mints and transported back to Spain in bags instead of rolls, as was the norm for the FNMT. They were put into circulation as soon as possible, but the distribution channels were not the usual ones. The numismatic consequence was that, while very easy to acquire in circulated condition, compared to any other year, it is relatively hard and expensive to find 1983 copies in uncirculated condition.<br><br>While maintaining the design elements of the coin, a Ministry of the Treasury order, issued on August 31st, 1990, changed the expression of the face value from letters to numbers. The reasons given for this change were the difficulty to use it by those foreign visitors unable to read Spanish and to get in line with the de facto standard on lettering, which uses numbers for the face value. Thus, a new type was born.</p>",
+  "related_types": [
+    {
+      "id": 6404,
+      "title": "100 Pesetas - Juan Carlos I (Value as \"100\"; no dots around rim)",
+      "category": "coin",
+      "country": {
+        "code": "espagne",
+        "name": "Spain"
+      },
+      "minYear": 1992,
+      "maxYear": 1992
+    },
+    {
+      "id": 2541,
+      "title": "100 Pesetas - Juan Carlos I (Value as \"100\"; dots around rim)",
+      "category": "coin",
+      "country": {
+        "code": "espagne",
+        "name": "Spain"
+      },
+      "minYear": 1998,
+      "maxYear": 2000
+    }
+  ],
+  "tags": [
+    "Mythology",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "826"
+    },
+    {
+      "catalogue": {
+        "id": 44,
+        "code": "Cal"
+      },
+      "number": "40"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "57"
+    }
+  ],
+  "weight": 9.25,
+  "orientation": "coin",
+  "edge": {
+    "description": "22 incuse fleurs-de-lis in a plain field.\n\nThere are two edge varieties: fleurs-de-lis up and fleurs-de-lis down. The first step to mint these coins was pressing the edge design into the flan. Then, the blanks with their edge already pressed entered randomly between the dies, causing the two orientations of the fleurs-de-lis. It is estimated that there is a 50% chance of each variety.",
+    "picture": "https://en.numista.com/catalogue/photos/espagne/694c196c0f5603.41604605-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/694c196c0f5603.41604605-180.jpg",
+    "picture_copyright": "ZacUK"
+  },
+  "mints": [
+    {
+      "id": 24,
+      "name": "Royal Mint of Madrid"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

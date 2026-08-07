@@ -1,0 +1,153 @@
+{
+  "id": 2997,
+  "url": "https://en.numista.com/2997",
+  "title": "1 Santeem (FAO)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "ethiopie",
+    "name": "Ethiopia"
+  },
+  "min_year": 1977,
+  "max_year": 2005,
+  "ruler": [
+    {
+      "id": 11490,
+      "name": "Provisional Military Administrative Council",
+      "wikidata_id": "Q828005"
+    },
+    {
+      "id": 1388,
+      "name": "Federal Democratic Republic",
+      "wikidata_id": "Q115"
+    }
+  ],
+  "value": {
+    "text": "1 Santim",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 6,
+      "name": "Birr",
+      "full_name": "Birr (1976-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 17,
+  "thickness": 1.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium (98% Aluminium, 2% Magnesium)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Stuart Devlin"
+    ],
+    "description": "Roaring Ethiopian lion bust facing right (Large head, uniform whiskers). Date below",
+    "lettering": "ኢትዮጵያ\r\n፲፱፻፷፱",
+    "lettering_scripts": [
+      {
+        "name": "Ge'ez"
+      }
+    ],
+    "lettering_translation": "Ethiopia\r\n10 9 100 60 9 (meaning (10+9)*100+60+9 = 1969) (Ethiopian calendar)",
+    "picture": "https://en.numista.com/catalogue/photos/ethiopie/5f062a8f9a98a7.86706135-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ethiopie/5f062a8f9a98a7.86706135-180.jpg",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Stuart Devlin"
+    ],
+    "description": "Pair of Oxen and Farmer",
+    "lettering": "1\r\nአንድ:ሳንቲም",
+    "lettering_scripts": [
+      {
+        "name": "Ge'ez"
+      }
+    ],
+    "lettering_translation": "1\r\nOne Santeem",
+    "picture": "https://en.numista.com/catalogue/photos/ethiopie/5f062a8fde0747.03875241-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ethiopie/5f062a8fde0747.03875241-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "commemorated_topic": "FAO",
+  "comments": "<span style=\"font-style:italic;\">Obverse</span><br />\r\nDie <span style=\"font-weight:bold;\">I</span> - Lion head to the right, thick script, long well graved locks of hair, the wiskers at the bottom are evenly cut.<br />\r\nDie<span style=\"font-weight:bold;\"> II</span> - Lion to the left, thin script, short locks of hair, there are two long wiskers at the bottom.<br />\r\nDie <span style=\"font-weight:bold;\">III</span> - Large lion head, details almost touch the rim.<br /><br />\r\n<span style=\"font-style:italic;\">Reverse</span><br />\r\nDie<span style=\"font-weight:bold;\"> A </span>- thick script, numeral 1 closer to peasant, details far from rim, the soil depicted with rould clods of earth.<br />\r\nDie <span style=\"font-weight:bold;\">B</span> - thin script, numeral 1 in the middle between peasant and horn of bull, details closer to rim, the soil depicted with hill-shape clods of earth.<br />\r\nDie <span style=\"font-weight:bold;\">C</span> - thick script, details close to rim, FM monogram to the right.<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5f2000418b475.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5f2000418b475.jpg\" alt=\"\" width=\"156\" height=\"250\" /></a><br />\r\nDies III and C are presented as the main photo of this article.<br /><br />\r\nCombinations:<br />\r\n<span style=\"font-weight:bold;\">I</span>+<span style=\"font-weight:bold;\">A</span> EE1969 (struck by Royal Mint in London, the Great Britain).<br />\r\n<span style=\"font-weight:bold;\">II</span>+<span style=\"font-weight:bold;\">B</span> EE1969 (struck by Berlin, German Democratic Republic), EE1996, EE1997.<br />\r\n<span style=\"font-weight:bold;\">III</span>+<span style=\"font-weight:bold;\">C</span> EE1969 (struck by Franklin Mint, the USA).<br /><br />\r\nCorrespondence to SCWC references:<br />\r\n<span style=\"font-weight:bold;\">I</span>+<span style=\"font-weight:bold;\">A</span> KM#43.1.<br />\r\n<span style=\"font-weight:bold;\">II</span>+<span style=\"font-weight:bold;\">B</span> EE1969 - KM#43.2; EE1996, EE1997 - KM#43.3.<br />\r\n<span style=\"font-weight:bold;\">III</span>+<span style=\"font-weight:bold;\">C</span> KM#43.3.<br /><br />\r\n<span style=\"font-style:italic;\">Notes</span>.<br />\r\n1. Position of lion head to the right and to the left on dies I and II sometimes by mistake is referred as small and large lion head, though the size does not differ much. See the size of lion head on the main image of this article, where die <span style=\"font-weight:bold;\">III </span>with large lion head is presented.<br />\r\n2. The attribution by SCWC of years EE1996 and EE1997 as KM#43.3 is most probably a typo.",
+  "tags": [
+    "Agriculture",
+    "Cow or bovine",
+    "Cat or feline",
+    "FAO"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "43.1"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "43.2"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "43.3"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "50"
+    }
+  ],
+  "weight": 0.6,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/ethiopie/5e9273e8e80b45.24346082-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ethiopie/5e9273e8e80b45.24346082-180.jpg",
+    "picture_copyright": "Wilson Roberto Vasques Nunes"
+  },
+  "mints": [
+    {
+      "id": 5,
+      "name": "Berlin"
+    },
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    },
+    {
+      "id": 4157,
+      "name": "VDM Metals / Vereinigte Deutsche Metallwerke"
+    },
+    {
+      "id": 4157,
+      "name": "VDM Metals / Vereinigte Deutsche Metallwerke"
+    },
+    {
+      "id": 1319,
+      "name": "Franklin Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

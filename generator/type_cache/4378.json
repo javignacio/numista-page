@@ -1,0 +1,105 @@
+{
+  "id": 4378,
+  "url": "https://en.numista.com/4378",
+  "title": "1 Franc - Mwambutsa IV",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "burundi",
+    "name": "Burundi"
+  },
+  "issuing_entity": {
+    "id": 726,
+    "name": "Bank of the Kingdom of Burundi",
+    "wikidata_id": "Q806937"
+  },
+  "min_year": 1965,
+  "max_year": 1965,
+  "ruler": [
+    {
+      "id": 1004,
+      "name": "Mwambutsa IV",
+      "wikidata_id": "Q627267"
+    }
+  ],
+  "value": {
+    "text": "1 Franc",
+    "numeric_value": 1,
+    "currency": {
+      "id": 73,
+      "name": "Franc",
+      "full_name": "Franc (1962-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23,
+  "thickness": 1.1,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass (70% Copper, 30% Zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms of Burundi, date below",
+    "lettering": "IBANKI Y'INGOMA Y'UBURUNDI\r\nGANZA SABWA\r\n1965",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/burundi/5e38751af12261.93429458-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/burundi/5e38751af12261.93429458-180.jpg",
+    "picture_copyright": "gdch6ng",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Denomination within circle",
+    "lettering": "BANQUE du ROYAUME du BURUNDI\r\n1F\r\nBRB",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Royal Bank of Burundi",
+    "picture": "https://en.numista.com/catalogue/photos/burundi/5e38751b9aaf47.99329630-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/burundi/5e38751b9aaf47.99329630-180.jpg",
+    "picture_copyright": "gdch6ng",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "tags": [
+    "Cat or feline",
+    "Music",
+    "Coat of Arms",
+    "Cold weapons"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "6"
+    }
+  ],
+  "weight": 4.106,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 5334,
+      "name": "Sudan Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

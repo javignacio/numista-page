@@ -1,0 +1,88 @@
+{
+  "id": 8733,
+  "url": "https://en.numista.com/8733",
+  "title": "20 Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "perou",
+    "name": "Peru"
+  },
+  "min_year": 1942,
+  "max_year": 1951,
+  "ruler": [
+    {
+      "id": 3757,
+      "name": "Republic",
+      "wikidata_id": "Q419"
+    }
+  ],
+  "value": {
+    "text": "20 Centavos",
+    "numeric_value": 0.2,
+    "currency": {
+      "id": 218,
+      "name": "Sol",
+      "full_name": "Sol (1863-1930) / Sol de Oro (1931-1985)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 24,
+  "thickness": 2.28,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The bust of a woman facing right and the country name above around the rim",
+    "lettering": "REPUBLICA PERUANA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/perou/6350ab4f03f555.14565138-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/6350ab4f03f555.14565138-180.jpg",
+    "picture_copyright": "ciscoins",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "The value to the right of a sprig",
+    "lettering": "20 CENTAVOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/perou/6350ab4f2c7523.73274436-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/6350ab4f2c7523.73274436-180.jpg",
+    "picture_copyright": "ciscoins",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/5da59fd6432b3.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5da59fd6432b3.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5da59fe6434a7.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5da59fe6434a7.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5da59ff5255bf.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5da59ff5255bf.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "221"
+    }
+  ],
+  "weight": 6.83,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

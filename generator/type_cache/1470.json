@@ -1,0 +1,147 @@
+{
+  "id": 1470,
+  "url": "https://en.numista.com/1470",
+  "title": "5 Öre - Gustaf V",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "suede",
+    "name": "Sweden"
+  },
+  "min_year": 1909,
+  "max_year": 1950,
+  "ruler": [
+    {
+      "id": 2364,
+      "name": "Gustaf V",
+      "wikidata_id": "Q52890",
+      "group": {
+        "id": 99,
+        "name": "House of Bernadotte"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Öre",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 18,
+      "name": "Krona",
+      "full_name": "Krona (1873-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 27,
+  "thickness": 1.75,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Crowned double monogram of King Gustaf V of Sweden divides date and the King's motto around the rim.",
+    "lettering": "MED FOLKET FÖR FOSTERLANDET\r\n19 GGV 14",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "With the People for the Motherland.",
+    "picture": "https://en.numista.com/catalogue/photos/suede/2062-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suede/2062-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "description": "The three crowns of Sweden divide the value in letters at the base of the lower crown with the value in number and below the mintmark of Stockholm mint above.",
+    "lettering": "5\r\nFEM ÖRE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Five Öre.",
+    "picture": "https://en.numista.com/catalogue/photos/suede/2063-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suede/2063-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "<p><a href=\"https://en.numista.com/catalogue/images/5642632a929a8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5642632a929a8.jpg\" alt=\"\"></a></p><p><a href=\"https://en.numista.com/catalogue/images/68405a69743b7.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/68405a69743b7.jpg\"></a></p><p>Small bust base (1909-1911)<br>Large bust base (1911-1950)</p><p>Large bust base mintmark 1910 are altered 1919 and/or 1940 coins and are considered fakes.</p><p><a href=\"https://en.numista.com/catalogue/images/5b83d46c72e8a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5b83d46c72e8a.jpg\" alt=\"\"></a><br><a href=\"https://en.numista.com/catalogue/images/684bdf7776af8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/684bdf7776af8.jpg\"></a></p><p>&nbsp;<a href=\"https://en.numista.com/catalogue/images/68704c9f72a62.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/68704c9f72a62.jpg\"></a></p><p><a href=\"https://en.numista.com/catalogue/images/6870f8fadbd8c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6870f8fadbd8c.jpg\"></a></p><p><a href=\"https://en.numista.com/catalogue/images/6871057f16054.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6871057f16054.jpg\"></a></p><p><a href=\"https://en.numista.com/catalogue/images/687112225b06a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/687112225b06a.jpg\"></a></p><p><a href=\"https://en.numista.com/catalogue/images/68711a577ae8d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/68711a577ae8d.jpg\"></a></p><p><a href=\"https://en.numista.com/catalogue/images/68712598b274a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/68712598b274a.jpg\"></a></p><p><a href=\"https://en.numista.com/catalogue/images/5d87395365c5d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d87395365c5d.jpg\" alt=\"\"></a></p><p><a href=\"https://en.numista.com/catalogue/images/68712c6f404ec.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/68712c6f404ec.jpg\"></a></p><p><a href=\"https://en.numista.com/catalogue/images/684bdfa011ca6.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/684bdfa011ca6.jpg\"></a></p><p><a href=\"https://en.numista.com/catalogue/images/687131ba40816.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/687131ba40816.jpg\"></a></p><p><a href=\"https://en.numista.com/catalogue/images/687137c3c9db7.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/687137c3c9db7.jpg\"></a></p><p><a href=\"https://en.numista.com/catalogue/images/68713ba2d2f90.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/68713ba2d2f90.jpg\"></a></p><p><a href=\"https://en.numista.com/catalogue/images/68306fd7e7f8b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/68306fd7e7f8b.jpg\"></a></p><p><a href=\"https://en.numista.com/catalogue/images/68714115a82d9.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/68714115a82d9.jpg\"></a></p>",
+  "related_types": [
+    {
+      "id": 4030,
+      "title": "1 Öre - Gustaf V",
+      "category": "coin",
+      "country": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "minYear": 1909,
+      "maxYear": 1950
+    },
+    {
+      "id": 4031,
+      "title": "2 Öre - Gustaf V",
+      "category": "coin",
+      "country": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "minYear": 1909,
+      "maxYear": 1950
+    },
+    {
+      "id": 5987,
+      "title": "5 Öre - Gustaf V",
+      "category": "coin",
+      "country": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "minYear": 1942,
+      "maxYear": 1950
+    }
+  ],
+  "tags": [
+    "Crown",
+    "Monogram"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "779"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "22"
+    }
+  ],
+  "weight": 8,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/suede/6865ee472f7a65.69347428-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suede/6865ee472f7a65.69347428-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 5989,
+      "name": "Kungliga Myntet"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

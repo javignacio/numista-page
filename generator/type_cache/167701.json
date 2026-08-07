@@ -1,0 +1,155 @@
+{
+  "id": 167701,
+  "url": "https://en.numista.com/167701",
+  "title": "5 Cents",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "curacao",
+    "name": "Curaçao"
+  },
+  "min_year": 1943,
+  "max_year": 1943,
+  "ruler": [
+    {
+      "id": 1923,
+      "name": "Wilhelmina",
+      "wikidata_id": "Q150747",
+      "nomisma_id": "queen_wilhelmina",
+      "group": {
+        "id": 754,
+        "name": "House of Orange-Nassau"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Cents",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 10298,
+      "name": "Gulden",
+      "full_name": "Gulden (1828-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 21.3,
+  "thickness": 1.5,
+  "shape": "Square with rounded corners",
+  "composition": {
+    "text": "Nickel brass (65% copper 12% nickel, 23% zinc or 64% copper, 18% nickel, 18% zinc (Alpaca))"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Johannes Cornelis Wienecke"
+    ],
+    "description": "Orange branch with fruit in inner circle, text in (old) Dutch between inner and outer circle, surrounded by design",
+    "lettering": "KONINGRIJK · DER · NEDERLANDEN",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Kingdom of The Netherlands",
+    "picture": "https://en.numista.com/catalogue/photos/curacao/671a77036af246.81408947-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/curacao/671a77036af246.81408947-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "Johannes Cornelis Wienecke"
+    ],
+    "description": "Denomination within circles, shells with 5 beads connected at corners with divided date on the left and right shells",
+    "lettering": "5c\r\n1943",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "5 cent",
+    "picture": "https://en.numista.com/catalogue/photos/curacao/671a7704944469.27862667-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/curacao/671a7704944469.27862667-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p>These coins were struck for both Suriname and Curaçao:<br><br><strong>1943 (P)</strong><br>------ 2'000'000 Curaçao (1'500'000 struck in 1944)<br>------ 6'595'000 Suriname (all struck in 1944)<br><br>The stuivers (5 cents) for Suriname and Curaçao were not made of copper-nickel, as the Dutch stuivers. This material was not available in the United States due to the Second World War. Two loads of copper-nickel-zinc (Gero Silver, after the company Gero, a cutlery factory) were used, with different compositions:<br>&nbsp;</p><ul><li>65% Cu + 12% Ni + 23% Zn<br>&nbsp;</li><li>64% Cu + 18% Ni + 18% Zn<br>&nbsp;</li></ul><p>For Curaçao coins were minted from the first load and from a mixture of both loads. For Suriname coins were minted from the second load, as well as a mixture of both loads.<br>(Source: \"De Beeldenaar\" 2014 nr. 6)<br><br>While Krause lists these coins under Curaçao (KM#40), more coins were struck for Suriname though, where it is listed in the later editions (KM#A9, 2019). Discussion has taken place where to put these coins in the Numista catalog. In the Dutch catalog Muntalmanak (Schulman), the coin is placed under the Netherlands and in the Dutch catalog regarding the overseas territories (Scholten) the coins can be found under the West-Indies section (1364). Passon catalog places this coin (and others) under 'Coins produced for Curaçao in American mints 1941-1944'.<br>The concerning referees decided to put them under both the countries on Numista.</p>",
+  "related_types": [
+    {
+      "id": 3370,
+      "title": "5 Cents",
+      "category": "coin",
+      "country": {
+        "code": "pays-bas",
+        "name": "Netherlands"
+      },
+      "minYear": 1913,
+      "maxYear": 1940
+    },
+    {
+      "id": 5046,
+      "title": "5 Cents",
+      "category": "coin",
+      "country": {
+        "code": "suriname",
+        "name": "Suriname"
+      },
+      "minYear": 1943,
+      "maxYear": 1943
+    }
+  ],
+  "tags": [
+    "Tree"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "40"
+    },
+    {
+      "catalogue": {
+        "id": 119,
+        "code": "Scho"
+      },
+      "number": "1364"
+    },
+    {
+      "catalogue": {
+        "id": 118,
+        "code": "Sch"
+      },
+      "number": "1285"
+    },
+    {
+      "catalogue": {
+        "id": 2209,
+        "code": "CNO"
+      },
+      "number": "63.3"
+    }
+  ],
+  "weight": 4.3,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

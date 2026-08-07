@@ -1,0 +1,114 @@
+{
+  "id": 5392,
+  "url": "https://en.numista.com/5392",
+  "title": "1000 Cruzeiros",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bresil",
+    "name": "Brazil"
+  },
+  "issuing_entity": {
+    "id": 900,
+    "name": "Central Bank of Brazil",
+    "wikidata_id": "Q806186"
+  },
+  "min_year": 1992,
+  "max_year": 1993,
+  "ruler": [
+    {
+      "id": 2684,
+      "name": "Federative Republic of Brazil",
+      "wikidata_id": "Q155"
+    }
+  ],
+  "value": {
+    "text": "1000 Cruzeiros",
+    "numeric_value": 1000,
+    "currency": {
+      "id": 209,
+      "name": "Cruzeiro",
+      "full_name": "Cruzeiro (1990-1993)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1994-06-01"
+  },
+  "size": 20,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Date to left of denomination. Amazon river flora",
+    "lettering": "BRASIL \r\n1993 1000 \r\ncruzeiros",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bresil/5e35f9c5de7696.91253161-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/5e35f9c5de7696.91253161-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "reverse": {
+    "description": "Two Acará fish (Pterophyllum) to right. Lettering above.",
+    "lettering": "ACARÁ",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bresil/5e35f9c4e27149.65348730-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/5e35f9c4e27149.65348730-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "comments": "<p>The Acará is the Angelfish (Pterophyllum) is a freshwater fish genus belonging to the family Cichlidae which currently consists of three endemic species of South America. It lives in shoals and feeds mainly on small crustaceans, fish, worms, insects and other organic materials. In the breeding season form couples who come to defend a territory and far from him all the fish that inhabit it.</p>",
+  "tags": [
+    "Fish"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "626"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "134"
+    },
+    {
+      "catalogue": {
+        "id": 1185,
+        "code": "AI Coins"
+      },
+      "number": "V427-428"
+    },
+    {
+      "catalogue": {
+        "id": 1678,
+        "code": "Bentes"
+      },
+      "number": "751"
+    }
+  ],
+  "weight": 2.96,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

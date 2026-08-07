@@ -1,0 +1,137 @@
+{
+  "id": 130025,
+  "url": "https://en.numista.com/130025",
+  "title": "1 Ouguiya",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "mauritanie",
+    "name": "Mauritania"
+  },
+  "min_year": 2017,
+  "max_year": 2018,
+  "ruler": [
+    {
+      "id": 777,
+      "name": "Islamic Republic",
+      "wikidata_id": "Q1025"
+    }
+  ],
+  "value": {
+    "text": "1 Ouguiya",
+    "numeric_value": 1,
+    "currency": {
+      "id": 7172,
+      "name": "New Ouguiya",
+      "full_name": "New Ouguiya (2018-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 19.9,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "National Seal. Face value, country name and year of issue.",
+    "lettering": "الجمهورية الإسلامية الموريتانية\r\n١٤٣٩ ١ أوقية",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "The Islamic Republic of Mauritania\r\n1439 1 Ouguiya",
+    "picture": "https://en.numista.com/catalogue/photos/mauritanie/135-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mauritanie/135-180.jpg",
+    "picture_copyright": "David Mikeladze"
+  },
+  "reverse": {
+    "description": "Teapot. Year of issue and face value.",
+    "lettering": "البنك المركزي الموريتاني\r\n2017 1 OUGUIYA",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "The Central Bank of Mauritania\r\n2017 1 Ouguiya",
+    "picture": "https://en.numista.com/catalogue/photos/mauritanie/136-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mauritanie/136-180.jpg",
+    "picture_copyright": "David Mikeladze"
+  },
+  "related_types": [
+    {
+      "id": 130024,
+      "title": "⅕ Ouguiya",
+      "category": "coin",
+      "country": {
+        "code": "mauritanie",
+        "name": "Mauritania"
+      },
+      "minYear": 2017,
+      "maxYear": 2018
+    },
+    {
+      "id": 130026,
+      "title": "5 Ouguiya",
+      "category": "coin",
+      "country": {
+        "code": "mauritanie",
+        "name": "Mauritania"
+      },
+      "minYear": 2017,
+      "maxYear": 2018
+    },
+    {
+      "id": 130027,
+      "title": "10 Ouguiya",
+      "category": "coin",
+      "country": {
+        "code": "mauritanie",
+        "name": "Mauritania"
+      },
+      "minYear": 2017,
+      "maxYear": 2018
+    },
+    {
+      "id": 130028,
+      "title": "20 Ouguiya",
+      "category": "coin",
+      "country": {
+        "code": "mauritanie",
+        "name": "Mauritania"
+      },
+      "minYear": 2017,
+      "maxYear": 2018
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "12"
+    }
+  ],
+  "weight": 4,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/mauritanie/137-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mauritanie/137-180.jpg",
+    "picture_copyright": "David Mikeladze"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,88 @@
+{
+  "id": 121360,
+  "url": "https://en.numista.com/121360",
+  "title": "4 Reales - Charles III",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "chili",
+    "name": "Chile"
+  },
+  "min_year": 1775,
+  "max_year": 1789,
+  "ruler": [
+    {
+      "id": 11585,
+      "name": "Charles III",
+      "wikidata_id": "Q36234",
+      "group": {
+        "id": 1015,
+        "name": "Viceroyalty of Spain, House of Bourbon"
+      }
+    }
+  ],
+  "value": {
+    "text": "4 Reales",
+    "numeric_value": 4,
+    "currency": {
+      "id": 1203,
+      "name": "Real",
+      "full_name": "Real (1541-1852)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 34.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.903)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Bust of Charles III, date below",
+    "lettering": "CAROLUS III DEI GRATIA\r\n1786",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chili/1063-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/1063-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "description": "Crowned pillars and arms",
+    "lettering": "HISPAN ET IND REX\r\nSo 4R DA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chili/1064-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/1064-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "34"
+    }
+  ],
+  "weight": 13.5337,
+  "orientation": "medal",
+  "edge": {
+    "description": "Chained"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

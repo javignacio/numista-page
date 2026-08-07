@@ -1,0 +1,121 @@
+{
+  "id": 957,
+  "url": "https://en.numista.com/957",
+  "title": "1 Cruzeiro",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bresil",
+    "name": "Brazil"
+  },
+  "min_year": 1942,
+  "max_year": 1956,
+  "ruler": [
+    {
+      "id": 2685,
+      "name": "Republic of the United States of Brazil",
+      "wikidata_id": "Q2414171"
+    }
+  ],
+  "value": {
+    "text": "1 Cruzeiro",
+    "numeric_value": 1,
+    "currency": {
+      "id": 204,
+      "name": "Cruzeiro",
+      "full_name": "Cruzeiro (1942-1967)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 23,
+  "thickness": 2.3,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze (90% Copper, 8% Aluminium, 2% Zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Walter Rodrigues Toledo"
+    ],
+    "description": "Topographical map of Brazil and the country name to the left.",
+    "lettering": "BRASIL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Brazil",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/6416650a760bc8.77009876-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/6416650a760bc8.77009876-180.jpg",
+    "picture_copyright": "Rogbert",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Benedito Ribeiro"
+    ],
+    "description": "Denomination, date at left.",
+    "lettering": "1942 1\r\nCRUZEIRO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bresil/6416650b9337b1.06820494-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/6416650b9337b1.06820494-180.jpg",
+    "picture_copyright": "Rogbert",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/6416638e5d262.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6416638e5d262.jpg\" alt=\"\" width=\"200\" height=\"161\" /></a><br />\r\n--------------------------------------------------------------------",
+  "tags": [
+    "Map"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "558"
+    },
+    {
+      "catalogue": {
+        "id": 1185,
+        "code": "AI Coins"
+      },
+      "number": "V224-V237"
+    },
+    {
+      "catalogue": {
+        "id": 1678,
+        "code": "Bentes"
+      },
+      "number": "705"
+    }
+  ],
+  "weight": 7,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/635f2b785de725.76344652-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/635f2b785de725.76344652-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 1335,
+      "name": "Mint of Brazil"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

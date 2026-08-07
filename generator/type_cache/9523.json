@@ -1,0 +1,126 @@
+{
+  "id": 9523,
+  "url": "https://en.numista.com/9523",
+  "title": "10 Cents",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "suriname",
+    "name": "Suriname"
+  },
+  "min_year": 1987,
+  "max_year": 2017,
+  "ruler": [
+    {
+      "id": 1928,
+      "name": "Republic",
+      "wikidata_id": "Q730"
+    }
+  ],
+  "value": {
+    "text": "10 Cents",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 318,
+      "name": "Guilder",
+      "full_name": "Guilder (1826-2003)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 16,
+  "thickness": 1.33,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms supported by two natives. Legend below and the whole surrounded by wreath.",
+    "lettering": "JUSTITIA PIETAS FIDES\r\nSURINAME",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Justice, Piety, Faith",
+    "picture": "https://en.numista.com/catalogue/photos/suriname/138-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suriname/138-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "reverse": {
+    "description": "Denomination with year above. The whole surrounded by circle and wreath.",
+    "lettering": "2009\r\n10\r\nCENT",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/suriname/139-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suriname/139-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "comments": "<p>In 2004, the Surinamese gulden was replaced by the Surinamese dollar. This coin was revalued at 1/10 of a dollar.<br>&nbsp;</p><p>The Standard Catalog of World Coins originally stated that coins from 1987 to 1989 were made of nickel plated steel and classified them as KM# 13a. This has been corrected and those years are now classified as KM# 13. The current definition of KM# 13a is for nickel plated steel coins produced in 2021.<br><br><a href=\"https://en.numista.com/catalogue/images/64d949f2f0497.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64d949f2f0497.png\" alt=\"\"></a><br>Coat of arms of Suriname (Source: Wikipedia)</p>",
+  "related_types": [
+    {
+      "id": 1024,
+      "title": "10 Cents",
+      "category": "coin",
+      "country": {
+        "code": "suriname",
+        "name": "Suriname"
+      },
+      "minYear": 1962,
+      "maxYear": 1986
+    },
+    {
+      "id": 336418,
+      "title": "10 Cents",
+      "category": "coin",
+      "country": {
+        "code": "suriname",
+        "name": "Suriname"
+      },
+      "minYear": 2021,
+      "maxYear": 2021
+    }
+  ],
+  "tags": [
+    "Coat of Arms",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "13a"
+    }
+  ],
+  "weight": 2,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/suriname/140-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suriname/140-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 23,
+      "name": "Royal Dutch Mint"
+    },
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

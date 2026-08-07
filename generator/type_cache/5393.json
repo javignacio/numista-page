@@ -1,0 +1,94 @@
+{
+  "id": 5393,
+  "url": "https://en.numista.com/5393",
+  "title": "5 Cruzeiros Reais",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bresil",
+    "name": "Brazil"
+  },
+  "min_year": 1993,
+  "max_year": 1994,
+  "ruler": [
+    {
+      "id": 2684,
+      "name": "Federative Republic of Brazil",
+      "wikidata_id": "Q155"
+    }
+  ],
+  "value": {
+    "text": "5 Cruzeiros Reais",
+    "numeric_value": 5,
+    "currency": {
+      "id": 157,
+      "name": "Cruzeiro real",
+      "full_name": "Cruzeiro real (1993-1994)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1994-00-00"
+  },
+  "size": 21,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Date to left of denomination.",
+    "lettering": "BRASIL \r\n1994 5 \r\nCR$",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bresil/695bac65b9f0c3.60674833-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/695bac65b9f0c3.60674833-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "reverse": {
+    "description": "Two macaw parrots (Blue-and-yellow Macaw)\r\nBinomial name: Ara ararauna",
+    "lettering": "ARARA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bresil/695bac6751b3b1.84114853-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/695bac6751b3b1.84114853-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "tags": [
+    "Bird"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "627"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "136"
+    }
+  ],
+  "weight": 3.27,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

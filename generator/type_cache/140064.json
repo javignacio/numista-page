@@ -1,0 +1,111 @@
+{
+  "id": 140064,
+  "url": "https://en.numista.com/140064",
+  "title": "1 Hryvnia",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "ukraine",
+    "name": "Ukraine"
+  },
+  "issuing_entity": {
+    "id": 564,
+    "name": "National Bank of Ukraine",
+    "wikidata_id": "Q1070388"
+  },
+  "min_year": 2018,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 3209,
+      "name": "Republic",
+      "wikidata_id": "Q212"
+    }
+  ],
+  "value": {
+    "text": "1 Hryvnia",
+    "numeric_value": 1,
+    "currency": {
+      "id": 88,
+      "name": "Hryvnia",
+      "full_name": "Hryvnia (1996-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 18.9,
+  "thickness": 1.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Roman Chaikovskyi"
+    ],
+    "designers": [
+      "Volodymyr Demianenko",
+      "Roman Chaikovskyi"
+    ],
+    "description": "Ukrainian trident emblem (\"Tryzub\") over large numerical denomination inside decorative wreath",
+    "lettering": "УКРАЇНА\r\n1\r\nГРИВНЯ\r\n2018",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "UKRAINE\r\n1\r\nHRYVNIA\r\n2018",
+    "picture": "https://en.numista.com/catalogue/photos/ukraine/5f9009958d0612.37784880-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ukraine/5f9009958d0612.37784880-180.jpg",
+    "picture_copyright": "National Bank of Ukraine",
+    "picture_copyright_url": "http://www.bank.gov.ua"
+  },
+  "reverse": {
+    "engravers": [
+      "Roman Chaikovskyi"
+    ],
+    "designers": [
+      "Volodymyr Demianenko",
+      "Roman Chaikovskyi"
+    ],
+    "description": "Face of Volodymyr the Great",
+    "lettering": "ВОЛОДИМИР ВЕЛИКИЙ",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "Volodymyr the Great",
+    "picture": "https://en.numista.com/catalogue/photos/ukraine/5f900995ed48b6.19847719-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ukraine/5f900995ed48b6.19847719-180.jpg",
+    "picture_copyright": "National Bank of Ukraine",
+    "picture_copyright_url": "http://www.bank.gov.ua"
+  },
+  "tags": [
+    "Monarch",
+    "Coat of Arms"
+  ],
+  "weight": 3.3,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/ukraine/5f9009964a8887.59840442-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ukraine/5f9009964a8887.59840442-180.jpg",
+    "picture_copyright": "National Bank of Ukraine",
+    "picture_copyright_url": "http://www.bank.gov.ua"
+  },
+  "mints": [
+    {
+      "id": 1330,
+      "name": "National Bank of Ukraine Banknote Printing and Minting Works"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

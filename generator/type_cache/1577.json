@@ -1,0 +1,130 @@
+{
+  "id": 1577,
+  "url": "https://en.numista.com/1577",
+  "title": "1 Dollar - Elizabeth II (3rd portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "hong_kong",
+    "name": "Hong Kong"
+  },
+  "min_year": 1987,
+  "max_year": 1992,
+  "ruler": [
+    {
+      "id": 923,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 791,
+        "name": "British colony"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Dollar",
+    "numeric_value": 1,
+    "currency": {
+      "id": 48,
+      "name": "Dollar",
+      "full_name": "Dollar (1863-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25.5,
+  "thickness": 1.9,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Raphael David Maklouf"
+    ],
+    "description": "Crowned bust facing right",
+    "lettering": "QUEEN ELIZABETH THE SECOND",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/hong_kong/19-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hong_kong/19-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Throstur Magnusson"
+    ],
+    "description": "Standing crowned lion above date and value",
+    "lettering": "HONG 香 KONG\r\n圓 壹\r\n1991\r\nONE 港 DOLLAR",
+    "lettering_scripts": [
+      {
+        "name": "Chinese"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Hong Kong\nOne Dollar",
+    "picture": "https://en.numista.com/catalogue/photos/hong_kong/20-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hong_kong/20-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "related_types": [
+    {
+      "id": 1583,
+      "title": "1 Dollar - Elizabeth II (2nd portrait)",
+      "category": "coin",
+      "country": {
+        "code": "hong_kong",
+        "name": "Hong Kong"
+      },
+      "minYear": 1978,
+      "maxYear": 1980
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "63"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "44"
+    }
+  ],
+  "weight": 7.1,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/hong_kong/68d07b1c244125.32422063-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hong_kong/68d07b1c244125.32422063-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

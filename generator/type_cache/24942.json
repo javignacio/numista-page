@@ -1,0 +1,119 @@
+{
+  "id": 24942,
+  "url": "https://en.numista.com/24942",
+  "title": "2 Rupees",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "inde",
+    "name": "India"
+  },
+  "min_year": 2011,
+  "max_year": 2019,
+  "ruler": [
+    {
+      "id": 2943,
+      "name": "Republic",
+      "wikidata_id": "Q668"
+    }
+  ],
+  "value": {
+    "text": "2 Rupees",
+    "numeric_value": 2,
+    "currency": {
+      "id": 171,
+      "name": "Rupee",
+      "full_name": "Rupee (decimalized, 1957-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25,
+  "thickness": 1.54,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Ashoka Pillar Lion Capitol with the country name on both sides",
+    "lettering": "भारत INDIA\r\nसत्यमेव जयते",
+    "lettering_scripts": [
+      {
+        "name": "Devanagari"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "India INDIA\r\nTruth Alone Triumphs",
+    "picture": "https://en.numista.com/catalogue/photos/inde/2459-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/inde/2459-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "reverse": {
+    "description": "Denomination and date below the rupee symbol र flanked by lotus flowers",
+    "lettering": "₹\r\n2\r\n2013\r\n♦",
+    "lettering_scripts": [
+      {
+        "name": "Devanagari"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "₹\r\n2\r\n2013",
+    "picture": "https://en.numista.com/catalogue/photos/inde/3205-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/inde/3205-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "series": "New rupee sign (₹)",
+  "comments": "<p><a href=\"https://en.numista.com/catalogue/images/5a9577d5ae20e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5a9577d5ae20e.jpg\" alt=\"\"></a><br><br>Variety of reverse design: Different thickness of the numeral, different size of the design:<br><a href=\"https://en.numista.com/catalogue/images/5cba0e0ee55a2.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5cba0e0ee55a2.jpg\" alt=\"\"></a><br><br><i>Obverse design</i><br><br>Type <strong>1</strong>: legends far from Ashoka. Mintage in 2011-2018.<br>Type <strong>2</strong>: legends closer to Ashoka.<br><a href=\"https://en.numista.com/catalogue/images/5d562e298b496.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d562e298b496.jpg\" alt=\"\"></a><br><a href=\"https://en.numista.com/catalogue/images/698706ddb24a1.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/698706ddb24a1.jpg\"></a><br><a href=\"https://en.numista.com/catalogue/images/5d560ee8845b2.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d560ee8845b2.jpg\" alt=\"\"></a><br><br>2011 Mumbai Rupee symbol difference</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;thin &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;thick<br><a href=\"https://en.numista.com/catalogue/images/62aae937a7b05.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/62aae937a7b05.jpg\" alt=\"\"></a><br><br>2016 Kolkata thin and thik border difference<br><a href=\"https://en.numista.com/catalogue/images/631c615946f6b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/631c615946f6b.jpg\" alt=\"\"></a></p><p>&nbsp;</p><p>Examples of the various reeding, across multiple years and mints:</p><p><a href=\"https://en.numista.com/catalogue/images/691391be986d6.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/691391be986d6.jpg\"></a></p>",
+  "tags": [
+    "Cat or feline",
+    "Flower",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "395"
+    }
+  ],
+  "weight": 4.9,
+  "orientation": "medal",
+  "edge": {
+    "description": "Smooth or Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/inde/69d74592b4b296.33649676-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/inde/69d74592b4b296.33649676-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 1803,
+      "name": "Kolkata / Calcutta / Murshidabad"
+    },
+    {
+      "id": 1805,
+      "name": "Noida"
+    },
+    {
+      "id": 1806,
+      "name": "Hyderabad"
+    },
+    {
+      "id": 1804,
+      "name": "Mumbai / Bombay"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

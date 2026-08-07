@@ -1,0 +1,347 @@
+{
+  "id": 98273,
+  "url": "https://en.numista.com/98273",
+  "title": "Medalet - Official England Squad 2004 (David James)",
+  "object_type": {
+    "id": 219,
+    "name": "Collection medallions"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 2004,
+  "max_year": 2004,
+  "size": 27,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Football player name, head facing straight ahead, and position. 2 football players, 1 on each side of the player's head",
+    "lettering": "DAVID JAMES\r\nGOALKEEPER",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/60635f6a2dd745.65403314-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/60635f6a2dd745.65403314-180.jpg"
+  },
+  "reverse": {
+    "description": "England national football team logo in the center and date on top",
+    "lettering": "2004\r\nENGLAND\r\nTHE OFFICIAL ENGLAND SQUAD MEDAL COLLECTION",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/60635f6b42fee1.46531668-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/60635f6b42fee1.46531668-180.jpg"
+  },
+  "series": "The Official England Squad Medal Collection 2004",
+  "comments": "Part of the <span style=\"font-style:italic;\">Official England Squad Medal Collection 2004.</span><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5ceaa1b50c336.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5ceaa1b50c336.jpg\" alt=\"\" width=\"182\" height=\"250\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5ceaa1e5a780e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5ceaa1e5a780e.jpg\" alt=\"\" width=\"182\" height=\"250\" /></a>",
+  "related_types": [
+    {
+      "id": 58080,
+      "title": "Medalet - Official England Squad 2004 (John Terry)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2004,
+      "maxYear": 2004
+    },
+    {
+      "id": 98290,
+      "title": "Medalet - Official England Squad 2004 (David Beckham)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2004,
+      "maxYear": 2004
+    },
+    {
+      "id": 98270,
+      "title": "Medalet - Official England Squad 2004 (Joe Cole)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2004,
+      "maxYear": 2004
+    },
+    {
+      "id": 98280,
+      "title": "Medalet - Official England Squad 2004 (Owen Hargreaves)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2004,
+      "maxYear": 2004
+    },
+    {
+      "id": 98281,
+      "title": "Medalet - Official England Squad 2004 (Gary Neville)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2004,
+      "maxYear": 2004
+    },
+    {
+      "id": 98271,
+      "title": "Medalet - Official England Squad 2004 (Steven Gerrard)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2004,
+      "maxYear": 2004
+    },
+    {
+      "id": 98291,
+      "title": "Medalet - Official England Squad 2004 (Wayne Rooney)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2004,
+      "maxYear": 2004
+    },
+    {
+      "id": 98278,
+      "title": "Medalet - Official England Squad 2004 (Darius Vassell)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2004,
+      "maxYear": 2004
+    },
+    {
+      "id": 98288,
+      "title": "Medalet - Official England Squad 2004 (Frank Lampard)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2004,
+      "maxYear": 2004
+    },
+    {
+      "id": 98298,
+      "title": "Medalet - Official England Squad 2004 (Ian Walker)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2004,
+      "maxYear": 2004
+    },
+    {
+      "id": 98285,
+      "title": "Medalet - Official England Squad 2004 (Ashley Cole)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2004,
+      "maxYear": 2004
+    },
+    {
+      "id": 98275,
+      "title": "Medalet - Official England Squad 2004 (Paul Robinson)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2004,
+      "maxYear": 2004
+    },
+    {
+      "id": 98276,
+      "title": "Medalet - Official England Squad 2004 (Jonathan Woodgate)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2004,
+      "maxYear": 2004
+    },
+    {
+      "id": 98296,
+      "title": "Medalet - Official England Squad 2004 (Ledley King)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2004,
+      "maxYear": 2004
+    },
+    {
+      "id": 98286,
+      "title": "Medalet - Official England Squad 2004 (Paul Scholes)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2004,
+      "maxYear": 2004
+    },
+    {
+      "id": 98287,
+      "title": "Medalet - Official England Squad 2004 (Chris Kirkland)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2004,
+      "maxYear": 2004
+    },
+    {
+      "id": 98277,
+      "title": "Medalet - Official England Squad 2004 (Emile Heskey)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2004,
+      "maxYear": 2004
+    },
+    {
+      "id": 98297,
+      "title": "Medalet - Official England Squad 2004 (Jamie Carragher)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2004,
+      "maxYear": 2004
+    },
+    {
+      "id": 98283,
+      "title": "Medalet - Official England Squad 2004 (Kieron Dyer)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2004,
+      "maxYear": 2004
+    },
+    {
+      "id": 98293,
+      "title": "Medalet - Official England Squad 2004 (Sol Campbell)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2004,
+      "maxYear": 2004
+    },
+    {
+      "id": 98294,
+      "title": "Medalet - Official England Squad 2004 (Gareth Southgate)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2004,
+      "maxYear": 2004
+    },
+    {
+      "id": 98284,
+      "title": "Medalet - Official England Squad 2004 (Nicky Butt)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2004,
+      "maxYear": 2004
+    },
+    {
+      "id": 98289,
+      "title": "Medalet - Official England Squad 2004 (Michael Owen)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2004,
+      "maxYear": 2004
+    },
+    {
+      "id": 98282,
+      "title": "Medalet - Official England Squad 2004 (Phil Neville)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2004,
+      "maxYear": 2004
+    },
+    {
+      "id": 98272,
+      "title": "Medalet - Official England Squad 2004 (Sven-Göran Eriksson)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2004,
+      "maxYear": 2004
+    },
+    {
+      "id": 98292,
+      "title": "Medalet - Official England Squad 2004 (Wayne Bridge)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2004,
+      "maxYear": 2004
+    }
+  ],
+  "tags": [
+    "Coat of Arms",
+    "Soccer"
+  ],
+  "weight": 8.2,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "category": "exonumia",
+  "type": "Collection medallions"
+}

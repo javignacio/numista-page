@@ -1,0 +1,117 @@
+{
+  "id": 1057,
+  "url": "https://en.numista.com/1057",
+  "title": "25 Øre - Margrethe II",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "danemark",
+    "name": "Denmark"
+  },
+  "min_year": 1990,
+  "max_year": 2008,
+  "ruler": [
+    {
+      "id": 2404,
+      "name": "Margrethe II",
+      "wikidata_id": "Q102139",
+      "group": {
+        "id": 104,
+        "name": "House of Schleswig-Holstein-Sonderburg-Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "25 Øre",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 13,
+      "name": "Krone",
+      "full_name": "Krone (1873-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1991-01-29"
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2008-01-10"
+  },
+  "size": 17.5,
+  "thickness": 1.55,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze (97% Copper, 2.5% Zinc, 0.5% Tin)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Johan Alkjaer"
+    ],
+    "description": "Crown of Christian V (1646-1699) in center, dividing the date in two with the cross. Country name below, along the rim.",
+    "lettering": "19 90\r\nDANMARK",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "1990\r\nDenmark",
+    "picture": "https://en.numista.com/catalogue/photos/danemark/1393-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/1393-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "reverse": {
+    "description": "The face value with the heart of the Royal Mint (early issues with initials: LG ♥ JP at bottom).",
+    "lettering": "♥ \r\n25 \r\nØRE\r\nLG ♥ JP",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/danemark/1394-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/1394-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "comments": "<p>Two main groups of style are known.<br><br><i>Obverse</i><br>Die <strong>1</strong> - legend in flat font.<br>Die <strong>2</strong> - date in flat font, DANMARK outlined.<br><br><i>Reverse</i><br>Die <strong>A</strong> - ØRE in denomination in flat font.<br>Die <strong>B</strong> - ØRE in denomination outlined.<br><br><i>Combinations</i><br><strong>1</strong>+<strong>A</strong>: 1990-1995, 1999-2008.</p><p>Picture: © Images courtesy of Alexandr Prokofyev.</p><p><a href=\"https://en.numista.com/catalogue/images/66fd877948e9f.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/66fd877948e9f.jpg\"></a><br><strong>2</strong>+<strong>B</strong>: 1996-1998.<br><a href=\"https://en.numista.com/catalogue/images/61616667dc8c7.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/61616667dc8c7.jpg\" alt=\"\"></a><br><br>Initials on the 1990 coins.<br><a href=\"https://en.numista.com/catalogue/images/560aa9bf6a0af.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/560aa9bf6a0af.jpg\" alt=\"\"></a><a href=\"https://en.numista.com/catalogue/images/659de8f1cc87f.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/659de8f1cc87f.png\"></a>JD239<br>Ole</p>",
+  "tags": [
+    "Crown",
+    "Cross",
+    "Heart"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "868"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "84"
+    }
+  ],
+  "weight": 2.8,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/danemark/61790a6005f481.18328914-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/61790a6005f481.18328914-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 260,
+      "name": "Royal Danish Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

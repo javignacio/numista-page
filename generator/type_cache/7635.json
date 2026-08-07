@@ -1,0 +1,105 @@
+{
+  "id": 7635,
+  "url": "https://en.numista.com/7635",
+  "title": "1 Peseta Guineana",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "guinee_equatoriale",
+    "name": "Equatorial Guinea"
+  },
+  "min_year": 1969,
+  "max_year": 1969,
+  "ruler": [
+    {
+      "id": 1006,
+      "name": "Republic",
+      "wikidata_id": "Q983"
+    }
+  ],
+  "value": {
+    "text": "1 Peseta",
+    "numeric_value": 1,
+    "currency": {
+      "id": 328,
+      "name": "Peseta",
+      "full_name": "Peseta (1969-1975)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 19.5,
+  "thickness": 1.66,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Crossed elephant tusks, date below and year of issue in stars.",
+    "lettering": "REPÚBLICA DE GUINEA ECUATORIAL\r\n19 🟌 1969 🟌 69",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Equatorial Guinea",
+    "picture": "https://en.numista.com/catalogue/photos/guinee_equatoriale/698eb7858d5ad7.15902959-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/guinee_equatoriale/698eb7858d5ad7.15902959-180.jpg",
+    "picture_copyright": "Verbamint",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Coat of arms of Equatorial Guinea and denomination.",
+    "lettering": "1 PESETA GUINEANA\r\nUNIDAD PAZ JUSTICIA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "1 Guinean Peseta\r\nUnity Peace Justice",
+    "picture": "https://en.numista.com/catalogue/photos/guinee_equatoriale/698eb7862d8111.02825655-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/guinee_equatoriale/698eb7862d8111.02825655-180.jpg",
+    "picture_copyright": "Verbamint",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "1"
+    }
+  ],
+  "weight": 3.42,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 24,
+      "name": "Royal Mint of Madrid"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,92 @@
+{
+  "id": 189768,
+  "url": "https://en.numista.com/189768",
+  "title": "3 Pence - Edward VIII (Pattern)",
+  "object_type": {
+    "id": 6,
+    "name": "Patterns"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1937,
+  "max_year": 1937,
+  "ruler": [
+    {
+      "id": 273,
+      "name": "Edward VIII",
+      "wikidata_id": "Q590227",
+      "group": {
+        "id": 527,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "3 Pence",
+    "numeric_value": 0.0125,
+    "numerator": 1,
+    "denominator": 80,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1971)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 16,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.500)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Uncrowned bust of King Edward VIII left, legend around.",
+    "lettering": "EDWARDVS VIII D : G : BR : OMN : REX",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Edwardus VIII Dei Gratia Britanniarum Omnium Rex",
+    "lettering_translation": "Edward the Eighth by the Grace of God King of All the Britains",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/10749-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/10749-180.jpg",
+    "picture_copyright": "Royal Mint Museum",
+    "picture_copyright_url": "http://www.royalmintmuseum.org.uk/"
+  },
+  "reverse": {
+    "description": "Three intertwined rings, legend around.",
+    "lettering": "FID·DEF·IND·IMP·1937\r\nTHREE·PENCE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Fidei Defensor Indiae Imperator",
+    "lettering_translation": "Defender of the Faith Emperor of India",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/10750-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/10750-180.jpg",
+    "picture_copyright": "Royal Mint Museum",
+    "picture_copyright_url": "http://www.royalmintmuseum.org.uk/"
+  },
+  "comments": "Not listed in Krause &amp; Mischler SCWC.",
+  "references": [
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "4063"
+    }
+  ],
+  "weight": 1.41,
+  "orientation": "medal",
+  "category": "coin",
+  "type": "Patterns"
+}

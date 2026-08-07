@@ -1,0 +1,144 @@
+{
+  "id": 120,
+  "url": "https://en.numista.com/120",
+  "title": "2 Euros (1st map)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "grece",
+    "name": "Greece"
+  },
+  "min_year": 2002,
+  "max_year": 2006,
+  "ruler": [
+    {
+      "id": 1254,
+      "name": "Third Hellenic Republic",
+      "wikidata_id": "Q17765809"
+    }
+  ],
+  "value": {
+    "text": "2 Euros",
+    "numeric_value": 2,
+    "currency": {
+      "id": 9008,
+      "name": "Euro",
+      "full_name": "Euro (2002-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2002-01-01"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25.75,
+  "thickness": 2.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Georgios Stamatopoulos"
+    ],
+    "description": "A representation of the myth of the Abduction of Europa, the daughter of the Phoenician King Agenor, by Zeus, who had taken the form of a bull, is accompanied with the legend \"Ευρώπη\" (Europa) and the face value and encircled by the twelve stars of Europe.",
+    "lettering": "ΕΥΡΩΠΗ \r\nΓΣ\r\n2 ΕΥΡΩ \r\n2002",
+    "lettering_scripts": [
+      {
+        "name": "Greek"
+      }
+    ],
+    "lettering_translation": "Europa\r\nGS\r\n2 Euro\r\n2002",
+    "picture": "https://en.numista.com/catalogue/photos/grece/63c2ce3a511623.46526105-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/grece/63c2ce3a511623.46526105-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Luc Luycx"
+    ],
+    "description": "A map, next to the face value, shows the fifteen states of the European Union.",
+    "lettering": "2 EURO LL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/grece/63c2ce3b8069f8.14431010-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/grece/63c2ce3b8069f8.14431010-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p>Smaller and larger font variants seen on 2 euro coins <a href=\"https://en.numista.com/catalogue/images/641da9db6b791.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/641da9db6b791.jpg\" alt=\"\"></a><br>© tvladusi<br><br>The coin is issued in bankrolls and the above mint sets:<br><br>2002 Official Issue Hellenic Coin Set: The Official Blister 2002 was issued on 31 October 2002 with a mintage of 50,000 pieces. It contains the 1, 2, 5, 10, 20, 50 cent coins and 1, 2 euros. Greek euro coins feature a unique design for every one of the eight coins and they were all designed by Georgios Stamatopoulos.<br><img src=\"https://en.numista.com/catalogue/images/5da83b5015734.jpg\" alt=\"\"><br><br>2002 Official Issue Hellenic Coin Set produced by the Duch Mint: The Dutch version of the Greek Blister 2002 was issued in 2002 with a mintage of only 5,000 pieces. The only visible difference between the Greek and the Dutch version of the blister is the issuing authority, namely the Greek ministry of Economy and the Greek Ministry of Economics and Finance respectively.<br><img src=\"https://en.numista.com/catalogue/images/5da83baac9614.jpg\" alt=\"\"><br><br>2003 Official Issue Hellenic Coin Set: The Official Blister 2003 was issued in June 2003. It contains the 1, 2, 5, 10, 20, 50 cent coins and 1, 2 euros. Greek euro coins feature a unique design for every one of the eight coins and they were all designed by Georgios Stamatopoulos.<br><img src=\"https://en.numista.com/catalogue/images/5da83c54f419d.jpg\" alt=\"\"><br><br>2004 Official Issue Hellenic Coin Set: The Official 2004 Blister is dedicated to the \"Epikourios Apollo’s temple” and it was issued in May 2005 with a mintage of 30,000 pieces. It contains the 1, 2, 5, 10, 20, 50 cent coins and 1, 2 euros (BU). Bassae (Latin) or Bassai (meaning \"little vale in the rocks\") hosts the temple of Apollo Epikourios (\"Apollo the helper\"). It was designed by Iktinos, an architect of the Temple of Hephaestus and the Parthenon and the ancient writer Pausanias praises the temple as eclipsing all others but the temple of Athena at Tegea by the beauty of its stone and the harmony of its construction.<br><img src=\"https://en.numista.com/catalogue/images/5da83cbae333f.jpg\" alt=\"\"><br><br>2005 Official Issue Hellenic Coin Set: The Official Blister 2005 is dedicated to the \"Ancient coins of Athens”. It was issued on 11 January 2006 with a mintage of 25,000 pieces. The blister contains the 1, 2, 5, 10, 20, 50 cent coins and 1, 2 euros. Greek euro coins feature a unique design for every one of the eight coins and they were all designed by Georgios Stamatopoulos. The minor coins depict Greek ships, the middle coins portray famous Greeks and the two large denominations showing images of Greek history and mythology.<br><img src=\"https://en.numista.com/catalogue/images/5da83d56d41c9.jpg\" alt=\"\"><br><br>2006 Official Issue Hellenic Coin Set: The Official Blister 2006 is dedicated to the \"Ancient Greek coins\". It was issued on 11 January 2006 with a mintage of 25,000 pieces. The blister contains the 1, 2, 5, 10, 20, 50 cent coins and 1, 2 euros. Greek euro coins feature a unique design for every one of the eight coins and they were all designed by Georgios Stamatopoulos. The minor coins depict Greek ships, the middle coins portray famous Greeks and the two large denominations showing images of Greek history and mythology.<br><a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.numista.com/forum/images/5da84c52ba032.jpg\"><a href=\"https://en.numista.com/forum/images/5da84c52ba032.jpg\"><img src=\"https://en.numista.com/forum/images/miniatures/5da84c52ba032.jpg\" alt=\"\"></a></a></p>",
+  "related_types": [
+    {
+      "id": 6353,
+      "title": "2 Euros (2nd map)",
+      "category": "coin",
+      "country": {
+        "code": "grece",
+        "name": "Greece"
+      },
+      "minYear": 2007,
+      "maxYear": 2025
+    }
+  ],
+  "tags": [
+    "Cow or bovine",
+    "Map",
+    "Mythology"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "188"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "138"
+    }
+  ],
+  "weight": 8.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded with inscription",
+    "lettering": "ΕΛΛΗΝΙΚΗ ΔΗΜΟΚΡΑΤΙΑ",
+    "lettering_scripts": [
+      {
+        "name": "Greek"
+      }
+    ],
+    "lettering_translation": "Hellenic Republic",
+    "picture": "https://en.numista.com/catalogue/photos/grece/696666b9200297.25013761-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/grece/696666b9200297.25013761-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 1889,
+      "name": "National Mint of the Bank of Greece"
+    },
+    {
+      "id": 1334,
+      "name": "Mint of Finland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

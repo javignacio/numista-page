@@ -1,0 +1,158 @@
+{
+  "id": 10,
+  "url": "https://en.numista.com/10",
+  "title": "20 Francs",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "france",
+    "name": "France"
+  },
+  "min_year": 1992,
+  "max_year": 2001,
+  "ruler": [
+    {
+      "id": 11,
+      "name": "Fifth Republic",
+      "wikidata_id": "Q200686",
+      "group": {
+        "id": 89,
+        "name": "Modern France"
+      }
+    }
+  ],
+  "value": {
+    "text": "20 Francs",
+    "numeric_value": 20,
+    "currency": {
+      "id": 77,
+      "name": "New franc",
+      "full_name": "New franc (1960-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2005-02-17"
+  },
+  "size": 27,
+  "thickness": 2.23,
+  "shape": "Round",
+  "composition": {
+    "text": "Trimetallic: copper-aluminium-nickel core, nickel middle ring and copper-aluminium-nickel outer ring"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Jean-Pierre Réthoré",
+      "Atelier de Gravure (A.G.M.M.)"
+    ],
+    "designers": [
+      "Jean-Luc Maréchal"
+    ],
+    "description": "The Mont Saint-Michel (Mount Saint Michael), a rocky tidal island in Normandy, reflects in its bay",
+    "lettering": "RÉPUBLIQUE FRANÇAISE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/france/5f9dd6203f3f57.28774259-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/5f9dd6203f3f57.28774259-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "reverse": {
+    "engravers": [
+      "Atelier de Gravure (A.G.M.M.)"
+    ],
+    "description": "The face value crossed out with wide strips surrounded with the French motto (\"LIBERTÉ ÉGALITÉ FRATERNITÉ\")",
+    "lettering": "LIBERTÉ EGALITÉ\r\n20F\r\n1994\r\nFRATERNITÉ",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Liberty Equality\r\n20 Francs\r\n1993\r\nBrotherhood",
+    "picture": "https://en.numista.com/catalogue/photos/france/5f9dd620ac7ad6.19844417-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/5f9dd620ac7ad6.19844417-180.jpg",
+    "picture_copyright": "Jérémy Pureur"
+  },
+  "series": "20 francs Mont Saint Michel",
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/5e612f158432d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e612f158432d.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/604380624a2cd.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/604380624a2cd.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nDifferent privy marks throughout mintages.<br />\r\nDolphin 1992-94 Rousseau.<br />\r\nBee 1994-2000 Pierre Rodier<br />\r\nHorseshoe 2001 Gérard Buquoy",
+  "related_types": [
+    {
+      "id": 25,
+      "title": "20 Francs (Mediterranean Games)",
+      "category": "coin",
+      "country": {
+        "code": "france",
+        "name": "France"
+      },
+      "minYear": 1993,
+      "maxYear": 1993
+    },
+    {
+      "id": 26,
+      "title": "20 Francs (Pierre de Coubertin)",
+      "category": "coin",
+      "country": {
+        "code": "france",
+        "name": "France"
+      },
+      "minYear": 1994,
+      "maxYear": 1994
+    }
+  ],
+  "tags": [
+    "Religious building"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 34,
+        "code": "Franc 2014"
+      },
+      "number": "403"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "260"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1008"
+    },
+    {
+      "catalogue": {
+        "id": 109,
+        "code": "Gad 1789"
+      },
+      "number": "871"
+    }
+  ],
+  "weight": 9,
+  "orientation": "coin",
+  "edge": {
+    "description": "4 or 5 groups of reeds",
+    "picture": "https://en.numista.com/catalogue/photos/france/6952ad39a31802.50969713-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/6952ad39a31802.50969713-180.jpg",
+    "picture_copyright": "adnansami"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

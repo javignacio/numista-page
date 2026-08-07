@@ -1,0 +1,90 @@
+{
+  "id": 178135,
+  "url": "https://en.numista.com/178135",
+  "title": "1 Jiao",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "chine",
+    "name": "China, People's Republic of"
+  },
+  "min_year": 2019,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 1436,
+      "name": "People's Republic",
+      "wikidata_id": "Q148"
+    }
+  ],
+  "value": {
+    "text": "1 Jiao",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 198,
+      "name": "Rénmínbì",
+      "full_name": "Rénmínbì (1955-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2019-08-30"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 19,
+  "thickness": 1.75,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Orchid blossom and the issuing authority in Pinyin above",
+    "lettering": "ZHONGGUO RENMIN YINHANG",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "People's Bank of China",
+    "picture": "https://en.numista.com/catalogue/photos/chine/3813-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chine/3813-180.jpg"
+  },
+  "reverse": {
+    "description": "The issuing name above and the denomination in pinyin and Chinese below, and the date at the bottom of the coin",
+    "lettering": "中国人民银行\r\n1\r\nYI \r\nJIAO 角\r\n2019",
+    "lettering_scripts": [
+      {
+        "name": "Chinese"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "People's Republic of China\r\n1\r\nOne\r\nJiao Jiao\r\n2019",
+    "picture": "https://en.numista.com/catalogue/photos/chine/3814-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chine/3814-180.jpg"
+  },
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "2445"
+    }
+  ],
+  "weight": 3.2,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

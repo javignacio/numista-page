@@ -1,0 +1,181 @@
+{
+  "id": 907,
+  "url": "https://en.numista.com/907",
+  "title": "1 Escudo",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "portugal",
+    "name": "Portugal"
+  },
+  "min_year": 1927,
+  "max_year": 1968,
+  "ruler": [
+    {
+      "id": 1294,
+      "name": "Second Republic",
+      "wikidata_id": "Q17748736"
+    }
+  ],
+  "value": {
+    "text": "1 Escudo",
+    "numeric_value": 1,
+    "currency": {
+      "id": 65,
+      "name": "Escudo",
+      "full_name": "Escudo (1911-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 26.8,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass (Cu 610 + Zn 200 + Ni 190)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "José Simões de Almeida",
+      "Domingos Alves do Rego"
+    ],
+    "description": "Liberty head right, date lower right",
+    "lettering": "REPUBLICA PORTUGUESA - 1927\r\nSIMOÉS  REGO GR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Republica Portuguesa - 1927\r\nJosé Simões de Almeida - Alves Domingo Rego",
+    "lettering_translation": "Republic of Portugal - 1927",
+    "picture": "https://en.numista.com/catalogue/photos/portugal/62ca16b378eeb7.91085143-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/portugal/62ca16b378eeb7.91085143-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "reverse": {
+    "engravers": [
+      "José Simões de Almeida"
+    ],
+    "description": "Coat of arms of Portugal within designed circle and wreath above value",
+    "lettering": "1 ESCUDO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/portugal/62ca16b3dc4080.89290249-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/portugal/62ca16b3dc4080.89290249-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "series": "System 1927-1968",
+  "comments": "<p>Prova exists for 1968, undocumented by Krause. PROVA strike is a bit weak.</p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/6665d6eb4c189.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6665d6eb4c189.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/6665d6eb78ef8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6665d6eb78ef8.jpg\"></a></p>",
+  "related_types": [
+    {
+      "id": 20586,
+      "title": "1 Escudo (5 October 1910)",
+      "category": "coin",
+      "country": {
+        "code": "portugal",
+        "name": "Portugal"
+      },
+      "minYear": 1914,
+      "maxYear": 1914
+    },
+    {
+      "id": 11152,
+      "title": "1 Escudo",
+      "category": "coin",
+      "country": {
+        "code": "portugal",
+        "name": "Portugal"
+      },
+      "minYear": 1915,
+      "maxYear": 1916
+    },
+    {
+      "id": 11155,
+      "title": "1 Escudo",
+      "category": "coin",
+      "country": {
+        "code": "portugal",
+        "name": "Portugal"
+      },
+      "minYear": 1924,
+      "maxYear": 1926
+    },
+    {
+      "id": 775,
+      "title": "1 Escudo",
+      "category": "coin",
+      "country": {
+        "code": "portugal",
+        "name": "Portugal"
+      },
+      "minYear": 1969,
+      "maxYear": 1979
+    },
+    {
+      "id": 11952,
+      "title": "1 Escudo",
+      "category": "coin",
+      "country": {
+        "code": "portugal",
+        "name": "Portugal"
+      },
+      "minYear": 1981,
+      "maxYear": 1986
+    },
+    {
+      "id": 1241,
+      "title": "1 Escudo",
+      "category": "coin",
+      "country": {
+        "code": "portugal",
+        "name": "Portugal"
+      },
+      "minYear": 1986,
+      "maxYear": 2001
+    }
+  ],
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "578"
+    },
+    {
+      "catalogue": {
+        "id": 108,
+        "code": "Gomes"
+      },
+      "number": "R 25"
+    }
+  ],
+  "weight": 8,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/portugal/60b00daee86183.96365123-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/portugal/60b00daee86183.96365123-180.jpg",
+    "picture_copyright": "Bulgaria1999"
+  },
+  "mints": [
+    {
+      "id": 1337,
+      "name": "Imprensa Nacional - Casa da Moeda"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,131 @@
+{
+  "id": 5430,
+  "url": "https://en.numista.com/5430",
+  "title": "50 Pesos (National Constitution)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "colombie",
+    "name": "Colombia"
+  },
+  "min_year": 1986,
+  "max_year": 1989,
+  "ruler": [
+    {
+      "id": 4088,
+      "name": "Republic",
+      "wikidata_id": "Q739"
+    }
+  ],
+  "value": {
+    "text": "50 Pesos",
+    "numeric_value": 50,
+    "currency": {
+      "id": 147,
+      "name": "Peso decimalized",
+      "full_name": "Peso decimalized (1847-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 26.8,
+  "thickness": 2.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass (65% Copper, 20% Zinc, 15% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The small arms of Colombia above denomination, legend above",
+    "lettering": "REPUBLICA DE COLOMBIA\r\n50\r\nPESOS\r\n1989",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Colombia\r\n50\r\nPesos\r\n1988",
+    "picture": "https://en.numista.com/catalogue/photos/colombie/62dfec890b1d89.67385178-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/62dfec890b1d89.67385178-180.jpg",
+    "picture_copyright": "RuibaiK",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Capitolio Nacional in Bogotá",
+    "lettering": "CENTENARIO CONSTITUCION NACIONAL 1886\r\n*********\r\n1936 REFORMA CONSTITUCIONAL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Centenary of the National Constitution 1886\r\n1936 Constitutional Reform",
+    "picture": "https://en.numista.com/catalogue/photos/colombie/62dfec89644e06.35087459-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/62dfec89644e06.35087459-180.jpg",
+    "picture_copyright": "RuibaiK",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "commemorated_topic": "100th Anniversary of National Constitution; 50th Anniversary of Constitutional Reform",
+  "comments": "According to Hernández&#039; catalog, there exists a large date variety on year 1988, as reference H#645.",
+  "tags": [
+    "Other building",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "272"
+    },
+    {
+      "catalogue": {
+        "id": 347,
+        "code": "Hernández"
+      },
+      "number": "644"
+    },
+    {
+      "catalogue": {
+        "id": 347,
+        "code": "Hernández"
+      },
+      "number": "645"
+    },
+    {
+      "catalogue": {
+        "id": 348,
+        "code": "Restrepo"
+      },
+      "number": "441"
+    }
+  ],
+  "weight": 8.4,
+  "orientation": "coin",
+  "edge": {
+    "description": "Smooth with inscription",
+    "lettering": "** CASA DE MONEDA ** LIBERTAD Y ORDEN",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/colombie/1186-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/1186-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 4172,
+      "name": "Fábrica de Moneda de Ibagué"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

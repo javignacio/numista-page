@@ -1,0 +1,176 @@
+{
+  "id": 298,
+  "url": "https://en.numista.com/298",
+  "title": "1 Franc (Vichy French State - light type)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "france",
+    "name": "France"
+  },
+  "min_year": 1942,
+  "max_year": 1944,
+  "ruler": [
+    {
+      "id": 9,
+      "name": "French State",
+      "wikidata_id": "Q69808",
+      "group": {
+        "id": 89,
+        "name": "Modern France"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Franc",
+    "numeric_value": 1,
+    "currency": {
+      "id": 303,
+      "name": "Franc",
+      "full_name": "Franc (1795-1959)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2005-02-17"
+  },
+  "size": 23,
+  "thickness": 1.45,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Lucien Georges Bazor"
+    ],
+    "description": "Double-headed axe in the centre with an ear of wheat either side, lettering below. Lettering on top and bottom of axe and any mintmark to the left of the axe head",
+    "lettering": "S PACIS\r\nLB\r\nPETAIN\r\nETAT FRANÇAIS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "S Pacis\r\nLB\r\nPetain\r\nFrench State",
+    "picture": "https://en.numista.com/catalogue/photos/france/4509-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/4509-180.jpg",
+    "picture_copyright": "Subli37",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Lucien Georges Bazor"
+    ],
+    "description": "Oak leaves either side of the central numeral, lettering above, lettering below with the date",
+    "lettering": "TRAVAIL·FAMILLE·\r\n·PATRIE·\r\n1\r\n·FRANC·\r\n1943",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Work Family\nCountry\n1\nFranc\n1943",
+    "picture": "https://en.numista.com/catalogue/photos/france/4510-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/4510-180.jpg",
+    "picture_copyright": "Subli37",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "Three varieties of 1944 C are known.<br />\r\n1. Variety small C. The small C was done by using the awl of the 50 centimes Vichy 1944 C.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/654e130b69ec3.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/654e130b69ec3.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\n2. Large C is known in 2 main positions of the letter:<br />\r\nDie <span style=\"font-weight:bold;\">I</span> - &#039;C&#039; far from ax.<br />\r\nDie <span style=\"font-weight:bold;\">II</span> - &#039;C&#039; near ax. The discovery coin was published on 5, February 2016.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5dbd688842116.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5dbd688842116.jpg\" alt=\"\" width=\"185\" height=\"250\" /></a><br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5cf6a65a85a93.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5cf6a65a85a93.jpg\" alt=\"\" width=\"200\" height=\"142\" /></a>",
+  "related_types": [
+    {
+      "id": 18132,
+      "title": "1 Franc (Vichy French State - heavy type)",
+      "category": "coin",
+      "country": {
+        "code": "france",
+        "name": "France"
+      },
+      "minYear": 1942,
+      "maxYear": 1943
+    }
+  ],
+  "tags": [
+    "Wreath",
+    "Cold weapons"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 34,
+        "code": "Franc 2014"
+      },
+      "number": "223"
+    },
+    {
+      "catalogue": {
+        "id": 109,
+        "code": "Gad 1789"
+      },
+      "number": "471"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "902"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "213"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "902.1"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "902.2"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "902.3"
+    }
+  ],
+  "weight": 1.3,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain\r\nThe image shows both heavy KM#902.1 (bottom) and light KM#902.1-3 (top) type",
+    "picture": "https://en.numista.com/catalogue/photos/france/5076-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/5076-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    },
+    {
+      "id": 72,
+      "name": "Beaumont-le-Roger"
+    },
+    {
+      "id": 74,
+      "name": "Castelsarrasin"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

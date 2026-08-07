@@ -1,0 +1,119 @@
+{
+  "id": 8083,
+  "url": "https://en.numista.com/8083",
+  "title": "1 Penny - George IV (2nd issue)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1825,
+  "max_year": 1827,
+  "ruler": [
+    {
+      "id": 268,
+      "name": "George IV",
+      "wikidata_id": "Q130586",
+      "group": {
+        "id": 525,
+        "name": "House of Hanover"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Penny",
+    "numeric_value": 0.004166666666666667,
+    "numerator": 1,
+    "denominator": 240,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1971)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1971-08-31"
+  },
+  "size": 34,
+  "thickness": 2.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "William Wyon"
+    ],
+    "description": "Laureate portrait of King George IV facing left, legend around, date below.",
+    "lettering": "GEORGIUS IV  DEI GRATIA\r\n· 1825 ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "George the Fourth by the Grace of God",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/2631-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/2631-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "engravers": [
+      "William Wyon"
+    ],
+    "description": "Seated figure of Britannia facing right, trident in left hand and shield bearing the Union flag in right, legend around and national flower emblems in exergue.",
+    "lettering": "BRITANNIAR: REX FID: DEF:",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Britanniarum Rex Fidei Defensor",
+    "lettering_translation": "King of the Britains Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/2632-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/2632-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "The standard weight of these pieces was 24 to the pound avoirdupois (2/3 ounce or 291.7 grains each).<br /><br />\r\nThere are reports suggesting that the 1827 mintage was shipped to Tasmania, Australia, possibly via the British West Indies, and a large percentage was lost or damaged, making the year type a scarce issue but these reports seem little more than conjecture, with no evidential data.",
+  "tags": [
+    "Armour",
+    "Flower"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "693"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "3823"
+    }
+  ],
+  "weight": 18.9,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

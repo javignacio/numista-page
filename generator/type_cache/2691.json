@@ -1,0 +1,122 @@
+{
+  "id": 2691,
+  "url": "https://en.numista.com/2691",
+  "title": "5 Lekë (Magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "albanie",
+    "name": "Albania"
+  },
+  "min_year": 1995,
+  "max_year": 2023,
+  "ruler": [
+    {
+      "id": 583,
+      "name": "Fourth Republic",
+      "wikidata_id": "Q222"
+    }
+  ],
+  "value": {
+    "text": "5 Lekë",
+    "numeric_value": 5,
+    "currency": {
+      "id": 311,
+      "name": "New lek",
+      "full_name": "New lek (1965-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1997-01-01"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 20,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Kujtim Qami"
+    ],
+    "description": "Arms of Albania with the country name above around the rim and the date below",
+    "lettering": "REPUBLIKA E SHQIPERISE\r\n1995",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Albania",
+    "picture": "https://en.numista.com/catalogue/photos/albanie/5ffe16de53b447.07624657-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/albanie/5ffe16de53b447.07624657-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Kujtim Qami"
+    ],
+    "description": "Denomination to the left of a plant",
+    "lettering": "5\r\nLEKE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/albanie/5ffe16df4bd683.14071697-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/albanie/5ffe16df4bd683.14071697-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "Courtesy of <a href=\"http://coinz.eu/alb/1_all/02_5_leke_1995_2000_albanian_coins_en.php\" rel=\"nofollow\">coins.eu</a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5ba0190bdd7b5.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5ba0190bdd7b5.jpg\" alt=\"\" width=\"200\" height=\"86\" /></a><br />\r\nStarting in 2016 Albania added umlauts to coin designs:<br />\r\nThe lettering up to 2014 is “LEKE” and “SHQIPERISE”.(without umlaut on &quot;E&quot;)<br />\r\nThe lettering for 2020 is “LEKË” and “SHQIPËRISË”.(with umlaut on &quot;E&quot;)",
+  "tags": [
+    "Bird",
+    "Coat of Arms",
+    "Double-headed eagle"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "76"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "75"
+    }
+  ],
+  "weight": 3.12,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/albanie/6977806b088a39.06620919-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/albanie/6977806b088a39.06620919-180.jpg",
+    "picture_copyright": "billsmr",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 27,
+      "name": "Mint of Poland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

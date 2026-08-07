@@ -1,0 +1,110 @@
+{
+  "id": 45819,
+  "url": "https://en.numista.com/45819",
+  "title": "1 Peso (magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "republique_dominicaine",
+    "name": "Dominican Republic (1844-date)"
+  },
+  "min_year": 2008,
+  "max_year": 2018,
+  "ruler": [
+    {
+      "id": 4033,
+      "name": "Fourth Republic",
+      "wikidata_id": "Q786"
+    }
+  ],
+  "value": {
+    "text": "1 Peso",
+    "numeric_value": 1,
+    "currency": {
+      "id": 152,
+      "name": "Peso oro",
+      "full_name": "Peso oro (1937-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25,
+  "thickness": 2.1,
+  "shape": "Hendecagonal (11-sided)",
+  "composition": {
+    "text": "Brass plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of Arms, Face value",
+    "lettering": "1 PESO\r\nREPUBLICA DOMINICANA\r\nDIOS PATRIA LIBERTAD\r\nREPUBLICA DOMINICANA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/republique_dominicaine/596-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/republique_dominicaine/596-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "description": "Portrait of Juan Pablo Duarte y Diez (1813-1876), one of the founding fathers of the Dominican Republic",
+    "lettering": "PADRE DE LA PATRIA\r\nDUARTE\r\n2008",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/republique_dominicaine/595-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/republique_dominicaine/595-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "comments": "NOTE: Similar to KM#80, but brass-plated steel (magnetic) instead of brass (non-magnetic)<br /><br />\r\nTwo types of reverse:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5b63379c14c94.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5b63379c14c94.jpg\" alt=\"\" width=\"200\" height=\"113\" /></a><br />\r\n2016 is on left; 2008 is on the right (2014 matches 2008)<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5dd67e3e93c14.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5dd67e3e93c14.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "related_types": [
+    {
+      "id": 836,
+      "title": "1 Peso (non-magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "republique_dominicaine",
+        "name": "Dominican Republic (1844-date)"
+      },
+      "minYear": 1991,
+      "maxYear": 2008
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "102b"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "80a"
+    }
+  ],
+  "weight": 6.4,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 27,
+      "name": "Mint of Poland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

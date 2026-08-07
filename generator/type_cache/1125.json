@@ -1,0 +1,126 @@
+{
+  "id": 1125,
+  "url": "https://en.numista.com/1125",
+  "title": "6 Pence - George VI (1st coinage)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1937,
+  "max_year": 1946,
+  "ruler": [
+    {
+      "id": 274,
+      "name": "George VI",
+      "wikidata_id": "Q280856",
+      "group": {
+        "id": 527,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "6 Pence",
+    "numeric_value": 0.025,
+    "numerator": 1,
+    "denominator": 40,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1971)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1980-06-30"
+  },
+  "size": 19.3,
+  "thickness": 1,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.500)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Thomas Humphrey Paget"
+    ],
+    "description": "Uncrowned portrait of King George VI left, legend around.",
+    "lettering": "GEORGIVS VI D:G:BR:OMN:REX\r\nHP",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "George the Sixth by the Grace of God King of all the Britains",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/9664-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/9664-180.jpg",
+    "picture_copyright": "A. KOIFMAN JR"
+  },
+  "reverse": {
+    "engravers": [
+      "George Kruger Gray"
+    ],
+    "description": "Crowned royal cypher dividing date, legend above, denomination below.",
+    "lettering": "FID·DEF· ·IND·IMP\r\n19 GRI 46\r\nK · G\r\nSIXPENCE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Defender of the Faith Emperor of India\r\nKing George Emperor",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/9665-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/9665-180.jpg",
+    "picture_copyright": "A. KOIFMAN JR"
+  },
+  "comments": "The standard weight of these coins was 1/11 troy ounce (43.6 grains).",
+  "tags": [
+    "Crown",
+    "Monogram"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "852"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "4084"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "38"
+    }
+  ],
+  "weight": 2.83,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/6a34e008919ce2.47474112-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/6a34e008919ce2.47474112-180.jpg",
+    "picture_copyright": "Walter_Scott"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

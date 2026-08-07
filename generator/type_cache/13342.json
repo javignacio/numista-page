@@ -1,0 +1,116 @@
+{
+  "id": 13342,
+  "url": "https://en.numista.com/13342",
+  "title": "½ Sovereign - George VI",
+  "object_type": {
+    "id": 3,
+    "name": "Non-circulating coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1937,
+  "max_year": 1937,
+  "ruler": [
+    {
+      "id": 274,
+      "name": "George VI",
+      "wikidata_id": "Q280856",
+      "group": {
+        "id": 527,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "½ Sovereign",
+    "numeric_value": 0.5,
+    "numerator": 1,
+    "denominator": 2,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1971)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 19,
+  "thickness": 1,
+  "shape": "Round",
+  "composition": {
+    "text": "Gold (.9167)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Thomas Humphrey Paget"
+    ],
+    "description": "Uncrowned portrait of King George VI left, legend around.",
+    "lettering": "GEORGIVS VI D:G:BR:OMN:REX F:D:IND:IMP.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "George the Sixth by the Grace of God King of all the Britains Defender of the Faith Emperor of India",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/2079-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/2079-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "engravers": [
+      "Benedetto Pistrucci"
+    ],
+    "description": "St George on horseback slaying the dragon right, date in exergue.",
+    "lettering": "1937\r\nB.P.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/2080-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/2080-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "<p>The standard weight of a half sovereign was 80/623 troy ounce (61.6 grains). The pure gold content was 56 312/623 grains (3.6612 g).<br><br>This issue was a plain edge Proof only, struck in London. The 1 Matte Proof is thought to have been for the King himself.</p>",
+  "tags": [
+    "Fantasy animal",
+    "Horse or equine"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "858"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "4077"
+    }
+  ],
+  "weight": 3.99,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Non-circulating coins"
+}

@@ -1,0 +1,139 @@
+{
+  "id": 5824,
+  "url": "https://en.numista.com/5824",
+  "title": "½ Penny - Elizabeth II (1st portrait; without 'BRITT:OMN')",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1954,
+  "max_year": 1970,
+  "ruler": [
+    {
+      "id": 275,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 527,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "½ Penny",
+    "numeric_value": 0.0020833333333333333,
+    "numerator": 1,
+    "denominator": 480,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1970)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1969-08-01"
+  },
+  "size": 25.4,
+  "thickness": 1.3,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Mary Gillick"
+    ],
+    "description": "Young laureate bust of Queen Elizabeth II right, legend around.\r\n\r\nNote: without 'BRITT:OMN'",
+    "lettering": "+ELIZABETH·II·DEI·GRATIA·REGINA·F:D:",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Elizabeth II Dei Gratia Regina Fidei Defensatrix",
+    "lettering_translation": "Elizabeth II by the Grace of God Queen Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/2065-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/2065-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "engravers": [
+      "Thomas Humphrey Paget"
+    ],
+    "description": "Three-masted ship sailing left, denomination above, date below.",
+    "lettering": "HALF PENNY\r\nHP\r\n1958",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/2066-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/2066-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "<p>In 1968 approximately 40 million coins 1967 half pennies were minted at Llantrisant as part of the move from Tower Hill to South Wales. (<a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://library.royalmintmuseum.org.uk/archive/royal-mint-annual-reports/royal-mint-annual-report-1968-volume-no99/1799482\">Royal Mint Annual Report 1968 Volume No.99 Image 36 - The Royal Mint Museum</a>)</p><p><br>The standard weight of these pieces was 80 to the pound avoirdupois (1/5 ounce or 87½ grains).<br><br>The ship featured on the reverse design, which first appeared on the 1937 halfpenny pattern of Edward VIII, is based on Sir Francis Drake's Golden Hind, in which he became the first Englishman to circumnavigate the globe between 1577 and 1580.<br><br>We are indebted to Declan Magee and Numista member Sjoelund for their kind permission to reproduce the images below which list some of the varieties for this series.<br><br><i><strong>In 1954 there were two reverse varieties:</strong></i><br>Reverse A - L of HALF at a bead, smaller teeth<br>Reverse B - L of HALF between beads, longer teeth<br><a href=\"https://en.numista.com/catalogue/images/5a394c773b417.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5a394c773b417.jpg\" alt=\"\"></a><br><i><strong>In 1956 there were four obverse/reverse varieties:</strong></i><br>Obverse 3 / Reverse C - D of DEI between beads, I of DEI nearly at a bead, L of HALF between beads<br>Obverse 3 / Reverse D - D of DEI between beads, I of DEI nearly at a bead, L of HALF at a bead<br>Obverse 4 / Reverse C - D of DEI at a bead, I of DEI between beads, L of HALF between beads<br>Obverse 4 / Reverse D - D of DEI at a bead, I of DEI between beads, L of HALF at a bead<br><a href=\"https://en.numista.com/catalogue/images/5a394a3c2c13f.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5a394a3c2c13f.jpg\" alt=\"\"></a><br><i><strong>In 1957 there were two reverse varieties:</strong></i><br>Calm Sea<br>Normal (rough) Sea<br><a href=\"https://en.numista.com/catalogue/images/5a3949cf4402a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5a3949cf4402a.jpg\" alt=\"\"></a><br><i><strong>In 1958 there were three reverse varieties:</strong></i><br>Reverse E - 18.75 mm from mainmast to base of sea<br>Reverse F - 19.00 mm from mainmast to base of sea<br>Reverse G - 19.00 mm from mainmast to base of sea, shorter border teeth<br><i><strong>In 1967 &amp; on the 1970 Proof there were two rim varieties:</strong></i><br>Obverse 3 - Normal (narrow) rim, I of GRATIA directly at a tooth<br>Obverse 4 - Wide rim, I of GRATIA slightly to the left of a tooth<br><a href=\"https://en.numista.com/catalogue/images/6845af7694374.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6845af7694374.jpg\"></a><br><i><strong>For more about Halfpenny die variations:</strong></i><br><a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"http://www.brushwood.mintrasystems.com/cn1-shiphalfpenny.pdf\">http://www.brushwood.mintrasystems.com/cn1-shiphalfpenny.pdf</a><br><br>The 1970-dated proof strikes were issued as part of the 'Last Sterling' mint set which comprised the half-crown to halfpenny and were produced over the course of several years with the following mintages:<br>01/04/71-31/03/72 = 69,763<br>01/04/72-31/03/73 = 586,554<br>01/04/73-31/03/74 = 74,293<br>01/04/74-31/03/75 = 19,814</p>",
+  "related_types": [
+    {
+      "id": 668,
+      "title": "½ Penny - Elizabeth II (1st portrait; with 'BRITT:OMN')",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1953,
+      "maxYear": 1953
+    }
+  ],
+  "tags": [
+    "Boat or watercraft"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "896"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "4158"
+    }
+  ],
+  "weight": 5.67,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/69234365631739.95825507-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/69234365631739.95825507-180.jpg",
+    "picture_copyright": "Vidushi",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    },
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

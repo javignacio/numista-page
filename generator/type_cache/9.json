@@ -1,0 +1,148 @@
+{
+  "id": 9,
+  "url": "https://en.numista.com/9",
+  "title": "10 Francs (Génie de la Liberté)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "france",
+    "name": "France"
+  },
+  "min_year": 1988,
+  "max_year": 2001,
+  "ruler": [
+    {
+      "id": 11,
+      "name": "Fifth Republic",
+      "wikidata_id": "Q200686",
+      "group": {
+        "id": 89,
+        "name": "Modern France"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Francs",
+    "numeric_value": 10,
+    "currency": {
+      "id": 77,
+      "name": "New franc",
+      "full_name": "New franc (1960-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2005-02-17"
+  },
+  "size": 23,
+  "thickness": 2.1,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: nickel centre in aluminium bronze ring (Ring: 92% Copper, 6% Aluminium, 2% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Jean-Luc Maréchal",
+      "Atelier de Gravure (A.G.M.M.)"
+    ],
+    "description": "A representation of the Génie de la Liberté (the Spirit of Freedom, approximately), a sculpture located at the top of the \"July Column\" in Paris, is flanked with the letters R and F, the initials of the French Republic. The rim constitutes a striated geometrical pattern.",
+    "lettering": "R F",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "République Française",
+    "lettering_translation": "French Republic",
+    "picture": "https://en.numista.com/catalogue/photos/france/5f9dd4986e4891.47003450-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/5f9dd4986e4891.47003450-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "reverse": {
+    "engravers": [
+      "Jean-Luc Maréchal",
+      "Atelier de Gravure (A.G.M.M.)"
+    ],
+    "description": "The face value, crossed out with wide stripes, is surrounded by the French motto: \"LIBERTÉ ÉGALITÉ FRATERNITÉ\" (liberty, equality, fraternity)",
+    "lettering": "LIBERTÉ EGALITÉ\r\n10F\r\n1989\r\nFRATERNITÉ",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Liberty Equality\r\nBrotherhood",
+    "picture": "https://en.numista.com/catalogue/photos/france/5f9dd498b4d939.41396241-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/5f9dd498b4d939.41396241-180.jpg",
+    "picture_copyright": "Jérémy Pureur"
+  },
+  "series": "10 francs génie de la Liberté",
+  "comments": "<p>A counterfeit 1989 coin:</p><p><a href=\"https://en.numista.com/catalogue/images/694e665a8cc7d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/694e665a8cc7d.jpg\"></a></p><p>A counterfeit 1990 coin:</p><p><a href=\"https://en.numista.com/catalogue/images/694e6685548a6.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/694e6685548a6.jpg\"></a></p><p>A counterfeit 1991 coin:</p><p><a href=\"https://en.numista.com/catalogue/images/694e669ae0a35.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/694e669ae0a35.jpg\"></a></p>",
+  "related_types": [
+    {
+      "id": 284996,
+      "title": "10 Francs (Genius of the Bastille; smooth edge)",
+      "category": "coin",
+      "country": {
+        "code": "france",
+        "name": "France"
+      },
+      "minYear": 1991,
+      "maxYear": 2001
+    }
+  ],
+  "tags": [
+    "Sculpture",
+    "Phrygian cap"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 34,
+        "code": "Franc 2014"
+      },
+      "number": "375"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "259"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "964.1"
+    },
+    {
+      "catalogue": {
+        "id": 109,
+        "code": "Gad 1789"
+      },
+      "number": "827"
+    }
+  ],
+  "weight": 6.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "5 groups of reeds",
+    "picture": "https://en.numista.com/catalogue/photos/france/6952ad16008090.94408330-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/6952ad16008090.94408330-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

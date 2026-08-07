@@ -1,0 +1,124 @@
+{
+  "id": 19072,
+  "url": "https://en.numista.com/19072",
+  "title": "2 Nuevos Soles (2nd type)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "perou",
+    "name": "Peru"
+  },
+  "min_year": 2010,
+  "max_year": 2015,
+  "ruler": [
+    {
+      "id": 3757,
+      "name": "Republic",
+      "wikidata_id": "Q419"
+    }
+  ],
+  "value": {
+    "text": "2 Soles",
+    "numeric_value": 2,
+    "currency": {
+      "id": 184,
+      "name": "Nuevo sol",
+      "full_name": "Nuevo sol (1991-2015) / Sol (2016-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 22.38,
+  "thickness": 2.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: brass centre in stainless steel ring"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms",
+    "lettering": "BANCO CENTRAL DE RESERVA DEL PERU\r\n2011",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Reserve Bank of Peru\r\n2013",
+    "picture": "https://en.numista.com/catalogue/photos/perou/680216a91e9114.20069947-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/680216a91e9114.20069947-180.jpg",
+    "picture_copyright": "Victor (Ukraine)"
+  },
+  "reverse": {
+    "description": "Nazca Lines Hummingbird",
+    "lettering": "2\r\nNUEVOS\r\nSOLES",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "2 New Sols",
+    "picture": "https://en.numista.com/catalogue/photos/perou/680216a98d3787.96705570-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/680216a98d3787.96705570-180.jpg",
+    "picture_copyright": "Victor (Ukraine)"
+  },
+  "related_types": [
+    {
+      "id": 3004,
+      "title": "2 Nuevos Soles (1st type)",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 1994,
+      "maxYear": 2009
+    },
+    {
+      "id": 85952,
+      "title": "2 Soles",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 2016,
+      "maxYear": 2026
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Coat of Arms",
+    "Cornucopia"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "343"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "110"
+    }
+  ],
+  "weight": 5.58,
+  "orientation": "coin",
+  "edge": {
+    "description": "Interrupted reeding",
+    "picture": "https://en.numista.com/catalogue/photos/perou/64b3197ff14d82.45052209-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/64b3197ff14d82.45052209-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

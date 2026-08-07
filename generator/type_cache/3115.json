@@ -1,0 +1,138 @@
+{
+  "id": 3115,
+  "url": "https://en.numista.com/3115",
+  "title": "10 Cents - Wilhelmina",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "pays-bas",
+    "name": "Netherlands"
+  },
+  "min_year": 1948,
+  "max_year": 1948,
+  "ruler": [
+    {
+      "id": 1301,
+      "name": "Wilhelmina",
+      "wikidata_id": "Q150747",
+      "nomisma_id": "queen_wilhelmina",
+      "group": {
+        "id": 750,
+        "name": "House of Orange-Nassau"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Cents",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 70,
+      "name": "Gulden",
+      "full_name": "Gulden (decimalized, 1817-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 15,
+  "thickness": 1.21,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Ludwig Oswald Wenckebach"
+    ],
+    "description": "Head of Queen Wilhelmina facing left",
+    "lettering": "WILHELMINA KONINGIN DER NEDERLANDEN",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Wilhelmina, Queen of the Netherlands",
+    "picture": "https://en.numista.com/catalogue/photos/pays-bas/671a44f243a1d2.38058009-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/671a44f243a1d2.38058009-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Denomination, divided date at sides, crown at top",
+    "lettering": "1948\r\n10 \r\nCENT",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/pays-bas/671a44f3325937.81421834-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/671a44f3325937.81421834-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p>NOTE: There is a mule variety which has the obverse of the Curaçao 1/10 Gulden. Depends on the position of the pearls on the crown pointing between NG letters. Also A closer to K.</p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/5ac4de2e9ef33.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5ac4de2e9ef33.jpg\" alt=\"\"></a></p><p>&nbsp;</p><p>Open 8 and closed 8 die varieties are known:</p><p><a href=\"https://en.numista.com/catalogue/images/69761fa7e5c96.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/69761fa7e5c96.png\"></a></p>",
+  "related_types": [
+    {
+      "id": 9743,
+      "title": "⅒ Gulden - Wilhelmina",
+      "category": "coin",
+      "country": {
+        "code": "curacao",
+        "name": "Curaçao"
+      },
+      "minYear": 1948,
+      "maxYear": 1948
+    }
+  ],
+  "tags": [
+    "Crown"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "177"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "62"
+    },
+    {
+      "catalogue": {
+        "id": 118,
+        "code": "Sch"
+      },
+      "number": "1075"
+    }
+  ],
+  "weight": 1.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/pays-bas/5fb058f8db3b62.77556289-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/5fb058f8db3b62.77556289-180.jpg",
+    "picture_copyright": "Fireberg",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 23,
+      "name": "Royal Dutch Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

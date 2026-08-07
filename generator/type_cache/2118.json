@@ -1,0 +1,151 @@
+{
+  "id": 2118,
+  "url": "https://en.numista.com/2118",
+  "title": "1 Dollar",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "hong_kong",
+    "name": "Hong Kong"
+  },
+  "min_year": 1994,
+  "max_year": 2019,
+  "ruler": [
+    {
+      "id": 923,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 791,
+        "name": "British colony"
+      }
+    },
+    {
+      "id": 924,
+      "name": "Special Administrative Region",
+      "wikidata_id": "Q8646"
+    }
+  ],
+  "value": {
+    "text": "1 Dollar",
+    "numeric_value": 1,
+    "currency": {
+      "id": 48,
+      "name": "Dollar",
+      "full_name": "Dollar (1863-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1993-10-00"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25.5,
+  "thickness": 1.9,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Joseph Yam"
+    ],
+    "description": "Bauhinia or Hong Kong orchid flower (Binomial Name: Bauhinia blakeana) above the issuer name",
+    "lettering": "香 港\r\nHONG KONG",
+    "lettering_scripts": [
+      {
+        "name": "Chinese"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Hong Kong\r\nHong Kong",
+    "picture": "https://en.numista.com/catalogue/photos/hong_kong/69069d08ec3653.75053785-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hong_kong/69069d08ec3653.75053785-180.jpg",
+    "picture_copyright": "eRBe56"
+  },
+  "reverse": {
+    "engravers": [
+      "Joseph Yam"
+    ],
+    "description": "The denomination in numerals above the date, and the denomination in Latin at the bottom",
+    "lettering": "壹 圓\r\n1\r\n1994\r\nONE DOLLAR",
+    "lettering_scripts": [
+      {
+        "name": "Chinese"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "One Dollar\r\n1\r\n1994\r\nOne Dollar",
+    "picture": "https://en.numista.com/catalogue/photos/hong_kong/69069d097ba716.35429461-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hong_kong/69069d097ba716.35429461-180.jpg",
+    "picture_copyright": "eRBe56"
+  },
+  "comments": "This coin differs from KM# 69 since it is not nickel-plated with steel and therefore not magnetic.<br />\r\nThis coin was initially struck under the reign of Elizabeth II and continues to be struck since the handover to China in 1997.",
+  "related_types": [
+    {
+      "id": 2117,
+      "title": "1 Dollar (magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "hong_kong",
+        "name": "Hong Kong"
+      },
+      "minYear": 1993,
+      "maxYear": 1993
+    },
+    {
+      "id": 5279,
+      "title": "1 Dollar (Special Administration Region)",
+      "category": "coin",
+      "country": {
+        "code": "hong_kong",
+        "name": "Hong Kong"
+      },
+      "minYear": 1997,
+      "maxYear": 1997
+    }
+  ],
+  "tags": [
+    "Flower"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "69a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "53a"
+    }
+  ],
+  "weight": 7.1,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,141 @@
+{
+  "id": 2237,
+  "url": "https://en.numista.com/2237",
+  "title": "1 Dollar - Elizabeth II",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "belize",
+    "name": "Belize (1973-date)"
+  },
+  "min_year": 1990,
+  "max_year": 2022,
+  "ruler": [
+    {
+      "id": 1090,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 1182,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Dollar",
+    "numeric_value": 1,
+    "currency": {
+      "id": 40,
+      "name": "Dollar",
+      "full_name": "Dollar (1973-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 27,
+  "thickness": 2,
+  "shape": "Decagonal (10-sided)",
+  "composition": {
+    "text": "Nickel brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Raphael David Maklouf"
+    ],
+    "description": "Crowned head of Queen Elizabeth II facing right.",
+    "lettering": "QUEEN ELIZABETH THE SECOND\r\nRDM",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/belize/6814ad1b769e27.42589189-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/belize/6814ad1b769e27.42589189-180.jpg",
+    "picture_copyright": "The Coinhouse Auctions"
+  },
+  "reverse": {
+    "engravers": [
+      "Robert Elderton"
+    ],
+    "description": "Carrack Santa Maria at centre with caravels Nina and Pinta in background.",
+    "lettering": "ONE DOLLAR\r\n$1\r\nBELIZE 2003",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/belize/6814ad1b7b04a3.22765501-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/belize/6814ad1b7b04a3.22765501-180.jpg",
+    "picture_copyright": "The Coinhouse Auctions"
+  },
+  "related_types": [
+    {
+      "id": 38561,
+      "title": "1 Dollar - Elizabeth II (Silver Proof issue)",
+      "category": "coin",
+      "country": {
+        "code": "belize",
+        "name": "Belize (1973-date)"
+      },
+      "minYear": 1990,
+      "maxYear": 1990
+    },
+    {
+      "id": 74284,
+      "title": "1 Dollar - Elizabeth II (Piedfort)",
+      "category": "coin",
+      "country": {
+        "code": "belize",
+        "name": "Belize (1973-date)"
+      },
+      "minYear": 1990,
+      "maxYear": 1990
+    }
+  ],
+  "tags": [
+    "Monarch",
+    "Flag",
+    "Boat or watercraft",
+    "Crown"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "99"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "98"
+    }
+  ],
+  "weight": 9,
+  "orientation": "medal",
+  "edge": {
+    "description": "Segmented reeding",
+    "picture": "https://en.numista.com/catalogue/photos/belize/698c2369159631.03849055-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/belize/698c2369159631.03849055-180.jpg",
+    "picture_copyright": "jasanche",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

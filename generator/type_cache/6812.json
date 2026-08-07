@@ -1,0 +1,107 @@
+{
+  "id": 6812,
+  "url": "https://en.numista.com/6812",
+  "title": "5 Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "chili",
+    "name": "Chile"
+  },
+  "min_year": 1975,
+  "max_year": 1976,
+  "ruler": [
+    {
+      "id": 3299,
+      "name": "Republic",
+      "wikidata_id": "Q298"
+    }
+  ],
+  "value": {
+    "text": "5 Centavos",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 146,
+      "name": "Peso",
+      "full_name": "Peso (1975-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21,
+  "thickness": 1.7,
+  "shape": "Dodecagonal (12-sided)",
+  "composition": {
+    "text": "Aluminium bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Louis-Oscar Roty"
+    ],
+    "description": "Andean condor on rock",
+    "lettering": "REPUBLICA DE CHILE \r\nSo",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Chile\r\nSo",
+    "picture": "https://en.numista.com/catalogue/photos/chili/5f5ba1378583e6.13950325-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/5f5ba1378583e6.13950325-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Value within laurel wreath",
+    "lettering": "5\r\nCENTAVOS\r\n1975",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "5\r\nCentavos\r\n1975",
+    "picture": "https://en.numista.com/catalogue/photos/chili/5f5ba13810f825.51499377-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/5f5ba13810f825.51499377-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "1976 exist only in sets.",
+  "tags": [
+    "Bird"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "204"
+    }
+  ],
+  "weight": 4.1,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/chili/6565f0afa2d8d1.79758035-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/6565f0afa2d8d1.79758035-180.jpg",
+    "picture_copyright": "Sjoelund",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

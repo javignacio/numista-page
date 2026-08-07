@@ -1,0 +1,136 @@
+{
+  "id": 2216,
+  "url": "https://en.numista.com/2216",
+  "title": "25 Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "argentine",
+    "name": "Argentina"
+  },
+  "min_year": 1993,
+  "max_year": 1996,
+  "ruler": [
+    {
+      "id": 3983,
+      "name": "Federal Republic",
+      "wikidata_id": "Q414"
+    }
+  ],
+  "value": {
+    "text": "25 Centavos",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 145,
+      "name": "Peso convertible",
+      "full_name": "Peso convertible (1992-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24.2,
+  "thickness": 1.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "In the field of the Cabildo building, the perimetral legend \"REPUBLICA ARGENTINA\" is at the top with a point at the beginning and end, with \"EN UNION Y LIBERTAD\" at the bottom of milled edge points",
+    "lettering": "REPUBLICA ARGENTINA \r\n· EN UNION Y LIBERTAD ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Argentinian Republic\r\n· In Union and Freedom ·",
+    "picture": "https://en.numista.com/catalogue/photos/argentine/1499-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/1499-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "description": "The denomination with the number \"25\" in the fields with the word \"centavos\" below and the date below, surrounded by points or granas.",
+    "lettering": "25\r\ncentavos\r\n1994",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/argentine/1500-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/1500-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "comments": "<p>Several varieties exist with differences in the building.<br><br>CJ# 4.2.2 - 1993 - South African Mint<br>&nbsp;(Entrance door pasted to the columns) (Year with thick numbers)</p><p><a href=\"https://en.numista.com/catalogue/images/656b5e7c51ce0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/656b5e7c51ce0.jpg\"></a><br>CJ# 4.2.3 - 1993 - South African Mint<br>&nbsp;(Entrance door with panel) (Year with thick numbers)<br>CJ# 4.2.4 - 1993 - Korea Mint<br>&nbsp;(Entrance door with a separation of the columns) (Year with <strong>thin</strong> numbers)<br>Picture: © Images courtesy of Alexandr Prokofyev<br><a href=\"https://en.numista.com/catalogue/images/6131d97b96beb.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6131d97b96beb.jpg\" alt=\"\"></a><br>CJ# 4.3.1 - 1994 - Royal Mint<br>&nbsp;(Entrance door with a separation of the columns) (Year with thin numbers)</p><p><a href=\"https://en.numista.com/catalogue/images/656b5e8f97a77.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/656b5e8f97a77.jpg\"></a><br>CJ# 4.3.2 - 1994 - South African Mint<br>&nbsp;(Entrance door pasted to the columns) (Year with thick numbers)<br>CJ# 4.3.3 - 1994 - South African Mint<br>&nbsp;(Entrance door with panel) (Year with thick numbers)<br>Picture: © Images courtesy of Alexandr Prokofyev<br><a href=\"https://en.numista.com/catalogue/images/6131d99c8763f.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6131d99c8763f.jpg\" alt=\"\"></a><br>CJ# 4.3.4 - 1994 - South African Mint<br>&nbsp;(Entrance door with panel) (Year with thick numbers) (magnetic)<br>CJ# 4.4.1 - 1996 - South African Mint<br>&nbsp;(Entrance door with grid) (Year with thin numbers)<br>CJ# 4.4.2 - 1996 - South African Mint<br>&nbsp;(Entrance door with grid) (Year with thin numbers) (mirroring background)<br><br>The different towers<br><a href=\"https://en.numista.com/catalogue/images/5548b72f58989.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5548b72f58989.jpg\" alt=\"\"></a><br><a href=\"https://en.numista.com/catalogue/images/56dab2dc88759.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/56dab2dc88759.jpg\" alt=\"\"></a><br><a href=\"https://en.numista.com/catalogue/images/56dab301adfef.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/56dab301adfef.jpg\" alt=\"\"></a><br><br>On the coin from 1996 two varieties on the fence of the balcony on the tower: without and with vertical bars.<br><a href=\"https://en.numista.com/catalogue/images/5d9e50f6c2109.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d9e50f6c2109.jpg\" alt=\"\"></a></p>",
+  "related_types": [
+    {
+      "id": 3256,
+      "title": "25 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 1992,
+      "maxYear": 2010
+    }
+  ],
+  "tags": [
+    "Government building",
+    "Museum",
+    "Tower"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "110a"
+    },
+    {
+      "catalogue": {
+        "id": 160,
+        "code": "CJ"
+      },
+      "number": "4"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "111a"
+    }
+  ],
+  "weight": 6.1,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/argentine/68f78e1e3cd0b6.01833623-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/68f78e1e3cd0b6.01833623-180.jpg",
+    "picture_copyright": "Vidushi",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 1299,
+      "name": "Korea Minting and Security Printing Corporation"
+    },
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    },
+    {
+      "id": 1300,
+      "name": "South African Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

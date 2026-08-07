@@ -1,0 +1,121 @@
+{
+  "id": 996,
+  "url": "https://en.numista.com/996",
+  "title": "1 Centavo",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "mexique",
+    "name": "Mexico"
+  },
+  "min_year": 1950,
+  "max_year": 1969,
+  "ruler": [
+    {
+      "id": 4029,
+      "name": "United Mexican States/Mexican Republic",
+      "wikidata_id": "Q96"
+    }
+  ],
+  "value": {
+    "text": "1 Centavo",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 150,
+      "name": "Peso",
+      "full_name": "Peso (1863-1992)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 16,
+  "thickness": 1.25,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass (85% Copper, 15% Zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Issuer's name above its coat of arms.",
+    "lettering": "ESTADOS UNIDOS MEXICANOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "United Mexican States",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/4403-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/4403-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "engravers": [
+      "Lorenzo Rafael"
+    ],
+    "designers": [
+      "Lorenzo Rafael"
+    ],
+    "description": "Ear of wheat at the center with leaves going to the sides and the denomination in numerals at the top-left, and the abbreviation for the denomination to the top-right with the date to the bottom-left and the mintmark to the bottom-right",
+    "lettering": "1 C.\r\n1965 \r\nMo",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/mexique/4404-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/4404-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "related_types": [
+    {
+      "id": 415448,
+      "title": "1 Centavo (Pattern; Aluminium)",
+      "category": "coin",
+      "country": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "minYear": 1955,
+      "maxYear": 1955
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "417"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "41"
+    }
+  ],
+  "weight": 2,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/627e9eaf3f67e5.62698762-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/627e9eaf3f67e5.62698762-180.jpg",
+    "picture_copyright": "Harryg",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 29,
+      "name": "Mexican Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

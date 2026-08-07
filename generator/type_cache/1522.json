@@ -1,0 +1,109 @@
+{
+  "id": 1522,
+  "url": "https://en.numista.com/1522",
+  "title": "10 Centimes (FAO)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "haiti",
+    "name": "Haiti (1804-date)"
+  },
+  "min_year": 1975,
+  "max_year": 1983,
+  "ruler": [
+    {
+      "id": 725,
+      "name": "Second Republic",
+      "wikidata_id": "Q3041766"
+    }
+  ],
+  "value": {
+    "text": "10 Centimes",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 86,
+      "name": "Third gourde",
+      "full_name": "Third gourde (1872-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 22.7,
+  "thickness": 1.39,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass (70% Copper, 18% Zinc, and 12% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Bust of Jean-Claude Duvalier, facing left",
+    "lettering": "REPUBLIQUE D'HAÏTI\r\n1975",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Haiti",
+    "picture": "https://en.numista.com/catalogue/photos/haiti/696cff605f43f4.43111105-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/haiti/696cff605f43f4.43111105-180.jpg",
+    "picture_copyright": "Hammad Numismatics",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Coat of Arms",
+    "lettering": "LIBERTÉ ∙ ÉGALITÉ ∙ FRATERNITÉ\r\nAUGMENTONS LA PRODUCTION ALIMENTAIRE\r\n∙ 10 ∙",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Liberty Equality Brotherhood\r\nIncrease [the] Food Production",
+    "picture": "https://en.numista.com/catalogue/photos/haiti/696cff6270af16.98097551-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/haiti/696cff6270af16.98097551-180.jpg",
+    "picture_copyright": "Hammad Numismatics",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "commemorated_topic": "F.A.O.",
+  "comments": "We must add the 1997 vintage",
+  "tags": [
+    "Coat of Arms",
+    "Politician",
+    "FAO"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "120"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "50"
+    }
+  ],
+  "weight": 4,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 12,
+      "name": "United States Mint of San Francisco"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

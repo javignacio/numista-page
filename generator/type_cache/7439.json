@@ -1,0 +1,152 @@
+{
+  "id": 7439,
+  "url": "https://en.numista.com/7439",
+  "title": "1 Peso (FAO)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "guinee_bissau",
+    "name": "Guinea-Bissau (1976-date)"
+  },
+  "min_year": 1977,
+  "max_year": 1977,
+  "ruler": [
+    {
+      "id": 5279,
+      "name": "Republic",
+      "wikidata_id": "Q1007"
+    }
+  ],
+  "value": {
+    "text": "1 Peso",
+    "numeric_value": 1,
+    "currency": {
+      "id": 503,
+      "name": "Peso",
+      "full_name": "Peso (1975-1997)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1997-05-00"
+  },
+  "size": 22,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass (79% Copper, 20% Zinc, 1% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "National arms, date below",
+    "lettering": "REPÚBLICA DA GUINÉ-BISSAU\r\nUNIDADE LUTA PROGRESSO\r\n* 1977 *",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/guinee_bissau/62be26be259244.84369335-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/guinee_bissau/62be26be259244.84369335-180.jpg",
+    "picture_copyright": "Ben-jamin",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "reverse": {
+    "description": "Denomination below legume plant",
+    "lettering": "1 PESO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/guinee_bissau/62be26be86e173.72301829-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/guinee_bissau/62be26be86e173.72301829-180.jpg",
+    "picture_copyright": "Ben-jamin",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "commemorated_topic": "F.A.O.",
+  "related_types": [
+    {
+      "id": 7438,
+      "title": "50 Centavos (FAO)",
+      "category": "coin",
+      "country": {
+        "code": "guinee_bissau",
+        "name": "Guinea-Bissau (1976-date)"
+      },
+      "minYear": 1977,
+      "maxYear": 1977
+    },
+    {
+      "id": 7437,
+      "title": "2½ Pesos (FAO)",
+      "category": "coin",
+      "country": {
+        "code": "guinee_bissau",
+        "name": "Guinea-Bissau (1976-date)"
+      },
+      "minYear": 1977,
+      "maxYear": 1977
+    },
+    {
+      "id": 4422,
+      "title": "5 Pesos (FAO)",
+      "category": "coin",
+      "country": {
+        "code": "guinee_bissau",
+        "name": "Guinea-Bissau (1976-date)"
+      },
+      "minYear": 1977,
+      "maxYear": 1977
+    },
+    {
+      "id": 11940,
+      "title": "20 Pesos (FAO)",
+      "category": "coin",
+      "country": {
+        "code": "guinee_bissau",
+        "name": "Guinea-Bissau (1976-date)"
+      },
+      "minYear": 1977,
+      "maxYear": 1977
+    }
+  ],
+  "tags": [
+    "FAO",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "18"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "18"
+    }
+  ],
+  "weight": 4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

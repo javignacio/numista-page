@@ -1,0 +1,168 @@
+{
+  "id": 56,
+  "url": "https://en.numista.com/56",
+  "title": "¼ Dollar \"Washington Quarter\" (Bicentennial)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "etats-unis",
+    "name": "United States"
+  },
+  "min_year": 1976,
+  "max_year": 1976,
+  "ruler": [
+    {
+      "id": 4720,
+      "name": "Federal republic",
+      "wikidata_id": "Q30"
+    }
+  ],
+  "value": {
+    "text": "¼ Dollar ",
+    "numeric_value": 0.25,
+    "numerator": 1,
+    "denominator": 4,
+    "currency": {
+      "id": 59,
+      "name": "Dollar",
+      "full_name": "Dollar (1785-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24.3,
+  "thickness": 1.75,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel clad copper"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "John Flanagan"
+    ],
+    "description": "The portrait in left profile of George Washington, the first President of the UNITED STATES from 1789 to 1797, is accompanied with the motto: \"IN GOD WE TRUST\" and surrounded with the lettering: \"LIBERTY\"",
+    "lettering": "LIBERTY \r\nIN GOD WE\r\nTRUST\r\nJF\r\nS\r\n1776-1976",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/5f03b26bc17f54.45852757-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/5f03b26bc17f54.45852757-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Jack L. Ahr"
+    ],
+    "description": "A Colonial patriot drummer facing left, with a victory torch surrounded with thirteen stars at the upper left, accompanied with the motto \"E PLURIBUS UNUM\" and surrounded with the face value and the lettering \"UNITED STATES OF AMERICA\"",
+    "lettering": "UNITED STATES of AMERICA\r\nE PLURIBUS\r\nUNUM\r\nJLA\r\nQUARTER DOLLAR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Out of Many, One",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/5f03b26c01b3f9.88424327-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/5f03b26c01b3f9.88424327-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "commemorated_topic": "200th Anniversary of the The United States Declaration of Independence, 1776-1976",
+  "comments": "<p>The American Revolution began in 1775, and this coin commemorates the 200th anniversary of the signing of the U.S. Declaration of Independence in 1776 (also known as the American Bicentennial), a widely celebrated event. All quarter dollars, half dollars, and dollars were struck with a special obverse for during 1975 and 1976, and were the first of America's \"modern\" circulating commemoratives, and are currently also the only circulating commemoratives to not to be part of a long multi-year series, then followed by the state quarters.<br><br>Of the coins without a mintmark, 376,000 were minted at the United States Bullion Depository, West Point. These coins are indistinguishable from the Philadelphia issue.</p>",
+  "related_types": [
+    {
+      "id": 21333,
+      "title": "¼ Dollar \"Washington Quarter\" (Bicentennial, Silver Issue)",
+      "category": "coin",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 1976,
+      "maxYear": 1976
+    },
+    {
+      "id": 1489,
+      "title": "½ Dollar \"Kennedy Half Dollar\" (Bicentennial)",
+      "category": "coin",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 1976,
+      "maxYear": 1976
+    },
+    {
+      "id": 3366,
+      "title": "1 Dollar \"Eisenhower Dollar\" (Bicentennial)",
+      "category": "coin",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 1976,
+      "maxYear": 1976
+    }
+  ],
+  "tags": [
+    "Music",
+    "Independence",
+    "Military leader",
+    "Politician",
+    "Hat"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "204"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "205"
+    }
+  ],
+  "weight": 5.67,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded (with 119 reeds)",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/3175-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/3175-180.jpg",
+    "picture_copyright": "DNO 14"
+  },
+  "mints": [
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    },
+    {
+      "id": 13,
+      "name": "United States Mint of West Point"
+    },
+    {
+      "id": 10,
+      "name": "United States Mint of Denver"
+    },
+    {
+      "id": 12,
+      "name": "United States Mint of San Francisco"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

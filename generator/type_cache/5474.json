@@ -1,0 +1,144 @@
+{
+  "id": 5474,
+  "url": "https://en.numista.com/5474",
+  "title": "2 Rupees (National Integration; hendecagonal type)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "inde",
+    "name": "India"
+  },
+  "issuing_entity": {
+    "id": 584,
+    "name": "Reserve Bank of India",
+    "wikidata_id": "Q944085"
+  },
+  "min_year": 1992,
+  "max_year": 2004,
+  "ruler": [
+    {
+      "id": 2943,
+      "name": "Republic",
+      "wikidata_id": "Q668"
+    }
+  ],
+  "value": {
+    "text": "2 Rupees",
+    "numeric_value": 2,
+    "currency": {
+      "id": 171,
+      "name": "Rupee",
+      "full_name": "Rupee (decimalized, 1957-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 26,
+  "thickness": 1.71,
+  "shape": "Hendecagonal (11-sided)",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The Asoka Lion capital and the numerical value below",
+    "lettering": "भारत INDIA\r\nसत्यमेव जयते \r\n रूपये 2 RUPEES",
+    "lettering_scripts": [
+      {
+        "name": "Devanagari"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/inde/2443-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/inde/2443-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "reverse": {
+    "description": "Flag on the map of India\r\n\r\nNOTE: varieties in map detail.",
+    "lettering": "राष्ट्रीय \r\nएकता \r\nNATIONAL \r\nINTEGRATION \r\n1998",
+    "lettering_scripts": [
+      {
+        "name": "Devanagari"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "National\r\nIntegration\r\nNational\r\nIntegration\r\n1998",
+    "picture": "https://en.numista.com/catalogue/photos/inde/3183-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/inde/3183-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "series": "NATIONAL INTEGRATION",
+  "comments": "Varieties of Asoka Lion on the obverse:<br />\r\nType A: Asoka Column 15mm tall, fur rows (5) on right lion curve away from body<br />\r\nType B: Asoka Column 14mm tall, fur rows (3-4) on right lion curve away from body<br />\r\nType C: Asoka Column 13mm tall, fur rows on right lion parallel to body, fur rows on central lion neat looking, thick legs.<br />\r\nType D: Asoka Column 13mm tall, fur rows on right lion parallel to body, fur rows on central lion messy looking, thin legs.<br /><br />\r\nThe Type C die was apparently re-cut to produce Type D. As such, some collectors don&#039;t recognise types C and D as separate varieties.<br /><br />\r\nVarieties in the map exist.<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/603fd8a1003fc.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/603fd8a1003fc.jpg\" alt=\"\" width=\"200\" height=\"235\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/6045bb569300d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6045bb569300d.jpg\" alt=\"\" width=\"200\" height=\"159\" /></a>",
+  "tags": [
+    "Cat or feline",
+    "Map",
+    "Coat of Arms",
+    "Flag"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "121"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "217"
+    }
+  ],
+  "weight": 6,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 1803,
+      "name": "Kolkata / Calcutta / Murshidabad"
+    },
+    {
+      "id": 1299,
+      "name": "Korea Minting and Security Printing Corporation"
+    },
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    },
+    {
+      "id": 1805,
+      "name": "Noida"
+    },
+    {
+      "id": 1806,
+      "name": "Hyderabad"
+    },
+    {
+      "id": 1804,
+      "name": "Mumbai / Bombay"
+    },
+    {
+      "id": 1872,
+      "name": "Pretoria"
+    },
+    {
+      "id": 6,
+      "name": "Moscow Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

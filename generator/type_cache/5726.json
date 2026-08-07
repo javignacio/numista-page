@@ -1,0 +1,187 @@
+{
+  "id": 5726,
+  "url": "https://en.numista.com/5726",
+  "title": "1 Cent - Elizabeth II (2nd portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "tuvalu",
+    "name": "Tuvalu"
+  },
+  "min_year": 1976,
+  "max_year": 1985,
+  "ruler": [
+    {
+      "id": 1085,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 806,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Cent",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 484,
+      "name": "Dollar",
+      "full_name": "Dollar (1976-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 17.5,
+  "thickness": 1.3,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze (97% Copper, 0.5% Tin, 2.5% Zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Arnold Machin"
+    ],
+    "description": "Crowned portrait of the young Queen Elizabeth II to the right",
+    "lettering": "QUEEN ELIZABETH THE SECOND",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/tuvalu/67c9c6ebf1c0f3.43850596-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/tuvalu/67c9c6ebf1c0f3.43850596-180.jpg",
+    "picture_copyright": "Numismatica Quetzalcoatl",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Avril Vaughan"
+    ],
+    "designers": [
+      "John Donald"
+    ],
+    "description": "Lambis shell and value",
+    "lettering": "TUVALU\r\n1c\r\n1976",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/tuvalu/67c9c6ec612f43.72723899-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/tuvalu/67c9c6ec612f43.72723899-180.jpg",
+    "picture_copyright": "Numismatica Quetzalcoatl",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "related_types": [
+    {
+      "id": 10036,
+      "title": "2 Cents - Elizabeth II (2nd portrait)",
+      "category": "coin",
+      "country": {
+        "code": "tuvalu",
+        "name": "Tuvalu"
+      },
+      "minYear": 1976,
+      "maxYear": 1985
+    },
+    {
+      "id": 12138,
+      "title": "5 Cents - Elizabeth II (2nd portrait)",
+      "category": "coin",
+      "country": {
+        "code": "tuvalu",
+        "name": "Tuvalu"
+      },
+      "minYear": 1976,
+      "maxYear": 1985
+    },
+    {
+      "id": 12139,
+      "title": "10 Cents - Elizabeth II (2nd portrait)",
+      "category": "coin",
+      "country": {
+        "code": "tuvalu",
+        "name": "Tuvalu"
+      },
+      "minYear": 1976,
+      "maxYear": 1985
+    },
+    {
+      "id": 12140,
+      "title": "20 Cents - Elizabeth II (2nd portrait)",
+      "category": "coin",
+      "country": {
+        "code": "tuvalu",
+        "name": "Tuvalu"
+      },
+      "minYear": 1976,
+      "maxYear": 1985
+    },
+    {
+      "id": 12141,
+      "title": "50 Cents - Elizabeth II (2nd portrait)",
+      "category": "coin",
+      "country": {
+        "code": "tuvalu",
+        "name": "Tuvalu"
+      },
+      "minYear": 1976,
+      "maxYear": 1985
+    },
+    {
+      "id": 12142,
+      "title": "1 Dollar - Elizabeth II (2nd portrait)",
+      "category": "coin",
+      "country": {
+        "code": "tuvalu",
+        "name": "Tuvalu"
+      },
+      "minYear": 1976,
+      "maxYear": 1985
+    }
+  ],
+  "tags": [
+    "Shell",
+    "Monarch",
+    "Crown",
+    "FAO"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "1"
+    }
+  ],
+  "weight": 2.6,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

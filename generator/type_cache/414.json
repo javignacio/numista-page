@@ -1,0 +1,110 @@
+{
+  "id": 414,
+  "url": "https://en.numista.com/414",
+  "title": "5 Cents - George V",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "canada",
+    "name": "Canada"
+  },
+  "min_year": 1922,
+  "max_year": 1936,
+  "ruler": [
+    {
+      "id": 1776,
+      "name": "George V",
+      "wikidata_id": "Q269412"
+    }
+  ],
+  "value": {
+    "text": "5 Cents",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 44,
+      "name": "Dollar",
+      "full_name": "Dollar (1858-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21.21,
+  "thickness": 1.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Edgar Bertram MacKennal"
+    ],
+    "description": "Bust of King George V, wearing a crown, facing left.",
+    "lettering": "GEORGIVS V DEI GRA: REX ET IND:IMP:",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "GEORGIVS V DEI GRATIA REX ET INDIA IMPERATOR",
+    "lettering_translation": "George V King and Emperor of India by the grace of God",
+    "picture": "https://en.numista.com/catalogue/photos/canada/1077-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/1077-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "designers": [
+      "William Henry James Blakemore"
+    ],
+    "description": "The face value surrounded by the inscription \"CANADA\" and two maple leaves",
+    "lettering": "CANADA\r\nFIVE 5 CENTS\r\n1928",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/canada/1078-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/1078-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "<p>In 1926 there are two varieties; the 'near 6' and the 'far 6'. This refers to the location of the '6' in '1926' relative to the maple leaf. Near '6' is the more common of the two and can be identified by the fact that the '6' nearly touches the maple leaf. The Far '6' is much more scarce.<br><br>Additionally, there are two main varieties of this coin that occurred during the years 1922, 1929, 1932, 1934 and 1936. These varieties refer to the position of the 'S' in 'CENTS' relative to the rim. Because this difference is so hard to distinguish, many of the dates are worth the same, regardless of the position of the 'S'.<br><br><a href=\"https://en.numista.com/catalogue/images/66e6a352808b3.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/66e6a352808b3.jpg\"></a><br>The 1926 variety of the six'es</p><p><a href=\"https://en.numista.com/catalogue/images/66e6a3d09ca06.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/66e6a3d09ca06.jpg\"></a></p><p>The 1932 variety of the two's<br><a href=\"https://en.numista.com/catalogue/images/66e6a3c857c75.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/66e6a3c857c75.jpg\"></a></p>",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "29"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "28"
+    }
+  ],
+  "weight": 4.54,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/canada/69a1495573d111.14665829-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/69a1495573d111.14665829-180.jpg",
+    "picture_copyright": "Bulgaria1999"
+  },
+  "mints": [
+    {
+      "id": 19,
+      "name": "Royal Canadian Mint of Ottawa"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,132 @@
+{
+  "id": 808,
+  "url": "https://en.numista.com/808",
+  "title": "50 Forint",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "hongrie",
+    "name": "Hungary"
+  },
+  "min_year": 1992,
+  "max_year": 2011,
+  "ruler": [
+    {
+      "id": 1801,
+      "name": "Republic",
+      "wikidata_id": "Q718422"
+    }
+  ],
+  "value": {
+    "text": "50 Forint",
+    "numeric_value": 50,
+    "currency": {
+      "id": 71,
+      "name": "Forint",
+      "full_name": "Forint (1946-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 27.4,
+  "thickness": 1.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "István Kósa"
+    ],
+    "description": "Saker Falcon to left, date below. This falcon (Falco cherrug) has an important population in Hungary. It is probably associated to the mythical Turul, important bird for the Hungarian people.",
+    "lettering": "MAGYAR KÖZTÁRSASÁG \r\n· 2009 ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "REPUBLIC OF HUNGARY\r\n· 2009 ·",
+    "picture": "https://en.numista.com/catalogue/photos/hongrie/62dbe47370c0d4.75871323-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hongrie/62dbe47370c0d4.75871323-180.jpg",
+    "picture_copyright": "Máté Bikfalvi",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "István Bartos"
+    ],
+    "description": "Denomination",
+    "lettering": "50 \r\nFORINT\r\nBP.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/hongrie/62dbe4748bd957.20313416-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hongrie/62dbe4748bd957.20313416-180.jpg",
+    "picture_copyright": "Máté Bikfalvi",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "related_types": [
+    {
+      "id": 28734,
+      "title": "50 Forint",
+      "category": "coin",
+      "country": {
+        "code": "hongrie",
+        "name": "Hungary"
+      },
+      "minYear": 2012,
+      "maxYear": 2026
+    }
+  ],
+  "tags": [
+    "Bird"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "697"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "202"
+    },
+    {
+      "catalogue": {
+        "id": 360,
+        "code": "Adamo"
+      },
+      "number": "F11"
+    }
+  ],
+  "weight": 7.6,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/hongrie/69cb0802101f55.24032663-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hongrie/69cb0802101f55.24032663-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 1248,
+      "name": "Hungarian mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

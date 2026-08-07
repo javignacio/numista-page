@@ -1,0 +1,118 @@
+{
+  "id": 46561,
+  "url": "https://en.numista.com/46561",
+  "title": "25 Cents - Elizabeth II (Laura Secord; colored)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "canada",
+    "name": "Canada"
+  },
+  "min_year": 2013,
+  "max_year": 2013,
+  "ruler": [
+    {
+      "id": 2095,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 827,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "25 Cents",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 44,
+      "name": "Dollar",
+      "full_name": "Dollar (1858-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23.88,
+  "thickness": 1.62,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel (Three-ply nickel finish plated steel)"
+  },
+  "technique": {
+    "text": "Milled, Coloured"
+  },
+  "obverse": {
+    "engravers": [
+      "Susan Taylor"
+    ],
+    "designers": [
+      "Susanna Blunt"
+    ],
+    "description": "Head of Queen Elizabeth II, as at 77 years of age, bare headed, wearing necklace and earrings, facing right.",
+    "lettering": "ELIZABETH II CANADA D•G•REGINA \r\n2013",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "ELIZABETH II DEI GRATIA REGINA",
+    "lettering_translation": "Elizabeth II Queen by the grace of God",
+    "picture": "https://en.numista.com/catalogue/photos/canada/7187-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/7187-180.jpg",
+    "picture_copyright": "eminem"
+  },
+  "reverse": {
+    "designers": [
+      "Bonnie Ross"
+    ],
+    "description": "Portrait of Laura Secord (right), with red maple leaf on left in which '1812' is inscribed.",
+    "lettering": "25 cents\r\nSecord\r\n1812\r\nBR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      },
+      {
+        "name": "Latin (cursive)"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/canada/7188-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/7188-180.jpg",
+    "picture_copyright": "eminem"
+  },
+  "series": "The War of 1812",
+  "commemorated_topic": "War of 1812",
+  "comments": "Laura Secord was a Canadian heroine during the War of 1812 between the United States of America and the British Empire (supported by Indigenous American peoples). In 1813, she is credited with having walked 32 km out of American territory to warn British forces of an impending attack. Ultimately, the Americans were ambushed by the British and Indigenous forces.",
+  "tags": [
+    "War"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1700a"
+    }
+  ],
+  "weight": 4.4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/canada/69604451bc23b9.04278825-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/69604451bc23b9.04278825-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

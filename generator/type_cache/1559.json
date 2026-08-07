@@ -1,0 +1,132 @@
+{
+  "id": 1559,
+  "url": "https://en.numista.com/1559",
+  "title": "1 Cent - Elizabeth II (2nd Portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "australie",
+    "name": "Australia"
+  },
+  "min_year": 1966,
+  "max_year": 1984,
+  "ruler": [
+    {
+      "id": 1783,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 825,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Cent",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 243,
+      "name": "Dollar",
+      "full_name": "Dollar (1966-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 17.53,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze (97% Copper, 2.5% Zinc, 0.5% Tin)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Arnold Machin"
+    ],
+    "description": "2nd portrait of Queen Elizabeth II facing right wearing the Girls of Great Britain and Ireland Tiara",
+    "lettering": "ELIZABETH II \r\nAUSTRALIA 1983",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/australie/65f5c583512d10.09163796-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/australie/65f5c583512d10.09163796-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "Stuart Devlin"
+    ],
+    "description": "Feather-tailed Glider, Acrobates pygmaeus, also called Pygmy Gliding Possum.",
+    "lettering": "1\r\nSD",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/australie/65f5c5845195a4.50153868-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/australie/65f5c5845195a4.50153868-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "Introduced in 1966 at the commencement of Decimal Currency in Australia the One Cent coin was struck in Bronze. This version of the coin with the Arnold Machin 2nd portrait of the Queen ran until 1984 when it was replaced in 1985 with the Raphael D. Makleouf 3rd Portrait.<br /><br />\r\nThe different mints on the 1966 coin (<a href=\"http://www.australian-threepence.com/blog/2010/03/australian-1966-1c-mint-marks.html\" rel=\"nofollow\">http://www.australian-threepence.com/blog/2010/03/australian-1966-1c-mint-marks.html</a>)<br />\r\n<a href=\"https://en.numista.com/catalogue/images/560bf1468edbb.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/560bf1468edbb.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\nOle<br /><br />\r\nThe Uncirculated and Proof sets were released every year from 1966 to 1984 except 1967 &amp; 1968 when none were produced.<br /><br />\r\nHere is the Proof 1 cent Coin in an Open 1966 Proof Set.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5d5e8bc01b614.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d5e8bc01b614.jpg\" alt=\"\" width=\"200\" height=\"106\" /></a><br /><br />\r\nHere is the coin in one of the rare Green Uncirculated 2 coin Cards that included a 1 cent and 2 cent coin.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5d5e8d1d6f581.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d5e8d1d6f581.jpg\" alt=\"\" width=\"200\" height=\"75\" /></a><br /><br />\r\nThe Fine Silver Proof Set of 2006 included a re-issued version of this coin. (See link below)",
+  "related_types": [
+    {
+      "id": 161175,
+      "title": "1 Cent - Elizabeth II (2nd Portrait; Fine Silver Proof)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 2006,
+      "maxYear": 2006
+    }
+  ],
+  "tags": [
+    "Marsupial"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "62"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "49"
+    }
+  ],
+  "weight": 2.59,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/australie/6989be2f8409f8.52867748-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/australie/6989be2f8409f8.52867748-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 28,
+      "name": "Royal Australian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

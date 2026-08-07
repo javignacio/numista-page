@@ -1,0 +1,68 @@
+{
+  "id": 102792,
+  "url": "https://en.numista.com/102792",
+  "title": "⅒ Escalin",
+  "object_type": {
+    "id": 8,
+    "name": "Fantasy coins"
+  },
+  "issuer": {
+    "code": "tortuga",
+    "name": "Tortuga Island"
+  },
+  "min_year": 2013,
+  "max_year": 2013,
+  "value": {
+    "text": "⅒ Escalin",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 11141,
+      "name": "Escalin",
+      "full_name": "Escalin"
+    }
+  },
+  "size": 13,
+  "thickness": 2.1,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms of Tortuga island\r\nDate",
+    "lettering": "Ile de la Tortue\r\n2013",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/tortuga/6724e875f165e1.47127050-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/tortuga/6724e875f165e1.47127050-180.jpg",
+    "picture_copyright": "Rojomano"
+  },
+  "reverse": {
+    "description": "Prawn\r\nScuba diving",
+    "lettering": "1/10 escalin",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/tortuga/6724e876713ea0.70531922-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/tortuga/6724e876713ea0.70531922-180.jpg",
+    "picture_copyright": "Rojomano"
+  },
+  "comments": "Tortuga (or Tortuga Island) (French: Île de la Tortue, IPA: [il də la tɔʁty]; Haitian Creole: Latòti; Spanish: Isla Tortuga, IPA: [ˈisla torˈtuɣa], Turtle Island) is a Caribbean island that forms part of Haiti, off the northwest coast of Hispaniola. It constitutes the commune of Île de la Tortue in the Port-de-Paix arrondissement of the Nord-Ouest Department of Haiti.<br /><br />\r\nTortuga is 180 square kilometres (69 square miles) in size and had a population of 25,936 at the 2003 Census. In the 17th century, Tortuga was a major center and haven of Caribbean piracy. Its tourist industry and reference in many works has made it one of the most recognized regions of Haiti.",
+  "tags": [
+    "Crustacean"
+  ],
+  "weight": 2.7,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "category": "exonumia",
+  "type": "Fantasy coins"
+}

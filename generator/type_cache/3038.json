@@ -1,0 +1,184 @@
+{
+  "id": 3038,
+  "url": "https://en.numista.com/3038",
+  "title": "20 Fils (non-magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "koweit",
+    "name": "Kuwait"
+  },
+  "min_year": 1962,
+  "max_year": 2011,
+  "ruler": [
+    {
+      "id": 2409,
+      "name": "Abdullah III Al-Salim Al-Sabah",
+      "wikidata_id": "Q2183167"
+    },
+    {
+      "id": 2410,
+      "name": "Sabah III Al-Salim Al-Sabah",
+      "wikidata_id": "Q2074907"
+    },
+    {
+      "id": 2411,
+      "name": "Jaber III al-Ahmad al-Sabah",
+      "wikidata_id": "Q217194"
+    },
+    {
+      "id": 2412,
+      "name": "Sabah IV Al-Ahmad Al-Jaber Al-Sabah",
+      "wikidata_id": "Q57555"
+    }
+  ],
+  "value": {
+    "text": "20 Fils",
+    "numeric_value": 0.02,
+    "currency": {
+      "id": 27,
+      "name": "Dinar",
+      "full_name": "Dinar (1960-1990 and 1991-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 20,
+  "thickness": 1.36,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Value in Arabic within the circle and the country name in Arabic above and in English below",
+    "lettering": "الكُوَيت\r\n٢٠\r\nًفَلسا \r\nKUWAIT",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Kuwait\r\n20\r\nFils",
+    "picture": "https://en.numista.com/catalogue/photos/koweit/125-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/koweit/125-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "reverse": {
+    "description": "Boom sailing ship, a type of dhow, sailing to the left with a small flag on the right side, and Islamic and Gregorian dates in Arabic below",
+    "lettering": "١٤٢٩ - ٢٠٠٨",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "2008 - 1429",
+    "picture": "https://en.numista.com/catalogue/photos/koweit/124-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/koweit/124-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "comments": "The coins of this type minted in 1997 have coarser reeded edge.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/61262b538f603.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/61262b538f603.png\" alt=\"\" width=\"200\" height=\"108\" /></a>",
+  "related_types": [
+    {
+      "id": 11754,
+      "title": "20 Fils (Emirate of Kuwait)",
+      "category": "coin",
+      "country": {
+        "code": "koweit",
+        "name": "Kuwait"
+      },
+      "minYear": 1961,
+      "maxYear": 1961
+    },
+    {
+      "id": 100830,
+      "title": "20 Fils (Gold)",
+      "category": "coin",
+      "country": {
+        "code": "koweit",
+        "name": "Kuwait"
+      },
+      "minYear": 1987,
+      "maxYear": 1987
+    },
+    {
+      "id": 76622,
+      "title": "20 Fils (Silver)",
+      "category": "coin",
+      "country": {
+        "code": "koweit",
+        "name": "Kuwait"
+      },
+      "minYear": 1987,
+      "maxYear": 2011
+    },
+    {
+      "id": 100839,
+      "title": "20 Fils (Silver Gilt)",
+      "category": "coin",
+      "country": {
+        "code": "koweit",
+        "name": "Kuwait"
+      },
+      "minYear": 2008,
+      "maxYear": 2011
+    },
+    {
+      "id": 17268,
+      "title": "20 Fils (Magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "koweit",
+        "name": "Kuwait"
+      },
+      "minYear": 2012,
+      "maxYear": 2018
+    }
+  ],
+  "tags": [
+    "Boat or watercraft"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "12"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "11"
+    }
+  ],
+  "weight": 3,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/koweit/6796e7114d9344.64001505-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/koweit/6796e7114d9344.64001505-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    },
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

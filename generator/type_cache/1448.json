@@ -1,0 +1,112 @@
+{
+  "id": 1448,
+  "url": "https://en.numista.com/1448",
+  "title": "5 Kroner - Harald V",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "norvege",
+    "name": "Norway"
+  },
+  "min_year": 1998,
+  "max_year": 2017,
+  "ruler": [
+    {
+      "id": 452,
+      "name": "Harald V",
+      "wikidata_id": "Q57287",
+      "group": {
+        "id": 358,
+        "name": "House of Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Kroner",
+    "numeric_value": 5,
+    "currency": {
+      "id": 16,
+      "name": "Krone",
+      "full_name": "Krone (1875-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 26,
+  "thickness": 2,
+  "shape": "Round with a round hole (4,4mm hole)",
+  "composition": {
+    "text": "Copper-nickel (Cu 75%, Ni 25%)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Ingrid Austlid Rise"
+    ],
+    "description": "Chain of the Order of Saint Olaf, around a hole. Surrounded by inscription. Mintmark on the bottom, left of the chain. Mintmaster's initials on the bottom, right of the chain. Solid ring on the rim.",
+    "lettering": "KONGERIKET NOREG\r\n⚒ JEJ",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Kingdom of Norway",
+    "picture": "https://en.numista.com/catalogue/photos/norvege/58-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/58-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Ingrid Austlid Rise"
+    ],
+    "description": "Center hole divides sprigs of Acanthus. Denomination above the hole. Date and value below the hole. Engraver's initials to the right of Acanthus sprig.",
+    "lettering": "5 \r\nIAR\r\n1999\r\nKRONER",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/norvege/59-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/59-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "<p>Two main groups of reverse are known.<br><br><i>Reverse</i><br>Die <strong>A</strong> - \"5\" with thickness at the ends, top right leaf with long cut.<br>Die <strong>B</strong> - \"5\" with even strokes at the ends, top right leaf with short cut.<br>Picture: © Images courtesy of Alexandr Prokofyev<br><a href=\"https://en.numista.com/catalogue/images/61957d52b99d2.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/61957d52b99d2.jpg\" alt=\"\"></a><br><br><i>Combinations</i><br><strong>A</strong>: 1998.<br><strong>B</strong>: 1999-2009, 2012, 2017.</p>",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "463"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "109"
+    }
+  ],
+  "weight": 7.85,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 1888,
+      "name": "Norwegian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

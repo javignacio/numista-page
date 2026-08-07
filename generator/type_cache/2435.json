@@ -1,0 +1,115 @@
+{
+  "id": 2435,
+  "url": "https://en.numista.com/2435",
+  "title": "10 Pesos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "colombie",
+    "name": "Colombia"
+  },
+  "min_year": 1981,
+  "max_year": 1989,
+  "ruler": [
+    {
+      "id": 4088,
+      "name": "Republic",
+      "wikidata_id": "Q739"
+    }
+  ],
+  "value": {
+    "text": "10 Pesos",
+    "numeric_value": 10,
+    "currency": {
+      "id": 147,
+      "name": "Peso decimalized",
+      "full_name": "Peso decimalized (1847-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 28,
+  "thickness": 1.85,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass (65% Copper, 20% Zinc, 15% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "A monument of José Maria Córdoba within an octagonal rim.",
+    "lettering": "REPUBLICA DE COLOMBIA\r\n1985\r\nCORDOBA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Colombia",
+    "picture": "https://en.numista.com/catalogue/photos/colombie/60be7e603a3772.56001957-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/60be7e603a3772.56001957-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Map of the San Andrés and Providencia Islands, Colombian archipelago located about 700 km northwest of Colombia, in the Caribbean Sea, off Nicaragua. 13°20'N 81°22'O are the coordinates of Providencia Island. 81°40'O is the coral reef longitude, east of Saint Andrés.",
+    "lettering": "ISLAS DE SAN ANDRES Y PROVIDENCIA\r\n13°20 81°22\r\n81°40\r\n10 PESOS COLOMBIA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "San Andres and Providencia Islands",
+    "picture": "https://en.numista.com/catalogue/photos/colombie/60be7e60e63565.42503242-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/60be7e60e63565.42503242-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "tags": [
+    "Horse or equine",
+    "Military leader",
+    "Sea",
+    "Map"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "270"
+    },
+    {
+      "catalogue": {
+        "id": 348,
+        "code": "Restrepo"
+      },
+      "number": "435"
+    },
+    {
+      "catalogue": {
+        "id": 347,
+        "code": "Hernández"
+      },
+      "number": "628-631"
+    }
+  ],
+  "weight": 10,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 280,
+      "name": "Bogota Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

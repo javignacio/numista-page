@@ -1,0 +1,95 @@
+{
+  "id": 27165,
+  "url": "https://en.numista.com/27165",
+  "title": "20 Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "chili",
+    "name": "Chile"
+  },
+  "min_year": 1879,
+  "max_year": 1893,
+  "ruler": [
+    {
+      "id": 3299,
+      "name": "Republic",
+      "wikidata_id": "Q298"
+    }
+  ],
+  "value": {
+    "text": "20 Centavos",
+    "numeric_value": 0.2,
+    "currency": {
+      "id": 237,
+      "name": "Peso",
+      "full_name": "Peso (1835-1959)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 23,
+  "thickness": 1.35,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.500)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Plumed arms within wreath",
+    "lettering": "REPUBLICA DE CHILE\r\n0.5.\r\nSo\r\n20 CENTs",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Chile\r\n0.5.\r\nSo\r\n20 cents",
+    "picture": "https://en.numista.com/catalogue/photos/chili/66346a5e7b09a0.81210989-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/66346a5e7b09a0.81210989-180.jpg",
+    "picture_copyright": "Quodlibet"
+  },
+  "reverse": {
+    "description": "Condor with wings spread and claw on shield.",
+    "lettering": "POR LA RAZON O LA FUERZA\r\n1893",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "BY REASON OR FORCE\r\n1891",
+    "picture": "https://en.numista.com/catalogue/photos/chili/66346a5dee63f9.53113226-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/66346a5dee63f9.53113226-180.jpg",
+    "picture_copyright": "Quodlibet"
+  },
+  "comments": "0.5 added, without dash below S in CENTS in legend for KM#138.2<br /><br />\r\nLaw of June 14, 1879 authorized change of silver alloy from 0.9 to 0.5 silver",
+  "tags": [
+    "Bird"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "138"
+    }
+  ],
+  "weight": 5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

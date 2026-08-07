@@ -1,0 +1,160 @@
+{
+  "id": 961,
+  "url": "https://en.numista.com/961",
+  "title": "100 Pesos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "mexique",
+    "name": "Mexico"
+  },
+  "min_year": 1984,
+  "max_year": 1992,
+  "ruler": [
+    {
+      "id": 4029,
+      "name": "United Mexican States/Mexican Republic",
+      "wikidata_id": "Q96"
+    }
+  ],
+  "value": {
+    "text": "100 Pesos",
+    "numeric_value": 100,
+    "currency": {
+      "id": 150,
+      "name": "Peso",
+      "full_name": "Peso (1863-1992)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1995-11-15"
+  },
+  "size": 26.5,
+  "thickness": 2.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze (92% Copper, 6% Aluminium, 2% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The national emblem of Mexico (a Mexican golden eagle perched on a prickly pear cactus devouring a snake above a half-wreath of oak and laurel below and the legend forming the upper semicircle).",
+    "lettering": "ESTADOS UNIDOS MEXICANOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "United Mexican States",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/62e8165dc3a077.70914135-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/62e8165dc3a077.70914135-180.jpg",
+    "picture_copyright": "Numismatica Quetzalcoatl (Gabriel Herrera)",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Portrait of Venustiano Carranza Garza to the right and 7 points above (100 in Braille)",
+    "lettering": "⠂⠴⠴\r\n$100\r\nMo\r\n1990\r\nV.CARRANZA",
+    "lettering_scripts": [
+      {
+        "name": "Braille"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/mexique/62e8165e565b00.01544180-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/62e8165e565b00.01544180-180.jpg",
+    "picture_copyright": "Numismatica Quetzalcoatl (Gabriel Herrera)",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/613b03c156dbe.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/613b03c156dbe.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5b02cb02dd84d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5b02cb02dd84d.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/613b03dac83c0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/613b03dac83c0.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\n1985 Mule Error: Reverse from KM# 496 (1 Peso Morelos 1985), on planchet and obverse from KM# 493 (100 Pesos Carranza, 1985)<br />\r\n<a href=\"https://en.numista.com/catalogue/images/645908904e81c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/645908904e81c.jpg\" alt=\"\" width=\"200\" height=\"200\" /></a> <a href=\"https://en.numista.com/catalogue/images/6459089f1ef44.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6459089f1ef44.jpg\" alt=\"\" width=\"200\" height=\"200\" /></a><br />\r\n@StacksBowers",
+  "related_types": [
+    {
+      "id": 379071,
+      "title": "100 Pesos (Pattern; Carranza; Chromed-Steel)",
+      "category": "coin",
+      "country": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "minYear": 1989,
+      "maxYear": 1989
+    },
+    {
+      "id": 368009,
+      "title": "100 Pesos (Pattern; Carranza Type 3; Bimetallic)",
+      "category": "coin",
+      "country": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "minYear": 1989,
+      "maxYear": 1989
+    },
+    {
+      "id": 368321,
+      "title": "100 Pesos (Pattern; Carranza; Aluminium-Bronze)",
+      "category": "coin",
+      "country": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "minYear": 1989,
+      "maxYear": 1990
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Eagle",
+    "Military leader",
+    "Politician",
+    "Coat of Arms",
+    "Wreath",
+    "Reptile"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "493"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "86"
+    },
+    {
+      "catalogue": {
+        "id": 2898,
+        "code": "Galst/Alfen"
+      },
+      "number": "X.30"
+    }
+  ],
+  "weight": 11.97,
+  "orientation": "coin",
+  "edge": {
+    "description": "Paired Reeding (6 milled parts interrupted by short smooth parts)",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/1120-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/1120-180.jpg",
+    "picture_copyright": "ZacUK"
+  },
+  "mints": [
+    {
+      "id": 29,
+      "name": "Mexican Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

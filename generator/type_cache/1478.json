@@ -1,0 +1,96 @@
+{
+  "id": 1478,
+  "url": "https://en.numista.com/1478",
+  "title": "2 Sene - Tanumafili II (FAO)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "samoa",
+    "name": "Samoa"
+  },
+  "min_year": 1999,
+  "max_year": 2000,
+  "ruler": [
+    {
+      "id": 5062,
+      "name": "Malietoa Tanumafili II",
+      "wikidata_id": "Q317378",
+      "group": {
+        "id": 474,
+        "name": "Independent State"
+      }
+    }
+  ],
+  "value": {
+    "text": "2 Sene",
+    "numeric_value": 0.02,
+    "currency": {
+      "id": 190,
+      "name": "Tala",
+      "full_name": "Tala (1967-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21,
+  "thickness": 1.35,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Thomas Humphrey Paget"
+    ],
+    "description": "Portrait of Malietoa Tanumafili II facing left, date below",
+    "lettering": "⋆ MALIETOA TANUMAFILI II SAMOA I SISIFO ⋆\r\n2000",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Western Samoa",
+    "picture": "https://en.numista.com/catalogue/photos/samoa/291-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/samoa/291-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "reverse": {
+    "description": "Southern Cross surrounds denomination in wreath",
+    "lettering": "SE 2 NE\r\n\r\nXXI CENTURY • FAO • FOOD SECURITY",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/samoa/292-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/samoa/292-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "commemorated_topic": "FAO",
+  "tags": [
+    "Politician",
+    "FAO"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "122"
+    }
+  ],
+  "weight": 3.94,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

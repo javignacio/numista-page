@@ -1,0 +1,114 @@
+{
+  "id": 3968,
+  "url": "https://en.numista.com/3968",
+  "title": "50 Korun",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "republique_tcheque",
+    "name": "Czech Republic"
+  },
+  "min_year": 1993,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 1309,
+      "name": "Republic",
+      "wikidata_id": "Q213"
+    }
+  ],
+  "value": {
+    "text": "50 Korun",
+    "numeric_value": 50,
+    "currency": {
+      "id": 19,
+      "name": "Koruna",
+      "full_name": "Koruna (1993-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 27.5,
+  "thickness": 2.55,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: brass plated steel centre in copper plated steel ring"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Crowned Czech lion, mint mark and date in the center",
+    "lettering": "ČESKÁ REPUBLIKA \r\n2020\r\n· 50 Kč ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Czech Republic",
+    "picture": "https://en.numista.com/catalogue/photos/republique_tcheque/67c83716943de7.70750522-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/republique_tcheque/67c83716943de7.70750522-180.jpg",
+    "picture_copyright": "পলাশ বিল্লহ"
+  },
+  "reverse": {
+    "engravers": [
+      "Ladislav Kozák"
+    ],
+    "description": "Well known places in Prague such as the Karlův most (Charles Bridge), Saint Vitus's Cathedral and others",
+    "lettering": "PRAGA·MATER·URBIUM\r\nL·K",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Prague, the Mother of Towns\r\nL-K",
+    "picture": "https://en.numista.com/catalogue/photos/republique_tcheque/67c837173153a9.13780813-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/republique_tcheque/67c837173153a9.13780813-180.jpg",
+    "picture_copyright": "পলাশ বিল্লহ"
+  },
+  "comments": "Different mintmarks (castle = (HM), Hamburg Mint, crowned &quot;b&quot; or &quot;CM&quot; monogram = Bizuterie Jablonec Czech Mint)",
+  "tags": [
+    "Castle or fortification",
+    "Religious building",
+    "Bridge",
+    "Town"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "180"
+    }
+  ],
+  "weight": 9.7,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/republique_tcheque/615b5c382bd881.73759419-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/republique_tcheque/615b5c382bd881.73759419-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 30,
+      "name": "Czech Mint"
+    },
+    {
+      "id": 4,
+      "name": "Hamburg Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

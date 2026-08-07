@@ -1,0 +1,156 @@
+{
+  "id": 84717,
+  "url": "https://en.numista.com/84717",
+  "title": "25 Dirhams",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "qatar",
+    "name": "Qatar"
+  },
+  "min_year": 2016,
+  "max_year": 2020,
+  "ruler": [
+    {
+      "id": 1508,
+      "name": "Tamim bin Hamad Al Thani",
+      "wikidata_id": "Q1855372"
+    }
+  ],
+  "value": {
+    "text": "25 Dirhams",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 161,
+      "name": "Riyal",
+      "full_name": "Riyal (1973-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 20,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel clad steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Dates on top. Emblem of Qatar consisting of two crossed bent swords, and between them a sailing ship (dhow) sailing on waves beside an island with two palm trees.",
+    "lettering": "2016 - 1437\r\nدولة قطر",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "2016 - 1437\nState of Qatar",
+    "picture": "https://en.numista.com/catalogue/photos/qatar/179-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/qatar/179-180.jpg",
+    "picture_copyright": "Iwantallcoins"
+  },
+  "reverse": {
+    "description": "Denomination.",
+    "lettering": "TWENTY FIVE DIRHAMS\r\n25\r\nدرهماً\r\nState of Qatar",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "25 Dirhams\nState of Qatar",
+    "picture": "https://en.numista.com/catalogue/photos/qatar/180-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/qatar/180-180.jpg",
+    "picture_copyright": "Iwantallcoins"
+  },
+  "related_types": [
+    {
+      "id": 2358,
+      "title": "25 Dirhams",
+      "category": "coin",
+      "country": {
+        "code": "qatar",
+        "name": "Qatar"
+      },
+      "minYear": 1973,
+      "maxYear": 1998
+    },
+    {
+      "id": 15522,
+      "title": "25 Dirhams",
+      "category": "coin",
+      "country": {
+        "code": "qatar",
+        "name": "Qatar"
+      },
+      "minYear": 2000,
+      "maxYear": 2003
+    },
+    {
+      "id": 15457,
+      "title": "25 Dirhams (Non-magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "qatar",
+        "name": "Qatar"
+      },
+      "minYear": 2006,
+      "maxYear": 2006
+    },
+    {
+      "id": 46251,
+      "title": "25 Dirhams (Magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "qatar",
+        "name": "Qatar"
+      },
+      "minYear": 2008,
+      "maxYear": 2012
+    },
+    {
+      "id": 8241,
+      "title": "25 Dirhams",
+      "category": "coin",
+      "country": {
+        "code": "qatar-et-dubai",
+        "name": "Qatar and Dubai"
+      },
+      "minYear": 1966,
+      "maxYear": 1969
+    }
+  ],
+  "tags": [
+    "Boat or watercraft",
+    "Tree",
+    "Coat of Arms",
+    "Cold weapons"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "83"
+    }
+  ],
+  "weight": 3.2,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/qatar/69c1c291d24325.44713143-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/qatar/69c1c291d24325.44713143-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

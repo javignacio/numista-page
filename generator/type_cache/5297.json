@@ -1,0 +1,190 @@
+{
+  "id": 5297,
+  "url": "https://en.numista.com/5297",
+  "title": "20 Centésimos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "uruguay",
+    "name": "Uruguay"
+  },
+  "min_year": 1976,
+  "max_year": 1981,
+  "ruler": [
+    {
+      "id": 3897,
+      "name": "Oriental Republic of Uruguay",
+      "wikidata_id": "Q77"
+    }
+  ],
+  "value": {
+    "text": "20 Centésimos",
+    "numeric_value": 0.2,
+    "currency": {
+      "id": 297,
+      "name": "Nuevo peso",
+      "full_name": "Nuevo peso (1975-1993)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1991-11-30"
+  },
+  "size": 22,
+  "thickness": 2,
+  "shape": "Dodecagonal (12-sided)",
+  "composition": {
+    "text": "Aluminium bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Fortress on Montevideo's Hill, short name of the country on top, date below.",
+    "lettering": "URUGUAY\r\nSo\r\n1981",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/1108-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/1108-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "description": "Value flanked by Olive sprigs.",
+    "lettering": "20\r\nCENTESIMOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/1109-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/1109-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "comments": "Montevideo&#039;s Hill is one of the symbols of the national coat of arms, showing on the upper right quarter. Montevideo&#039;s Hill Fortress (&quot;Fortaleza del Cerro&quot; in Spanish) was the last Spanish fort built in Uruguay 1811.; hill is placed on left shore of Montevideo Bay, while downtown is on right side. There is a fortress on top, that dominates (and protected) all the city. Symbolizes the strength.",
+  "related_types": [
+    {
+      "id": 5298,
+      "title": "1 Centésimo",
+      "category": "coin",
+      "country": {
+        "code": "uruguay",
+        "name": "Uruguay"
+      },
+      "minYear": 1977,
+      "maxYear": 1977
+    },
+    {
+      "id": 5299,
+      "title": "2 Centésimos",
+      "category": "coin",
+      "country": {
+        "code": "uruguay",
+        "name": "Uruguay"
+      },
+      "minYear": 1977,
+      "maxYear": 1978
+    },
+    {
+      "id": 5300,
+      "title": "5 Centésimos",
+      "category": "coin",
+      "country": {
+        "code": "uruguay",
+        "name": "Uruguay"
+      },
+      "minYear": 1977,
+      "maxYear": 1978
+    },
+    {
+      "id": 2669,
+      "title": "10 Centésimos",
+      "category": "coin",
+      "country": {
+        "code": "uruguay",
+        "name": "Uruguay"
+      },
+      "minYear": 1976,
+      "maxYear": 1981
+    },
+    {
+      "id": 2637,
+      "title": "50 Centésimos",
+      "category": "coin",
+      "country": {
+        "code": "uruguay",
+        "name": "Uruguay"
+      },
+      "minYear": 1976,
+      "maxYear": 1981
+    },
+    {
+      "id": 4264,
+      "title": "1 Nuevo Peso",
+      "category": "coin",
+      "country": {
+        "code": "uruguay",
+        "name": "Uruguay"
+      },
+      "minYear": 1976,
+      "maxYear": 1978
+    }
+  ],
+  "tags": [
+    "Castle or fortification"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "67"
+    },
+    {
+      "catalogue": {
+        "id": 709,
+        "code": "SA"
+      },
+      "number": "103, 111, 117, 122"
+    },
+    {
+      "catalogue": {
+        "id": 2069,
+        "code": "CG"
+      },
+      "number": "103, 111, 117, 122"
+    },
+    {
+      "catalogue": {
+        "id": 3175,
+        "code": "GL"
+      },
+      "number": "103, 111, 117, 122"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "49"
+    }
+  ],
+  "weight": 5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

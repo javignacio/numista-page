@@ -1,0 +1,165 @@
+{
+  "id": 2566,
+  "url": "https://en.numista.com/2566",
+  "title": "25 Cents",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "guyana",
+    "name": "Guyana"
+  },
+  "issuing_entity": {
+    "id": 526,
+    "name": "Bank of Guyana",
+    "wikidata_id": "Q1812564"
+  },
+  "min_year": 1967,
+  "max_year": 1992,
+  "ruler": [
+    {
+      "id": 8460,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682"
+    },
+    {
+      "id": 3759,
+      "name": "Republic",
+      "wikidata_id": "Q734"
+    }
+  ],
+  "value": {
+    "text": "25 Cents",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 47,
+      "name": "Dollar",
+      "full_name": "Dollar (decimalized, 1965-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1992-00-00"
+  },
+  "size": 21.85,
+  "thickness": 1.52,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms with shield",
+    "lettering": "ONE PEOPLE ONE NATION ONE DESTINY",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/guyana/63b9d3686427f0.81039883-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/guyana/63b9d3686427f0.81039883-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "reverse": {
+    "description": "Denomination within a circle with legend above. The date below is surrounded by 2 birds facing left and right.",
+    "lettering": "BANK OF GUYANA\r\nTWENTYFIVE\r\n25\r\nCENTS\r\n1989",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/guyana/63b9d368d2a0b0.07178460-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/guyana/63b9d368d2a0b0.07178460-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "comments": "<p>&nbsp;The birds on the reverse are Guyana’s National Bird, the Hoatzin (Opisthocomus hoazin), also known as the Hoactzin, Stinkbird, or Canje Pheasant. Present in the Amazon-Orenoque basin, they are related to the extinct Archeopteryx, youngs have wing claws, and they digest cellulose with bacterial systems as cows do (thus the smell).</p>",
+  "related_types": [
+    {
+      "id": 4763,
+      "title": "1 Cent",
+      "category": "coin",
+      "country": {
+        "code": "guyana",
+        "name": "Guyana"
+      },
+      "minYear": 1967,
+      "maxYear": 1992
+    },
+    {
+      "id": 1280,
+      "title": "5 Cents",
+      "category": "coin",
+      "country": {
+        "code": "guyana",
+        "name": "Guyana"
+      },
+      "minYear": 1967,
+      "maxYear": 1992
+    },
+    {
+      "id": 3472,
+      "title": "10 Cents",
+      "category": "coin",
+      "country": {
+        "code": "guyana",
+        "name": "Guyana"
+      },
+      "minYear": 1967,
+      "maxYear": 1992
+    },
+    {
+      "id": 5797,
+      "title": "50 Cents",
+      "category": "coin",
+      "country": {
+        "code": "guyana",
+        "name": "Guyana"
+      },
+      "minYear": 1967,
+      "maxYear": 1967
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Cat or feline",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "34"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "34"
+    }
+  ],
+  "weight": 4.25,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    },
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

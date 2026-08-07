@@ -1,0 +1,130 @@
+{
+  "id": 9201,
+  "url": "https://en.numista.com/9201",
+  "title": "10 Cents - Elizabeth II (2nd portrait; Nickel)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "canada",
+    "name": "Canada"
+  },
+  "min_year": 1968,
+  "max_year": 1968,
+  "ruler": [
+    {
+      "id": 2095,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 827,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Cents",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 44,
+      "name": "Dollar",
+      "full_name": "Dollar (1858-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 18.03,
+  "thickness": 1.16,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Arnold Machin"
+    ],
+    "description": "Bust of Queen Elizabeth II, as at 37 years of age, wearing tiara, facing right.",
+    "lettering": "ELIZABETH II  D•G•REGINA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "ELIZABETH II DEI GRATIA REGINA",
+    "lettering_translation": "Elizabeth II Queen by the grace of God",
+    "picture": "https://en.numista.com/catalogue/photos/canada/6984d097201533.95366819-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/6984d097201533.95366819-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "reverse": {
+    "designers": [
+      "Emanuel Otto Hahn"
+    ],
+    "description": "The Bluenose under sail, a Canadian schooner from Nova Scotia, a celebrated racing ship and a symbol of the province, is surrounded with the face value and the inscription \"CANADA\"",
+    "lettering": "CANADA\r\n1968\r\n10 CENTS\r\nH",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/canada/6984d098ae2ec3.40733759-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/6984d098ae2ec3.40733759-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "comments": "<p>“In 1968, the use of silver in circulation coins was abandoned. Nickel was used instead. Nickel coins are darker and attract magnets. About half of the 1968 nickel 10-cent coins were made at the Philadelphia Mint in the U.S., due to pressure from other work at the Royal Canadian Mint. The Philadelphia and Ottawa issues differ only in the number and shape of the grooves in the edge of the coins; the grooves have square bottoms on the Philadelphia coins and V-shaped bottoms on the Ottawa strikes.” - Standard Charlton Catalogue Volume I</p><p><a href=\"https://en.numista.com/catalogue/images/6745ec718adf9.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6745ec718adf9.jpg\"></a></p>",
+  "tags": [
+    "Boat or watercraft"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "72a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "61b.2"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "73"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "61b.1"
+    }
+  ],
+  "weight": 2.07,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 19,
+      "name": "Royal Canadian Mint of Ottawa"
+    },
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

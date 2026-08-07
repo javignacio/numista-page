@@ -1,0 +1,128 @@
+{
+  "id": 19168,
+  "url": "https://en.numista.com/19168",
+  "title": "25 Cents (Magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "barbade",
+    "name": "Barbados"
+  },
+  "min_year": 2007,
+  "max_year": 2022,
+  "ruler": [
+    {
+      "id": 3989,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 244,
+        "name": "Commonwealth Realm"
+      }
+    },
+    {
+      "id": 5811,
+      "name": "Republic",
+      "wikidata_id": "Q244",
+      "group": {
+        "id": 633,
+        "name": "Commonwealth Republic"
+      }
+    }
+  ],
+  "value": {
+    "text": "25 Cents",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 51,
+      "name": "Dollar",
+      "full_name": "Dollar (1973-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23.664,
+  "thickness": 1.826,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "National Arms of Barbados",
+    "lettering": "2009\r\nPRIDE AND INDUSTRY\r\nBARBADOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/barbade/335-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/barbade/335-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "engravers": [
+      "Philip Nathan"
+    ],
+    "description": "Morgan Lewis Windmill, value above",
+    "lettering": "TWENTY FIVE CENTS\r\nPN",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Philip Nathan",
+    "picture": "https://en.numista.com/catalogue/photos/barbade/336-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/barbade/336-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "comments": "The Morgan Lewis Windmill is one of only two functional windmills in the Caribbean. It was built in 1727 and in operation until 1945, the mill was used to grind sugar cane and could deliver up to 1,500 gallons of cane juice to the boiling house daily.<br /><br />\r\nAfter 1945, when the Morgan Lewis Mill stopped operating, it fell into disrepair and was at one time listed among the world&#039;s most endangered heritage sites. In 1996, the Barbados National Trust embarked on a restoration project and returned the mill to its original working specifications.<br /><br />\r\nGrinding is done at Morgan Lewis every second Sunday between the months of January and April, and the mill and its grounds are open for tours.",
+  "related_types": [
+    {
+      "id": 917,
+      "title": "25 Cents",
+      "category": "coin",
+      "country": {
+        "code": "barbade",
+        "name": "Barbados"
+      },
+      "minYear": 1973,
+      "maxYear": 2006
+    }
+  ],
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "13a"
+    }
+  ],
+  "weight": 5.1,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/barbade/350-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/barbade/350-180.jpg",
+    "picture_copyright": "CyrusPamelaOne",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,117 @@
+{
+  "id": 1449,
+  "url": "https://en.numista.com/1449",
+  "title": "10 Kroner - Harald V",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "norvege",
+    "name": "Norway"
+  },
+  "min_year": 1995,
+  "max_year": 2012,
+  "ruler": [
+    {
+      "id": 452,
+      "name": "Harald V",
+      "wikidata_id": "Q57287",
+      "group": {
+        "id": 358,
+        "name": "House of Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Kroner",
+    "numeric_value": 10,
+    "currency": {
+      "id": 16,
+      "name": "Krone",
+      "full_name": "Krone (1875-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass (Cu 81%, Zn 10%, Ni 9%)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Nils Aas",
+      "Ingrid Austlid Rise"
+    ],
+    "description": "Bust of king Harald V facing right. Engraver's initials behind back of bust. Inscription in two lines, on raised ground below bust. Solid ring on the rim.",
+    "lettering": "NAA\r\nHARALD V\r\nALT FOR NORGE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Everything for Norway",
+    "picture": "https://en.numista.com/catalogue/photos/norvege/64c9981c046f80.09307838-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/64c9981c046f80.09307838-180.jpg",
+    "picture_copyright": "Elvi75"
+  },
+  "reverse": {
+    "engravers": [
+      "Nils Aas",
+      "Ingrid Austlid Rise"
+    ],
+    "description": "Church roof. Value below roof. Date divided by mintmark below value. Mintmaster's initials below date. Solid ring on the rim.",
+    "lettering": "10 KR\r\n20 ⚒ 03\r\nMF",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/norvege/64c9981d23b395.95288413-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/64c9981d23b395.95288413-180.jpg",
+    "picture_copyright": "Elvi75"
+  },
+  "comments": "<p>A few main groups of die combinations are known.<br><br><i>Obverse</i><br>Die <strong>1</strong> - small mashes in \"A\" of HARALD V, large mash in \"A\" of ALT.<br>Die <strong>2</strong> - thick script to the motto, small mashes in \"A\" of HARALD V, small mash in \"A\" of ALT.<br>Die <strong>3</strong> - large mashes in \"A\" of HARALD V, large mash in \"A\" of ALT.<br>Picture: © Images courtesy of Alexandr Prokofyev.<br><a href=\"https://en.numista.com/catalogue/images/619626ca9ce6c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/619626ca9ce6c.jpg\" alt=\"\"></a><br><br><i>Reverse</i><br>Die <strong>A</strong> - tops of hammer and pick in mintmark with wedges.<br>Die <strong>B</strong> - tops of hammer and pick in mintmark without wedges.<br>Picture: © Images courtesy of Alexandr Prokofyev.<br><a href=\"https://en.numista.com/catalogue/images/619626e7605b1.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/619626e7605b1.jpg\" alt=\"\"></a><br><br><i>Combinations</i><br><strong>1</strong>+<strong>A</strong>: 1995. Sample picture: © Images courtesy of Alexandr Prokofyev. <a href=\"https://en.numista.com/catalogue/images/619627348409d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/619627348409d.jpg\" alt=\"\"></a><br><strong>2</strong>+<strong>A</strong>: 1996. Sample picture: © Images courtesy of Alexandr Prokofyev. <a href=\"https://en.numista.com/catalogue/images/61962742e218d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/61962742e218d.jpg\" alt=\"\"></a><br><strong>3</strong>+<strong>A</strong>: 1997-1999. Sample picture: © Images courtesy of Alexandr Prokofyev. <a href=\"https://en.numista.com/catalogue/images/619627520263d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/619627520263d.jpg\" alt=\"\"></a><br><strong>3</strong>+<strong>B</strong>: 2000-2003, 2005-2009. Sample picture: © Images courtesy of Alexandr Prokofyev. <a href=\"https://en.numista.com/catalogue/images/6196275e7ffc4.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6196275e7ffc4.jpg\" alt=\"\"></a></p><p>&nbsp;</p><p>1995 blister set mintage of 10.000 included in normal circulation line.</p>",
+  "tags": [
+    "Religious building",
+    "Monarch"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "457"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "110"
+    }
+  ],
+  "weight": 6.8,
+  "orientation": "medal",
+  "edge": {
+    "description": "Segmentedly reeded (five segments of 8 grooves each).",
+    "picture": "https://en.numista.com/catalogue/photos/norvege/337-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/337-180.jpg",
+    "picture_copyright": "ZacUK"
+  },
+  "mints": [
+    {
+      "id": 1888,
+      "name": "Norwegian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

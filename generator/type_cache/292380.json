@@ -1,0 +1,141 @@
+{
+  "id": 292380,
+  "url": "https://en.numista.com/292380",
+  "title": "10 000 Guaranies (Series H-K)",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "paraguay",
+    "name": "Paraguay"
+  },
+  "issuing_entity": {
+    "id": 935,
+    "name": "Central Bank of Paraguay",
+    "wikidata_id": "Q4504275"
+  },
+  "min_year": 2015,
+  "max_year": 2024,
+  "ruler": [
+    {
+      "id": 4650,
+      "name": "Republic",
+      "wikidata_id": "Q733"
+    }
+  ],
+  "value": {
+    "text": "10 000 Guaraníes",
+    "numeric_value": 10000,
+    "currency": {
+      "id": 87,
+      "name": "Guarani",
+      "full_name": "Guarani (1944-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 157,
+  "size2": 67,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Brown on multicolor underprint.\r\nPortrait of Dr. José Gaspar Rodríguez de Francia to right, issuer name on top, face value on numbers and letters on top corners, on numbers at center, and in letters below. Serial #s black, increasing size vertical on left, horizontal on right. Both Paraguayan coat of arms on sides of face value in numbers.",
+    "lettering": "10MIL 10MIL\r\nBANCO CENTRAL\r\nDEL PARAGUAY\r\nEL BANCO CENTRAL DEL PARAGUAY\r\nRECONOCE ESTE BILLETE POR\r\n10000\r\nAÑO 2015\r\n★ DIEZ ★ MIL ★ GUARANIES ★\r\nESTE BILETE TIENE CURSO LEGAL Y FUERZA CANCELATORIA ILIMITADA EN TODO EL TERRITORIO DE LA REPUBLICA (LEY 489 DEL 29 DE JUNIO DE 1995).",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "10 thousands\r\nCentral Bank of Paraguay\r\nThe Central Bank of Paraguay accepts this banknote for\r\nYear 2015\r\nTen Thousand Guaranies\r\nThis banknote is legal tender and has unlimited cancellation power on all the Republic territory (Law # 489 from June 29th., 1995).",
+    "picture": "https://en.numista.com/catalogue/photos/paraguay/64e660e339c353.96146865-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/paraguay/64e660e339c353.96146865-180.jpg",
+    "picture_copyright": "gyoschak",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Brown on multicolor.\r\nScene of the Independence Declaratory, country name on top, face value in numbers on all 4 corners, and on sides of image, in letters at bottom, in Guarani language.",
+    "lettering": "10000 REPUBLICA DEL PARAGUAY 10000\r\n10000 10000\r\n14 DE MAYO DE 1811\r\n10000 PA SU GUARANI 10000",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Paraguay\r\nMay 14th., 1811\r\nTen Thousand Guaranies (guarani language)",
+    "picture": "https://en.numista.com/catalogue/photos/paraguay/64e660e42ea994.55162609-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/paraguay/64e660e42ea994.55162609-180.jpg",
+    "picture_copyright": "gyoschak",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p>UV activity:<br><a href=\"https://en.numista.com/catalogue/images/64e6606ad1203.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64e6606ad1203.png\" alt=\"\"></a><br>© gyoschak</p><p>&nbsp;</p><p style=\"margin-left:0px;\">Security thread:</p><p style=\"margin-left:0px;\">Windowed into three sections on the reverse side, when seen under a backlight, the inscriptions of “★ 10000 ★” and “REPUBLICA DE PARAGUAY” in smaller font &nbsp;are repeated throughout.</p><p><a href=\"https://en.numista.com/catalogue/images/6833c166bb54d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6833c166bb54d.jpg\"></a></p><p>© Kiet Tran</p><p>&nbsp;</p><p>The security thread has a multicolour tone, the colours switch between lime green, gold, and copper brown when the note is tilted.</p><p><a href=\"https://en.numista.com/catalogue/images/6833c1274ba55.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6833c1274ba55.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/6833c1ec0ff04.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6833c1ec0ff04.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/6833c1edd8796.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6833c1edd8796.jpg\"></a><img></p><p>© Kiet Tran</p><p>&nbsp;</p><p>Hidden latent image inside the large brown oval shape at the left of the obverse side - abbreviation “BCP 10000” can be seen when looked at closely or the note is tilted:</p><p><a href=\"https://en.numista.com/catalogue/images/6833c1fa5eb26.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6833c1fa5eb26.jpg\"></a></p><p>© Kiet Tran</p>",
+  "related_types": [
+    {
+      "id": 283156,
+      "title": "10 000 Guaranies (Spanish value on reverse)",
+      "category": "banknote",
+      "country": {
+        "code": "paraguay",
+        "name": "Paraguay"
+      },
+      "minYear": 1963,
+      "maxYear": 1963
+    },
+    {
+      "id": 283157,
+      "title": "10 000 Guaranies (Guarani value on reverse)",
+      "category": "banknote",
+      "country": {
+        "code": "paraguay",
+        "name": "Paraguay"
+      },
+      "minYear": 1982,
+      "maxYear": 2003
+    },
+    {
+      "id": 229418,
+      "title": "10 000 Guaranies (Series B)",
+      "category": "banknote",
+      "country": {
+        "code": "paraguay",
+        "name": "Paraguay"
+      },
+      "minYear": 1998,
+      "maxYear": 2003
+    },
+    {
+      "id": 205331,
+      "title": "10 000 Guaranies (Series C-G)",
+      "category": "banknote",
+      "country": {
+        "code": "paraguay",
+        "name": "Paraguay"
+      },
+      "minYear": 2004,
+      "maxYear": 2011
+    }
+  ],
+  "tags": [
+    "Independence",
+    "Politician",
+    "Coat of Arms",
+    "Latent image",
+    "Micro inscriptions",
+    "Photoluminescence"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "A238"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

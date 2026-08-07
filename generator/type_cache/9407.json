@@ -1,0 +1,96 @@
+{
+  "id": 9407,
+  "url": "https://en.numista.com/9407",
+  "title": "2 Pence - Elizabeth II (2nd portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "iles_malouines",
+    "name": "Falkland Islands"
+  },
+  "min_year": 1998,
+  "max_year": 1999,
+  "ruler": [
+    {
+      "id": 2978,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 829,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "2 Pence",
+    "numeric_value": 0.02,
+    "currency": {
+      "id": 118,
+      "name": "Pound",
+      "full_name": "Pound (decimalized, 1971-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25.91,
+  "thickness": 2.15,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Arnold Machin"
+    ],
+    "description": "Young crowned bust of Queen Elizabeth II facing right",
+    "lettering": "QUEEN ELIZABETH THE SECOND",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/iles_malouines/994-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/iles_malouines/994-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "engravers": [
+      "William Maving Gardner"
+    ],
+    "description": "Upland Goose or Magellan Goose in flight, facing left. Numeral above, lettering, and date around edge below. The subspecies Chloephaga picta leucoptera is restricted to the Falklands, being slightly larger than its South American counterpart C. p. picta.",
+    "lettering": "2\r\nWG\r\nFALKLAND ISLANDS 1998",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/iles_malouines/995-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/iles_malouines/995-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "tags": [
+    "Bird"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "3a"
+    }
+  ],
+  "weight": 7.12,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

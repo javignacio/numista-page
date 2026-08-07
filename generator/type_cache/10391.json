@@ -1,0 +1,126 @@
+{
+  "id": 10391,
+  "url": "https://en.numista.com/10391",
+  "title": "1 Markka",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "finlande",
+    "name": "Finland"
+  },
+  "min_year": 1921,
+  "max_year": 1924,
+  "ruler": [
+    {
+      "id": 3291,
+      "name": "Republic",
+      "wikidata_id": "Q33"
+    }
+  ],
+  "value": {
+    "text": "1 Markka",
+    "numeric_value": 1,
+    "currency": {
+      "id": 1156,
+      "name": "Markka",
+      "full_name": "Markka (1860-1963)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 24,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Isak Gustaf Sundell"
+    ],
+    "description": "Coat of arms of Finland - a rampant lion left with the right foreleg replaced with an armoured hand brandishing a sword, trampling on a sabre with the hindpaws. \r\nDate divided by coat of arms.\r\nMintmark at lower right.",
+    "lettering": "19 21\r\nH",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/finlande/60c79cf25e3116.08473175-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/60c79cf25e3116.08473175-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Isak Gustaf Sundell"
+    ],
+    "description": "Denomination flanked by spruce branches",
+    "lettering": "1 \r\nMARKKA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "1\r\nMARKKA",
+    "picture": "https://en.numista.com/catalogue/photos/finlande/60c79cf2e448e6.14292464-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/60c79cf2e448e6.14292464-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "tags": [
+    "Cat or feline",
+    "Flower",
+    "Coat of Arms",
+    "Cold weapons"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "27"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "22"
+    }
+  ],
+  "weight": 5.1,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/finlande/606f9f7fc21178.50365816-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/606f9f7fc21178.50365816-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 1333,
+      "name": "Mint of Finland"
+    },
+    {
+      "id": 260,
+      "name": "Royal Danish Mint"
+    },
+    {
+      "id": 18,
+      "name": "Heaton and Sons / The Mint Birmingham"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,145 @@
+{
+  "id": 5760,
+  "url": "https://en.numista.com/5760",
+  "title": "1 Sovereign - Victoria (1st portrait; Shield)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1838,
+  "max_year": 1874,
+  "ruler": [
+    {
+      "id": 270,
+      "name": "Victoria",
+      "wikidata_id": "Q9439",
+      "nomisma_id": "queen_victoria",
+      "group": {
+        "id": 525,
+        "name": "House of Hanover"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Sovereign",
+    "numeric_value": 1,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1971)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 22.05,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Gold (.9167)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "William Wyon"
+    ],
+    "description": "Young uncrowned portrait of Queen Victoria left, legend around.",
+    "lettering": "VICTORIA DEI GRATIA\r\n1871",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Victoria by the Grace of God",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/10563-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/10563-180.jpg",
+    "picture_copyright": "Dix Noonan Webb",
+    "picture_copyright_url": "http://www.dnw.co.uk"
+  },
+  "reverse": {
+    "engravers": [
+      "Jean Baptiste Merlen"
+    ],
+    "description": "Crowned quartered shield of arms within wreath, legend around, national flower emblems below.",
+    "lettering": "BRITANNIARUM REGINA FID: DEF:",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Queen of the Britains Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/10564-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/10564-180.jpg",
+    "picture_copyright": "Dix Noonan Webb",
+    "picture_copyright_url": "http://www.dnw.co.uk"
+  },
+  "comments": "The standard weight of a sovereign was 160/623 troy ounce (123.3 grains). The pure gold content was 113 1/623 grains (7.3224 g).<br /><br />\r\n<span style=\"font-style:italic;\">Obverse, reverse and overdate varieties exist:</span><br /><br />\r\n<span style=\"font-weight:bold;\">KM#736.1</span> Without die number;<br />\r\n<span style=\"font-weight:bold;\">KM#736.2</span> Die number below wreath (the main photograph);<br />\r\n<span style=\"font-weight:bold;\">KM#736.3</span> Additional raised line on lower part of ribbon (Ansell type).<br /><br />\r\n<span style=\"font-style:italic;\">A die error is known to exist:</span><br />\r\nObverse with &quot;GRΛTIΛ&quot; instead of &quot;GRATIA&quot;:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5d9babcd82dba.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d9babcd82dba.jpg\" alt=\"\" width=\"200\" height=\"200\" /></a><br />\r\n<span style=\"font-style:italic;\">© Image courtesy of Dix Noonan Webb (www.dnw.co.uk)</span><br /><br />\r\nNote: for issues with mintmark below wreath, see <a href=\"https://en.numista.com/catalogue/australia_colonial-1.html#c_australia_colonial8339\">Australia - Colonial</a><br />\r\n(M = Melbourne mint, S = Sydney mint)",
+  "related_types": [
+    {
+      "id": 24198,
+      "title": "1 Sovereign - Victoria",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 1871,
+      "maxYear": 1887
+    },
+    {
+      "id": 1526,
+      "title": "1 Sovereign - Victoria (1st portrait; St George)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1871,
+      "maxYear": 1885
+    }
+  ],
+  "tags": [
+    "Cat or feline",
+    "Crown",
+    "Flower",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "736"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "3852/3"
+    }
+  ],
+  "weight": 7.99,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/10391-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/10391-180.jpg",
+    "picture_copyright": "Neil Kendall"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,96 @@
+{
+  "id": 9337,
+  "url": "https://en.numista.com/9337",
+  "title": "50 Cruzeiros",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bresil",
+    "name": "Brazil"
+  },
+  "min_year": 1965,
+  "max_year": 1965,
+  "ruler": [
+    {
+      "id": 2685,
+      "name": "Republic of the United States of Brazil",
+      "wikidata_id": "Q2414171"
+    }
+  ],
+  "value": {
+    "text": "50 Cruzeiros",
+    "numeric_value": 50,
+    "currency": {
+      "id": 204,
+      "name": "Cruzeiro",
+      "full_name": "Cruzeiro (1942-1967)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1968-02-12"
+  },
+  "size": 18,
+  "thickness": 1.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Head of Liberty facing left with one star for every Brazilian state",
+    "lettering": "REPUBLICA DOS ESTADOS UNIDOS DO BRASIL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of the United States of Brazil",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/2528-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/2528-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "description": "Denomination with a branch of coffee above date",
+    "lettering": "50\r\nCRUZEIROS\r\n1965",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bresil/2529-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/2529-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "574"
+    }
+  ],
+  "weight": 3.3,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/65c1223b323084.40473326-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/65c1223b323084.40473326-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 1335,
+      "name": "Mint of Brazil"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

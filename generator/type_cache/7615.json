@@ -1,0 +1,151 @@
+{
+  "id": 7615,
+  "url": "https://en.numista.com/7615",
+  "title": "500 Guaraníes",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "paraguay",
+    "name": "Paraguay"
+  },
+  "issuing_entity": {
+    "id": 935,
+    "name": "Central Bank of Paraguay",
+    "wikidata_id": "Q4504275"
+  },
+  "min_year": 2006,
+  "max_year": 2024,
+  "ruler": [
+    {
+      "id": 4650,
+      "name": "Republic",
+      "wikidata_id": "Q733"
+    }
+  ],
+  "value": {
+    "text": "500 Guaraníes",
+    "numeric_value": 500,
+    "currency": {
+      "id": 87,
+      "name": "Guarani",
+      "full_name": "Guarani (1944-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23,
+  "thickness": 1.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel-steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Name of the country, head of General Bernardino Caballero with the date and denomination in Guarani language (\"PO SA GUARANI\") below",
+    "lettering": "REPUBLICA DEL PARAGUAY\r\nGRAL. BERNARDINO CABALLERO 2012\r\nPO SA GUARANI",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Paraguay\r\nGeneral Bernardino Caballero 2012\r\nFive hundred Guaraníes",
+    "picture": "https://en.numista.com/catalogue/photos/paraguay/1134-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/paraguay/1134-180.jpg",
+    "picture_copyright": "CGB",
+    "picture_copyright_url": "http://www.cgb.fr"
+  },
+  "reverse": {
+    "description": "Central Bank of Paraguay and value within the circle",
+    "lettering": "BANCO CENTRAL DEL PARAGUAY\r\n500 GUARANIES",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Bank of Paraguay\r\n500 Guaraníes",
+    "picture": "https://en.numista.com/catalogue/photos/paraguay/1135-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/paraguay/1135-180.jpg",
+    "picture_copyright": "CGB",
+    "picture_copyright_url": "http://www.cgb.fr"
+  },
+  "comments": "Juan Bernardino Caballero de Añasco y Melgarejo (20 May 1839, Ybycuí, Paraguay – 26 February 1912, Asunción) was a Paraguayan War veteran, the President of Paraguay from 1880 until 1886 and founder of the Colorado Party. He was the leading political figure in Paraguay from the early-post-war period until the Liberal revolution of 1904.",
+  "related_types": [
+    {
+      "id": 9809,
+      "title": "500 Guaraníes (value above building)",
+      "category": "coin",
+      "country": {
+        "code": "paraguay",
+        "name": "Paraguay"
+      },
+      "minYear": 1997,
+      "maxYear": 1997
+    },
+    {
+      "id": 4464,
+      "title": "500 Guaraníes (value below building)",
+      "category": "coin",
+      "country": {
+        "code": "paraguay",
+        "name": "Paraguay"
+      },
+      "minYear": 1997,
+      "maxYear": 2005
+    }
+  ],
+  "tags": [
+    "Other building",
+    "Military leader",
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "195a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "208"
+    }
+  ],
+  "weight": 4.8,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    },
+    {
+      "id": 1262,
+      "name": "Kremnica"
+    },
+    {
+      "id": 27,
+      "name": "Mint of Poland"
+    },
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    },
+    {
+      "id": 1300,
+      "name": "South African Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

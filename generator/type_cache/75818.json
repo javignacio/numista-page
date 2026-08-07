@@ -1,0 +1,123 @@
+{
+  "id": 75818,
+  "url": "https://en.numista.com/75818",
+  "title": "1 Pound (New Branch of Suez Canal)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "egypte",
+    "name": "Egypt"
+  },
+  "min_year": 2015,
+  "max_year": 2015,
+  "ruler": [
+    {
+      "id": 2903,
+      "name": "Arab Republic of Egypt",
+      "wikidata_id": "Q16249924"
+    }
+  ],
+  "value": {
+    "text": "1 Pound",
+    "numeric_value": 1,
+    "currency": {
+      "id": 117,
+      "name": "Pound",
+      "full_name": "Pound (1916-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25,
+  "thickness": 2.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: brass plated steel centre in nickel plated steel ring"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "State name in Arabic, Denomination in Arabic and English, and year of issue in Gregorian and Hijri calendar years (both in Arabic).",
+    "lettering": "جمهورية مصر العربية \r\n1 \r\nجنيه\r\n٢٠١٥م ONE POUND ١٤٣٦هـ",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Arab Republic of Egypt\r\n1 \r\nPound\r\nAD 2015 ONE POUND AH 1436",
+    "picture": "https://en.numista.com/catalogue/photos/egypte/1705-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/egypte/1705-180.jpg",
+    "picture_copyright": "Iwantallcoins"
+  },
+  "reverse": {
+    "description": "Logo of Suez Canal Authority with two ships and letters \"SC\" above and ق س in a circle",
+    "lettering": "قناة السويس \r\nSC\r\nق   س\r\nالجديدة",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "Suez Canal\r\nSC\r\nSS\r\nNew",
+    "picture": "https://en.numista.com/catalogue/photos/egypte/1704-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/egypte/1704-180.jpg",
+    "picture_copyright": "Iwantallcoins"
+  },
+  "commemorated_topic": "New branch of Suez Canal",
+  "related_types": [
+    {
+      "id": 83101,
+      "title": "50 Qirsh / Piastres (New Branch of Suez Canal)",
+      "category": "coin",
+      "country": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "minYear": 2015,
+      "maxYear": 2015
+    },
+    {
+      "id": 124228,
+      "title": "1 Pound (New Branch of Suez Canal; Mule)",
+      "category": "coin",
+      "country": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "minYear": 2011,
+      "maxYear": 2011
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1001"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "725"
+    }
+  ],
+  "weight": 8.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/egypte/1965-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/egypte/1965-180.jpg",
+    "picture_copyright": "David Mikeladze"
+  },
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

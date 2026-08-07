@@ -1,0 +1,112 @@
+{
+  "id": 4835,
+  "url": "https://en.numista.com/4835",
+  "title": "5 Centavos (smaller head; smooth edge)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "argentine",
+    "name": "Argentina"
+  },
+  "min_year": 1954,
+  "max_year": 1956,
+  "ruler": [
+    {
+      "id": 3983,
+      "name": "Federal Republic",
+      "wikidata_id": "Q414"
+    }
+  ],
+  "value": {
+    "text": "5 Centavos",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 261,
+      "name": "Peso moneda nacional",
+      "full_name": "Peso moneda nacional (1881-1969)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1970-01-01"
+  },
+  "size": 17.2,
+  "thickness": 1.3,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel clad steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Value, a legend in a circle around",
+    "lettering": "REPUBLICA ARGENTINA \r\n5 CENTAVOS\r\n.1956.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Argentina\r\n5 Centavos\r\n1956",
+    "picture": "https://en.numista.com/catalogue/photos/argentine/1514-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/1514-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "engravers": [
+      "Mario Baiardi"
+    ],
+    "description": "Portrait of José de San Martín to the right",
+    "lettering": "JOSE DE SAN MARTIN",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/argentine/1513-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/1513-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "tags": [
+    "Military leader",
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "50"
+    },
+    {
+      "catalogue": {
+        "id": 160,
+        "code": "CJ"
+      },
+      "number": "249-251"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "49a.2"
+    }
+  ],
+  "weight": 2,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 1336,
+      "name": "Buenos Aires"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

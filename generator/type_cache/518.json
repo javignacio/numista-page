@@ -1,0 +1,106 @@
+{
+  "id": 518,
+  "url": "https://en.numista.com/518",
+  "title": "2 Zlotys",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "pologne",
+    "name": "Poland"
+  },
+  "min_year": 1994,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 3739,
+      "name": "Third Republic",
+      "wikidata_id": "Q1259201"
+    }
+  ],
+  "value": {
+    "text": "2 Zlotys",
+    "numeric_value": 2,
+    "currency": {
+      "id": 200,
+      "name": "Fourth Zloty",
+      "full_name": "Fourth Zloty (1995-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21.5,
+  "thickness": 1.97,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: copper-nickel centre in aluminium bronze ring"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Ewa Tyc-Karpińska"
+    ],
+    "description": "The coat of arms of Poland with the country name around the outer ring and the date at the bottom of the outer ring.",
+    "lettering": "RZECZPOSPOLITA POLSKA\r\nmw \r\n• 2010 •",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Poland\r\nMW\r\n2010",
+    "picture": "https://en.numista.com/catalogue/photos/pologne/9317-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pologne/9317-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "reverse": {
+    "designers": [
+      "Ewa Tyc-Karpińska"
+    ],
+    "description": "The denomination surrounded by two oak leaves on vertical and horizontal lines which redesign the numeral of denomination.",
+    "lettering": "2\r\nZŁOTE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/pologne/9318-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pologne/9318-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "comments": "<p>Size of numeral “2” and position of reverse design varies slightly between earlier and later versions of the coin:</p><p><a href=\"https://en.numista.com/catalogue/images/695ac465840ee.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/695ac465840ee.png\"></a></p>",
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "283"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "289"
+    }
+  ],
+  "weight": 5.21,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/pologne/6341a7fd0a2193.02434370-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pologne/6341a7fd0a2193.02434370-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 27,
+      "name": "Mint of Poland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

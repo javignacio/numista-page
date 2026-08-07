@@ -1,0 +1,113 @@
+{
+  "id": 3151,
+  "url": "https://en.numista.com/3151",
+  "title": "10 Luma",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "armenie",
+    "name": "Armenia"
+  },
+  "min_year": 1994,
+  "max_year": 1994,
+  "ruler": [
+    {
+      "id": 3276,
+      "name": "Republic",
+      "wikidata_id": "Q399"
+    }
+  ],
+  "value": {
+    "text": "10 Luma",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 63,
+      "name": "Dram",
+      "full_name": "Dram (1993-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1994-02-21"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 16,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "National Coat of Arms",
+    "lettering": "ՀԱՅԱՍՏԱՆ",
+    "lettering_scripts": [
+      {
+        "name": "Armenian"
+      }
+    ],
+    "lettering_translation": "Armenia",
+    "picture": "https://en.numista.com/catalogue/photos/armenie/630f8ae6f1d209.16451673-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/armenie/630f8ae6f1d209.16451673-180.jpg",
+    "picture_copyright": "Ben-jamin",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "reverse": {
+    "description": "Denomination, date below",
+    "lettering": "10 \r\nԼՈՒՄԱ\r\n1994",
+    "lettering_scripts": [
+      {
+        "name": "Armenian"
+      }
+    ],
+    "lettering_translation": "10 Luma",
+    "picture": "https://en.numista.com/catalogue/photos/armenie/630f8ae7526f93.81646553-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/armenie/630f8ae7526f93.81646553-180.jpg",
+    "picture_copyright": "Ben-jamin",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "series": "First Series",
+  "tags": [
+    "Bird",
+    "Cat or feline",
+    "Eagle",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "51"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "1"
+    }
+  ],
+  "weight": 0.6,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 27,
+      "name": "Mint of Poland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

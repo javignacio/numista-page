@@ -1,0 +1,115 @@
+{
+  "id": 75273,
+  "url": "https://en.numista.com/75273",
+  "title": "1 Real (Olympic Games Rio 2016 - Volleyball)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "bresil",
+    "name": "Brazil"
+  },
+  "min_year": 2015,
+  "max_year": 2015,
+  "ruler": [
+    {
+      "id": 2684,
+      "name": "Federative Republic of Brazil",
+      "wikidata_id": "Q155"
+    }
+  ],
+  "value": {
+    "text": "1 Real",
+    "numeric_value": 1,
+    "currency": {
+      "id": 158,
+      "name": "Real",
+      "full_name": "Real (1994-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 27,
+  "thickness": 1.95,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: stainless steel centre in aluminium bronze plated steel ring"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Olympic and Paralympic Games - Rio 2016 - Volleyball:\r\nVolleyball player in the serve movement / Official logo of the Games of the XXXI Summer Olympiad",
+    "lettering": "BRASIL\r\nRIO 2016",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Brazil\r\nRio 2016",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/695badf9e21480.68767634-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/695badf9e21480.68767634-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "reverse": {
+    "description": "Face value and year on an allegory alluding to the national flag, with a southern cross, one of the national symbols. Bronze-Aluminum Ring with wishes from the art of the original Marajoara people",
+    "lettering": "1\r\nREAL\r\n2015",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bresil/695badfb9489c1.60094480-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/695badfb9489c1.60094480-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "series": "2016 Summer Olympics, Rio",
+  "commemorated_topic": "Volleyball",
+  "comments": "<p>Common Circulation Commemorative Coin. Part of the coinage was sold in an official cardboard folder from the Brazilian Mint / International Olympic Committee</p><p>Individual Folder<br>Circulation: 10,000 units</p><p><a href=\"https://en.numista.com/catalogue/images/66511474e3897.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/66511474e3897.png\"></a></p><p>4-Coin Folder<br>Circulation: 5000 Units</p><p><a href=\"https://en.numista.com/catalogue/images/665114a66a3f5.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/665114a66a3f5.jpg\"></a></p>",
+  "tags": [
+    "Flag",
+    "Summer Olympic Games",
+    "Volleyball"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "709"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "219"
+    },
+    {
+      "catalogue": {
+        "id": 1185,
+        "code": "AI Coins"
+      },
+      "number": "v600"
+    }
+  ],
+  "weight": 7,
+  "orientation": "coin",
+  "edge": {
+    "description": "Mills and smooth section",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/1940-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/1940-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 1335,
+      "name": "Mint of Brazil"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

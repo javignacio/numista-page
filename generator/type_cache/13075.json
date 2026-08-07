@@ -1,0 +1,120 @@
+{
+  "id": 13075,
+  "url": "https://en.numista.com/13075",
+  "title": "½ Crown - George I",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1715,
+  "max_year": 1726,
+  "ruler": [
+    {
+      "id": 265,
+      "name": "George I",
+      "wikidata_id": "Q130805",
+      "group": {
+        "id": 525,
+        "name": "House of Hanover"
+      }
+    }
+  ],
+  "value": {
+    "text": "½ Crown",
+    "numeric_value": 0.125,
+    "numerator": 1,
+    "denominator": 8,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1971)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1969-12-31"
+  },
+  "size": 33,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.925)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "John Croker"
+    ],
+    "description": "Laureate and draped bust of King George I right, legend around.",
+    "lettering": "GEORGIVS·D·G·M·BR·FR·ET·HIB·REX·F·D·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "George by the Grace of God King of Great Britain France and Ireland Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/6248-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/6248-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "engravers": [
+      "Johann Ochs"
+    ],
+    "description": "Crowned cruciform shields with central Garter star, divided date above, legend around.\r\n\r\nNote: varieties exist (see below)",
+    "lettering": "BRVN ET·L·DUX S·R·I·A·TH ET·EL·1717·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Duke of Brunswick and Luneburg, High Treasurer and Elector of the Holy Roman Empire",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/6249-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/6249-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "The standard weight of these coins was 15/31 troy ounce (232.3 grains).<br /><br />\r\n<span style=\"font-style:italic;\">Reverse die varieties:</span><br /><br />\r\n<span style=\"font-weight:bold;\">KM#540.1, Sp#3642</span> <span style=\"font-style:italic;\">(1715-20)</span> roses and plumes in angles;<br />\r\n<span style=\"font-weight:bold;\">KM#540.2, Sp#3643</span> <span style=\"font-style:italic;\">(1723 only)</span> SS and C in angles;<br />\r\n<span style=\"font-weight:bold;\">KM#540.3, Sp#3644</span> <span style=\"font-style:italic;\">(1726 only)</span> small roses and plumes;<br /><br />\r\n1723 SSC variety was struck with silver discovered by the South Sea Company in Indonesia.",
+  "tags": [
+    "Cat or feline",
+    "Crown",
+    "Flower",
+    "Coat of Arms",
+    "Cross"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "540"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "3642-4"
+    }
+  ],
+  "weight": 15.05,
+  "orientation": "coin",
+  "edge": {
+    "description": "Raised lettering with Regnal year in words",
+    "lettering": "+DECVS ET TUTAMEN ANNO REGNI SECVNDO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ]
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

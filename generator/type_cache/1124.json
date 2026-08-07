@@ -1,0 +1,149 @@
+{
+  "id": 1124,
+  "url": "https://en.numista.com/1124",
+  "title": "1 Forint",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "hongrie",
+    "name": "Hungary"
+  },
+  "min_year": 1967,
+  "max_year": 1989,
+  "ruler": [
+    {
+      "id": 1800,
+      "name": "People's Republic",
+      "wikidata_id": "Q16410"
+    }
+  ],
+  "value": {
+    "text": "1 Forint",
+    "numeric_value": 1,
+    "currency": {
+      "id": 71,
+      "name": "Forint",
+      "full_name": "Forint (1946-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1995-06-30"
+  },
+  "size": 22.8,
+  "thickness": 1.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium (Aluminium 97%, Magnesium 3%)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Iván István"
+    ],
+    "description": "The arms of the Hungarian People's Republic (1957-1990), a shield with wreath around, star above (Socialist heraldry), date below.",
+    "lettering": "MAGYAR · NÉPKÖZTÁRSASÁG ·\r\n1989",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Hungarian People's Republic\r\n1989",
+    "picture": "https://en.numista.com/catalogue/photos/hongrie/9-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hongrie/9-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "Iván István"
+    ],
+    "description": "Value with leaves behind, mintmark in between.",
+    "lettering": "1\r\nBP.\r\nFORINT",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/hongrie/10-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hongrie/10-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "<p>Three main groups of the Obverse are known.<br><br><i>Obverse</i><br>Die <strong>1</strong> - all details smaller, as the result, circular legend close to the center.<br>Die <strong>2</strong> - all details larger, as the result, circular legend far from the center, dots above \"Ö\" close the letter.<br>Die <strong>3</strong> - circular legend far from the center, dots above \"Ö\" far from the letter.<br>Picture: © Images courtesy of Alexandr Prokofyev.<br><a href=\"https://en.numista.com/catalogue/images/643bbfe1d6fb6.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/643bbfe1d6fb6.jpg\" alt=\"\"></a><br><br>Combinations<br>Die <strong>1</strong> - 1967.<br>Die <strong>2</strong> - 1968-1976.<br>Die <strong>3</strong> - 1977-1989.</p><p>&nbsp;</p><p>2 main obverses of rays touching shield and rays not touching shield on 1989 coins.</p><p><a href=\"https://en.numista.com/catalogue/images/677bf2587f468.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/677bf2587f468.jpg\"></a></p>",
+  "related_types": [
+    {
+      "id": 4058,
+      "title": "1 Forint",
+      "category": "coin",
+      "country": {
+        "code": "hongrie",
+        "name": "Hungary"
+      },
+      "minYear": 1957,
+      "maxYear": 1966
+    }
+  ],
+  "tags": [
+    "Coat of Arms",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "575"
+    },
+    {
+      "catalogue": {
+        "id": 14,
+        "code": "ÉH"
+      },
+      "number": "1589"
+    },
+    {
+      "catalogue": {
+        "id": 16,
+        "code": "H"
+      },
+      "number": "2327"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "59a"
+    },
+    {
+      "catalogue": {
+        "id": 360,
+        "code": "Adamo"
+      },
+      "number": "F6.3"
+    }
+  ],
+  "weight": 1.4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/hongrie/61581c75b6bf44.68230347-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hongrie/61581c75b6bf44.68230347-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 1248,
+      "name": "Hungarian mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

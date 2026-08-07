@@ -1,0 +1,107 @@
+{
+  "id": 1523,
+  "url": "https://en.numista.com/1523",
+  "title": "20 Centimes",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "haiti",
+    "name": "Haiti (1804-date)"
+  },
+  "min_year": 1986,
+  "max_year": 1991,
+  "ruler": [
+    {
+      "id": 726,
+      "name": "Third Republic",
+      "wikidata_id": "Q790"
+    }
+  ],
+  "value": {
+    "text": "20 Centimes",
+    "numeric_value": 0.2,
+    "currency": {
+      "id": 86,
+      "name": "Third gourde",
+      "full_name": "Third gourde (1872-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 26.2,
+  "thickness": 1.99,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Bust of Charlemagne Peralte",
+    "lettering": "REPUBLIQUE D'HAÏTI\r\n1991",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Haiti",
+    "picture": "https://en.numista.com/catalogue/photos/haiti/470-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/haiti/470-180.jpg",
+    "picture_copyright": "DappereDodo"
+  },
+  "reverse": {
+    "description": "Coat of Arms",
+    "lettering": "LIBERTÉ . ÉGALITÉ . FRATERNITÉ\r\n. 20 .",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Liberty Equality Brotherhood",
+    "picture": "https://en.numista.com/catalogue/photos/haiti/471-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/haiti/471-180.jpg",
+    "picture_copyright": "DappereDodo"
+  },
+  "comments": "<span style=\"text-decoration:underline;\">Obverse:</span><br />\r\nCharlemagne Masséna Péralte (1886 - 1919) is a nationalist leader of Haiti. He resisted the US invasion of his country in 1915, leading guerrilla fighters called the Cacos. Although he succeeded in establishing a provisional government in the north of Haiti in 1917, he was betrayed by one of his own men and shot dead in 1919. He was given a national funeral after the end of the US occupation in 1935.<br /><br />\r\n<span style=\"text-decoration:underline;\">Reverse:</span><br />\r\nThe coat of arms of Haiti, originally introduced in 1807, has appeared in its current form since 1986. It depicts six draped flags of the country, three on each side, placed on a green lawn in front of a palm tree flanked on either side by canons. On display are a drum, bugles, long guns, and ship anchors. Above the palm tree, there is a Phrygian cap placed as a symbol of freedom. Ribbon at the bottom bears the motto in French, “L&#039;Union Fait La Force”, which means, Unity Makes Strength. However, not this but &quot;Liberte, Egalite, Fraternite.&quot;, which appear on the reverse of the coin is the national motto of Haiti, according to their constitution.",
+  "tags": [
+    "Military leader",
+    "Politician",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "152"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "107"
+    }
+  ],
+  "weight": 7.54,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/haiti/67237dc78bb653.74003077-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/haiti/67237dc78bb653.74003077-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

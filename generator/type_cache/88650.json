@@ -1,0 +1,139 @@
+{
+  "id": 88650,
+  "url": "https://en.numista.com/88650",
+  "title": "2 Kronor - Carl XVI Gustaf",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "suede",
+    "name": "Sweden"
+  },
+  "min_year": 2016,
+  "max_year": 2020,
+  "ruler": [
+    {
+      "id": 2366,
+      "name": "Carl XVI Gustaf",
+      "wikidata_id": "Q45068",
+      "group": {
+        "id": 99,
+        "name": "House of Bernadotte"
+      }
+    }
+  ],
+  "value": {
+    "text": "2 Kronor",
+    "numeric_value": 2,
+    "currency": {
+      "id": 18,
+      "name": "Krona",
+      "full_name": "Krona (1873-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 22.5,
+  "thickness": 1.79,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Ernst Nordin"
+    ],
+    "description": "King Carl XVI Gustaf in profile left separating date.",
+    "lettering": "CARL XVI GUSTAF\r\n20 16\r\nEN\r\nSVERIGES KONUNG",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "King of Sweden.",
+    "picture": "https://en.numista.com/catalogue/photos/suede/2791-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suede/2791-180.jpg",
+    "picture_copyright": "Ngdawa",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Ernst Nordin"
+    ],
+    "description": "Stylised whirlwind, denomination, three crowns above.",
+    "lettering": "S SI\r\nSVERIGE\r\n2\r\nKRONOR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Sweden.",
+    "picture": "https://en.numista.com/catalogue/photos/suede/2792-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suede/2792-180.jpg",
+    "picture_copyright": "Ngdawa",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/64cfb707c56c4.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64cfb707c56c4.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "related_types": [
+    {
+      "id": 456214,
+      "title": "2 Kronor - Carl XVI Gustaf (Pattern)",
+      "category": "coin",
+      "country": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "minYear": 2015,
+      "maxYear": 2015
+    }
+  ],
+  "tags": [
+    "Crown",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "929"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "152"
+    }
+  ],
+  "weight": 4.8,
+  "orientation": "medal",
+  "edge": {
+    "description": "Partially milled, partially smooth: 17 reeds per 2 sections.",
+    "picture": "https://en.numista.com/catalogue/photos/suede/605d9de313bf80.18998579-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suede/605d9de313bf80.18998579-180.jpg",
+    "picture_copyright": "Ngdawa",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 1334,
+      "name": "Mint of Finland"
+    },
+    {
+      "id": 23,
+      "name": "Royal Dutch Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

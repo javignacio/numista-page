@@ -1,0 +1,122 @@
+{
+  "id": 1436,
+  "url": "https://en.numista.com/1436",
+  "title": "25 Øre - Haakon VII",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "norvege",
+    "name": "Norway"
+  },
+  "min_year": 1952,
+  "max_year": 1957,
+  "ruler": [
+    {
+      "id": 449,
+      "name": "Haakon VII",
+      "wikidata_id": "Q154927",
+      "group": {
+        "id": 358,
+        "name": "House of Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "25 Øre",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 16,
+      "name": "Krone",
+      "full_name": "Krone (1875-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 17,
+  "thickness": 1.4,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% copper, 25% nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Øivind Hansen"
+    ],
+    "description": "Crowned monogram of Haakon VII. Date divided by monogram. Beaded ring on the rim.",
+    "lettering": "19 54\r\nH7",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/norvege/62b5e0ddd2fa70.72225767-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/62b5e0ddd2fa70.72225767-180.jpg",
+    "picture_copyright": "T0r",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "Øivind Hansen"
+    ],
+    "description": "Value in two lines. Inscription above value. A triskelion on each side of the value. Mintmark below the value. Beaded ring on the rim.",
+    "lettering": "NORGE\r\n25\r\nØRE\r\n⚒",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Norway.",
+    "picture": "https://en.numista.com/catalogue/photos/norvege/62b5e0de36abf2.61386817-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/62b5e0de36abf2.61386817-180.jpg",
+    "picture_copyright": "T0r",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p>The variants mintmark on plate and mintmark on coin are reported for the years 1953, 1955, 1956 and 1957.</p><p>For 1953, 1955 and 1956 mintmark on shield is most common, and mintmark on coin is considered extremely rare.</p><p>For 1957 mintmark on coin (Brekke 106A) is more common, and mintmark on plate (Brekke 106B) is known to be uncommon.&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/642e95f252b25.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/642e95f252b25.jpg\" alt=\"\"></a></p>",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "401"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "53"
+    },
+    {
+      "catalogue": {
+        "id": 201,
+        "code": "Rønning"
+      },
+      "number": "272"
+    }
+  ],
+  "weight": 2.4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain.",
+    "picture": "https://en.numista.com/catalogue/photos/norvege/67886cf6840f83.68097440-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/67886cf6840f83.68097440-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 1888,
+      "name": "Norwegian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

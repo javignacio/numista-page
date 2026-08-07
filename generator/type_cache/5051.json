@@ -1,0 +1,121 @@
+{
+  "id": 5051,
+  "url": "https://en.numista.com/5051",
+  "title": "5 Øre (German Occupation Coinage)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "norvege",
+    "name": "Norway"
+  },
+  "min_year": 1941,
+  "max_year": 1945,
+  "ruler": [
+    {
+      "id": 450,
+      "name": "German occupation",
+      "wikidata_id": "Q819274"
+    }
+  ],
+  "value": {
+    "text": "5 Øre",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 16,
+      "name": "Krone",
+      "full_name": "Krone (1875-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 27,
+  "thickness": 1.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Iron (Fe 99.9%, C 0.1%)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Shield with a crowned norwegian lion holding a halberd and facing left. Inscription above the shield. The coat of arms of the Norwegian Church on each side of the shield. Solid ring on the rim.",
+    "lettering": "NORGE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Norway",
+    "picture": "https://en.numista.com/catalogue/photos/norvege/814-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/814-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "reverse": {
+    "description": "Value and date in three lines. A triskelion on each side of the value and below the date. Date divided by mintmark. Solid ring on the rim.",
+    "lettering": "5\r\nØRE\r\n19 ⚒ 42",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/norvege/815-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/815-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "comments": "<p>During the German occupation of Norway the composition was changed from copper-nickel to zinc (for the war efforts), the obverse was also changed to no longer include the Norwegian crown (symbol of the king) and the royal motto (\"Everything for Norway\"), as the king went into exile after denying the German ultimatum.</p>",
+  "related_types": [
+    {
+      "id": 1434,
+      "title": "5 Øre - Haakon VII",
+      "category": "coin",
+      "country": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "minYear": 1908,
+      "maxYear": 1952
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "388"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "42"
+    },
+    {
+      "catalogue": {
+        "id": 201,
+        "code": "Rønning"
+      },
+      "number": "284"
+    }
+  ],
+  "weight": 6.94,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain.",
+    "picture": "https://en.numista.com/catalogue/photos/norvege/68f0e7501a86a2.72003644-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/68f0e7501a86a2.72003644-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 1888,
+      "name": "Norwegian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

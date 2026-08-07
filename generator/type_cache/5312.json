@@ -1,0 +1,117 @@
+{
+  "id": 5312,
+  "url": "https://en.numista.com/5312",
+  "title": "2 Rupees",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "inde",
+    "name": "India"
+  },
+  "min_year": 2007,
+  "max_year": 2011,
+  "ruler": [
+    {
+      "id": 2943,
+      "name": "Republic",
+      "wikidata_id": "Q668"
+    }
+  ],
+  "value": {
+    "text": "2 Rupees",
+    "numeric_value": 2,
+    "currency": {
+      "id": 171,
+      "name": "Rupee",
+      "full_name": "Rupee (decimalized, 1957-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 27,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Ashoka Lion Capitol between horizontal lines, date below",
+    "lettering": "भारत INDIA\r\nसत्यमेव जयते\r\n2009",
+    "lettering_scripts": [
+      {
+        "name": "Devanagari"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/inde/2451-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/inde/2451-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "reverse": {
+    "description": "Part of the Hasta Mudra (hand signs)series. Various Hasta Mudras are used in Indian dance.\r\n\r\nDenomination\r\nSign language symbol; two fingers",
+    "lettering": "2 \r\nरूपये\r\nRUPEES",
+    "lettering_scripts": [
+      {
+        "name": "Devanagari"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/inde/3200-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/inde/3200-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "series": "Hasta Mudra Series",
+  "comments": "<p><a href=\"https://en.numista.com/catalogue/images/5dda6a4b1fcfd.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5dda6a4b1fcfd.jpg\" alt=\"\"></a><br>There is a <strong>variation in the 2009 Mumbai mint</strong> 2 rupees coin.<br>The 1st image has a thin 9 in the year 2009.<br><a href=\"https://en.numista.com/catalogue/images/5fb5ba54dfbf4.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5fb5ba54dfbf4.jpg\" alt=\"\"></a><br>The 2nd image has a broad 9 in the year 2009.<br><a href=\"https://en.numista.com/catalogue/images/5fb5ba6ccc29d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5fb5ba6ccc29d.jpg\" alt=\"\"></a><br>This is a combined image of the 2 coins.<br><a href=\"https://en.numista.com/catalogue/images/5fb5ba939e9c5.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5fb5ba939e9c5.jpg\" alt=\"\"></a><br>Die varieties in 2007 Hyderabad mint coins with Small (left) and Large (right) mint marks.<br><a href=\"https://en.numista.com/catalogue/images/60524fec65773.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/60524fec65773.jpg\" alt=\"\"></a></p><p>I have found a grooved edge, on the 2010 Hyderabad coin: <a href=\"https://en.numista.com/catalogue/images/691390ea95eb9.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/691390ea95eb9.jpg\"></a> (Compared with normal edge)</p>",
+  "tags": [
+    "Cat or feline",
+    "Hand",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "327"
+    }
+  ],
+  "weight": 5.8,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/inde/69d74575b6df79.25568114-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/inde/69d74575b6df79.25568114-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 1803,
+      "name": "Kolkata / Calcutta / Murshidabad"
+    },
+    {
+      "id": 1805,
+      "name": "Noida"
+    },
+    {
+      "id": 1806,
+      "name": "Hyderabad"
+    },
+    {
+      "id": 1804,
+      "name": "Mumbai / Bombay"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

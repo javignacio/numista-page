@@ -1,0 +1,113 @@
+{
+  "id": 2804,
+  "url": "https://en.numista.com/2804",
+  "title": "5 Krónur",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "islande",
+    "name": "Iceland"
+  },
+  "min_year": 1969,
+  "max_year": 1980,
+  "ruler": [
+    {
+      "id": 1592,
+      "name": "Republic",
+      "wikidata_id": "Q189"
+    }
+  ],
+  "value": {
+    "text": "5 Krónur",
+    "numeric_value": 5,
+    "currency": {
+      "id": 241,
+      "name": "Old króna",
+      "full_name": "Old króna (1885-1980)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 20.75,
+  "thickness": 1.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Icelandic coat of arms surrounded by the four traditional protector spirits (\"Landvættir\") of Iceland. These are Griðungur the bull, Gammur the eagle, Dreki the dragon, and Bergrisi the giant.",
+    "lettering": "1970",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/islande/63b71b4bb74597.11088874-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/islande/63b71b4bb74597.11088874-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "reverse": {
+    "description": "Face value at the center and leaves of pubescent birch (Betula pubescens, only endemic tree of Iceland), to left and right.",
+    "lettering": "ÍSLAND \r\n5 \r\nKRÓNUR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Iceland",
+    "picture": "https://en.numista.com/catalogue/photos/islande/63b71b4c3abaa9.96894498-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/islande/63b71b4c3abaa9.96894498-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "tags": [
+    "Bird",
+    "Cow or bovine",
+    "Fantasy animal",
+    "Mythology",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "18"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "18"
+    },
+    {
+      "catalogue": {
+        "id": 144,
+        "code": "SIEG"
+      },
+      "number": "45"
+    }
+  ],
+  "weight": 4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

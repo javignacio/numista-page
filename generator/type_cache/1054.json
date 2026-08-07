@@ -1,0 +1,129 @@
+{
+  "id": 1054,
+  "url": "https://en.numista.com/1054",
+  "title": "10 Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "cuba",
+    "name": "Cuba"
+  },
+  "min_year": 1994,
+  "max_year": 2018,
+  "ruler": [
+    {
+      "id": 4118,
+      "name": "Second Republic",
+      "wikidata_id": "Q241"
+    }
+  ],
+  "value": {
+    "text": "10 Centavos",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 149,
+      "name": "Convertible peso",
+      "full_name": "Convertible peso (1994-2020)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2021-01-01"
+  },
+  "size": 20,
+  "thickness": 1.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Charles Edward Barber"
+    ],
+    "description": "Cuban coat of arms, date below, circular legends: name of the country above, and face value in words below; with eight-sided ring on edge.\r\n\r\nEscudo cubano, fecha abajo, leyenda circular: nombre del país arriba, valor facial abajo, con aro de ocho lados en el borde.",
+    "lettering": "REPUBLICA DE CUBA\r\n2009\r\ndiez centavos",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Cuba\r\n2009\r\nten centavos",
+    "picture": "https://en.numista.com/catalogue/photos/cuba/635ef73cd79273.46530479-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/cuba/635ef73cd79273.46530479-180.jpg",
+    "picture_copyright": "ciscoins",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Castillo de la Fuerza, with face value as numerals on upper right, name of the place upper left; with eight-sided ring on edge.\r\n\r\nCastillo de la Fuerza, valor facial en números arriba a la derecha, nombre del lugar arriba a la izquierda, con aro de ocho lados al borde",
+    "lettering": "10 ¢\r\nCASTILLO DE LA FUERZA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "10 ¢ (centavos)\r\nCastle of the Force",
+    "picture": "https://en.numista.com/catalogue/photos/cuba/635ef73d3fda46.87958690-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/cuba/635ef73d3fda46.87958690-180.jpg",
+    "picture_copyright": "ciscoins",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p><strong><u>IMPORTANT NOTE:</u> After an investigation, it was not possible to confirm the existence of coins with year 2003.</strong><br><strong>On Krause catalog the coin is listed, but not on other 3 Cuban catalogs checked.</strong><br><strong>Therefore, if you think you have one of these, please check carefully and correct your listing if is mistakenly registered, or please send picture of the coin to referee, if you really have it.</strong><br><br>The Castillo de la Real Fuerza (Castle of the Royal Force/Army), is a 16th century fortress located in Havana; was built during colonial time to control and protect the entrance to Havana Bay.<br><a href=\"https://en.numista.com/catalogue/images/58f39d8a1e55e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/58f39d8a1e55e.jpg\" alt=\"\"></a><br><br>Known variations on year issues:<br>1994, minted at Canada: out of the most noticeable difference medal rotation vs. coin rotation on the other years, there are design variations: Castle blocks are different, roof is different. Shield details are different.<br><img src=\"https://en.numista.com/catalogue/images/60bbb5c173e2a.jpg\" alt=\"\"><br><img src=\"https://en.numista.com/catalogue/images/60bbb5f46e825.jpg\" alt=\"\"><br>&nbsp;<br>2009: Thick date<br>2013: Thick and narrow date<br>2016: Large date<br>2017: Large date, close to rim<br><br>The coin was struck at Ottawa, Canada on 1994 issue, and at Havana rest of years, up to date.<br><br><strong><u>NOTA IMPORTANTE:</u> Luego de una investigación no fué posible confirmar la existencia de monedas emitidas en 2003.</strong><br><strong>Están listadas en el catálogo Krause, pero no en otros 3 catálogos cubanos consultados.</strong><br><strong>Por tanto, si cree que tiene esa moneda, por favor revise cuidadosamente y corrija su registro si fué erróneamente registrada; o, por favor envíe fotos al referente, si realmente la tiene.</strong><br><br>El Castillo de la Real Fuerza es una fortaleza del siglo XVI emplazada en La Habana; fué construida durante la época colonial para controlar y protejer la entrada a la bahñia de La Habana.<br><a href=\"https://en.numista.com/catalogue/images/58f39d8a1e55e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/58f39d8a1e55e.jpg\" alt=\"\"></a><br><br>Variantes conocidas en los años emitidos:<br>1994, acuñada en Canadá: además de la diferencia más notable, rotaci´ñon medalla en lugar de moneda en los demás años, hay diferencias en el diseño: los bloques del castillo son diferentes, el techo es distinto. Los elementos del escudo tienen diferencias.<br><img src=\"https://en.numista.com/catalogue/images/60bbb5c173e2a.jpg\" alt=\"\"><br><img src=\"https://en.numista.com/catalogue/images/60bbb5f46e825.jpg\" alt=\"\"><br>&nbsp;<br>2009: Fecha gruesa<br>2013: Existen con fecha gruesa y fecha fina<br>2016: Fecha grande<br>2017: Fecha grande muy próxima al borde<br><br>Esta moneda fué acuñada en Ottawa, Canadá en la emisión de 1994, y en La Habana en el resto de los años.</p>",
+  "tags": [
+    "Castle or fortification",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "576.1"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "576.2"
+    },
+    {
+      "catalogue": {
+        "id": 984,
+        "code": "JMA"
+      },
+      "number": "MC20"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "714"
+    }
+  ],
+  "weight": 4,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded\r\n\r\nEstriado"
+  },
+  "mints": [
+    {
+      "id": 295,
+      "name": "Empresa Cubana de Acuñaciones"
+    },
+    {
+      "id": 1339,
+      "name": "Sherritt Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

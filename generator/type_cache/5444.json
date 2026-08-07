@@ -1,0 +1,114 @@
+{
+  "id": 5444,
+  "url": "https://en.numista.com/5444",
+  "title": "10 Escudos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "portugal",
+    "name": "Portugal"
+  },
+  "min_year": 1971,
+  "max_year": 1974,
+  "ruler": [
+    {
+      "id": 1294,
+      "name": "Second Republic",
+      "wikidata_id": "Q17748736"
+    }
+  ],
+  "value": {
+    "text": "10 Escudos",
+    "numeric_value": 10,
+    "currency": {
+      "id": 65,
+      "name": "Escudo",
+      "full_name": "Escudo (1911-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 28,
+  "thickness": 2.18,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel clad nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Jaime Martins Barata"
+    ],
+    "description": "Boat, sailing ship to the right, name of the country around and date below",
+    "lettering": "REPUBLICA PORTUGUESA\r\n+ 1974 +",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/portugal/63ba9c73ef63d4.06343315-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/portugal/63ba9c73ef63d4.06343315-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "reverse": {
+    "engravers": [
+      "Marcelino Norte de Almeida"
+    ],
+    "description": "Arms of Portugal, 4 stars, value below",
+    "lettering": "10$00\r\nMARTINS BARATA DEL.\r\nM. NORTE SCULP.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/portugal/63ba9c748ae356.99686716-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/portugal/63ba9c748ae356.99686716-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "series": "System 1969-1980",
+  "comments": "There are 2 edge alignments in all dates",
+  "tags": [
+    "Coat of Arms",
+    "Boat or watercraft"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "600"
+    },
+    {
+      "catalogue": {
+        "id": 108,
+        "code": "Gomes"
+      },
+      "number": "R 46"
+    }
+  ],
+  "weight": 10,
+  "orientation": "coin",
+  "edge": {
+    "description": "Smooth with inscription",
+    "lettering": "ESPERANÇA FRATERNIDADE CONFIANÇA",
+    "picture": "https://en.numista.com/catalogue/photos/portugal/695a2541716126.01418577-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/portugal/695a2541716126.01418577-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 1337,
+      "name": "Imprensa Nacional - Casa da Moeda"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,151 @@
+{
+  "id": 2586,
+  "url": "https://en.numista.com/2586",
+  "title": "1 Reichspfennig",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "allemagne-pre1945",
+    "name": "Germany (1871-1948)"
+  },
+  "min_year": 1940,
+  "max_year": 1945,
+  "ruler": [
+    {
+      "id": 3581,
+      "name": "Third Reich",
+      "wikidata_id": "Q7318"
+    }
+  ],
+  "value": {
+    "text": "1 Pfennig",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 230,
+      "name": "Reichsmark",
+      "full_name": "Reichsmark (1924-1948)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 17,
+  "thickness": 1.25,
+  "shape": "Round",
+  "composition": {
+    "text": "Zinc"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Otto Vogt",
+      "Hans Herbert Schweitzer"
+    ],
+    "description": "Emblem of the Third Reich - eagle carrying a swastika enclosed in a wreath",
+    "lettering": "Deutſches Reich \r\n· 1941 ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin (Fraktur blackletter)"
+      }
+    ],
+    "lettering_translation": "German Empire\r\n· 1941 ·",
+    "picture": "https://en.numista.com/catalogue/photos/allemagne-pre1945/5110-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/allemagne-pre1945/5110-180.jpg",
+    "picture_copyright": "smy77",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Otto Vogt",
+      "Hans Herbert Schweitzer"
+    ],
+    "description": "Value with oak-leaves below and the mintmark below the leaves",
+    "lettering": "Reichspfennig\r\n1\r\nJ",
+    "lettering_scripts": [
+      {
+        "name": "Latin (Fraktur blackletter)"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/allemagne-pre1945/5111-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/allemagne-pre1945/5111-180.jpg",
+    "picture_copyright": "smy77",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "tags": [
+    "Bird",
+    "Eagle"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "97"
+    },
+    {
+      "catalogue": {
+        "id": 81,
+        "code": "AKS"
+      },
+      "number": "59"
+    },
+    {
+      "catalogue": {
+        "id": 80,
+        "code": "J"
+      },
+      "number": "369"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "92"
+    }
+  ],
+  "weight": 1.81,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 5,
+      "name": "Berlin"
+    },
+    {
+      "id": 232,
+      "name": "Münze Österreich"
+    },
+    {
+      "id": 1,
+      "name": "Munich"
+    },
+    {
+      "id": 1366,
+      "name": "Muldenhütten"
+    },
+    {
+      "id": 2,
+      "name": "Staatliche Münze Baden-Württemberg"
+    },
+    {
+      "id": 3,
+      "name": "Staatliche Münze Baden-Württemberg"
+    },
+    {
+      "id": 4,
+      "name": "Hamburgische Münze"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

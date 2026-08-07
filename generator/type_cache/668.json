@@ -1,0 +1,131 @@
+{
+  "id": 668,
+  "url": "https://en.numista.com/668",
+  "title": "½ Penny - Elizabeth II (1st portrait; with 'BRITT:OMN')",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1953,
+  "max_year": 1953,
+  "ruler": [
+    {
+      "id": 275,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 527,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "½ Penny",
+    "numeric_value": 0.0020833333333333333,
+    "numerator": 1,
+    "denominator": 480,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1970)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1969-08-01"
+  },
+  "size": 25.4,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Mary Gillick"
+    ],
+    "description": "Young laureate bust of Queen Elizabeth II right, legend around.",
+    "lettering": "+ELIZABETH II DEI GRA:BRITT:OMN:REGINA F:D\r\nM·G·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Elizabeth II Dei Gratia Britanniarum Omnium Regina Fidei Defensatrix",
+    "lettering_translation": "Elizabeth II by the Grace of God Queen of all the Britons Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/183-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/183-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Thomas Humphrey Paget"
+    ],
+    "description": "Three-masted ship sailing left, denomination above, date below.",
+    "lettering": "HALF PENNY \r\nHP\r\n1953",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/182-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/182-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "<p>House of Windsor (1917 to date), Elizabeth II (1952-2022), Pre-decimal issues (1953-70).<br><br>The standard weight of these pieces was 80 to the pound avoirdupois (1/5 ounce or 87½ grains).<br><br>The ship featured on the reverse design, which first appeared on the 1937 halfpenny pattern of Edward VIII, is based on Sir Francis Drake's Golden Hind, in which he became the first Englishman to circumnavigate the globe between 1577 and 1580.<br><br><i>Obverse die varieties:</i><br><br><a href=\"https://en.numista.com/catalogue/images/6974e81be7036.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6974e81be7036.jpg\"></a><br>Image above is reproduced with kind permission of Declan Magee and Numista member Sjoelund.<br><br>A special mint set was released comprising 2s. 6d. to 1/4d. ordinary business strikes in transparent envelopes (1,288,000 issued).<br><br>Also, a special proof set was released comprising 5s. to 1/4d. struck from polished dies and sold in special cases (40,000 issued).</p>",
+  "related_types": [
+    {
+      "id": 5824,
+      "title": "½ Penny - Elizabeth II (1st portrait; without 'BRITT:OMN')",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1954,
+      "maxYear": 1970
+    }
+  ],
+  "tags": [
+    "Boat or watercraft"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "882"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "4155"
+    }
+  ],
+  "weight": 5.67,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,106 @@
+{
+  "id": 4187,
+  "url": "https://en.numista.com/4187",
+  "title": "100 Shilingi",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "tanzanie",
+    "name": "Tanzania"
+  },
+  "min_year": 1993,
+  "max_year": 2015,
+  "ruler": [
+    {
+      "id": 947,
+      "name": "Republic",
+      "wikidata_id": "Q924"
+    }
+  ],
+  "value": {
+    "text": "100 Shilingi",
+    "numeric_value": 100,
+    "currency": {
+      "id": 182,
+      "name": "Shilling",
+      "full_name": "Shilling (1966-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24.5,
+  "thickness": 27,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The portrait of Julius K. Nyerere facing partly to the left",
+    "lettering": "MWALIMU JULIUS K. NYERERE\r\nRAIS WA KWANZA WA TANZANIA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Educator Julius K. Nyerere\r\nThe First President of Tanzania",
+    "picture": "https://en.numista.com/catalogue/photos/tanzanie/63bf2798800f04.53357097-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/tanzanie/63bf2798800f04.53357097-180.jpg",
+    "picture_copyright": "The Coinhouse Auctions"
+  },
+  "reverse": {
+    "description": "Four Impalas (Aepyceros melampus) leaping to right, and the denomination to the left of the date above around the rim and the denomination in numerals below",
+    "lettering": "SHILINGI MIA MOJA 1994\r\n100",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "One Hundred Shillings 1994",
+    "picture": "https://en.numista.com/catalogue/photos/tanzanie/63bf2798b0f0a2.93151800-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/tanzanie/63bf2798b0f0a2.93151800-180.jpg",
+    "picture_copyright": "The Coinhouse Auctions"
+  },
+  "comments": "<span style=\"font-weight:bold;\">Julius Nyerere</span>: Tanzanian politician, founding father of Tanzania, President of Tanzania from the date of the country&#039;s foundation, in 1964, until his retirement, in 1985. He is considered one of the greatest historical figures of the Twentieth Century and one of the two most important personalities of modern Africa together with Nelson Mandela.",
+  "tags": [
+    "Cow or bovine",
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "32"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "35"
+    }
+  ],
+  "weight": 9,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/tanzanie/698bdf199d3753.42983346-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/tanzanie/698bdf199d3753.42983346-180.jpg",
+    "picture_copyright": "Dieter83"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

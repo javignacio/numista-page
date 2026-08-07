@@ -1,0 +1,128 @@
+{
+  "id": 15449,
+  "url": "https://en.numista.com/15449",
+  "title": "2 Seniti - Taufa'ahau Tupou IV (FAO)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "tonga",
+    "name": "Tonga"
+  },
+  "issuing_entity": {
+    "id": 947,
+    "name": "National Reserve Bank of Tonga",
+    "wikidata_id": "Q2604318"
+  },
+  "min_year": 2002,
+  "max_year": 2005,
+  "ruler": [
+    {
+      "id": 4110,
+      "name": "Tāufaʻāhau Tupou IV",
+      "wikidata_id": "Q273739",
+      "group": {
+        "id": 273,
+        "name": "Tuʻi Kanokupolu"
+      }
+    }
+  ],
+  "value": {
+    "text": "2 Seniti",
+    "numeric_value": 0.02,
+    "currency": {
+      "id": 140,
+      "name": "Pa'anga",
+      "full_name": "Pa'anga (1967-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2015-10-01"
+  },
+  "size": 21,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Taro",
+    "lettering": "TONGA 2 SENITI",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/tonga/5f2148780125b5.96478625-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/tonga/5f2148780125b5.96478625-180.jpg",
+    "picture_copyright": "Ciscoins.net",
+    "picture_copyright_url": "https://web.archive.org/web/20201116183734/http://ciscoins.net/"
+  },
+  "reverse": {
+    "lettering": "PLANNED FAMILIES · FOOD FOR ALL\r\n2002",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/tonga/5f2148783dc842.57196955-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/tonga/5f2148783dc842.57196955-180.jpg",
+    "picture_copyright": "Ciscoins.net",
+    "picture_copyright_url": "https://web.archive.org/web/20201116183734/http://ciscoins.net/"
+  },
+  "commemorated_topic": "FAO - Family Planning",
+  "comments": "Krause reports years 2003 and 2004; however, confirmation is needed on whether or not they actually exist. It is possible the mint reports striking this type in those two years, but they could have all been dated 2002.",
+  "related_types": [
+    {
+      "id": 1514,
+      "title": "2 Seniti - Taufa'ahau Tupou IV (FAO)",
+      "category": "coin",
+      "country": {
+        "code": "tonga",
+        "name": "Tonga"
+      },
+      "minYear": 1981,
+      "maxYear": 1996
+    }
+  ],
+  "tags": [
+    "FAO"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "67a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "52a"
+    }
+  ],
+  "weight": 3.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/tonga/6174ee6113a376.51756670-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/tonga/6174ee6113a376.51756670-180.jpg",
+    "picture_copyright": "Jabin2001"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

@@ -1,0 +1,91 @@
+{
+  "id": 27181,
+  "url": "https://en.numista.com/27181",
+  "title": "2000 Pesos (Anniversary of the Mint)",
+  "object_type": {
+    "id": 3,
+    "name": "Non-circulating coins"
+  },
+  "issuer": {
+    "code": "chili",
+    "name": "Chile"
+  },
+  "min_year": 1993,
+  "max_year": 1993,
+  "ruler": [
+    {
+      "id": 3299,
+      "name": "Republic",
+      "wikidata_id": "Q298"
+    }
+  ],
+  "value": {
+    "text": "2000 Pesos",
+    "numeric_value": 2000,
+    "currency": {
+      "id": 146,
+      "name": "Peso",
+      "full_name": "Peso (1975-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 26.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.500)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Metalworkers, two dates below",
+    "lettering": "250 AÑOS CASA DE MONEDA DE CHILE\r\n1743\r\n1993",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "250 Years of the Mint of Chile 1993",
+    "picture": "https://en.numista.com/catalogue/photos/chili/1362-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/1362-180.jpg",
+    "picture_copyright": "Infierno"
+  },
+  "reverse": {
+    "description": "The Palacio de la Moneda (Chilean government's house) divides date and denomination",
+    "lettering": "REPUBLICA DE CHILE\r\n2000\r\nPESOS\r\n1993",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Chile\r\n2000\r\nPesos\r\n1993",
+    "picture": "https://en.numista.com/catalogue/photos/chili/1361-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/1361-180.jpg",
+    "picture_copyright": "Infierno"
+  },
+  "commemorated_topic": "250th Anniversary of the Mint",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "233"
+    }
+  ],
+  "weight": 8.2,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    }
+  ],
+  "category": "coin",
+  "type": "Non-circulating coins"
+}

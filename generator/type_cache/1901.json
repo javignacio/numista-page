@@ -1,0 +1,138 @@
+{
+  "id": 1901,
+  "url": "https://en.numista.com/1901",
+  "title": "5 Cents - Wilhelmina",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "pays-bas",
+    "name": "Netherlands"
+  },
+  "min_year": 1948,
+  "max_year": 1948,
+  "ruler": [
+    {
+      "id": 1301,
+      "name": "Wilhelmina",
+      "wikidata_id": "Q150747",
+      "nomisma_id": "queen_wilhelmina",
+      "group": {
+        "id": 750,
+        "name": "House of Orange-Nassau"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Cents",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 70,
+      "name": "Gulden",
+      "full_name": "Gulden (decimalized, 1817-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 21,
+  "thickness": 1.45,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Ludwig Oswald Wenckebach"
+    ],
+    "description": "Queen Wilhelmina facing left.",
+    "lettering": "WILHELMINA KONINGIN DER NEDERLANDEN",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Wilhelmina Queen of the Netherlands",
+    "picture": "https://en.numista.com/catalogue/photos/pays-bas/5e339f80bbed79.10063964-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/5e339f80bbed79.10063964-180.jpg",
+    "picture_copyright": "gdch6ng",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Denomination, divided date at sides, orange branch at top. Privy mark to the left, mint mark to the right of value.",
+    "lettering": "5 CENT\r\n1948",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/pays-bas/5e339f81336255.60612337-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/5e339f81336255.60612337-180.jpg",
+    "picture_copyright": "gdch6ng",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "related_types": [
+    {
+      "id": 663,
+      "title": "5 Cents - Juliana",
+      "category": "coin",
+      "country": {
+        "code": "pays-bas",
+        "name": "Netherlands"
+      },
+      "minYear": 1950,
+      "maxYear": 1980
+    },
+    {
+      "id": 732,
+      "title": "5 Cents - Beatrix",
+      "category": "coin",
+      "country": {
+        "code": "pays-bas",
+        "name": "Netherlands"
+      },
+      "minYear": 1982,
+      "maxYear": 2001
+    }
+  ],
+  "tags": [
+    "Fruit"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "176"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "61"
+    }
+  ],
+  "weight": 3.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/pays-bas/615ec9bb0ffbd3.73709338-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/615ec9bb0ffbd3.73709338-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 23,
+      "name": "Royal Dutch Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

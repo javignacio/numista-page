@@ -1,0 +1,119 @@
+{
+  "id": 57,
+  "url": "https://en.numista.com/57",
+  "title": "1 Euro Cent",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "autriche",
+    "name": "Austria"
+  },
+  "min_year": 2002,
+  "max_year": 2026,
+  "ruler": [
+    {
+      "id": 149,
+      "name": "Second Republic",
+      "wikidata_id": "Q40"
+    }
+  ],
+  "value": {
+    "text": "1 Euro Cent",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 9002,
+      "name": "Euro",
+      "full_name": "Euro (2002-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2002-01-01"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 16.25,
+  "thickness": 1.67,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Josef Kaiser"
+    ],
+    "description": "A gentian, which symbolizes a duty to the environment encircled by the face value, heraldic hatchings representing the Austrian flag and twelve five-pointed stars representing the European Union around the rim",
+    "lettering": "EIN EURO CENT 2007",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/autriche/62ca843026f837.34117868-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/autriche/62ca843026f837.34117868-180.jpg",
+    "picture_copyright": "Mike Bentley",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Luc Luycx"
+    ],
+    "description": "A globe, next to the face value, shows Europe in relation to Africa and Asia.",
+    "lettering": "1 EURO CENT LL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/autriche/62ca843116f7d5.49400449-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/autriche/62ca843116f7d5.49400449-180.jpg",
+    "picture_copyright": "Mike Bentley",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "Gentian Flower or Stemless Gentian Flower - Binomial Name: Gentiana acaulis<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/608ad98405ca2.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/608ad98405ca2.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nThere are small differences in the oblique lines on the reverse in 2018:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5c01b57e63ede.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5c01b57e63ede.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nSlightly modified obverse (thinner, longer and more numerous lines in the red fields of the Austrian flag):<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5ed5f731e352c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5ed5f731e352c.jpg\" alt=\"\" width=\"200\" height=\"147\" /></a>",
+  "tags": [
+    "Map",
+    "Globe",
+    "Flower"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "3082"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "277"
+    }
+  ],
+  "weight": 2.3,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/autriche/3024-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/autriche/3024-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 232,
+      "name": "Münze Österreich"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

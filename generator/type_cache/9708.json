@@ -1,0 +1,97 @@
+{
+  "id": 9708,
+  "url": "https://en.numista.com/9708",
+  "title": "2½ Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "chili",
+    "name": "Chile"
+  },
+  "min_year": 1904,
+  "max_year": 1908,
+  "ruler": [
+    {
+      "id": 3299,
+      "name": "Republic",
+      "wikidata_id": "Q298"
+    }
+  ],
+  "value": {
+    "text": "2½ Centavos",
+    "numeric_value": 0.025,
+    "currency": {
+      "id": 237,
+      "name": "Peso",
+      "full_name": "Peso (1835-1959)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 25,
+  "thickness": 2.92,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Liberty head",
+    "lettering": "REPUBLICA DE CHILE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Chile",
+    "picture": "https://en.numista.com/catalogue/photos/chili/1331-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/1331-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "description": "Value and the motto \"Economy is wealth\"",
+    "lettering": "ECONOMIA ES RIQUEZA\r\n2½\r\nCENTAVOS\r\nSo\r\n * 1904 *",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Economy is Wealth",
+    "picture": "https://en.numista.com/catalogue/photos/chili/1332-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/1332-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "tags": [
+    "Allegory",
+    "Phrygian cap",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "162"
+    }
+  ],
+  "weight": 7.1,
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

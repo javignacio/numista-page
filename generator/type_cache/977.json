@@ -1,0 +1,168 @@
+{
+  "id": 977,
+  "url": "https://en.numista.com/977",
+  "title": "1 Agora",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "israel",
+    "name": "Israel"
+  },
+  "min_year": 1960,
+  "max_year": 1980,
+  "ruler": [
+    {
+      "id": 4056,
+      "name": "State of Israel",
+      "wikidata_id": "Q801"
+    }
+  ],
+  "value": {
+    "text": "1 Agora",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 9318,
+      "name": "Pound",
+      "full_name": "Pound (1960-1980)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1980-02-22"
+  },
+  "size": 20.2,
+  "thickness": 1.55,
+  "shape": "Scalloped (with 12 notches)",
+  "composition": {
+    "text": "Aluminium (Aluminium 97%, Magnesium 3%)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Three barley ears",
+    "lettering": "ישראל اسرائيل",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      },
+      {
+        "name": "Hebrew"
+      }
+    ],
+    "lettering_translation": "Israel",
+    "picture": "https://en.numista.com/catalogue/photos/israel/34-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/israel/34-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Gabriel Shamir",
+      "Maxim Shamir"
+    ],
+    "description": "Value",
+    "lettering": "1\r\nאגורה\r\nתשל\"ד",
+    "lettering_scripts": [
+      {
+        "name": "Hebrew"
+      }
+    ],
+    "lettering_translation": "Agora\r\n1974",
+    "picture": "https://en.numista.com/catalogue/photos/israel/35-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/israel/35-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "The patterns versus circulation coins 1960/5720:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/646b289e38a9d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/646b289e38a9d.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nThe &quot;lamed&quot; differences 1960/5720:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5dc9345d6e4f8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5dc9345d6e4f8.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nThe date differences 1962/5722:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/646b293496fa2.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/646b293496fa2.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nDate of Issue: 12th May, 1960<br /><br />\r\nOf the coins dated 5724 (1964), 22,604,241 were minted by the Tel Aviv Mint and 4,950,000 were minted by the Berne Mint.<br />\r\nOf the coins dated 5725 (1965), 10,707,625 were minted by the Tel Aviv Mint and 10,024,000 were minted by the Berne Mint.<br />\r\nOf the coins dated 5726 (1966), 8,482,502 were minted by the Tel Aviv Mint and 1,680,000 were minted by the Berne Mint.",
+  "related_types": [
+    {
+      "id": 89900,
+      "title": "1 Agora (Year set Issue; With Star of David)",
+      "category": "coin",
+      "country": {
+        "code": "israel",
+        "name": "Israel"
+      },
+      "minYear": 1971,
+      "maxYear": 1979
+    },
+    {
+      "id": 19087,
+      "title": "1 Agora (Israel's 25th Anniversary)",
+      "category": "coin",
+      "country": {
+        "code": "israel",
+        "name": "Israel"
+      },
+      "minYear": 1973,
+      "maxYear": 1973
+    },
+    {
+      "id": 13496,
+      "title": "1 Agora (25th Anniversary of the Bank of Israel)",
+      "category": "coin",
+      "country": {
+        "code": "israel",
+        "name": "Israel"
+      },
+      "minYear": 1980,
+      "maxYear": 1980
+    },
+    {
+      "id": 70200,
+      "title": "Prutah - Herod Agrippa I",
+      "category": "coin",
+      "country": {
+        "code": "jerusalem_rom_prov",
+        "name": "Jerusalem"
+      },
+      "minYear": 41,
+      "maxYear": 42
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "24.1"
+    }
+  ],
+  "weight": 1.03,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/israel/614e08919b8189.35179524-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/israel/614e08919b8189.35179524-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 247,
+      "name": "Bern"
+    },
+    {
+      "id": 4358,
+      "name": "Government Printer - Israel Mint"
+    },
+    {
+      "id": 1540,
+      "name": "Jerusalem"
+    },
+    {
+      "id": 31,
+      "name": "Kings Norton Metal Company"
+    },
+    {
+      "id": 19,
+      "name": "Royal Canadian Mint of Ottawa"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,137 @@
+{
+  "id": 7295,
+  "url": "https://en.numista.com/7295",
+  "title": "25 Céntimos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "venezuela",
+    "name": "Venezuela"
+  },
+  "min_year": 1989,
+  "max_year": 1990,
+  "ruler": [
+    {
+      "id": 4706,
+      "name": "Fourth Republic",
+      "wikidata_id": "Q21296156"
+    }
+  ],
+  "value": {
+    "text": "25 Centimos",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 7,
+      "name": "Bolivar",
+      "full_name": "Bolivar (1879-2007)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2011-12-31"
+  },
+  "size": 17,
+  "thickness": 1,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel clad steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms flanked by date. With legend above and value below.",
+    "lettering": "•REPUBLICA DE VENEZUELA•\r\n19 90\r\n25\r\nCENTIMOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Venezuela Republic\r\n1990\r\n25 Centimes",
+    "picture": "https://en.numista.com/catalogue/photos/venezuela/462-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/venezuela/462-180.jpg",
+    "picture_copyright": "gef"
+  },
+  "reverse": {
+    "engravers": [
+      "Désiré-Albert Barre"
+    ],
+    "description": "Bust left, flanked with legend and engraver's name at bottom.",
+    "lettering": "BOLÍVAR LIBERTADOR\r\nBARRE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Bolivar Liberator",
+    "picture": "https://en.numista.com/catalogue/photos/venezuela/461-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/venezuela/461-180.jpg",
+    "picture_copyright": "gef"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/5d737d719b05c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d737d719b05c.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nA 1990 coin with PDM (Post Mint Damage)<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5d737da8b0964.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d737da8b0964.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "related_types": [
+    {
+      "id": 1099,
+      "title": "25 Céntimos",
+      "category": "coin",
+      "country": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "minYear": 1965,
+      "maxYear": 1965
+    },
+    {
+      "id": 2625,
+      "title": "25 Céntimos",
+      "category": "coin",
+      "country": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "minYear": 1977,
+      "maxYear": 1987
+    }
+  ],
+  "tags": [
+    "Horse or equine",
+    "Military leader",
+    "Politician",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "50a"
+    },
+    {
+      "catalogue": {
+        "id": 2068,
+        "code": "NCV"
+      },
+      "number": "mv25cts-cc"
+    }
+  ],
+  "weight": 1.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 29,
+      "name": "Mexican Mint"
+    },
+    {
+      "id": 4175,
+      "name": "Vereinigte Deutsche Nickelwerke"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,129 @@
+{
+  "id": 1106,
+  "url": "https://en.numista.com/1106",
+  "title": "1 Baht - Rama IX (Non-magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "thailande",
+    "name": "Thailand"
+  },
+  "min_year": 1986,
+  "max_year": 2008,
+  "ruler": [
+    {
+      "id": 1905,
+      "name": "Bhumibol Adulyadej (Rama IX)",
+      "wikidata_id": "Q855252",
+      "group": {
+        "id": 65,
+        "name": "Chakri dynasty"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Baht",
+    "numeric_value": 1,
+    "currency": {
+      "id": 4,
+      "name": "Baht",
+      "full_name": "Baht (1897-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 20,
+  "thickness": 1.48,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Wuthichai Saengngoen"
+    ],
+    "description": "Bust of King Bhumibol Adulyadej, or Rama IX, facing left.",
+    "lettering": "ภูมิพลอดุลยเดช \r\nรัชกาลที่ ๙",
+    "lettering_scripts": [
+      {
+        "name": "Thai"
+      }
+    ],
+    "lettering_translation": "Bhumibol Adulyadej. Rama IX.",
+    "picture": "https://en.numista.com/catalogue/photos/thailande/2844-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/thailande/2844-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "reverse": {
+    "engravers": [
+      "Supab Aun-aree"
+    ],
+    "description": "Wat Phra Kaew Temple, Bangkok and the denomination to the right.",
+    "lettering": "ประเทศไทย \r\nพ.ศ. ๒๕๔๒\r\n๑\r\n1 บาท",
+    "lettering_scripts": [
+      {
+        "name": "Thai"
+      }
+    ],
+    "lettering_translation": "Thailand.\r\nB.E. 2542\r\n1\r\n1 Baht.",
+    "picture": "https://en.numista.com/catalogue/photos/thailande/2845-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/thailande/2845-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "comments": "<p>This coin was monetized on August 8th, 1986, and the first issue coins in 2529 (1986) have the short roof decorations on building on the right but was corrected in the same year meaning coins from the year 2529 (1986) with normal (long) roof decorations are the rare version.<br><br>2529<br><a href=\"https://en.numista.com/catalogue/images/64a95d22865cd.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64a95d22865cd.jpg\" alt=\"\"></a><br><br>2534<br><a href=\"https://en.numista.com/catalogue/images/64b82dee7eeb5.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64b82dee7eeb5.jpg\" alt=\"\"></a></p><p>2536 (1993)</p><p><a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.numista.com/forum/images/6603f14cc4071.jpg\"><a href=\"https://en.numista.com/forum/images/6603f14cc4071.jpg\"><img src=\"https://en.numista.com/forum/images/miniatures/6603f14cc4071.jpg\"></a></a><br><br>2546<br><a href=\"https://en.numista.com/catalogue/images/5b7a9fd37d914.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5b7a9fd37d914.jpg\" alt=\"\"></a><br><br>2549<br><a href=\"https://en.numista.com/catalogue/images/5f7ea588233e8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5f7ea588233e8.jpg\" alt=\"\"></a><br><br>Made-to-order coins exist:<br>- Coins struck on copper planchet; PCGS <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.pcgs.com/cert/35515203\">#35515203</a> (3.7g), PCGS <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.pcgs.com/cert/36821775\">#36821775</a> (3.85g), PCGS <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.pcgs.com/cert/37982044\">#37982044</a>. Non-graded coins also exist (3.78g and 3.92g)<br>- Coins struck on silver planchet; NGC <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.ngccoin.com/certlookup/3947512-065/66/\">#3947512-065</a> (5g), PCGS <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.pcgs.com/cert/36821776\">#36821776</a> (4.9g), PCGS <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.pcgs.com/cert/37982041\">#37982041</a>.<br>- Coin struck on 8.6 grams gold planchet; PCGS <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.pcgs.com/cert/36837182\">#36837182</a>.<br>// MTO set 2542 is consist of coins from 1 Satang to 5 Baht, with each type struck on copper, silver, and gold. 16~18 sets are believed to be made. (source by siamcoin)<br>- Coin struck as uniface obverse on silver planchet.<br>- Coin dated 2542 (1999), struck as uniface reverse on silver planchet.<br>- Coin dated 2543 (2000), struck as uniface reverse on silver planchet.<br>// MTO silver uniface sets. (source by siamcoin)<br>- Coin struck as uniface obverse on brass planchet.<br>- Coin dated 2546, struck as uniface reverse on brass planchet.<br>// MTO brass uniface sets. (source by siamcoin)<br>- Coin struck as uniface obverse; PCGS <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.pcgs.com/cert/80704782\">#80704782</a>. (pair of uniface 2543)<br>- Coin struck as uniface reverse, dated 2543; PCGS <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.pcgs.com/cert/80704781\">#80704781</a>. (pair of uniface 2543)<br>- Coin struck as uniface obverse; NGC <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.ngccoin.com/certlookup/4623205-005/66\">#4623205-005</a>, PCGS <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.pcgs.com/cert/37982054\">#37982054</a>. (pair of uniface 2544)<br>- Coin struck as uniface reverse, dated 2544; NGC <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.ngccoin.com/certlookup/4623205-006/66\">#4623205-006</a>, PCGS <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.pcgs.com/cert/37982055\">#37982055</a>. (pair of uniface 2544)<br>- Coin struck as double obverse, medal alignment; PCGS <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.pcgs.com/cert/37982048\">#37982048</a>, NGC graded coin also exists.<br>- Coin dated 2537, struck as double reverse, medal alignment; PCGS <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.pcgs.com/cert/37982049\">#37982049</a>.<br>- Coin dated 2532 struck as medal alignment; PCGS <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.pcgs.com/cert/80717157\">#80717157</a>. (set of medal alignment 25 Satang to 5 Baht 2532)<br>- Coin dated 2542 struck as medal alignment; NGC <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.ngccoin.com/certlookup/4536282-096/66\">#4536282-096</a>. (could be error)<br>- Coin struck on 2.39g planchet (likely 50 Satang planchet) exists. 2532 struck on 50 Satang planchet exist. (likely error)<br>________<br><br>Ref#1: Coin specification [TH]<br><a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"http://www.ratchakitcha.soc.go.th/DATA/PDF/2529/A/140/16.PDF\">http://www.ratchakitcha.soc.go.th/DATA/PDF/2529/A/140/16.PDF</a><br>Ref#2: Data in <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"http://www.coinscan.com/for/tha.html\">http://www.coinscan.com/for/tha.html</a> written that coins dated 2548 and 2550 were minted by Royal Canadian mint.<br>Ref#3 : about MTO [TH]<br><a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.youtube.com/watch?v=YZIhVJIO2Dk\">https://www.youtube.com/watch?v=YZIhVJIO2Dk</a></p>",
+  "related_types": [
+    {
+      "id": 9226,
+      "title": "1 Baht - Rama IX (Magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "minYear": 2009,
+      "maxYear": 2017
+    }
+  ],
+  "tags": [
+    "Religious building"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "183"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "345"
+    }
+  ],
+  "weight": 3.4,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded."
+  },
+  "mints": [
+    {
+      "id": 1334,
+      "name": "Mint of Finland"
+    },
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

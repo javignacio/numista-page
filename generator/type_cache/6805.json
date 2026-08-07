@@ -1,0 +1,161 @@
+{
+  "id": 6805,
+  "url": "https://en.numista.com/6805",
+  "title": "10 Cents - Elizabeth II (2nd portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "iles_caimanes",
+    "name": "Cayman Islands"
+  },
+  "issuing_entity": {
+    "id": 1699,
+    "name": "Cayman Islands Currency Board"
+  },
+  "min_year": 1972,
+  "max_year": 1986,
+  "ruler": [
+    {
+      "id": 958,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 800,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Cents",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 43,
+      "name": "Dollar",
+      "full_name": "Dollar (1972-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21,
+  "thickness": 1.62,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Arnold Machin"
+    ],
+    "description": "Second crowned portrait of Queen Elizabeth II right, wearing the Girls of Great Britain and Ireland tiara, legend around, date below",
+    "lettering": "CAYMAN ISLANDS ELIZABETH II\r\n1974",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/iles_caimanes/5efded96edcfd8.69998242-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/iles_caimanes/5efded96edcfd8.69998242-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Stuart Devlin"
+    ],
+    "description": "Green Turtle surfacing creating ripples, denomination to the right.",
+    "lettering": "10\r\nSD",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/iles_caimanes/5efded97482734.27681360-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/iles_caimanes/5efded97482734.27681360-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "Of the circulation coins dated 1972, 350,000 were minted in 1971, 200,000 were minted in 1973, and 200,000 were minted in 1975.",
+  "related_types": [
+    {
+      "id": 5412,
+      "title": "10 Cents - Elizabeth II (3rd portrait)",
+      "category": "coin",
+      "country": {
+        "code": "iles_caimanes",
+        "name": "Cayman Islands"
+      },
+      "minYear": 1987,
+      "maxYear": 1990
+    },
+    {
+      "id": 9592,
+      "title": "10 Cents - Elizabeth II (3rd portrait; magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "iles_caimanes",
+        "name": "Cayman Islands"
+      },
+      "minYear": 1992,
+      "maxYear": 1996
+    },
+    {
+      "id": 2700,
+      "title": "10 Cents - Elizabeth II (4th portrait)",
+      "category": "coin",
+      "country": {
+        "code": "iles_caimanes",
+        "name": "Cayman Islands"
+      },
+      "minYear": 1999,
+      "maxYear": 2022
+    }
+  ],
+  "tags": [
+    "Turtle or tortoise"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "3"
+    },
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "3"
+    }
+  ],
+  "weight": 3.9,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 19,
+      "name": "Royal Canadian Mint of Ottawa"
+    },
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    },
+    {
+      "id": 1319,
+      "name": "Franklin Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

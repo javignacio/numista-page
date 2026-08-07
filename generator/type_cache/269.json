@@ -1,0 +1,151 @@
+{
+  "id": 269,
+  "url": "https://en.numista.com/269",
+  "title": "2 Centimes - Léopold I",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "belgique",
+    "name": "Belgium"
+  },
+  "min_year": 1833,
+  "max_year": 1865,
+  "ruler": [
+    {
+      "id": 1165,
+      "name": "Leopold I",
+      "wikidata_id": "Q12971",
+      "group": {
+        "id": 529,
+        "name": "House of Saxe-Coburg and Gotha"
+      }
+    }
+  ],
+  "value": {
+    "text": "2 Centimes",
+    "numeric_value": 0.02,
+    "currency": {
+      "id": 72,
+      "name": "Franc",
+      "full_name": "Franc (1832-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 22,
+  "thickness": 1.4,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Joseph-Pierre Braemt"
+    ],
+    "description": "The royal monogram is surrounded with lettering in French. Date below.",
+    "lettering": "LEOPOLD PREMIER ROI DES BELGES\r\n1844",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Leopold First King of the Belgians",
+    "picture": "https://en.numista.com/catalogue/photos/belgique/620c7b0813fde1.03967382-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/belgique/620c7b0813fde1.03967382-180.jpg",
+    "picture_copyright": "smy77",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Joseph-Pierre Braemt"
+    ],
+    "description": "A lion, symbol of Belgium, with a paw over the Belgian Constitution dating 1831. Around is the Belgian motto in French. Value and designer's name below.",
+    "lettering": "L'UNION FAIT LA FORCE\r\nCONSTITUTION\r\nBELGE\r\n1831\r\n*\r\n2 CENT.s\r\nBRAEMT F.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "2 Centimes\r\nBraemt Fecit",
+    "lettering_translation": "Unity Makes Strength\r\nBelgian Constitution 1831\r\n2 Centimes\r\nMade by Braemt",
+    "picture": "https://en.numista.com/catalogue/photos/belgique/620c7b07703106.60107305-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/belgique/620c7b07703106.60107305-180.jpg",
+    "picture_copyright": "smy77",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p>SCWC also mention this type of coin in bronze (instead of copper), KM#4.2a. Other local catalogs (Morin (2012), Aernout (2019)) do not mention these types.<br><br><a href=\"https://en.numista.com/catalogue/images/58451598f414a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/58451598f414a.jpg\" alt=\"\"></a><br><br>KM# 4.1: Wide rim, with or without point in signature, 1833 - 1835 (LA# 8, Morin 87-89a)<br>KM# 4.2: Narrow rim, with point in signature, 1835 - 1865 (LA# 9, Morin 89b-113)<br>KM# 4.3: Medal alignment, 1833 - 1836<br>KM# 4.4: Narrow rim, without point in signature, 1835 - 1861<br><br>Struck on <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://fr.numista.com/6540\">Dutch 1 cent</a>.<br><a href=\"https://en.numista.com/catalogue/images/5cbbf4a0430b6.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5cbbf4a0430b6.jpg\" alt=\"\"></a><br><br><a href=\"https://en.numista.com/catalogue/images/620c7cf242b98.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/620c7cf242b98.jpg\" alt=\"\"></a><br><br><u>1860</u>: two different sizes of the date<br><a href=\"https://en.numista.com/catalogue/images/640e0ae54a54d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/640e0ae54a54d.jpg\" alt=\"\"></a><br><a href=\"https://en.numista.com/catalogue/images/640e0af3456ee.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/640e0af3456ee.jpg\" alt=\"\"></a><br><br><u>1863</u></p><p>Overdate 8/8 variety.</p><p>Picture: © Images courtesy of Alexandr Prokofyev.</p><p><a href=\"https://en.numista.com/catalogue/images/65f9f43f01791.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/65f9f43f01791.jpg\"></a></p><p>&nbsp;</p><p>&nbsp;3 in date<br><a href=\"https://en.numista.com/catalogue/images/62ee80b382273.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/62ee80b382273.jpg\" alt=\"\"></a><br><br><u>Catalog inconsistencies</u>:<br>&nbsp;</p><ul><li>Morin does not mention a 1833 type without period<br>&nbsp;</li><li>Morin and Aernout do not recognize 1834 in medal alignment<br>&nbsp;</li><li>The 1845 date size variety is not recognized by Aernout<br>&nbsp;</li><li>The 1850 coin is not recognized by Aernout, although it states that some coins of 1849 were actually minted in 1850. This makes its existence doubtful<br>&nbsp;</li><li>The 1852 date size variety is not recognized by Aernout<br>&nbsp;</li><li>The 1856 date size variety is not recognized by Aernout<br>&nbsp;</li><li>The 1857 coin withouth signature is not recognized by Morin or Aernout<br>&nbsp;</li><li>The overdate variety 1858/47 is not recognized by Morin or Aernout<br>&nbsp;</li><li>The 1860 coin with normal O is not recognized by Aernout or SCWC<br>&nbsp;</li><li>The 1862 date size variety is not recognized by Aernout<br>&nbsp;</li></ul>",
+  "tags": [
+    "Cat or feline",
+    "Crown"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "4.1"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "4.2"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "4.3"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "4.4"
+    },
+    {
+      "catalogue": {
+        "id": 192,
+        "code": "LA"
+      },
+      "number": "BFM-8"
+    },
+    {
+      "catalogue": {
+        "id": 192,
+        "code": "LA"
+      },
+      "number": "BFM-9"
+    }
+  ],
+  "weight": 4,
+  "orientation": "variable",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/belgique/620c7b08b4ede3.21462833-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/belgique/620c7b08b4ede3.21462833-180.jpg",
+    "picture_copyright": "smy77",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 1338,
+      "name": "Royal Mint of Belgium"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

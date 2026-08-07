@@ -1,0 +1,138 @@
+{
+  "id": 34775,
+  "url": "https://en.numista.com/34775",
+  "title": "1000 Pesos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "colombie",
+    "name": "Colombia"
+  },
+  "min_year": 2012,
+  "max_year": 2024,
+  "ruler": [
+    {
+      "id": 4088,
+      "name": "Republic",
+      "wikidata_id": "Q739"
+    }
+  ],
+  "value": {
+    "text": "1000 Pesos",
+    "numeric_value": 1000,
+    "currency": {
+      "id": 147,
+      "name": "Peso decimalized",
+      "full_name": "Peso decimalized (1847-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 26.7,
+  "thickness": 2.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: nickel brass centre in aluminium bronze ring"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "José Antonio Suárez"
+    ],
+    "description": "Country name over value, and date below. \r\nLatent image at the center with the initials \"BRC\" or \"MIL\", depending on the angle of view.\r\nMicrotext at the bottom of the coin translates \"Take care of the water\", repeated consecutively, alternatingly upright and inverted.",
+    "lettering": "· REPUBLICA DE COLOMBIA ·\r\n1000\r\n·PESOS·\r\nB.R.C.\r\nMIL\r\n·CUIDAR EL AGUA·CUIDAR EL AGUA·CUIDAR EL AGUA·CUIDAR EL AGUA·\r\n2024",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Banco de la República de Colombia",
+    "lettering_translation": "· REPUBLIC OF COLOMBIA ·\r\n1000\r\n·PESOS·\r\nB.R.C.\r\nMIL\r\n·TAKE CARE OF WATER·TAKE CARE OF WATER·TAKE CARE OF WATER·TAKE CARE OF WATER·\r\n2024",
+    "picture": "https://en.numista.com/catalogue/photos/colombie/68281615d0a659.65246571-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/68281615d0a659.65246571-180.jpg",
+    "picture_copyright": "LUIS_EDUARDO_C",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "José Antonio Suárez"
+    ],
+    "description": "Loggerhead turtle facing right.\r\nMicrotext at the bottom of the coin translates \"Water\", repeated consecutively, alternatingly upright and inverted.",
+    "lettering": "·AGUA·AGUA·AGUA·AGUA·AGUA·AGUA·AGUA\r\nTORTUGA·CAGUAMA\r\ncaretta caretta",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "·WATER·WATER·WATER·WATER·WATER·WATER·WATER\r\nLOGGERHEAD·TURTLE\r\ncaretta caretta",
+    "picture": "https://en.numista.com/catalogue/photos/colombie/68281616b00d81.57220413-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/68281616b00d81.57220413-180.jpg",
+    "picture_copyright": "LUIS_EDUARDO_C",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p><a href=\"https://en.numista.com/catalogue/images/5fdba6dbcafc3.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5fdba6dbcafc3.jpg\" alt=\"\"></a><a href=\"https://en.numista.com/catalogue/images/5fdba6ea78708.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5fdba6ea78708.jpg\" alt=\"\"></a>There are thickness and style variations in the date lettering for 2014, 2015, and 2016:<br><br><a href=\"https://en.numista.com/catalogue/images/5cc7a113096a5.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5cc7a113096a5.jpg\" alt=\"\"></a><br>Images by @Duberney Osorio</p><p>&nbsp;</p><p>Variation in font thickness and placement (ELAGUA vs. EL AGUA):</p><p><a href=\"https://en.numista.com/catalogue/images/68061ac97b5a5.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/68061ac97b5a5.jpg\"></a></p><p>&nbsp;</p><p>Latent image: BRC and MIL</p><p><a href=\"https://en.numista.com/catalogue/images/68281499cdba9.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/68281499cdba9.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/68281499f32af.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/68281499f32af.jpg\"></a></p><p>Images by @LUIS_EDUARDO_C</p>",
+  "tags": [
+    "Turtle or tortoise",
+    "Latent image"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "299"
+    },
+    {
+      "catalogue": {
+        "id": 347,
+        "code": "Hernández"
+      },
+      "number": "663"
+    },
+    {
+      "catalogue": {
+        "id": 348,
+        "code": "Restrepo"
+      },
+      "number": "449A"
+    }
+  ],
+  "weight": 9.95,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded security edge",
+    "picture": "https://en.numista.com/catalogue/photos/colombie/64d447eca66cd6.40743630-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/64d447eca66cd6.40743630-180.jpg",
+    "picture_copyright": "Jasanche",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 4172,
+      "name": "Fábrica de Moneda de Ibagué"
+    },
+    {
+      "id": 1262,
+      "name": "Kremnica"
+    },
+    {
+      "id": 1334,
+      "name": "Mint of Finland"
+    },
+    {
+      "id": 27,
+      "name": "Mint of Poland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

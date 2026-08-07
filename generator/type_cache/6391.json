@@ -1,0 +1,93 @@
+{
+  "id": 6391,
+  "url": "https://en.numista.com/6391",
+  "title": "500 000 Lira (FAO)",
+  "object_type": {
+    "id": 3,
+    "name": "Non-circulating coins"
+  },
+  "issuer": {
+    "code": "turquie",
+    "name": "Turkey"
+  },
+  "min_year": 2002,
+  "max_year": 2002,
+  "ruler": [
+    {
+      "id": 2047,
+      "name": "Republic",
+      "wikidata_id": "Q43"
+    }
+  ],
+  "value": {
+    "text": "500 000 Lira",
+    "numeric_value": 500000,
+    "currency": {
+      "id": 124,
+      "name": "Old lira",
+      "full_name": "Old lira (1923-2005)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 21,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Value and date within sprigs",
+    "lettering": "TÜRKİYE CUMHURİYETİ\r\n500.000\r\nLİRA\r\n2002",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/turquie/711-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/turquie/711-180.jpg",
+    "picture_copyright": "Nestor"
+  },
+  "reverse": {
+    "description": "One sheep",
+    "lettering": "KIMSENIN AÇ KALMAYACAGI BIR DÜNYA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/turquie/710-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/turquie/710-180.jpg",
+    "picture_copyright": "Nestor"
+  },
+  "commemorated_topic": "FAO",
+  "tags": [
+    "Sheep or ovine",
+    "FAO"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1161"
+    }
+  ],
+  "weight": 4.65,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/turquie/66132ac14b5319.09814187-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/turquie/66132ac14b5319.09814187-180.jpg",
+    "picture_copyright": "Julio Vega",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "category": "coin",
+  "type": "Non-circulating coins"
+}

@@ -1,0 +1,115 @@
+{
+  "id": 1453,
+  "url": "https://en.numista.com/1453",
+  "title": "50 Øre - Haakon VII",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "norvege",
+    "name": "Norway"
+  },
+  "min_year": 1920,
+  "max_year": 1923,
+  "ruler": [
+    {
+      "id": 449,
+      "name": "Haakon VII",
+      "wikidata_id": "Q154927",
+      "group": {
+        "id": 358,
+        "name": "House of Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "50 Øre",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 16,
+      "name": "Krone",
+      "full_name": "Krone (1875-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 22,
+  "thickness": 1.8,
+  "shape": "Round with a round hole",
+  "composition": {
+    "text": "Copper-nickel (Cu 75%, Ni 25%)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Cross consisting of four crowned Haakon VII monograms around a hole, dividing inscription. Surrounded by inscription. Beaded ring on the rim.",
+    "lettering": "ALT | FOR | NOR- | GE⸰\r\nH7 H7 H7 H7",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Everything for Norway",
+    "picture": "https://en.numista.com/catalogue/photos/norvege/64c9715e74b968.73541927-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/64c9715e74b968.73541927-180.jpg",
+    "picture_copyright": "Elvi75"
+  },
+  "reverse": {
+    "description": "Crowned shield with a crowned norwegian lion holding a halberd and facing left, with a hole in the middle. Value below the shield. A triskelion on each side of the shield. Date to the left of value. Mintmark to the right of value. Beaded ring on the rim.",
+    "lettering": "1921 | 50 ØRE | ⸰ ⚒ ⸰",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/norvege/64c9715f9fe3d0.63296268-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/64c9715f9fe3d0.63296268-180.jpg",
+    "picture_copyright": "Elvi75"
+  },
+  "comments": "<p>Mintage included in KM#379</p>",
+  "related_types": [
+    {
+      "id": 3296,
+      "title": "50 Øre - Haakon VII",
+      "category": "coin",
+      "country": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "minYear": 1920,
+      "maxYear": 1923
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "380"
+    },
+    {
+      "catalogue": {
+        "id": 201,
+        "code": "Rønning"
+      },
+      "number": "267"
+    }
+  ],
+  "weight": 4.8,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded."
+  },
+  "mints": [
+    {
+      "id": 1888,
+      "name": "Norwegian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

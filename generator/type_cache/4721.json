@@ -1,0 +1,118 @@
+{
+  "id": 4721,
+  "url": "https://en.numista.com/4721",
+  "title": "1 Penny - Victoria (1st portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1841,
+  "max_year": 1860,
+  "ruler": [
+    {
+      "id": 270,
+      "name": "Victoria",
+      "wikidata_id": "Q9439",
+      "nomisma_id": "queen_victoria",
+      "group": {
+        "id": 525,
+        "name": "House of Hanover"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Penny",
+    "numeric_value": 0.004166666666666667,
+    "numerator": 1,
+    "denominator": 240,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1971)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1869-12-31"
+  },
+  "size": 34,
+  "thickness": 3,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "William Wyon"
+    ],
+    "description": "First uncrowned bust ('Young Head') of Queen Victoria left, legend around, date below.",
+    "lettering": "VICTORIA DEI GRATIA\r\n1841",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Victoria by the Grace of God",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/9650-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/9650-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "reverse": {
+    "engravers": [
+      "William Wyon"
+    ],
+    "description": "Seated figure of Britannia facing right, trident in left hand and shield bearing the Union flag in right, legend around and national flower emblems in exergue.\r\n\r\nNote: colon placement and trident varieties exist (see below).",
+    "lettering": "BRITANNIAR: REG  FID: DEF:",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Britanniarum Regina Fidei Defensatrix",
+    "lettering_translation": "Queen of the Britains Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/9651-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/9651-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "comments": "<p>The standard weight of these pieces was 24 to the pound avoirdupois (2/3 ounce or 291.7 grains each).<br><br><i>Several die varieties exist across the series:</i><br><br>With a colon after REG (REG:) or without a colon after REG (REG);<br>With a colon close to DEF (DEF:) or with a colon far from DEF (DEF_:);<br>With an ornamental trident (OT, 1841-60) or with a plain trident (PT, 1853-57);<br>With engraver's initials on bust truncation (W.W., 1841-60) or without initials (no W.W., 1858)<br><br>Below are images showing varieties for the colon placements, plain and ornamental tridents and the engraver's initials,<br>reproduced with kind permission of Numista member Sjoelund and <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"http://declanmageecoins.co.uk\">Declan Magee Coins</a>:<br><br><a href=\"https://en.numista.com/catalogue/images/653d1c7ec97a6.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/653d1c7ec97a6.jpg\" alt=\"\"></a><br><br><a href=\"https://en.numista.com/catalogue/images/5b01bd7d9a0d9.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5b01bd7d9a0d9.jpg\" alt=\"\"></a><br><br><a href=\"https://en.numista.com/catalogue/images/5b01e32d4cdf0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5b01e32d4cdf0.jpg\" alt=\"\"></a></p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/69a614b63251d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/69a614b63251d.jpg\"></a></p>",
+  "tags": [
+    "Armour",
+    "Flower"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "739"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "3948"
+    }
+  ],
+  "weight": 18.9,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

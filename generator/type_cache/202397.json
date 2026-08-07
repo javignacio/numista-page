@@ -1,0 +1,172 @@
+{
+  "id": 202397,
+  "url": "https://en.numista.com/202397",
+  "title": "5 Dollars (Federal Reserve Note; large portrait)",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "etats-unis",
+    "name": "United States"
+  },
+  "issuing_entity": {
+    "id": 4818,
+    "name": "United States Department of the Treasury"
+  },
+  "min_year": 1999,
+  "max_year": 2006,
+  "ruler": [
+    {
+      "id": 4720,
+      "name": "Federal republic",
+      "wikidata_id": "Q30"
+    }
+  ],
+  "value": {
+    "text": "5 Dollars",
+    "numeric_value": 5,
+    "currency": {
+      "id": 59,
+      "name": "Dollar",
+      "full_name": "Dollar (1785-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 156,
+  "size2": 67,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper (75% Cotton, 25% Linen)"
+  },
+  "obverse": {
+    "description": "Portrait of Abraham Lincoln at center.\r\nTreasurer's signature and Federal Reserve Seal at left.\r\nSecretary's signature and Treasury Seal to right.",
+    "lettering": "FEDERAL RESERVE NOTE\r\nTHE UNITED STATES OF AMERICA\r\nTHIS NOTE IS LEGAL TENDER\r\nFOR ALL DEBTS, PUBLIC AND PRIVATE\r\nFIVE DOLLARS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/5e99c87bee01f9.75140243-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/5e99c87bee01f9.75140243-180.jpg",
+    "picture_copyright": "glorkar"
+  },
+  "reverse": {
+    "description": "Lincoln Memorial at center.",
+    "lettering": "THE UNITED STATES OF AMERICA\r\nIN GOD WE TRUST\r\nFIVE DOLLARS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/5e99c87c615983.56245819-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/5e99c87c615983.56245819-180.jpg",
+    "picture_copyright": "glorkar"
+  },
+  "comments": "<p>Beginning in 1996, series years are denoted by the first letter of a note's serial prefix, while its issuing Federal Reserve Branch is indicated by the second letter.</p><p>&nbsp;</p><p>Solid security thread only visible under a backlight - inscription “USA FIVE” repeated throughout:</p><p><a href=\"https://en.numista.com/catalogue/images/666bd519bf7c1.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/666bd519bf7c1.jpg\"></a></p><p>© Kiet Tran</p><p>&nbsp;</p><p>UV activity at 365nm on a 2001 note:</p><p><a href=\"https://en.numista.com/catalogue/images/6897ba8a223d8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6897ba8a223d8.jpg\"></a> &nbsp;<a href=\"https://en.numista.com/catalogue/images/6897ba92608ae.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6897ba92608ae.jpg\"></a></p><p>© Brandon Bertolli</p>",
+  "related_types": [
+    {
+      "id": 205513,
+      "title": "10 Dollars (Federal Reserve Note; large portrait)",
+      "category": "banknote",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 1999,
+      "maxYear": 2003
+    },
+    {
+      "id": 203921,
+      "title": "20 Dollars (Federal Reserve Note; large portrait)",
+      "category": "banknote",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 1996,
+      "maxYear": 2001
+    },
+    {
+      "id": 203946,
+      "title": "50 Dollars (Federal Reserve Note; large portrait)",
+      "category": "banknote",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 1996,
+      "maxYear": 2001
+    },
+    {
+      "id": 202467,
+      "title": "100 Dollars (Federal Reserve Note; large portrait)",
+      "category": "banknote",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 1996,
+      "maxYear": 2006
+    }
+  ],
+  "tags": [
+    "Memorial",
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "505"
+    },
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "510"
+    },
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "517a"
+    },
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "517b"
+    },
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "523A"
+    }
+  ],
+  "watermark": {
+    "description": "Abraham Lincoln.",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/638b30a57f2ef4.61964255-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/638b30a57f2ef4.61964255-180.jpg",
+    "picture_copyright": "Griffin S",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "printers": [
+    {
+      "id": 51,
+      "name": "Bureau of Engraving and Printing"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

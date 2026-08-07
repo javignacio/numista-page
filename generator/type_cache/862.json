@@ -1,0 +1,178 @@
+{
+  "id": 862,
+  "url": "https://en.numista.com/862",
+  "title": "1 Penny - Elizabeth II (4th portrait; magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1998,
+  "max_year": 2008,
+  "ruler": [
+    {
+      "id": 275,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 527,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Penny",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 126,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (decimalized, 1971-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 20.3,
+  "thickness": 1.65,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Ian Rank-Broadley"
+    ],
+    "description": "Fourth crowned portrait of Queen Elizabeth II right, wearing the Girls of Great Britain and Ireland tiara, legend around.",
+    "lettering": "ELIZABETH·II·D·G REG·F·D·2001\r\nIRB",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Elizabeth II Dei Gratia Regina Fidei Defensatrix",
+    "lettering_translation": "Elizabeth II by the Grace of God Queen Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/64-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/64-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Christopher Ironside"
+    ],
+    "description": "A crowned portcullis with chains (an adaptation of the Badge of Henry VII, now the Badge of the Palace of Westminster), denomination around.",
+    "lettering": "ONE PENNY\r\n1",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/65-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/65-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "<span style=\"font-style:italic;\">Non-magnetic (bronze) set issues (see link below):</span><br /><br />\r\nIn 1999, the Brilliant Uncirculated and Proof Annual sets featured pennies struck using bronze planchets, due to a world shortage of steel.<br /><br />\r\n<span style=\"font-style:italic;\">Reports have been received regarding differing number of beads to both sides:</span><br /><br />\r\n<span style=\"font-weight:bold;\">1998-1999</span> 115 beads on obverse and 113 beads on reverse;<br />\r\n<span style=\"font-weight:bold;\">2000-2008</span> 110 beads on obverse and 109 beads on reverse;<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5c613e702cfd9.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5c613e702cfd9.jpg\" alt=\"\" width=\"169\" height=\"250\" /></a><br />\r\n© Heligal<br /><br />\r\n<span style=\"font-style:italic;\">Reports have also been received regarding reverse varieties for the 2000 &amp; 2004 issues:</span><br /><br />\r\n<span style=\"font-weight:bold;\">2000</span> 1 points to left of dot;<br />\r\n<span style=\"font-weight:bold;\">2004</span> 1 points to right of dot;<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5a97322330441.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5a97322330441.png\" alt=\"\" width=\"200\" height=\"200\" /></a><br /><br />\r\n(former Spink ref. 4710)",
+  "related_types": [
+    {
+      "id": 21800,
+      "title": "1 Penny - Elizabeth II (4th portrait; non-magnetic, set issue)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1999,
+      "maxYear": 1999
+    },
+    {
+      "id": 165802,
+      "title": "1 Penny - Elizabeth II (4th portrait; Portcullis, Silver Proof)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2000,
+      "maxYear": 2008
+    },
+    {
+      "id": 279953,
+      "title": "1 Penny - Elizabeth II (4th Portrait; Portcullis, Gold Proof)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2002,
+      "maxYear": 2008
+    },
+    {
+      "id": 200196,
+      "title": "1 Penny - Elizabeth II (4th portrait; Portcullis, Platinum Proof)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2008,
+      "maxYear": 2008
+    },
+    {
+      "id": 4038,
+      "title": "1 Penny - Elizabeth II (4th portrait; Royal Shield)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2008,
+      "maxYear": 2015
+    }
+  ],
+  "tags": [
+    "Crown"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "986"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "B5"
+    }
+  ],
+  "weight": 3.56,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/6866abd7090412.73694319-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/6866abd7090412.73694319-180.jpg",
+    "picture_copyright": "bulgarian",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

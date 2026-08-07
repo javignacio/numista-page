@@ -1,0 +1,142 @@
+{
+  "id": 773,
+  "url": "https://en.numista.com/773",
+  "title": "5 Escudos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "portugal",
+    "name": "Portugal"
+  },
+  "min_year": 1986,
+  "max_year": 2001,
+  "ruler": [
+    {
+      "id": 1295,
+      "name": "Third Republic",
+      "wikidata_id": "Q1259200"
+    }
+  ],
+  "value": {
+    "text": "5 Escudos",
+    "numeric_value": 5,
+    "currency": {
+      "id": 65,
+      "name": "Escudo",
+      "full_name": "Escudo (1911-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2002-02-28"
+  },
+  "size": 21.1,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass (79% Copper, 20% Zinc, 1% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Hélder Batista"
+    ],
+    "description": "The arms of Portugal with a knot above, date at the end of circular legend.",
+    "lettering": "REPUBLICA PORTUGUESA 1999",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Portugal",
+    "picture": "https://en.numista.com/catalogue/photos/portugal/250-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/portugal/250-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Hélder Batista"
+    ],
+    "description": "A stained glass window above denomination.",
+    "lettering": "5 \r\nESCUDOS\r\nH BATISTA incm",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Imprensa Nacional Casa da Moeda",
+    "lettering_translation": "National Mint Press",
+    "picture": "https://en.numista.com/catalogue/photos/portugal/251-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/portugal/251-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "series": "System 1981-2001",
+  "comments": "<p>Different Obverse and Reverse dies are known.<br><br><i>Obverse</i><br>Die <strong>1</strong> - bottom towers in corners lower, decorations in legend outlined.<br>Die <strong>2</strong> - bottom towers in corners higher, decorations in legend without outline.<br><br><i>Reverse</i><br>Die <strong>A</strong> - narrow script.<br>Die <strong>B</strong> - bold script.<br><a href=\"https://en.numista.com/catalogue/images/6165fbe89ae56.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6165fbe89ae56.jpg\" alt=\"\"></a><br><br><i>Combinations</i><br><strong>1</strong>+<strong>A</strong>: 1986- 1991.<br><strong>2</strong>+<strong>B</strong>: 1992-2001.</p>",
+  "related_types": [
+    {
+      "id": 1241,
+      "title": "1 Escudo",
+      "category": "coin",
+      "country": {
+        "code": "portugal",
+        "name": "Portugal"
+      },
+      "minYear": 1986,
+      "maxYear": 2001
+    },
+    {
+      "id": 771,
+      "title": "10 Escudos",
+      "category": "coin",
+      "country": {
+        "code": "portugal",
+        "name": "Portugal"
+      },
+      "minYear": 1986,
+      "maxYear": 2001
+    }
+  ],
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "632"
+    },
+    {
+      "catalogue": {
+        "id": 108,
+        "code": "Gomes"
+      },
+      "number": "R 41"
+    }
+  ],
+  "weight": 5.25,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/portugal/614c781cd3c2f8.86195487-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/portugal/614c781cd3c2f8.86195487-180.jpg",
+    "picture_copyright": "Walter_Scott"
+  },
+  "mints": [
+    {
+      "id": 1337,
+      "name": "Imprensa Nacional - Casa da Moeda"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

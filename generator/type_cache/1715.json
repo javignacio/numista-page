@@ -1,0 +1,230 @@
+{
+  "id": 1715,
+  "url": "https://en.numista.com/1715",
+  "title": "10 Agorot",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "israel",
+    "name": "Israel"
+  },
+  "issuing_entity": {
+    "id": 4543,
+    "name": "State of Israel"
+  },
+  "min_year": 1984,
+  "max_year": 2017,
+  "ruler": [
+    {
+      "id": 4056,
+      "name": "State of Israel",
+      "wikidata_id": "Q801"
+    }
+  ],
+  "value": {
+    "text": "10 Agorot",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 183,
+      "name": "New Shekel",
+      "full_name": "New Shekel (1986-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 22,
+  "thickness": 1.61,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-aluminium-nickel (92% Copper, 6% Aluminium, 2% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Replica of a coin issued by Mattathias Antigonus (37 - 40 B.C.E.) with the seven-branched candelabrum; the emblem of the State of Israel; \"Israel\" in Hebrew, English and Arabic. State emblem (menorah flanked by olive branches) above",
+    "lettering": "إسرائيل ישראל ISRAEL",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      },
+      {
+        "name": "Hebrew"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/israel/24-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/israel/24-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Gabi Neumann"
+    ],
+    "description": "Value in square\r\n\r\nNOTE: different varieties exist concerning the minor design changes in the square and number outlines, divided into:\r\n- smooth and coarse outlines\r\n- 42 or 19 ridges forming the square\r\n- straight or rounded 0 numeral\r\n- spacing between 1 and 0 numerals\r\n- embossed square with ridges or flat \r\n surface with ridges (year 5751)\r\n\r\nNOTE: the difference between the numeral \"5\" (ה) and the numeral \"8\" (ח) is NOT the gap at the top left, but that the \"8\" has a serif at the top right. Hint: the rightmost digit is a 5 (for 5000).\r\nNOTE 2: In order to differentiate mints. In coin with close (ה) means made in Utrecht, and ope (ה) made in Konsberg",
+    "lettering": "10\r\nאגורות AGOROT\r\nהתשנ\"א",
+    "lettering_scripts": [
+      {
+        "name": "Hebrew"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/israel/25-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/israel/25-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "Example for התשנ״ח (smooth numeral outlines; error: coin alignment)<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5805165dd67ab.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5805165dd67ab.jpg\" alt=\"\" width=\"200\" height=\"113\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5edf91a0de9c6.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5edf91a0de9c6.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\n1997 difference in date<br />\r\n<a href=\"https://en.numista.com/catalogue/images/605101d088d1d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/605101d088d1d.jpg\" alt=\"\" width=\"200\" height=\"99\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5dcab2cae2c2f.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5dcab2cae2c2f.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\nDifferences in font, square size and rim thickness<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5ec567d3b83d0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5ec567d3b83d0.jpg\" alt=\"\" width=\"200\" height=\"106\" /></a><br /><br />\r\nOf the coins dated 5746 (1986), 20,934,048 were minted in Jerusalem and 71,820,000 were minted in Bern.<br />\r\nOf the coins dated 5751 (1991), 11,905,000 were minted in Jerusalem, 30,240,000 were minted in Santiago, and 17,280,000 were minted in Stuttgart.<br />\r\nOf the coins dated 5754 (1994), 21,600,000 were minted in Stuttgart and 30,096,000 were minted in Utrecht.<br />\r\nOf the coins dated 5759 (1999), 21,600,000 were minted in Athens, 4,601,000 were minted in Daejeon, and 2,000 were minted in Winipeg",
+  "related_types": [
+    {
+      "id": 2060,
+      "title": "100 Sheqalim",
+      "category": "coin",
+      "country": {
+        "code": "israel",
+        "name": "Israel"
+      },
+      "minYear": 1984,
+      "maxYear": 1985
+    },
+    {
+      "id": 2059,
+      "title": "100 Sheqalim (Hanukkah)",
+      "category": "coin",
+      "country": {
+        "code": "israel",
+        "name": "Israel"
+      },
+      "minYear": 1985,
+      "maxYear": 1985
+    },
+    {
+      "id": 7081,
+      "title": "10 Agorot (Hanukkah)",
+      "category": "coin",
+      "country": {
+        "code": "israel",
+        "name": "Israel"
+      },
+      "minYear": 1985,
+      "maxYear": 2010
+    },
+    {
+      "id": 16080,
+      "title": "10 Agorot (Piedfort Set Issue; with Star of David)",
+      "category": "coin",
+      "country": {
+        "code": "israel",
+        "name": "Israel"
+      },
+      "minYear": 1986,
+      "maxYear": 2000
+    },
+    {
+      "id": 9576,
+      "title": "10 Agorot (Israel's 40th Anniversary)",
+      "category": "coin",
+      "country": {
+        "code": "israel",
+        "name": "Israel"
+      },
+      "minYear": 1988,
+      "maxYear": 1988
+    },
+    {
+      "id": 49132,
+      "title": "10 Agorot (Israel's 40th Anniversary; Piedfort Set)",
+      "category": "coin",
+      "country": {
+        "code": "israel",
+        "name": "Israel"
+      },
+      "minYear": 1988,
+      "maxYear": 1988
+    },
+    {
+      "id": 94657,
+      "title": "Prutah - Mattatayah Antigonus",
+      "category": "coin",
+      "country": {
+        "code": "judee",
+        "name": "Judea"
+      },
+      "minYear": -40,
+      "maxYear": -37
+    }
+  ],
+  "tags": [
+    "Coin depiction"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "158"
+    }
+  ],
+  "weight": 4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/israel/614e0f562d8114.02995622-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/israel/614e0f562d8114.02995622-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 247,
+      "name": "Bern"
+    },
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    },
+    {
+      "id": 1540,
+      "name": "Jerusalem"
+    },
+    {
+      "id": 1299,
+      "name": "Korea Minting and Security Printing Corporation"
+    },
+    {
+      "id": 27,
+      "name": "Mint of Poland"
+    },
+    {
+      "id": 1889,
+      "name": "National Mint of the Bank of Greece"
+    },
+    {
+      "id": 1888,
+      "name": "Norwegian Mint"
+    },
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    },
+    {
+      "id": 23,
+      "name": "Royal Dutch Mint"
+    },
+    {
+      "id": 2,
+      "name": "State Mint of Stuttgart / State Mints of Baden-Württemberg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

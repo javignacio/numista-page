@@ -1,0 +1,149 @@
+{
+  "id": 162,
+  "url": "https://en.numista.com/162",
+  "title": "1 Rappen (Wreath; zinc)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "suisse",
+    "name": "Switzerland (1848-date)"
+  },
+  "min_year": 1942,
+  "max_year": 1946,
+  "ruler": [
+    {
+      "id": 2857,
+      "name": "Federal State",
+      "wikidata_id": "Q355857"
+    }
+  ],
+  "value": {
+    "text": "1 Rappen",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 82,
+      "name": "Franc",
+      "full_name": "Franc (1850-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1952-02-01"
+  },
+  "size": 16,
+  "thickness": 1.1,
+  "shape": "Round",
+  "composition": {
+    "text": "Zinc"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Jacques-Jean Barre"
+    ],
+    "designers": [
+      "Alexander Hutter"
+    ],
+    "description": "Coat of arms of Switzerland on ornate shield. Oak branch to the right. Laurel branch to the left. Hat with feather above.",
+    "lettering": "HELVETIA\r\n1946",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Switzerland.",
+    "picture": "https://en.numista.com/catalogue/photos/suisse/67a3ce4fa51037.54887073-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suisse/67a3ce4fa51037.54887073-180.jpg",
+    "picture_copyright": "NGC"
+  },
+  "reverse": {
+    "engravers": [
+      "Jacques-Jean Barre"
+    ],
+    "designers": [
+      "Alexander Hutter"
+    ],
+    "description": "Wreath with two laurel branches tied with a ribbon below.",
+    "lettering": "1 \r\nB",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/suisse/67a3ce50e9a872.35260239-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suisse/67a3ce50e9a872.35260239-180.jpg",
+    "picture_copyright": "NGC"
+  },
+  "series": "Coat of arms series",
+  "related_types": [
+    {
+      "id": 161,
+      "title": "1 Rappen (Wreath; bronze)",
+      "category": "coin",
+      "country": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "minYear": 1850,
+      "maxYear": 1941
+    }
+  ],
+  "tags": [
+    "Coat of Arms",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 1253,
+        "code": "HMZ 2"
+      },
+      "number": "1215"
+    },
+    {
+      "catalogue": {
+        "id": 962,
+        "code": "Divo/Tob19"
+      },
+      "number": "327"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "3a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "15a"
+    },
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "18a"
+    }
+  ],
+  "weight": 1.2,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain."
+  },
+  "mints": [
+    {
+      "id": 247,
+      "name": "Bern"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

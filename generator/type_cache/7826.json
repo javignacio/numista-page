@@ -1,0 +1,136 @@
+{
+  "id": 7826,
+  "url": "https://en.numista.com/7826",
+  "title": "50 Pennia",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "finlande",
+    "name": "Finland"
+  },
+  "min_year": 1943,
+  "max_year": 1948,
+  "ruler": [
+    {
+      "id": 3291,
+      "name": "Republic",
+      "wikidata_id": "Q33"
+    }
+  ],
+  "value": {
+    "text": "50 Pennia",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 1156,
+      "name": "Markka",
+      "full_name": "Markka (1860-1963)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 18.5,
+  "thickness": 1.35,
+  "shape": "Round",
+  "composition": {
+    "text": "Iron"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Isak Gustaf Sundell"
+    ],
+    "description": "Rampant lion left divides date.",
+    "lettering": "19 45\r\nS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/finlande/1310-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/1310-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "reverse": {
+    "engravers": [
+      "Isak Gustaf Sundell"
+    ],
+    "description": "Grain sprigs flank denomination.",
+    "lettering": "50\r\nPENNIÄ",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/finlande/1311-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/1311-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "comments": "<p>Double strike 46</p><p><a href=\"https://en.numista.com/catalogue/images/69480b6b5ddba.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/69480b6b5ddba.jpg\"></a></p>",
+  "related_types": [
+    {
+      "id": 7144,
+      "title": "50 Pennia",
+      "category": "coin",
+      "country": {
+        "code": "finlande",
+        "name": "Finland"
+      },
+      "minYear": 1921,
+      "maxYear": 1940
+    },
+    {
+      "id": 7827,
+      "title": "50 Pennia",
+      "category": "coin",
+      "country": {
+        "code": "finlande",
+        "name": "Finland"
+      },
+      "minYear": 1940,
+      "maxYear": 1943
+    }
+  ],
+  "tags": [
+    "Cat or feline",
+    "Flower",
+    "Coat of Arms",
+    "Cold weapons"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "26b"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "21b"
+    }
+  ],
+  "weight": 2.25,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/finlande/1309-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/1309-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 1333,
+      "name": "Mint of Finland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

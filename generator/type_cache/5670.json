@@ -1,0 +1,113 @@
+{
+  "id": 5670,
+  "url": "https://en.numista.com/5670",
+  "title": "1 Sen - Meiji",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "japon",
+    "name": "Japan"
+  },
+  "min_year": 1873,
+  "max_year": 1892,
+  "ruler": [
+    {
+      "id": 333,
+      "name": "Meiji",
+      "wikidata_id": "Q174231"
+    }
+  ],
+  "value": {
+    "text": "1 Sen",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 197,
+      "name": "Yen",
+      "full_name": "Yen (1871-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 27.9,
+  "thickness": 1.62,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Dragon within beaded circle, legends above, written value below",
+    "lettering": "年十治明 · 本日大\r\n· 1 SEN ·",
+    "lettering_scripts": [
+      {
+        "name": "Chinese"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Great Japan · Year 10 of Meiji",
+    "picture": "https://en.numista.com/catalogue/photos/japon/1018-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/japon/1018-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "description": "Chrysanthemum Flower (Coat of Arms & Emperor's Royal Seal)\r\nBranches of Paulownia Flower (heart-shaped leaf) and Chrysanthemum Flower on either side of the value",
+    "lettering": "圓一換 枚百以\r\n一\r\n錢",
+    "lettering_scripts": [
+      {
+        "name": "Chinese"
+      }
+    ],
+    "lettering_translation": "One hundred pieces for one yen\r\nOne \r\nSen",
+    "picture": "https://en.numista.com/catalogue/photos/japon/1019-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/japon/1019-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/5d54af2b0416a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d54af2b0416a.jpg\" alt=\"\" width=\"199\" height=\"124\" /></a><br />\r\n<span style=\"font-weight:bold;\">Y#17.1</span> (1873-1877) Obv: Square scales on dragon&#039;s body within beaded circle.<br />\r\n<span style=\"font-weight:bold;\">Y#17.2</span> (1877-1892) Obv: V-scales on dragon&#039;s body within beaded circle.<br /><br />\r\nThe year 25 coin was struck for exhibition at the World&#039;s Columbian Exposition in Chicago held in 1893.",
+  "tags": [
+    "Fantasy animal",
+    "Flower",
+    "Coat of Arms",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "17"
+    },
+    {
+      "catalogue": {
+        "id": 3041,
+        "code": "JNDA"
+      },
+      "number": "01-46"
+    }
+  ],
+  "weight": 7.13,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/japon/68169d7a27f073.76332919-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/japon/68169d7a27f073.76332919-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 41,
+      "name": "Japan Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

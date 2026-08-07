@@ -1,0 +1,156 @@
+{
+  "id": 7357,
+  "url": "https://en.numista.com/7357",
+  "title": "1 Dollar - Elizabeth II (3rd Portrait - Sir Charles Kingsford Smith - Large Head)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "australie",
+    "name": "Australia"
+  },
+  "min_year": 1997,
+  "max_year": 1997,
+  "ruler": [
+    {
+      "id": 1783,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 825,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Dollar",
+    "numeric_value": 1,
+    "currency": {
+      "id": 243,
+      "name": "Dollar",
+      "full_name": "Dollar (1966-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25,
+  "thickness": 2.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze (92% Copper, 6% Aluminium, 2% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Raphael David Maklouf"
+    ],
+    "description": "3rd portrait of Queen Elizabeth II facing right wearing the King George IV State Diadem.",
+    "lettering": "ELIZABETH II \r\nAUSTRALIA 1997\r\nRDM",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/australie/665309def3ed11.11564596-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/australie/665309def3ed11.11564596-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "Wojciech Pietranik"
+    ],
+    "description": "Image of Sir Charles Kingsford Smith wearing a pilots helmet and his Fokker Tri-motor plane, named the Southern Cross.",
+    "lettering": "SIR\r\nCHARLES 1897\r\nKINGSFORD 1935\r\nSMITH\r\n1 DOLLAR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/australie/665309e0cd6801.08521475-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/australie/665309e0cd6801.08521475-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "commemorated_topic": "100th Anniversary of Charles Kingsford Smith",
+  "comments": "This commemorative aluminum-bronze coin was issued into circulation by the Royal Australian Mint (RAM) and was also issued in the various annual 1997 Proof, UNC Mint &amp; Baby Sets. This is the Mint Set.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5e035fe6f21f8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e035fe6f21f8.jpg\" alt=\"\" width=\"200\" height=\"156\" /></a> <a href=\"https://en.numista.com/catalogue/images/5e035ff16441f.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e035ff16441f.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a> <a href=\"https://en.numista.com/catalogue/images/5e035ffad8ed5.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e035ffad8ed5.jpg\" alt=\"\" width=\"200\" height=\"154\" /></a><br /><br />\r\nIt was also issued in a Dual Coincard Set with the &quot;Small Head&quot; Kingsford-Smith NCLT coin as shown here.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5d43ff5d3d6dd.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d43ff5d3d6dd.jpg\" alt=\"\" width=\"200\" height=\"231\" /></a> <a href=\"https://en.numista.com/catalogue/images/5d43ff6bee6b0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d43ff6bee6b0.jpg\" alt=\"\" width=\"200\" height=\"230\" /></a><br /><br />\r\nBorn in 1897 Sir Charles Kingsford-Smith was an early Australian aviation pioneer. He is best known in Australia for making the first Pacific crossing from Australia to the USA, setting a speed record from Australia to London of 10.5 days, and for disappearing while attempting to set yet more records. He is an iconic figure in Australian history and his blue Fokker Tri-Motor aircraft, the Southern Cross, is equally well known in popular culture.<br /><br />\r\nThe different &quot;Small Head&quot; Charles Kingsford Smith commemorative coin was available at various Royal Shows in Australian capital cities during the year from the mobile mint your own press. See link.<br /><br />\r\nFine Silver (.999) versions of both coins were also released by the RAM.",
+  "related_types": [
+    {
+      "id": 139794,
+      "title": "1 Dollar - Elizabeth II (3rd Portrait - Sir Charles Kingsford Smith - Silver Proof)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 1997,
+      "maxYear": 1997
+    },
+    {
+      "id": 12607,
+      "title": "1 Dollar - Elizabeth II (3rd Portrait - Sir Charles Kingsford Smith - Small Head)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 1997,
+      "maxYear": 1997
+    },
+    {
+      "id": 139793,
+      "title": "1 Dollar - Elizabeth II (3rd Portrait - Sir Charles Kingsford Smith - Small Head; Silver Proof)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 1997,
+      "maxYear": 1997
+    }
+  ],
+  "tags": [
+    "Explorer",
+    "Plane or aircraft"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "327"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "341"
+    }
+  ],
+  "weight": 9,
+  "orientation": "medal",
+  "edge": {
+    "description": "7 shorter smooth segments between 7 reeded segments (11 grooves each).",
+    "picture": "https://en.numista.com/catalogue/photos/australie/665309e32ea314.80565978-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/australie/665309e32ea314.80565978-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 28,
+      "name": "Royal Australian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

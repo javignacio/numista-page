@@ -1,0 +1,110 @@
+{
+  "id": 1447,
+  "url": "https://en.numista.com/1447",
+  "title": "5 Kroner - Harald V",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "norvege",
+    "name": "Norway"
+  },
+  "min_year": 1992,
+  "max_year": 1994,
+  "ruler": [
+    {
+      "id": 452,
+      "name": "Harald V",
+      "wikidata_id": "Q57287",
+      "group": {
+        "id": 358,
+        "name": "House of Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Kroner",
+    "numeric_value": 5,
+    "currency": {
+      "id": 16,
+      "name": "Krone",
+      "full_name": "Krone (1875-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2000-07-09"
+  },
+  "size": 29.5,
+  "thickness": 2.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (Cu 75%, Ni 25%)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Ingrid Austlid Rise"
+    ],
+    "description": "Bust of king Harald V facing right. Engraver's initials below back of bust. Surrounded by inscription. Mintmark below bust. Solid ring on the rim.",
+    "lettering": "HARALD V · NORGES KONGE\r\nIAR\r\n⚒",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Harald V, King of Norway",
+    "picture": "https://en.numista.com/catalogue/photos/norvege/64c99205792fa5.49331716-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/64c99205792fa5.49331716-180.jpg",
+    "picture_copyright": "Elvi75"
+  },
+  "reverse": {
+    "engravers": [
+      "Øivind Hansen"
+    ],
+    "description": "Crowned shield with a crowned norwegian lion holding a halberd and facing left. Value below the shield. Date divided by shield. Solid ring on the rim.",
+    "lettering": "19 92\r\n5 KRONER",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/norvege/64c99206dc6231.77185976-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/64c99206dc6231.77185976-180.jpg",
+    "picture_copyright": "Elvi75"
+  },
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "437"
+    }
+  ],
+  "weight": 11.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Waved line engraved, 4 crossed hammers and a letter referring to the chief of The Royal Mint, K for Ole-Robert Kolberg (1992-1994). and K* for Ole-Robert Kolberg (1994).",
+    "lettering": "K⋆",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/norvege/6386523ed85e46.92678383-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/6386523ed85e46.92678383-180.jpg",
+    "picture_copyright": "Elvi75"
+  },
+  "mints": [
+    {
+      "id": 1888,
+      "name": "Norwegian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,104 @@
+{
+  "id": 392331,
+  "url": "https://en.numista.com/392331",
+  "title": "25 Centavos (Oswaldo Guayasamin)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "equateur",
+    "name": "Ecuador"
+  },
+  "issuing_entity": {
+    "id": 909,
+    "name": "Central Bank of Ecuador",
+    "wikidata_id": "Q1797646"
+  },
+  "min_year": 2023,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 3758,
+      "name": "Republic",
+      "wikidata_id": "Q736"
+    }
+  ],
+  "value": {
+    "text": "25 Centavos",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 361,
+      "name": "U.S. dollar",
+      "full_name": "U.S. dollar (2000-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24.2,
+  "thickness": 1.75,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Name of the country, national coat of arms, portrait, and name of painter, draftsman and sculptor Oswaldo Guayasamin",
+    "lettering": "REPÚBLICA DEL ECUADOR\r\n★★OSWALDO GUAYASAMIN★★",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Ecuador",
+    "picture": "https://en.numista.com/catalogue/photos/equateur/6734fc5ff2eea6.17434317-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/equateur/6734fc5ff2eea6.17434317-180.jpg",
+    "picture_copyright": "gyoschak",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Denomination in numerals and spelled out below. Date to left.",
+    "lettering": "BANCO CENTRAL DEL ECUADOR\r\n25\r\nAÑO\r\n2023\r\nVEINTICINCO CENTAVOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/equateur/6734fc608c89e0.20517698-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/equateur/6734fc608c89e0.20517698-180.jpg",
+    "picture_copyright": "gyoschak",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "series": "Ecuador Historical Figures",
+  "tags": [
+    "Artist",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "136"
+    }
+  ],
+  "weight": 5.8,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

@@ -1,0 +1,161 @@
+{
+  "id": 1732,
+  "url": "https://en.numista.com/1732",
+  "title": "5 Roubles (straight \"ПЯТЬ РУБЛЕЙ\" under Eagle)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "russie",
+    "name": "Russian Federation (1991-date)"
+  },
+  "min_year": 1997,
+  "max_year": 1999,
+  "ruler": [
+    {
+      "id": 1573,
+      "name": "Russian Federation",
+      "wikidata_id": "Q159"
+    }
+  ],
+  "value": {
+    "text": "5 Roubles",
+    "numeric_value": 5,
+    "currency": {
+      "id": 169,
+      "name": "Rouble",
+      "full_name": "Rouble (1998-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25,
+  "thickness": 1.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel clad copper"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Alexander Vasilyevich Baklanov"
+    ],
+    "designers": [
+      "Alexander Vasilyevich Baklanov"
+    ],
+    "description": "In the centre — the two-headed eagle with wings down, above — the semicircular inscription — «БАНК РОССИИ» (BANK OF RUSSIA), under the eagle — the face value underscored by a horizontal line divided by a dot in the middle, at the bottom — the year of issue, to the right — the mint trade mark.",
+    "lettering": "БАНК РОССИИ\r\nСПМД\r\nПЯТЬ РУБЛЕЙ\r\n1998",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "Bank of Russia\r\nSPMD\r\nFive Roubles",
+    "picture": "https://en.numista.com/catalogue/photos/russie/65-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/russie/65-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Alexander Vasilyevich Baklanov"
+    ],
+    "designers": [
+      "Alexander Vasilyevich Baklanov"
+    ],
+    "description": "Value at left of vine sprig.",
+    "lettering": "5 \r\nРУБЛЕЙ",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "Roubles",
+    "picture": "https://en.numista.com/catalogue/photos/russie/66-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/russie/66-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "Design varieties exist. More details available here: <a href=\"https://vse-monety.ru/katalog-a-stashkina-5-rublej-1997-2016-gg/\" rel=\"nofollow\">https://vse-monety.ru/katalog-a-stashkina-5-rublej-1997-2016-gg/</a>",
+  "related_types": [
+    {
+      "id": 7705,
+      "title": "5 Roubles (curved \"БАНК РОССИИ\" under Eagle; non-magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "minYear": 2002,
+      "maxYear": 2009
+    },
+    {
+      "id": 22538,
+      "title": "5 Roubles (curved \"БАНК РОССИИ\" under Eagle; magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "minYear": 2009,
+      "maxYear": 2015
+    },
+    {
+      "id": 81299,
+      "title": "5 Roubles",
+      "category": "coin",
+      "country": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "minYear": 2016,
+      "maxYear": 2025
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Double-headed eagle"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "606"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "568"
+    }
+  ],
+  "weight": 6.45,
+  "orientation": "medal",
+  "edge": {
+    "description": "12 sections each plain and reeded",
+    "picture": "https://en.numista.com/catalogue/photos/russie/1662-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/russie/1662-180.jpg",
+    "picture_copyright": "ZacUK"
+  },
+  "mints": [
+    {
+      "id": 6,
+      "name": "Moscow Mint"
+    },
+    {
+      "id": 7,
+      "name": "Saint Petersburg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

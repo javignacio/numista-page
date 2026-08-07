@@ -1,0 +1,91 @@
+{
+  "id": 5438,
+  "url": "https://en.numista.com/5438",
+  "title": "10 Sen - Shōwa",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "japon",
+    "name": "Japan"
+  },
+  "min_year": 1940,
+  "max_year": 1943,
+  "ruler": [
+    {
+      "id": 335,
+      "name": "Shōwa",
+      "wikidata_id": "Q327567"
+    }
+  ],
+  "value": {
+    "text": "10 Sen",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 197,
+      "name": "Yen",
+      "full_name": "Yen (1871-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 22,
+  "thickness": 1.49,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Double petal cherry blossom flanked by dots with authority on top and date below",
+    "lettering": "· 本日大 ·\r\n年七十和昭",
+    "lettering_translation": "· Great Japan ·\r\nYear 17 of Shōwa",
+    "picture": "https://en.numista.com/catalogue/photos/japon/859-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/japon/859-180.jpg",
+    "picture_copyright": "KennyG"
+  },
+  "reverse": {
+    "description": "Chrysanthemum flanked by dots with value above and paulownia foliage below",
+    "lettering": "錢 十",
+    "lettering_translation": "10 sen",
+    "picture": "https://en.numista.com/catalogue/photos/japon/860-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/japon/860-180.jpg",
+    "picture_copyright": "KennyG"
+  },
+  "tags": [
+    "Flower",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "61"
+    },
+    {
+      "catalogue": {
+        "id": 3041,
+        "code": "JNDA"
+      },
+      "number": "01-30"
+    }
+  ],
+  "weight": 1.2,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/japon/625153ea7dc9f5.72012800-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/japon/625153ea7dc9f5.72012800-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,132 @@
+{
+  "id": 1052,
+  "url": "https://en.numista.com/1052",
+  "title": "100 Won",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "coree_du_sud",
+    "name": "South Korea"
+  },
+  "issuing_entity": {
+    "id": 687,
+    "name": "Bank of Korea",
+    "wikidata_id": "Q485531"
+  },
+  "min_year": 1983,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 3992,
+      "name": "Republic",
+      "wikidata_id": "Q884"
+    }
+  ],
+  "value": {
+    "text": "100 Won",
+    "numeric_value": 100,
+    "currency": {
+      "id": 196,
+      "name": "New won",
+      "full_name": "New won (1962-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1983-01-15"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Admiral Yi Sun-sin (1545-1598), Korea's national hero, facing the viewer dividing the denomination.",
+    "lettering": "백 원",
+    "lettering_scripts": [
+      {
+        "name": "Hangul"
+      }
+    ],
+    "lettering_translation": "One hundred Won",
+    "picture": "https://en.numista.com/catalogue/photos/coree_du_sud/5e30ee107601c0.25294962-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/5e30ee107601c0.25294962-180.jpg",
+    "picture_copyright": "gdch6ng",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "The value above the issuer name and below the date.",
+    "lettering": "2002\r\n100\r\n한국은행",
+    "lettering_scripts": [
+      {
+        "name": "Hangul"
+      }
+    ],
+    "lettering_translation": "Bank of Korea",
+    "picture": "https://en.numista.com/catalogue/photos/coree_du_sud/5e30ee111cb5d5.30619822-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/5e30ee111cb5d5.30619822-180.jpg",
+    "picture_copyright": "gdch6ng",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "A few types are known.<br /><br />\r\n<span style=\"font-style:italic;\">Obverse</span><br />\r\nDie <span style=\"font-weight:bold;\">1</span> - all details smaller and closer to the center.<br />\r\nDie<span style=\"font-weight:bold;\"> 2</span> - all details a bit larger and further from the center.<br />\r\nDie <span style=\"font-weight:bold;\">3</span> - all details large and far from the center, new font with thick horizontal strokes.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/614d7ee388282.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/614d7ee388282.jpg\" alt=\"\" width=\"200\" height=\"210\" /></a><br /><br />\r\n<span style=\"font-style:italic;\">Reverse</span><br />\r\nDie <span style=\"font-weight:bold;\">A</span> - thin numerals in &#039;100&#039;.<br />\r\nDie <span style=\"font-weight:bold;\">B</span> - thick numerals in &#039;100&#039;, the first word 한 aligned with the left of &#039;1&#039; in &#039;100&#039;, the vertical lower right stroke in syllable 국 between beads.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/614d7efb4dbde.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/614d7efb4dbde.jpg\" alt=\"\" width=\"200\" height=\"203\" /></a><br />\r\nDie <span style=\"font-weight:bold;\">C</span> - thick numerals in &#039;100&#039;, the first word 한 aligned with the left of &#039;1&#039; in &#039;100&#039;, the vertical lower right stroke in syllable 국 to a bead.<br />\r\nDie <span style=\"font-weight:bold;\">D</span> - thicker and close to each other numerals in &#039;100&#039;, the first word 한 aligned closer to center of &#039;1&#039; in &#039;100&#039;, the vertical lower right stroke in syllable 국 to a bead.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/614d7f0dafeda.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/614d7f0dafeda.jpg\" alt=\"\" width=\"200\" height=\"198\" /></a><br /><br /><br />\r\n<span style=\"font-style:italic;\">Combinations</span><br />\r\n<span style=\"font-weight:bold;\">1</span>+<span style=\"font-weight:bold;\">A</span> 1983.<br />\r\n<span style=\"font-weight:bold;\">1</span>+<span style=\"font-weight:bold;\">B</span> 1984.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/614d7f2422641.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/614d7f2422641.jpg\" alt=\"\" width=\"200\" height=\"100\" /></a><br />\r\nPicture: © Images courtesy of Alexandr Prokofyev<br /><br />\r\n<span style=\"font-weight:bold;\">2</span>+<span style=\"font-weight:bold;\">B</span> 1985, 1986.<br />\r\n<span style=\"font-weight:bold;\">2</span>+<span style=\"font-weight:bold;\">C</span> 1987-1990.<br />\r\n<span style=\"font-weight:bold;\">2</span>+<span style=\"font-weight:bold;\">D</span> 1991-1999.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/614d7f46cefd4.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/614d7f46cefd4.jpg\" alt=\"\" width=\"200\" height=\"100\" /></a><br />\r\nPicture: © Images courtesy of Alexandr Prokofyev<br /><br />\r\n<span style=\"font-weight:bold;\">3</span>+<span style=\"font-weight:bold;\">D</span> 2000-2016.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/614d7f5a2bd8b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/614d7f5a2bd8b.jpg\" alt=\"\" width=\"200\" height=\"100\" /></a><br />\r\nPicture: © Images courtesy of Alexandr Prokofyev<br /><br />\r\nCorrespondence with Standard Catalog of Worlds Coins:<br />\r\nKM#35.1 <span style=\"font-weight:bold;\">1</span>+<span style=\"font-weight:bold;\">A</span>;<br />\r\nKM#35.2 <span style=\"font-weight:bold;\">1</span>+<span style=\"font-weight:bold;\">B</span>, <span style=\"font-weight:bold;\">2</span>+<span style=\"font-weight:bold;\">B</span>, <span style=\"font-weight:bold;\">2</span>+<span style=\"font-weight:bold;\">C</span>, <span style=\"font-weight:bold;\">2</span>+<span style=\"font-weight:bold;\">D</span>, <span style=\"font-weight:bold;\">3</span>+<span style=\"font-weight:bold;\">D</span>.",
+  "related_types": [
+    {
+      "id": 1037,
+      "title": "100 Won",
+      "category": "coin",
+      "country": {
+        "code": "coree_du_sud",
+        "name": "South Korea"
+      },
+      "minYear": 1970,
+      "maxYear": 1982
+    }
+  ],
+  "tags": [
+    "Military leader",
+    "Hat"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "35"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "81"
+    }
+  ],
+  "weight": 5.42,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/coree_du_sud/457-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/457-180.jpg",
+    "picture_copyright": "Saber82"
+  },
+  "mints": [
+    {
+      "id": 1299,
+      "name": "Korea Minting and Security Printing Corporation"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

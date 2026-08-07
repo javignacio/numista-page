@@ -1,0 +1,165 @@
+{
+  "id": 5213,
+  "url": "https://en.numista.com/5213",
+  "title": "2 Dollars - Elizabeth II (4th Portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "australie",
+    "name": "Australia"
+  },
+  "min_year": 1999,
+  "max_year": 2019,
+  "ruler": [
+    {
+      "id": 1783,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 825,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "2 Dollars",
+    "numeric_value": 2,
+    "currency": {
+      "id": 243,
+      "name": "Dollar",
+      "full_name": "Dollar (1966-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 20.5,
+  "thickness": 3.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze (92% Copper, 6% Aluminium, 2% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Ian Rank-Broadley"
+    ],
+    "description": "4th portrait of Queen Elizabeth II facing right wearing the Girls of Great Britain and Ireland Tiara",
+    "lettering": "ELIZABETH II \r\nAUSTRALIA 2000\r\nIRB",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/australie/65fdac05e935b4.84643416-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/australie/65fdac05e935b4.84643416-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "Horst Hahne"
+    ],
+    "description": "A male Aboriginal Elder to the left\r\nThe five stars of the Southern Cross Constellation above\r\nDenomination centre\r\nNative grass trees to the right",
+    "lettering": "2\r\nDOLLARS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/australie/65fdac078db794.93568283-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/australie/65fdac078db794.93568283-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p><a href=\"https://en.numista.com/catalogue/images/61751c0889728.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/61751c0889728.jpg\" alt=\"\"></a><br><br>The $2 coin was introduced into circulation in Australia in 1988 to replace the old familiar green $2 note. In 1999 the Ian Rank-Broadley 4th Portrait of Queen Elizabeth II was introduced on the Obverse of the coin. The Reverse was unchanged from prior years.&nbsp;<br><br>This coin was included in the 30th Anniversary of the Two Dollar Coin (1988-2018) Set:<br><a href=\"https://en.numista.com/catalogue/images/5b9d3d05e5b9d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5b9d3d05e5b9d.jpg\" alt=\"\"></a><br><a href=\"https://en.numista.com/catalogue/images/5b9d3d19f3ee8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5b9d3d19f3ee8.jpg\" alt=\"\"></a><br>© Amer Salmeh</p>",
+  "related_types": [
+    {
+      "id": 1568,
+      "title": "2 Dollars - Elizabeth II (3rd Portrait)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 1988,
+      "maxYear": 2018
+    },
+    {
+      "id": 167398,
+      "title": "2 Dollars - Elizabeth II (4th portrait; Silver Proof)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 2003,
+      "maxYear": 2019
+    },
+    {
+      "id": 168316,
+      "title": "2 Dollars - Elizabeth II (6th Portrait)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 2019,
+      "maxYear": 2023
+    },
+    {
+      "id": 399676,
+      "title": "2 Dollars - Charles III (1st Portrait)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 2024,
+      "maxYear": 2026
+    }
+  ],
+  "tags": [
+    "Tree"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "406"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "422"
+    }
+  ],
+  "weight": 6.6,
+  "orientation": "medal",
+  "edge": {
+    "description": "Four longer smooth segments between four reeded segments (five grooves each)",
+    "picture": "https://en.numista.com/catalogue/photos/australie/65fdac08b418f8.77867810-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/australie/65fdac08b418f8.77867810-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 28,
+      "name": "Royal Australian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

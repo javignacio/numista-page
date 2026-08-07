@@ -1,0 +1,147 @@
+{
+  "id": 149,
+  "url": "https://en.numista.com/149",
+  "title": "20 Euro Cents - Beatrix (1st map)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "pays-bas",
+    "name": "Netherlands"
+  },
+  "min_year": 1999,
+  "max_year": 2006,
+  "ruler": [
+    {
+      "id": 1303,
+      "name": "Beatrix",
+      "wikidata_id": "Q29574",
+      "group": {
+        "id": 750,
+        "name": "House of Orange-Nassau"
+      }
+    }
+  ],
+  "value": {
+    "text": "20 Euro Cents",
+    "numeric_value": 0.2,
+    "currency": {
+      "id": 9012,
+      "name": "Euro",
+      "full_name": "Euro (2002-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2002-01-01"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 22.25,
+  "thickness": 2.14,
+  "shape": "Spanish flower",
+  "composition": {
+    "text": "Nordic gold (89% Copper, 5% Aluminium, 5% Zinc, 1% Tin)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Bruno Ninaber van Eyben"
+    ],
+    "description": "Profile of Queen Beatrix encircled by twelve stars of Europe.",
+    "lettering": "BEATRIX KONINGIN DER NEDERLANDEN\r\n2005",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Beatrix Queen of the Netherlands",
+    "picture": "https://en.numista.com/catalogue/photos/pays-bas/6700db00967938.00471306-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/6700db00967938.00471306-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Luc Luycx"
+    ],
+    "description": "A map of the European continent is represented on a dynamic canvas composed of the twelve stars of the European Union.",
+    "lettering": "20 \r\nEURO \r\nCENT \r\nLL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/pays-bas/6700db01ac9859.73494726-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/6700db01ac9859.73494726-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p>This coin was engraved by the Utrecht mint by several engravers in the following periods:<br></p><ul><li>1999: bow bandaged and cocked; (holder)<br></li><li>2000: banded and cocked bow and star; (interim)<br></li><li>2001 - 2002: cluster; (incumbent)<br></li><li>2003 - 2013: sails; Maarten Brouwer (incumbent)<br></li></ul><p><br><strong><u>BU 1999</u></strong><br>Charité - \"Clini-clowns\" 75,000 copies<br><strong><u>BU 2000</u></strong><br>Charité - \"Nature's masterpieces\" 75000 copies<br><strong><u>UNC 2000</u></strong><br>Rabo-bank 13850 copies<br><strong><u>BU 2001</u></strong><br>Charity - \"Fund for the disabled\" 65000 copies<br>Information set \"Denmark\" 15000 copies<br><strong><u>BU 2002</u></strong><br>Charity - \"Guide dogs for the blind\" 105000 copies<br>Beatrix box set 59500 copies<br>Birth 25000 copies<br>VOC 1 - The foundation 10000 copies<br>VOC 2 - The ships 10000 copies<br>VOC 3 - Itineraries 10,000 copies<br>VOC 4 - Heroes 10000 copies<br>Wedding 10000 copies<br>Mint Day 2002 copies<br>VVV IRIS gift vouchers 2500 copies<br>BVC Bloemendaal 3000 copies<br>Themaset - Beatrix 3500 copies<br><strong><u>BU 2003</u></strong><br>Charité - \"Fondation contre l'épilepsie\" 75,000 copies<br>VOC 5 - Goods 10,000 copies<br>VOC 6 - Money 4,500 copies<br>Marriage 15,000 copies<br>Birth 25,000 copies<br>Themaset - Princess birth 20,000 copies<br>Mint Day 2,003 copies<br>Themaset - Maîtres de la Monnaie 3,500 copies<br>VVV IRIS gift vouchers 10,000 copies<br>World Money Fair Basel 1,000 copies<br>Hungary\" information set 11,000 copies<br><strong><u>BU 2004</u></strong><br>Charity - \"Burn victims\" 50,000 copies<br>Birth 20,000 copies<br>Wedding 10,000 copies<br>Themaset - Mint Masters 3,500 copies<br>VVV IRIS gift vouchers 3,500 copies<br>Themaset - Souvenir de la Reine Juliana 10,000 copies<br>Jour de la Monnaie 2,004<br>Basel World Money Fair 1,000 copies<br><strong><u>BU 2005</u></strong><br>Charity - \"Princess Beatrix Fund\" 55,000 copies<br>Wedding 10,000 copies<br>Birth 14,500 copies<br>Miffy 50th anniversary box set 20,000 copies<br>Mint Day 2,005 copies<br>Themaset - Maîtres de la Monnaie 3,500 copies<br>World Money Fair Basel 1,000 copies<br>Themaset - Netherlands and Canada: 60 years of liberation 17,500 copies<br><strong><u>BU 2006</u></strong><br>Charité - \"KIKA Foundation\" 38,000 copies<br>World Money Fair Berlin 1,000 copies<br>Jour de la Monnaie 2,006 copies<br>Themaset - Maîtres de la Monnaie 3,500 copies<br>200 years of Dutch coinage 4,500 copies<br>Six Rembrandt series (silver collection) 4,000 copies</p>",
+  "related_types": [
+    {
+      "id": 6478,
+      "title": "20 Euro Cents - Beatrix (2nd map)",
+      "category": "coin",
+      "country": {
+        "code": "pays-bas",
+        "name": "Netherlands"
+      },
+      "minYear": 2007,
+      "maxYear": 2013
+    },
+    {
+      "id": 54957,
+      "title": "20 Euro Cents - Willem-Alexander (2nd map)",
+      "category": "coin",
+      "country": {
+        "code": "pays-bas",
+        "name": "Netherlands"
+      },
+      "minYear": 2014,
+      "maxYear": 2026
+    }
+  ],
+  "tags": [
+    "Monarch",
+    "Map"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "238"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "121"
+    }
+  ],
+  "weight": 5.74,
+  "orientation": "medal",
+  "edge": {
+    "description": "Smooth with seven indentations (\"Spanish flower\")",
+    "picture": "https://en.numista.com/catalogue/photos/pays-bas/2298-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/2298-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 23,
+      "name": "Royal Dutch Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

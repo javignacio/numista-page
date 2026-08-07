@@ -1,0 +1,153 @@
+{
+  "id": 863,
+  "url": "https://en.numista.com/863",
+  "title": "1 Pound - Elizabeth II (3rd portrait; Welsh Leek)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1985,
+  "max_year": 1990,
+  "ruler": [
+    {
+      "id": 275,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 527,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Pound",
+    "numeric_value": 1,
+    "currency": {
+      "id": 126,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (decimalized, 1971-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2017-10-15"
+  },
+  "size": 22.5,
+  "thickness": 3.15,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Raphael David Maklouf"
+    ],
+    "description": "Third crowned portrait of Queen Elizabeth II right, wearing the George IV State Diadem, legend around",
+    "lettering": "ELIZABETH II D·G·REG·F·D·1990\r\nRDM",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Elizabeth II Dei Gratia Regina Fidei Defensatrix",
+    "lettering_translation": "Elizabeth II by the Grace of God Queen Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/675fa2377319c5.32587177-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/675fa2377319c5.32587177-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Leslie Durbin"
+    ],
+    "description": "A leek, the emblem of Wales, encircled by the Royal Diadem",
+    "lettering": "ONE POUND",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/675fa2389226e9.05473870-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/675fa2389226e9.05473870-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "series": "Royal Diadem series",
+  "commemorated_topic": "Wales",
+  "comments": "In 1985 the Royal Mint released the second one pound coin in the &#039;Royal Diadem&#039; series, the first with the Maklouf third portrait of HM The Queen. The coin was issued as part of the 1985 Annual Coin Sets in both Brilliant Uncirculated (178,375 sales) &amp; Proof versions as well as individually in a BU pack (24,850 sales).<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5ed13910ca6ce.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5ed13910ca6ce.jpg\" alt=\"\" width=\"191\" height=\"250\" /></a><a href=\"https://en.numista.com/catalogue/images/608882a065d4f.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/608882a065d4f.jpg\" alt=\"\" width=\"129\" height=\"249\" /></a><br /><br />\r\nThis Leslie Durbin reverse design was repeated one more time on a second edition in 1990, again issued as part of the 1990 Annual Coin Sets in both Brilliant Uncirculated &amp; Proof versions.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5ed139711be0e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5ed139711be0e.jpg\" alt=\"\" width=\"200\" height=\"224\" /></a><br /><br />\r\nThe coin was also struck in silver proof and silver piedfort.",
+  "related_types": [
+    {
+      "id": 56389,
+      "title": "1 Pound - Elizabeth II (Welsh Leek; Silver Piedfort)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1985,
+      "maxYear": 1985
+    },
+    {
+      "id": 56384,
+      "title": "1 Pound - Elizabeth II (Welsh Leek; Silver Proof)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1985,
+      "maxYear": 1990
+    }
+  ],
+  "tags": [
+    "Crown"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "941"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "J3"
+    }
+  ],
+  "weight": 9.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Milled with incuse lettering\r\n\r\nNote: errors reported with missing apostrophe (')",
+    "lettering": "PLEIDIOL WYF I'M GWLAD",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "True am I to my country",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/2046-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/2046-180.jpg",
+    "picture_copyright": "ZacUK"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

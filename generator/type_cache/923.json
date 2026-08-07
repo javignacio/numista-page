@@ -1,0 +1,121 @@
+{
+  "id": 923,
+  "url": "https://en.numista.com/923",
+  "title": "1 Dollar \"Sacagawea Dollar\"",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "etats-unis",
+    "name": "United States"
+  },
+  "min_year": 2000,
+  "max_year": 2008,
+  "ruler": [
+    {
+      "id": 4720,
+      "name": "Federal republic",
+      "wikidata_id": "Q30"
+    }
+  ],
+  "value": {
+    "text": "1 Dollar",
+    "numeric_value": 1,
+    "currency": {
+      "id": 59,
+      "name": "Dollar",
+      "full_name": "Dollar (1785-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 26.5,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Manganese brass clad copper (Cladding: 77% Copper, 12% Zinc, 7% Manganese, 4% Nickel; Core: 100% Copper)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Glenna Goodacre"
+    ],
+    "description": "Sacagawea (1788-1812), a Shoshone native American and a translator and guide to the Lewis and Clark expedition, with her son Jean Baptiste Charbonneau and the date to the right",
+    "lettering": "LIBERTY\r\nIN GOD\r\nWE TRUST\r\n2000\r\nP\r\nGG",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/4357-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/4357-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "engravers": [
+      "Thomas D. Rogers"
+    ],
+    "description": "Eagle in flight with the denomination below",
+    "lettering": "UNITED STATES OF AMERICA\r\nE\r\nPLURIBUS\r\nUNUM\r\nTDR\r\nONE DOLLAR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "United States of America\r\nOut of Many\r\nOne\r\nTDR\r\nOne Dollar",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/4358-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/4358-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "<p>2000P tail feathers<br><a href=\"https://en.numista.com/catalogue/images/639c7b9b4a36c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/639c7b9b4a36c.jpg\" alt=\"\"></a><br><br>The Sacagawea Dollar proved to be unpopular amongst the American public and are today rarely seen in everyday commerce. However, they are frequently used in Ecuador and El Salvador, two nations that have adopted the United States dollar.<br><br>The standard weight of all base-metal dollars issued since 2000 is 125 grains.<br>&nbsp;</p><p>2000 P Wounded eagle dollar link: <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.pcgs.com/coinfacts/coin/2000-p-sac-1-wounded-eagle/506153\">https://www.pcgs.com/coinfacts/coin/2000-p-sac-1-wounded-eagle/506153</a></p>",
+  "tags": [
+    "Bird",
+    "Eagle"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "310"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "310"
+    }
+  ],
+  "weight": 8.1,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/3108-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/3108-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 10,
+      "name": "United States Mint of Denver"
+    },
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    },
+    {
+      "id": 12,
+      "name": "United States Mint of San Francisco"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

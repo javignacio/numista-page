@@ -1,0 +1,101 @@
+{
+  "id": 2925,
+  "url": "https://en.numista.com/2925",
+  "title": "50 Centimes",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "algerie",
+    "name": "Algeria"
+  },
+  "min_year": 1971,
+  "max_year": 1973,
+  "ruler": [
+    {
+      "id": 3733,
+      "name": "People's Democratic Republic",
+      "wikidata_id": "Q262"
+    }
+  ],
+  "value": {
+    "text": "50 Centimes",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 23,
+      "name": "Dinar",
+      "full_name": "Dinar (1964-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 24,
+  "thickness": 1.58,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass (79% Copper, 20% Zinc, 1% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Inner circle contains dates above value",
+    "lettering": "الجمهورية الجزائرية الديمقراطية الشعبية\r\n1971 · 1391\r\n50\r\nخمسون سنتيما",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "The People's Democratic Republic of Algeria\r\nFifty centimes",
+    "picture": "https://en.numista.com/catalogue/photos/algerie/67f1358f4c11c6.33686180-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/algerie/67f1358f4c11c6.33686180-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "reverse": {
+    "description": "Book, the sun behind, compass in front, laboratory flask at bottom",
+    "picture": "https://en.numista.com/catalogue/photos/algerie/67f1358fbd07b7.40651334-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/algerie/67f1358fbd07b7.40651334-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "tags": [
+    "Science",
+    "Sun"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "102"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "12"
+    }
+  ],
+  "weight": 5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/algerie/677ef598411784.66275354-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/algerie/677ef598411784.66275354-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 1262,
+      "name": "Kremnica"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,116 @@
+{
+  "id": 8082,
+  "url": "https://en.numista.com/8082",
+  "title": "1 Farthing - George IV (2nd issue)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1826,
+  "max_year": 1831,
+  "ruler": [
+    {
+      "id": 268,
+      "name": "George IV",
+      "wikidata_id": "Q130586",
+      "group": {
+        "id": 525,
+        "name": "House of Hanover"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Farthing",
+    "numeric_value": 0.0010416666666666667,
+    "numerator": 1,
+    "denominator": 960,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1971)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1869-12-31"
+  },
+  "size": 22,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "William Wyon"
+    ],
+    "description": "Laureate portrait of King George IV left, legend around, date below.",
+    "lettering": "GEORGIUS IV DEI GRATIA\r\n· 1826 ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "George the Fourth by the Grace of God",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/635adbe693ac22.10972888-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/635adbe693ac22.10972888-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "reverse": {
+    "description": "Seated figure of Britannia facing right, trident in left hand, shield with Union flag in right, legend around, national flower emblems in exergue.",
+    "lettering": "BRITANNIAR: REX FID: DEF:",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Britanniarum Rex Fidei Defensor",
+    "lettering_translation": "King of the Britains Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/635adbe701f2d9.93304388-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/635adbe701f2d9.93304388-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "comments": "The standard weight was one sixth ounce avoirdupois (72 11/12 grains) although can vary between 4.6-4.9g.<br /><br />\r\nFor more detailed information on copper farthing varieties, please visit <a href=\"http://aboutfarthings.co.uk/catalogue/uk-farthings\" rel=\"nofollow\">Aboutfarthings</a>.",
+  "tags": [
+    "Armour",
+    "Flower"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "697"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "3825"
+    }
+  ],
+  "weight": 4.72,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

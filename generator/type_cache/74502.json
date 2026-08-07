@@ -1,0 +1,158 @@
+{
+  "id": 74502,
+  "url": "https://en.numista.com/74502",
+  "title": "100 Fils (Magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "koweit",
+    "name": "Kuwait"
+  },
+  "min_year": 2012,
+  "max_year": 2019,
+  "ruler": [
+    {
+      "id": 2412,
+      "name": "Sabah IV Al-Ahmad Al-Jaber Al-Sabah",
+      "wikidata_id": "Q57555"
+    }
+  ],
+  "value": {
+    "text": "100 Fils",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 27,
+      "name": "Dinar",
+      "full_name": "Dinar (1960-1990 and 1991-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 26,
+  "thickness": 1.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Value in Arabic within circle. State name in Arabic above, and in English below",
+    "lettering": "الكُوَيت\r\n١٠٠\r\nفلس\r\nKUWAIT",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Kuwait\r\n100 Fils",
+    "picture": "https://en.numista.com/catalogue/photos/koweit/220-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/koweit/220-180.jpg",
+    "picture_copyright": "numista",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Boom sailing ship, a type of dhow, sailing to the left with a small flag on the right side. Islamic and Gregorian dates in Arabic below",
+    "lettering": "١٤٣٤ - ٢٠١٢",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "2012 - 1434",
+    "picture": "https://en.numista.com/catalogue/photos/koweit/219-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/koweit/219-180.jpg",
+    "picture_copyright": "numista",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "related_types": [
+    {
+      "id": 11756,
+      "title": "100 Fils (Emirate of Kuwait)",
+      "category": "coin",
+      "country": {
+        "code": "koweit",
+        "name": "Kuwait"
+      },
+      "minYear": 1961,
+      "maxYear": 1961
+    },
+    {
+      "id": 3040,
+      "title": "100 Fils (non-magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "koweit",
+        "name": "Kuwait"
+      },
+      "minYear": 1962,
+      "maxYear": 2010
+    },
+    {
+      "id": 100833,
+      "title": "100 Fils (Gold)",
+      "category": "coin",
+      "country": {
+        "code": "koweit",
+        "name": "Kuwait"
+      },
+      "minYear": 1987,
+      "maxYear": 1987
+    },
+    {
+      "id": 76629,
+      "title": "100 Fils (Silver)",
+      "category": "coin",
+      "country": {
+        "code": "koweit",
+        "name": "Kuwait"
+      },
+      "minYear": 1987,
+      "maxYear": 2011
+    },
+    {
+      "id": 100841,
+      "title": "100 Fils (Silver Gilt)",
+      "category": "coin",
+      "country": {
+        "code": "koweit",
+        "name": "Kuwait"
+      },
+      "minYear": 2008,
+      "maxYear": 2011
+    }
+  ],
+  "tags": [
+    "Boat or watercraft"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "14c"
+    }
+  ],
+  "weight": 6.7,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

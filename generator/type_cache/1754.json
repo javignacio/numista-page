@@ -1,0 +1,106 @@
+{
+  "id": 1754,
+  "url": "https://en.numista.com/1754",
+  "title": "50 Centimes",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "algerie",
+    "name": "Algeria"
+  },
+  "min_year": 1964,
+  "max_year": 1964,
+  "ruler": [
+    {
+      "id": 3733,
+      "name": "People's Democratic Republic",
+      "wikidata_id": "Q262"
+    }
+  ],
+  "value": {
+    "text": "50 Centimes",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 23,
+      "name": "Dinar",
+      "full_name": "Dinar (1964-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 24,
+  "thickness": 1.58,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass (79% Copper, 20% Zinc, 1% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms of Algerian Democratic and Popular Republic (1963-1976) / 'Algerian Democratic and Popular Republic' in arab",
+    "lettering": "الجمهورية الجزائرية الديمقراطية الشعبية",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "Democratic People's Republic of Algeria",
+    "picture": "https://en.numista.com/catalogue/photos/algerie/5e8a66dde79ec1.87358947-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/algerie/5e8a66dde79ec1.87358947-180.jpg",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "reverse": {
+    "description": "Denomination in Arabic numerals, occidental and arabic year upper at central circle. Arabic ornaments in frame",
+    "lettering": "1964 - ١٣٨٣\r\n٥٠\r\nخمسون سنتيما",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "1964-1383\r\n50\r\nFifty centimes",
+    "picture": "https://en.numista.com/catalogue/photos/algerie/630805692346e2.23973605-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/algerie/630805692346e2.23973605-180.jpg",
+    "picture_copyright": "gyoschak",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "Coat of arms of Democratic and Popular Republic Algerian (1963-1976) was the second coat of arms of Independent Algeria.<br />\r\nDescription: Hamsá (“hand of Fatma”) betwen 2 national flags and 3 ears of wheat raising from a Islamic Crescent and star inside a garland of laurel and olive branches attached by a ribon below<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/645d2b81e15d1.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/645d2b81e15d1.jpg\" alt=\"\" width=\"200\" height=\"205\" /></a>",
+  "tags": [
+    "Flag",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "99"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "9"
+    }
+  ],
+  "weight": 5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 31,
+      "name": "Kings Norton Metal Company"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

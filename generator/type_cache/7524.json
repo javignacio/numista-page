@@ -1,0 +1,108 @@
+{
+  "id": 7524,
+  "url": "https://en.numista.com/7524",
+  "title": "1000 Pesos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "colombie",
+    "name": "Colombia"
+  },
+  "min_year": 1996,
+  "max_year": 1998,
+  "ruler": [
+    {
+      "id": 4088,
+      "name": "Republic",
+      "wikidata_id": "Q739"
+    }
+  ],
+  "value": {
+    "text": "1000 Pesos",
+    "numeric_value": 1000,
+    "currency": {
+      "id": 147,
+      "name": "Peso decimalized",
+      "full_name": "Peso decimalized (1847-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21.67,
+  "thickness": 2.76,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze (92% Copper, 6% Aluminium, 2% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The value in the centre with the country name above and the date below",
+    "lettering": "REPUBLICA DE COLOMBIA\r\n1000 \r\nPESOS\r\n1996",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Colombia\r\n1000 Pesos\r\n1996",
+    "picture": "https://en.numista.com/catalogue/photos/colombie/1282-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/1282-180.jpg",
+    "picture_copyright": "Ciscoins.net",
+    "picture_copyright_url": "https://web.archive.org/web/20201116183734/http://ciscoins.net/"
+  },
+  "reverse": {
+    "description": "Filigree design",
+    "picture": "https://en.numista.com/catalogue/photos/colombie/1281-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/1281-180.jpg",
+    "picture_copyright": "Ciscoins.net",
+    "picture_copyright_url": "https://web.archive.org/web/20201116183734/http://ciscoins.net/"
+  },
+  "comments": "This regular, circulation coin was taken out of circulation because it was massively counterfeited.",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "288"
+    },
+    {
+      "catalogue": {
+        "id": 348,
+        "code": "Restrepo"
+      },
+      "number": "449"
+    },
+    {
+      "catalogue": {
+        "id": 347,
+        "code": "Hernández"
+      },
+      "number": "662"
+    }
+  ],
+  "weight": 7.3,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded with inscription",
+    "lettering": "CULTURA SINU MIL PESOS",
+    "lettering_translation": "Sinu Culture One Thousand Pesos",
+    "picture": "https://en.numista.com/catalogue/photos/colombie/67c4ca7ea71069.54845295-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/67c4ca7ea71069.54845295-180.jpg",
+    "picture_copyright": "LUIS_EDUARDO_C",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 4172,
+      "name": "Fábrica de Moneda de Ibagué"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

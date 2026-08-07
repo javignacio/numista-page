@@ -1,0 +1,168 @@
+{
+  "id": 55,
+  "url": "https://en.numista.com/55",
+  "title": "¼ Dollar \"Washington Quarter\"",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "etats-unis",
+    "name": "United States"
+  },
+  "min_year": 1965,
+  "max_year": 1998,
+  "ruler": [
+    {
+      "id": 4720,
+      "name": "Federal republic",
+      "wikidata_id": "Q30"
+    }
+  ],
+  "value": {
+    "text": "¼ Dollar ",
+    "numeric_value": 0.25,
+    "numerator": 1,
+    "denominator": 4,
+    "currency": {
+      "id": 59,
+      "name": "Dollar",
+      "full_name": "Dollar (1785-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24.26,
+  "thickness": 1.75,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel clad copper"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "John Flanagan"
+    ],
+    "description": "The portrait in left profile of George Washington, the first President of the United States from 1789 to 1797, is accompanied with the motto: \"IN GOD WE TRUST\" and surrounded with the lettering: \"LIBERTY\"\r\n\r\nNOTE: KM#164a reprised after 1977 as KM#A164a",
+    "lettering": "LIBERTY \r\nIN GOD WE TRUST\r\nJF \r\n1998 D",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/2859-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/2859-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "reverse": {
+    "engravers": [
+      "John Flanagan"
+    ],
+    "description": "An eagle, wings spread, and standing on a shaft of arrows with a wreath comprised of two olive sprays beneath the eagle, is surrounded with the face value, the motto \"E PLURIBUS UNUM\" and the lettering \"UNITED STATES OF AMERICA\"",
+    "lettering": "UNITED STATES OF AMERICA\r\nE PLURIBUS\r\nUNUM\r\n\r\nQUARTER DOLLAR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Out of Many One",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/2860-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/2860-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "comments": "The standard weight of all quarters issued since 1965 is 87½ grains.<br /><br />\r\nFrom 1965 to 1967, these coins were minted in Philadelphia and Denver without a mintmark.<br /><br />\r\nFrom 1977 through 1979, 50,824,000 coins were minted in the United States Bullion Depository, West Point. These coins are identical to the Philadelphia issue. The mintage is a follows:<br />\r\n1977: 7,352,000<br />\r\n1978: 20,800,000<br />\r\n1979: 20,672,000<br /><br />\r\n&quot;Type II&quot; proofs have clearer mint-marks than &quot;Type I&quot;.<br />\r\n1979S types<br />\r\n<a href=\"https://en.numista.com/catalogue/images/6385ceeface4a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6385ceeface4a.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\n1981S types<br />\r\n<a href=\"https://en.numista.com/catalogue/images/6385cf03a1e6e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6385cf03a1e6e.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "related_types": [
+    {
+      "id": 54,
+      "title": "¼ Dollar \"Washington Silver Quarter\"",
+      "category": "coin",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 1932,
+      "maxYear": 1964
+    },
+    {
+      "id": 30062,
+      "title": "¼ Dollar \"Washington Quarter\" (Silver Proof Issue)",
+      "category": "coin",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 1992,
+      "maxYear": 1998
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Eagle",
+    "Military leader",
+    "Politician",
+    "Wreath",
+    "Cold weapons"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "164a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "168a"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "A164a"
+    }
+  ],
+  "weight": 5.67,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded (119 reeds)",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/3174-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/3174-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 10,
+      "name": "United States Mint of Denver"
+    },
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    },
+    {
+      "id": 13,
+      "name": "United States Mint of West Point"
+    },
+    {
+      "id": 10,
+      "name": "United States Mint of Denver"
+    },
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    },
+    {
+      "id": 12,
+      "name": "United States Mint of San Francisco"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

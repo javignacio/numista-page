@@ -1,0 +1,138 @@
+{
+  "id": 4988,
+  "url": "https://en.numista.com/4988",
+  "title": "2 Pence - Elizabeth II (Europa Point Lighthouse; non-magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "gibraltar",
+    "name": "Gibraltar"
+  },
+  "min_year": 1988,
+  "max_year": 1995,
+  "ruler": [
+    {
+      "id": 2999,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 831,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "2 Pence",
+    "numeric_value": 0.02,
+    "currency": {
+      "id": 119,
+      "name": "Pound",
+      "full_name": "Pound (decimalized, 1971-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25.91,
+  "thickness": 1.85,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Raphael David Maklouf"
+    ],
+    "description": "Right facing couped bust of Queen Elizabeth II, wearing the George IV State Diadem, legend and date around",
+    "lettering": "ELIZABETH II GIBRALTAR·1988\r\nRDM\r\nPM",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/gibraltar/65b40db7b8f4e9.64718394-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/gibraltar/65b40db7b8f4e9.64718394-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Alfred Ryman"
+    ],
+    "description": "Europa Point lighthouse.",
+    "lettering": "TWO PENCE\r\n2\r\nAA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/gibraltar/65b40db876d758.42882064-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/gibraltar/65b40db876d758.42882064-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "The mintmark is at the bottom above the border",
+  "related_types": [
+    {
+      "id": 20897,
+      "title": "2 Pence - Elizabeth II (Europa Point Lighthouse; magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "gibraltar",
+        "name": "Gibraltar"
+      },
+      "minYear": 1995,
+      "maxYear": 1997
+    },
+    {
+      "id": 2988,
+      "title": "2 Pence - Elizabeth II (Europa Point Lighthouse; head with tiara)",
+      "category": "coin",
+      "country": {
+        "code": "gibraltar",
+        "name": "Gibraltar"
+      },
+      "minYear": 1998,
+      "maxYear": 2003
+    }
+  ],
+  "tags": [
+    "Lighthouse"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "21"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "17"
+    }
+  ],
+  "weight": 7.12,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 26,
+      "name": "Pobjoy Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

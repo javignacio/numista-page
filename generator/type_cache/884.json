@@ -1,0 +1,119 @@
+{
+  "id": 884,
+  "url": "https://en.numista.com/884",
+  "title": "2 Shillings - George VI (without 'IND:IMP')",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1949,
+  "max_year": 1951,
+  "ruler": [
+    {
+      "id": 274,
+      "name": "George VI",
+      "wikidata_id": "Q280856",
+      "group": {
+        "id": 527,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "2 Shillings",
+    "numeric_value": 0.1,
+    "numerator": 2,
+    "denominator": 20,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1971)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1993-06-30"
+  },
+  "size": 28.5,
+  "thickness": 2.25,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Thomas Humphrey Paget"
+    ],
+    "description": "Uncrowned portrait of King George VI left, legend around.",
+    "lettering": "GEORGIVS VI D:G:BR:OMN:REX\r\nHP",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "George the Sixth by the Grace of God King of all the Britains",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/164-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/164-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "George Kruger Gray"
+    ],
+    "description": "Crowned Tudor rose dividing royal cypher below thistle and shamrock, legend above, denomination and date below.",
+    "lettering": ":FID: :DEF:\r\nG R\r\nTWO SHILLINGS 1951",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Defender of the Faith\r\nKing George (Georgius Rex)",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/165-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/165-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "The standard weight of these coins was 4/11 troy ounce (174.5 grains). Under the Coinage Act of 1946, the composition changed from .500 silver to .750 copper/.250 nickel but the weight remained unchanged.",
+  "tags": [
+    "Flower"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "878"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "4107"
+    }
+  ],
+  "weight": 11.31,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,179 @@
+{
+  "id": 3455,
+  "url": "https://en.numista.com/3455",
+  "title": "25 Centavos (Mirabal Sisters)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "republique_dominicaine",
+    "name": "Dominican Republic (1844-date)"
+  },
+  "min_year": 1983,
+  "max_year": 1987,
+  "ruler": [
+    {
+      "id": 4033,
+      "name": "Fourth Republic",
+      "wikidata_id": "Q786"
+    }
+  ],
+  "value": {
+    "text": "25 Centavos",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 152,
+      "name": "Peso oro",
+      "full_name": "Peso oro (1937-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24,
+  "thickness": 1.75,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Denomination, national coat of arms, year of issue",
+    "lettering": "25 CENTAVOS\r\nREPUBLICA DOMINICANA\r\nDIOS PATRIA LIBERTAD\r\nREPUBLICA DOMINICANA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Dominican Republic\r\nGod Fatherland Liberty\r\nDominican Republic",
+    "picture": "https://en.numista.com/catalogue/photos/republique_dominicaine/67c83b5133dc82.53457343-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/republique_dominicaine/67c83b5133dc82.53457343-180.jpg",
+    "picture_copyright": "Coinsberg",
+    "picture_copyright_url": "https://www.coinsberg.com/"
+  },
+  "reverse": {
+    "description": "Profiles of the Mirabal sisters left, Patria, Minerva & Maria Teresa, human rights martyrs murdered 25.11.1960 by Trujillo",
+    "lettering": "CUNA DE LOS DERECHOS HUMANOS\r\nHERMANAS MIRABAL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Cradle of human rights\r\nMirabal sisters",
+    "picture": "https://en.numista.com/catalogue/photos/republique_dominicaine/67c83b51877071.65040518-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/republique_dominicaine/67c83b51877071.65040518-180.jpg",
+    "picture_copyright": "Coinsberg",
+    "picture_copyright_url": "https://www.coinsberg.com/"
+  },
+  "commemorated_topic": "Human Rights",
+  "comments": "<p>Coins of 1983 and 1984 have medal alignment (KM 61.1); coins of 1986 and 1987 have coin alignment (KM 61.2).</p>",
+  "related_types": [
+    {
+      "id": 6875,
+      "title": "1 Centavo (Caonabo)",
+      "category": "coin",
+      "country": {
+        "code": "republique_dominicaine",
+        "name": "Dominican Republic (1844-date)"
+      },
+      "minYear": 1984,
+      "maxYear": 1987
+    },
+    {
+      "id": 6424,
+      "title": "5 Centavos (Sanchez and Mella)",
+      "category": "coin",
+      "country": {
+        "code": "republique_dominicaine",
+        "name": "Dominican Republic (1844-date)"
+      },
+      "minYear": 1983,
+      "maxYear": 1987
+    },
+    {
+      "id": 1088,
+      "title": "10 Centavos (Duarte)",
+      "category": "coin",
+      "country": {
+        "code": "republique_dominicaine",
+        "name": "Dominican Republic (1844-date)"
+      },
+      "minYear": 1983,
+      "maxYear": 1987
+    },
+    {
+      "id": 5907,
+      "title": "½ Peso (Human Rights, Bonó, Espaillat, Rojas)",
+      "category": "coin",
+      "country": {
+        "code": "republique_dominicaine",
+        "name": "Dominican Republic (1844-date)"
+      },
+      "minYear": 1983,
+      "maxYear": 1987
+    },
+    {
+      "id": 20878,
+      "title": "1 Peso (Montesinos, Enriquillo, Lemba)",
+      "category": "coin",
+      "country": {
+        "code": "republique_dominicaine",
+        "name": "Dominican Republic (1844-date)"
+      },
+      "minYear": 1983,
+      "maxYear": 1986
+    }
+  ],
+  "tags": [
+    "Human rights",
+    "Coat of Arms",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "61.1"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "56"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "61.2"
+    }
+  ],
+  "weight": 6.25,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    },
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    },
+    {
+      "id": 29,
+      "name": "Mexican Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

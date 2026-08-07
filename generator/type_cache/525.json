@@ -1,0 +1,139 @@
+{
+  "id": 525,
+  "url": "https://en.numista.com/525",
+  "title": "2 Grosze (non-magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "pologne",
+    "name": "Poland"
+  },
+  "min_year": 1990,
+  "max_year": 2014,
+  "ruler": [
+    {
+      "id": 3739,
+      "name": "Third Republic",
+      "wikidata_id": "Q1259201"
+    }
+  ],
+  "value": {
+    "text": "2 Groszys",
+    "numeric_value": 0.02,
+    "currency": {
+      "id": 200,
+      "name": "Fourth Zloty",
+      "full_name": "Fourth Zloty (1995-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 17.5,
+  "thickness": 1.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Manganese brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Stanisława Wątróbska-Frindt"
+    ],
+    "description": "The arms of Poland in the centre, the country name above around the rim, and the date below.",
+    "lettering": "RZECZPOSPOLITA POLSKA\r\nMW\r\n• 2013 •",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Poland",
+    "picture": "https://en.numista.com/catalogue/photos/pologne/5ebaaefa7cc8c4.20261116-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pologne/5ebaaefa7cc8c4.20261116-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "reverse": {
+    "designers": [
+      "Ewa Tyc-Karpińska"
+    ],
+    "description": "Two oak leaves and denomination",
+    "lettering": "2 \r\nGROSZE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/pologne/5ebaaefad715b0.20254560-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pologne/5ebaaefad715b0.20254560-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "related_types": [
+    {
+      "id": 61885,
+      "title": "2 Grosze (magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "minYear": 2013,
+      "maxYear": 2025
+    }
+  ],
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "277"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "283"
+    },
+    {
+      "catalogue": {
+        "id": 165,
+        "code": "ParM"
+      },
+      "number": "702"
+    },
+    {
+      "catalogue": {
+        "id": 166,
+        "code": "Fischer Po"
+      },
+      "number": "OB125"
+    }
+  ],
+  "weight": 2.1,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/pologne/5ebaaefb24da07.61540322-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pologne/5ebaaefb24da07.61540322-180.jpg",
+    "picture_copyright": "Narodowy Bank Polski",
+    "picture_copyright_url": "http://www.nbp.pl"
+  },
+  "mints": [
+    {
+      "id": 27,
+      "name": "Mint of Poland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

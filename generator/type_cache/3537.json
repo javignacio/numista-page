@@ -1,0 +1,135 @@
+{
+  "id": 3537,
+  "url": "https://en.numista.com/3537",
+  "title": "5 Won",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "coree_du_sud",
+    "name": "South Korea"
+  },
+  "issuing_entity": {
+    "id": 687,
+    "name": "Bank of Korea",
+    "wikidata_id": "Q485531"
+  },
+  "min_year": 1966,
+  "max_year": 1970,
+  "ruler": [
+    {
+      "id": 3992,
+      "name": "Republic",
+      "wikidata_id": "Q884"
+    }
+  ],
+  "value": {
+    "text": "5 Won",
+    "numeric_value": 5,
+    "currency": {
+      "id": 196,
+      "name": "New won",
+      "full_name": "New won (1962-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1966-08-16"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 20.4,
+  "thickness": 1.33,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass (88% Copper, 12% Zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Geobukseon (Turtle Ship), Korean battleship used from the 15th to the 19th century",
+    "lettering": "오원\r\n한국은행",
+    "lettering_scripts": [
+      {
+        "name": "Hangul"
+      }
+    ],
+    "lettering_translation": "Five Won\r\nBank of Korea",
+    "picture": "https://en.numista.com/catalogue/photos/coree_du_sud/481-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/481-180.jpg",
+    "picture_copyright": "gdch6ng",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Bank name and Denomination, date below",
+    "lettering": "THE\r\nBANK\r\nOF\r\nKOREA\r\n1966\r\n5",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/coree_du_sud/480-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/480-180.jpg",
+    "picture_copyright": "gdch6ng",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/611a13d9da3cc.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/611a13d9da3cc.jpg\" alt=\"\" width=\"200\" height=\"72\" /></a>",
+  "related_types": [
+    {
+      "id": 9657,
+      "title": "5 Won",
+      "category": "coin",
+      "country": {
+        "code": "coree_du_sud",
+        "name": "South Korea"
+      },
+      "minYear": 1970,
+      "maxYear": 1982
+    },
+    {
+      "id": 7855,
+      "title": "5 Won",
+      "category": "coin",
+      "country": {
+        "code": "coree_du_sud",
+        "name": "South Korea"
+      },
+      "minYear": 1983,
+      "maxYear": 2026
+    }
+  ],
+  "tags": [
+    "Boat or watercraft"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "5"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "55"
+    }
+  ],
+  "weight": 3.09,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/coree_du_sud/69b0708d1f4208.87889355-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/69b0708d1f4208.87889355-180.jpg",
+    "picture_copyright": "Saber82"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,179 @@
+{
+  "id": 2217,
+  "url": "https://en.numista.com/2217",
+  "title": "1 Peso",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "argentine",
+    "name": "Argentina"
+  },
+  "min_year": 1994,
+  "max_year": 2016,
+  "ruler": [
+    {
+      "id": 3983,
+      "name": "Federal Republic",
+      "wikidata_id": "Q414"
+    }
+  ],
+  "value": {
+    "text": "1 Peso",
+    "numeric_value": 1,
+    "currency": {
+      "id": 145,
+      "name": "Peso convertible",
+      "full_name": "Peso convertible (1992-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23,
+  "thickness": 2.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: copper-aluminium-nickel centre in copper-nickel ring (Cu 92 Al 6 Ni 2 - Cu 75 Ni 25)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "A replica of the obverse of the first national coin (KM#9) in the center and the country name above and a legend below in the outer rim",
+    "lettering": "REPUBLICA ARGENTINA\r\nEN UNION Y LIBERTAD·PTS·J·8S\r\n·1813·\r\n· PRIMERA MONEDA PATRIA ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "8 escudos",
+    "lettering_translation": "Argentinian Republic\r\nIn Unity and Liberty·PTS·J·8S\r\n·1813·\r\n·First Coin of the Motherland·",
+    "picture": "https://en.numista.com/catalogue/photos/argentine/1495-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/1495-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "description": "A replica of the reverse of the first national coin, with the 32-rayed National Sun surrounded by the inscription in the center and the date below and the denomination above in the outer rim",
+    "lettering": "UN PESO\r\nPROVINCIAS DEL RIO DE LA PLATA\r\n2006",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "One Peso\r\nProvinces of the Rio de la Plata\r\n2006",
+    "picture": "https://en.numista.com/catalogue/photos/argentine/1496-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/1496-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/58c4141f4b158.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/58c4141f4b158.jpg\" alt=\"\" width=\"160\" height=\"250\" /></a><br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/61e40f53bde6d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/61e40f53bde6d.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/61e40f5f86ade.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/61e40f5f86ade.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5f46591ac7a0b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5f46591ac7a0b.jpg\" alt=\"\" width=\"200\" height=\"200\" /></a><br />\r\nKM 112.3<br /><br />\r\nThree types of coin (year 1995): different fonts and size of arms. Error in type B: PROVINGIAS. @Rhonan.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/625ec77aebd92.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/625ec77aebd92.jpg\" alt=\"\" width=\"200\" height=\"151\" /></a>",
+  "related_types": [
+    {
+      "id": 33281,
+      "title": "8 Escudos (Provincias del Rio de la Plata)",
+      "category": "coin",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 1813,
+      "maxYear": 1813
+    },
+    {
+      "id": 318701,
+      "title": "1 Peso (Pattern - France)",
+      "category": "coin",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 1994,
+      "maxYear": 1994
+    },
+    {
+      "id": 400536,
+      "title": "1 Peso (Pattern - Germany)",
+      "category": "coin",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 1994,
+      "maxYear": 1994
+    },
+    {
+      "id": 388801,
+      "title": "1 Peso (Pattern - South Africa)",
+      "category": "coin",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 1994,
+      "maxYear": 1994
+    },
+    {
+      "id": 46419,
+      "title": "1 Peso (Bicentennial of the First Patriotic Coin)",
+      "category": "coin",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 2013,
+      "maxYear": 2013
+    }
+  ],
+  "tags": [
+    "Coin depiction",
+    "Coat of Arms",
+    "Phrygian cap",
+    "Sun"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "113"
+    }
+  ],
+  "weight": 6.4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/argentine/1203-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/1203-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 1336,
+      "name": "Buenos Aires"
+    },
+    {
+      "id": 1299,
+      "name": "Korea Minting and Security Printing Corporation"
+    },
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    },
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    },
+    {
+      "id": 29,
+      "name": "Mexican Mint"
+    },
+    {
+      "id": 22,
+      "name": "Rome"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

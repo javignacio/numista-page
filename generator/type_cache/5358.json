@@ -1,0 +1,91 @@
+{
+  "id": 5358,
+  "url": "https://en.numista.com/5358",
+  "title": "10 Soles de Oro (Admiral Grau)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "perou",
+    "name": "Peru"
+  },
+  "min_year": 1984,
+  "max_year": 1984,
+  "ruler": [
+    {
+      "id": 3757,
+      "name": "Republic",
+      "wikidata_id": "Q419"
+    }
+  ],
+  "value": {
+    "text": "10 Soles",
+    "numeric_value": 10,
+    "currency": {
+      "id": 218,
+      "name": "Sol",
+      "full_name": "Sol (1863-1930) / Sol de Oro (1931-1985)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 15,
+  "thickness": 1,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Number 10",
+    "lettering": "BANCO CENTRAL DE RESERVA DEL PERU\r\n10\r\nSOLES DE ORO\r\n·1984·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/perou/1734-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/1734-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "reverse": {
+    "description": "Portrait of Miguel Grau",
+    "lettering": "GRAN ALMIRANTE MIGUEL GRAU\r\n- 1834-1984 -",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/perou/1733-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/1733-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "commemorated_topic": "150th Anniversary of Admiral Grau",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "287"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "88"
+    }
+  ],
+  "weight": 1.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

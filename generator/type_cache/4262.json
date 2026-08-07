@@ -1,0 +1,128 @@
+{
+  "id": 4262,
+  "url": "https://en.numista.com/4262",
+  "title": "5 Escudos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "portugal",
+    "name": "Portugal"
+  },
+  "min_year": 1932,
+  "max_year": 1951,
+  "ruler": [
+    {
+      "id": 1294,
+      "name": "Second Republic",
+      "wikidata_id": "Q17748736"
+    }
+  ],
+  "value": {
+    "text": "5 Escudos",
+    "numeric_value": 5,
+    "currency": {
+      "id": 65,
+      "name": "Escudo",
+      "full_name": "Escudo (1911-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 25.2,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.650)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "João da Silva"
+    ],
+    "description": "The Caravelle sailing boat, the ship of the 15th century",
+    "lettering": "REPUBLICA PORTUGUESA \r\nFRAGOSO. GR.  J. DA SILVA\r\n1948",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Portuguese Republic\r\nFragoso. Gr. J. Da Silva\r\n1948",
+    "picture": "https://en.numista.com/catalogue/photos/portugal/3345-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/portugal/3345-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "reverse": {
+    "engravers": [
+      "João da Silva"
+    ],
+    "description": "The Portuguese coat of arms (shield in front of a circular design), and the value below",
+    "lettering": "5$00",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "5 Escudos",
+    "picture": "https://en.numista.com/catalogue/photos/portugal/3346-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/portugal/3346-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "series": "System 1927-1968",
+  "comments": "0.14 oz ASW",
+  "related_types": [
+    {
+      "id": 3710,
+      "title": "2.50 Escudos",
+      "category": "coin",
+      "country": {
+        "code": "portugal",
+        "name": "Portugal"
+      },
+      "minYear": 1932,
+      "maxYear": 1951
+    }
+  ],
+  "tags": [
+    "Coat of Arms",
+    "Boat or watercraft"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "581"
+    },
+    {
+      "catalogue": {
+        "id": 108,
+        "code": "Gomes"
+      },
+      "number": "R 35"
+    }
+  ],
+  "weight": 7,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/portugal/62939d2bca5773.12943790-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/portugal/62939d2bca5773.12943790-180.jpg",
+    "picture_copyright": "Michass",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 1337,
+      "name": "Imprensa Nacional - Casa da Moeda"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

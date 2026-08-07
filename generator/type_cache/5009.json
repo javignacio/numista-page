@@ -1,0 +1,105 @@
+{
+  "id": 5009,
+  "url": "https://en.numista.com/5009",
+  "title": "5 Som",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "kirghizistan",
+    "name": "Kyrgyzstan"
+  },
+  "min_year": 2008,
+  "max_year": 2008,
+  "ruler": [
+    {
+      "id": 1317,
+      "name": "Republic",
+      "wikidata_id": "Q813"
+    }
+  ],
+  "value": {
+    "text": "5 Som",
+    "numeric_value": 5,
+    "currency": {
+      "id": 185,
+      "name": "Som",
+      "full_name": "Som (1993-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23,
+  "thickness": 1.53,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of Arms of the Kyrgyz Republic, date below",
+    "lettering": "КЫРГЫЗ\r\nРЕСПУБИКАСЫ\r\n2008",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "Kyrgyz Republic",
+    "picture": "https://en.numista.com/catalogue/photos/kirghizistan/62bf72ad1fd5e2.67003342-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/kirghizistan/62bf72ad1fd5e2.67003342-180.jpg",
+    "picture_copyright": "Ben-jamin",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "reverse": {
+    "description": "\"kookor\", a traditional Kyrgyz container made of leather for kymyz, the traditional drink. Each \"kookor\" image bears a symbol of \"tumar\" represented by a triangle. The latter is widely used in various Kyrgyz crafts",
+    "lettering": "5 COM",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "5 Som",
+    "picture": "https://en.numista.com/catalogue/photos/kirghizistan/62bf72ad831a42.11104366-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/kirghizistan/62bf72ad831a42.11104366-180.jpg",
+    "picture_copyright": "Ben-jamin",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "16"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "20"
+    }
+  ],
+  "weight": 4.2,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/kirghizistan/282-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/kirghizistan/282-180.jpg",
+    "picture_copyright": "AvrAlex (Belgorod, Russia)"
+  },
+  "mints": [
+    {
+      "id": 9,
+      "name": "Kazakhstan Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

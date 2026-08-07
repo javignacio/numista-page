@@ -1,0 +1,96 @@
+{
+  "id": 3763,
+  "url": "https://en.numista.com/3763",
+  "title": "5 Rials - Mohammad Rezā Pahlavī",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "iran",
+    "name": "Iran"
+  },
+  "min_year": 1968,
+  "max_year": 1978,
+  "ruler": [
+    {
+      "id": 4214,
+      "name": "Mohammad Reza",
+      "wikidata_id": "Q128245",
+      "group": {
+        "id": 219,
+        "name": "Pahlavi Dynasty, Imperial State of Iran"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Rials",
+    "numeric_value": 5,
+    "currency": {
+      "id": 4032,
+      "name": "Second Rial",
+      "full_name": "Second Rial (1932-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 24.9,
+  "thickness": 1.36,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Lion passant gardant with raised scimitar sword below a crown",
+    "lettering": "پنج ریال",
+    "picture": "https://en.numista.com/catalogue/photos/iran/66edff4794fe27.36220645-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/iran/66edff4794fe27.36220645-180.jpg",
+    "picture_copyright": "tjb201",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Mohammad Reza Pahlavi Aryamehr Shahanshah of Iran \r\n5 Rials",
+    "lettering": "محمدرضا شاه پهلوی آریامهر شاهنشاه ایران\r\n۵\r\nریال\r\n۱۳۵۳",
+    "picture": "https://en.numista.com/catalogue/photos/iran/66edff434fc766.73320804-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/iran/66edff434fc766.73320804-180.jpg",
+    "picture_copyright": "tjb201",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "How to understand the difference between small and large date for 1974<br />\n<a href=\"https://en.numista.com/catalogue/images/5dd3e1245f2af.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5dd3e1245f2af.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\nAH1352(1973) ۱۳۵۲ (large date):<br />\n<a href=\"https://en.numista.com/catalogue/images/572dffa0277bd.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/572dffa0277bd.jpg\" alt=\"\" width=\"200\" height=\"119\" /></a>",
+  "tags": [
+    "Cat or feline"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1176"
+    }
+  ],
+  "weight": 4.6,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/iran/6008d629294091.77988963-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/iran/6008d629294091.77988963-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 3772,
+      "name": "Tehran"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,128 @@
+{
+  "id": 6381,
+  "url": "https://en.numista.com/6381",
+  "title": "20 Euro Cents (2nd map)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "italie",
+    "name": "Italy"
+  },
+  "min_year": 2008,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 1164,
+      "name": "Republic",
+      "wikidata_id": "Q38"
+    }
+  ],
+  "value": {
+    "text": "20 Euro Cents",
+    "numeric_value": 0.2,
+    "currency": {
+      "id": 9010,
+      "name": "Euro",
+      "full_name": "Euro (2002-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 22.25,
+  "thickness": 2.14,
+  "shape": "Spanish flower",
+  "composition": {
+    "text": "Nordic gold"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Maria Angela Cassol"
+    ],
+    "description": "Boccioni's sculpture \"Unique Forms of Continuity in Space\", encircled by the twelve stars of the first Eurocountries.",
+    "lettering": "R\r\nRI 2012\r\nM.A.C.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Repubblica Italiana",
+    "picture": "https://en.numista.com/catalogue/photos/italie/627355e8b8b592.26612841-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/italie/627355e8b8b592.26612841-180.jpg",
+    "picture_copyright": "Mike Bentley",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Luc Luycx"
+    ],
+    "description": "A map, next to the face value, symbolizes the gathering of the fifteen nations of the European Union.",
+    "lettering": "20 \r\nLL\r\nEURO \r\nCENT",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/italie/627355ea209d75.76537598-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/italie/627355ea209d75.76537598-180.jpg",
+    "picture_copyright": "Mike Bentley",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p>&nbsp;<a href=\"https://en.numista.com/catalogue/images/66980c26d32ed.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/66980c26d32ed.jpg\"></a> 2022 with smaller stars</p>",
+  "related_types": [
+    {
+      "id": 133,
+      "title": "20 Euro Cents (1st map)",
+      "category": "coin",
+      "country": {
+        "code": "italie",
+        "name": "Italy"
+      },
+      "minYear": 2002,
+      "maxYear": 2007
+    }
+  ],
+  "tags": [
+    "Sculpture",
+    "Map"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "248"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "290"
+    }
+  ],
+  "weight": 5.74,
+  "orientation": "medal",
+  "edge": {
+    "description": "Smooth with seven indentations (\"Spanish flower\")",
+    "picture": "https://en.numista.com/catalogue/photos/italie/2581-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/italie/2581-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 22,
+      "name": "Rome"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,115 @@
+{
+  "id": 661,
+  "url": "https://en.numista.com/661",
+  "title": "1 Dirham - Hassan II (1st portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "maroc",
+    "name": "Morocco"
+  },
+  "min_year": 1965,
+  "max_year": 1969,
+  "ruler": [
+    {
+      "id": 3830,
+      "name": "Hassan II",
+      "wikidata_id": "Q69103",
+      "group": {
+        "id": 223,
+        "name": "Alaouite Kings"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Dirham",
+    "numeric_value": 1,
+    "currency": {
+      "id": 36,
+      "name": "Dirham",
+      "full_name": "Dirham (1960-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24,
+  "thickness": 1.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Raymond Joly"
+    ],
+    "description": "King Hassan II left, engravers name under the portrait.",
+    "lettering": "المملكة المغربية\r\nالحسن الثاني\r\nج. ريمن",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "Kingdom of Morocco\r\nHassan II\r\nJ. Raymond",
+    "picture": "https://en.numista.com/catalogue/photos/maroc/1356-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/maroc/1356-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "engravers": [
+      "Raymond Joly"
+    ],
+    "description": "Arms of the Kingdom and inscription, mintmark and privy mark on the sides.",
+    "lettering": "1965 1384\r\nإِنْ تَنْصُرُوا اللَّهَ يَنْصُرْكُمْ\r\nدرهم 1 واحد",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "If you glorify God, He will glorify you\r\nOne 1 Dirham",
+    "picture": "https://en.numista.com/catalogue/photos/maroc/1357-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/maroc/1357-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "comments": "This piece is included in the Fleurs de Coins box set issued in 1965 (KM#MS1).<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/62bc58cf954d0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/62bc58cf954d0.jpg\" alt=\"\" width=\"200\" height=\"115\" /></a>",
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "56"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "48"
+    }
+  ],
+  "weight": 6,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/maroc/694dbca240a620.20773622-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/maroc/694dbca240a620.20773622-180.jpg",
+    "picture_copyright": "Dieter83"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

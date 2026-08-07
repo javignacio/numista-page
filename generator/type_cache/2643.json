@@ -1,0 +1,103 @@
+{
+  "id": 2643,
+  "url": "https://en.numista.com/2643",
+  "title": "25 Satang - Rama IX",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "thailande",
+    "name": "Thailand"
+  },
+  "min_year": 1957,
+  "max_year": 1957,
+  "ruler": [
+    {
+      "id": 1905,
+      "name": "Bhumibol Adulyadej (Rama IX)",
+      "wikidata_id": "Q855252",
+      "group": {
+        "id": 65,
+        "name": "Chakri dynasty"
+      }
+    }
+  ],
+  "value": {
+    "text": "25 Satangs",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 4,
+      "name": "Baht",
+      "full_name": "Baht (1897-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 20.5,
+  "thickness": 1,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze (91% Copper, 9% Aluminium)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Portrait of King Rama IX facing left",
+    "lettering": "ภูมิพลอดุลยเดช   รัชกาลที่๙",
+    "lettering_scripts": [
+      {
+        "name": "Thai"
+      }
+    ],
+    "lettering_translation": "Bhumibol Adulyadej Rama IX",
+    "picture": "https://en.numista.com/catalogue/photos/thailande/5fc7d38c506eb6.35430620-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/thailande/5fc7d38c506eb6.35430620-180.jpg",
+    "picture_copyright": "Ben-jamin",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "reverse": {
+    "description": "The arms of Thailand dividing the denomination",
+    "lettering": "รัฐบาลไทย\r\n๒๕ สต.\r\nพ.ศ.๒๕๐๐",
+    "lettering_scripts": [
+      {
+        "name": "Thai"
+      }
+    ],
+    "lettering_translation": "Thai government\n25 Sat\nBuddhistic Era 2500",
+    "picture": "https://en.numista.com/catalogue/photos/thailande/5fc7d38cce5827.46035257-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/thailande/5fc7d38cce5827.46035257-180.jpg",
+    "picture_copyright": "Ben-jamin",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "comments": "Struck without date change until 2520/1977.<br />\n<a href=\"https://en.numista.com/catalogue/images/5c3b020983d03.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5c3b020983d03.jpg\" alt=\"\" width=\"200\" height=\"110\" /></a>",
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "80"
+    }
+  ],
+  "weight": 2.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/thailande/2342-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/thailande/2342-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 4211,
+      "name": "Bangkok"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

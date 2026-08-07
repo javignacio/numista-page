@@ -1,0 +1,102 @@
+{
+  "id": 8347,
+  "url": "https://en.numista.com/8347",
+  "title": "½ Penny - George III",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "irlande",
+    "name": "Ireland"
+  },
+  "min_year": 1805,
+  "max_year": 1805,
+  "ruler": [
+    {
+      "id": 3890,
+      "name": "George III",
+      "wikidata_id": "Q127318",
+      "group": {
+        "id": 346,
+        "name": "United Kingdom of Great Britain and Ireland, House of Hanover"
+      }
+    }
+  ],
+  "value": {
+    "text": "½ Penny",
+    "numeric_value": 0.0020833333333333333,
+    "numerator": 1,
+    "denominator": 480,
+    "currency": {
+      "id": 406,
+      "name": "Second Irish Pound",
+      "full_name": "Second Irish Pound (1460-1826)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 28,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Bust facing right, initial in the cut of a shoulder.",
+    "lettering": "GEORGIUS III D:G·REX.\r\nK",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "GEORGIUS III DEI GRATIA REX\nGeorge III, king by the Grace of God",
+    "picture": "https://en.numista.com/catalogue/photos/irlande/69ba885fe135c9.65804744-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/irlande/69ba885fe135c9.65804744-180.jpg",
+    "picture_copyright": "enumis.shop",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Cláirseach (or Gaelic harp).",
+    "lettering": "HIBERNIA.\r\n1805",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Ireland",
+    "picture": "https://en.numista.com/catalogue/photos/irlande/69ba886064a475.57860604-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/irlande/69ba886064a475.57860604-180.jpg",
+    "picture_copyright": "enumis.shop",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "comments": "<p>KM cites a weight of 7.64 grams for this coin, but Numista members and auction houses all cite weights in the mid-8 gram range (see linked Forum topic).</p>",
+  "references": [
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "6621"
+    }
+  ],
+  "weight": 8.6,
+  "orientation": "coin",
+  "edge": {
+    "description": "KM#147.1: engrailed edge\r\nKM#147.2: smooth edge"
+  },
+  "mints": [
+    {
+      "id": 1808,
+      "name": "Soho Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

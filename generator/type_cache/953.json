@@ -1,0 +1,117 @@
+{
+  "id": 953,
+  "url": "https://en.numista.com/953",
+  "title": "5 Centavos (large type)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "mexique",
+    "name": "Mexico"
+  },
+  "min_year": 1954,
+  "max_year": 1969,
+  "ruler": [
+    {
+      "id": 4029,
+      "name": "United Mexican States/Mexican Republic",
+      "wikidata_id": "Q96"
+    }
+  ],
+  "value": {
+    "text": "5 Centavos",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 150,
+      "name": "Peso",
+      "full_name": "Peso (1863-1992)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 20.5,
+  "thickness": 1.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass (85% Copper, 15% Zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "National Arms (Eagle on cactus facing left with snake in beak above wreath), with the inscription forming a semicircle above it",
+    "lettering": "ESTADOS UNIDOS MEXICANOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "United States of Mexico",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/3784-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/3784-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "reverse": {
+    "description": "Value, Portrait of Josefa Ortiz de Domínguez to the right.",
+    "lettering": "CINCO CENTAVOS\r\nMo\r\n1963",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Five cents\r\nMexico City Mint\r\n1963",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/3785-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/3785-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "comments": "NOTE: Regarding the 1954 issues, these were minted without proper legislation and most were withdrawn and subsequently replaced with the larger KM#424. Separate mintage figures for 1954 KM#424 and KM#426 are not available. Due to the halting of production and withdrawal from circulation, 1954-dated coins are scarce. There are two varieties, with and without a dot (between the I in CINCO and the base of the hair).<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5dbb07c8bc9aa.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5dbb07c8bc9aa.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "related_types": [
+    {
+      "id": 3136,
+      "title": "5 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "minYear": 1942,
+      "maxYear": 1955
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "426"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "49"
+    }
+  ],
+  "weight": 4,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/627ea2f7888141.80694005-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/627ea2f7888141.80694005-180.jpg",
+    "picture_copyright": "Harryg",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 29,
+      "name": "Mexican Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

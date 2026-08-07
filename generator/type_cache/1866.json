@@ -1,0 +1,112 @@
+{
+  "id": 1866,
+  "url": "https://en.numista.com/1866",
+  "title": "1 Peso",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "chili",
+    "name": "Chile"
+  },
+  "min_year": 1992,
+  "max_year": 2015,
+  "ruler": [
+    {
+      "id": 3299,
+      "name": "Republic",
+      "wikidata_id": "Q298"
+    }
+  ],
+  "value": {
+    "text": "1 Peso",
+    "numeric_value": 1,
+    "currency": {
+      "id": 146,
+      "name": "Peso",
+      "full_name": "Peso (1975-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 16,
+  "thickness": 1.2,
+  "shape": "Octagonal (8-sided)",
+  "composition": {
+    "text": "Aluminium (Aluminium 98%, Other Metals 2%)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Francois Maurice Thénot"
+    ],
+    "description": "Portrait of Bernardo O'Higgins facing right, engraver's signature if present at the left under the sash.",
+    "lettering": "REPUBLICA DE CHILE\r\nSo\r\nLIBERTADOR\r\nB. O'HIGGINS\r\nFR.THENOT",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Chile\r\nSo\r\nLiberator\r\nB. O'Higgins\r\nFR.Thenot",
+    "picture": "https://en.numista.com/catalogue/photos/chili/1011-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/1011-180.jpg",
+    "picture_copyright": "Quodlibet"
+  },
+  "reverse": {
+    "engravers": [
+      "Francois Maurice Thénot"
+    ],
+    "description": "The value and the date below within laurel wreath.",
+    "lettering": "1\r\nPESO\r\n2008",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chili/1012-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/1012-180.jpg",
+    "picture_copyright": "Quodlibet"
+  },
+  "comments": "<p>Different obverse and reverse dies were used.<br><br><i>Obverse</i><br>Die <strong>1</strong> - large portrait, epaulette with wide decorations, convex medals, script fine, signature FR. Thenot under the sash of the Legion of Merit of Chile.<br>Die <strong>2</strong> - large portrait, epaulette with wide decorations, medals almost incused, script bold, signature under the sash.<br>Die <strong>3</strong> - small portrait, narrow epaulette and the sash, medals stylized, no signature under the sash, wide script to LIBERTADOR B.O'HIGGINS, period between B and O in the center.<br>Die <strong>4</strong> - small portrait, very narrow epaulette and the sash, medals stylized, no signature under the sash, tall script to LIBERTADOR B.O'HIGGINS, period between B and O closer to B.<br>Die <strong>5</strong> - small portrait, narrow epaulette with wide decorations inside, narrow sash, medals stylized, no signature under the sash, fine script to LIBERTADOR B.O'HIGGINS.<br><i>Note</i>. Additional features of haircut shown on images. Picture: © Images courtesy of Alexandr Prokofyev.<br><a href=\"https://en.numista.com/catalogue/images/61b50b928243c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/61b50b928243c.jpg\" alt=\"\"></a><br><br><i>Reverse</i><br>Die <strong>A</strong> - wreath close to center, tip of '1' in denomination sharp, numerals in date wide.<br>Die <strong>B</strong> - wreath close to center, tip of '1' in denomination sharp, numerals in date narrow, the date condensed.<br>Die <strong>C</strong> - wreath closer to rim, tip of '1' in denomination blunt, PESO bold, numerals in date wide.<br>Picture: © Images courtesy of Alexandr Prokofyev.<br><a href=\"https://en.numista.com/catalogue/images/61b50bd94183a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/61b50bd94183a.jpg\" alt=\"\"></a><br><i>Note</i>. Each year the position of date, style of its digits differ from others. For example all '1' in die 2 sanserif, apart of in 1999, where there are serifs at the bottom.<br><br><i>Combinations</i><br><strong>1</strong>+<strong>A</strong>: 1992, 2004-2006, 2008, 2009.<br><strong>1</strong>+<strong>B</strong>: 1993-2003.<br><strong>2</strong>+<strong>B</strong>: 2000-2003.<br><strong>3</strong>+<strong>C</strong>: 2011.<br><strong>4</strong>+<strong>C</strong>: 2012, 2013, 2015.<br><strong>5</strong>+<strong>C</strong>: 2015.<br><br><br>2000-2003:<br><a href=\"https://en.numista.com/catalogue/images/5ae6792bc45f0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5ae6792bc45f0.jpg\" alt=\"\"></a><br><br>2004-2005:<br><a href=\"https://en.numista.com/catalogue/images/5ae679364099a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5ae679364099a.jpg\" alt=\"\"></a><br><br>2006:<br><a href=\"https://en.numista.com/catalogue/images/5ae6795159480.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5ae6795159480.jpg\" alt=\"\"></a><br><br>2008-2009:<br><a href=\"https://en.numista.com/catalogue/images/5929039e8a103.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5929039e8a103.jpg\" alt=\"\"></a><br><br>2015:<br><a href=\"https://en.numista.com/catalogue/images/592904a7dbcaf.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/592904a7dbcaf.jpg\" alt=\"\"></a><br><a href=\"https://en.numista.com/catalogue/images/5ca4735fb43de.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5ca4735fb43de.jpg\" alt=\"\"></a></p>",
+  "tags": [
+    "Politician",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "231"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "79"
+    }
+  ],
+  "weight": 0.7,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 23,
+      "name": "Royal Dutch Mint"
+    },
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

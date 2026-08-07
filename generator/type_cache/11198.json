@@ -1,0 +1,143 @@
+{
+  "id": 11198,
+  "url": "https://en.numista.com/11198",
+  "title": "50 Kopiiok (with mintmark, non-magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "ukraine",
+    "name": "Ukraine"
+  },
+  "issuing_entity": {
+    "id": 564,
+    "name": "National Bank of Ukraine",
+    "wikidata_id": "Q1070388"
+  },
+  "min_year": 2001,
+  "max_year": 2012,
+  "ruler": [
+    {
+      "id": 3209,
+      "name": "Republic",
+      "wikidata_id": "Q212"
+    }
+  ],
+  "value": {
+    "text": "50 Kopiiok",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 88,
+      "name": "Hryvnia",
+      "full_name": "Hryvnia (1996-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23,
+  "thickness": 1.52,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Vasyl Lopata"
+    ],
+    "description": "National Coat of Arms, date below",
+    "lettering": "україна\r\n2007",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "Ukraine",
+    "picture": "https://en.numista.com/catalogue/photos/ukraine/5f91e027d7d4d3.39565140-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ukraine/5f91e027d7d4d3.39565140-180.jpg",
+    "picture_copyright": "National Bank of Ukraine",
+    "picture_copyright_url": "http://www.bank.gov.ua"
+  },
+  "reverse": {
+    "engravers": [
+      "Vasyl Lopata"
+    ],
+    "description": "Denomination",
+    "lettering": "50\r\nкопійок",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "50 Kopeks",
+    "picture": "https://en.numista.com/catalogue/photos/ukraine/5f91e0283c2c36.15094853-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ukraine/5f91e0283c2c36.15094853-180.jpg",
+    "picture_copyright": "National Bank of Ukraine",
+    "picture_copyright_url": "http://www.bank.gov.ua"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/5d7b68cb5eb84.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d7b68cb5eb84.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "related_types": [
+    {
+      "id": 3305,
+      "title": "50 Kopiiok (without mintmark)",
+      "category": "coin",
+      "country": {
+        "code": "ukraine",
+        "name": "Ukraine"
+      },
+      "minYear": 1992,
+      "maxYear": 1996
+    },
+    {
+      "id": 50270,
+      "title": "50 Kopiiok (with mintmark, magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "ukraine",
+        "name": "Ukraine"
+      },
+      "minYear": 2013,
+      "maxYear": 2025
+    }
+  ],
+  "tags": [
+    "Coat of Arms",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "3.3b"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "28a"
+    }
+  ],
+  "weight": 4.2,
+  "orientation": "medal",
+  "edge": {
+    "description": "Alternating segments of reeded and smooth parts (8 of each) with 16 grooves in each reeded segment.",
+    "picture": "https://en.numista.com/catalogue/photos/ukraine/1901-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ukraine/1901-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 1330,
+      "name": "National Bank of Ukraine Banknote Printing and Minting Works"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

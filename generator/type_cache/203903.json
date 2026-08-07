@@ -1,0 +1,131 @@
+{
+  "id": 203903,
+  "url": "https://en.numista.com/203903",
+  "title": "2000 Guaranies (Polymer; Series A-E)",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "paraguay",
+    "name": "Paraguay"
+  },
+  "issuing_entity": {
+    "id": 935,
+    "name": "Central Bank of Paraguay",
+    "wikidata_id": "Q4504275"
+  },
+  "min_year": 2008,
+  "max_year": 2023,
+  "ruler": [
+    {
+      "id": 4650,
+      "name": "Republic",
+      "wikidata_id": "Q733"
+    }
+  ],
+  "value": {
+    "text": "2000 Guaranies",
+    "numeric_value": 2000,
+    "currency": {
+      "id": 87,
+      "name": "Guarani",
+      "full_name": "Guarani (1944-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2009-12-18"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 157,
+  "size2": 67,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Polymer"
+  },
+  "obverse": {
+    "description": "Purple on multicolor underprint. \r\nPortraits of educators and sisters Adela Speratti (1865–1902) and Celsa Speratti (1868–1938) at right; Paraguayan Coat of Arms and Coat of arms of the Treasury, lion with Phrygian cap and the inscription \"Paz y Justicia\" (Peace and Justice) above value denomination.",
+    "lettering": "2 MIL\r\nBANCO CENTRAL\r\nDEL PARAGUAY\r\nEL BANCO CENTRAL DEL PARAGUAY\r\nRECONOCE ESTE BILLETE POR\r\n2000\r\nDOS MIL GUARANIES\r\nAÑO 2008\r\nESTE BILLETE TIENE CURSO LEGAL Y FUERZA CANCELATORIA ILIMITADA EN TODO EL TERRITORIO DE LA REPUBLICA (LEY 489 DEL 29 DE JUNIO DE 1995).",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "2 Thousands\r\nCentral Bank of Paraguay\r\nThe Central Bank of Paraguay accepts this banknote for Two Thousand Guaranies\r\nYear 2008\r\nThis banknote is legal tender, and unlimited valid on ll the Republic territory (Law # 489 from June 29th., 1995).",
+    "picture": "https://en.numista.com/catalogue/photos/paraguay/63dbd741d90828.56548444-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/paraguay/63dbd741d90828.56548444-180.jpg",
+    "picture_copyright": "ngdawa",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Multicolor print.\r\nSchool students parade with flags at center.\r\nText value in Spanish and Guarani languages.",
+    "lettering": "REPUBLICA DEL PARAGUAY\r\n2000\r\nDOS MIL GUARANIES\r\nMOKOI SU GUARANI",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Paraguay\r\nTwo Thousands Guaranies",
+    "picture": "https://en.numista.com/catalogue/photos/paraguay/63dbd7456b17c4.60756158-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/paraguay/63dbd7456b17c4.60756158-180.jpg",
+    "picture_copyright": "ngdawa",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p>UV activity:</p><p><a href=\"https://en.numista.com/catalogue/images/6573814ce0e69.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6573814ce0e69.png\"></a></p><p style=\"margin-left:0in;\">© gyoschak</p>",
+  "tags": [
+    "Flag",
+    "Phrygian cap"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "228"
+    },
+    {
+      "catalogue": {
+        "id": 936,
+        "code": "TBB"
+      },
+      "number": "846"
+    },
+    {
+      "catalogue": {
+        "id": 1758,
+        "code": "Pratt"
+      },
+      "number": "MC229"
+    }
+  ],
+  "watermark": {
+    "description": "Electrotype \"BCP\"",
+    "picture": "https://en.numista.com/catalogue/photos/paraguay/68855c647c7560.62292969-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/paraguay/68855c647c7560.62292969-180.jpg",
+    "picture_copyright": "ajbbarbados",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "printers": [
+    {
+      "id": "20",
+      "name": "Canadian Bank Note Company"
+    },
+    {
+      "id": "13",
+      "name": "Giesecke+Devrient"
+    },
+    {
+      "id": "7",
+      "name": "Oberthur Fiduciaire"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

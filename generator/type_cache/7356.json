@@ -1,0 +1,133 @@
+{
+  "id": 7356,
+  "url": "https://en.numista.com/7356",
+  "title": "1 Dollar - Elizabeth II (3rd Portrait - \"Father of Federation\")",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "australie",
+    "name": "Australia"
+  },
+  "min_year": 1996,
+  "max_year": 1996,
+  "ruler": [
+    {
+      "id": 1783,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 825,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Dollar",
+    "numeric_value": 1,
+    "currency": {
+      "id": 243,
+      "name": "Dollar",
+      "full_name": "Dollar (1966-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25,
+  "thickness": 2.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze (92% Copper, 6% Aluminium, 2% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Raphael David Maklouf"
+    ],
+    "description": "3rd portrait of Queen Elizabeth II facing right wearing the King George IV State Diadem",
+    "lettering": "ELIZABETH II  \r\nAUSTRALIA 1996\r\nRDM",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/australie/6652fa9f59ea30.41884902-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/australie/6652fa9f59ea30.41884902-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "Wojciech Pietranik"
+    ],
+    "description": "Image of Sir Henry Parkes, the Father of Federation",
+    "lettering": "SIR HENRY PARKES 1815-1896\r\n\"FATHER\" OF FEDERATION\r\n1 DOLLAR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/australie/6652faa0a47a47.19847144-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/australie/6652faa0a47a47.19847144-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "commemorated_topic": "100th Anniversary of the Death of Sir Henry Parkes",
+  "comments": "<p>In 1996 the RAM released an aluminium bronze dollar coin into circulation that commemorated the 100th anniversary of the death of Sir Henry Parkes. Known as the \"Father of Federation\" he did not support the concept strongly until the last few years of his political life. The general consensus of his support is that it was one of convenience, but despite this he is known for a strong speech at Tenterfield urging Federation of the colonies of Australia. His reasons for doing so were mixed at best, and he is recorded as saying that federation would be a great idea so that trouble makers in Broken Hill would become South Australia's problem and not those of NSW! (Despite Broken Hill actually being just inside NSW!)<br><br>The coin was released in the 1996 standard Proof &amp; Uncirculated Sets without a mintmark.<br>It was released at various Agricultural Shows etc through the year with relevant Mintmarks, (A, B, C, M, S etc). (See Examples)<br>It was also included in the annual Baby UNC &amp; Proof sets without a mintmark.<br>It was also available as a Mint Your Own (MYO) coin at the Public Gallery Press at the RAM with a \"C\" Mintmark.<br>It was also available for general retail sale through coin dealers in a small folded coincard with a \"C\" Mintmark.<br><br>Visitors at mints and coin shows were allowed to strike a coin for a fee<br><br><a href=\"https://en.numista.com/catalogue/images/5d43f8da23b0a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d43f8da23b0a.jpg\" alt=\"\"></a> <a href=\"https://en.numista.com/catalogue/images/5d43f8f0573a5.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d43f8f0573a5.jpg\" alt=\"\"></a><br><br>A .925 Sterling Silver NCLT non-mintmarked version of the coin was also released.</p>",
+  "related_types": [
+    {
+      "id": 161834,
+      "title": "1 Dollar - Elizabeth II (3rd Portrait - Father of Federation - Silver Proof)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 1996,
+      "maxYear": 1996
+    }
+  ],
+  "tags": [
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "310"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "305"
+    }
+  ],
+  "weight": 9,
+  "orientation": "medal",
+  "edge": {
+    "description": "7 shorter smooth segments between 7 reeded segments (11 grooves each)",
+    "picture": "https://en.numista.com/catalogue/photos/australie/6652faa284b763.64286338-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/australie/6652faa284b763.64286338-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 28,
+      "name": "Royal Australian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

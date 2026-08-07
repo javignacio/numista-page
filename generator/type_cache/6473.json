@@ -1,0 +1,111 @@
+{
+  "id": 6473,
+  "url": "https://en.numista.com/6473",
+  "title": "1 Dollar",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "guyana",
+    "name": "Guyana"
+  },
+  "issuing_entity": {
+    "id": 526,
+    "name": "Bank of Guyana",
+    "wikidata_id": "Q1812564"
+  },
+  "min_year": 1996,
+  "max_year": 2015,
+  "ruler": [
+    {
+      "id": 3759,
+      "name": "Republic",
+      "wikidata_id": "Q734"
+    }
+  ],
+  "value": {
+    "text": "1 Dollar",
+    "numeric_value": 1,
+    "currency": {
+      "id": 47,
+      "name": "Dollar",
+      "full_name": "Dollar (decimalized, 1965-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 17,
+  "thickness": 1.65,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Helmeted and supported arms.",
+    "lettering": "GUYANA \r\nONE PEOPLE ONE NATION ONE DESTINY\r\n2002",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/guyana/198-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/guyana/198-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "engravers": [
+      "Sean Thomas"
+    ],
+    "description": "Hand gathering rice.",
+    "lettering": "RICE HARVEST\r\n1 \r\nDOLLAR\r\nBANK OF GUYANA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/guyana/199-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/guyana/199-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "comments": "<p>Rice is a staple food in Guyana. Its cultivation is deeply rooted in the country's culture and history.<br><br>Different fonts are used for different years:<br><a href=\"https://en.numista.com/catalogue/images/5bd5d80c44b2e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5bd5d80c44b2e.jpg\" alt=\"\"></a><br><a href=\"https://en.numista.com/catalogue/images/5bd5d8184e65e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5bd5d8184e65e.jpg\" alt=\"\"></a><br><a href=\"https://en.numista.com/catalogue/images/5bd5d82260cac.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5bd5d82260cac.jpg\" alt=\"\"></a></p><p>&nbsp;</p><p>While still legal tender, this coin is no longer ordered for circulation by the Bank of Guyana.</p>",
+  "tags": [
+    "Agriculture",
+    "Cat or feline",
+    "Hand",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "50"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "50"
+    }
+  ],
+  "weight": 2.4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,113 @@
+{
+  "id": 553,
+  "url": "https://en.numista.com/553",
+  "title": "5 Drachmai (Regime of the Colonels)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "grece",
+    "name": "Greece"
+  },
+  "min_year": 1973,
+  "max_year": 1973,
+  "ruler": [
+    {
+      "id": 1253,
+      "name": "Regime of the Colonels",
+      "wikidata_id": "Q504081"
+    }
+  ],
+  "value": {
+    "text": "5 Drachmai",
+    "numeric_value": 5,
+    "currency": {
+      "id": 62,
+      "name": "Third modern drachma",
+      "full_name": "Third modern drachma (1954-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 25,
+  "thickness": 2.45,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Yannis Stinis"
+    ],
+    "description": "A Phoenix rising from its flames, date below.",
+    "lettering": "ΕΛΛΗΝΙΚΗ ΔΗΜΟΚΡΑΤΙΑ \r\nΙ. ΣΤΙΝ\r\n1973",
+    "lettering_scripts": [
+      {
+        "name": "Greek"
+      }
+    ],
+    "lettering_translation": "HELLENIC REPUBLIC\r\nI. STIN\r\n1973",
+    "picture": "https://en.numista.com/catalogue/photos/grece/63b6f878aa1c86.46479192-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/grece/63b6f878aa1c86.46479192-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "reverse": {
+    "engravers": [
+      "Nikos Perantinos"
+    ],
+    "description": "Pegasus, the mythological winged horse, is accompanied with the face value",
+    "lettering": "5 \r\nΔΡΑΧΜΑΙ\r\nΝ. ΠΕΡΑΝΤΙΝΟΣ",
+    "lettering_scripts": [
+      {
+        "name": "Greek"
+      }
+    ],
+    "lettering_translation": "5 \r\nDRACHMAI\r\nN. PERANTINOS",
+    "picture": "https://en.numista.com/catalogue/photos/grece/63b6f8793e29f4.95180529-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/grece/63b6f8793e29f4.95180529-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "comments": "There are some varieties where the last letters of the word &quot;ΔΡΑΧΜΑΙ&quot; are not well struck.",
+  "tags": [
+    "Bird",
+    "Fantasy animal",
+    "Horse or equine",
+    "Mythology"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "109"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "53"
+    }
+  ],
+  "weight": 9,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 1889,
+      "name": "National Mint of the Bank of Greece"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

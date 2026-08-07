@@ -1,0 +1,119 @@
+{
+  "id": 1222,
+  "url": "https://en.numista.com/1222",
+  "title": "5 Jiao",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "chine",
+    "name": "China, People's Republic of"
+  },
+  "min_year": 2002,
+  "max_year": 2018,
+  "ruler": [
+    {
+      "id": 1436,
+      "name": "People's Republic",
+      "wikidata_id": "Q148"
+    }
+  ],
+  "value": {
+    "text": "5 Jiao",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 198,
+      "name": "Rénmínbì",
+      "full_name": "Rénmínbì (1955-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2002-11-18"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 20.5,
+  "thickness": 1.69,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Chang Huan"
+    ],
+    "description": "Lotus flower, and the issuer name above",
+    "lettering": "ZHONGGUO RENMIN YINHANG",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "People's Bank of China",
+    "picture": "https://en.numista.com/catalogue/photos/chine/16-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chine/16-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Chang Huan"
+    ],
+    "description": "The issuer name at the top around the rim with the denomination in Chinese and Pinyin in the center, and the date below",
+    "lettering": "中国人民银行\r\n5 角\r\nWU JIAO\r\n2004",
+    "lettering_scripts": [
+      {
+        "name": "Chinese (simplified)"
+      }
+    ],
+    "lettering_translation": "People's Bank of China\r\n5 Jiao\r\nFive Jiao",
+    "picture": "https://en.numista.com/catalogue/photos/chine/17-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chine/17-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "tags": [
+    "Flower"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1411"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "1104"
+    },
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "1106"
+    }
+  ],
+  "weight": 3.8,
+  "orientation": "medal",
+  "edge": {
+    "description": "Alternating smooth and reeded (6 set of 8 reeds) segments",
+    "picture": "https://en.numista.com/catalogue/photos/chine/1158-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chine/1158-180.jpg",
+    "picture_copyright": "ZacUK"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

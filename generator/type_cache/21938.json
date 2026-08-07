@@ -1,0 +1,119 @@
+{
+  "id": 21938,
+  "url": "https://en.numista.com/21938",
+  "title": "6 Pence - George V (2nd coinage)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1920,
+  "max_year": 1926,
+  "ruler": [
+    {
+      "id": 272,
+      "name": "George V",
+      "wikidata_id": "Q269412",
+      "group": {
+        "id": 526,
+        "name": "House of Saxe-Coburg and Gotha"
+      }
+    }
+  ],
+  "value": {
+    "text": "6 Pence",
+    "numeric_value": 0.025,
+    "numerator": 1,
+    "denominator": 40,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1971)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1980-06-30"
+  },
+  "size": 19.3,
+  "thickness": 1,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.500)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Edgar Bertram MacKennal"
+    ],
+    "description": "Uncrowned portrait of King George V left, legend around.",
+    "lettering": "GEORGIVS V DEI GRA:BRITT:OMN:REX",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "George the Fifth by the Grace of God King of all the Britains",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/3443-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/3443-180.jpg",
+    "picture_copyright": "Phil59"
+  },
+  "reverse": {
+    "engravers": [
+      "George William de Saulles"
+    ],
+    "description": "Crowned lion passant atop crown dividing date within circle, legend above, denomination below.",
+    "lettering": "FID:DEF:IND:IMP:\r\n19 26\r\nSIXPENCE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Defender of the Faith Emperor of India",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/3444-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/3444-180.jpg",
+    "picture_copyright": "Phil59"
+  },
+  "comments": "The standard weight of these coins was 1/11 troy ounce (43.6 grains).<br /><br />\r\n<span style=\"font-weight:bold;\">KM#815a.1; Sp#4024</span> <span style=\"font-style:italic;\">(1920-25)</span> Narrow rim;<br />\r\n<span style=\"font-weight:bold;\">KM#815a.2; Sp#4025</span> <span style=\"font-style:italic;\">(1925-26)</span> Broader rim;<br /><br />\r\n<span style=\"font-style:italic;\">1925 narrow/broader rim varieties:</span><br />\r\n<a href=\"https://en.numista.com/catalogue/images/6076f7bd413d4.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6076f7bd413d4.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\n<span style=\"font-style:italic;\">1926 obverse die varieties:</span><br />\r\n<a href=\"https://en.numista.com/catalogue/images/6079495c4dd36.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6079495c4dd36.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nImages reproduced with kind permission of Numista member Sjoelund and <a href=\"http://declanmageecoins.co.uk\" rel=\"nofollow\">Declan Magee Coins</a>",
+  "tags": [
+    "Cat or feline",
+    "Crown"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "815a"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "4024-5"
+    }
+  ],
+  "weight": 2.83,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/6145a810b3a409.44471152-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/6145a810b3a409.44471152-180.jpg",
+    "picture_copyright": "Walter_Scott"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

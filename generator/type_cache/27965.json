@@ -1,0 +1,108 @@
+{
+  "id": 27965,
+  "url": "https://en.numista.com/27965",
+  "title": "5 Guineas - George I",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1716,
+  "max_year": 1726,
+  "ruler": [
+    {
+      "id": 265,
+      "name": "George I",
+      "wikidata_id": "Q130805",
+      "group": {
+        "id": 525,
+        "name": "House of Hanover"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Guineas",
+    "numeric_value": 5.25,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1971)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "shape": "Round",
+  "composition": {
+    "text": "Gold (.9167)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Laureate portrait of King George I right, legend around.",
+    "lettering": "GEORGIVS·D:G·M·BR·FR·ET HIB REX F D",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "George by the Grace of God King of Great Britain France and Ireland Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/3305-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/3305-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "description": "Crowned cruciform shields around central Garter star with sceptres bearing national emblems in angles, divided date above, legend around.",
+    "lettering": "BRVN ET·L·DVX S·I·R·A·TH ET·EL\r\n·1716·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Duke of Brunswick and Lueneburg, Arch Treasurer and Prince Elector of the Holy Roman Empire",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/3306-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/3306-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "The five guineas was struck at 8.9 to the pound troy, giving a standard weight of 1 31/89 troy ounce (647.2 grains).",
+  "tags": [
+    "Cat or feline",
+    "Crown",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "547"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "3626"
+    }
+  ],
+  "weight": 41.9,
+  "orientation": "coin",
+  "edge": {
+    "description": "Inscribed with regnal year in words",
+    "lettering": "SECVNDO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ]
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

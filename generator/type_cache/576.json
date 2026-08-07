@@ -1,0 +1,137 @@
+{
+  "id": 576,
+  "url": "https://en.numista.com/576",
+  "title": "6 Pence - Elizabeth II (1st portrait; without 'BRITT:OMN')",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1954,
+  "max_year": 1970,
+  "ruler": [
+    {
+      "id": 275,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 527,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "6 Pence",
+    "numeric_value": 0.025,
+    "numerator": 1,
+    "denominator": 40,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1970)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1980-06-30"
+  },
+  "size": 19.3,
+  "thickness": 1,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Cu, 25% Ni)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Mary Gillick"
+    ],
+    "description": "Young laureate portrait of Queen Elizabeth II right, legend around.\r\n\r\nNote: no 'BRITT:OMN'",
+    "lettering": "ELIZABETH·II·DEI·GRATIA·REGINA +",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Elizabeth II by the Grace of God Queen",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/9472-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/9472-180.jpg",
+    "picture_copyright": "radrick007",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Edgar Fuller",
+      "Cecil Thomas"
+    ],
+    "description": "Tudor rose, shamrock, thistle and leek aligned in a cross, legend above, denomination and date below.",
+    "lettering": "FID· DEF·\r\nE·F C·T\r\nSIX PENCE·1967",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Fidei Defensatrix",
+    "lettering_translation": "Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/9473-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/9473-180.jpg",
+    "picture_copyright": "radrick007",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p>House of Windsor (1917 to date), Elizabeth II (1952-2022), Pre-decimal issues (1953-70).<br><br>The original weight of these coins was 1/11 troy ounce (43.6 grains). Under the Coinage Act of 1946, the composition changed from .500 silver to .750 copper/.250 nickel but the weight remained at 43.6 grains.<br><br><i>1955 reverse die varieties:</i><br><strong>Reverse B</strong> F of FID at a bead, D of FID at a bead, I of FID at a bead, I of SIX between beads;<br><strong>Reverse C</strong> F of FID between beads, D of FID between beads, I of FID between beads, I of SIX to right of bead;<br><a href=\"https://en.numista.com/catalogue/images/5cccc333ccc45.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5cccc333ccc45.jpg\" alt=\"\"></a><br><i>1964 'double-struck' variety:</i><br><a href=\"https://en.numista.com/catalogue/images/59a1285aa3b76.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/59a1285aa3b76.jpg\" alt=\"\"></a><br><i>1964-65 obverse die varieties:</i><br><strong>Obverse 3</strong> 2nd A of GRATIA between beads, I of REGINA between beads, 92 large beads close to rim, no incuse eyebrow line;<br><strong>Obverse 4</strong> 2nd A of GRATIA at a bead, I of REGINA at a bead, 95 small beads further from rim, incuse line for eyebrow;<br><a href=\"https://en.numista.com/catalogue/images/5ef8995c5c73a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5ef8995c5c73a.jpg\" alt=\"\"></a> <a href=\"https://en.numista.com/catalogue/images/5cd958d2c1488.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5cd958d2c1488.jpg\" alt=\"\"></a><br>Images above are reproduced with kind permission of Declan Magee and Numista member Sjoelund.<br><br>The 1970-dated proof strikes were issued as part of the 'Last Sterling' mint set which comprised<br>half crown to halfpenny and were produced over the course of several years:<br>01/04/71-31/03/72 = 69,763<br>01/04/72-31/03/73 = 586,554<br>01/04/73-31/03/74 = 74,293<br>01/04/74-31/03/75 = 19,814</p>",
+  "related_types": [
+    {
+      "id": 6984,
+      "title": "6 Pence - Elizabeth II (1st portrait; with 'BRITT:OMN')",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1953,
+      "maxYear": 1953
+    }
+  ],
+  "tags": [
+    "Flower",
+    "Cross"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "903"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "4149"
+    }
+  ],
+  "weight": 2.83,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/615adf6938ffb5.08808452-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/615adf6938ffb5.08808452-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

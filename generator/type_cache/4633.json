@@ -1,0 +1,135 @@
+{
+  "id": 4633,
+  "url": "https://en.numista.com/4633",
+  "title": "2 Centésimos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "uruguay",
+    "name": "Uruguay"
+  },
+  "issuing_entity": {
+    "id": 29,
+    "name": "Bank of Oriental Republic of Uruguay"
+  },
+  "min_year": 1953,
+  "max_year": 1953,
+  "ruler": [
+    {
+      "id": 3897,
+      "name": "Oriental Republic of Uruguay",
+      "wikidata_id": "Q77"
+    }
+  ],
+  "value": {
+    "text": "2 Centésimos",
+    "numeric_value": 0.02,
+    "currency": {
+      "id": 298,
+      "name": "Peso",
+      "full_name": "Peso (1863-1975)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1975-07-01"
+  },
+  "size": 17,
+  "thickness": 1,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Thomas Humphrey Paget"
+    ],
+    "description": "Portrait of José Artigas to the right, country name around, name below, issuing date on bottom, circle of dots close to edge. Engraver's initials below shoulder.",
+    "lettering": "REPÚBLICA ORIENTAL DEL URUGUAY\r\nHP\r\n• ARTIGAS •\r\n1953",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Oriental Republic of Uruguay\r\nArtigas.",
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/634b4207dab2d7.82479588-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/634b4207dab2d7.82479588-180.jpg",
+    "picture_copyright": "gyoschak",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Thomas Humphrey Paget"
+    ],
+    "description": "Value within Laurel Wreath",
+    "lettering": "2 \r\nCENTÉSIMOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "2 Cents.",
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/634b4208359235.88715663-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/634b4208359235.88715663-180.jpg",
+    "picture_copyright": "gyoschak",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "tags": [
+    "Military leader",
+    "Politician",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "33"
+    },
+    {
+      "catalogue": {
+        "id": 709,
+        "code": "SA"
+      },
+      "number": "73"
+    },
+    {
+      "catalogue": {
+        "id": 2069,
+        "code": "CG"
+      },
+      "number": "73"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "17"
+    }
+  ],
+  "weight": 2.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/6518d28c31aa55.56573461-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/6518d28c31aa55.56573461-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

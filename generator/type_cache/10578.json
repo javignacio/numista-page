@@ -1,0 +1,110 @@
+{
+  "id": 10578,
+  "url": "https://en.numista.com/10578",
+  "title": "3 Pence - Elizabeth II (Thick Flan)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "guernesey",
+    "name": "Guernsey"
+  },
+  "min_year": 1959,
+  "max_year": 1966,
+  "ruler": [
+    {
+      "id": 2969,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 782,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "3 Pence",
+    "numeric_value": 0.0125,
+    "numerator": 1,
+    "denominator": 80,
+    "currency": {
+      "id": 285,
+      "name": "Pound",
+      "full_name": "Pound (1808-1971)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 21,
+  "thickness": 2.5,
+  "shape": "Scalloped (with 12 notches)",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms of Guernsey",
+    "lettering": "S'BALLIVIE INSULE DEGERNEREVE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/guernesey/264-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/guernesey/264-180.jpg",
+    "picture_copyright": "Ma collection de monnaies",
+    "picture_copyright_url": "https://monnaiesetvarietes.numista.com/"
+  },
+  "reverse": {
+    "engravers": [
+      "Paul Vincze"
+    ],
+    "description": "Guernsey cow",
+    "lettering": "GUERNSEY\r\n1959\r\nTHREE PENCE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/guernesey/265-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/guernesey/265-180.jpg",
+    "picture_copyright": "Ma collection de monnaies",
+    "picture_copyright_url": "https://monnaiesetvarietes.numista.com/"
+  },
+  "tags": [
+    "Cow or bovine"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "18"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "19"
+    }
+  ],
+  "weight": 6.72,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

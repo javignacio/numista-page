@@ -1,0 +1,115 @@
+{
+  "id": 1345,
+  "url": "https://en.numista.com/1345",
+  "title": "250 000 Lira",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "turquie",
+    "name": "Turkey"
+  },
+  "min_year": 2002,
+  "max_year": 2004,
+  "ruler": [
+    {
+      "id": 2047,
+      "name": "Republic",
+      "wikidata_id": "Q43"
+    }
+  ],
+  "value": {
+    "text": "250 000 Lira",
+    "numeric_value": 250000,
+    "currency": {
+      "id": 124,
+      "name": "Old lira",
+      "full_name": "Old lira (1923-2005)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 23.5,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass (65% Copper, 18% Nickel, 17% Zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Nesrin Ekşi Schnepf"
+    ],
+    "description": "Portrait of Mustafa Kemal Atatürk",
+    "lettering": "TÜRKİYE CUMHURİYETİ",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Turkey",
+    "picture": "https://en.numista.com/catalogue/photos/turquie/66-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/turquie/66-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Denomination, Crescent moon and star above, date below",
+    "lettering": "250 BİN LİRA 2003",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "250 Thousand Lira",
+    "picture": "https://en.numista.com/catalogue/photos/turquie/69-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/turquie/69-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "tags": [
+    "Military leader",
+    "Politician",
+    "Moon"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1137"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "661"
+    }
+  ],
+  "weight": 6.4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Repeatedly inscripted (6 times each) with milled diamond shape and lettering\r\nNote: variation on text, up or down",
+    "lettering": "T.C.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "TÜRKİYE CUMHURİYETİ",
+    "lettering_translation": "Republic of Turkey",
+    "picture": "https://en.numista.com/catalogue/photos/turquie/553-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/turquie/553-180.jpg",
+    "picture_copyright": "ZacUK"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

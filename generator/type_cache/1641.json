@@ -1,0 +1,102 @@
+{
+  "id": 1641,
+  "url": "https://en.numista.com/1641",
+  "title": "1 Baht - Rama IX",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "thailande",
+    "name": "Thailand"
+  },
+  "min_year": 1974,
+  "max_year": 1974,
+  "ruler": [
+    {
+      "id": 1905,
+      "name": "Bhumibol Adulyadej (Rama IX)",
+      "wikidata_id": "Q855252",
+      "group": {
+        "id": 65,
+        "name": "Chakri dynasty"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Baht",
+    "numeric_value": 1,
+    "currency": {
+      "id": 4,
+      "name": "Baht",
+      "full_name": "Baht (1897-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 25,
+  "thickness": 1.81,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Rama IX head left, text around",
+    "lettering": "ภูมิพลอดุลยเดช รัชกาลที่๙",
+    "lettering_scripts": [
+      {
+        "name": "Thai"
+      }
+    ],
+    "lettering_translation": "Bhumibol Adulyadej Rama IX",
+    "picture": "https://en.numista.com/catalogue/photos/thailande/11-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/thailande/11-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Emblem of Thailand, the Mythical creature \"Garuda\", text around\r\nThe Garuda Emblem started to replace the Royal Coat of Arms of Siam as national emblem in 1893, and completely replaced when the Royal Coat of Arms of Siam was discontinued in 1910",
+    "lettering": "รัฐบาลไทย พ.ศ.๒๕๑๗\r\n๑ บาท",
+    "lettering_scripts": [
+      {
+        "name": "Thai"
+      }
+    ],
+    "unabridged_legend": "รัฐบาลไทย พุทธศักราช ๒๕๑๗",
+    "lettering_translation": "Thailand Buddhist Era 2517\r\n1 Baht",
+    "picture": "https://en.numista.com/catalogue/photos/thailande/12-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/thailande/12-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "MTO Uniface pairs are made for giving to the National Legislative Assembly of Thailand in 2516.<br />\n- Coin struck as uniface of obverse. <a href=\"https://www.pcgs.com/cert/36026874\" rel=\"nofollow\">PCGS #36026874</a>.<br />\n- Coin struck as uniface of reverse. <a href=\"https://www.pcgs.com/cert/36026875\" rel=\"nofollow\">PCGS #36026875</a>.",
+  "tags": [
+    "Fantasy animal",
+    "Monarch"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "100"
+    }
+  ],
+  "weight": 7,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/thailande/2819-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/thailande/2819-180.jpg",
+    "picture_copyright": "Saber82"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

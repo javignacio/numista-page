@@ -1,0 +1,147 @@
+{
+  "id": 8261,
+  "url": "https://en.numista.com/8261",
+  "title": "10 Möngö",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "mongolie",
+    "name": "Mongolia"
+  },
+  "min_year": 1959,
+  "max_year": 1959,
+  "ruler": [
+    {
+      "id": 2041,
+      "name": "People's Republic",
+      "wikidata_id": "Q212056"
+    }
+  ],
+  "value": {
+    "text": "10 Möngö",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 5061,
+      "name": "Tögrög",
+      "full_name": "Tögrög (1925-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 17.5,
+  "thickness": 1.12,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Emblem of the People's Republic of Mongolia (1941-1960).",
+    "lettering": "БҮГД НАЙРАМДАХ МОНГОЛ АРД УЛС\r\n1959",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "The Mongolian People's Republic",
+    "picture": "https://en.numista.com/catalogue/photos/mongolie/5fd524710af788.44821278-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mongolie/5fd524710af788.44821278-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Denomination above wreath.",
+    "lettering": "10\r\nМӨНГӨ",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "10 Möngö",
+    "picture": "https://en.numista.com/catalogue/photos/mongolie/5fd524716b25b2.34849465-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mongolie/5fd524716b25b2.34849465-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p>Minted in the People's Republic of China.</p>",
+  "related_types": [
+    {
+      "id": 9676,
+      "title": "1 Möngö",
+      "category": "coin",
+      "country": {
+        "code": "mongolie",
+        "name": "Mongolia"
+      },
+      "minYear": 1959,
+      "maxYear": 1959
+    },
+    {
+      "id": 12534,
+      "title": "2 Möngö",
+      "category": "coin",
+      "country": {
+        "code": "mongolie",
+        "name": "Mongolia"
+      },
+      "minYear": 1959,
+      "maxYear": 1959
+    },
+    {
+      "id": 12535,
+      "title": "5 Möngö",
+      "category": "coin",
+      "country": {
+        "code": "mongolie",
+        "name": "Mongolia"
+      },
+      "minYear": 1959,
+      "maxYear": 1959
+    },
+    {
+      "id": 9677,
+      "title": "15 Möngö",
+      "category": "coin",
+      "country": {
+        "code": "mongolie",
+        "name": "Mongolia"
+      },
+      "minYear": 1959,
+      "maxYear": 1959
+    },
+    {
+      "id": 9236,
+      "title": "20 Möngö",
+      "category": "coin",
+      "country": {
+        "code": "mongolie",
+        "name": "Mongolia"
+      },
+      "minYear": 1959,
+      "maxYear": 1959
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "24"
+    }
+  ],
+  "weight": 0.65,
+  "orientation": "medal",
+  "edge": {
+    "description": "Milled"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

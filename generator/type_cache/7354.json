@@ -1,0 +1,255 @@
+{
+  "id": 7354,
+  "url": "https://en.numista.com/7354",
+  "title": "1 Dollar - Elizabeth II (4th Portrait - Federation - Australia)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "australie",
+    "name": "Australia"
+  },
+  "min_year": 2001,
+  "max_year": 2001,
+  "ruler": [
+    {
+      "id": 1783,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 825,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Dollar",
+    "numeric_value": 1,
+    "currency": {
+      "id": 243,
+      "name": "Dollar",
+      "full_name": "Dollar (1966-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25,
+  "thickness": 2.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze (92% Copper, 6% Aluminium, 2% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Ian Rank-Broadley"
+    ],
+    "description": "4th portrait of Queen Elizabeth II facing right wearing the Girls of Great Britain and Ireland Tiara",
+    "lettering": "ELIZABETH II \r\nAUSTRALIA 2001\r\nIRB",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/australie/664791eb5a5d94.35470255-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/australie/664791eb5a5d94.35470255-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "Wojciech Pietranik"
+    ],
+    "description": "A line drawn with a resemblance to the outline of the shape of Australia with an 8 pointed star on the right hand end of the line",
+    "lettering": "CENTENARY OF FEDERATION\r\n1901 (p) 2001\r\nONE DOLLAR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/australie/664791ed59ed93.75185388-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/australie/664791ed59ed93.75185388-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "series": "100th Anniversary of Federation",
+  "commemorated_topic": "Centenary of Federation",
+  "comments": "<p>This coin was released by the RAM to Commemorate the Centenary of the Federation of Australia in 1901. Prior to 1901 Australia was just a collection of separate Colonies of the British Crown. This coin was issued into general circulation and included in the annual \"UNC Year Mint Set\" and \"UNC Baby Koala Set\". It was also issued in Nine different \"Three Coin UNC Sets\", (One for each State &amp; Territory of Australia), and a \"Limited Edition 20 coin UNC Folder\".<br><br><a href=\"https://en.numista.com/catalogue/images/5ccff95f62290.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5ccff95f62290.jpg\" alt=\"\"></a> <a href=\"https://en.numista.com/catalogue/images/5ccffb556ecd0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5ccffb556ecd0.jpg\" alt=\"\"></a><br><br>The RAM released many other coins into circulation commemorating the Australian Centenary of Federation. Ten fifty cent coins and nine twenty cent coins (Included in the above sets) as well as this one dollar coin.<br>Variations of this $1 coin exist, obverse engravers initials \"IRB\" joined and \"IRB\" spaced<br><br><i><strong>IRB joined:</strong></i><br><a href=\"https://en.numista.com/catalogue/images/56ff7d072ef6a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/56ff7d072ef6a.jpg\" alt=\"\"></a><br><br><i><strong>IRB spaced:</strong></i><br><a href=\"https://en.numista.com/catalogue/images/56ff7d2358621.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/56ff7d2358621.jpg\" alt=\"\"></a><br><br>A pad printed coloured version of this coin was included in the 2001 \"Proof Year\" and \"Proof Baby Koala Set\". A \"Limited Edition 20 Coin Proof Set\" of all Federation coins was also released as well as nine individual \"Three Coin Proof Sets\" that included the coloured $1. The Proof coin had the map shape of Australia pad printed with the Australia map in Blue and the star Red. See link below.</p>",
+  "related_types": [
+    {
+      "id": 5026,
+      "title": "50 Cents - Elizabeth II (4th Portrait - Federation - Australia COA)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 2001,
+      "maxYear": 2001
+    },
+    {
+      "id": 73367,
+      "title": "50 Cents - Elizabeth II (4th Portrait - Federation - Coloured Proof)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 2001,
+      "maxYear": 2001
+    },
+    {
+      "id": 12594,
+      "title": "50 Cents - Elizabeth II (4th Portrait - Federation - Norfolk Island)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 2001,
+      "maxYear": 2001
+    },
+    {
+      "id": 12595,
+      "title": "50 Cents - Elizabeth II (4th Portrait - Federation - New South Wales)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 2001,
+      "maxYear": 2001
+    },
+    {
+      "id": 12597,
+      "title": "50 Cents - Elizabeth II (4th Portrait - Federation - Australian Capital Territory)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 2001,
+      "maxYear": 2001
+    },
+    {
+      "id": 12598,
+      "title": "50 Cents - Elizabeth II (4th Portrait - Federation - Queensland)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 2001,
+      "maxYear": 2001
+    },
+    {
+      "id": 12599,
+      "title": "50 Cents - Elizabeth II (4th Portrait - Federation - Victoria)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 2001,
+      "maxYear": 2001
+    },
+    {
+      "id": 12600,
+      "title": "50 Cents - Elizabeth II (4th Portrait - Federation - Northern Territory)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 2001,
+      "maxYear": 2001
+    },
+    {
+      "id": 12601,
+      "title": "50 Cents - Elizabeth II (4th Portrait - Federation - South Australia)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 2001,
+      "maxYear": 2001
+    },
+    {
+      "id": 12602,
+      "title": "50 Cents - Elizabeth II (4th Portrait - Federation - Western Australia)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 2001,
+      "maxYear": 2001
+    },
+    {
+      "id": 12603,
+      "title": "50 Cents - Elizabeth II (4th Portrait - Federation - Tasmania)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 2001,
+      "maxYear": 2001
+    },
+    {
+      "id": 73407,
+      "title": "1 Dollar - Elizabeth II (4th Portrait - Federation Coloured Proof)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 2001,
+      "maxYear": 2001
+    }
+  ],
+  "tags": [
+    "Map"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "534"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "610.1"
+    }
+  ],
+  "weight": 9,
+  "orientation": "medal",
+  "edge": {
+    "description": "7 shorter smooth segments between 7 reeded segments (11 grooves each)",
+    "picture": "https://en.numista.com/catalogue/photos/australie/664791eeb4c151.64007242-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/australie/664791eeb4c151.64007242-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 28,
+      "name": "Royal Australian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

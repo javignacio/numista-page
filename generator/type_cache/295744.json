@@ -1,0 +1,57 @@
+{
+  "id": 295744,
+  "url": "https://en.numista.com/295744",
+  "title": "Replica - 1 Yuan (Yuan Shikai \"Fat Man\" Dollar)",
+  "object_type": {
+    "id": 54,
+    "name": "Contemporary counterfeits"
+  },
+  "issuer": {
+    "code": "chine",
+    "name": "China, People's Republic of"
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 38.9,
+  "shape": "Round",
+  "composition": {
+    "text": "Steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Yuan Shih Kai portrait.",
+    "lettering": "中華民國四年",
+    "lettering_scripts": [
+      {
+        "name": "Chinese"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chine/638506f9818616.23257109-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chine/638506f9818616.23257109-180.jpg",
+    "picture_copyright": "Dan Gravenor"
+  },
+  "reverse": {
+    "description": "Denomination within wreath.",
+    "lettering": "壹\r\n圓",
+    "lettering_scripts": [
+      {
+        "name": "Chinese"
+      }
+    ],
+    "lettering_translation": "One Yuan",
+    "picture": "https://en.numista.com/catalogue/photos/chine/638506f9973c11.43510885-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chine/638506f9973c11.43510885-180.jpg",
+    "picture_copyright": "Dan Gravenor"
+  },
+  "comments": "This is imitation #3, Steel and:<br />\r\nDia in mm: 38.90mm<br />\r\nWeight in g: 20.28g<br />\r\nEdge: Poorly Reeded<br />\r\nYear 4 doesn&#039;t exist in real coins.",
+  "weight": 20.28,
+  "orientation": "medal",
+  "edge": {
+    "description": "Poorly Reeded"
+  },
+  "category": "exonumia",
+  "type": "Contemporary counterfeits"
+}

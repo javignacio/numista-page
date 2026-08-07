@@ -1,0 +1,93 @@
+{
+  "id": 14553,
+  "url": "https://en.numista.com/14553",
+  "title": "25 Øre - Christian X",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "danemark",
+    "name": "Denmark"
+  },
+  "min_year": 1920,
+  "max_year": 1922,
+  "ruler": [
+    {
+      "id": 2402,
+      "name": "Christian X",
+      "wikidata_id": "Q156617",
+      "group": {
+        "id": 104,
+        "name": "House of Schleswig-Holstein-Sonderburg-Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "25 Øre",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 13,
+      "name": "Krone",
+      "full_name": "Krone (1873-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2008-09-30"
+  },
+  "size": 17,
+  "thickness": 1.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Crowned CX - monogram of king Christian X",
+    "lettering": "CX\r\nH C N 1920 G J",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/danemark/637aa8141da997.29065874-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/637aa8141da997.29065874-180.jpg",
+    "picture_copyright": "jim275"
+  },
+  "reverse": {
+    "description": "Denomination and value",
+    "lettering": "25\r\nØRE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/danemark/637aa814733dd1.70148131-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/637aa814733dd1.70148131-180.jpg",
+    "picture_copyright": "jim275"
+  },
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "815.2a"
+    }
+  ],
+  "weight": 2.4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/danemark/63610ddea60154.14969818-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/63610ddea60154.14969818-180.jpg",
+    "picture_copyright": "Rhonan",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

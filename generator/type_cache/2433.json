@@ -1,0 +1,125 @@
+{
+  "id": 2433,
+  "url": "https://en.numista.com/2433",
+  "title": "100 Pesos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "colombie",
+    "name": "Colombia"
+  },
+  "min_year": 1992,
+  "max_year": 2012,
+  "ruler": [
+    {
+      "id": 4088,
+      "name": "Republic",
+      "wikidata_id": "Q739"
+    }
+  ],
+  "value": {
+    "text": "100 Pesos",
+    "numeric_value": 100,
+    "currency": {
+      "id": 147,
+      "name": "Peso decimalized",
+      "full_name": "Peso decimalized (1847-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23,
+  "thickness": 1.55,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze (92% Copper, 6% Aluminium, 2% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Colombia coat of arms and the motto \"Liberty and Order\"",
+    "lettering": "REPUBLICA DE COLOMBIA 2008\r\nLIBERTAD Y ORDEN",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Colombia 2008\r\nLiberty and Order",
+    "picture": "https://en.numista.com/catalogue/photos/colombie/1297-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/1297-180.jpg",
+    "picture_copyright": "Ciscoins.net",
+    "picture_copyright_url": "https://web.archive.org/web/20201116183734/http://ciscoins.net/"
+  },
+  "reverse": {
+    "description": "Value within a laurel wreath",
+    "lettering": "100 PESOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/colombie/1298-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/1298-180.jpg",
+    "picture_copyright": "Ciscoins.net",
+    "picture_copyright_url": "https://web.archive.org/web/20201116183734/http://ciscoins.net/"
+  },
+  "comments": "<p style=\"margin-left:0px;\">KM# 285.1 - Value numerals 4.5 mm tall.</p><p style=\"margin-left:0px;\">KM# 285.2 - Value numerals 6.0 mm tall.</p><p style=\"margin-left:0px;\">&nbsp;</p><p>Documentation of numeral sizes in the denomination<br><a href=\"https://en.numista.com/catalogue/images/662f6472cab06.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/662f6472cab06.jpg\"></a><br>Ole<br><br>Design varieties exist:<br><a href=\"https://en.numista.com/catalogue/images/64c997050a65c.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64c997050a65c.png\" alt=\"\"></a></p>",
+  "tags": [
+    "Bird",
+    "Coat of Arms",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "285"
+    },
+    {
+      "catalogue": {
+        "id": 348,
+        "code": "Restrepo"
+      },
+      "number": "445"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "285.1"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "285.2"
+    },
+    {
+      "catalogue": {
+        "id": 347,
+        "code": "Hernández"
+      },
+      "number": "649-650"
+    }
+  ],
+  "weight": 5.31,
+  "orientation": "coin",
+  "edge": {
+    "description": "Two times the value, between two milled sections.\r\nVarieties exist with letters up or down when the obverse faces up.\r\nUntil 1995, three varieties of letter-size exist (small, medium or large letters), while coins after 1995 all have large letters.",
+    "lettering": "CIEN PESOS ||||||||||||||||| CIEN PESOS |||||||||||||||||",
+    "lettering_translation": "100 Pesos 100 Pesos",
+    "picture": "https://en.numista.com/catalogue/photos/colombie/694c18bd4bbd85.76733843-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/694c18bd4bbd85.76733843-180.jpg",
+    "picture_copyright": "ZacUK"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

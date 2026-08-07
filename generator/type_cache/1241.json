@@ -1,0 +1,149 @@
+{
+  "id": 1241,
+  "url": "https://en.numista.com/1241",
+  "title": "1 Escudo",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "portugal",
+    "name": "Portugal"
+  },
+  "min_year": 1986,
+  "max_year": 2001,
+  "ruler": [
+    {
+      "id": 1295,
+      "name": "Third Republic",
+      "wikidata_id": "Q1259200"
+    }
+  ],
+  "value": {
+    "text": "1 Escudo",
+    "numeric_value": 1,
+    "currency": {
+      "id": 65,
+      "name": "Escudo",
+      "full_name": "Escudo (1911-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2002-02-28"
+  },
+  "size": 16,
+  "thickness": 1.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass (Cu790 + Zn200 + Ni10)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Hélder Batista"
+    ],
+    "description": "Coat of arms of Portugal and a knot.\r\nYear of production at the end of the circular legend.",
+    "lettering": "REPUBLICA PORTUGUESA 2000",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "PORTUGUISE REPUBLIC 1994",
+    "picture": "https://en.numista.com/catalogue/photos/portugal/63bac3529846e1.37524183-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/portugal/63bac3529846e1.37524183-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "reverse": {
+    "engravers": [
+      "Hélder Batista"
+    ],
+    "description": "A stained glass window.",
+    "lettering": "1\r\nESCUDO\r\nH.BATISTA INCM",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/portugal/63bac3531aeee1.05973943-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/portugal/63bac3531aeee1.05973943-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "series": "System 1981-2001",
+  "comments": "<p>Different Obverse and Reverse dies are known.<br><br><i>Obverse</i><br>Die <strong>1</strong> - bottom towers in corners lower, decorations in legend outlined.<br>Die <strong>2</strong> - bottom towers in corners higher, decorations in legend without outline.<br><br><i>Reverse</i><br>Die <strong>A</strong> - narrow script, engraver's name small and low.<br>Die <strong>B</strong> - bold script, engraver's name large and high.<br>Picture: © Images courtesy of Alexandr Prokofyev<br><a href=\"https://en.numista.com/catalogue/images/6187bfc57e6fb.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6187bfc57e6fb.jpg\" alt=\"\"></a><br><br><i>Combinations</i><br><strong>1</strong>+<strong>A</strong>: 1986- 1991.<br><strong>2</strong>+<strong>A</strong>: 1992 MS.<br><strong>2</strong>+<strong>B</strong>: 1992-2001.<br><br><i>Abbreviation</i><br>MS - mint set.<br><br><u>1992</u><br><a href=\"https://en.numista.com/catalogue/images/5d9cca24cbb4c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d9cca24cbb4c.jpg\" alt=\"\"></a></p>",
+  "related_types": [
+    {
+      "id": 80518,
+      "title": "1 Escudo (The Last Escudo)",
+      "category": "coin",
+      "country": {
+        "code": "portugal",
+        "name": "Portugal"
+      },
+      "minYear": 2001,
+      "maxYear": 2001
+    },
+    {
+      "id": 773,
+      "title": "5 Escudos",
+      "category": "coin",
+      "country": {
+        "code": "portugal",
+        "name": "Portugal"
+      },
+      "minYear": 1986,
+      "maxYear": 2001
+    },
+    {
+      "id": 771,
+      "title": "10 Escudos",
+      "category": "coin",
+      "country": {
+        "code": "portugal",
+        "name": "Portugal"
+      },
+      "minYear": 1986,
+      "maxYear": 2001
+    }
+  ],
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "631"
+    },
+    {
+      "catalogue": {
+        "id": 108,
+        "code": "Gomes"
+      },
+      "number": "R 29"
+    }
+  ],
+  "weight": 1.69,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/portugal/614c7854220351.57373325-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/portugal/614c7854220351.57373325-180.jpg",
+    "picture_copyright": "Walter_Scott"
+  },
+  "mints": [
+    {
+      "id": 1337,
+      "name": "Imprensa Nacional - Casa da Moeda"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

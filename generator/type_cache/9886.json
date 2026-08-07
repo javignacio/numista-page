@@ -1,0 +1,111 @@
+{
+  "id": 9886,
+  "url": "https://en.numista.com/9886",
+  "title": "2 Lei - Mihai I",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "roumanie",
+    "name": "Romania"
+  },
+  "min_year": 1941,
+  "max_year": 1941,
+  "ruler": [
+    {
+      "id": 1457,
+      "name": "Michael I",
+      "wikidata_id": "Q930013",
+      "group": {
+        "id": 703,
+        "name": "House of Hohenzollern-Sigmaringen"
+      }
+    }
+  ],
+  "value": {
+    "text": "2 Lei",
+    "numeric_value": 2,
+    "currency": {
+      "id": 308,
+      "name": "First leu",
+      "full_name": "First leu (1867-1947)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1947-08-15"
+  },
+  "size": 20,
+  "thickness": 1.55,
+  "shape": "Round",
+  "composition": {
+    "text": "Zinc"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Haralambie Ionescu"
+    ],
+    "description": "Crown above date",
+    "lettering": "REGATUL ROMANIEI\r\n1941\r\nH. IONESCU",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Kingdom of Romania",
+    "picture": "https://en.numista.com/catalogue/photos/roumanie/2083-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/roumanie/2083-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "reverse": {
+    "description": "Value within wreath",
+    "lettering": "2\r\nLEI",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/roumanie/2084-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/roumanie/2084-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "tags": [
+    "Crown",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "58"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "75"
+    }
+  ],
+  "weight": 3.2,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/roumanie/61530bd2d56049.17931582-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/roumanie/61530bd2d56049.17931582-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 4299,
+      "name": "State Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

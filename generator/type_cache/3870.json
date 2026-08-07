@@ -1,0 +1,99 @@
+{
+  "id": 3870,
+  "url": "https://en.numista.com/3870",
+  "title": "100 Rupiah",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "indonesie",
+    "name": "Indonesia (1949-date)"
+  },
+  "min_year": 1973,
+  "max_year": 1973,
+  "ruler": [
+    {
+      "id": 4071,
+      "name": "Republic",
+      "wikidata_id": "Q252"
+    }
+  ],
+  "value": {
+    "text": "100 Rupiah",
+    "numeric_value": 100,
+    "currency": {
+      "id": 172,
+      "name": "Rupiah",
+      "full_name": "Rupiah (1965-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2002-06-26"
+  },
+  "size": 28.5,
+  "thickness": 1.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Denomination",
+    "lettering": "BANK INDONESIA\r\n100\r\nRUPIAH\r\n1973",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/indonesie/366-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/indonesie/366-180.jpg",
+    "picture_copyright": "gef"
+  },
+  "reverse": {
+    "description": "Minangkabau tribal house and the value above with abbreviation \"Rp\" for rupiah.",
+    "lettering": "Rp 100",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/indonesie/365-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/indonesie/365-180.jpg",
+    "picture_copyright": "gef"
+  },
+  "comments": "Of the total mintage, 31,746,000 were minted in 1977.",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "36"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "26"
+    }
+  ],
+  "weight": 9.72,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "lettering": "BANK*INDONESIA*"
+  },
+  "mints": [
+    {
+      "id": 4154,
+      "name": "Perum Peruri"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

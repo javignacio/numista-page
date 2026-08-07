@@ -1,0 +1,98 @@
+{
+  "id": 15945,
+  "url": "https://en.numista.com/15945",
+  "title": "1 Peso",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "chili",
+    "name": "Chile"
+  },
+  "min_year": 1927,
+  "max_year": 1927,
+  "ruler": [
+    {
+      "id": 3299,
+      "name": "Republic",
+      "wikidata_id": "Q298"
+    }
+  ],
+  "value": {
+    "text": "1 Peso",
+    "numeric_value": 1,
+    "currency": {
+      "id": 237,
+      "name": "Peso",
+      "full_name": "Peso (1835-1959)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 29,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.500)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Condor ready to take wing",
+    "lettering": "REPUBLICA DE CHILE\r\n0.5 So",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chili/5f50085b958404.26226496-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/5f50085b958404.26226496-180.jpg",
+    "picture_copyright": "Tenoch Yanes"
+  },
+  "reverse": {
+    "description": "Value within wreath",
+    "lettering": "1\r\nUN\r\nPESO\r\n1927",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chili/5f50085be4ff72.93186909-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/5f50085be4ff72.93186909-180.jpg",
+    "picture_copyright": "Tenoch Yanes"
+  },
+  "comments": "1 Peso 1927<br />\r\nNumber 1 thin and mint thin<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5f5008363ff17.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5f5008363ff17.jpg\" alt=\"\" width=\"200\" height=\"108\" /></a><br /><br />\r\n1 Peso 1927<br />\r\nNumber 1 thick and mint thick<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5f50071ccc320.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5f50071ccc320.jpg\" alt=\"\" width=\"200\" height=\"108\" /></a><br /><br />\r\nvariety with 1 thin, uncommon coin<br />\r\nphotograph by © Infierno<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5a3db098a1ec7.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5a3db098a1ec7.jpg\" alt=\"\" width=\"200\" height=\"195\" /></a>",
+  "tags": [
+    "Bird",
+    "Hammer and sickle"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "171"
+    }
+  ],
+  "weight": 9,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/chili/6626c49469af46.76693172-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/6626c49469af46.76693172-180.jpg",
+    "picture_copyright": "Michass",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

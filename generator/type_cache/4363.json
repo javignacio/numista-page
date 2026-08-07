@@ -1,0 +1,163 @@
+{
+  "id": 4363,
+  "url": "https://en.numista.com/4363",
+  "title": "5 Centésimos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "uruguay",
+    "name": "Uruguay"
+  },
+  "min_year": 1901,
+  "max_year": 1941,
+  "ruler": [
+    {
+      "id": 3897,
+      "name": "Oriental Republic of Uruguay",
+      "wikidata_id": "Q77"
+    }
+  ],
+  "value": {
+    "text": "5 Centésimos",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 298,
+      "name": "Peso",
+      "full_name": "Peso (1863-1975)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1954-00-00"
+  },
+  "size": 23.3,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Radiant sun in center, lettering around edge, date at bottom. Line of pearls close to edge",
+    "lettering": "REPÚBLICA ORIENTAL DEL URUGUAY \r\n*1909*",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Eastern Republic of Uruguay\r\n1909",
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/368-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/368-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "description": "Value within palm wreath. Line of pearls close to edge. The mintmark A (if present) is at the bottom.",
+    "lettering": "5\r\nCENTÉSIMOS\r\nA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "5\r\nCents\r\nA",
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/369-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/369-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "<p>On 1941 dated coins there are two types, the common type and the \"Vitureira\" variant, after the name of the first one who reported it. Vitureira variant coins have bolder letters on obverse. However, the most evident difference is the date, where in addition the top of \"1\" has an angle nearly 90º, while on the common it is about 45º down. There were minted about 2x common coins than Vitureira, but in fact, it is not easy to find Vitureira variant, maybe only 1 out of 10 coins.<br>The mintmark \"A\" is on reverse, below the ribbon of the wreath, except on 1924 issue, minted at Poissy; mint uses a thunderbolt mintmark, placed below value and above ribbon, and on 1941 issue, minted at Santiago de Chile minthouse, mintmark is placed on top, between both points of wreath.<br><br><img src=\"https://en.numista.com/catalogue/images/550cd72051999.jpg\" alt=\"\"> <img src=\"https://en.numista.com/catalogue/images/550cd73400bbe.jpg\" alt=\"\"><br>&nbsp;Common variant &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; © adanieluy &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Vitureira variant</p>",
+  "tags": [
+    "Sun",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "21"
+    },
+    {
+      "catalogue": {
+        "id": 709,
+        "code": "SA"
+      },
+      "number": "35, 38, 45"
+    },
+    {
+      "catalogue": {
+        "id": 709,
+        "code": "SA"
+      },
+      "number": "51, 54.1, 54.2"
+    },
+    {
+      "catalogue": {
+        "id": 2069,
+        "code": "CG"
+      },
+      "number": "35, 38, 45"
+    },
+    {
+      "catalogue": {
+        "id": 2069,
+        "code": "CG"
+      },
+      "number": "51, 54.1, 54.2"
+    },
+    {
+      "catalogue": {
+        "id": 3175,
+        "code": "GL"
+      },
+      "number": "UY35, UY38, UY45"
+    },
+    {
+      "catalogue": {
+        "id": 3175,
+        "code": "GL"
+      },
+      "number": "UY51, UY54.1, UY54.2"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "3"
+    }
+  ],
+  "weight": 5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/6966ed63146316.33678440-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/6966ed63146316.33678440-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 4177,
+      "name": "Société Française de Monnayage"
+    },
+    {
+      "id": 4174,
+      "name": "Aron Hirsch HKM"
+    },
+    {
+      "id": 232,
+      "name": "Austrian Mint"
+    },
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

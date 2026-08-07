@@ -1,0 +1,117 @@
+{
+  "id": 5198,
+  "url": "https://en.numista.com/5198",
+  "title": "10 Colones",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "costa_rica",
+    "name": "Costa Rica"
+  },
+  "issuing_entity": {
+    "id": 907,
+    "name": "Central Bank of Costa Rica",
+    "wikidata_id": "Q4504273"
+  },
+  "min_year": 1997,
+  "max_year": 1999,
+  "ruler": [
+    {
+      "id": 3834,
+      "name": "Second Republic",
+      "wikidata_id": "Q800"
+    }
+  ],
+  "value": {
+    "text": "10 Colones",
+    "numeric_value": 10,
+    "currency": {
+      "id": 10,
+      "name": "Colón",
+      "full_name": "Colón (1896-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false,
+    "demonetization_date": "2026-07-01"
+  },
+  "size": 24,
+  "thickness": 1.75,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-aluminium-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The arms of Costa Rica (seven stars representing the seven provinces, three extinct volcanoes for the three mountain ranges, two ships symbolizing the country's geographical situation between the Atlantic and Pacific ocean and sunrise on the left) along with the country name above and the date below",
+    "lettering": "REPUBLICA DE COSTA RICA\r\nAMERICA CENTRAL\r\nREPUBLICA DE COSTA RICA\r\n1997",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Costa Rica\r\nCentral America\r\nRepublic of Costa Rica",
+    "picture": "https://en.numista.com/catalogue/photos/costa_rica/942-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/costa_rica/942-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "reverse": {
+    "description": "The value above coffee branches and initials of the \"Banco Central de Costa Rica\" and the value in Braille",
+    "lettering": "10\r\nCOLONES\r\n⠁⠚\r\nB.C.C.R.",
+    "lettering_scripts": [
+      {
+        "name": "Braille"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "10\r\nColones\r\n⠁⠚\r\nBanco Central de Costa Rica",
+    "lettering_translation": "10\r\nColones\r\n10\r\nCentral Bank of Costa Rica",
+    "picture": "https://en.numista.com/catalogue/photos/costa_rica/943-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/costa_rica/943-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "comments": "<p>The size and space between letters vary depending on the year along with the outer rim of Coat of Arms slightly different, and finally versions with smoking volcanoes and without smoke on the obverse.</p><p>&nbsp;</p><p>Although these coins have been demonetized, they are still redeemable at the Central Bank of Costa Rica.</p>",
+  "tags": [
+    "Coat of Arms",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "228a"
+    },
+    {
+      "catalogue": {
+        "id": 2898,
+        "code": "Galst/Alfen"
+      },
+      "number": "X.18"
+    }
+  ],
+  "weight": 5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Segmented (4 smooth, 4 milled with 14 reeds)"
+  },
+  "mints": [
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    },
+    {
+      "id": 4172,
+      "name": "Fábrica de Moneda de Ibagué"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

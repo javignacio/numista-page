@@ -1,0 +1,121 @@
+{
+  "id": 1509,
+  "url": "https://en.numista.com/1509",
+  "title": "50 Öre - Gustaf V",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "suede",
+    "name": "Sweden"
+  },
+  "min_year": 1920,
+  "max_year": 1947,
+  "ruler": [
+    {
+      "id": 2364,
+      "name": "Gustaf V",
+      "wikidata_id": "Q52890",
+      "group": {
+        "id": 99,
+        "name": "House of Bernadotte"
+      }
+    }
+  ],
+  "value": {
+    "text": "50 Öre",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 18,
+      "name": "Krona",
+      "full_name": "Krona (1873-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2006-01-01"
+  },
+  "size": 22,
+  "thickness": 1.55,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Crowned King's monogram divides date at sides. Mintmark at lower right.",
+    "lettering": "19 GV 24",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/suede/2038-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suede/2038-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "description": "Large denomination within stylized wheat wreath. Below in wreath knot are the initials of Riksbank Governor.",
+    "lettering": "50\r\nÖRE\r\nW",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/suede/2039-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suede/2039-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/5a01a8c23792f.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5a01a8c23792f.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\n1940G sizes of &quot;G&quot;<br />\r\n<a href=\"https://en.numista.com/catalogue/images/64382587322f0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64382587322f0.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "related_types": [
+    {
+      "id": 4036,
+      "title": "10 Öre - Gustaf V",
+      "category": "coin",
+      "country": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "minYear": 1920,
+      "maxYear": 1947
+    },
+    {
+      "id": 1511,
+      "title": "25 Öre - Gustaf V",
+      "category": "coin",
+      "country": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "minYear": 1921,
+      "maxYear": 1947
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "796"
+    }
+  ],
+  "weight": 4.8,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 5989,
+      "name": "Kungliga Myntet"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

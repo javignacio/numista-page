@@ -1,0 +1,128 @@
+{
+  "id": 2487,
+  "url": "https://en.numista.com/2487",
+  "title": "10 Halierov",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "slovaquie",
+    "name": "Slovakia"
+  },
+  "min_year": 1993,
+  "max_year": 2003,
+  "ruler": [
+    {
+      "id": 3765,
+      "name": "Republic",
+      "wikidata_id": "Q214"
+    }
+  ],
+  "value": {
+    "text": "10 Halierov",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 17,
+      "name": "Koruna",
+      "full_name": "Koruna (1993-2008)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1993-10-29"
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2003-12-31"
+  },
+  "size": 17,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium (Aluminium 98%, Magnesium 2%)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Drahomír Zobek"
+    ],
+    "description": "Slovak shield above the country name, which is above the date",
+    "lettering": "SLOVENSKÁ\r\nREPUBLIKA\r\n2002\r\nZ",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Slovak\r\nRepublic",
+    "picture": "https://en.numista.com/catalogue/photos/slovaquie/495-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/slovaquie/495-180.jpg",
+    "picture_copyright": "HOOK"
+  },
+  "reverse": {
+    "engravers": [
+      "Drahomír Zobek"
+    ],
+    "description": "The octagonal wooden belfry with the shingled roof dating back to the beginning of the 19th century.",
+    "lettering": "10\r\nh\r\nZ",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/slovaquie/496-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/slovaquie/496-180.jpg",
+    "picture_copyright": "HOOK"
+  },
+  "related_types": [
+    {
+      "id": 81282,
+      "title": "10 Halierov",
+      "category": "coin",
+      "country": {
+        "code": "slovaquie",
+        "name": "Slovakia"
+      },
+      "minYear": 1993,
+      "maxYear": 1993
+    }
+  ],
+  "tags": [
+    "Other building",
+    "Coat of Arms",
+    "Cross"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "17"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "11"
+    }
+  ],
+  "weight": 0.72,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/slovaquie/615029835c1b81.43804211-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/slovaquie/615029835c1b81.43804211-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 1262,
+      "name": "Kremnica"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

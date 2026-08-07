@@ -1,0 +1,103 @@
+{
+  "id": 75690,
+  "url": "https://en.numista.com/75690",
+  "title": "1 Nuevo Sol (450 years Casa Nacional de Moneda)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "perou",
+    "name": "Peru"
+  },
+  "min_year": 2015,
+  "max_year": 2015,
+  "ruler": [
+    {
+      "id": 3757,
+      "name": "Republic",
+      "wikidata_id": "Q419"
+    }
+  ],
+  "value": {
+    "text": "1 Sol",
+    "numeric_value": 1,
+    "currency": {
+      "id": 184,
+      "name": "Nuevo sol",
+      "full_name": "Nuevo sol (1991-2015) / Sol (2016-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25.5,
+  "thickness": 1.9,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The arms of Peru above the date",
+    "lettering": "BANCO CENTRAL DE RESERVA DEL PERÚ\r\n2015",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Reserve Bank of Peru\r\n2015",
+    "picture": "https://en.numista.com/catalogue/photos/perou/1765-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/1765-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "engravers": [
+      "Felipe Escalante Chuñocca"
+    ],
+    "description": "Lima Mint building",
+    "lettering": "Casa Nacional de Moneda\r\nLIMA\r\n1565-2015\r\n1 NUEVO SOL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "National Mint\r\nLIMA\r\n1565 2015\r\n1 Nuevo Sol",
+    "picture": "https://en.numista.com/catalogue/photos/perou/1766-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/1766-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "commemorated_topic": "450 Years Casa Nacional de Moneda",
+  "tags": [
+    "Other building",
+    "Coat of Arms",
+    "Cornucopia"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "390"
+    }
+  ],
+  "weight": 7.32,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/perou/64ab5f827b0ab5.70137519-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/64ab5f827b0ab5.70137519-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 297,
+      "name": "Lima"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

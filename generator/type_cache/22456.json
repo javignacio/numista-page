@@ -1,0 +1,103 @@
+{
+  "id": 22456,
+  "url": "https://en.numista.com/22456",
+  "title": "1 Taka",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bangladesh",
+    "name": "Bangladesh"
+  },
+  "min_year": 2010,
+  "max_year": 2014,
+  "ruler": [
+    {
+      "id": 4415,
+      "name": "People's Republic",
+      "wikidata_id": "Q902"
+    }
+  ],
+  "value": {
+    "text": "1 Taka",
+    "numeric_value": 1,
+    "currency": {
+      "id": 189,
+      "name": "Taka",
+      "full_name": "Taka (1972-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21.5,
+  "thickness": 1.35,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Face value with the National Emblem of Bangladesh: a water lily bordered on two sides by rice ears. Above are a three-leaf clover of tea leaves and four stars representing the four principles of the first constitution of Bangladesh in 1972: nationalism, secularism, socialism, and democracy.",
+    "lettering": "ONE TAKA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bangladesh/256-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bangladesh/256-180.jpg",
+    "picture_copyright": "Ponpandi Perumal",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "At the top is the name of the issuing authority in Bengali. In the center is a portrait of the father of the nation Sheikh Mujibur Rahman. On the left the value of the coin is written using the Bengali alphabet and on the right as an Arabic numeral. At the bottom is written the year of issue and the name of the country in Bengali and English.",
+    "lettering": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\r\n১       1\r\nএক টাকা   2010   BANGLADESH",
+    "lettering_scripts": [
+      {
+        "name": "Bengali"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Government of People's Republic of Bangladesh\r\n1      1\r\nOne Taka   2010   BANGLADESH",
+    "picture": "https://en.numista.com/catalogue/photos/bangladesh/257-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bangladesh/257-180.jpg",
+    "picture_copyright": "Ponpandi Perumal",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "tags": [
+    "Politician",
+    "Flower",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "32"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "31"
+    }
+  ],
+  "weight": 3.25,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

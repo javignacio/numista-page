@@ -1,0 +1,124 @@
+{
+  "id": 549,
+  "url": "https://en.numista.com/549",
+  "title": "2 Drachmes (new lettering)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "grece",
+    "name": "Greece"
+  },
+  "min_year": 1982,
+  "max_year": 1986,
+  "ruler": [
+    {
+      "id": 1254,
+      "name": "Third Hellenic Republic",
+      "wikidata_id": "Q17765809"
+    }
+  ],
+  "value": {
+    "text": "2 Drachmai",
+    "numeric_value": 2,
+    "currency": {
+      "id": 62,
+      "name": "Third modern drachma",
+      "full_name": "Third modern drachma (1954-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2002-02-28"
+  },
+  "size": 24,
+  "thickness": 1.77,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass (79% Copper, 20% Zinc, 1% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "N. Perantinos"
+    ],
+    "description": "Two crossed rifles with branch, denomination and date below.",
+    "lettering": "ΕΛΛΗΝΙΚΗ ΔΗΜΟΚΡΑΤΙΑ \r\nΔΡΑΧΜΕΣ\r\n19 2  82",
+    "lettering_scripts": [
+      {
+        "name": "Greek"
+      }
+    ],
+    "lettering_translation": "HELLENIC REPUBLIC\r\n2 DRACHMES\r\n1982",
+    "picture": "https://en.numista.com/catalogue/photos/grece/841-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/grece/841-180.jpg",
+    "picture_copyright": "Ma collection de monnaies",
+    "picture_copyright_url": "https://monnaiesetvarietes.numista.com/"
+  },
+  "reverse": {
+    "description": "The portrait in left profile of Georgios Karaiskakis (1782-1827), a famous Greek klepht, armatolos, military commander, and a hero of the Greek War of Independence.",
+    "lettering": "ΓΕΩΡΓΙΟΣ ΚΑΡΑΙΣΚΑΚΗΣ",
+    "lettering_scripts": [
+      {
+        "name": "Greek"
+      }
+    ],
+    "lettering_translation": "GEORGIOS KARAISKAKIS",
+    "picture": "https://en.numista.com/catalogue/photos/grece/840-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/grece/840-180.jpg",
+    "picture_copyright": "Ma collection de monnaies",
+    "picture_copyright_url": "https://monnaiesetvarietes.numista.com/"
+  },
+  "related_types": [
+    {
+      "id": 548,
+      "title": "2 Drachmai (old lettering)",
+      "category": "coin",
+      "country": {
+        "code": "grece",
+        "name": "Greece"
+      },
+      "minYear": 1976,
+      "maxYear": 1980
+    }
+  ],
+  "tags": [
+    "Military leader",
+    "Mustache/Beard",
+    "Firearms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "130"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "83"
+    }
+  ],
+  "weight": 6,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/grece/614caddb9f8313.72834615-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/grece/614caddb9f8313.72834615-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 1889,
+      "name": "National Mint of the Bank of Greece"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

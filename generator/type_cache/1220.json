@@ -1,0 +1,127 @@
+{
+  "id": 1220,
+  "url": "https://en.numista.com/1220",
+  "title": "1 Kopeck",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "russie",
+    "name": "Russian Federation (1991-date)"
+  },
+  "issuing_entity": {
+    "id": 937,
+    "name": "Central Bank of Russia",
+    "wikidata_id": "Q806651"
+  },
+  "min_year": 1997,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 1573,
+      "name": "Russian Federation",
+      "wikidata_id": "Q159"
+    }
+  ],
+  "value": {
+    "text": "1 Kopeck",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 169,
+      "name": "Rouble",
+      "full_name": "Rouble (1998-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 15.5,
+  "thickness": 1.25,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel clad steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Alexander Vasilyevich Baklanov"
+    ],
+    "designers": [
+      "Alexander Vasilyevich Baklanov"
+    ],
+    "description": "In the centre — the relief image of Saint George the Warrior on horseback killing a serpent with a spear; \r\n to the right below, under the front hoof of the horse — the Cyrillic letters М (Moscow) or С-П (Saint Petersburg), indicating the mint-producer;\r\n above from the left to the right — the inscription along the rim: “БАНК РОССИИ” (BANK OF RUSSIA) divided by the figure of Saint George the Warrior;\r\n below under the image of the serpent — the year of mintage.",
+    "lettering": "БАНК РОССИИ\r\nС-П\r\n2005",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "Bank of Russia\r\nS-P",
+    "picture": "https://en.numista.com/catalogue/photos/russie/5901-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/russie/5901-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "reverse": {
+    "engravers": [
+      "Alexander Vasilyevich Baklanov"
+    ],
+    "designers": [
+      "Alexander Vasilyevich Baklanov"
+    ],
+    "description": "In the centre, a little to the right — the denomination of the coin: the figure 1, under it — the word “КОПЕЙКА” (KOPECK) written horizontal;\r\n at the bottom of the disc — the stylized vegetable ornament in form of two branches.",
+    "lettering": "1 \r\nКОПЕЙКА",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "Kopeck",
+    "picture": "https://en.numista.com/catalogue/photos/russie/5902-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/russie/5902-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "comments": "<p>Design varieties exist. More details available here:<br><a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://vse-monety.ru/katalog-a-stashkina-1-kopejka-1997-2014-gg/\">https://vse-monety.ru/katalog-a-stashkina-1-kopejka-1997-2014-gg/</a></p>",
+  "tags": [
+    "Horse or equine"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "600"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "562"
+    }
+  ],
+  "weight": 1.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/russie/2739-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/russie/2739-180.jpg",
+    "picture_copyright": "Bank of Russia",
+    "picture_copyright_url": "http://www.cbr.ru"
+  },
+  "mints": [
+    {
+      "id": 6,
+      "name": "Moscow Mint"
+    },
+    {
+      "id": 7,
+      "name": "Saint Petersburg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

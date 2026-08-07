@@ -1,0 +1,70 @@
+{
+  "id": 175948,
+  "url": "https://en.numista.com/175948",
+  "title": "Medal - Bondinho",
+  "object_type": {
+    "id": 31,
+    "name": "Souvenir medallions"
+  },
+  "issuer": {
+    "code": "bresil",
+    "name": "Brazil"
+  },
+  "min_year": 2016,
+  "max_year": 2018,
+  "size": 32.5,
+  "thickness": 3,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The famous Bondinho going up to the Sugar Loaf, with the legend in Portuguese \"BONDINHO, MAIS DE 100 ANOS DE AMOR AO RIO\" Presenting the year of issue 2016.",
+    "lettering": "BONDINHO, MAIS DE 100 ANOS DE AMOR AO RIO.\r\n2016",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "BONDINHO, OVER 100 YEARS LOVE THE RIVER.\r\n2016",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/60632ca8e9aa20.93824536-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/60632ca8e9aa20.93824536-180.jpg",
+    "picture_copyright": "purinqui",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "It presents an image of the Sugar Loaf and the Morro da Urca with the cable car, at the top of the token the legend \"RIO DE JANIERO\" and the Bottom \"BRAZIL\".",
+    "lettering": "RIO DE JANEIRO\r\nCaminho Aéreo Páo de Açúcar\r\nBRASIL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "RIO DE JANEIRO\nSugar Loaf Air Way\nBRASIL",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/60632ca97d5ad1.46841239-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/60632ca97d5ad1.46841239-180.jpg",
+    "picture_copyright": "purinqui",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "Very nice numismatic memory that can be purchased (for a price of 5 reais) in one of the vending machines in the Sugar Loaf<br />\n<a href=\"https://en.numista.com/catalogue/images/5d4b272a2bc80.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d4b272a2bc80.jpg\" alt=\"\" width=\"141\" height=\"250\" /></a>",
+  "tags": [
+    "Mountain"
+  ],
+  "weight": 16.11,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/60632caa132cd3.61988940-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/60632caa132cd3.61988940-180.jpg",
+    "picture_copyright": "purinqui",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "category": "exonumia",
+  "type": "Souvenir medallions"
+}

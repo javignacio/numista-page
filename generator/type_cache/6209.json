@@ -1,0 +1,132 @@
+{
+  "id": 6209,
+  "url": "https://en.numista.com/6209",
+  "title": "20 Tenge (non-magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "kazakhstan",
+    "name": "Kazakhstan"
+  },
+  "min_year": 1997,
+  "max_year": 2012,
+  "ruler": [
+    {
+      "id": 1316,
+      "name": "Republic",
+      "wikidata_id": "Q232"
+    }
+  ],
+  "value": {
+    "text": "20 Tenge",
+    "numeric_value": 20,
+    "currency": {
+      "id": 191,
+      "name": "Tenge",
+      "full_name": "Tenge (1993-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 18.35,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "V.Ivzhenko",
+      "F.Zolotukhin",
+      "M.Baitakov"
+    ],
+    "description": "Arms of Kazakhstan, date below",
+    "lettering": "• ҚАЗАҚСТАН РЕСПУБЛИКАСЫ •\r\n2006",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "Republic of Kazakhstan\r\n2006",
+    "picture": "https://en.numista.com/catalogue/photos/kazakhstan/1401-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/kazakhstan/1401-180.jpg",
+    "picture_copyright": "Nestor"
+  },
+  "reverse": {
+    "engravers": [
+      "V.Ivzhenko",
+      "F.Zolotukhin",
+      "M.Baitakov"
+    ],
+    "description": "Value flanked by designs",
+    "lettering": "ҚҰБ\r\n20\r\nТЕҢГЕ",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "NBK\r\n20 Tenge",
+    "picture": "https://en.numista.com/catalogue/photos/kazakhstan/1402-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/kazakhstan/1402-180.jpg",
+    "picture_copyright": "Nestor"
+  },
+  "comments": "This coin was first issued on November 11, 1998.<br /><br />\r\nDesign varieties exist:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/64c3dbf92a1b1.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64c3dbf92a1b1.png\" alt=\"\" width=\"199\" height=\"133\" /></a>",
+  "related_types": [
+    {
+      "id": 49634,
+      "title": "20 Tenge (magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "kazakhstan",
+        "name": "Kazakhstan"
+      },
+      "minYear": 2013,
+      "maxYear": 2018
+    },
+    {
+      "id": 168096,
+      "title": "20 Tenge",
+      "category": "coin",
+      "country": {
+        "code": "kazakhstan",
+        "name": "Kazakhstan"
+      },
+      "minYear": 2019,
+      "maxYear": 2025
+    }
+  ],
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "26"
+    }
+  ],
+  "weight": 2.9,
+  "orientation": "medal",
+  "edge": {
+    "description": "Segmented reeding",
+    "picture": "https://en.numista.com/catalogue/photos/kazakhstan/534-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/kazakhstan/534-180.jpg",
+    "picture_copyright": "ZacUK"
+  },
+  "mints": [
+    {
+      "id": 9,
+      "name": "Kazakhstan Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

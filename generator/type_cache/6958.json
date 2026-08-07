@@ -1,0 +1,111 @@
+{
+  "id": 6958,
+  "url": "https://en.numista.com/6958",
+  "title": "100 Colones",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "costa_rica",
+    "name": "Costa Rica"
+  },
+  "issuing_entity": {
+    "id": 907,
+    "name": "Central Bank of Costa Rica",
+    "wikidata_id": "Q4504273"
+  },
+  "min_year": 2000,
+  "max_year": 2000,
+  "ruler": [
+    {
+      "id": 3834,
+      "name": "Second Republic",
+      "wikidata_id": "Q800"
+    }
+  ],
+  "value": {
+    "text": "100 Colones",
+    "numeric_value": 100,
+    "currency": {
+      "id": 10,
+      "name": "Colón",
+      "full_name": "Colón (1896-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 29.5,
+  "thickness": 1.96,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-aluminium-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Costa Rica coat of arms. Seven stars represent the seven provinces, three smoking volcanoes for the three mountain ranges, two ships symbolizing the country's geographical situation between atlantic and pacific ocean and sunrise on the left\r\nNOTE: ship in the background very small, small letters",
+    "lettering": "REPUBLICA DE COSTA RICA\r\nAMERICA CENTRAL\r\nREPUBLICA DE COSTA RICA\r\n2000",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Costa Rica\r\nCentral America\r\nRepublic of Costa Rica",
+    "picture": "https://en.numista.com/catalogue/photos/costa_rica/6054fff9d5afd0.81160741-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/costa_rica/6054fff9d5afd0.81160741-180.jpg",
+    "picture_copyright": "Makake"
+  },
+  "reverse": {
+    "description": "Value above coffee branches and initials of the \"Banco Central de Costa Rica\"\r\nValue in Braille",
+    "lettering": "100\r\nCOLONES\r\n⠁⠚⠚\r\nB.C.C.R.",
+    "lettering_scripts": [
+      {
+        "name": "Braille"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "100\r\nColones\r\n⠁⠚⠚\r\nBanco Central de Costa Rica",
+    "lettering_translation": "100\r\nColones\r\n100\r\nCentral Bank of Costa Rica",
+    "picture": "https://en.numista.com/catalogue/photos/costa_rica/6054fffa747945.19690630-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/costa_rica/6054fffa747945.19690630-180.jpg",
+    "picture_copyright": "Makake"
+  },
+  "tags": [
+    "Coat of Arms",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "240"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "92a.3"
+    }
+  ],
+  "weight": 9.1,
+  "orientation": "coin",
+  "edge": {
+    "description": "Segmented (4 smooth, 4 milled)"
+  },
+  "mints": [
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

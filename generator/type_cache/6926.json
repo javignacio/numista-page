@@ -1,0 +1,130 @@
+{
+  "id": 6926,
+  "url": "https://en.numista.com/6926",
+  "title": "10 Kronor - Carl XVI Gustaf",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "suede",
+    "name": "Sweden"
+  },
+  "min_year": 2001,
+  "max_year": 2009,
+  "ruler": [
+    {
+      "id": 2366,
+      "name": "Carl XVI Gustaf",
+      "wikidata_id": "Q45068",
+      "group": {
+        "id": 99,
+        "name": "House of Bernadotte"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Kronor",
+    "numeric_value": 10,
+    "currency": {
+      "id": 18,
+      "name": "Krona",
+      "full_name": "Krona (1873-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 20.5,
+  "thickness": 2.87,
+  "shape": "Round",
+  "composition": {
+    "text": "Nordic gold (89% copper, 5% aluminium, 5% zinc, 1% tin)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Ernst Nordin"
+    ],
+    "description": "Head of King Carl XVI Gustaf of Sweden facing left, and the artist's initials below and the date within the legend that surrounds around the rim",
+    "lettering": "CARL XVI GUSTAF ⬩ SVERIGES KONUNG\r\nEN\r\n⬩2005⬩",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Carl XVI Gustaf, King of Sweden.",
+    "picture": "https://en.numista.com/catalogue/photos/suede/2000-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suede/2000-180.jpg"
+  },
+  "reverse": {
+    "engravers": [
+      "Ernst Nordin"
+    ],
+    "description": "Three crowns superimposed by value divides mint official's mark at left and the first letter in the surname of the Governor of the Central bank at right. Above a motto.",
+    "lettering": "FÖR SVERIGE\r\n- I TIDEN\r\nE 10 H\r\nKRONOR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "For Sweden\r\n- With the Times",
+    "picture": "https://en.numista.com/catalogue/photos/suede/2001-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suede/2001-180.jpg"
+  },
+  "comments": "<p style=\"margin-left:0px;\">Minted in Sweden from 2001 to 2007.</p><p style=\"margin-left:0px;\">Minted in Finland in 2008 and 2009.</p><p>&nbsp;</p><p>Varieties exist<br><i>Obverse</i><br>Die<strong> 1</strong> - features smaller: effigy 12.1 mm, outer lettering diameter 16.7 mm, short numerals in date.<br>Die <strong>2</strong> - features larger: effigy 12.7 mm, outer lettering diameter 17.2 mm, short numerals in date.<br>Die <strong>3</strong> - features smaller, bolder and ruder, short numerals in date.<br>Die<strong> 4</strong> - features mixed: effigy 12.7 mm, outer lettering diameter 16.7 mm, short numerals in date.<br>Die<strong> 5</strong> - tall numerals in date, big diamonds.<br>Die <strong>6</strong> - tall numerals in date, small diamonds.<br>On the photo from left to right: die<strong> 2</strong>, die <strong>1</strong>, die <strong>4</strong>.<br><a href=\"https://en.numista.com/catalogue/images/59075e6d91109.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/59075e6d91109.jpg\" alt=\"\"></a><br>die <strong>3</strong><br><a href=\"https://en.numista.com/catalogue/images/5e6ce4e012bc4.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e6ce4e012bc4.jpg\" alt=\"\"></a><br><br><i>Reverse </i>E B<br>Die <strong>A</strong> - superimposition of crowns is lower, the bottom crown superimposed on numeral 1 concavely.<br>Die <strong>B</strong> - the superimposition of crowns is higher, the bottom crown superimposed on numeral 1 convexly. This style was in use until 2009.<br><a href=\"https://en.numista.com/catalogue/images/5ea8af47075a0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5ea8af47075a0.jpg\" alt=\"\"></a><br><br><i>Reverse</i> E SI<br>Die <strong>A</strong> - wide lettering such as D in TIDEN, SI initials, both O in KRONOR slightly rotated counterclockwise.<br><br>Die <strong>B</strong> - narrow lettering such as D in TIDEN, SI initials, both O in KRONOR noticeably rotated counterclockwise.<br><a href=\"https://en.numista.com/catalogue/images/5e34ab12e88ca.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e34ab12e88ca.jpg\" alt=\"\"></a><br><br><i>Combinations</i><br><strong>1</strong>+<strong>A</strong> 2001 E B<br><strong>2</strong>+<strong>B</strong> 2002 E B<br><strong>2</strong> 2003 E H<br><strong>3</strong> 2004 E H<br><strong>1</strong> 2005 E H<br><strong>4</strong> 2005 E H<br><strong>5</strong>+<strong>A</strong> 2006 E SI<br><strong>6</strong>+<strong>B</strong> 2007 E SI<br><strong>5</strong> 2008 S SI<br><strong>5</strong> 2009 S SI</p>",
+  "related_types": [
+    {
+      "id": 2750,
+      "title": "10 Kronor - Carl XVI Gustaf",
+      "category": "coin",
+      "country": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "minYear": 1991,
+      "maxYear": 2000
+    }
+  ],
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "895"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "110"
+    }
+  ],
+  "weight": 6.6,
+  "orientation": "medal",
+  "edge": {
+    "description": "Smooth and reeded alternating: 4 reeded segments with 8 grooves each.",
+    "picture": "https://en.numista.com/catalogue/photos/suede/1885-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suede/1885-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 4665,
+      "name": "Myntverket"
+    },
+    {
+      "id": 1334,
+      "name": "Mint of Finland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

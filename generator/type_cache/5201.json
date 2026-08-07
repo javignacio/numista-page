@@ -1,0 +1,110 @@
+{
+  "id": 5201,
+  "url": "https://en.numista.com/5201",
+  "title": "2 Paisa (FAO)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "pakistan",
+    "name": "Pakistan"
+  },
+  "min_year": 1974,
+  "max_year": 1976,
+  "ruler": [
+    {
+      "id": 5238,
+      "name": "Islamic Republic",
+      "wikidata_id": "Q843"
+    }
+  ],
+  "value": {
+    "text": "2 Paisas",
+    "numeric_value": 0.02,
+    "currency": {
+      "id": 417,
+      "name": "Rupee",
+      "full_name": "Rupee (decimalized, 1961-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2014-09-30"
+  },
+  "size": 19.5,
+  "thickness": 1.45,
+  "shape": "Scalloped (with 8 notches)",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Crescent and Star behind the Minar-e-Pakistan.",
+    "lettering": "حکومت پاکستان\r\n1974",
+    "lettering_scripts": [
+      {
+        "name": "Urdu"
+      }
+    ],
+    "lettering_translation": "Government of Pakistan\r\n1974",
+    "picture": "https://en.numista.com/catalogue/photos/pakistan/509-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pakistan/509-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "reverse": {
+    "description": "Paddy Stalk on either side of Denomination",
+    "lettering": "2\r\nپیسے",
+    "lettering_scripts": [
+      {
+        "name": "Urdu"
+      }
+    ],
+    "lettering_translation": "Produce more food\r\n2\r\nPaisa",
+    "picture": "https://en.numista.com/catalogue/photos/pakistan/510-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pakistan/510-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "commemorated_topic": "FAO",
+  "tags": [
+    "FAO"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "34"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "36"
+    },
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "27"
+    }
+  ],
+  "weight": 1,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 1876,
+      "name": "Lahore"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

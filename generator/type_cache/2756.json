@@ -1,0 +1,130 @@
+{
+  "id": 2756,
+  "url": "https://en.numista.com/2756",
+  "title": "10 Pesos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "chili",
+    "name": "Chile"
+  },
+  "min_year": 1990,
+  "max_year": 2023,
+  "ruler": [
+    {
+      "id": 3299,
+      "name": "Republic",
+      "wikidata_id": "Q298"
+    }
+  ],
+  "value": {
+    "text": "10 Pesos",
+    "numeric_value": 10,
+    "currency": {
+      "id": 146,
+      "name": "Peso",
+      "full_name": "Peso (1975-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21,
+  "thickness": 1.46,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-aluminium-nickel (92% Copper, 6% Aluminium, 2% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Francois Maurice Thénot"
+    ],
+    "description": "Portrait of Bernardo O'Higgins facing right, mintmark to the left.",
+    "lettering": "REPUBLICA DE CHILE\r\nSo\r\nLIBERTADOR\r\nB O'HIGGINS\r\nFR.THENOT",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Chile\r\nSo\r\nLiberator\r\nB O'HIGGINS\r\nFR.THENOT",
+    "picture": "https://en.numista.com/catalogue/photos/chili/1119-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/1119-180.jpg",
+    "picture_copyright": "Quodlibet"
+  },
+  "reverse": {
+    "description": "The value within a laurel wreath, date under.",
+    "lettering": "10\r\nPESOS\r\n1990",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chili/1120-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/1120-180.jpg",
+    "picture_copyright": "Quodlibet"
+  },
+  "comments": "Varieties can be found as illustrated below.<br /><br />\r\n<span style=\"font-style:italic;\">Obverse</span><br />\r\nDie <span style=\"font-weight:bold;\">1</span> - wide epaulette, signature FR. Thenot under the sash of the Legion of Merit of Chile, left medal (for observer to the right) on a ring, wide rim.<br />\r\nDie <span style=\"font-weight:bold;\">2</span> - wide epaulette, signature under the sash, left medal on a ring. <span style=\"font-style:italic;\">Note.</span> Part of mintage was struck with grounded die.<br />\r\nDie <span style=\"font-weight:bold;\">3</span> - wide epaulette, signature under the sash, medals almost incused, left medal with additional ray at bottom.<br />\r\nDie <span style=\"font-weight:bold;\">4</span> - wide epaulette with circle, signature under the sash, left medal on a bow, tall script to LIBERTADOR B.O&#039;HIGGINS.<br />\r\nDie <span style=\"font-weight:bold;\">5</span> - small portrait, narrow epaulette and the sash, medals stylized, no signature under the sash.<br />\r\n<span style=\"font-style:italic;\">Notes</span>. 1. Part of mintage in 2012 was struck with die <span style=\"font-weight:bold;\">5</span> wide rim.<br />\r\n2. Additional features of lettering shown on images. Picture: © Images courtesy of Alexandr Prokofyev.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/619b44cd6410f.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/619b44cd6410f.jpg\" alt=\"\" width=\"200\" height=\"194\" /></a><br /><br />\r\n<span style=\"font-style:italic;\">Reverse</span><br />\r\nDie <span style=\"font-weight:bold;\">A</span> - PE smaller than S to PESOS, fine script, wide rim.<br />\r\nDie <span style=\"font-weight:bold;\">B</span> - PE smaller than S to PESOS, fine script.<br />\r\nDie <span style=\"font-weight:bold;\">C</span> - PE smaller than S to PESOS, bold script.<br />\r\nDie <span style=\"font-weight:bold;\">D</span> - PE same size as S to PESOS, bold script.<br />\r\nDie <span style=\"font-weight:bold;\">E</span> - PE same size as S to PESOS, serifs to PE with right angles.<br />\r\n<span style=\"font-style:italic;\">Notes.</span> 1. Part of mintage was struck with grounded dies.<br />\r\n2. Additional features of lettering shown on images. Picture: © Images courtesy of Alexandr Prokofyev.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/619b45143a4cb.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/619b45143a4cb.jpg\" alt=\"\" width=\"200\" height=\"74\" /></a><br /><br />\r\n<span style=\"font-style:italic;\">Edge</span><br />\r\n<span style=\"font-weight:bold;\">a</span> - 23.5 grooves/cm.<br />\r\n<span style=\"font-weight:bold;\">b</span> - 27 grooves/cm.<br />\r\n<span style=\"font-weight:bold;\">c</span> - 25 grooves/cm.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/59e80bf5b920d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/59e80bf5b920d.jpg\" alt=\"\" width=\"200\" height=\"94\" /></a><br /><br />\r\n<span style=\"font-style:italic;\">Combinations</span><br />\r\n<span style=\"font-weight:bold;\">1</span>+<span style=\"font-weight:bold;\">A</span>+<span style=\"font-weight:bold;\">a</span>: 1990.<br />\r\n<span style=\"font-weight:bold;\">2</span>+<span style=\"font-weight:bold;\">A</span>+<span style=\"font-weight:bold;\">a</span>: 1990.<br />\r\n<span style=\"font-weight:bold;\">2</span>+<span style=\"font-weight:bold;\">B</span>+<span style=\"font-weight:bold;\">a</span>: 1990-2002.<br />\r\n<span style=\"font-weight:bold;\">2</span>+<span style=\"font-weight:bold;\">C</span>+<span style=\"font-weight:bold;\">a</span>: 2002-2006.<br />\r\n<span style=\"font-weight:bold;\">2</span>+<span style=\"font-weight:bold;\">C</span>+<span style=\"font-weight:bold;\">b</span>: 2004-2009.<br />\r\n<span style=\"font-weight:bold;\">3</span>+<span style=\"font-weight:bold;\">B</span>+<span style=\"font-weight:bold;\">c</span>: 2007 Ottawa.<br />\r\n<span style=\"font-weight:bold;\">4</span>+<span style=\"font-weight:bold;\">D</span>+<span style=\"font-weight:bold;\">a</span>: 2010.<br />\r\n<span style=\"font-weight:bold;\">4</span>+<span style=\"font-weight:bold;\">D</span>+<span style=\"font-weight:bold;\">b</span>: 2010.<br />\r\n<span style=\"font-weight:bold;\">5</span>+<span style=\"font-weight:bold;\">C</span>+<span style=\"font-weight:bold;\">b</span>: 2010.<br />\r\n<span style=\"font-weight:bold;\">5</span>+<span style=\"font-weight:bold;\">E</span>+<span style=\"font-weight:bold;\">b</span>: 2011, 2012 (both rims on Obv.), 2013, 2014 So, 2014 Utrect, 2015 So, 2015 Utrect, 2016, 2017.<br />\r\n<span style=\"font-weight:bold;\">5</span>+<span style=\"font-weight:bold;\">E</span>: 2019.<br /><br /><br />\r\n1990:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/59e7fd52f3e3a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/59e7fd52f3e3a.jpg\" alt=\"\" width=\"200\" height=\"158\" /></a><br /><br />\r\n2000:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/59e80140a958d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/59e80140a958d.jpg\" alt=\"\" width=\"200\" height=\"111\" /></a><br /><br />\r\n2002:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/59e807e230432.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/59e807e230432.jpg\" alt=\"\" width=\"200\" height=\"123\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/59e80aa1e0a3b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/59e80aa1e0a3b.jpg\" alt=\"\" width=\"200\" height=\"99\" /></a><br /><br />\r\n2010:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/59e8146eb8b2b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/59e8146eb8b2b.jpg\" alt=\"\" width=\"199\" height=\"111\" /></a><br /><br />\r\n2011:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/59e8147cd8cb5.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/59e8147cd8cb5.jpg\" alt=\"\" width=\"200\" height=\"103\" /></a><br /><br />\r\n2012:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/59e8107b55ac7.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/59e8107b55ac7.jpg\" alt=\"\" width=\"200\" height=\"110\" /></a><br /><br />\r\n2014-2015:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/59e811774a05a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/59e811774a05a.jpg\" alt=\"\" width=\"200\" height=\"109\" /></a><br /><br />\r\n2015:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5c101d5945fb6.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5c101d5945fb6.jpg\" alt=\"\" width=\"199\" height=\"104\" /></a>",
+  "tags": [
+    "Politician",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "228"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "82"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "228.1"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "228.2"
+    }
+  ],
+  "weight": 3.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded. 1990-2006 coins have 23.5 grooves/cm reeding edge. From 2004-2017 the coins have 27 grooves/cm reeding edge. There is an exception in a variety of 2010 that has 23.5 grooves/cm. 2007 coins (minted in Canada) have other patterns (25 grooves/cm).",
+    "picture": "https://en.numista.com/catalogue/photos/chili/694ad5a217f3f9.80473340-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/694ad5a217f3f9.80473340-180.jpg",
+    "picture_copyright": "Italiancoincollector"
+  },
+  "mints": [
+    {
+      "id": 23,
+      "name": "Royal Dutch Mint"
+    },
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    },
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

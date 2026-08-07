@@ -1,0 +1,132 @@
+{
+  "id": 6979,
+  "url": "https://en.numista.com/6979",
+  "title": "3 Pence - George VI (without 'IND:IMP')",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1949,
+  "max_year": 1952,
+  "ruler": [
+    {
+      "id": 274,
+      "name": "George VI",
+      "wikidata_id": "Q280856",
+      "group": {
+        "id": 527,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "3 Pence",
+    "numeric_value": 0.0125,
+    "numerator": 1,
+    "denominator": 80,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1970)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1971-08-31"
+  },
+  "size": 21.8,
+  "thickness": 2.6,
+  "shape": "Dodecagonal (12-sided)",
+  "composition": {
+    "text": "Nickel brass (79% Cu, 20% Zn, 1% Ni)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Thomas Humphrey Paget"
+    ],
+    "description": "Uncrowned portrait of King George VI left, legend around, designer's initials below truncation.\r\n\r\nNote: without 'IND:IMP'",
+    "lettering": "GEORGIVS VI D:G:BR:OMN:REX FIDEI DEF.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Georgius VI Dei Gratia Britanniarum Omnium Rex Fidei Defensor",
+    "lettering_translation": "George the Sixth by the Grace of God King of all the Britains Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/1536-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/1536-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Frances Madge Kitchener"
+    ],
+    "description": "Three-headed thrift plant (Armeria maritima), denomination above, date below.",
+    "lettering": "THREE PENCE\r\n1952",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/1537-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/1537-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "The standard weight of these coins was 105 grains.<br /><br />\r\n<span style=\"font-style:italic;\">Varieties of George VI threepence exist with either sharp or rounded corners:</span><br />\r\n1949 - sharp or rounded<br />\r\n1950-52 - all sharp",
+  "related_types": [
+    {
+      "id": 1020,
+      "title": "3 Pence - George VI (with 'IND:IMP')",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1937,
+      "maxYear": 1948
+    }
+  ],
+  "tags": [
+    "Flower"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "873"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "4113"
+    }
+  ],
+  "weight": 6.8,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

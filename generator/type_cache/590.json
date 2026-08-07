@@ -1,0 +1,119 @@
+{
+  "id": 590,
+  "url": "https://en.numista.com/590",
+  "title": "10 Nuevos Pesos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "mexique",
+    "name": "Mexico"
+  },
+  "min_year": 1992,
+  "max_year": 1995,
+  "ruler": [
+    {
+      "id": 4029,
+      "name": "United Mexican States/Mexican Republic",
+      "wikidata_id": "Q96"
+    }
+  ],
+  "value": {
+    "text": "10 New Pesos",
+    "numeric_value": 10,
+    "currency": {
+      "id": 271,
+      "name": "New Peso",
+      "full_name": "New Peso (1992-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 27.71,
+  "thickness": 2.36,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: silver (.925) centre in aluminium bronze ring (Silver content: 1/6 troy oz (5.184g))"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "National Arms (Eagle on cactus facing left with a snake in beak above wreath), with the inscription forming a semicircle above it",
+    "lettering": "ESTADOS UNIDOS MEXICANOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "United Mexican States",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/2843-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/2843-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "reverse": {
+    "description": "In the center, the circle of the Sun Stone representing Tonatiuh with the fire mask. In the peripheral ring, the top center the value; to the left the mint year, and to the right the symbol of the Mint of Mexico \"M\"; at the bottom, the inscription. The frame is smooth with an uneven edge.",
+    "lettering": "N$10\r\n1993 Mo\r\nDIEZ NUEVOS PESOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "N$10\r\n1993 Mo\r\nTen New Pesos",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/2844-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/2844-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "comments": "The inner part consists of 5.604 g of .925 silver.",
+  "related_types": [
+    {
+      "id": 591,
+      "title": "10 Pesos",
+      "category": "coin",
+      "country": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "minYear": 1997,
+      "maxYear": 2025
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "553"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "149"
+    }
+  ],
+  "weight": 11.18,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/6989402f6484c5.64010732-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/6989402f6484c5.64010732-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 29,
+      "name": "Mexican Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

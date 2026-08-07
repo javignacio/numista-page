@@ -1,0 +1,145 @@
+{
+  "id": 1729,
+  "url": "https://en.numista.com/1729",
+  "title": "50 Kopecks (non-magnetic; reeded edge)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "russie",
+    "name": "Russian Federation (1991-date)"
+  },
+  "issuing_entity": {
+    "id": 937,
+    "name": "Central Bank of Russia",
+    "wikidata_id": "Q806651"
+  },
+  "min_year": 1997,
+  "max_year": 2006,
+  "ruler": [
+    {
+      "id": 1573,
+      "name": "Russian Federation",
+      "wikidata_id": "Q159"
+    }
+  ],
+  "value": {
+    "text": "50 Kopecks",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 169,
+      "name": "Rouble",
+      "full_name": "Rouble (1998-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 19.5,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Alexander Vasilyevich Baklanov"
+    ],
+    "designers": [
+      "Alexander Vasilyevich Baklanov"
+    ],
+    "description": "In the centre — the relief image of Saint George the Warrior on horseback killing a serpent with a spear;\r\n•\tto the right below, under the front hoof of the horse — the Cyrillic letters М (Moscow) or С-П (Saint Petersburg), indicating the mint-producer;\r\n•\tabove from the left to the right — the inscription along the rim: “БАНК РОССИИ” (BANK OF RUSSIA) divided by the figure of Saint George the Warrior;\r\n•\tbelow under the image of the serpent — the year of mintage.",
+    "lettering": "БАНК РОССИИ\r\nС-П\r\n1997",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "Bank of Russia\r\nS-P",
+    "picture": "https://en.numista.com/catalogue/photos/russie/21-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/russie/21-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Alexander Vasilyevich Baklanov"
+    ],
+    "designers": [
+      "Alexander Vasilyevich Baklanov"
+    ],
+    "description": "In the centre, a little to the right — the denomination of the coin: the figure 50, under it — the word “КОПЕЕК” (KOPECKS) written horizontal;\r\n at the bottom of the disc — the stylized vegetable ornament in form of two branches.",
+    "lettering": "50\r\nКОПЕЕК",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "Kopecks",
+    "picture": "https://en.numista.com/catalogue/photos/russie/22-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/russie/22-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "Design varieties exist. More details available here:<br />\r\n<a href=\"https://vse-monety.ru/katalog-a-stashkina-50-kopeek-1997-2015-gg/\" rel=\"nofollow\">https://vse-monety.ru/katalog-a-stashkina-50-kopeek-1997-2015-gg/</a>",
+  "related_types": [
+    {
+      "id": 4580,
+      "title": "50 Kopecks (magnetic; smooth edge)",
+      "category": "coin",
+      "country": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "minYear": 2006,
+      "maxYear": 2026
+    }
+  ],
+  "tags": [
+    "Fantasy animal",
+    "Horse or equine"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "603"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "565"
+    }
+  ],
+  "weight": 2.9,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/russie/6a2958083a4e56.10777659-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/russie/6a2958083a4e56.10777659-180.jpg",
+    "picture_copyright": "Bank of Russia",
+    "picture_copyright_url": "http://www.cbr.ru"
+  },
+  "mints": [
+    {
+      "id": 6,
+      "name": "Moscow Mint"
+    },
+    {
+      "id": 7,
+      "name": "Saint Petersburg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

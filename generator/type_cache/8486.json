@@ -1,0 +1,133 @@
+{
+  "id": 8486,
+  "url": "https://en.numista.com/8486",
+  "title": "50 Colones",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "costa_rica",
+    "name": "Costa Rica"
+  },
+  "issuing_entity": {
+    "id": 907,
+    "name": "Central Bank of Costa Rica",
+    "wikidata_id": "Q4504273"
+  },
+  "min_year": 2006,
+  "max_year": 2017,
+  "ruler": [
+    {
+      "id": 3834,
+      "name": "Second Republic",
+      "wikidata_id": "Q800"
+    }
+  ],
+  "value": {
+    "text": "50 Colones",
+    "numeric_value": 50,
+    "currency": {
+      "id": 10,
+      "name": "Colón",
+      "full_name": "Colón (1896-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2025-07-01"
+  },
+  "size": 27.5,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Costa Rica coat of arms. Seven stars represent the seven provinces, three smoking volcanoes for the three mountain ranges, two ships symbolizing the country's geographical situation between atlantic and pacific ocean and sunrise on the left",
+    "lettering": "REPUBLICA DE COSTA RICA\r\nAMERICA CENTRAL\r\nREPUBLICA DE COSTA RICA\r\n· 2012 ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Costa Rica\r\nCentral America\r\nRepublic of Costa Rica",
+    "picture": "https://en.numista.com/catalogue/photos/costa_rica/809-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/costa_rica/809-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "reverse": {
+    "description": "Value above coffee branches and initials below\r\nValue in Braille",
+    "lettering": "50\r\nCOLONES\r\n⠑⠚\r\nB.C.C.R.",
+    "lettering_scripts": [
+      {
+        "name": "Braille"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "50\r\nColones\r\n⠑⠚\r\nBanco Central de Costa Rica",
+    "lettering_translation": "50\r\nColones\r\n50\r\nCentral Bank of Costa Rica",
+    "picture": "https://en.numista.com/catalogue/photos/costa_rica/810-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/costa_rica/810-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "comments": "<p><a href=\"https://en.numista.com/catalogue/images/673dd78f86808.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/673dd78f86808.jpg\"></a></p>",
+  "tags": [
+    "Coat of Arms",
+    "Mountain",
+    "Wreath",
+    "Boat or watercraft"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "231.1b"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "91a"
+    },
+    {
+      "catalogue": {
+        "id": 2898,
+        "code": "Galst/Alfen"
+      },
+      "number": "X.13"
+    }
+  ],
+  "weight": 8,
+  "orientation": "coin",
+  "edge": {
+    "description": "Alternating segments of 4 smooth and 4 reeded parts (segmented)",
+    "picture": "https://en.numista.com/catalogue/photos/costa_rica/811-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/costa_rica/811-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    },
+    {
+      "id": 4816,
+      "name": "Mint of Costa Rica"
+    },
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

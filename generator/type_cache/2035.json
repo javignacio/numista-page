@@ -1,0 +1,111 @@
+{
+  "id": 2035,
+  "url": "https://en.numista.com/2035",
+  "title": "50 Francs",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "djibouti_period",
+    "name": "Djibouti (1977-date)"
+  },
+  "min_year": 1977,
+  "max_year": 2017,
+  "ruler": [
+    {
+      "id": 828,
+      "name": "Republic",
+      "wikidata_id": "Q977"
+    }
+  ],
+  "value": {
+    "text": "50 Francs",
+    "numeric_value": 50,
+    "currency": {
+      "id": 76,
+      "name": "Djibouti Franc",
+      "full_name": "Djibouti Franc (1977-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25.5,
+  "thickness": 2.1,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "A laurel wreath around Djibouti coat of arms: Two fists holding a knife, a round shield over a spear and a star on the top",
+    "lettering": "REPUBLIQUE DE DJIBOUTI\r\n1999",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Djibouti",
+    "picture": "https://en.numista.com/catalogue/photos/djibouti_period/698e16063d1976.58767535-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/djibouti_period/698e16063d1976.58767535-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "reverse": {
+    "engravers": [
+      "Raymond Joly"
+    ],
+    "description": "Two dromedaries facing right (one standing, one on ground). Value above, lettering around outside",
+    "lettering": "· UNITE · · · EGALITE · · · PAIX ·\r\n50 F",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Unity ··· Equality ··· Peace\r\n50 Francs",
+    "picture": "https://en.numista.com/catalogue/photos/djibouti_period/698e16078f6220.52003353-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/djibouti_period/698e16078f6220.52003353-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "comments": "Dromedary or Arabian camel<br />\r\nBinomial Name: Camelus dromedarius",
+  "tags": [
+    "Camel or camelid",
+    "Coat of Arms",
+    "Wreath",
+    "Cold weapons"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "25"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "22"
+    }
+  ],
+  "weight": 7,
+  "orientation": "coin",
+  "edge": {
+    "description": "Milled",
+    "picture": "https://en.numista.com/catalogue/photos/djibouti_period/694d9764d8cd20.01544092-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/djibouti_period/694d9764d8cd20.01544092-180.jpg",
+    "picture_copyright": "Dieter83"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

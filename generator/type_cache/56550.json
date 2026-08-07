@@ -1,0 +1,148 @@
+{
+  "id": 56550,
+  "url": "https://en.numista.com/56550",
+  "title": "25 Cents",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bahamas",
+    "name": "Bahamas, The"
+  },
+  "min_year": 2007,
+  "max_year": 2015,
+  "ruler": [
+    {
+      "id": 952,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 797,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "25 Cents",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 39,
+      "name": "Dollar",
+      "full_name": "Dollar (1966-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24.3,
+  "thickness": 1.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The arms of the Bahamas with the country name above around the rim and the date below.",
+    "lettering": "COMMONWEALTH OF THE BAHAMAS \r\nFORWARD, UPWARD , ONWARD TOGETHER\r\n2007",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bahamas/269-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bahamas/269-180.jpg",
+    "picture_copyright": "Radagast"
+  },
+  "reverse": {
+    "description": "A Bahamian Sloop, and the value above.",
+    "lettering": "25 CENTS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bahamas/270-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bahamas/270-180.jpg",
+    "picture_copyright": "Radagast"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/5e481354ac7ca.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e481354ac7ca.jpg\" alt=\"\" width=\"200\" height=\"112\" /></a><br /><br />\nThe date on the coin is different for different mints - (c) Royal Canadian mint 2007 year is visually seriously wider than the 2015 year.",
+  "related_types": [
+    {
+      "id": 3161,
+      "title": "25 Cents - Elizabeth II",
+      "category": "coin",
+      "country": {
+        "code": "bahamas",
+        "name": "Bahamas, The"
+      },
+      "minYear": 1966,
+      "maxYear": 1970
+    },
+    {
+      "id": 16449,
+      "title": "25 Cents - Elizabeth II",
+      "category": "coin",
+      "country": {
+        "code": "bahamas",
+        "name": "Bahamas, The"
+      },
+      "minYear": 1971,
+      "maxYear": 1973
+    },
+    {
+      "id": 9352,
+      "title": "25 Cents (magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "bahamas",
+        "name": "Bahamas, The"
+      },
+      "minYear": 1974,
+      "maxYear": 1992
+    },
+    {
+      "id": 15296,
+      "title": "25 Cents (non-magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "bahamas",
+        "name": "Bahamas, The"
+      },
+      "minYear": 1991,
+      "maxYear": 2005
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Fish",
+    "Shell",
+    "Boat or watercraft",
+    "Tree",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "220"
+    }
+  ],
+  "weight": 5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,130 @@
+{
+  "id": 7518,
+  "url": "https://en.numista.com/7518",
+  "title": "10 Cents - Elizabeth II (2nd portrait, Modified reverse)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "canada",
+    "name": "Canada"
+  },
+  "min_year": 1969,
+  "max_year": 1978,
+  "ruler": [
+    {
+      "id": 2095,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 827,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Cents",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 44,
+      "name": "Dollar",
+      "full_name": "Dollar (1858-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 18.03,
+  "thickness": 1.16,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel (99.9% nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Arnold Machin"
+    ],
+    "description": "Bust of Queen Elizabeth II, as at 37 years of age, wearing tiara, facing right.",
+    "lettering": "ELIZABETH II D·G·REGINA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "ELIZABETH II DEI GRATIA REGINA",
+    "lettering_translation": "Elizabeth II Queen by the grace of God",
+    "picture": "https://en.numista.com/catalogue/photos/canada/67532a1d637c14.93926302-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/67532a1d637c14.93926302-180.jpg"
+  },
+  "reverse": {
+    "designers": [
+      "Emanuel Otto Hahn"
+    ],
+    "description": "The Bluenose under sail, a Canadian schooner from Nova Scotia, a celebrated racing ship and a symbol of the province, surrounded with the face value and the inscription \"CANADA\".",
+    "lettering": "CANADA\r\n1970\r\n10 CENTS\r\nH",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/canada/67532a1dc9c8a1.59749717-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/67532a1dc9c8a1.59749717-180.jpg"
+  },
+  "comments": "<p>“The 1969 Grand Voilier - Grande Date model is a rare variety. A small quantity was struck early in the year before it was discovered that the original design had deteriorated to the point of being unsuitable for further use. A completely new design with a much smaller schooner and date replaced the original die in early 1969. The obverse is like the 1965-1968 issues. As of April 2010, only sixteen examples of the large-date variety have been certified.” - Standard Charlton catalog Volume I</p><p><a href=\"https://en.numista.com/catalogue/images/6745f46c49422.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6745f46c49422.jpg\"></a></p><p><strong>Thickness 1978:</strong> 1.19 mm</p>",
+  "tags": [
+    "Boat or watercraft"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "77.1"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "73"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "61b.2"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "61b.1"
+    }
+  ],
+  "weight": 2.07,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/canada/69a473e26c44c0.88774185-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/69a473e26c44c0.88774185-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 19,
+      "name": "Royal Canadian Mint of Ottawa"
+    },
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

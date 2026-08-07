@@ -1,0 +1,226 @@
+{
+  "id": 2417,
+  "url": "https://en.numista.com/2417",
+  "title": "1 Dinar",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "yougoslavie",
+    "name": "Yugoslavia"
+  },
+  "issuing_entity": {
+    "id": 690,
+    "name": "National Bank of Yugoslavia",
+    "wikidata_id": "Q1194664"
+  },
+  "min_year": 1982,
+  "max_year": 1986,
+  "ruler": [
+    {
+      "id": 2378,
+      "name": "Socialist Federal Republic",
+      "wikidata_id": "Q83286"
+    }
+  ],
+  "value": {
+    "text": "1 Dinar",
+    "numeric_value": 1,
+    "currency": {
+      "id": 33,
+      "name": "Hard dinar",
+      "full_name": "Hard dinar (1966-1989)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1982-05-20"
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1988-09-30"
+  },
+  "size": 20,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass (75 % Cu, 21 % Zn, 4% Ni)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Dragomir Mileusnić"
+    ],
+    "description": "State emblem of Yugoslavia",
+    "lettering": "СФР JУГОСЛАВИJА\r\n29·XI·1943\r\nSFR JUGOSLAVIJA",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Социјалистичка Федеративна Република Југославија\r\nSocijalistička Federativna Republika Jugoslavija",
+    "lettering_translation": "Socialist Federal Republic of Yugoslavia",
+    "picture": "https://en.numista.com/catalogue/photos/yougoslavie/63b03d2b7e6437.67524295-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/yougoslavie/63b03d2b7e6437.67524295-180.jpg",
+    "picture_copyright": "mikimaus",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "Dragomir Mileusnić"
+    ],
+    "description": "The denomination with the date above",
+    "lettering": "·ДИНАР·DINAR·ДИНАР·DINAR·\r\n1\r\n1985",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Dinar",
+    "picture": "https://en.numista.com/catalogue/photos/yougoslavie/63b03d2bc394b9.61941735-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/yougoslavie/63b03d2bc394b9.61941735-180.jpg",
+    "picture_copyright": "mikimaus",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "related_types": [
+    {
+      "id": 2003,
+      "title": "1 Dinar (FNR legend)",
+      "category": "coin",
+      "country": {
+        "code": "yougoslavie",
+        "name": "Yugoslavia"
+      },
+      "minYear": 1953,
+      "maxYear": 1953
+    },
+    {
+      "id": 1097,
+      "title": "1 Dinar (SFR legend)",
+      "category": "coin",
+      "country": {
+        "code": "yougoslavie",
+        "name": "Yugoslavia"
+      },
+      "minYear": 1963,
+      "maxYear": 1963
+    },
+    {
+      "id": 2004,
+      "title": "1 Dinar",
+      "category": "coin",
+      "country": {
+        "code": "yougoslavie",
+        "name": "Yugoslavia"
+      },
+      "minYear": 1965,
+      "maxYear": 1965
+    },
+    {
+      "id": 2005,
+      "title": "1 Dinar",
+      "category": "coin",
+      "country": {
+        "code": "yougoslavie",
+        "name": "Yugoslavia"
+      },
+      "minYear": 1968,
+      "maxYear": 1968
+    },
+    {
+      "id": 2000,
+      "title": "1 Dinar",
+      "category": "coin",
+      "country": {
+        "code": "yougoslavie",
+        "name": "Yugoslavia"
+      },
+      "minYear": 1973,
+      "maxYear": 1981
+    },
+    {
+      "id": 4873,
+      "title": "1 Dinar (FAO)",
+      "category": "coin",
+      "country": {
+        "code": "yougoslavie",
+        "name": "Yugoslavia"
+      },
+      "minYear": 1976,
+      "maxYear": 1976
+    },
+    {
+      "id": 3290,
+      "title": "1 Dinar",
+      "category": "coin",
+      "country": {
+        "code": "yougoslavie",
+        "name": "Yugoslavia"
+      },
+      "minYear": 1990,
+      "maxYear": 1991
+    }
+  ],
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "86"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "83"
+    },
+    {
+      "catalogue": {
+        "id": 355,
+        "code": "Viscevic"
+      },
+      "number": "49"
+    },
+    {
+      "catalogue": {
+        "id": 3099,
+        "code": "Mandic"
+      },
+      "number": "55"
+    }
+  ],
+  "weight": 3.6,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/yougoslavie/60d89d7d392c88.76935147-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/yougoslavie/60d89d7d392c88.76935147-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 1365,
+      "name": "Belgrade"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

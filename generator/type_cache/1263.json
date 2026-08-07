@@ -1,0 +1,187 @@
+{
+  "id": 1263,
+  "url": "https://en.numista.com/1263",
+  "title": "5 Pesetas (Jacobeo '93)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "espagne",
+    "name": "Spain"
+  },
+  "min_year": 1993,
+  "max_year": 1993,
+  "ruler": [
+    {
+      "id": 151,
+      "name": "Juan Carlos I",
+      "wikidata_id": "Q19943",
+      "group": {
+        "id": 44,
+        "name": "House of Bourbon"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Pesetas",
+    "numeric_value": 5,
+    "currency": {
+      "id": 142,
+      "name": "Peseta",
+      "full_name": "Peseta (1868-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2002-02-28"
+  },
+  "size": 17.5,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze (88.4% copper, 5% nickel, 5% aluminium, 1% iron, 0.6% manganese)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Rafael Vallejo García"
+    ],
+    "description": "Standing figure of St. James and pilgrim's shell.",
+    "lettering": "· JACOBEO ·\r\n'93\r\nESPAÑA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Jubilee Year of St. James\nSpain",
+    "picture": "https://en.numista.com/catalogue/photos/espagne/207-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/207-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Rafael Vallejo García"
+    ],
+    "description": "Botafumeiro from Cathedral of Santiago de Compostela and Way of St. James logo.",
+    "lettering": "5 PTAS\r\nM 1993",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "5 Pesetas",
+    "picture": "https://en.numista.com/catalogue/photos/espagne/208-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/208-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "series": "Jubilee Year of St. James",
+  "commemorated_topic": "Jacobeo '93",
+  "comments": "Abnormal rim<br />\n<a href=\"https://en.numista.com/catalogue/images/580294668a445.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/580294668a445.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\n<a href=\"https://en.numista.com/catalogue/images/580294708e1a7.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/580294708e1a7.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\n<a href=\"https://en.numista.com/catalogue/images/580295f7c7ed6.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/580295f7c7ed6.jpg\" alt=\"\" width=\"141\" height=\"250\" /></a>",
+  "related_types": [
+    {
+      "id": 2351,
+      "title": "5 Pesetas (Aragon)",
+      "category": "coin",
+      "country": {
+        "code": "espagne",
+        "name": "Spain"
+      },
+      "minYear": 1994,
+      "maxYear": 1994
+    },
+    {
+      "id": 784,
+      "title": "5 Pesetas (Asturias)",
+      "category": "coin",
+      "country": {
+        "code": "espagne",
+        "name": "Spain"
+      },
+      "minYear": 1995,
+      "maxYear": 1995
+    },
+    {
+      "id": 1149,
+      "title": "5 Pesetas (La Rioja)",
+      "category": "coin",
+      "country": {
+        "code": "espagne",
+        "name": "Spain"
+      },
+      "minYear": 1996,
+      "maxYear": 1996
+    },
+    {
+      "id": 783,
+      "title": "5 Pesetas (Balearic Islands)",
+      "category": "coin",
+      "country": {
+        "code": "espagne",
+        "name": "Spain"
+      },
+      "minYear": 1997,
+      "maxYear": 1997
+    },
+    {
+      "id": 1266,
+      "title": "5 Pesetas (Murcia)",
+      "category": "coin",
+      "country": {
+        "code": "espagne",
+        "name": "Spain"
+      },
+      "minYear": 1999,
+      "maxYear": 1999
+    }
+  ],
+  "tags": [
+    "Religious building",
+    "Religious figure"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "919"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "168"
+    },
+    {
+      "catalogue": {
+        "id": 1965,
+        "code": "Aureo"
+      },
+      "number": "52"
+    }
+  ],
+  "weight": 3,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/espagne/694c19341c3640.17687635-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/694c19341c3640.17687635-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 24,
+      "name": "Royal Mint of Madrid"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

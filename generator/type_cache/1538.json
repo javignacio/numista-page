@@ -1,0 +1,171 @@
+{
+  "id": 1538,
+  "url": "https://en.numista.com/1538",
+  "title": "5 Tyin",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "kazakhstan",
+    "name": "Kazakhstan"
+  },
+  "min_year": 1993,
+  "max_year": 1993,
+  "ruler": [
+    {
+      "id": 1316,
+      "name": "Republic",
+      "wikidata_id": "Q232"
+    }
+  ],
+  "value": {
+    "text": "5 Tyin",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 191,
+      "name": "Tenge",
+      "full_name": "Tenge (1993-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2012-12-31"
+  },
+  "size": 17.2,
+  "thickness": 1.35,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass (80% copper, 20% zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "V.Ivzhenko"
+    ],
+    "description": "National emblem surrounded by the inscription \"Republic of Kazakhstan\"",
+    "lettering": "•ҚАЗАҚСТАН•РЕСПУБЛИКАСЫ• •",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "Republic of Kazakhstan",
+    "picture": "https://en.numista.com/catalogue/photos/kazakhstan/62d518d76464c9.18949681-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/kazakhstan/62d518d76464c9.18949681-180.jpg",
+    "picture_copyright": "aslankz",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "V.Ivzhenko"
+    ],
+    "description": "Star design divides date with value within",
+    "lettering": "5\r\nТИЫН\r\nҚҰБ\r\n1993",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "5\r\nTiyn\r\n1993 BNK",
+    "picture": "https://en.numista.com/catalogue/photos/kazakhstan/62d518d78f61a2.23439320-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/kazakhstan/62d518d78f61a2.23439320-180.jpg",
+    "picture_copyright": "aslankz",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "The official Kazakhstan Bank&#039;s mint PROOF set 1993 exists, including 2, 5, 10, 20, 50 tyin 1993<br />\r\nmintage: 50.000<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/569fb104e38de.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/569fb104e38de.jpg\" alt=\"\" width=\"200\" height=\"136\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/569fb10d42f30.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/569fb10d42f30.jpg\" alt=\"\" width=\"200\" height=\"136\" /></a><br /><br />\r\nKrause catalogue, probably by mistake, lists two types of this coin: KM 2 (brass plated zinc) and KM 2a (copper plated zinc). However, the official sources from Kazakhstan, as well as Schön catalogue mention only one type of the coin, made from brass.<br />\r\nSome coins are yellow while others are red. This difference is due to an alteration of the colour of the outside layer of the coin over time.<br />\r\nSee: <a href=\"https://www.youtube.com/watch?v=2PTojcIGImY\" rel=\"nofollow\">https://www.youtube.com/watch?v=2PTojcIGImY</a>",
+  "related_types": [
+    {
+      "id": 1533,
+      "title": "2 Tyin",
+      "category": "coin",
+      "country": {
+        "code": "kazakhstan",
+        "name": "Kazakhstan"
+      },
+      "minYear": 1993,
+      "maxYear": 1993
+    },
+    {
+      "id": 1539,
+      "title": "10 Tyin",
+      "category": "coin",
+      "country": {
+        "code": "kazakhstan",
+        "name": "Kazakhstan"
+      },
+      "minYear": 1993,
+      "maxYear": 1993
+    },
+    {
+      "id": 1540,
+      "title": "20 Tyin",
+      "category": "coin",
+      "country": {
+        "code": "kazakhstan",
+        "name": "Kazakhstan"
+      },
+      "minYear": 1993,
+      "maxYear": 1993
+    },
+    {
+      "id": 1542,
+      "title": "50 Tyin",
+      "category": "coin",
+      "country": {
+        "code": "kazakhstan",
+        "name": "Kazakhstan"
+      },
+      "minYear": 1993,
+      "maxYear": 1993
+    }
+  ],
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "2"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "2"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "2a"
+    }
+  ],
+  "weight": 1.9,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/kazakhstan/665e65cdda34e5.88038292-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/kazakhstan/665e65cdda34e5.88038292-180.jpg",
+    "picture_copyright": "Julio Vega",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 9,
+      "name": "Kazakhstan Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

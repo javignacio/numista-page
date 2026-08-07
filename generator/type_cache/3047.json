@@ -1,0 +1,147 @@
+{
+  "id": 3047,
+  "url": "https://en.numista.com/3047",
+  "title": "10 Yen - Heisei",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "japon",
+    "name": "Japan"
+  },
+  "min_year": 1989,
+  "max_year": 2019,
+  "ruler": [
+    {
+      "id": 336,
+      "name": "Heisei",
+      "wikidata_id": "Q234510"
+    }
+  ],
+  "value": {
+    "text": "10 Yen",
+    "numeric_value": 10,
+    "currency": {
+      "id": 197,
+      "name": "Yen",
+      "full_name": "Yen (1871-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23.5,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze (95% Copper, 3-4% Zinc, 1-2% Tin)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Phoenix Hall (Hōō-dō, Byōdō-in Temple) in center with Country name on top and value below",
+    "lettering": "日 本 国\r\n十 円",
+    "lettering_scripts": [
+      {
+        "name": "Chinese"
+      }
+    ],
+    "lettering_translation": "State of Japan\r\n10 yen",
+    "picture": "https://en.numista.com/catalogue/photos/japon/1854-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/japon/1854-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "reverse": {
+    "description": "Value and date within wreath",
+    "lettering": "10\r\n平成十六年",
+    "lettering_scripts": [
+      {
+        "name": "Chinese"
+      }
+    ],
+    "lettering_translation": "Year 16 of Heisei",
+    "picture": "https://en.numista.com/catalogue/photos/japon/1855-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/japon/1855-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "related_types": [
+    {
+      "id": 7515,
+      "title": "10 Yen - Shōwa (Reeded edge)",
+      "category": "coin",
+      "country": {
+        "code": "japon",
+        "name": "Japan"
+      },
+      "minYear": 1951,
+      "maxYear": 1958
+    },
+    {
+      "id": 922,
+      "title": "10 Yen - Shōwa (Smooth edge)",
+      "category": "coin",
+      "country": {
+        "code": "japon",
+        "name": "Japan"
+      },
+      "minYear": 1959,
+      "maxYear": 1989
+    },
+    {
+      "id": 182976,
+      "title": "10 Yen - Reiwa",
+      "category": "coin",
+      "country": {
+        "code": "japon",
+        "name": "Japan"
+      },
+      "minYear": 2019,
+      "maxYear": 2026
+    }
+  ],
+  "tags": [
+    "Religious building",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "97"
+    },
+    {
+      "catalogue": {
+        "id": 3041,
+        "code": "JNDA"
+      },
+      "number": "02-9"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "74"
+    }
+  ],
+  "weight": 4.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/japon/1911-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/japon/1911-180.jpg",
+    "picture_copyright": "Saber82"
+  },
+  "mints": [
+    {
+      "id": 41,
+      "name": "Japan Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

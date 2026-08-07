@@ -1,0 +1,109 @@
+{
+  "id": 3216,
+  "url": "https://en.numista.com/3216",
+  "title": "25 Cents - Elizabeth II (3rd portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bermudes",
+    "name": "Bermuda"
+  },
+  "min_year": 1986,
+  "max_year": 1998,
+  "ruler": [
+    {
+      "id": 950,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 796,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "25 Cents",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 41,
+      "name": "Dollar",
+      "full_name": "Dollar (1970-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24.21,
+  "thickness": 1.74,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Raphael David Maklouf"
+    ],
+    "description": "Portrait of Queen Elizabeth II facing right wearing the King George IV State Diadem.",
+    "lettering": "BERMUDA ELIZABETH II\r\nRDM",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bermudes/61f5241b939b78.15598742-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bermudes/61f5241b939b78.15598742-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "reverse": {
+    "engravers": [
+      "Michael Rizzello"
+    ],
+    "description": "Bermuda Longtail bird, known more widely as the White-tailed Tropicbird (Phaethon lepturus).",
+    "lettering": "TWENTY-FIVE CENTS\r\n1996",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bermudes/61f5241bda6921.14936048-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bermudes/61f5241bda6921.14936048-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "tags": [
+    "Bird"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "47"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "47"
+    }
+  ],
+  "weight": 5.95,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

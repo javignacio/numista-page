@@ -1,0 +1,137 @@
+{
+  "id": 96429,
+  "url": "https://en.numista.com/96429",
+  "title": "1 Sol",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "perou",
+    "name": "Peru"
+  },
+  "issuing_entity": {
+    "id": 936,
+    "name": "Central Reserve Bank of Peru",
+    "wikidata_id": "Q932146"
+  },
+  "min_year": 2016,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 3757,
+      "name": "Republic",
+      "wikidata_id": "Q419"
+    }
+  ],
+  "value": {
+    "text": "1 Sol",
+    "numeric_value": 1,
+    "currency": {
+      "id": 184,
+      "name": "Nuevo sol",
+      "full_name": "Nuevo sol (1991-2015) / Sol (2016-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25.5,
+  "thickness": 2.05,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass (Copper-nickel-zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The arms of Peru above the date",
+    "lettering": "BANCO CENTRAL DE RESERVA DEL PERÚ\r\n2018",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Reserve Bank of Peru\r\n2018",
+    "picture": "https://en.numista.com/catalogue/photos/perou/1759-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/1759-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "description": "The denomination within wreath.",
+    "lettering": "1 \r\nSOL\r\nPeru\r\nLIMA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/perou/1760-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/1760-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "related_types": [
+    {
+      "id": 324407,
+      "title": "1 Nuevo Sol (1st type; with braille)",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 1991,
+      "maxYear": 2000
+    },
+    {
+      "id": 2443,
+      "title": "1 Nuevo Sol (1st type; without braille)",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 2001,
+      "maxYear": 2011
+    },
+    {
+      "id": 37083,
+      "title": "1 Nuevo Sol (2nd type)",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 2012,
+      "maxYear": 2015
+    }
+  ],
+  "tags": [
+    "Coat of Arms",
+    "Cornucopia"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "395"
+    }
+  ],
+  "weight": 7.32,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/perou/64b316b192cc60.29986190-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/64b316b192cc60.29986190-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 297,
+      "name": "Lima"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

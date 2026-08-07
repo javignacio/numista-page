@@ -1,0 +1,116 @@
+{
+  "id": 2441,
+  "url": "https://en.numista.com/2441",
+  "title": "20 Dollars (Non-magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "jamaique",
+    "name": "Jamaica"
+  },
+  "min_year": 2000,
+  "max_year": 2008,
+  "ruler": [
+    {
+      "id": 2931,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 828,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "20 Dollars",
+    "numeric_value": 20,
+    "currency": {
+      "id": 50,
+      "name": "Dollar",
+      "full_name": "Dollar (1969-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23,
+  "thickness": 2.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: copper-nickel centre in nickel brass ring"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms of Jamaica, value above, legend on the outer ring.",
+    "lettering": "JAMAICA \r\n20 \r\nOUT OF MANY, ONE PEOPLE\r\nTWENTY DOLLARS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/jamaique/516-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/jamaique/516-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "reverse": {
+    "description": "Head of Marcus Garvey facing right forward, legend in the outer ring.",
+    "lettering": "THE RT. EXCELLENT MARCUS GARVEY NATIONAL HERO\r\n2006",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/jamaique/517-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/jamaique/517-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "comments": "<p>In 2000 a Brilliant Uncirculated set was issued to commemorate the 40th Anniversary of The Bank of Jamaica.</p><p><a href=\"https://en.numista.com/catalogue/images/6584ba5e8c66a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6584ba5e8c66a.jpg\"></a></p>",
+  "related_types": [
+    {
+      "id": 79681,
+      "title": "20 Dollars (Magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "jamaique",
+        "name": "Jamaica"
+      },
+      "minYear": 2008,
+      "maxYear": 2025
+    }
+  ],
+  "tags": [
+    "Coat of Arms",
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "182"
+    }
+  ],
+  "weight": 7.8,
+  "orientation": "medal",
+  "edge": {
+    "description": "Alternating reeded and plain segments (4 each).",
+    "picture": "https://en.numista.com/catalogue/photos/jamaique/6521b442d80b34.72343532-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/jamaique/6521b442d80b34.72343532-180.jpg",
+    "picture_copyright": "© Cyrillius",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

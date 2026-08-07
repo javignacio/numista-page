@@ -1,0 +1,137 @@
+{
+  "id": 6920,
+  "url": "https://en.numista.com/6920",
+  "title": "20 Centavos (No number on obverse; billon .400)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "chili",
+    "name": "Chile"
+  },
+  "min_year": 1907,
+  "max_year": 1920,
+  "ruler": [
+    {
+      "id": 3299,
+      "name": "Republic",
+      "wikidata_id": "Q298"
+    }
+  ],
+  "value": {
+    "text": "20 Centavos",
+    "numeric_value": 0.2,
+    "currency": {
+      "id": 237,
+      "name": "Peso",
+      "full_name": "Peso (1835-1959)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1960-01-01"
+  },
+  "size": 21,
+  "shape": "Round",
+  "composition": {
+    "text": "Billon (.400 silver)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Louis-Oscar Roty"
+    ],
+    "description": "Defiant condor on rock left.",
+    "lettering": "REPUBLICA DE CHILE\r\nO. Roty",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Oscar Roty.",
+    "lettering_translation": "Republic of Chile.",
+    "picture": "https://en.numista.com/catalogue/photos/chili/1546-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/1546-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "description": "Denomination above date within laurel wreath with hammer and sickle below.",
+    "lettering": "So\r\nVEINTE \r\nCENTAVOS \r\n1920",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Twenty Centavos.",
+    "picture": "https://en.numista.com/catalogue/photos/chili/1547-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/1547-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "related_types": [
+    {
+      "id": 73608,
+      "title": "20 Centavos (No number on obverse; silver .835)",
+      "category": "coin",
+      "country": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "minYear": 1895,
+      "maxYear": 1895
+    },
+    {
+      "id": 16044,
+      "title": "20 Centavos (0.5 on obverse; silver .500)",
+      "category": "coin",
+      "country": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "minYear": 1899,
+      "maxYear": 1907
+    },
+    {
+      "id": 16106,
+      "title": "20 Centavos (0.45 on obverse; billon .450)",
+      "category": "coin",
+      "country": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "minYear": 1916,
+      "maxYear": 1916
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Hammer and sickle",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "151.3"
+    }
+  ],
+  "weight": 3,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

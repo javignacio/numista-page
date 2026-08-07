@@ -1,0 +1,135 @@
+{
+  "id": 1535,
+  "url": "https://en.numista.com/1535",
+  "title": "1 Króna",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "islande",
+    "name": "Iceland"
+  },
+  "min_year": 1957,
+  "max_year": 1975,
+  "ruler": [
+    {
+      "id": 1592,
+      "name": "Republic",
+      "wikidata_id": "Q189"
+    }
+  ],
+  "value": {
+    "text": "1 Króna",
+    "numeric_value": 1,
+    "currency": {
+      "id": 241,
+      "name": "Old króna",
+      "full_name": "Old króna (1885-1980)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 22.5,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Icelandic coat of arms surrounded by the four traditional protector spirits (\"Landvættir\") of Iceland. These are Griðungur the bull, Gammur the eagle, Dreki the dragon, and Bergrisi the giant.",
+    "lettering": "1975",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/islande/687a9471793a82.64339722-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/islande/687a9471793a82.64339722-180.jpg",
+    "picture_copyright": "Seal444",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Face value at the center and leaves of pubescent birch (Betula pubescens, only endemic tree of Iceland), to left and right.",
+    "lettering": "ÍSLAND\r\n1\r\nKRÓNA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Iceland",
+    "picture": "https://en.numista.com/catalogue/photos/islande/687a94722bc514.13508599-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/islande/687a94722bc514.13508599-180.jpg",
+    "picture_copyright": "Seal444",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p>Royal mint (Great Britain) struck coins in periods 1957-1970, 1973-1975.<br>Royal mint in Ottawa (Canada) struck coins in 1971, 1973.<br>In 1973 these mints can be distinguished by style of numerals.<br><a href=\"https://en.numista.com/catalogue/images/560d3f6203951.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/560d3f6203951.jpg\" alt=\"\"></a></p>",
+  "related_types": [
+    {
+      "id": 7258,
+      "title": "1 Króna",
+      "category": "coin",
+      "country": {
+        "code": "islande",
+        "name": "Iceland"
+      },
+      "minYear": 1946,
+      "maxYear": 1946
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Cow or bovine",
+    "Fantasy animal",
+    "Mythology",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "12a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "16a"
+    },
+    {
+      "catalogue": {
+        "id": 144,
+        "code": "SIEG"
+      },
+      "number": "25"
+    }
+  ],
+  "weight": 4.75,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/islande/61518a78087be6.64463481-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/islande/61518a78087be6.64463481-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 19,
+      "name": "Royal Canadian Mint of Ottawa"
+    },
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,108 @@
+{
+  "id": 910,
+  "url": "https://en.numista.com/910",
+  "title": "5 Pesos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "colombie",
+    "name": "Colombia"
+  },
+  "min_year": 1980,
+  "max_year": 1988,
+  "ruler": [
+    {
+      "id": 4088,
+      "name": "Republic",
+      "wikidata_id": "Q739"
+    }
+  ],
+  "value": {
+    "text": "5 Pesos",
+    "numeric_value": 5,
+    "currency": {
+      "id": 147,
+      "name": "Peso decimalized",
+      "full_name": "Peso decimalized (1847-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 26,
+  "thickness": 1.86,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (90% Copper, 10% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Seated Policarpa Salavarrieta facing right, the country name, and the date.",
+    "lettering": "REPUBLICA DE COLOMBIA\r\n* POLICARPA * 1980",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Colombia\r\nPolicarpa 1980",
+    "picture": "https://en.numista.com/catalogue/photos/colombie/1390-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/1390-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "description": "Industrial buildings of Barrancabermeja's refinery and denomination.",
+    "lettering": "5\r\nPESOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/colombie/1391-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/1391-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/5c3ca7fef3774.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5c3ca7fef3774.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5c473daf38988.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5c473daf38988.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nAlthough Krause shows mintage numbers for 1983, this coin was not issued that year.",
+  "tags": [
+    "Industry"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "268"
+    },
+    {
+      "catalogue": {
+        "id": 348,
+        "code": "Restrepo"
+      },
+      "number": "432"
+    },
+    {
+      "catalogue": {
+        "id": 347,
+        "code": "Hernández"
+      },
+      "number": "622-623"
+    }
+  ],
+  "weight": 9,
+  "orientation": "coin",
+  "edge": {
+    "description": "6 milled and 6 smooth segments"
+  },
+  "mints": [
+    {
+      "id": 280,
+      "name": "Bogota Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

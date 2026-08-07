@@ -1,0 +1,145 @@
+{
+  "id": 1244,
+  "url": "https://en.numista.com/1244",
+  "title": "1 Franc (French text)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "belgique",
+    "name": "Belgium"
+  },
+  "min_year": 1950,
+  "max_year": 1988,
+  "ruler": [
+    {
+      "id": 1169,
+      "name": "Baudouin I",
+      "wikidata_id": "Q12976",
+      "group": {
+        "id": 530,
+        "name": "House of Belgium"
+      }
+    },
+    {
+      "id": 1168,
+      "name": "Leopold III",
+      "wikidata_id": "Q12973",
+      "group": {
+        "id": 530,
+        "name": "House of Belgium"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Franc",
+    "numeric_value": 1,
+    "currency": {
+      "id": 72,
+      "name": "Franc",
+      "full_name": "Franc (1832-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1989-03-22"
+  },
+  "size": 21,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Marcel Rau"
+    ],
+    "description": "Crowned oak branch dividing value. Legend in French below.",
+    "lettering": "1 FR\r\n= BELGIQUE =",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Frank / Franc",
+    "lettering_translation": "Belgium",
+    "picture": "https://en.numista.com/catalogue/photos/belgique/6739c09cc625f8.54914912-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/belgique/6739c09cc625f8.54914912-180.jpg",
+    "picture_copyright": "smy77",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Marcel Rau"
+    ],
+    "description": "Head of Ceres facing left, date left, cornucopia right, designer below",
+    "lettering": "✦ 1951 ✦\r\nRAU",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/belgique/6739c09c4f01d4.18310050-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/belgique/6739c09c4f01d4.18310050-180.jpg",
+    "picture_copyright": "smy77",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p><a href=\"https://en.numista.com/catalogue/images/699086e680815.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/699086e680815.jpg\"></a> 1962, example, double year and designer.</p>",
+  "related_types": [
+    {
+      "id": 571,
+      "title": "1 Franc (Dutch text)",
+      "category": "coin",
+      "country": {
+        "code": "belgique",
+        "name": "Belgium"
+      },
+      "minYear": 1950,
+      "maxYear": 1988
+    }
+  ],
+  "tags": [
+    "Mythology",
+    "Cornucopia"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 192,
+        "code": "LA"
+      },
+      "number": "BFM-101"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "105"
+    }
+  ],
+  "weight": 4,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/belgique/3500-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/belgique/3500-180.jpg",
+    "picture_copyright": "Eagle68",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 1338,
+      "name": "Royal Mint of Belgium"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

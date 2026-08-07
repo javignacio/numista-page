@@ -1,0 +1,87 @@
+{
+  "id": 87582,
+  "url": "https://en.numista.com/87582",
+  "title": "1 Décimo",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "chili",
+    "name": "Chile"
+  },
+  "min_year": 1860,
+  "max_year": 1862,
+  "ruler": [
+    {
+      "id": 3299,
+      "name": "Republic",
+      "wikidata_id": "Q298"
+    }
+  ],
+  "value": {
+    "text": "1 Décimo",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 237,
+      "name": "Peso",
+      "full_name": "Peso (1835-1959)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 18,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.900)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Denominarion within wreath",
+    "lettering": "REPUBLICA DE CHILE • So •\r\nUN DECIMO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Chile\r\nOne Tenth",
+    "picture": "https://en.numista.com/catalogue/photos/chili/1350-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/1350-180.jpg",
+    "picture_copyright": "Image courtesy of Heritage Auctions"
+  },
+  "reverse": {
+    "description": "Condor with spread wings",
+    "lettering": "POR LA RAZON O LA FUERZA\r\n1860",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "By reason or by force",
+    "picture": "https://en.numista.com/catalogue/photos/chili/1349-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/1349-180.jpg",
+    "picture_copyright": "Image courtesy of Heritage Auctions"
+  },
+  "tags": [
+    "Bird"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "124a"
+    }
+  ],
+  "weight": 2.3,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

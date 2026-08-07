@@ -1,0 +1,118 @@
+{
+  "id": 4980,
+  "url": "https://en.numista.com/4980",
+  "title": "5 Centavos (Fisherman)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bresil",
+    "name": "Brazil"
+  },
+  "min_year": 1989,
+  "max_year": 1990,
+  "ruler": [
+    {
+      "id": 2684,
+      "name": "Federative Republic of Brazil",
+      "wikidata_id": "Q155"
+    }
+  ],
+  "value": {
+    "text": "5 Centavos",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 208,
+      "name": "Cruzado novo",
+      "full_name": "Cruzado novo (1989-1990)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1990-00-00"
+  },
+  "size": 17.5,
+  "thickness": 1.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Aldo Cascardo"
+    ],
+    "designers": [
+      "Luciano Dias Araújo"
+    ],
+    "description": "Face value, with big numeral, country name below, on background big circle resembling center of Brazilian flag; on right 2 5-pointed stars, indicating face value on Braille code.",
+    "lettering": "5\r\nCENTAVOS\r\nBRASIL",
+    "lettering_scripts": [
+      {
+        "name": "Braille"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "5 (5 in Braille code)\r\nCents\r\nBrazil",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/695baa4ee20bd8.88537407-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/695baa4ee20bd8.88537407-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "reverse": {
+    "engravers": [
+      "Aldo Cascardo"
+    ],
+    "designers": [
+      "Luciano Dias Araújo"
+    ],
+    "description": "Fisher working fishing net, on front 2 fish silhouettes, issuing year below",
+    "lettering": "1989",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bresil/695baa503473e5.23213371-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/695baa503473e5.23213371-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "comments": "The directive from the Central Bank of Brazil (BCB) which requested the creation of the coin stated the figure were to be stamped on the obverse of the coin. Numista, however, to keep order in its database prefers to show the figure as stamped on the reverse.",
+  "tags": [
+    "Fish"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "612"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "121"
+    },
+    {
+      "catalogue": {
+        "id": 1678,
+        "code": "Bentes"
+      },
+      "number": "777"
+    }
+  ],
+  "weight": 2.26,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

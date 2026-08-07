@@ -1,0 +1,122 @@
+{
+  "id": 2754,
+  "url": "https://en.numista.com/2754",
+  "title": "½ Crown - George V (4th type)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1927,
+  "max_year": 1936,
+  "ruler": [
+    {
+      "id": 272,
+      "name": "George V",
+      "wikidata_id": "Q269412",
+      "group": {
+        "id": 526,
+        "name": "House of Saxe-Coburg and Gotha"
+      }
+    }
+  ],
+  "value": {
+    "text": "½ Crown",
+    "numeric_value": 0.125,
+    "numerator": 1,
+    "denominator": 8,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1971)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1969-12-31"
+  },
+  "size": 32.3,
+  "thickness": 1.98,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.500)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Edgar Bertram MacKennal"
+    ],
+    "description": "Uncrowned portrait of King George V left, legend around.",
+    "lettering": "GEORGIVS V DEI GRA: BRITT: OMN: REX\r\nBM",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Georgius V Dei Gratia Britanniarum Omnium Rex",
+    "lettering_translation": "George the Fifth by the Grace of God King of all the Britains",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/2524-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/2524-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "engravers": [
+      "George Kruger Gray"
+    ],
+    "description": "Quartered shield of arms flanked by crowned royal cyphers, legend above between national flower emblems, denomination and date below.",
+    "lettering": "FID·DEF IND·IMP\r\nK G\r\nHALF· CROWN· 1936",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Fidei Defensor Indiae Imperator",
+    "lettering_translation": "Defender of the Faith Emperor of India",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/2525-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/2525-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "The standard weight of these coins was 5/11 troy ounce (218.2 grains).<br /><br />\r\n<span style=\"font-style:italic;\">1928 die varieties:</span><br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/64d11557df587.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64d11557df587.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "tags": [
+    "Cat or feline",
+    "Crown",
+    "Flower",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "835"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "4037"
+    }
+  ],
+  "weight": 14.14,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

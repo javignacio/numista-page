@@ -1,0 +1,129 @@
+{
+  "id": 233821,
+  "url": "https://en.numista.com/233821",
+  "title": "10 Groszy (Magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "pologne",
+    "name": "Poland"
+  },
+  "min_year": 2019,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 3739,
+      "name": "Third Republic",
+      "wikidata_id": "Q1259201"
+    }
+  ],
+  "value": {
+    "text": "10 Groszys",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 200,
+      "name": "Fourth Zloty",
+      "full_name": "Fourth Zloty (1995-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2020-01-02"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 16.5,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Sebastian Mikołajczak"
+    ],
+    "description": "Polish eagle (state emblem) with stylized rings intersecting at top and split at bottom by date.",
+    "lettering": "mw\r\nRZECZPOSPOLITA POLSKA\r\n2020",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Poland",
+    "picture": "https://en.numista.com/catalogue/photos/pologne/5f59c6e21d2ac9.67971598-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pologne/5f59c6e21d2ac9.67971598-180.jpg",
+    "picture_copyright": "videoclean",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "Ewa Tyc-Karpińska"
+    ],
+    "description": "Face value surrounded with a stylized leaves coronal.",
+    "lettering": "10\r\nGROSZY",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/pologne/5f59c6e274cb85.73630639-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pologne/5f59c6e274cb85.73630639-180.jpg",
+    "picture_copyright": "videoclean",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p>By NBP :<br>10 groszy 2019 1,000,000 pcs. from the pilot batch, marked with the year of production 2019, which are put into circulation from September 1, 2021</p>",
+  "related_types": [
+    {
+      "id": 523,
+      "title": "10 Groszy",
+      "category": "coin",
+      "country": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "minYear": 1990,
+      "maxYear": 2016
+    },
+    {
+      "id": 102865,
+      "title": "10 Groszy (non magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "minYear": 2017,
+      "maxYear": 2019
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "971c"
+    }
+  ],
+  "weight": 2.51,
+  "orientation": "medal",
+  "edge": {
+    "description": "Segmented reeding"
+  },
+  "mints": [
+    {
+      "id": 27,
+      "name": "Mint of Poland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

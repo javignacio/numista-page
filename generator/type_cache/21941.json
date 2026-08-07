@@ -1,0 +1,125 @@
+{
+  "id": 21941,
+  "url": "https://en.numista.com/21941",
+  "title": "1 Shilling - George V (2nd type)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1920,
+  "max_year": 1926,
+  "ruler": [
+    {
+      "id": 272,
+      "name": "George V",
+      "wikidata_id": "Q269412",
+      "group": {
+        "id": 526,
+        "name": "House of Saxe-Coburg and Gotha"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Shilling",
+    "numeric_value": 0.05,
+    "numerator": 1,
+    "denominator": 20,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1971)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1990-12-31"
+  },
+  "size": 23.5,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.500)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Edgar Bertram MacKennal"
+    ],
+    "description": "Uncrowned portrait of King George V left, legend around.",
+    "lettering": "GEORGIVS V DEI GRA:BRITT:OMN:REX",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Georgius V Dei Gratia Britanniarum Omnium Rex",
+    "lettering_translation": "George the Fifth by the Grace of God King of all the Britains",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/6316ef00d611b8.10276814-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/6316ef00d611b8.10276814-180.jpg",
+    "picture_copyright": "Monéphil",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "George William de Saulles"
+    ],
+    "description": "Crowned lion passant atop crown dividing date, legend above, denomination below.",
+    "lettering": "FID:DEF:IND:IMP:\r\n19 22\r\nONE SHILLING",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Fidei Defensor Indiae Imperator",
+    "lettering_translation": "Defender of the Faith Emperor of India",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/6316ef012876d0.47993511-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/6316ef012876d0.47993511-180.jpg",
+    "picture_copyright": "Monéphil",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p>The standard weight of these coins was 2/11 troy ounce (87.3 grains).<br><br><i>1920 obverse die varieties:</i><br><strong>Obverse 3</strong> I of GEORGIVS points between beads, small Head is in high relief, flat neck, wide rim;<br><strong>Obverse 4</strong> I of GEORGIVS points at a bead, large Head is in low relief, slightly hollow neck, narrow rim;<br><a href=\"https://en.numista.com/catalogue/images/5cc0259224495.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5cc0259224495.jpg\" alt=\"\"></a><br><i>1921 obverse and reverse die varieties:</i><br><strong>Obverse 3</strong> I of GEORGIVS points between beads;<br><strong>Obverse 4</strong> I of GEORGIVS points between beads;<br><strong>Obverse 5</strong> I of GEORGIVS points at a bead;<br><strong>Reverse D</strong> Tail tuft points between the I and M of IMP;<br><strong>Reverse E</strong> Tail tuft points at the left leg of the M of IMP;<br><a href=\"https://en.numista.com/catalogue/images/5cc025a6891b2.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5cc025a6891b2.jpg\" alt=\"\"></a><br><i>1926 obverse die varieties:</i><br><strong>Obverse 5</strong> First effigy, round pearls (peas around border) <i>KM#816a</i><br><strong>Obverse 6</strong> Modified effigy, oblong pearls (beans) around border <u>KM#829</u><br><a href=\"https://en.numista.com/catalogue/images/5c69369fdb1b3.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5c69369fdb1b3.jpg\" alt=\"\"></a><br>The images above are reproduced with kind permission of<br>Numista member Sjoelund and <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"http://www.declanmageecoins.co.uk/G5S.html\">Declan Magee Coins</a></p>",
+  "tags": [
+    "Cat or feline",
+    "Crown"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "816a"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "4023"
+    }
+  ],
+  "weight": 5.66,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/6a34e0f3e6ac21.02451883-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/6a34e0f3e6ac21.02451883-180.jpg",
+    "picture_copyright": "Walter_Scott"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

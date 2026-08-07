@@ -1,0 +1,113 @@
+{
+  "id": 1062,
+  "url": "https://en.numista.com/1062",
+  "title": "20 Markkaa",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "finlande",
+    "name": "Finland"
+  },
+  "min_year": 1952,
+  "max_year": 1962,
+  "ruler": [
+    {
+      "id": 3291,
+      "name": "Republic",
+      "wikidata_id": "Q33"
+    }
+  ],
+  "value": {
+    "text": "20 Markkaa",
+    "numeric_value": 20,
+    "currency": {
+      "id": 1156,
+      "name": "Markka",
+      "full_name": "Markka (1860-1963)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 22.5,
+  "thickness": 1.9,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze (93% Copper, 3% Aluminium, 2% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Peippo Uolevi Helle"
+    ],
+    "description": "Finnish lion in circle surrounded by legend and date.",
+    "lettering": "SUOMEN TASAVALTA\r\nH\r\n═>═1954═<═",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic Of Finland",
+    "picture": "https://en.numista.com/catalogue/photos/finlande/1114-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/1114-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "reverse": {
+    "engravers": [
+      "Peippo Uolevi Helle"
+    ],
+    "description": "Tree and denomination in two lines.",
+    "lettering": "20\r\nMARKKAA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/finlande/1115-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/1115-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "comments": "<p>Two main types are known.<br><i>Reverse:</i><br>Die <strong>A</strong> - legend close to rim, right lower branch on pine has short endings (right on the images below).<br>Die <strong>B</strong> - legend far from &nbsp;rim, right lower branch on pine has long endings (left on the images below).<br><a href=\"https://en.numista.com/catalogue/images/5ab3996729fe6.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5ab3996729fe6.jpg\" alt=\"\"></a><br><br><i>Combinations:</i><br>Die <strong>A</strong>: 1952-1954.<br>Die <strong>B</strong>: 1954-1962.</p>",
+  "tags": [
+    "Cat or feline",
+    "Flower",
+    "Tree",
+    "Coat of Arms",
+    "Cold weapons"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "39"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "42"
+    }
+  ],
+  "weight": 4.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/finlande/614d9d80c1b2b6.73986286-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/614d9d80c1b2b6.73986286-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 1333,
+      "name": "Mint of Finland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,123 @@
+{
+  "id": 1588,
+  "url": "https://en.numista.com/1588",
+  "title": "1 Yuan",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "chine",
+    "name": "China, People's Republic of"
+  },
+  "min_year": 1999,
+  "max_year": 2018,
+  "ruler": [
+    {
+      "id": 1436,
+      "name": "People's Republic",
+      "wikidata_id": "Q148"
+    }
+  ],
+  "value": {
+    "text": "1 Yuan",
+    "numeric_value": 1,
+    "currency": {
+      "id": 198,
+      "name": "Rénmínbì",
+      "full_name": "Rénmínbì (1955-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2000-10-16"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25,
+  "thickness": 1.85,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Incuse, Milled"
+  },
+  "obverse": {
+    "description": "Bank name '中国人民银行', denomination '1 元' 'YI YUAN', and year of issue.",
+    "lettering": "中国人民银行\r\n1 元\r\nYI YUAN",
+    "lettering_scripts": [
+      {
+        "name": "Chinese (simplified)"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "People's Bank of China (CHINESE)\r\n1 Yuan (CHINESE)\r\nOne Yuan (PINYIN)",
+    "picture": "https://en.numista.com/catalogue/photos/chine/19-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chine/19-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Chrysanthemum blossom and the issuer name in Pinyin above",
+    "lettering": "ZHONGGUO RENMIN YINHANG",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "People's Bank of China",
+    "picture": "https://en.numista.com/catalogue/photos/chine/18-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chine/18-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "tags": [
+    "Flower"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1212"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "1105"
+    },
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "1069"
+    }
+  ],
+  "weight": 6.1,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain with incuse initials repeated three times",
+    "lettering": "RMB RMB RMB",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Renminbi",
+    "picture": "https://en.numista.com/catalogue/photos/chine/1741-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chine/1741-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

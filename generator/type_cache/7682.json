@@ -1,0 +1,88 @@
+{
+  "id": 7682,
+  "url": "https://en.numista.com/7682",
+  "title": "50 Centimes (Soccer)",
+  "object_type": {
+    "id": 3,
+    "name": "Non-circulating coins"
+  },
+  "issuer": {
+    "code": "democratic_republic_congo_period",
+    "name": "Democratic Republic of the Congo (1997-date)"
+  },
+  "min_year": 2002,
+  "max_year": 2002,
+  "ruler": [
+    {
+      "id": 5166,
+      "name": "Democratic Republic",
+      "wikidata_id": "Q974"
+    }
+  ],
+  "value": {
+    "text": "50 Centimes",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 75,
+      "name": "Franc",
+      "full_name": "Franc (1998-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 26.97,
+  "thickness": 1.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Lion standing looking forward",
+    "lettering": "REPUBLIQUE DEMOCRATIQUE DU CONGO\r\n2002",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/democratic_republic_congo_period/653ab96deaa244.27873110-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/democratic_republic_congo_period/653ab96deaa244.27873110-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "description": "Soccer player and a ball",
+    "lettering": "50 CENTIMES\r\n2002",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/democratic_republic_congo_period/653ab96e035d10.04395654-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/democratic_republic_congo_period/653ab96e035d10.04395654-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "commemorated_topic": "Soccer",
+  "tags": [
+    "Cat or feline",
+    "Soccer"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "75"
+    }
+  ],
+  "weight": 2.2,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "category": "coin",
+  "type": "Non-circulating coins"
+}

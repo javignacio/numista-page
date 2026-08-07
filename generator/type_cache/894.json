@@ -1,0 +1,150 @@
+{
+  "id": 894,
+  "url": "https://en.numista.com/894",
+  "title": "10 Francs",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "france",
+    "name": "France"
+  },
+  "min_year": 1950,
+  "max_year": 1958,
+  "ruler": [
+    {
+      "id": 10,
+      "name": "Fourth Republic",
+      "wikidata_id": "Q69829",
+      "group": {
+        "id": 89,
+        "name": "Modern France"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Francs",
+    "numeric_value": 10,
+    "currency": {
+      "id": 303,
+      "name": "Franc",
+      "full_name": "Franc (1795-1959)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1970-02-01"
+  },
+  "size": 20,
+  "thickness": 1.64,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-aluminium (91% Copper, 9% Aluminium)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Georges Guiraud"
+    ],
+    "description": "Female head facing left, designer's name, legend",
+    "lettering": "REPUBLIQUE FRANÇAISE\r\nG·GUIRAUD",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "French Republic",
+    "picture": "https://en.numista.com/catalogue/photos/france/10589-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/10589-180.jpg",
+    "picture_copyright": "Uechtland"
+  },
+  "reverse": {
+    "engravers": [
+      "Georges Guiraud"
+    ],
+    "description": "Rooster facing right, laurel branch, value, year of production, pattern around edge.\r\nNOTE: If there is a B mintmark it is below date",
+    "lettering": "10\r\nFRANCS\r\n1951\r\nLIBERTE EGALITE FRATERNITE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Liberty Equality Brotherhood",
+    "picture": "https://en.numista.com/catalogue/photos/france/10590-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/10590-180.jpg",
+    "picture_copyright": "Uechtland"
+  },
+  "series": "Francs Guiraud",
+  "related_types": [
+    {
+      "id": 450292,
+      "title": "10 francs Guiraud (essai)",
+      "category": "coin",
+      "country": {
+        "code": "france",
+        "name": "France"
+      },
+      "minYear": 1950,
+      "maxYear": 1950
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Allegory"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 34,
+        "code": "Franc 2014"
+      },
+      "number": "363"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "221"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "915"
+    },
+    {
+      "catalogue": {
+        "id": 109,
+        "code": "Gad 1789"
+      },
+      "number": "812"
+    }
+  ],
+  "weight": 3,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/france/11208-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/11208-180.jpg",
+    "picture_copyright": "Eagle68",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    },
+    {
+      "id": 72,
+      "name": "Beaumont-le-Roger"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

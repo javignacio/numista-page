@@ -1,0 +1,148 @@
+{
+  "id": 2007,
+  "url": "https://en.numista.com/2007",
+  "title": "10 Para",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "yougoslavie",
+    "name": "Yugoslavia"
+  },
+  "issuing_entity": {
+    "id": 690,
+    "name": "National Bank of Yugoslavia",
+    "wikidata_id": "Q1194664"
+  },
+  "min_year": 1965,
+  "max_year": 1981,
+  "ruler": [
+    {
+      "id": 2378,
+      "name": "Socialist Federal Republic",
+      "wikidata_id": "Q83286"
+    }
+  ],
+  "value": {
+    "text": "10 Paras",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 33,
+      "name": "Hard dinar",
+      "full_name": "Hard dinar (1966-1989)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1967-02-15"
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1985-12-31"
+  },
+  "size": 21,
+  "thickness": 1.1,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium brass (85% Copper, 14.5% Zinc, 0.5% Aluminium)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Dragomir Mileusnić"
+    ],
+    "description": "The state emblem of Yugoslavia",
+    "lettering": "СФР JУГОСЛАВИJА\r\n29·XI·1943\r\nSFR JUGOSLAVIJA",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Социјалистичка Федеративна Република Југославија\r\nSocijalistička Federativna Republika Jugoslavija",
+    "lettering_translation": "Socialist Federal Republic Yugoslavia",
+    "picture": "https://en.numista.com/catalogue/photos/yougoslavie/63ada5985ef5f2.86136814-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/yougoslavie/63ada5985ef5f2.86136814-180.jpg",
+    "picture_copyright": "mikimaus",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "Dragomir Mileusnić"
+    ],
+    "description": "The denomination in numerals in a large font divides date",
+    "lettering": "ПАРА·PARA\r\n1979\r\n10\r\nPAR·ПАРИ",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "10 Paras",
+    "picture": "https://en.numista.com/catalogue/photos/yougoslavie/63ada598af2159.66651662-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/yougoslavie/63ada598af2159.66651662-180.jpg",
+    "picture_copyright": "mikimaus",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p>1980 with large design at reverse exists:<br><br><a href=\"https://en.numista.com/catalogue/images/56201fb156fb4.gif\"><img src=\"https://en.numista.com/catalogue/images/miniatures/56201fb156fb4.gif\" alt=\"\"></a><br><br>short and long serifed \"7\" varieties of 1978:<br><br><a href=\"https://en.numista.com/catalogue/images/566c76beb79ef.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/566c76beb79ef.jpg\" alt=\"\"></a></p>",
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "44"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "40"
+    },
+    {
+      "catalogue": {
+        "id": 355,
+        "code": "Viscevic"
+      },
+      "number": "36"
+    },
+    {
+      "catalogue": {
+        "id": 3099,
+        "code": "Mandic"
+      },
+      "number": "39"
+    }
+  ],
+  "weight": 3,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/yougoslavie/60200bb2b564d8.68553178-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/yougoslavie/60200bb2b564d8.68553178-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 1365,
+      "name": "Belgrade"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

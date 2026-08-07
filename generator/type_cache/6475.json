@@ -1,0 +1,117 @@
+{
+  "id": 6475,
+  "url": "https://en.numista.com/6475",
+  "title": "1 Córdoba",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "nicaragua",
+    "name": "Nicaragua"
+  },
+  "issuing_entity": {
+    "id": 863,
+    "name": "Central Bank of Nicaragua",
+    "wikidata_id": "Q4504274"
+  },
+  "min_year": 1997,
+  "max_year": 2000,
+  "ruler": [
+    {
+      "id": 4284,
+      "name": "Republic",
+      "wikidata_id": "Q811"
+    }
+  ],
+  "value": {
+    "text": "1 Córdoba",
+    "numeric_value": 1,
+    "currency": {
+      "id": 3150,
+      "name": "Third Córdoba \"Oro\"",
+      "full_name": "Third Córdoba \"Oro\" (1991-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms with legend around.",
+    "lettering": "REPUBLICA DE NICARAGUA\r\nAMERICA CENTRAL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Nicaragua\r\nCentral America",
+    "picture": "https://en.numista.com/catalogue/photos/nicaragua/66d4493b8fc554.03463680-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nicaragua/66d4493b8fc554.03463680-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "description": "Value above sprigs within circle, motto at top and date at bottom.",
+    "lettering": "EN DIOS CONFIAMOS\r\n1 \r\nCORDOBA\r\n1997",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "In God We Trust",
+    "picture": "https://en.numista.com/catalogue/photos/nicaragua/60156aa7ea98a2.68330065-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nicaragua/60156aa7ea98a2.68330065-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "series": "1997 Series",
+  "tags": [
+    "Coat of Arms",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "89"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "88"
+    }
+  ],
+  "weight": 6.25,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded:\r\n1997 Large reeds (left)\r\n2000 Small reeds (right)",
+    "picture": "https://en.numista.com/catalogue/photos/nicaragua/61c756aac9ada4.38476807-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nicaragua/61c756aac9ada4.38476807-180.jpg",
+    "picture_copyright": "gyoschak",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    },
+    {
+      "id": 4175,
+      "name": "Vereinigte Deutsche Nickelwerke"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

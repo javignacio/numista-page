@@ -1,0 +1,107 @@
+{
+  "id": 11191,
+  "url": "https://en.numista.com/11191",
+  "title": "1 Rupee - Monarchy/Republic",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "nepal",
+    "name": "Nepal"
+  },
+  "min_year": 2007,
+  "max_year": 2009,
+  "ruler": [
+    {
+      "id": 3965,
+      "name": "Gyanendra Bir Bikram Shah",
+      "wikidata_id": "Q201327",
+      "group": {
+        "id": 240,
+        "name": "Shah dynasty"
+      }
+    },
+    {
+      "id": 3966,
+      "name": "Federal Republic",
+      "wikidata_id": "Q837"
+    }
+  ],
+  "value": {
+    "text": "1 Rupee",
+    "numeric_value": 1,
+    "currency": {
+      "id": 173,
+      "name": "Rupee",
+      "full_name": "Rupee (1932-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 20,
+  "thickness": 1.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Mount Everest and \"Sagarmatha\" (name of Everest in Nepali) as the inscription",
+    "lettering": "सगरमाथा \r\n२०६६",
+    "lettering_scripts": [
+      {
+        "name": "Devanagari"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/nepal/1340-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nepal/1340-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "reverse": {
+    "description": "Nepal Map with mountains and value in English above and in Nepali below",
+    "lettering": "NEPAL Re.1\r\nनेपाल\r\n१ रूपैयाँ",
+    "lettering_scripts": [
+      {
+        "name": "Devanagari"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/nepal/1341-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nepal/1341-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "comments": "Monarchy:<br />\r\nKing Gyanendra Bir Bikram was the last king of Shah Dynasty (Reign: 4 June 2001 – 28 May 2008)<br />\r\nRepublic:<br />\r\nSubsequently Nepal became a Federal Democratic Republic (i.e.28/05/2008)<br />\r\nWith Dr. Ram Baran Yadav, as the first President of Nepal<br /><br />\r\nSmall differences between the two years:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/571cf07eedaf6.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/571cf07eedaf6.jpg\" alt=\"\" width=\"200\" height=\"100\" /></a><br /><br />\r\nOne more difference between the two years is the lettering in NEPAL , wider with narrower spacing in monarchy, mor obvious in E<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5d08bd407f3b1.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d08bd407f3b1.jpg\" alt=\"\" width=\"199\" height=\"119\" /></a>",
+  "tags": [
+    "Mountain",
+    "Map"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1204.1"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1204.2"
+    }
+  ],
+  "weight": 4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,106 @@
+{
+  "id": 71697,
+  "url": "https://en.numista.com/71697",
+  "title": "1 Real (Olympic Games Rio 2016 - Rugby)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "bresil",
+    "name": "Brazil"
+  },
+  "min_year": 2015,
+  "max_year": 2015,
+  "ruler": [
+    {
+      "id": 2684,
+      "name": "Federative Republic of Brazil",
+      "wikidata_id": "Q155"
+    }
+  ],
+  "value": {
+    "text": "1 Real",
+    "numeric_value": 1,
+    "currency": {
+      "id": 158,
+      "name": "Real",
+      "full_name": "Real (1994-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 27,
+  "thickness": 1.95,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: stainless steel centre in bronze plated steel ring"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Players fighting for the ball, \"BRASIL\" on top, above Rio Games logo.",
+    "lettering": "BRASIL\r\nRIO 2016",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Brazil\r\nRio 2016",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/695badd3c69712.46798710-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/695badd3c69712.46798710-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "reverse": {
+    "description": "Number 1 on stylized detail of national arms.",
+    "lettering": "1\r\nREAL\r\n2015",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bresil/695badd568fc21.00444806-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/695badd568fc21.00444806-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "series": "2016 Summer Olympics, Rio",
+  "commemorated_topic": "Rugby",
+  "tags": [
+    "Summer Olympic Games",
+    "Rugby"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "707"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "212"
+    }
+  ],
+  "weight": 7,
+  "orientation": "coin",
+  "edge": {
+    "description": "Mills and smooth section",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/1891-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/1891-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 1335,
+      "name": "Mint of Brazil"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

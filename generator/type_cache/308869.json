@@ -1,0 +1,68 @@
+{
+  "id": 308869,
+  "url": "https://en.numista.com/308869",
+  "title": "Esso Token - World cup 1990 (Niall Quinn Republic of Ireland)",
+  "object_type": {
+    "id": 22,
+    "name": "Advertising medallions"
+  },
+  "issuer": {
+    "code": "irlande",
+    "name": "Ireland"
+  },
+  "min_year": 1990,
+  "max_year": 1990,
+  "size": 25,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Portrait of Niall Quinn in center, facing right; signature below.",
+    "lettering": "NIALL QUINN ・REPUBLIC OF IRELAND",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/irlande/689af876837012.35083477-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/irlande/689af876837012.35083477-180.jpg",
+    "picture_copyright": "Tommie",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Football moving towards end of coin",
+    "lettering": "World Cup ・Esso ・Italia '90",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/irlande/689af87717e106.96446438-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/irlande/689af87717e106.96446438-180.jpg",
+    "picture_copyright": "Tommie",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "commemorated_topic": "World cup 1990",
+  "tags": [
+    "Soccer"
+  ],
+  "weight": 2,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/irlande/689af877a11378.98532524-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/irlande/689af877a11378.98532524-180.jpg",
+    "picture_copyright": "Tommie",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "category": "exonumia",
+  "type": "Advertising medallions"
+}

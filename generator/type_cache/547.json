@@ -1,0 +1,113 @@
+{
+  "id": 547,
+  "url": "https://en.numista.com/547",
+  "title": "2 Drachmai (Regime of the Colonels)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "grece",
+    "name": "Greece"
+  },
+  "min_year": 1973,
+  "max_year": 1973,
+  "ruler": [
+    {
+      "id": 1253,
+      "name": "Regime of the Colonels",
+      "wikidata_id": "Q504081"
+    }
+  ],
+  "value": {
+    "text": "2 Drachmai",
+    "numeric_value": 2,
+    "currency": {
+      "id": 62,
+      "name": "Third modern drachma",
+      "full_name": "Third modern drachma (1954-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 24,
+  "thickness": 1.95,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass (79% Copper, 20% Zinc, 1% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "I. Stinis"
+    ],
+    "description": "A Phoenix rising from its flames and the date below",
+    "lettering": "ΕΛΛΗΝΙΚΗ ΔΗΜΟΚΡΑΤΙΑ \r\n1973",
+    "lettering_scripts": [
+      {
+        "name": "Greek"
+      }
+    ],
+    "lettering_translation": "Hellenic Republic\r\n1973",
+    "picture": "https://en.numista.com/catalogue/photos/grece/844-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/grece/844-180.jpg",
+    "picture_copyright": "Ma collection de monnaies",
+    "picture_copyright_url": "https://monnaiesetvarietes.numista.com/"
+  },
+  "reverse": {
+    "engravers": [
+      "N. Perantinos"
+    ],
+    "description": "The little owl, Athene noctua, symbol of goddess Athena which was first depicted on an ancient Greek tetradrachm (5th century B.C.), denomination right",
+    "lettering": "2 ΔΡΑΧΜΑΙ  \r\nΝ. ΠΕΡ.",
+    "lettering_scripts": [
+      {
+        "name": "Greek"
+      }
+    ],
+    "lettering_translation": "2 Drachmai\r\nN. Per.",
+    "picture": "https://en.numista.com/catalogue/photos/grece/845-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/grece/845-180.jpg",
+    "picture_copyright": "Ma collection de monnaies",
+    "picture_copyright_url": "https://monnaiesetvarietes.numista.com/"
+  },
+  "tags": [
+    "Bird",
+    "Fantasy animal",
+    "Mythology"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "108"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "52"
+    }
+  ],
+  "weight": 6,
+  "orientation": "medal",
+  "edge": {
+    "description": "Milled",
+    "picture": "https://en.numista.com/catalogue/photos/grece/614cad2a6db106.42238067-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/grece/614cad2a6db106.42238067-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 1889,
+      "name": "National Mint of the Bank of Greece"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

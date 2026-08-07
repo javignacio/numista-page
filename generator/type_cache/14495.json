@@ -1,0 +1,128 @@
+{
+  "id": 14495,
+  "url": "https://en.numista.com/14495",
+  "title": "1 Centavo \"Sojinha\"",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bresil",
+    "name": "Brazil"
+  },
+  "issuing_entity": {
+    "id": 900,
+    "name": "Central Bank of Brazil",
+    "wikidata_id": "Q806186"
+  },
+  "min_year": 1979,
+  "max_year": 1983,
+  "ruler": [
+    {
+      "id": 2684,
+      "name": "Federative Republic of Brazil",
+      "wikidata_id": "Q155"
+    }
+  ],
+  "value": {
+    "text": "1 Centavo",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 206,
+      "name": "Cruzeiro novo",
+      "full_name": "Cruzeiro novo (1967-1986)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1984-08-15"
+  },
+  "size": 14,
+  "thickness": 1.4,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Benedicto de Araújo Ribeiro"
+    ],
+    "description": "Soybean below country name.",
+    "lettering": "BRASIL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bresil/695ba6f3433f21.35759062-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/695ba6f3433f21.35759062-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "reverse": {
+    "engravers": [
+      "benedicto de araújo"
+    ],
+    "description": "Face value on plain field, date and microcharacters: BC logo and zimbo (shell)",
+    "lettering": "1\r\nCENTAVO\r\n1979",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bresil/695ba6f46af5d6.06316272-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/695ba6f46af5d6.06316272-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "comments": "<p>“Sojinha” means “little soybean” in Portuguese.</p>",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "589"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "96"
+    },
+    {
+      "catalogue": {
+        "id": 1185,
+        "code": "AI Coins"
+      },
+      "number": "V337-V341"
+    },
+    {
+      "catalogue": {
+        "id": 1678,
+        "code": "Bentes"
+      },
+      "number": "731"
+    }
+  ],
+  "weight": 1.58,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/6412f67355b732.98755562-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/6412f67355b732.98755562-180.jpg",
+    "picture_copyright": "Leandro.brito",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 1335,
+      "name": "Mint of Brazil"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

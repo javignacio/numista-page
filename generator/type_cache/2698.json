@@ -1,0 +1,114 @@
+{
+  "id": 2698,
+  "url": "https://en.numista.com/2698",
+  "title": "5 Cents - Elizabeth II (4th portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "iles_caimanes",
+    "name": "Cayman Islands"
+  },
+  "min_year": 1999,
+  "max_year": 2022,
+  "ruler": [
+    {
+      "id": 958,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 800,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Cents",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 43,
+      "name": "Dollar",
+      "full_name": "Dollar (1972-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 18,
+  "thickness": 1.1,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Ian Rank-Broadley"
+    ],
+    "description": "Crowned portrait of Queen Elizabeth II facing right, wearing the Girls of Great Britain and Ireland tiara.",
+    "lettering": "CAYMAN ISLANDS ELIZABETH II\r\nIRB\r\n1999",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/iles_caimanes/64405f15f2a747.77515895-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/iles_caimanes/64405f15f2a747.77515895-180.jpg",
+    "picture_copyright": "Monéphil",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Stuart Devlin"
+    ],
+    "description": "Cayman Crayfish, value at right.",
+    "lettering": "5\r\nSD",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/iles_caimanes/64405f166e2702.95456939-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/iles_caimanes/64405f166e2702.95456939-180.jpg",
+    "picture_copyright": "Monéphil",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "tags": [
+    "Crustacean",
+    "Marine invertebrate"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "132"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "135"
+    }
+  ],
+  "weight": 2,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

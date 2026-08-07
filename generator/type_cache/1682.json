@@ -1,0 +1,109 @@
+{
+  "id": 1682,
+  "url": "https://en.numista.com/1682",
+  "title": "25 Sentimo (Non-magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "philippines",
+    "name": "Philippines"
+  },
+  "issuing_entity": {
+    "id": 492,
+    "name": "Central Bank of the Philippines",
+    "wikidata_id": "Q1853468"
+  },
+  "min_year": 1995,
+  "max_year": 2003,
+  "ruler": [
+    {
+      "id": 1639,
+      "name": "Republic",
+      "wikidata_id": "Q928"
+    }
+  ],
+  "value": {
+    "text": "25 Sentimos",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 151,
+      "name": "Piso",
+      "full_name": "Piso (1967-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 20,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Value at centre.",
+    "lettering": "REPUBLIKA NG PILIPINAS\r\n25\r\nSENTIMO\r\n2001",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of the Philippines.",
+    "picture": "https://en.numista.com/catalogue/photos/philippines/10-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/philippines/10-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Seal of the Central Bank of the Philippines.",
+    "lettering": "BANGKO SENTRAL NG PILIPINAS\r\n1993",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Bank of the Philippines.",
+    "picture": "https://en.numista.com/catalogue/photos/philippines/9-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/philippines/9-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "series": "New Design Series",
+  "comments": "For coins from 1995, there is no mintmark, which appears on coins from 1996 onwards, on the right of the currency unit.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5a754443e2d23.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5a754443e2d23.jpg\" alt=\"\" width=\"200\" height=\"109\" /></a>",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "271"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "118"
+    }
+  ],
+  "weight": 3.8,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 5198,
+      "name": "BSP Security Plant Complex"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,102 @@
+{
+  "id": 41652,
+  "url": "https://en.numista.com/41652",
+  "title": "4 Reales - Charles IV",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bolivie",
+    "name": "Bolivia"
+  },
+  "min_year": 1791,
+  "max_year": 1809,
+  "ruler": [
+    {
+      "id": 1470,
+      "name": "Charles IV",
+      "wikidata_id": "Q183226",
+      "nomisma_id": "charles_iv_spain"
+    }
+  ],
+  "value": {
+    "text": "4 Reales",
+    "numeric_value": 4,
+    "currency": {
+      "id": 1201,
+      "name": "Real",
+      "full_name": "Real (1574-1825)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1825-00-00"
+  },
+  "size": 32,
+  "thickness": 1.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.896)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Bust of Charles IV, text around, date on bottom.",
+    "lettering": "CAROLUS • IIII • DEI • GRATIA\r\n• 1808 •",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Charles IV by the Grace of God",
+    "picture": "https://en.numista.com/catalogue/photos/bolivie/584-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bolivie/584-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "description": "Crowned Arms between pillars",
+    "lettering": "PLUS ULTRA\r\n • HISPAN • ET IND • REX • PTS • 4R • P • J •",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "HISPANiarum ET INDiæ REX PoToSi 4 Reals Pedro Prudencio de Esquerrenea - Juan Palomo y Sierra",
+    "lettering_translation": "Far Beyond\r\nKing of Spain and the Indies, Potosí, 4 Reales",
+    "picture": "https://en.numista.com/catalogue/photos/bolivie/585-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bolivie/585-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "tags": [
+    "Monarch",
+    "Crown",
+    "Coat of Arms",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "72"
+    }
+  ],
+  "weight": 13.5337,
+  "orientation": "medal",
+  "edge": {
+    "description": "Chained"
+  },
+  "mints": [
+    {
+      "id": 296,
+      "name": "Potosi"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

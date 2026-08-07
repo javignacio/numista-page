@@ -1,0 +1,119 @@
+{
+  "id": 2840,
+  "url": "https://en.numista.com/2840",
+  "title": "3 Pence - George VI (incl. Colonial)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1937,
+  "max_year": 1945,
+  "ruler": [
+    {
+      "id": 274,
+      "name": "George VI",
+      "wikidata_id": "Q280856",
+      "group": {
+        "id": 527,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "3 Pence",
+    "numeric_value": 0.0125,
+    "numerator": 1,
+    "denominator": 80,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1971)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 16,
+  "thickness": 0.95,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.500)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Thomas Humphrey Paget"
+    ],
+    "description": "Uncrowned portrait of King George VI left, legend around.",
+    "lettering": "GEORGIVS VI D:G:BR:OMN:REX\r\nHP",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "George the Sixth by the Grace of God King of all the Britains",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/60900c2495f582.55321794-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/60900c2495f582.55321794-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "George Kruger Gray"
+    ],
+    "description": "St. George's cross over Tudor rose dividing date, legend above, denomination below.",
+    "lettering": "FID:DEF:IND:IMP\r\n1940\r\nK·G\r\nTHREE·PENCE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Defender of the Faith Emperor of India",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/60900c24e846d5.47858401-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/60900c24e846d5.47858401-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "The standard weight of this coin was 1/22 troy ounce or 21.8 grains.<br /><br />\r\n<span style=\"font-style:italic;\">From CoinNews.net</span> King George VI Silver Threepence were minted from 1937 to 1945, with a peak production of almost 8 million annually in 1940 and in 1941. The issues of 1942-44 were all shipped to the British West Indies, however, and the coin’s final issue was apparently deemed redundant because of public acceptance of the 12-sided nickel-brass coin. All of the 1945 Silver Threepence were ordered to be melted, their metal used in other mint products. See full article <a href=\"https://www.coinnews.net/2020/03/30/ngc-certified-1945-silver-threepence-sells-for-62000/?utm_content=124006247&amp;utm_medium=social&amp;utm_source=facebook&amp;hss_channel=fbp-44821210086&amp;fbclid=IwAR2snOkWF6NK8ViXqfgxPXls8wG4TduFkO65u3_sTMfKxseXH7E0fOK5z9g\" rel=\"nofollow\">here</a>.",
+  "tags": [
+    "Flower",
+    "Cross"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "848"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "4085"
+    }
+  ],
+  "weight": 1.41,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

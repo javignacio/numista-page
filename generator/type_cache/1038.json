@@ -1,0 +1,115 @@
+{
+  "id": 1038,
+  "url": "https://en.numista.com/1038",
+  "title": "2 Øre - Frederik IX",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "danemark",
+    "name": "Denmark"
+  },
+  "min_year": 1948,
+  "max_year": 1972,
+  "ruler": [
+    {
+      "id": 2403,
+      "name": "Frederick IX",
+      "wikidata_id": "Q151312",
+      "group": {
+        "id": 104,
+        "name": "House of Schleswig-Holstein-Sonderburg-Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "2 Øre",
+    "numeric_value": 0.02,
+    "currency": {
+      "id": 13,
+      "name": "Krone",
+      "full_name": "Krone (1873-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1973-03-31"
+  },
+  "size": 20.8,
+  "thickness": 1.66,
+  "shape": "Round",
+  "composition": {
+    "text": "Zinc"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Crowned Frederik IX monogram (1899-1972)",
+    "lettering": "19  72\r\nFR \r\nIX",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/danemark/64d3e33c5d6803.19803335-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/64d3e33c5d6803.19803335-180.jpg",
+    "picture_copyright": "Elvi75"
+  },
+  "reverse": {
+    "description": "Value",
+    "lettering": "2 \r\nØRE\r\nDANMARK",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Denmark",
+    "picture": "https://en.numista.com/catalogue/photos/danemark/64d3e33d6b53d2.15418199-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/64d3e33d6b53d2.15418199-180.jpg",
+    "picture_copyright": "Elvi75"
+  },
+  "comments": "<p>Date variant on the 1959 coin<br><a href=\"https://en.numista.com/catalogue/images/560a89561166d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/560a89561166d.jpg\" alt=\"\"></a><br>Date variant on the 1961 coin</p><p><a href=\"https://en.numista.com/catalogue/images/69402f3711692.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/69402f3711692.jpg\"></a><br>Date variant 1964</p><p><a href=\"https://en.numista.com/catalogue/images/68f21f242722b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/68f21f242722b.jpg\"></a></p><p>&nbsp;</p><p>Date variant on the 1967 coin<br><a href=\"https://en.numista.com/catalogue/images/560a8b250c392.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/560a8b250c392.jpg\" alt=\"\"></a><br>1968 date variant</p><p><a href=\"https://en.numista.com/catalogue/images/69402e1e92a6b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/69402e1e92a6b.jpg\"></a>&nbsp;</p><p>&nbsp;</p><p>1948-1969: Normal zinc planchets.<br>&nbsp;1969-1972: Zinc planchets covered with vaporized silver.</p><p><a href=\"https://en.numista.com/catalogue/images/68865e1699e63.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/68865e1699e63.jpg\"></a></p><p><br>Date variant on the 1970 coin<br><a href=\"https://en.numista.com/catalogue/images/69402e35980cc.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/69402e35980cc.jpg\"></a><br>Date variant on the 1971 coin</p><p><a href=\"https://en.numista.com/catalogue/images/69402e71ae4b3.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/69402e71ae4b3.jpg\"></a></p>",
+  "tags": [
+    "Monogram"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "840"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "56"
+    },
+    {
+      "catalogue": {
+        "id": 2262,
+        "code": "DNF"
+      },
+      "number": "2.12-2.14"
+    }
+  ],
+  "weight": 3.2,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/danemark/616b159bc71d26.40579942-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/616b159bc71d26.40579942-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 260,
+      "name": "Royal Danish Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

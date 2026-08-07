@@ -1,0 +1,137 @@
+{
+  "id": 929,
+  "url": "https://en.numista.com/929",
+  "title": "5 Yen - Shōwa (Gothic style)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "japon",
+    "name": "Japan"
+  },
+  "min_year": 1959,
+  "max_year": 1989,
+  "ruler": [
+    {
+      "id": 335,
+      "name": "Shōwa",
+      "wikidata_id": "Q327567"
+    }
+  ],
+  "value": {
+    "text": "5 Yen",
+    "numeric_value": 5,
+    "currency": {
+      "id": 197,
+      "name": "Yen",
+      "full_name": "Yen (1871-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 22,
+  "thickness": 1.5,
+  "shape": "Round with a round hole",
+  "composition": {
+    "text": "Brass (60-70% Copper, 40-30% Zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Hole in center flanked by seed leaf, authority on top and date below.",
+    "lettering": "日 本 国\r\n昭和四十八年",
+    "lettering_translation": "State of Japan\r\nYear 48 of Shōwa",
+    "picture": "https://en.numista.com/catalogue/photos/japon/19-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/japon/19-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Large bending stalk of rice representing agriculture on top, water with value at the bottom representing fisheries, and teeth of a cog around the central hole representing industry.",
+    "lettering": "五円",
+    "lettering_translation": "5 yen",
+    "picture": "https://en.numista.com/catalogue/photos/japon/20-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/japon/20-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "related_types": [
+    {
+      "id": 97765,
+      "title": "5 Yen - Shōwa (Kaisho style)",
+      "category": "coin",
+      "country": {
+        "code": "japon",
+        "name": "Japan"
+      },
+      "minYear": 1949,
+      "maxYear": 1958
+    },
+    {
+      "id": 2676,
+      "title": "5 Yen - Heisei",
+      "category": "coin",
+      "country": {
+        "code": "japon",
+        "name": "Japan"
+      },
+      "minYear": 1989,
+      "maxYear": 2019
+    },
+    {
+      "id": 182977,
+      "title": "5 Yen - Reiwa",
+      "category": "coin",
+      "country": {
+        "code": "japon",
+        "name": "Japan"
+      },
+      "minYear": 2019,
+      "maxYear": 2026
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "72a"
+    },
+    {
+      "catalogue": {
+        "id": 3041,
+        "code": "JNDA"
+      },
+      "number": "02-12"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "53"
+    }
+  ],
+  "weight": 3.75,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/japon/67d38973db27f7.03092072-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/japon/67d38973db27f7.03092072-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 41,
+      "name": "Japan Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

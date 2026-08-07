@@ -1,0 +1,121 @@
+{
+  "id": 236581,
+  "url": "https://en.numista.com/236581",
+  "title": "25 Colones (2nd coat of arms; non-magnetic; smooth edge)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "costa_rica",
+    "name": "Costa Rica"
+  },
+  "issuing_entity": {
+    "id": 907,
+    "name": "Central Bank of Costa Rica",
+    "wikidata_id": "Q4504273"
+  },
+  "min_year": 2005,
+  "max_year": 2005,
+  "ruler": [
+    {
+      "id": 3834,
+      "name": "Second Republic",
+      "wikidata_id": "Q800"
+    }
+  ],
+  "value": {
+    "text": "25 Colones",
+    "numeric_value": 25,
+    "currency": {
+      "id": 10,
+      "name": "Colón",
+      "full_name": "Colón (1896-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false,
+    "demonetization_date": "2026-07-01"
+  },
+  "size": 25.5,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The arms of Costa Rica (seven stars representng the seven provinces, three smoking volcanoes for the three mountain ranges, two ships symbolizing the country's geographical situation between Atlantic and pacific ocean and sunrise on the left) with the date below.",
+    "lettering": "REPUBLICA DE COSTA RICA\r\nAMERICA CENTRAL\r\nREPUBLICA DE COSTA RICA\r\n2005",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Costa Rica\r\nCentral America\r\nRepublic of Costa Rica",
+    "picture": "https://en.numista.com/catalogue/photos/costa_rica/5f5b863c9400e6.70980850-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/costa_rica/5f5b863c9400e6.70980850-180.jpg",
+    "picture_copyright": "Global Coins",
+    "picture_copyright_url": "http://www.gcoins.net/"
+  },
+  "reverse": {
+    "description": "The value above coffee branches and initials at the bottom and the value in Braille.",
+    "lettering": "25\r\nCOLONES\r\n⠃⠑\r\nB.C.C.R.",
+    "lettering_scripts": [
+      {
+        "name": "Braille"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "25\r\nColones\r\n⠃⠑\r\nBanco Central de Costa Rica",
+    "lettering_translation": "25\r\nColones\r\n25\r\nCentral Bank of Costa Rica",
+    "picture": "https://en.numista.com/catalogue/photos/costa_rica/5f5b863cc13a03.34273605-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/costa_rica/5f5b863cc13a03.34273605-180.jpg",
+    "picture_copyright": "Global Coins",
+    "picture_copyright_url": "http://www.gcoins.net/"
+  },
+  "comments": "<p>Although these coins have been demonetized, they are still redeemable at the Central Bank of Costa Rica.</p>",
+  "related_types": [
+    {
+      "id": 6941,
+      "title": "25 Colones (2nd coat of arms; non-magnetic; segmented edge)",
+      "category": "coin",
+      "country": {
+        "code": "costa_rica",
+        "name": "Costa Rica"
+      },
+      "minYear": 2001,
+      "maxYear": 2003
+    }
+  ],
+  "tags": [
+    "Coat of Arms",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "229b"
+    }
+  ],
+  "weight": 7,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

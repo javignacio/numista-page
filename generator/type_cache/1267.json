@@ -1,0 +1,136 @@
+{
+  "id": 1267,
+  "url": "https://en.numista.com/1267",
+  "title": "1 Peseta - Juan Carlos I (Aluminium)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "espagne",
+    "name": "Spain"
+  },
+  "min_year": 1989,
+  "max_year": 2001,
+  "ruler": [
+    {
+      "id": 151,
+      "name": "Juan Carlos I",
+      "wikidata_id": "Q19943",
+      "group": {
+        "id": 44,
+        "name": "House of Bourbon"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Peseta",
+    "numeric_value": 1,
+    "currency": {
+      "id": 142,
+      "name": "Peseta",
+      "full_name": "Peseta (1868-2001)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2002-02-28"
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 14,
+  "thickness": 1.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium (96% aluminium, 3.5% magnesium, 0.5% manganese)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Luis Antonio García Ruiz"
+    ],
+    "description": "Head of King Juan Carlos I facing left on half coin left side, value and legend on right side.",
+    "lettering": "JUAN CARLOS I\r\n1 PESETA\r\nESPAÑA +",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Spain.",
+    "picture": "https://en.numista.com/catalogue/photos/espagne/223-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/223-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Luis Antonio García Ruiz"
+    ],
+    "description": "Crowned coat of arms of Spain with Pillars of Hercules.",
+    "lettering": "✦ 1998 ✦\r\nPLVS VLTRA\r\nM",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Further beyond.",
+    "picture": "https://en.numista.com/catalogue/photos/espagne/222-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/222-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "<p>This coin was popularly known as “lenteja” (lentil) due to its small size, necessitated by its low value. The design was created by the Royal Mint of Madrid's engraver, Luis Antonio García Ruiz, who splendidly resolved all the challenges encountered in including the necessary information in the limited space allowed by the coin.</p><p>1997 coin, plus or X different. Can be a different variant.<br><a href=\"https://en.numista.com/catalogue/images/68c508976a358.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/68c508976a358.jpg\"></a> &nbsp;&nbsp;<a href=\"https://en.numista.com/catalogue/images/68c508cd14ffe.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/68c508cd14ffe.jpg\"></a></p>",
+  "related_types": [
+    {
+      "id": 36418,
+      "title": "1 Peseta - Juan Carlos I (Silver)",
+      "category": "coin",
+      "country": {
+        "code": "espagne",
+        "name": "Spain"
+      },
+      "minYear": 2001,
+      "maxYear": 2001
+    }
+  ],
+  "tags": [
+    "Monarch",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "832"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "62"
+    }
+  ],
+  "weight": 0.55,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/espagne/615d6f54a30df3.95865827-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/615d6f54a30df3.95865827-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 24,
+      "name": "Royal Mint of Madrid"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

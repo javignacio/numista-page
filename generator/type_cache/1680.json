@@ -1,0 +1,112 @@
+{
+  "id": 1680,
+  "url": "https://en.numista.com/1680",
+  "title": "5 Piso",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "philippines",
+    "name": "Philippines"
+  },
+  "issuing_entity": {
+    "id": 492,
+    "name": "Central Bank of the Philippines",
+    "wikidata_id": "Q1853468"
+  },
+  "min_year": 1995,
+  "max_year": 2017,
+  "ruler": [
+    {
+      "id": 1639,
+      "name": "Republic",
+      "wikidata_id": "Q928"
+    }
+  ],
+  "value": {
+    "text": "5 Pesos",
+    "numeric_value": 5,
+    "currency": {
+      "id": 151,
+      "name": "Piso",
+      "full_name": "Piso (1967-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 27,
+  "thickness": 1.87,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Head of Emilio Aguinaldo facing right, value and date within scalloped border.",
+    "lettering": "REPUBLIKA NG PILIPINAS\r\n5 \r\nPISO\r\nEMILIO \r\nAGUINALDO\r\n2016",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of the Philippines.",
+    "picture": "https://en.numista.com/catalogue/photos/philippines/944-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/philippines/944-180.jpg",
+    "picture_copyright": "viorel.iosub"
+  },
+  "reverse": {
+    "description": "Central Bank seal within circle and gear design within scalloped border.",
+    "lettering": "BANGKO SENTRAL NG PILIPINAS\r\n1993",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Bank of the Philippines.",
+    "picture": "https://en.numista.com/catalogue/photos/philippines/67b3137f04b778.85602581-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/philippines/67b3137f04b778.85602581-180.jpg",
+    "picture_copyright": "viorel.iosub"
+  },
+  "series": "New Design Series",
+  "comments": "<p><br><a href=\"https://en.numista.com/catalogue/images/6540071984a49.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6540071984a49.jpg\" alt=\"\"></a><br><br>Coins with mintmark were struck in the Philippines. Coins without mintmark were struck in Canada by RCM in 1995, 1997 and 1998.<br><a href=\"https://en.numista.com/catalogue/images/625bf732c4ed6.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/625bf732c4ed6.jpg\" alt=\"\"></a> <a href=\"https://en.numista.com/catalogue/images/5c8a913929589.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5c8a913929589.jpg\" alt=\"\"></a><br><br>There are 4 main types of the reverse.<br><a href=\"https://en.numista.com/catalogue/images/62bcbd59d46f6.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/62bcbd59d46f6.jpg\" alt=\"\"></a>&nbsp;</p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/67b336f391b31.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67b336f391b31.jpg\"></a></p><p>This new coin discovered has no STARS on the three corners.&nbsp;<br>&nbsp;</p><p style=\"margin-left:0.0px;\">There is R3-Thin in 2013. See comparison:</p><p style=\"margin-left:0.0px;\"><a href=\"https://en.numista.com/catalogue/images/661106cd38682.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/661106cd38682.png\"></a><br>&nbsp;</p>",
+  "tags": [
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "272"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "120"
+    }
+  ],
+  "weight": 7.7,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    },
+    {
+      "id": 5198,
+      "name": "BSP Security Plant Complex"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

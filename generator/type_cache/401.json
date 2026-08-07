@@ -1,0 +1,123 @@
+{
+  "id": 401,
+  "url": "https://en.numista.com/401",
+  "title": "5 Cents - Elizabeth II (2nd portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "canada",
+    "name": "Canada"
+  },
+  "min_year": 1965,
+  "max_year": 1978,
+  "ruler": [
+    {
+      "id": 2095,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 827,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Cents",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 44,
+      "name": "Dollar",
+      "full_name": "Dollar (1858-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21.21,
+  "thickness": 1.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel (99.9% nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Arnold Machin"
+    ],
+    "description": "Bust of Queen Elizabeth II, as at 37 years of age, wearing tiara, facing right.",
+    "lettering": "ELIZABETH II  D·G·REGINA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "ELIZABETH II DEI GRATIA REGINA",
+    "lettering_translation": "Elizabeth II Queen by the grace of God",
+    "picture": "https://en.numista.com/catalogue/photos/canada/1116-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/1116-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "engravers": [
+      "Thomas Shingles"
+    ],
+    "designers": [
+      "George Kruger Gray"
+    ],
+    "description": "A North American Beaver (Binomial Name: Castor canadensis), above the country name, surrounded with the face value, flanked on both sides by a maple leaf",
+    "lettering": "5 CENTS\r\nCANADA\r\n1965\r\nK·G",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/canada/1117-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/1117-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "<p>“A new obverse with the Queen showing more mature facial features and wearing a diadem was introduced on all denominations in 1965. Two obverse dies were used in 1965, one with 138 pearls around the rim, the other with 119 pearls. To complicate matters further, the 138-pearl variety is the large-pearl variety, which in turn comes in two states, one in which the back jewel is slightly attached and a second where the jewel is detached.” - Standard Charlton catalog Volume I</p><p><a href=\"https://en.numista.com/catalogue/images/6751cdc5b1bfc.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6751cdc5b1bfc.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/6751cdd648ec7.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6751cdd648ec7.jpg\"></a></p><p>“In 1977, a die change resulted in new punches and therefore new dies creating a variety in the seven for that year. The seven vary in Canada spread and are also different in size.” - Standard Charlton Catalogue Volume I</p><p><a href=\"https://en.numista.com/catalogue/images/6751ce80446d8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6751ce80446d8.jpg\"></a></p>",
+  "tags": [
+    "Rodent"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "60.1"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "60"
+    }
+  ],
+  "weight": 4.54,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/canada/614e03cd5c10f2.00889175-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/614e03cd5c10f2.00889175-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 19,
+      "name": "Royal Canadian Mint of Ottawa"
+    },
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

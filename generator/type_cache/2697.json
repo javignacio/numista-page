@@ -1,0 +1,138 @@
+{
+  "id": 2697,
+  "url": "https://en.numista.com/2697",
+  "title": "5 Kobo",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "nigeria",
+    "name": "Nigeria"
+  },
+  "min_year": 1973,
+  "max_year": 1986,
+  "ruler": [
+    {
+      "id": 1081,
+      "name": "Federal Republic",
+      "wikidata_id": "Q1033"
+    }
+  ],
+  "value": {
+    "text": "5 Kobo",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 137,
+      "name": "Naira",
+      "full_name": "Naira (1973-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1973-01-00"
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1991-00-00"
+  },
+  "size": 20,
+  "thickness": 1.1,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Geoffrey Colley"
+    ],
+    "description": "Coat of arms of Nigeria, date below.",
+    "lettering": "FEDERAL REPUBLIC OF NIGERIA\r\nUNITY AND FAITH\r\n1973",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/nigeria/60c1cd3aacc104.26519127-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nigeria/60c1cd3aacc104.26519127-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Geoffrey Colley"
+    ],
+    "description": "Cocoa beans.",
+    "lettering": "5\r\nkobo",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/nigeria/60c1cd3b1ca250.84566570-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nigeria/60c1cd3b1ca250.84566570-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "KM#9.1/S#40: Unity and Faith<br /><br />\r\nKM#9.2/S#44: Unity and Faith, Peace and Progress<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5e739522e569d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e739522e569d.jpg\" alt=\"\" width=\"200\" height=\"201\" /></a><br /><br />\r\n<a href=\"https://en.wikipedia.org/wiki/Theobroma_cacao\" rel=\"nofollow\">https://en.wikipedia.org/wiki/Theobroma_cacao</a>",
+  "related_types": [
+    {
+      "id": 241190,
+      "title": "5 Kobo",
+      "category": "coin",
+      "country": {
+        "code": "nigeria",
+        "name": "Nigeria"
+      },
+      "minYear": 1987,
+      "maxYear": 1989
+    }
+  ],
+  "tags": [
+    "Eagle",
+    "Horse or equine",
+    "Fruit",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "9.1"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "40"
+    }
+  ],
+  "weight": 2.76,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/nigeria/5e97cf10a99fa9.14399036-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nigeria/5e97cf10a99fa9.14399036-180.jpg",
+    "picture_copyright": "Wilson Roberto Vasques Nunes"
+  },
+  "mints": [
+    {
+      "id": 1325,
+      "name": "Nigerian Security Printing and Minting Company Limited"
+    },
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

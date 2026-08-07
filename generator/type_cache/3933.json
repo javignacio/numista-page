@@ -1,0 +1,135 @@
+{
+  "id": 3933,
+  "url": "https://en.numista.com/3933",
+  "title": "20 Centavos (Type 1 National Emblem)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "mexique",
+    "name": "Mexico"
+  },
+  "min_year": 1943,
+  "max_year": 1955,
+  "ruler": [
+    {
+      "id": 4029,
+      "name": "United Mexican States/Mexican Republic",
+      "wikidata_id": "Q96"
+    }
+  ],
+  "value": {
+    "text": "20 Centavos",
+    "numeric_value": 0.2,
+    "currency": {
+      "id": 150,
+      "name": "Peso",
+      "full_name": "Peso (1863-1992)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 28.5,
+  "thickness": 2.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze (95% Copper, 5% Zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The Mexican coat of arms with a legend at the top supported by a wreath with a beaded rim",
+    "lettering": "ESTADOS UNIDOS MEXICANOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "United Mexican States",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/6403d258409ba6.43693409-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/6403d258409ba6.43693409-180.jpg",
+    "picture_copyright": "T0r",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "The value at the top with the radiant Liberty cap in between and the mintmark underneath, with the pyramid at the center motive along with landscape, consisting of the volcanoes Ixtaccihuatl and Popocatepetl in addition to many plants, with the value and date at the bottom. Teotihuacán (where the pyramid is located) written at the pyramid's base to the left.",
+    "lettering": "20\r\nMo\r\nTEOTIHUACÁN\r\nCENTAVOS\r\n1945",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "20 \r\nMo\r\nTEOTIHUACÁN\r\nCENTS\r\n1945",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/6403d259872b32.72160746-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/6403d259872b32.72160746-180.jpg",
+    "picture_copyright": "T0r",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/5dbc883e56783.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5dbc883e56783.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "related_types": [
+    {
+      "id": 959,
+      "title": "20 Centavos (Type 2 National Emblem)",
+      "category": "coin",
+      "country": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "minYear": 1955,
+      "maxYear": 1971
+    },
+    {
+      "id": 3471,
+      "title": "20 Centavos (Type 3 National Emblem)",
+      "category": "coin",
+      "country": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "minYear": 1971,
+      "maxYear": 1974
+    }
+  ],
+  "tags": [
+    "Phrygian cap"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "439"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "38"
+    }
+  ],
+  "weight": 10,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/627ead8b596069.75645349-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/627ead8b596069.75645349-180.jpg",
+    "picture_copyright": "Harryg",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 29,
+      "name": "Mexican Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

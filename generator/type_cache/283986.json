@@ -1,0 +1,116 @@
+{
+  "id": 283986,
+  "url": "https://en.numista.com/283986",
+  "title": "500 Yen - Reiwa",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "japon",
+    "name": "Japan"
+  },
+  "min_year": 2021,
+  "max_year": 2026,
+  "ruler": [
+    {
+      "id": 337,
+      "name": "Reiwa",
+      "wikidata_id": "Q62609017"
+    }
+  ],
+  "value": {
+    "text": "500 Yen",
+    "numeric_value": 500,
+    "currency": {
+      "id": 197,
+      "name": "Yen",
+      "full_name": "Yen (1871-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2021-11-01"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 26.5,
+  "thickness": 1.81,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: copper-nickel clad copper centre in nickel brass ring (75% Copper, 12.5% Zinc, 12.5% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Paulownia flowered branch in the center with issuer above, value below\r\nand micro lettering near the rim.",
+    "lettering": "Japan\r\n日 本 国\r\n500 YEN (x2)\r\n五 百 円\r\nJapan",
+    "lettering_translation": "State of Japan\r\nFive hundred yen",
+    "picture": "https://en.numista.com/catalogue/photos/japon/632542805c3998.32053104-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/japon/632542805c3998.32053104-180.jpg",
+    "picture_copyright": "kolleed"
+  },
+  "reverse": {
+    "description": "Large numerical value in center with latent images in zeros, flanked by\r\nTachibana oranges (Citrus reticulata tachibana), bamboo on top and date below.",
+    "lettering": "500\r\n500 YEN (x2)/JAPAN (x2)\r\n\r\n令 和 三 年",
+    "lettering_translation": "500\r\nYear 3 of Reiwa",
+    "picture": "https://en.numista.com/catalogue/photos/japon/63254281812e34.76214777-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/japon/63254281812e34.76214777-180.jpg",
+    "picture_copyright": "kolleed"
+  },
+  "comments": "See Quantity of Mint Sets and Proof Sets at <a href=\"https://en.numista.com/182978\">1 Yen</a> page.<br /><br />\r\nIssued on November 1st, 2021. It was planned to be issued in the early of 2021 but due to COVID-19 situation in Japan, preparation of vending machines and ATMs were delayed. On January 22nd 2021 the Ministry of Finance announced that the release will be postponed. On April 27th 2021, it was announced that the coin was to be issued in November. The production of the coins began on June 21st.<br /><br />\r\nSecurity feature &quot;500 円 and JAPAN&quot; inside the 0&#039;s when held at angle<br />\r\n<img src=\"https://en.numista.com/catalogue/images/61bf55cfed666.png\" alt=\"\" width=\"162\" height=\"230\" /><br />\r\n<a href=\"https://www.boj.or.jp/en/note_tfjgs/note/valid/issue.htm/\" rel=\"nofollow\">©Bank of Japan</a>",
+  "related_types": [
+    {
+      "id": 173795,
+      "title": "500 Yen - Reiwa",
+      "category": "coin",
+      "country": {
+        "code": "japon",
+        "name": "Japan"
+      },
+      "minYear": 2019,
+      "maxYear": 2021
+    }
+  ],
+  "tags": [
+    "Flower",
+    "Fruit",
+    "Latent image"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "293a"
+    },
+    {
+      "catalogue": {
+        "id": 3041,
+        "code": "JNDA"
+      },
+      "number": "02-1B"
+    }
+  ],
+  "weight": 7.1,
+  "orientation": "medal",
+  "edge": {
+    "description": "Slanted reeding with two different pitches",
+    "picture": "https://en.numista.com/catalogue/photos/japon/6185f6ffe1a6c3.94429088-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/japon/6185f6ffe1a6c3.94429088-180.jpg",
+    "picture_copyright": "coinKH",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 41,
+      "name": "Japan Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

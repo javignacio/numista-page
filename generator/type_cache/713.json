@@ -1,0 +1,109 @@
+{
+  "id": 713,
+  "url": "https://en.numista.com/713",
+  "title": "1000 Lire (European Union; Reunited Germany Map)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "italie",
+    "name": "Italy"
+  },
+  "min_year": 1997,
+  "max_year": 2001,
+  "ruler": [
+    {
+      "id": 1164,
+      "name": "Republic",
+      "wikidata_id": "Q38"
+    }
+  ],
+  "value": {
+    "text": "1000 Lire",
+    "numeric_value": 1000,
+    "currency": {
+      "id": 112,
+      "name": "Lira",
+      "full_name": "Lira (1861-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2002-02-28"
+  },
+  "size": 27,
+  "thickness": 2.1,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: copper-nickel centre in bronzital ring"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Laura Cretara"
+    ],
+    "description": "In the central disc female head with towered crown facing left, hair swathed in fabric. Only the crown is outside the disc. In outer ring the legend and twelve stars (dividing the legend: six above the head and six below the neck) representing the State members of the EU. Name of the author below the neck.",
+    "lettering": "REPVBBLICA  ******  ITALIANA ******\r\nL.CRETARA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Italian Republic\r\nL.Creatara",
+    "picture": "https://en.numista.com/catalogue/photos/italie/5faacfb799ca91.13786578-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/italie/5faacfb799ca91.13786578-180.jpg"
+  },
+  "reverse": {
+    "engravers": [
+      "Uliana Pernazza"
+    ],
+    "description": "A portion of the globe centered on Europe with thick meridian and parallels outlined. In the inner disc five folded papers are above the map around the border, creating a window in shape of a five-pointed star above the Europe. In the outer ring are the value below, with name of the author right above it, but in the disc. The date is vertical on the left, while the mintmark is at right.",
+    "lettering": "1\r\n9\r\n9\r\n8 R \r\nPERNAZZA\r\nL.1000",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/italie/5faacfb81ca8f7.40910047-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/italie/5faacfb81ca8f7.40910047-180.jpg"
+  },
+  "comments": "This is the second version of the coin of 1000 lire, and have corrected political and geographical boundaries in Europe.<br />\r\nIt&#039;s also the first coin which coinage is ceased due to the incoming introduction of Euro<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5dc83f33d2858.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5dc83f33d2858.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "tags": [
+    "Map"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "194"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "193.2"
+    }
+  ],
+  "weight": 8.8,
+  "orientation": "coin",
+  "edge": {
+    "description": "Alternating smooth and milled sections",
+    "picture": "https://en.numista.com/catalogue/photos/italie/1062-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/italie/1062-180.jpg",
+    "picture_copyright": "ZacUK"
+  },
+  "mints": [
+    {
+      "id": 22,
+      "name": "Rome"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

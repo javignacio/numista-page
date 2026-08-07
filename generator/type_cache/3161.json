@@ -1,0 +1,124 @@
+{
+  "id": 3161,
+  "url": "https://en.numista.com/3161",
+  "title": "25 Cents - Elizabeth II",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bahamas",
+    "name": "Bahamas, The"
+  },
+  "min_year": 1966,
+  "max_year": 1970,
+  "ruler": [
+    {
+      "id": 952,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 797,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "25 Cents",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 39,
+      "name": "Dollar",
+      "full_name": "Dollar (1966-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24.26,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel (100%)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Arnold Machin"
+    ],
+    "description": "The bust of Queen Elizabeth II turned to the right",
+    "lettering": "ELIZABETH II BAHAMA ISLAND",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bahamas/68e998fa0e1ba0.67958876-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bahamas/68e998fa0e1ba0.67958876-180.jpg",
+    "picture_copyright": "richard_mushinggun",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Arnold Machin"
+    ],
+    "description": "A Bahamian sailboat with the denomination and date around the rim above",
+    "lettering": "TWENTYFIVE CENTS\r\n1970",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bahamas/68e998fac21862.99639761-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bahamas/68e998fac21862.99639761-180.jpg",
+    "picture_copyright": "richard_mushinggun",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "comments": "Of the coins dated 1966: 936,000 were minted in 1966, 350,000 were minted in 1967, 200,000 were minted in 1968, and 1,973,880 were minted in 1969. All were minted in London.",
+  "tags": [
+    "Monarch",
+    "Boat or watercraft",
+    "Crown"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "6"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "5"
+    }
+  ],
+  "weight": 6.9,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 1319,
+      "name": "Franklin Mint"
+    },
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    },
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

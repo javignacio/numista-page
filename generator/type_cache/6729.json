@@ -1,0 +1,101 @@
+{
+  "id": 6729,
+  "url": "https://en.numista.com/6729",
+  "title": "50 Cruzeiros",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bresil",
+    "name": "Brazil"
+  },
+  "min_year": 1990,
+  "max_year": 1992,
+  "ruler": [
+    {
+      "id": 2684,
+      "name": "Federative Republic of Brazil",
+      "wikidata_id": "Q155"
+    }
+  ],
+  "value": {
+    "text": "50 Cruzeiros",
+    "numeric_value": 50,
+    "currency": {
+      "id": 209,
+      "name": "Cruzeiro",
+      "full_name": "Cruzeiro (1990-1993)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1993-00-00"
+  },
+  "size": 23.5,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Outlined denomination.",
+    "lettering": "50 \r\nCRUZEIROS\r\nBRASIL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bresil/695bac0d7f33d1.62612679-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/695bac0d7f33d1.62612679-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "reverse": {
+    "description": "Market Woman from Bahia, fish below.",
+    "lettering": "1991",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bresil/695bac0ed2c824.42245130-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/695bac0ed2c824.42245130-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "tags": [
+    "Fish"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "620"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "129"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "129a"
+    }
+  ],
+  "weight": 4.6,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,109 @@
+{
+  "id": 2689,
+  "url": "https://en.numista.com/2689",
+  "title": "10 Pesos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "chili",
+    "name": "Chile"
+  },
+  "min_year": 1976,
+  "max_year": 1980,
+  "ruler": [
+    {
+      "id": 3299,
+      "name": "Republic",
+      "wikidata_id": "Q298"
+    }
+  ],
+  "value": {
+    "text": "10 Pesos",
+    "numeric_value": 10,
+    "currency": {
+      "id": 146,
+      "name": "Peso",
+      "full_name": "Peso (1975-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 28,
+  "thickness": 1.65,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass (70% Copper; 15% Nickel; 15% Zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "\"Chilena\" as a female angel with arms raised wearing broken shackles chains representing the overthrow of the government of Marxist President Salvador Allende.\r\nDate of the military coup in 1973.",
+    "lettering": "REPUBLICA DE CHILE\r\n11-IX 1973\r\nSo\r\nLIBERTAD",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chili/1117-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/1117-180.jpg",
+    "picture_copyright": "Quodlibet"
+  },
+  "reverse": {
+    "description": "Value and date within laurel wreath.",
+    "lettering": "10\r\nPESOS\r\n1980",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chili/1118-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/1118-180.jpg",
+    "picture_copyright": "Quodlibet"
+  },
+  "related_types": [
+    {
+      "id": 2842,
+      "title": "10 Pesos",
+      "category": "coin",
+      "country": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "minYear": 1981,
+      "maxYear": 1990
+    }
+  ],
+  "tags": [
+    "Allegory",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "210"
+    }
+  ],
+  "weight": 9,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded.",
+    "picture": "https://en.numista.com/catalogue/photos/chili/6521d0f0c741c7.94879424-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/6521d0f0c741c7.94879424-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

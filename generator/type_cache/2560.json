@@ -1,0 +1,94 @@
+{
+  "id": 2560,
+  "url": "https://en.numista.com/2560",
+  "title": "20 Escudos (Sailing ship \"Novas de Alegria\")",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "cap-vert",
+    "name": "Cape Verde"
+  },
+  "min_year": 1994,
+  "max_year": 1994,
+  "ruler": [
+    {
+      "id": 4333,
+      "name": "Republic",
+      "wikidata_id": "Q1011"
+    }
+  ],
+  "value": {
+    "text": "20 Escudos",
+    "numeric_value": 20,
+    "currency": {
+      "id": 1573,
+      "name": "Escudo",
+      "full_name": "Escudo (1914-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The national emblem of Cape Verde, date divided below, denomination at the bottom",
+    "lettering": "REPÚBLICA DE CABO VERDE\r\n19 94\r\n20\r\nESCUDOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Cape Verde\r\n1994\r\n20\r\nEscudos",
+    "picture": "https://en.numista.com/catalogue/photos/cap-vert/263-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/cap-vert/263-180.jpg",
+    "picture_copyright": "Chilian"
+  },
+  "reverse": {
+    "description": "The sailing ship \"Novas de Alegria\" at sea",
+    "lettering": "NOVAS DE ALEGRIA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/cap-vert/264-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/cap-vert/264-180.jpg",
+    "picture_copyright": "Chilian"
+  },
+  "series": "Ships sailing under Cabo Verde Flag Series",
+  "commemorated_topic": "Sailing ship \"Novas de Alegria\"",
+  "tags": [
+    "Boat or watercraft"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "42"
+    }
+  ],
+  "weight": 5.9,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

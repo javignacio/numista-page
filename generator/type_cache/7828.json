@@ -1,0 +1,113 @@
+{
+  "id": 7828,
+  "url": "https://en.numista.com/7828",
+  "title": "50 Markkaa",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "finlande",
+    "name": "Finland"
+  },
+  "min_year": 1952,
+  "max_year": 1962,
+  "ruler": [
+    {
+      "id": 3291,
+      "name": "Republic",
+      "wikidata_id": "Q33"
+    }
+  ],
+  "value": {
+    "text": "50 Markkaa",
+    "numeric_value": 50,
+    "currency": {
+      "id": 1156,
+      "name": "Markka",
+      "full_name": "Markka (1860-1963)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 25,
+  "thickness": 1.9,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze (93% Copper, 3% Aluminium, 2% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Peippo Uolevi Helle"
+    ],
+    "description": "Rampant lion left with sword on sabre within circle, date below, H under sabre hilt.",
+    "lettering": "SUOMEN TASAVALTA\r\nH\r\n1953",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic Of Finland\r\nH\r\n1953",
+    "picture": "https://en.numista.com/catalogue/photos/finlande/1583-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/1583-180.jpg",
+    "picture_copyright": "gef"
+  },
+  "reverse": {
+    "engravers": [
+      "Peippo Uolevi Helle"
+    ],
+    "description": "Pine tree right of denomination in two lines.",
+    "lettering": "50\r\nMARKKAA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/finlande/1584-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/1584-180.jpg",
+    "picture_copyright": "gef"
+  },
+  "comments": "<p><i>Reverse</i><br>Die <strong>A</strong> - 3 beads under M of MARKKAA, long dry branch at the top right of the tree, top part of semicircle in numeral 5 with short nose.<br>Picture: © Images courtesy of Alexandr Prokofyev.<br><a href=\"https://en.numista.com/catalogue/images/62083ae0816da.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/62083ae0816da.jpg\" alt=\"\"></a><br><br>Die <strong>B</strong> - 2 beads under M of MARKKAA, short dry branch at the top right of the tree, top part of semicircle in numeral 5 with sharp longer nose.</p><p>Picture: © Images courtesy of Alexandr Prokofyev.<br><a href=\"https://en.numista.com/catalogue/images/660869e2a7b1f.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/660869e2a7b1f.jpg\"></a><br><i>Combinations</i><br><strong>A</strong>: 1952-1956, 1958, 1960-1962.<br><strong>B</strong>: 1953, 1954.</p>",
+  "tags": [
+    "Cat or feline",
+    "Flower",
+    "Tree",
+    "Coat of Arms",
+    "Cold weapons"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "40"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "43"
+    }
+  ],
+  "weight": 5.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/finlande/614d9e30481ff5.65559136-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/614d9e30481ff5.65559136-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 1333,
+      "name": "Mint of Finland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

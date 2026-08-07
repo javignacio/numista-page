@@ -1,0 +1,123 @@
+{
+  "id": 57873,
+  "url": "https://en.numista.com/57873",
+  "title": "1 Pula",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "botswana",
+    "name": "Botswana"
+  },
+  "min_year": 2013,
+  "max_year": 2022,
+  "ruler": [
+    {
+      "id": 934,
+      "name": "Republic",
+      "wikidata_id": "Q963"
+    }
+  ],
+  "value": {
+    "text": "1 Pula",
+    "numeric_value": 1,
+    "currency": {
+      "id": 154,
+      "name": "Pula",
+      "full_name": "Pula (1976-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2014-02-28"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 26,
+  "thickness": 2.3,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of Arms",
+    "lettering": "BOTSWANA\r\nPULA\r\n2013\r\nIPELEGENG",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/botswana/246-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/botswana/246-180.jpg",
+    "picture_copyright": "Ponpandi Perumal",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "A zebra running to left, trees in background",
+    "lettering": "1\r\nPULA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/botswana/247-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/botswana/247-180.jpg",
+    "picture_copyright": "Ponpandi Perumal",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "What does the word &quot;<span style=\"font-weight:bold;\">Pula</span>&quot; mean? Pula literally means &quot;rain&quot; in Tswana language, because rain is very scarce in Botswana (most of the surface of Kalahari Desert is situated here) and therefore valuable and a blessing. The word also is the national motto of the country.<br /><br />\r\nWhat does the word &quot;<span style=\"font-weight:bold;\">Ipelegeng</span>&quot; mean? The word &quot;Ipelegeng&quot; literally means &quot;to carry your own weight&quot; or &quot;to be self sufficient or independent&quot;, in general has got different meanings in Tswana language. Ipelegeng is also a South African city and a Botswana program created for reducing the poverty in the country.",
+  "related_types": [
+    {
+      "id": 3232,
+      "title": "1 Pula",
+      "category": "coin",
+      "country": {
+        "code": "botswana",
+        "name": "Botswana"
+      },
+      "minYear": 1991,
+      "maxYear": 2007
+    }
+  ],
+  "tags": [
+    "Horse or equine",
+    "Tree",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "35"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "36"
+    }
+  ],
+  "weight": 7.8,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

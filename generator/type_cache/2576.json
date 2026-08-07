@@ -1,0 +1,116 @@
+{
+  "id": 2576,
+  "url": "https://en.numista.com/2576",
+  "title": "5 Cruzeiros",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bresil",
+    "name": "Brazil"
+  },
+  "min_year": 1980,
+  "max_year": 1984,
+  "ruler": [
+    {
+      "id": 2684,
+      "name": "Federative Republic of Brazil",
+      "wikidata_id": "Q155"
+    }
+  ],
+  "value": {
+    "text": "5 Cruzeiros",
+    "numeric_value": 5,
+    "currency": {
+      "id": 206,
+      "name": "Cruzeiro novo",
+      "full_name": "Cruzeiro novo (1967-1986)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1986-02-27"
+  },
+  "size": 22,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "A coffee plant, a plowed plot behind and the country name to the top-left",
+    "lettering": "BRASIL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Brazil",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/441-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/441-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Date flanked by coffee beans, and the value in front of a background of wavy lines",
+    "lettering": "5 \r\nCRUZEIROS\r\n1980",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bresil/443-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/443-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "tags": [
+    "Agriculture",
+    "FAO"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "591"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "100"
+    },
+    {
+      "catalogue": {
+        "id": 1678,
+        "code": "Bentes"
+      },
+      "number": "756"
+    }
+  ],
+  "weight": 4.56,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/651a2a6600a2a6.45503948-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/651a2a6600a2a6.45503948-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 1335,
+      "name": "Mint of Brazil"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,120 @@
+{
+  "id": 3866,
+  "url": "https://en.numista.com/3866",
+  "title": "10 Pence - Elizabeth II (Europort; head with tiara)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "gibraltar",
+    "name": "Gibraltar"
+  },
+  "min_year": 1998,
+  "max_year": 2003,
+  "ruler": [
+    {
+      "id": 2999,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 831,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Pence",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 119,
+      "name": "Pound",
+      "full_name": "Pound (decimalized, 1971-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24.5,
+  "thickness": 1.85,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Ian Rank-Broadley"
+    ],
+    "description": "Right facing head of Queen Elizabeth II, wearing the \" Girls of Great Britain and Ireland \" Tiara, legend and date around",
+    "lettering": "GIBRALTAR ELIZABETH II\r\n2003\r\nIRB",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/gibraltar/196-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/gibraltar/196-180.jpg",
+    "picture_copyright": "Ma collection de monnaies",
+    "picture_copyright_url": "https://monnaiesetvarietes.numista.com/"
+  },
+  "reverse": {
+    "description": "View to Europort; the Rock in the background",
+    "lettering": "EURO 10 PORT\r\nAA\r\nPM",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/gibraltar/197-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/gibraltar/197-180.jpg",
+    "picture_copyright": "Ma collection de monnaies",
+    "picture_copyright_url": "https://monnaiesetvarietes.numista.com/"
+  },
+  "comments": "In 2000 the Pobjoy Mint used PMM instead of PM to celebrate the Millennium.<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5cfcf28610ebd.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5cfcf28610ebd.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "related_types": [
+    {
+      "id": 2989,
+      "title": "10 Pence - Elizabeth II (Europort)",
+      "category": "coin",
+      "country": {
+        "code": "gibraltar",
+        "name": "Gibraltar"
+      },
+      "minYear": 1992,
+      "maxYear": 1997
+    }
+  ],
+  "tags": [
+    "Other building",
+    "Mountain"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "776"
+    }
+  ],
+  "weight": 6.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 26,
+      "name": "Pobjoy Mint"
+    },
+    {
+      "id": 26,
+      "name": "Pobjoy Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

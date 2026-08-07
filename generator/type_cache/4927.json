@@ -1,0 +1,121 @@
+{
+  "id": 4927,
+  "url": "https://en.numista.com/4927",
+  "title": "1 Krone - Christian X",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "danemark",
+    "name": "Denmark"
+  },
+  "min_year": 1942,
+  "max_year": 1947,
+  "ruler": [
+    {
+      "id": 2402,
+      "name": "Christian X",
+      "wikidata_id": "Q156617",
+      "group": {
+        "id": 104,
+        "name": "House of Schleswig-Holstein-Sonderburg-Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Krone",
+    "numeric_value": 1,
+    "currency": {
+      "id": 13,
+      "name": "Krone",
+      "full_name": "Krone (1873-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25.5,
+  "thickness": 1.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze (92% Copper, 6% Aluminium, 2% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Bust of Christian X facing right, mint official and moneyer initials at the bottom.",
+    "lettering": "CHRISTIAN X KONGE AF DANMARK\r\nN♥S",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Christian X King of Denmark\r\nN♥S",
+    "picture": "https://en.numista.com/catalogue/photos/danemark/390-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/390-180.jpg"
+  },
+  "reverse": {
+    "description": "The value in two lines divided by wheat and oat with date.",
+    "lettering": "1\r\n1947\r\nKRONE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/danemark/391-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/391-180.jpg"
+  },
+  "comments": "<p><u>1945</u><br>Two types are known.&nbsp;<br><i>Reverse</i><br>Die <strong>A</strong> - \"5\" in date higher.<br>Die <strong>B</strong> - \"5\" in date lower.<br>Picture: © Images courtesy of Alexandr Prokofyev.</p><p><a href=\"https://en.numista.com/catalogue/images/66fdad901cabb.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/66fdad901cabb.jpg\"></a></p>",
+  "related_types": [
+    {
+      "id": 1414,
+      "title": "1 Krone - Frederik IX",
+      "category": "coin",
+      "country": {
+        "code": "danemark",
+        "name": "Denmark"
+      },
+      "minYear": 1947,
+      "maxYear": 1960
+    }
+  ],
+  "tags": [
+    "Monarch"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "835"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "53"
+    }
+  ],
+  "weight": 6.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/danemark/1784-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/1784-180.jpg",
+    "picture_copyright": "jasanche",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 260,
+      "name": "Royal Danish Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

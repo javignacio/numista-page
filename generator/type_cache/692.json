@@ -1,0 +1,138 @@
+{
+  "id": 692,
+  "url": "https://en.numista.com/692",
+  "title": "50 Centimes",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "france",
+    "name": "France"
+  },
+  "min_year": 1962,
+  "max_year": 1964,
+  "ruler": [
+    {
+      "id": 11,
+      "name": "Fifth Republic",
+      "wikidata_id": "Q200686",
+      "group": {
+        "id": 89,
+        "name": "Modern France"
+      }
+    }
+  ],
+  "value": {
+    "text": "50 Centimes",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 77,
+      "name": "New franc",
+      "full_name": "New franc (1960-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1965-11-01"
+  },
+  "size": 24.95,
+  "thickness": 2.15,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-aluminium-nickel (92% Copper, 6% Aluminium, 2% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Henri Lagriffoul"
+    ],
+    "description": "The bust of Marianne wearing a Phrygian cap facing left",
+    "lettering": "REPUBLIQUE FRANÇAISE\r\nLAGRIFFOUL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "French Republic",
+    "picture": "https://en.numista.com/catalogue/photos/france/10499-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/10499-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Adrien Dieudonné"
+    ],
+    "description": "Value in centre, with plant on left and wheat to right",
+    "lettering": "LIBERTE·EGALITE\r\n·FRATERNITE·\r\nA.DIEUDONNE\r\n50\r\nCENTIMES\r\n1964",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Liberty Equality\r\nBrotherhood",
+    "picture": "https://en.numista.com/catalogue/photos/france/10500-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/10500-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "series": "50 centimes Marianne",
+  "comments": "<p>Trial Strike<br><a href=\"https://en.numista.com/catalogue/images/5cc6bf1f08fb3.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5cc6bf1f08fb3.jpg\" alt=\"\"></a><br>Source : CGB&amp;Eagle68<br><br>3 and 4 folds<br><a href=\"https://en.numista.com/catalogue/images/5e6a59a9dff50.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e6a59a9dff50.jpg\" alt=\"\"></a></p>",
+  "tags": [
+    "Allegory",
+    "Phrygian cap"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 34,
+        "code": "Franc 2014"
+      },
+      "number": "197"
+    },
+    {
+      "catalogue": {
+        "id": 109,
+        "code": "Gad 1789"
+      },
+      "number": "427"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "939"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "231"
+    }
+  ],
+  "weight": 7,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/france/11614-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/11614-180.jpg",
+    "picture_copyright": "Eagle68",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

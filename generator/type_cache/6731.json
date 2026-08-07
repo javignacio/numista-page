@@ -1,0 +1,168 @@
+{
+  "id": 6731,
+  "url": "https://en.numista.com/6731",
+  "title": "1 Cent \"Lincoln Cent\" (Birth and Early Childhood)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "etats-unis",
+    "name": "United States"
+  },
+  "min_year": 2009,
+  "max_year": 2009,
+  "ruler": [
+    {
+      "id": 4720,
+      "name": "Federal republic",
+      "wikidata_id": "Q30"
+    }
+  ],
+  "value": {
+    "text": "1 Cent",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 59,
+      "name": "Dollar",
+      "full_name": "Dollar (1785-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 19.05,
+  "thickness": 1.55,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper plated zinc"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Victor David Brenner"
+    ],
+    "description": "Right facing portrait of President Abraham Lincoln (1809-1865)",
+    "lettering": "IN GOD WE TRUST\r\nLIBERTY\r\n2009 D\r\nVDB",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/69246e5c968a82.34574681-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/69246e5c968a82.34574681-180.jpg",
+    "picture_copyright": "shoebox911",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Jim Licaretz"
+    ],
+    "designers": [
+      "Richard Masters"
+    ],
+    "description": "Log Cabin with the birth year of Lincoln (1809) below",
+    "lettering": "UNITED STATES OF AMERICA\r\nRM JL\r\nE PLURIBUS UNUM\r\n1809\r\nONE CENT",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Out of Many, One",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/69246e5dbfd389.91630168-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/69246e5dbfd389.91630168-180.jpg",
+    "picture_copyright": "shoebox911",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "series": "Lincoln's 200th birthday Series",
+  "commemorated_topic": "Birth and Early Childhood",
+  "related_types": [
+    {
+      "id": 335658,
+      "title": "1 Cent \"Lincoln Cent\" (Birth and Early Childhood - Bronze)",
+      "category": "coin",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 2009,
+      "maxYear": 2009
+    },
+    {
+      "id": 7214,
+      "title": "1 Cent \"Lincoln Cent\" (Formative Years)",
+      "category": "coin",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 2009,
+      "maxYear": 2009
+    },
+    {
+      "id": 7579,
+      "title": "1 Cent \"Lincoln Cent\" (Professional Life)",
+      "category": "coin",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 2009,
+      "maxYear": 2009
+    },
+    {
+      "id": 7580,
+      "title": "1 Cent \"Lincoln Cent\" (Presidency)",
+      "category": "coin",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 2009,
+      "maxYear": 2009
+    }
+  ],
+  "tags": [
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "441"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "439"
+    }
+  ],
+  "weight": 2.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/3156-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/3156-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    },
+    {
+      "id": 10,
+      "name": "United States Mint of Denver"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

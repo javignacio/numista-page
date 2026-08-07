@@ -1,0 +1,138 @@
+{
+  "id": 431473,
+  "url": "https://en.numista.com/431473",
+  "title": "1 Bolívar (magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "venezuela",
+    "name": "Venezuela"
+  },
+  "min_year": 2012,
+  "max_year": 2012,
+  "ruler": [
+    {
+      "id": 4707,
+      "name": "Bolivarian Republic",
+      "wikidata_id": "Q717"
+    }
+  ],
+  "value": {
+    "text": "1 Bolivar",
+    "numeric_value": 1,
+    "currency": {
+      "id": 274,
+      "name": "Bolivar Fuerte",
+      "full_name": "Bolivar Fuerte (2008-2018)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2018-12-03"
+  },
+  "size": 24,
+  "thickness": 2.54,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: nickel plated steel centre in brass plated steel ring"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Small coat of arms sharing center with value and eight stars. With legend around and date at bottom. With horizontal waves on background.",
+    "lettering": "• REPÚBLICA BOLIVARIANA DE VENEZUELA •\r\n★★★★★★★★\r\n1\r\nBOLÍVAR\r\n2012",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Bolivarian Republic of Venezuela",
+    "picture": "https://en.numista.com/catalogue/photos/venezuela/66d5db84d06a65.43427268-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/venezuela/66d5db84d06a65.43427268-180.jpg",
+    "picture_copyright": "DMK Collection",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Bust left with mint mark at right and engraver's name at base. With legend on outer circle. With horizontal waves on background.\r\nCasa de Moneda de Venezuela - Maracay Logo",
+    "lettering": "BOLÍVAR LIBERTADOR\r\nBARRE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Bolivar Liberator",
+    "picture": "https://en.numista.com/catalogue/photos/venezuela/66d5db85208042.90084342-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/venezuela/66d5db85208042.90084342-180.jpg",
+    "picture_copyright": "DMK Collection",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "<p>Note: SCWC and Catálogo Numismático de Venezuela lists this coin and being Bimetallic: copper-nickel center in aluminium bronze ring (i.e. non-magnetic). It is not.</p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/66d4988c49a1b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/66d4988c49a1b.jpg\"></a></p><p><br>Edge Comparison 2007 (top) &amp; 2012 (bottom):</p><p>&nbsp;</p><p><strong><a href=\"https://en.numista.com/catalogue/images/66008ab710394.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/66008ab710394.jpg\"></a></strong></p>",
+  "related_types": [
+    {
+      "id": 4540,
+      "title": "1 Bolívar",
+      "category": "coin",
+      "country": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "minYear": 2007,
+      "maxYear": 2009
+    }
+  ],
+  "tags": [
+    "Horse or equine",
+    "Military leader",
+    "Politician",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "93"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "106"
+    },
+    {
+      "catalogue": {
+        "id": 2068,
+        "code": "NCV"
+      },
+      "number": "mv1bsf-aa"
+    }
+  ],
+  "weight": 8.04,
+  "orientation": "coin",
+  "edge": {
+    "description": "Smooth with inscription: value three times upright, three times inverted",
+    "lettering": "BCV1 1ΛƆB BCV1 1ΛƆB BCV1 1ΛƆB",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Banco Central de Venezuela",
+    "lettering_translation": "Venezuela Central Bank"
+  },
+  "mints": [
+    {
+      "id": 4182,
+      "name": "Casa de la Moneda de Venezuela"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,143 @@
+{
+  "id": 2937,
+  "url": "https://en.numista.com/2937",
+  "title": "25 Cents",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "antilles_neerlandaises",
+    "name": "Netherlands Antilles"
+  },
+  "min_year": 1989,
+  "max_year": 2023,
+  "ruler": [
+    {
+      "id": 4126,
+      "name": "Beatrix",
+      "wikidata_id": "Q29574",
+      "group": {
+        "id": 277,
+        "name": "House of Orange-Nassau"
+      }
+    },
+    {
+      "id": 4127,
+      "name": "Willem-Alexander",
+      "wikidata_id": "Q154952",
+      "group": {
+        "id": 277,
+        "name": "House of Orange-Nassau"
+      }
+    }
+  ],
+  "value": {
+    "text": "25 Cents",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 68,
+      "name": "Gulden",
+      "full_name": "Gulden (1828-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2025-03-31"
+  },
+  "size": 20.18,
+  "thickness": 1.65,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Orange blossom within circle\r\nNOTE: different privy marks.",
+    "lettering": "NEDERLANDSE ANTILLEN",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Netherlands Antilles",
+    "picture": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/704-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/704-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "description": "Face value within pearled circle, four shells surrounding connected with 5 dots.",
+    "lettering": "25\r\nc\r\n2014",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "5 cent",
+    "picture": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/705-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/705-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "related_types": [
+    {
+      "id": 7662,
+      "title": "¼ Gulden - Juliana",
+      "category": "coin",
+      "country": {
+        "code": "antilles_neerlandaises",
+        "name": "Netherlands Antilles"
+      },
+      "minYear": 1954,
+      "maxYear": 1970
+    },
+    {
+      "id": 2936,
+      "title": "25 Cents",
+      "category": "coin",
+      "country": {
+        "code": "antilles_neerlandaises",
+        "name": "Netherlands Antilles"
+      },
+      "minYear": 1970,
+      "maxYear": 1985
+    }
+  ],
+  "tags": [
+    "Shell",
+    "Fruit"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "35"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "75"
+    }
+  ],
+  "weight": 3.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/65e7f3ff1f2360.74491431-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/65e7f3ff1f2360.74491431-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 23,
+      "name": "Royal Dutch Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

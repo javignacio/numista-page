@@ -1,0 +1,187 @@
+{
+  "id": 251,
+  "url": "https://en.numista.com/251",
+  "title": "1 Franc - Charlotte (small Type)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "luxembourg",
+    "name": "Luxembourg"
+  },
+  "min_year": 1952,
+  "max_year": 1964,
+  "ruler": [
+    {
+      "id": 1578,
+      "name": "Charlotte",
+      "wikidata_id": "Q155608",
+      "group": {
+        "id": 129,
+        "name": "Grand Duchy of Luxembourg"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Franc",
+    "numeric_value": 1,
+    "currency": {
+      "id": 79,
+      "name": "Franc",
+      "full_name": "Franc (1854-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1991-09-01"
+  },
+  "size": 21,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Armand Bonnetain"
+    ],
+    "description": "A puddler (Feierstëppler) at work, in the background the blast furnaces, above the name of the country in Luxembourg, mintage year at the bottom, initials of the engraver at 8 o'clock.",
+    "lettering": "LETZEBURG\r\nA.B.\r\n1957",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Luxembourg",
+    "picture": "https://en.numista.com/catalogue/photos/luxembourg/62542fd5d49e73.42461848-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/luxembourg/62542fd5d49e73.42461848-180.jpg",
+    "picture_copyright": "smy77",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Armand Bonnetain"
+    ],
+    "description": "Crowned monogram of Charlotte (1896-1985), Grand Duchess of Luxembourg from 1919 to 1964, with both sides of the face value. Below two branches of rosebush and the initials of the engraver.",
+    "lettering": "1 Ch F.\r\nA.B.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/luxembourg/62542fd64f6a02.66562966-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/luxembourg/62542fd64f6a02.66562966-180.jpg",
+    "picture_copyright": "smy77",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "This coin is very common, engraved by Armand Bonnetain and coined at the Brussels currency workshop.<br />\r\nThe type was introduced by the Grand-Ducal decree of November 13, 1952, intended to replace the <a href=\"https://en.numista.com/1907\">1 franc - large module</a>.<br />\r\nThis coin is made of cupronickel alloy (containing 75% copper and 25% nickel) with a tolerance both outside and inside within 1%. The weight tolerance is 2.9%. This is the last time the puddler was used as a motif for a Luxembourg coin. Please refer to the <a href=\"https://en.numista.com/4189\">KM # 35 (1 franc)</a> data sheet for more information about the <span style=\"font-style:italic;\">Feierstëppler</span>.<br /><br />\r\nThe <a href=\"https://en.numista.com/57586\">reference L#299-8 </a> corresponds to the silver coinage issued in 1980.<br /><br />\r\nThere are <span style=\"font-weight:bold;\">two different types</span> for the right:<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/587b37f10ebac.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/587b37f10ebac.jpg\" alt=\"\" width=\"200\" height=\"65\" /></a><br /><br />\r\nThe corner of the <span style=\"text-decoration:underline;\">type 1 (worker in the center) </span> (KM#46.2) was used only for the 1952 mint year:<br />\r\n<ul><li>Handle far from L of LETZEBURG<br />\r\n</li></ul><ul><li>Date far from handle<br />\r\n</li></ul><br />\r\nThe <span style=\"text-decoration:underline;\">type 2 (worker below)</span> (KM#46.3) was taken over for the years 1953 - 1964:<br />\r\n<ul><li>Handle close to L of LETZEBURG<br />\r\n</li></ul><ul><li>Date close to handle<br />\r\n</li></ul><br />\r\nNote that the dimensions of the puddler do not vary, only its position as well as that of the background and the legend change. The reverse type 1 and type 2 are identical.<br /><br />\r\nThese pieces were demonetized by the Grand-Ducal regulation of 11 January 1991.",
+  "related_types": [
+    {
+      "id": 65621,
+      "title": "1 Franc - Charlotte (Essai)",
+      "category": "coin",
+      "country": {
+        "code": "luxembourg",
+        "name": "Luxembourg"
+      },
+      "minYear": 1946,
+      "maxYear": 1946
+    },
+    {
+      "id": 1907,
+      "title": "1 Franc - Charlotte (large Type)",
+      "category": "coin",
+      "country": {
+        "code": "luxembourg",
+        "name": "Luxembourg"
+      },
+      "minYear": 1946,
+      "maxYear": 1947
+    },
+    {
+      "id": 103672,
+      "title": "1 Franc - Charlotte (Essai)",
+      "category": "coin",
+      "country": {
+        "code": "luxembourg",
+        "name": "Luxembourg"
+      },
+      "minYear": 1952,
+      "maxYear": 1963
+    },
+    {
+      "id": 57586,
+      "title": "1 Franc - Charlotte (Silver)",
+      "category": "coin",
+      "country": {
+        "code": "luxembourg",
+        "name": "Luxembourg"
+      },
+      "minYear": 1980,
+      "maxYear": 1980
+    }
+  ],
+  "tags": [
+    "Industry",
+    "Crown",
+    "Monogram"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 124,
+        "code": "L"
+      },
+      "number": "299"
+    },
+    {
+      "catalogue": {
+        "id": 177,
+        "code": "Weiller"
+      },
+      "number": "289"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "46.2"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "33"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "46.3"
+    }
+  ],
+  "weight": 4,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/luxembourg/61504b0acdffd3.44487862-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/luxembourg/61504b0acdffd3.44487862-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 1338,
+      "name": "Royal Mint of Belgium"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

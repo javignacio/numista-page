@@ -1,0 +1,316 @@
+{
+  "id": 31163,
+  "url": "https://en.numista.com/31163",
+  "title": "Medalet - FIFA World Cup 1990 (Belgium)",
+  "object_type": {
+    "id": 219,
+    "name": "Collection medallions"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1990,
+  "max_year": 1990,
+  "size": 26,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Soccer player in front of country map, legend below.",
+    "lettering": "BELGIQUE * BELGIE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/60635d722a5276.69741533-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/60635d722a5276.69741533-180.jpg",
+    "picture_copyright": "R.BORDES"
+  },
+  "reverse": {
+    "description": "Football mentioning the date, legend around.",
+    "lettering": "WORLD CUP\r\n1990\r\nPM\r\nCOPPA DEL MONDO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/60635d734a83f7.94235723-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/60635d734a83f7.94235723-180.jpg",
+    "picture_copyright": "R.BORDES"
+  },
+  "series": "1990 FIFA World Cup",
+  "comments": "Part of the <span style=\"font-style:italic;\">Italy World Cup 1990 - A Commemorative Medal Collection</span> series.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5cea907f22d9e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5cea907f22d9e.jpg\" alt=\"\" width=\"182\" height=\"250\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5cea90eaca659.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5cea90eaca659.jpg\" alt=\"\" width=\"182\" height=\"250\" /></a>",
+  "related_types": [
+    {
+      "id": 37634,
+      "title": "Medalet - FIFA World Cup 1990 (Yugoslavia)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1990,
+      "maxYear": 1990
+    },
+    {
+      "id": 49916,
+      "title": "Medalet - FIFA World Cup 1990 (South Korea)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1990,
+      "maxYear": 1990
+    },
+    {
+      "id": 106583,
+      "title": "Medalet - FIFA World Cup 1990 (USA)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1990,
+      "maxYear": 1990
+    },
+    {
+      "id": 31776,
+      "title": "Medalet - FIFA World Cup 1990 (Argentina)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1990,
+      "maxYear": 1990
+    },
+    {
+      "id": 69913,
+      "title": "Medalet - FIFA World Cup 1990 (Colombia)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1990,
+      "maxYear": 1990
+    },
+    {
+      "id": 44160,
+      "title": "Medalet - FIFA World Cup 1990 (Costa Rica)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1990,
+      "maxYear": 1990
+    },
+    {
+      "id": 60404,
+      "title": "Medalet - FIFA World Cup 1990 (Soviet Union)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1990,
+      "maxYear": 1990
+    },
+    {
+      "id": 61610,
+      "title": "Medalet - FIFA World Cup 1990 (Czechoslovakia)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1990,
+      "maxYear": 1990
+    },
+    {
+      "id": 97134,
+      "title": "Medalet - FIFA World Cup 1990 (Italy)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1990,
+      "maxYear": 1990
+    },
+    {
+      "id": 97135,
+      "title": "Medalet - FIFA World Cup 1990 (Sweden)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1990,
+      "maxYear": 1990
+    },
+    {
+      "id": 49917,
+      "title": "Medalet - FIFA World Cup 1990 (Austria)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1990,
+      "maxYear": 1990
+    },
+    {
+      "id": 77708,
+      "title": "Medalet - FIFA World Cup 1990 (United Arab Emirates)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1990,
+      "maxYear": 1990
+    },
+    {
+      "id": 28956,
+      "title": "Medalet - FIFA World Cup 1990 (Spain)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1990,
+      "maxYear": 1990
+    },
+    {
+      "id": 76769,
+      "title": "Medalet - FIFA World Cup 1990 (Ireland)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1990,
+      "maxYear": 1990
+    },
+    {
+      "id": 71335,
+      "title": "Medalet - FIFA World Cup 1990 (Brazil)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1990,
+      "maxYear": 1990
+    },
+    {
+      "id": 71334,
+      "title": "Medalet - FIFA World Cup 1990 (Netherlands)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1990,
+      "maxYear": 1990
+    },
+    {
+      "id": 71377,
+      "title": "Medalet - FIFA World Cup 1990 (Romania)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1990,
+      "maxYear": 1990
+    },
+    {
+      "id": 35132,
+      "title": "Medalet - FIFA World Cup 1990 (Cameroon)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1990,
+      "maxYear": 1990
+    },
+    {
+      "id": 32202,
+      "title": "Medalet - FIFA World Cup 1990 (Germany)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1990,
+      "maxYear": 1990
+    },
+    {
+      "id": 54105,
+      "title": "Medalet - FIFA World Cup 1990 (Uruguay)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1990,
+      "maxYear": 1990
+    },
+    {
+      "id": 69229,
+      "title": "Medalet - FIFA World Cup 1990 (Egypt)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1990,
+      "maxYear": 1990
+    },
+    {
+      "id": 75278,
+      "title": "Medalet - FIFA World Cup 1990 (Scotland)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1990,
+      "maxYear": 1990
+    },
+    {
+      "id": 66007,
+      "title": "Medalet - FIFA World Cup 1990 (England)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1990,
+      "maxYear": 1990
+    }
+  ],
+  "tags": [
+    "Map",
+    "Soccer"
+  ],
+  "weight": 8.27,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "category": "exonumia",
+  "type": "Collection medallions"
+}

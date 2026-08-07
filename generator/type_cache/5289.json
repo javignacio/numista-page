@@ -1,0 +1,130 @@
+{
+  "id": 5289,
+  "url": "https://en.numista.com/5289",
+  "title": "1 Peso",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "uruguay",
+    "name": "Uruguay"
+  },
+  "issuing_entity": {
+    "id": 29,
+    "name": "Bank of Oriental Republic of Uruguay"
+  },
+  "min_year": 1965,
+  "max_year": 1965,
+  "ruler": [
+    {
+      "id": 3897,
+      "name": "Oriental Republic of Uruguay",
+      "wikidata_id": "Q77"
+    }
+  ],
+  "value": {
+    "text": "1 Peso",
+    "numeric_value": 1,
+    "currency": {
+      "id": 298,
+      "name": "Peso",
+      "full_name": "Peso (1863-1975)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 22,
+  "thickness": 1.9,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Santiago Urzúa Valenzuela"
+    ],
+    "description": "Artigas (José Gervasio Artigas) head right, date below, country name around",
+    "lettering": "REPÚBLICA ORIENTAL DEL URUGUAY \r\nSo\r\n• ARTIGAS •\r\n1965",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Oriental Republic of Uruguay\r\nSo\r\nArtigas\r\n1965",
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/62efc19c6f50c6.39311741-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/62efc19c6f50c6.39311741-180.jpg",
+    "picture_copyright": "Rhonan",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Santiago Urzúa Valenzuela"
+    ],
+    "description": "Uruguayan coat of arms, value below, circle of 19 stars above and on sides",
+    "lettering": "1 \r\nPESO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "1 Peso",
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/62efc19cc1e4a8.48939306-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/62efc19cc1e4a8.48939306-180.jpg",
+    "picture_copyright": "Rhonan",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p>NOTE: Variants SA# 87, CG# 87 are medal rotation;&nbsp;</p><p>Variants SA# 87.1.4, CG# 87.1.D are random rotation (other = not coin, medal, 90° nor 270°)</p>",
+  "tags": [
+    "Military leader",
+    "Politician",
+    "Coat of Arms",
+    "Sun",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "46"
+    },
+    {
+      "catalogue": {
+        "id": 709,
+        "code": "SA"
+      },
+      "number": "87"
+    },
+    {
+      "catalogue": {
+        "id": 2069,
+        "code": "CG"
+      },
+      "number": "87"
+    }
+  ],
+  "weight": 5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/6518d44037c7d4.52486470-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/6518d44037c7d4.52486470-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

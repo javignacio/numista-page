@@ -1,0 +1,120 @@
+{
+  "id": 2432,
+  "url": "https://en.numista.com/2432",
+  "title": "500 Pesos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "colombie",
+    "name": "Colombia"
+  },
+  "min_year": 1993,
+  "max_year": 2012,
+  "ruler": [
+    {
+      "id": 4088,
+      "name": "Republic",
+      "wikidata_id": "Q739"
+    }
+  ],
+  "value": {
+    "text": "500 Pesos",
+    "numeric_value": 500,
+    "currency": {
+      "id": 147,
+      "name": "Peso decimalized",
+      "full_name": "Peso decimalized (1847-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23.8,
+  "thickness": 2.25,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: aluminium bronze centre in nickel brass ring (Core: 92% Copper, 6% Aluminium, 2% Nickel; Ring: 65% Copper, 20% Zinc, 15% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "David Manzur"
+    ],
+    "description": "The holy tree of Guacarí, which got its name for celebrating the Guacari inhabitants, who preserve the Samán tree",
+    "lettering": "REPUBLICA DE COLOMBIA\r\nEL ARBOL DE GUACARI",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Colombia\r\nThe Guacari Tree",
+    "picture": "https://en.numista.com/catalogue/photos/colombie/1287-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/1287-180.jpg",
+    "picture_copyright": "Ciscoins.net",
+    "picture_copyright_url": "https://web.archive.org/web/20201116183734/http://ciscoins.net/"
+  },
+  "reverse": {
+    "description": "Value above the date",
+    "lettering": "500 \r\nPESOS \r\n2010",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/colombie/1288-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/1288-180.jpg",
+    "picture_copyright": "Ciscoins.net",
+    "picture_copyright_url": "https://web.archive.org/web/20201116183734/http://ciscoins.net/"
+  },
+  "comments": "Varieties exist both in terms of the ratio of design size and the inner circle and in terms of placement of writing along the rim (closer vs. farther from the coin edge):<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5fc0744b2b2d3.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5fc0744b2b2d3.jpg\" alt=\"\" width=\"200\" height=\"195\" /></a><br /><br />\r\nVarieties exist on the 1997 lettering:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5fbd77e9db1c0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5fbd77e9db1c0.jpg\" alt=\"\" width=\"120\" height=\"250\" /></a><a href=\"https://en.numista.com/catalogue/images/5fbd77fda8032.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5fbd77fda8032.jpg\" alt=\"\" width=\"120\" height=\"250\" /></a> @Duberney Osorio<br />\r\n<a href=\"https://en.numista.com/catalogue/images/620d6ec4b96bc.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/620d6ec4b96bc.jpg\" alt=\"\" width=\"200\" height=\"200\" /></a><br /><br />\r\nFalse coin, 2004, 6,8 grams with rotation error<br />\r\n<a href=\"https://en.numista.com/catalogue/images/6289393bbf4d4.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6289393bbf4d4.jpg\" alt=\"\" width=\"200\" height=\"200\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/628939479ba57.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/628939479ba57.jpg\" alt=\"\" width=\"200\" height=\"200\" /></a><br />\r\n@Darthvader (Numista)",
+  "tags": [
+    "Tree"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "286"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "114"
+    },
+    {
+      "catalogue": {
+        "id": 348,
+        "code": "Restrepo"
+      },
+      "number": "448"
+    },
+    {
+      "catalogue": {
+        "id": 347,
+        "code": "Hernández"
+      },
+      "number": "656-659"
+    }
+  ],
+  "weight": 7.4,
+  "orientation": "coin",
+  "edge": {
+    "description": "Segmented (8 milled, 8 smooth)"
+  },
+  "mints": [
+    {
+      "id": 4172,
+      "name": "Fábrica de Moneda de Ibagué"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

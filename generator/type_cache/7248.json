@@ -1,0 +1,120 @@
+{
+  "id": 7248,
+  "url": "https://en.numista.com/7248",
+  "title": "1 Shilling - Victoria (1st portrait; 'Young Head')",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1838,
+  "max_year": 1887,
+  "ruler": [
+    {
+      "id": 270,
+      "name": "Victoria",
+      "wikidata_id": "Q9439",
+      "nomisma_id": "queen_victoria",
+      "group": {
+        "id": 525,
+        "name": "House of Hanover"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Shilling",
+    "numeric_value": 0.05,
+    "numerator": 1,
+    "denominator": 20,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1971)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1990-12-31"
+  },
+  "size": 23.5,
+  "thickness": 1.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.925)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "William Wyon"
+    ],
+    "description": "Uncrowned portrait ('Young Head') of Queen Victoria left, legend around.",
+    "lettering": "VICTORIA DEI GRATIA BRITANNIAR:REG:F:D:",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Victoria by the Grace of God Queen of the Britains Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/2597-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/2597-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "engravers": [
+      "Jean Baptiste Merlen"
+    ],
+    "description": "Crown above denomination within wreath, date below.\r\n\r\nNote: die number location above date",
+    "lettering": "ONE\r\nSHILLING\r\n115\r\n1873",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/2598-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/2598-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "The standard weight of these coins was 2/11 troy ounce (87.3 grains).<br /><br />\r\nObverse varieties exist with or without the engraver&#039;s initials &#039;WW&#039; on the truncation of the bust;<br />\r\nReverse varieties exist with or without a die number above the date;<br />\r\nOther varieties include overdate and legend errors, and plain edge proofs.<br /><br />\r\nBelow is a brief summary of the Krause and Spink sub-types<br />\r\nwhich are referred to in the year line comments:<br /><br />\r\n<span style=\"font-weight:bold;\">KM#734.1</span> <span style=\"font-style:italic;\">(1838-1863)</span> No die number, high relief portrait;<br />\r\n<span style=\"font-weight:bold;\">KM#734.3</span> <span style=\"font-style:italic;\">(1864-1867)</span> With die number;<br />\r\n<span style=\"font-weight:bold;\">KM#734.2</span> <span style=\"font-style:italic;\">(1867-1879)</span> With die number, low relief portrait;<br />\r\n<span style=\"font-weight:bold;\">KM#734.4</span> <span style=\"font-style:italic;\">(1879-1887)</span> No die number;<br /><br />\r\n<span style=\"font-weight:bold;\">Sp#3902</span> <span style=\"font-style:italic;\">(1838-1839)</span> With WW, no die number, Type A1, First head;<br />\r\n<span style=\"font-weight:bold;\">Sp#3903</span> <span style=\"font-style:italic;\">(1839 Proof only)</span> With WW, no die number, Type A2, Second head;<br />\r\n<span style=\"font-weight:bold;\">Sp#3904</span> <span style=\"font-style:italic;\">(1839-1863)</span> No WW, no die number, Type A3, Second head;<br />\r\n<span style=\"font-weight:bold;\">Sp#3905</span> <span style=\"font-style:italic;\">(1864-1867)</span> No WW, with die number, Type A4, Second head;<br />\r\n<span style=\"font-weight:bold;\">Sp#3906</span> <span style=\"font-style:italic;\">(1867, 1879)</span> No WW, no die number, Type A5, Third head;<br />\r\n<span style=\"font-weight:bold;\">Sp#3906A</span> <span style=\"font-style:italic;\">(1867-1879)</span> No WW, with die number, Type A6, Third head;<br />\r\n<span style=\"font-weight:bold;\">Sp#3907</span> <span style=\"font-style:italic;\">(1879-1887)</span> No WW, no die number, Type A7, Fourth head;<br />\r\n<span style=\"font-weight:bold;\">Sp#3907A</span> <span style=\"font-style:italic;\">(1878-1879)</span> No WW, with die number, Type A7, Fourth head.",
+  "tags": [
+    "Crown",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "734"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "3902-7"
+    }
+  ],
+  "weight": 5.66,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/62f7d3d050a8f2.14019202-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/62f7d3d050a8f2.14019202-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

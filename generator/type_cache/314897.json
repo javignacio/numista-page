@@ -1,0 +1,69 @@
+{
+  "id": 314897,
+  "url": "https://en.numista.com/314897",
+  "title": "4 Annas (French India)",
+  "object_type": {
+    "id": 8,
+    "name": "Fantasy coins"
+  },
+  "issuer": {
+    "code": "french_india_fantasy",
+    "name": "French India"
+  },
+  "min_year": 2021,
+  "max_year": 2021,
+  "value": {
+    "currency": {
+      "id": 11581,
+      "name": "Rupee",
+      "full_name": "Rupee"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 20,
+  "thickness": 1.3,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Bust of an allegorical figure with helmet.\nDate.",
+    "lettering": "PONDICHÉRY · KARIKAL ·  YANAON · MAHÉ ·CHANDERNAGOR\r\nINDE FRANÇAISE · 2021",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/french_india_fantasy/68501f86ab24b1.05578111-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/french_india_fantasy/68501f86ab24b1.05578111-180.jpg",
+    "picture_copyright": "Rojomano"
+  },
+  "reverse": {
+    "description": "Denomination in several languages, lion.\nValue and date.",
+    "lettering": "P\r\n4 Annas\r\nCOMPTOIR DE PONDICHÉRY - 2021",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/french_india_fantasy/68501f86b0c693.61122693-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/french_india_fantasy/68501f86b0c693.61122693-180.jpg",
+    "picture_copyright": "Rojomano"
+  },
+  "comments": "<p><a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"Https://en.wikipedia.org/wiki/French_India\">Https://en.wikipedia.org/wiki/French_India</a></p>",
+  "tags": [
+    "Allegory"
+  ],
+  "weight": 2.52,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "category": "exonumia",
+  "type": "Fantasy coins"
+}

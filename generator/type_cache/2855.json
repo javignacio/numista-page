@@ -1,0 +1,183 @@
+{
+  "id": 2855,
+  "url": "https://en.numista.com/2855",
+  "title": "5 Centavos (Patria y Libertad)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "cuba",
+    "name": "Cuba"
+  },
+  "min_year": 1963,
+  "max_year": 2015,
+  "ruler": [
+    {
+      "id": 4118,
+      "name": "Second Republic",
+      "wikidata_id": "Q241"
+    }
+  ],
+  "value": {
+    "text": "5 Centavos",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 148,
+      "name": "Cuban Peso",
+      "full_name": "Cuban Peso (moneda nacional, 1914-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21.21,
+  "thickness": 1.81,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium (aluminium 97.15%, magnesium 2.5%, manganese 0.35%)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Charles Edward Barber"
+    ],
+    "description": "Cuban coat of arms, country name as curved legend on top, face value in letters as curved legend on bottom, line of denticles close to rim.",
+    "lettering": "REPUBLICA DE CUBA \r\n• CINCO CENTAVOS •",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Cuba\r\nFive Centavos",
+    "picture": "https://en.numista.com/catalogue/photos/cuba/6010552bc23655.45627601-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/cuba/6010552bc23655.45627601-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Charles Edward Barber"
+    ],
+    "description": "Face value in Roman numeral in circle over a five-pointed star, motto \"Fatherland and Freedom\" as curved legend on top, date at the bottom, denticles along the rim.",
+    "lettering": "PATRIA Y LIBERTAD \r\nV\r\n• 1971 •",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Fatherland and Liberty\r\nV\r\n1971",
+    "picture": "https://en.numista.com/catalogue/photos/cuba/6010552c4c1478.98728160-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/cuba/6010552c4c1478.98728160-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "NOTE: Kremnica and Leningrad Mint can be distinguished by some details:<br />\r\nOn coins from Kremnica Mint, the left point of the star points between A and T of PATRIA<br />\r\nOn coins from Leningrad Mint, the left point of the star points on the right leg of the A<br />\r\n<a href=\"https://en.numista.com/catalogue/images/58eee43959516.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/58eee43959516.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nSome minor variations in lettering and design between 1971/1972 and 2001-date coin:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/58017249f2707.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/58017249f2707.jpg\" alt=\"\" width=\"200\" height=\"229\" /></a><br /><br />\r\n1972 coins started circulating on the 90&#039;s; that is the reason why no coins were minted between 1972-2001.<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5beecb9f32b9c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5beecb9f32b9c.jpg\" alt=\"\" width=\"199\" height=\"94\" /></a><a href=\"https://en.numista.com/catalogue/images/5beecbb5a9b56.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5beecbb5a9b56.jpg\" alt=\"\" width=\"200\" height=\"88\" /></a><br />\r\n2002 variants: High date on left, low date on right, distance from date to edge is different<br />\r\n(source: pictures by adanieluy).<br /><br />\r\nOn 2016 legend was changed from &quot;PATRIA Y LIBERTAD&quot; to &quot;PATRIA O MUERTE&quot;, this legend have been changed on 1 and 2 centavos coins on 1983, and on 20 and 40 centavos on 1982, but remained unchanged on 5 centavos value. 2016 coins are not still listed on Krause, this is the reason they show &quot;NO KM#&quot; in years comments, you can see new version on its own page (see link below).",
+  "related_types": [
+    {
+      "id": 414869,
+      "title": "5 Centavos (Obverse Trial)",
+      "category": "coin",
+      "country": {
+        "code": "cuba",
+        "name": "Cuba"
+      },
+      "minYear": 1968,
+      "maxYear": 1968
+    },
+    {
+      "id": 417221,
+      "title": "5 Centavos (Obverse Trial)",
+      "category": "coin",
+      "country": {
+        "code": "cuba",
+        "name": "Cuba"
+      },
+      "minYear": 1968,
+      "maxYear": 1968
+    },
+    {
+      "id": 417224,
+      "title": "5 Centavos (Reverse Trial)",
+      "category": "coin",
+      "country": {
+        "code": "cuba",
+        "name": "Cuba"
+      },
+      "minYear": 1968,
+      "maxYear": 1968
+    },
+    {
+      "id": 414867,
+      "title": "5 Centavos (Reverse Trial)",
+      "category": "coin",
+      "country": {
+        "code": "cuba",
+        "name": "Cuba"
+      },
+      "minYear": 1968,
+      "maxYear": 1968
+    }
+  ],
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "34"
+    },
+    {
+      "catalogue": {
+        "id": 984,
+        "code": "JMA"
+      },
+      "number": "41-46"
+    },
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "28"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "32"
+    }
+  ],
+  "weight": 1.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/cuba/60af0cec7fa840.82929294-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/cuba/60af0cec7fa840.82929294-180.jpg",
+    "picture_copyright": "Bulgaria1999"
+  },
+  "mints": [
+    {
+      "id": 295,
+      "name": "Empresa Cubana de Acuñaciones"
+    },
+    {
+      "id": 1262,
+      "name": "Kremnica"
+    },
+    {
+      "id": 7,
+      "name": "Saint Petersburg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,133 @@
+{
+  "id": 24943,
+  "url": "https://en.numista.com/24943",
+  "title": "5 Rupees",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "inde",
+    "name": "India"
+  },
+  "min_year": 2011,
+  "max_year": 2019,
+  "ruler": [
+    {
+      "id": 2943,
+      "name": "Republic",
+      "wikidata_id": "Q668"
+    }
+  ],
+  "value": {
+    "text": "5 Rupees",
+    "numeric_value": 5,
+    "currency": {
+      "id": 171,
+      "name": "Rupee",
+      "full_name": "Rupee (decimalized, 1957-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23,
+  "thickness": 1.9,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Ashoka Pillar Lion Capitol",
+    "lettering": "भारत INDIA\r\nसत्यमेव जयते",
+    "lettering_scripts": [
+      {
+        "name": "Devanagari"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/inde/2577-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/inde/2577-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "reverse": {
+    "description": "Denomination and date below Rupee symbol flanked by Lotus flowers\r\n\r\nNOTE: Different mintmarks\r\n♦ (small dot/diamond) = Mumbai\r\n* (five-pointed star) = Hyderabad",
+    "lettering": "₹\r\n5\r\n2011",
+    "lettering_scripts": [
+      {
+        "name": "Devanagari"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/inde/3070-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/inde/3070-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/5ddfa8ada696d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5ddfa8ada696d.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "related_types": [
+    {
+      "id": 23187,
+      "title": "50 Paise",
+      "category": "coin",
+      "country": {
+        "code": "inde",
+        "name": "India"
+      },
+      "minYear": 2011,
+      "maxYear": 2016
+    },
+    {
+      "id": 24941,
+      "title": "1 Rupee",
+      "category": "coin",
+      "country": {
+        "code": "inde",
+        "name": "India"
+      },
+      "minYear": 2011,
+      "maxYear": 2019
+    },
+    {
+      "id": 24942,
+      "title": "2 Rupees",
+      "category": "coin",
+      "country": {
+        "code": "inde",
+        "name": "India"
+      },
+      "minYear": 2011,
+      "maxYear": 2019
+    }
+  ],
+  "tags": [
+    "Cat or feline",
+    "Flower",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "399"
+    }
+  ],
+  "weight": 6,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/inde/2147-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/inde/2147-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

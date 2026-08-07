@@ -1,0 +1,112 @@
+{
+  "id": 572,
+  "url": "https://en.numista.com/572",
+  "title": "½ Sol de Oro",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "perou",
+    "name": "Peru"
+  },
+  "issuing_entity": {
+    "id": 936,
+    "name": "Central Reserve Bank of Peru",
+    "wikidata_id": "Q932146"
+  },
+  "min_year": 1975,
+  "max_year": 1976,
+  "ruler": [
+    {
+      "id": 3757,
+      "name": "Republic",
+      "wikidata_id": "Q419"
+    }
+  ],
+  "value": {
+    "text": "½ Sol",
+    "numeric_value": 0.5,
+    "numerator": 1,
+    "denominator": 2,
+    "currency": {
+      "id": 218,
+      "name": "Sol",
+      "full_name": "Sol (1863-1930) / Sol de Oro (1931-1985)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 17.8,
+  "thickness": 1.25,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass (70% Copper, 30% Zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "National arms within circle",
+    "lettering": "BANCO CENTRAL DE RESERVA DEL PERU \r\n1976",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Reserve Bank of Peru",
+    "picture": "https://en.numista.com/catalogue/photos/perou/1509-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/1509-180.jpg",
+    "picture_copyright": "gebiki"
+  },
+  "reverse": {
+    "description": "Value",
+    "lettering": "1/2 \r\nSOL DE ORO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/perou/1510-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/1510-180.jpg",
+    "picture_copyright": "gebiki"
+  },
+  "comments": "Of the 1976 dated coins, 200,664,000 were minted by the United States Mint in Philadelphia.<br /><br />\r\nCoins with the date 1974 are supposedly mules of 1/2 sol 1975-76 and 10 centavos 1974 (KM#245) that has almost the same diameter. Although quite rare, they appeared in circulation.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/6362a665be9d6.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6362a665be9d6.jpg\" alt=\"\" width=\"200\" height=\"100\" /></a>",
+  "tags": [
+    "Coat of Arms",
+    "Cornucopia"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "265"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "65"
+    }
+  ],
+  "weight": 2.1,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/perou/64a0b5cc98f439.06417853-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/64a0b5cc98f439.06417853-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

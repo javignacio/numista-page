@@ -1,0 +1,147 @@
+{
+  "id": 3248,
+  "url": "https://en.numista.com/3248",
+  "title": "10 Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "argentine",
+    "name": "Argentina"
+  },
+  "min_year": 1942,
+  "max_year": 1950,
+  "ruler": [
+    {
+      "id": 3983,
+      "name": "Federal Republic",
+      "wikidata_id": "Q414"
+    }
+  ],
+  "value": {
+    "text": "10 Centavos",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 261,
+      "name": "Peso moneda nacional",
+      "full_name": "Peso moneda nacional (1881-1969)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1951-01-01"
+  },
+  "size": 19.5,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze (Cu 92 Al 8)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Lucien Georges Bazor"
+    ],
+    "description": "Value flanked by a wheatear and bull's head.",
+    "lettering": "REPÚBLICA ARGENTINA\r\n10 \r\nCENTAVOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Argentina\r\n10\r\nCentavos",
+    "picture": "https://en.numista.com/catalogue/photos/argentine/61cafe0988abe6.22705248-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/61cafe0988abe6.22705248-180.jpg",
+    "picture_copyright": "PCGS",
+    "picture_copyright_url": "https://www.pcgs.com/"
+  },
+  "reverse": {
+    "engravers": [
+      "Lucien Georges Bazor"
+    ],
+    "description": "Symbolic effigy of Liberty with a Phrygian cap, on the left side\r\na laurel branch and on the right the legend \"LIBERTAD\", in the exergue, the date.",
+    "lettering": "LIBERTAD\r\n1943",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Liberty\r\n1943",
+    "picture": "https://en.numista.com/catalogue/photos/argentine/61cafe0b54c306.86250662-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/61cafe0b54c306.86250662-180.jpg",
+    "picture_copyright": "PCGS",
+    "picture_copyright_url": "https://www.pcgs.com/"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/5cf67e2e09176.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5cf67e2e09176.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "related_types": [
+    {
+      "id": 3241,
+      "title": "5 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 1942,
+      "maxYear": 1950
+    },
+    {
+      "id": 1281,
+      "title": "20 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 1942,
+      "maxYear": 1950
+    }
+  ],
+  "tags": [
+    "Cow or bovine",
+    "Allegory",
+    "Phrygian cap"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "41"
+    },
+    {
+      "catalogue": {
+        "id": 160,
+        "code": "CJ"
+      },
+      "number": "205-213"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "44"
+    }
+  ],
+  "weight": 3,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/argentine/69904062a6a090.06243897-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/69904062a6a090.06243897-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 1336,
+      "name": "Buenos Aires"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

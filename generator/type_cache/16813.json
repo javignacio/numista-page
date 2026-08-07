@@ -1,0 +1,93 @@
+{
+  "id": 16813,
+  "url": "https://en.numista.com/16813",
+  "title": "⅓ Guinea - George III (Pattern)",
+  "object_type": {
+    "id": 6,
+    "name": "Patterns"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1776,
+  "max_year": 1776,
+  "ruler": [
+    {
+      "id": 267,
+      "name": "George III",
+      "wikidata_id": "Q127318",
+      "group": {
+        "id": 525,
+        "name": "House of Hanover"
+      }
+    }
+  ],
+  "value": {
+    "text": "⅓ Guinea",
+    "numeric_value": 0.35,
+    "numerator": 7,
+    "denominator": 20,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1971)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "shape": "Round",
+  "composition": {
+    "text": "Gold (.9167)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Richard Yeo"
+    ],
+    "description": "Bust of George III right",
+    "lettering": "GEORGIVS·III·DEI·GRATIA·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "George the Third by the Grace of God",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/1663-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/1663-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "engravers": [
+      "Richard Yeo"
+    ],
+    "description": "A lion on a crown.",
+    "lettering": "MAG·BRI·FR·ET·HIB·REX·17 76·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "King of Great Britain France and Ireland",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/1664-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/1664-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "Pn55"
+    }
+  ],
+  "orientation": "coin",
+  "category": "coin",
+  "type": "Patterns"
+}

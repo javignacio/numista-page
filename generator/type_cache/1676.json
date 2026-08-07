@@ -1,0 +1,147 @@
+{
+  "id": 1676,
+  "url": "https://en.numista.com/1676",
+  "title": "500 Rupiah",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "indonesie",
+    "name": "Indonesia (1949-date)"
+  },
+  "issuing_entity": {
+    "id": 574,
+    "name": "Bank Indonesia",
+    "wikidata_id": "Q1906161"
+  },
+  "min_year": 2003,
+  "max_year": 2003,
+  "ruler": [
+    {
+      "id": 4071,
+      "name": "Republic",
+      "wikidata_id": "Q252"
+    }
+  ],
+  "value": {
+    "text": "500 Rupiah",
+    "numeric_value": 500,
+    "currency": {
+      "id": 172,
+      "name": "Rupiah",
+      "full_name": "Rupiah (1965-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 27.2,
+  "thickness": 2.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "National emblem, called Garuda Pancasila",
+    "lettering": "BHINNEKA TUNGGAL IKA\r\n2003\r\nBANK INDONESIA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Unity in Diversity",
+    "picture": "https://en.numista.com/catalogue/photos/indonesie/267-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/indonesie/267-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "reverse": {
+    "description": "Jasmine flower (Jasminum sambac), the National Flower of Indonesia, Value",
+    "lettering": "BUNGA MELATI\r\n500\r\nRUPIAH",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Jasmine flower",
+    "picture": "https://en.numista.com/catalogue/photos/indonesie/268-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/indonesie/268-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "comments": "The typeface of the date often makes 2003 look like 2008.",
+  "related_types": [
+    {
+      "id": 5928,
+      "title": "50 Rupiah",
+      "category": "coin",
+      "country": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "minYear": 1999,
+      "maxYear": 2003
+    },
+    {
+      "id": 1678,
+      "title": "100 Rupiah",
+      "category": "coin",
+      "country": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "minYear": 1999,
+      "maxYear": 2005
+    },
+    {
+      "id": 1677,
+      "title": "200 Rupiah",
+      "category": "coin",
+      "country": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "minYear": 2003,
+      "maxYear": 2003
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Coat of Arms",
+    "Flower"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "67"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "53"
+    }
+  ],
+  "weight": 3.1,
+  "orientation": "medal",
+  "edge": {
+    "description": "Alternating smooth and reeded segments (5 each)",
+    "picture": "https://en.numista.com/catalogue/photos/indonesie/69d9296213af95.59946512-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/indonesie/69d9296213af95.59946512-180.jpg",
+    "picture_copyright": "ZacUK"
+  },
+  "mints": [
+    {
+      "id": 4154,
+      "name": "Perum Peruri"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

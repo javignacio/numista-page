@@ -1,0 +1,200 @@
+{
+  "id": 2252,
+  "url": "https://en.numista.com/2252",
+  "title": "25 Centavos (Deodoro da Fonseca)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bresil",
+    "name": "Brazil"
+  },
+  "min_year": 1998,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 2684,
+      "name": "Federative Republic of Brazil",
+      "wikidata_id": "Q155"
+    }
+  ],
+  "value": {
+    "text": "25 Centavos",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 158,
+      "name": "Real",
+      "full_name": "Real (1994-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25,
+  "thickness": 2.25,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Portrait of Manuel Deodoro da Fonseca facing left with the Brazilian coat of arms to the left",
+    "lettering": "BRASIL \r\nDEODORO\r\nREPUBLI[CA]\r\n15 de NOVEMB[RO]",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Brazil\r\nDeodoro\r\nRepublic\r\nNovember 15",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/39-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/39-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Stylized parts of the Brazilian emblem (stripes and stars, globe) with the denomination above the date to the left",
+    "lettering": "25 \r\nCENTAVOS \r\n2004",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bresil/40-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/40-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "<p>Manuel Deodoro da Fonseca (1827-1892) established the First Brazilian Republic in 1889, and served as the first president of Brazil.</p><p>&nbsp;</p><p>\"T\" partially and wholly inside the stripes<br><a href=\"https://en.numista.com/catalogue/images/5a94457fafaf2.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5a94457fafaf2.png\" alt=\"\"></a><br><br>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/67ce208cba635.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67ce208cba635.jpg\"></a> <a href=\"https://en.numista.com/catalogue/images/67ce20913bc7d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67ce20913bc7d.jpg\"></a></p><p>Official Sets - 2018 - Mintage 3000 Sets</p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/5d87a4d855fff.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d87a4d855fff.jpg\" alt=\"\"></a> <a href=\"https://en.numista.com/catalogue/images/5d87a4e1d1e0e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d87a4e1d1e0e.jpg\" alt=\"\"></a><br>Official Sets - 2019 - Mintage 3000 Sets</p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/67ce2b6e785bb.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67ce2b6e785bb.jpg\"></a> <a href=\"https://en.numista.com/catalogue/images/67ce2b71c0f43.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67ce2b71c0f43.jpg\"></a></p><p>Official card with complete set, including 1 real commemorative coin</p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/67ce20aab57be.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67ce20aab57be.jpg\"></a> <a href=\"https://en.numista.com/catalogue/images/67ce20af2bf6a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67ce20af2bf6a.jpg\"></a></p><p>Official Sets - 2020 - Mintage 3000 Sets</p><p><br><a href=\"https://en.numista.com/catalogue/images/6206ca577ce49.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6206ca577ce49.jpg\" alt=\"\"></a> <a href=\"https://en.numista.com/catalogue/images/6206ca62ed2d2.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6206ca62ed2d2.jpg\" alt=\"\"></a><br>Official Sets - 2021 - Mintage 5000 Sets</p>",
+  "related_types": [
+    {
+      "id": 4049,
+      "title": "1 Centavo (Cabral)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1998,
+      "maxYear": 2004
+    },
+    {
+      "id": 1049,
+      "title": "5 Centavos (Tiradentes)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1998,
+      "maxYear": 2025
+    },
+    {
+      "id": 2253,
+      "title": "10 Centavos (Pedro I)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1998,
+      "maxYear": 2025
+    },
+    {
+      "id": 8895,
+      "title": "50 Centavos (Rio Branco; copper-nickel)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1998,
+      "maxYear": 2001
+    },
+    {
+      "id": 666,
+      "title": "50 Centavos (Rio Branco; stainless steel)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 2002,
+      "maxYear": 2024
+    },
+    {
+      "id": 94947,
+      "title": "50 Centavos (Mule Coin)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 2012,
+      "maxYear": 2012
+    },
+    {
+      "id": 3817,
+      "title": "1 Real",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1998,
+      "maxYear": 1999
+    },
+    {
+      "id": 8896,
+      "title": "1 Real",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 2002,
+      "maxYear": 2024
+    }
+  ],
+  "tags": [
+    "Military leader",
+    "Politician",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "650"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "158"
+    }
+  ],
+  "weight": 7.55,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/651a267bea9608.91839965-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/651a267bea9608.91839965-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 1335,
+      "name": "Mint of Brazil"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

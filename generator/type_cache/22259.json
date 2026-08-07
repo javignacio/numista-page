@@ -1,0 +1,152 @@
+{
+  "id": 22259,
+  "url": "https://en.numista.com/22259",
+  "title": "5 Pesos Uruguayos (Ñandu)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "uruguay",
+    "name": "Uruguay"
+  },
+  "min_year": 2011,
+  "max_year": 2024,
+  "ruler": [
+    {
+      "id": 3897,
+      "name": "Oriental Republic of Uruguay",
+      "wikidata_id": "Q77"
+    }
+  ],
+  "value": {
+    "text": "5 Pesos Uruguayos",
+    "numeric_value": 5,
+    "currency": {
+      "id": 153,
+      "name": "Peso uruguayo",
+      "full_name": "Peso uruguayo (1993-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 26,
+  "thickness": 1.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Robert Evans"
+    ],
+    "description": "Coat of arms, name of the country around, date on bottom",
+    "lettering": "REPUBLICA ORIENTAL DEL URUGUAY\r\n2011",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Eastern Republic of Uruguay (Uruguay)\r\n2011",
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/67b76135939ca7.31720891-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/67b76135939ca7.31720891-180.jpg",
+    "picture_copyright": "Valler",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Robert Evans"
+    ],
+    "description": "Rhea Americana (Ñandu) to left, face value on left side, animal name below.",
+    "lettering": "$5\r\nÑANDU",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "$5\r\nRhea",
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/67b76136641f50.82909717-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/67b76136641f50.82909717-180.jpg",
+    "picture_copyright": "Valler",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "series": "Native fauna of Uruguay",
+  "comments": "The ñandu (Rhea Americana) is the biggest bird of South America, similar but smaller to australian ostrich. From 1978 is prohibited to hunt this species, and there is a very successful reproduction program to increase number of animals, and also to production of meat (very low on fat and cholesterol), feathers, and even crystralline lens and cornea for medical uses.<br /><br />\r\nThis coin is part of the series dedicated to native fauna.<br /><br />\r\n<img src=\"https://en.numista.com/catalogue/images/5503731014e69.jpg\" alt=\"\" width=\"380\" height=\"441\" /><br />\r\nÑandú (Rhea americana) - Photografy by Hermann Muñoz<br />\r\nReserva del Cerro Pan de Azúcar, Maldonado (2004)<br /><br />\r\n2011 issue was minted in Royal Mint<br />\r\n2014 issue was minted in Spain<br />\r\n2019 issue was minted in Kremnica",
+  "related_types": [
+    {
+      "id": 19103,
+      "title": "1 Peso Uruguayo (Mulita)",
+      "category": "coin",
+      "country": {
+        "code": "uruguay",
+        "name": "Uruguay"
+      },
+      "minYear": 2011,
+      "maxYear": 2024
+    },
+    {
+      "id": 19104,
+      "title": "2 Pesos Uruguayos (Carpincho)",
+      "category": "coin",
+      "country": {
+        "code": "uruguay",
+        "name": "Uruguay"
+      },
+      "minYear": 2011,
+      "maxYear": 2024
+    },
+    {
+      "id": 22257,
+      "title": "10 Pesos Uruguayos (Puma)",
+      "category": "coin",
+      "country": {
+        "code": "uruguay",
+        "name": "Uruguay"
+      },
+      "minYear": 2011,
+      "maxYear": 2015
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Coat of Arms",
+    "Sun",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "137"
+    }
+  ],
+  "weight": 6,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 1262,
+      "name": "Kremnica"
+    },
+    {
+      "id": 24,
+      "name": "Royal Mint of Madrid"
+    },
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

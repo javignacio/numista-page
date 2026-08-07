@@ -1,0 +1,147 @@
+{
+  "id": 5024,
+  "url": "https://en.numista.com/5024",
+  "title": "100 Guaraníes",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "paraguay",
+    "name": "Paraguay"
+  },
+  "issuing_entity": {
+    "id": 935,
+    "name": "Central Bank of Paraguay",
+    "wikidata_id": "Q4504275"
+  },
+  "min_year": 1993,
+  "max_year": 2005,
+  "ruler": [
+    {
+      "id": 4650,
+      "name": "Republic",
+      "wikidata_id": "Q733"
+    }
+  ],
+  "value": {
+    "text": "100 Guaraníes",
+    "numeric_value": 100,
+    "currency": {
+      "id": 87,
+      "name": "Guarani",
+      "full_name": "Guarani (1944-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2014-01-17"
+  },
+  "size": 24,
+  "thickness": 1.85,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Name of the country, bust of General José Eduvigis Díaz and year of issue below",
+    "lettering": "REPUBLICA DEL PARAGUAY\r\nGENERAL JOSE.E.DIAZ\r\n1995",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Paraguay\r\nGeneral José E. Díaz\r\n1995",
+    "picture": "https://en.numista.com/catalogue/photos/paraguay/605cdc88b4f875.40008039-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/paraguay/605cdc88b4f875.40008039-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "reverse": {
+    "description": "Value above, ruins of Humaitá",
+    "lettering": "100\r\nRUINAS DE HUMAITA 1865/70\r\nGUARANIES",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "100 guaraníes\r\nRuins of Humaitá 1865-1870",
+    "picture": "https://en.numista.com/catalogue/photos/paraguay/605cdc8920f219.76522293-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/paraguay/605cdc8920f219.76522293-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "comments": "José Eduvigis Díaz Vera (October 17, 1833 – February 7, 1867) was a celebrated Paraguayan General. Díaz was born in the town of Cerro Verá east of Pirayú in the department of Paraguarí. In 1852 he joined the militia and later led Battalion #40 of the police. He became the police chief in Asunción and first distinguished himself on raids across the Río Paraná at Corrientes in the spring of 1866 during the Paraguayan War. Díaz was the hero of the September 22, 1866 battle of Curupaity, leading a humiliating rout of the allied forces.<br /><br />\r\nBarely four months later, however, on 26 Jan. 1867, a Brazilian shell exploded over General Diaz&#039;s canoe while he was fishing in the River Paraguay, outside the camp at Curupayti. President Francisco Solano López visited the wounded Diaz every day. Diaz&#039;s leg was amputated by doctors, but he still died on 7 Feb. 1867.<br /><br />\r\nThe remains of the old fortress of Humaitá are located on the left side of the Paraguay River, approximately 430 km to the south of Asunción. During the Paraguayan War (1864–1870) this fortress was important because it controlled river access to the capital, Asunción.<br /><br />\r\nRuins of Humaitá. Only a few vestiges survived bombardment by enemy cannons during the war. One of these was San Carlos Borromeo&#039;s church. Carlos Antonio López ordered its construction. It was inaugurated on January 1, 1861. At the time, it was considered one of the most beautiful in the Americas.",
+  "related_types": [
+    {
+      "id": 4978,
+      "title": "100 Guaraníes",
+      "category": "coin",
+      "country": {
+        "code": "paraguay",
+        "name": "Paraguay"
+      },
+      "minYear": 1990,
+      "maxYear": 1990
+    },
+    {
+      "id": 4979,
+      "title": "100 Guaraníes",
+      "category": "coin",
+      "country": {
+        "code": "paraguay",
+        "name": "Paraguay"
+      },
+      "minYear": 2006,
+      "maxYear": 2022
+    }
+  ],
+  "tags": [
+    "Religious building",
+    "Military leader",
+    "Town",
+    "Tree",
+    "War"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "177a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "194a"
+    }
+  ],
+  "weight": 5.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/paraguay/5f0a162d6e85f2.77854357-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/paraguay/5f0a162d6e85f2.77854357-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    },
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

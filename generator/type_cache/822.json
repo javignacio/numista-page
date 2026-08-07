@@ -1,0 +1,125 @@
+{
+  "id": 822,
+  "url": "https://en.numista.com/822",
+  "title": "5 Millimes",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "tunisie",
+    "name": "Tunisia"
+  },
+  "issuing_entity": {
+    "id": 948,
+    "name": "Central Bank of Tunisia",
+    "wikidata_id": "Q600137"
+  },
+  "min_year": 1960,
+  "max_year": 1996,
+  "ruler": [
+    {
+      "id": 4957,
+      "name": "Republic",
+      "wikidata_id": "Q948"
+    }
+  ],
+  "value": {
+    "text": "5 Millimes",
+    "numeric_value": 0.005,
+    "currency": {
+      "id": 32,
+      "name": "Dinar",
+      "full_name": "Dinar (1958-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23.97,
+  "thickness": 1.51,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Oak tree or Cork oak tree (Binomial Name: Quercus suber) and the date below",
+    "lettering": "البنك المركزي التونسي\r\n1960",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "Central Bank of Tunisia",
+    "picture": "https://en.numista.com/catalogue/photos/tunisie/1300-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/tunisie/1300-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "reverse": {
+    "description": "The value in numerals flanked by olive sprigs and the denomination in Arabic below",
+    "lettering": "5\r\nمليمات خمسة",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "Five millimes",
+    "picture": "https://en.numista.com/catalogue/photos/tunisie/1301-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/tunisie/1301-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "comments": "Central Bank Mini-Set 1960:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/59306cfc5c2a7.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/59306cfc5c2a7.jpg\" alt=\"\" width=\"198\" height=\"42\" /></a><br />\r\n© Image courtesy of Sincona AG",
+  "related_types": [
+    {
+      "id": 1199,
+      "title": "5 Millimes",
+      "category": "coin",
+      "country": {
+        "code": "tunisie",
+        "name": "Tunisia"
+      },
+      "minYear": 1997,
+      "maxYear": 2005
+    }
+  ],
+  "tags": [
+    "Tree"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "282"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "203"
+    }
+  ],
+  "weight": 1.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/tunisie/60cf5522984823.39379659-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/tunisie/60cf5522984823.39379659-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

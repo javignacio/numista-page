@@ -1,0 +1,139 @@
+{
+  "id": 2120,
+  "url": "https://en.numista.com/2120",
+  "title": "50 Yen - Heisei",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "japon",
+    "name": "Japan"
+  },
+  "min_year": 1989,
+  "max_year": 2019,
+  "ruler": [
+    {
+      "id": 336,
+      "name": "Heisei",
+      "wikidata_id": "Q234510"
+    }
+  ],
+  "value": {
+    "text": "50 Yen",
+    "numeric_value": 50,
+    "currency": {
+      "id": 197,
+      "name": "Yen",
+      "full_name": "Yen (1871-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21,
+  "thickness": 1.7,
+  "shape": "Round with a round hole",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Center hole flanked by chrysanthemum flowers, authority at top and value below",
+    "lettering": "日 本 国\r\n五 十 円",
+    "lettering_scripts": [
+      {
+        "name": "Chinese"
+      }
+    ],
+    "lettering_translation": "State of Japan\r\n50 yen",
+    "picture": "https://en.numista.com/catalogue/photos/japon/630eafeaa49390.25776867-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/japon/630eafeaa49390.25776867-180.jpg",
+    "picture_copyright": "Ben-jamin",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "reverse": {
+    "description": "Value in large font above the center hole with the date below",
+    "lettering": "５０\r\n平 成 9 年",
+    "lettering_scripts": [
+      {
+        "name": "Chinese"
+      }
+    ],
+    "lettering_translation": "50\r\nYear 9 of Heisei",
+    "picture": "https://en.numista.com/catalogue/photos/japon/630eafeb0b8a40.65883750-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/japon/630eafeb0b8a40.65883750-180.jpg",
+    "picture_copyright": "Ben-jamin",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "related_types": [
+    {
+      "id": 1026,
+      "title": "50 Yen - Shōwa",
+      "category": "coin",
+      "country": {
+        "code": "japon",
+        "name": "Japan"
+      },
+      "minYear": 1967,
+      "maxYear": 1988
+    },
+    {
+      "id": 182975,
+      "title": "50 Yen - Reiwa",
+      "category": "coin",
+      "country": {
+        "code": "japon",
+        "name": "Japan"
+      },
+      "minYear": 2019,
+      "maxYear": 2026
+    }
+  ],
+  "tags": [
+    "Flower"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "101"
+    },
+    {
+      "catalogue": {
+        "id": 3041,
+        "code": "JNDA"
+      },
+      "number": "02-7"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "75"
+    }
+  ],
+  "weight": 4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/japon/1905-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/japon/1905-180.jpg",
+    "picture_copyright": "Saber82"
+  },
+  "mints": [
+    {
+      "id": 41,
+      "name": "Japan Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

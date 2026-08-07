@@ -1,0 +1,147 @@
+{
+  "id": 3791,
+  "url": "https://en.numista.com/3791",
+  "title": "50 Tetri",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "georgie",
+    "name": "Georgia (1991-date)"
+  },
+  "min_year": 2006,
+  "max_year": 2006,
+  "ruler": [
+    {
+      "id": 3265,
+      "name": "Republic",
+      "wikidata_id": "Q230"
+    }
+  ],
+  "value": {
+    "text": "50 Tetri",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 98,
+      "name": "Lari",
+      "full_name": "Lari (1995-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24,
+  "thickness": 1.87,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Mamuka Gongadze"
+    ],
+    "description": "National arms",
+    "lettering": "ძალა ერთობაშია\r\nსაქართველო\r\n2006",
+    "lettering_scripts": [
+      {
+        "name": "Georgian (Mkhedruli)"
+      }
+    ],
+    "lettering_translation": "Power is in unity\r\nGeorgia\r\n2006",
+    "picture": "https://en.numista.com/catalogue/photos/georgie/67b4c971eb66f0.75482213-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/georgie/67b4c971eb66f0.75482213-180.jpg",
+    "picture_copyright": "Numismatica Quetzalcoatl",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Mamuka Gongadze"
+    ],
+    "description": "Value",
+    "lettering": "50\r\nთეთრი",
+    "lettering_scripts": [
+      {
+        "name": "Georgian (Mkhedruli)"
+      }
+    ],
+    "lettering_translation": "50 \r\nTetri",
+    "picture": "https://en.numista.com/catalogue/photos/georgie/67b4c9729415f4.89617328-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/georgie/67b4c9729415f4.89617328-180.jpg",
+    "picture_copyright": "Numismatica Quetzalcoatl",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "First mintage of 2006 50 tetri coins were struck at Austrian Mint. After 2006, the circulation increased several times. Coins were minted in various mints of Europe. Unfortunately, the exact number of first mintage, as well as the number of coins added at different times, as well as exact later mints, is unknown yet.<br />\r\nSo, year &quot;2006&quot; is frozen year on 2006 coins, as well as &quot;1993&quot; on previous coin family (1-50 tetri)",
+  "related_types": [
+    {
+      "id": 3792,
+      "title": "1 Lari",
+      "category": "coin",
+      "country": {
+        "code": "georgie",
+        "name": "Georgia (1991-date)"
+      },
+      "minYear": 2006,
+      "maxYear": 2018
+    },
+    {
+      "id": 3794,
+      "title": "2 Lari",
+      "category": "coin",
+      "country": {
+        "code": "georgie",
+        "name": "Georgia (1991-date)"
+      },
+      "minYear": 2006,
+      "maxYear": 2006
+    }
+  ],
+  "tags": [
+    "Cat or feline",
+    "Crown",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "89"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "31"
+    }
+  ],
+  "weight": 6.52,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded with edge lettering, repeated twice alternately upright and inverted",
+    "lettering": "საქართველო * GEORGIA * საქართველო * GEORGIA *",
+    "lettering_scripts": [
+      {
+        "name": "Georgian (Mkhedruli)"
+      },
+      {
+        "name": "Latin"
+      }
+    ]
+  },
+  "mints": [
+    {
+      "id": 232,
+      "name": "Münze Österreich"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

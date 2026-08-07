@@ -1,0 +1,167 @@
+{
+  "id": 889,
+  "url": "https://en.numista.com/889",
+  "title": "50 Centimes (Chambers of Commerce)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "france",
+    "name": "France"
+  },
+  "min_year": 1920,
+  "max_year": 1929,
+  "ruler": [
+    {
+      "id": 8,
+      "name": "Third Republic",
+      "wikidata_id": "Q70802",
+      "group": {
+        "id": 89,
+        "name": "Modern France"
+      }
+    }
+  ],
+  "value": {
+    "text": "50 Centimes",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 303,
+      "name": "Franc",
+      "full_name": "Franc (1795-1959)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1949-08-05"
+  },
+  "size": 18,
+  "thickness": 1.21,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Joseph-François Domard"
+    ],
+    "description": "Mercury, the god of commerce (god of abundance and commercial success) with the date below",
+    "lettering": "COMMERCE INDUSTRIE\r\nDOMARD INV.\r\n1925",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Commerce Industry\r\nDomard Inverted (invent)\r\n1925",
+    "picture": "https://en.numista.com/catalogue/photos/france/6512954b35f056.05826846-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/6512954b35f056.05826846-180.jpg",
+    "picture_copyright": "1925collection",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Joseph-François Domard"
+    ],
+    "description": "Denomination in center, lettering surrounding",
+    "lettering": "✿ CHAMBRES DE COMMERCE DE FRANCE\r\nBON POUR\r\n50\r\nCENTIMES\r\nBR. AL.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Chamber of Commerce of France\r\nGood For\r\n50\r\nCentimes\r\nBronze-Aluminium",
+    "picture": "https://en.numista.com/catalogue/photos/france/6512954cd5ef90.02292261-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/6512954cd5ef90.02292261-180.jpg",
+    "picture_copyright": "1925collection",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p><strong>Regarding open and closed figures:</strong><br>These are not different corners but defects of striking, therefore artifacts with obstructed corners. For lovers of these die chips, we can simply note that all 2 exist either open or closed, but that they are closed only by a small remnant of metal which were stuck there and not because of a corner differently engraved. We note the existence of 2 incompletely closed.<br>Extract from Franc 10<br><br>Trial without signature<br><a href=\"https://en.numista.com/catalogue/images/5e9046a182b0e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e9046a182b0e.jpg\" alt=\"\"></a><br>Trial with signature<br><a href=\"https://en.numista.com/catalogue/images/5e9046d709a42.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e9046d709a42.jpg\" alt=\"\"></a><br>Die chip with 2 open or 2 close<br><a href=\"https://en.numista.com/catalogue/images/5e904f066fa96.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e904f066fa96.jpg\" alt=\"\"></a><a href=\"https://en.numista.com/catalogue/images/5e904efca98c8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e904efca98c8.jpg\" alt=\"\"></a><br>Die chip 4 open or 4 close<br><a href=\"https://en.numista.com/catalogue/images/560d16bcc42dc.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/560d16bcc42dc.jpg\" alt=\"\"></a><br>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/6950f39716601.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6950f39716601.jpg\"></a></p><p><br><a href=\"https://en.numista.com/catalogue/images/67854698545e0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67854698545e0.jpg\"></a></p>",
+  "related_types": [
+    {
+      "id": 705,
+      "title": "1 Franc (Chambers of Commerce)",
+      "category": "coin",
+      "country": {
+        "code": "france",
+        "name": "France"
+      },
+      "minYear": 1920,
+      "maxYear": 1927
+    },
+    {
+      "id": 699,
+      "title": "2 Francs (Chambers of Commerce)",
+      "category": "coin",
+      "country": {
+        "code": "france",
+        "name": "France"
+      },
+      "minYear": 1920,
+      "maxYear": 1927
+    }
+  ],
+  "tags": [
+    "Caduceus"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 34,
+        "code": "Franc 2014"
+      },
+      "number": "191"
+    },
+    {
+      "catalogue": {
+        "id": 109,
+        "code": "Gad 1789"
+      },
+      "number": "421"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "884"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "196"
+    },
+    {
+      "catalogue": {
+        "id": 690,
+        "code": "GEM"
+      },
+      "number": "82.2 / 82.3"
+    }
+  ],
+  "weight": 2.08,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/france/69c570f92c0a93.78299611-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/69c570f92c0a93.78299611-180.jpg",
+    "picture_copyright": "Eagle68",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

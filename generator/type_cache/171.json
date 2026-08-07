@@ -1,0 +1,173 @@
+{
+  "id": 171,
+  "url": "https://en.numista.com/171",
+  "title": "5 Rappen (Libertas; aluminium-bronze)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "suisse",
+    "name": "Switzerland (1848-date)"
+  },
+  "min_year": 1981,
+  "max_year": 2026,
+  "ruler": [
+    {
+      "id": 2857,
+      "name": "Federal State",
+      "wikidata_id": "Q355857"
+    }
+  ],
+  "value": {
+    "text": "5 Rappen",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 82,
+      "name": "Franc",
+      "full_name": "Franc (1850-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 17.15,
+  "thickness": 1.25,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze (92% copper, 6% aluminium, 2% nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Karl Schwenzer"
+    ],
+    "description": "Head of Libertas (Roman goddess of liberty) facing right, with braided hair tied with ribbon, and wearing tiara.",
+    "lettering": "CONFŒDERATIO HELVETICA\r\nLIBERTAS\r\n᛭ 2005 ᛭",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Confoederatio Helvetica",
+    "lettering_translation": "Swiss Confederation\nLiberty",
+    "picture": "https://en.numista.com/catalogue/photos/suisse/67b25f87766e81.70768908-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suisse/67b25f87766e81.70768908-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "reverse": {
+    "designers": [
+      "Carl Friedrich Voigt"
+    ],
+    "description": "Wreath formed of two branches of grape vine bearing three bunches of grapes each and bound with a ribbon below.",
+    "lettering": "5\r\nB",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/suisse/67b25f87ed91d5.21472895-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suisse/67b25f87ed91d5.21472895-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "series": "Libertas series",
+  "comments": "<p><a href=\"https://fr.numista.com/catalogue/images/6964faacf0b82.png\"><img src=\"https://fr.numista.com/catalogue/images/miniatures/6964faacf0b82.png\"></a><a href=\"https://fr.numista.com/catalogue/images/6964faae73ce1.png\"><img src=\"https://fr.numista.com/catalogue/images/miniatures/6964faae73ce1.png\"></a></p>",
+  "related_types": [
+    {
+      "id": 168,
+      "title": "5 Rappen (Libertas; copper-nickel)",
+      "category": "coin",
+      "country": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "minYear": 1879,
+      "maxYear": 1980
+    },
+    {
+      "id": 169,
+      "title": "5 Rappen (Libertas; brass)",
+      "category": "coin",
+      "country": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "minYear": 1918,
+      "maxYear": 1918
+    },
+    {
+      "id": 170,
+      "title": "5 Rappen (Libertas; nickel)",
+      "category": "coin",
+      "country": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "minYear": 1932,
+      "maxYear": 1941
+    }
+  ],
+  "tags": [
+    "Allegory",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 1253,
+        "code": "HMZ 2"
+      },
+      "number": "1212"
+    },
+    {
+      "catalogue": {
+        "id": 962,
+        "code": "Divo/Tob19"
+      },
+      "number": "–"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "26c"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "24c"
+    },
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "–"
+    }
+  ],
+  "weight": 1.8,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/suisse/5f9f2db8d69809.66838809-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suisse/5f9f2db8d69809.66838809-180.jpg",
+    "picture_copyright": "stratocaster",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 247,
+      "name": "Bern"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

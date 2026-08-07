@@ -1,0 +1,206 @@
+{
+  "id": 1049,
+  "url": "https://en.numista.com/1049",
+  "title": "5 Centavos (Tiradentes)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bresil",
+    "name": "Brazil"
+  },
+  "min_year": 1998,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 2684,
+      "name": "Federative Republic of Brazil",
+      "wikidata_id": "Q155"
+    }
+  ],
+  "value": {
+    "text": "5 Centavos",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 158,
+      "name": "Real",
+      "full_name": "Real (1994-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 22,
+  "thickness": 1.65,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Portrait of Joaquím José da Silva Xavier (Tiradentes)",
+    "lettering": "BRASIL \r\nTIRADENTES",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Brazil\r\nTiradentes",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/6415b3e476a003.71121194-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/6415b3e476a003.71121194-180.jpg",
+    "picture_copyright": "Rogbert",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Denomination above the date in front of diagonal stripes and the southern cross",
+    "lettering": "5 \r\nCENTAVOS \r\n2010",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bresil/6415b3e527e237.08405048-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/6415b3e527e237.08405048-180.jpg",
+    "picture_copyright": "Rogbert",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p>Joaquim José da Silva Xavier (1746 - 1792), also known as Tiradentes, was a leader of the colonial Brazil revolutionary movement to seek full independence from Portuguese rule.</p><p>&nbsp;</p><p>Variant list:<br>1. 1998-2002: \"T\" wholly inside stripes; 13 lines; no mintmark;<br>2. 2003-2007: \"T\" partially inside stripes: 13 lines; no mintmark;<br>3. 2007-date: \"T\" partially inside stripes; 12 lines; no mintmark;<br>4. 2019: \"T\" partially inside stripes; 12 lines; \"A\" mintmark.<br>&nbsp;</p><p>13-12 lines variants:</p><p><a href=\"https://en.numista.com/catalogue/images/5c98f4ad8600c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5c98f4ad8600c.jpg\" alt=\"\"></a></p><p><br>2019 mint variants:<br><a href=\"https://en.numista.com/catalogue/images/6389f6a6c696a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6389f6a6c696a.jpg\" alt=\"\"></a><br><br><a href=\"https://en.numista.com/catalogue/images/67cce40a50431.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67cce40a50431.jpg\"></a> <a href=\"https://en.numista.com/catalogue/images/67cce40eacb04.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67cce40eacb04.jpg\"></a></p><p>Official Sets - 2018 - Mintage 3000 Sets</p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/5d87a4d855fff.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d87a4d855fff.jpg\" alt=\"\"></a> <a href=\"https://en.numista.com/catalogue/images/5d87a4e1d1e0e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d87a4e1d1e0e.jpg\" alt=\"\"></a><br>Official Sets - 2019 - Mintage 3000 Sets</p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/67ce2b6e785bb.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67ce2b6e785bb.jpg\"></a> <a href=\"https://en.numista.com/catalogue/images/67ce2b71c0f43.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67ce2b71c0f43.jpg\"></a></p><p>Official card with complete set, including 1 real commemorative coin</p><p><br><a href=\"https://en.numista.com/catalogue/images/641307b5e0e9d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/641307b5e0e9d.jpg\" alt=\"\"></a> <a href=\"https://en.numista.com/catalogue/images/64130788c0e8e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64130788c0e8e.jpg\" alt=\"\"></a><br>Official Sets - 2020 - Mintage 5 000 Sets</p><p><br><a href=\"https://en.numista.com/catalogue/images/620679d53a69c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/620679d53a69c.jpg\" alt=\"\"></a> <a href=\"https://en.numista.com/catalogue/images/620679f0268ec.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/620679f0268ec.jpg\" alt=\"\"></a><br>Official Sets - 2021 - Mintage 5 000 Sets</p>",
+  "related_types": [
+    {
+      "id": 4049,
+      "title": "1 Centavo (Cabral)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1998,
+      "maxYear": 2004
+    },
+    {
+      "id": 2253,
+      "title": "10 Centavos (Pedro I)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1998,
+      "maxYear": 2025
+    },
+    {
+      "id": 2252,
+      "title": "25 Centavos (Deodoro da Fonseca)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1998,
+      "maxYear": 2025
+    },
+    {
+      "id": 8895,
+      "title": "50 Centavos (Rio Branco; copper-nickel)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1998,
+      "maxYear": 2001
+    },
+    {
+      "id": 666,
+      "title": "50 Centavos (Rio Branco; stainless steel)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 2002,
+      "maxYear": 2024
+    },
+    {
+      "id": 94947,
+      "title": "50 Centavos (Mule Coin)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 2012,
+      "maxYear": 2012
+    },
+    {
+      "id": 3817,
+      "title": "1 Real",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1998,
+      "maxYear": 1999
+    },
+    {
+      "id": 8896,
+      "title": "1 Real",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 2002,
+      "maxYear": 2024
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Military leader",
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "648"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "156"
+    }
+  ],
+  "weight": 4.1,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/666639b9dcb239.32682702-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/666639b9dcb239.32682702-180.jpg",
+    "picture_copyright": "Julio Vega",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 1335,
+      "name": "Mint of Brazil"
+    },
+    {
+      "id": 23,
+      "name": "Royal Dutch Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

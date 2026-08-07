@@ -1,0 +1,220 @@
+{
+  "id": 8851,
+  "url": "https://en.numista.com/8851",
+  "title": "50 Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bresil",
+    "name": "Brazil"
+  },
+  "issuing_entity": {
+    "id": 900,
+    "name": "Central Bank of Brazil",
+    "wikidata_id": "Q806186"
+  },
+  "min_year": 1967,
+  "max_year": 1967,
+  "ruler": [
+    {
+      "id": 2684,
+      "name": "Federative Republic of Brazil",
+      "wikidata_id": "Q155"
+    }
+  ],
+  "value": {
+    "text": "50 Centavos",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 206,
+      "name": "Cruzeiro novo",
+      "full_name": "Cruzeiro novo (1967-1986)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1980-08-03"
+  },
+  "size": 27,
+  "thickness": 1.9,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Benedicto de Araújo Ribeiro"
+    ],
+    "designers": [
+      "Benedicto de Araújo Ribeiro"
+    ],
+    "description": "Effigy with phrygian cap representing the Republic / \"BRASIL\". Compass rose below and star at top",
+    "lettering": "BRASIL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bresil/6415c608b06143.58194670-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/6415c608b06143.58194670-180.jpg",
+    "picture_copyright": "Rogbert",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Benedicto de Araújo Ribeiro"
+    ],
+    "designers": [
+      "Benedicto de Araújo Ribeiro"
+    ],
+    "description": "Representation of Naval Industry with a cargo ship in a port next a crane / Face Value on the right, Year below",
+    "lettering": "50 \r\nCENTAVOS \r\n1967",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bresil/6415c609a34dc6.28787804-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/6415c609a34dc6.28787804-180.jpg",
+    "picture_copyright": "Rogbert",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p>The production of Cruzeiro Novo (NCr$) coins continued after the change of monetary standard to Cruzeiro (Cr$) in 1970.&nbsp;<br>Therefore, the Central Bank of Brazil considers coins after 1970 to belong to the new Cruzeiro monetary unit. Coins minted in 1967 entered circulation in 1968.</p><p>The Cruzeiro Novo coins (NCr$), 1967-1969), continued in use until 1980 alongside the Cruzeiro coins</p>",
+  "related_types": [
+    {
+      "id": 6794,
+      "title": "1 Centavo",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1967,
+      "maxYear": 1975
+    },
+    {
+      "id": 6437,
+      "title": "2 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1967,
+      "maxYear": 1975
+    },
+    {
+      "id": 2821,
+      "title": "5 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1967,
+      "maxYear": 1975
+    },
+    {
+      "id": 2243,
+      "title": "10 Centavos (non magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1967,
+      "maxYear": 1970
+    },
+    {
+      "id": 1016,
+      "title": "20 Centavos (non magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1967,
+      "maxYear": 1970
+    },
+    {
+      "id": 1050,
+      "title": "50 Centavos (Non-magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1970,
+      "maxYear": 1975
+    },
+    {
+      "id": 2248,
+      "title": "1 Cruzeiro",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1967,
+      "maxYear": 1970
+    }
+  ],
+  "tags": [
+    "Boat or watercraft"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "580"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "85"
+    },
+    {
+      "catalogue": {
+        "id": 1678,
+        "code": "Bentes"
+      },
+      "number": "697.01"
+    },
+    {
+      "catalogue": {
+        "id": 1185,
+        "code": "AI Coins"
+      },
+      "number": "V311"
+    }
+  ],
+  "weight": 8.74,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/65c123d401fa75.56336022-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/65c123d401fa75.56336022-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 1335,
+      "name": "Mint of Brazil"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

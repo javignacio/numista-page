@@ -1,0 +1,124 @@
+{
+  "id": 902,
+  "url": "https://en.numista.com/902",
+  "title": "25 Cents",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "aruba",
+    "name": "Aruba"
+  },
+  "min_year": 1986,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 3297,
+      "name": "Beatrix",
+      "wikidata_id": "Q29574",
+      "group": {
+        "id": 752,
+        "name": "House of Orange-Nassau"
+      }
+    },
+    {
+      "id": 3298,
+      "name": "Willem-Alexander",
+      "wikidata_id": "Q154952",
+      "group": {
+        "id": 752,
+        "name": "House of Orange-Nassau"
+      }
+    }
+  ],
+  "value": {
+    "text": "25 Cents",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 69,
+      "name": "Florin",
+      "full_name": "Florin (1986-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 20,
+  "thickness": 1.65,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Evelino Fingal"
+    ],
+    "description": "The state name above the Aruban coat of arms to the right and the year and privy mark to the left",
+    "lettering": "ARUBA \r\n1988",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/aruba/186-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/aruba/186-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "reverse": {
+    "engravers": [
+      "Evelino Fingal"
+    ],
+    "description": "Triangular geometric shapes below the denomination",
+    "lettering": "25 c",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/aruba/187-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/aruba/187-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "comments": "<p><a href=\"https://en.numista.com/catalogue/images/672e55a60878a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/672e55a60878a.jpg\"></a></p>",
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "3"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "3"
+    }
+  ],
+  "weight": 3.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/aruba/625a8b640c9fc9.77418801-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/aruba/625a8b640c9fc9.77418801-180.jpg",
+    "picture_copyright": "CyrusPamelaOne",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 23,
+      "name": "Royal Dutch Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

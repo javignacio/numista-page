@@ -1,0 +1,149 @@
+{
+  "id": 6940,
+  "url": "https://en.numista.com/6940",
+  "title": "2 Forint",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "hongrie",
+    "name": "Hungary"
+  },
+  "min_year": 1957,
+  "max_year": 1962,
+  "ruler": [
+    {
+      "id": 1800,
+      "name": "People's Republic",
+      "wikidata_id": "Q16410"
+    }
+  ],
+  "value": {
+    "text": "2 Forint",
+    "numeric_value": 2,
+    "currency": {
+      "id": 71,
+      "name": "Forint",
+      "full_name": "Forint (1946-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1971-06-30"
+  },
+  "size": 25,
+  "thickness": 1.4,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Iván István"
+    ],
+    "description": "Shield with wreath around and star above.",
+    "lettering": "MAGYAR · NÉPKÖZTÁRSASÁG\r\n1961",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Hungarian People's Republic",
+    "picture": "https://en.numista.com/catalogue/photos/hongrie/60ba6d10a90600.61859349-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hongrie/60ba6d10a90600.61859349-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "Iván István"
+    ],
+    "description": "Value in wreath",
+    "lettering": "2\r\nBP.\r\nFORINT",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/hongrie/60ba6d113896c5.22437543-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hongrie/60ba6d113896c5.22437543-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "related_types": [
+    {
+      "id": 6409,
+      "title": "2 Forint",
+      "category": "coin",
+      "country": {
+        "code": "hongrie",
+        "name": "Hungary"
+      },
+      "minYear": 1962,
+      "maxYear": 1966
+    },
+    {
+      "id": 14952,
+      "title": "2 Forint (Set Issue)",
+      "category": "coin",
+      "country": {
+        "code": "hongrie",
+        "name": "Hungary"
+      },
+      "minYear": 1966,
+      "maxYear": 1967
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "556"
+    },
+    {
+      "catalogue": {
+        "id": 16,
+        "code": "H"
+      },
+      "number": "2321"
+    },
+    {
+      "catalogue": {
+        "id": 14,
+        "code": "ÉH"
+      },
+      "number": "1585"
+    },
+    {
+      "catalogue": {
+        "id": 360,
+        "code": "Adamo"
+      },
+      "number": "F7.2"
+    }
+  ],
+  "weight": 5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Smooth with wavy pattern (10 times).",
+    "picture": "https://en.numista.com/catalogue/photos/hongrie/2848-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hongrie/2848-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 1248,
+      "name": "Hungarian mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,119 @@
+{
+  "id": 59,
+  "url": "https://en.numista.com/59",
+  "title": "5 Euro Cents",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "autriche",
+    "name": "Austria"
+  },
+  "min_year": 2002,
+  "max_year": 2026,
+  "ruler": [
+    {
+      "id": 149,
+      "name": "Second Republic",
+      "wikidata_id": "Q40"
+    }
+  ],
+  "value": {
+    "text": "5 Euro Cents",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 9002,
+      "name": "Euro",
+      "full_name": "Euro (2002-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2002-01-01"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21.25,
+  "thickness": 1.67,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Josef Kaiser"
+    ],
+    "description": "The Mountain Cowslip (Primula auricula), an Alpine flower, symbolising a duty to the environment, are encircled by the face value, heraldic hatchings representing the Austrian flag and the twelve stars of Europe.",
+    "lettering": "FÜNF EURO CENT 2013",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/autriche/654246f0796620.35756162-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/autriche/654246f0796620.35756162-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Luc Luycx"
+    ],
+    "description": "A globe, next to the face value, shows Europe in relation to Africa and Asia",
+    "lettering": "5 EURO CENT LL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/autriche/654246f20323c1.54152797-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/autriche/654246f20323c1.54152797-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p><a href=\"https://en.numista.com/catalogue/images/5eb162e22e332.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5eb162e22e332.jpg\" alt=\"\"></a><br><a href=\"https://en.numista.com/catalogue/images/5eb162ec7623a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5eb162ec7623a.jpg\" alt=\"\"></a><br><br>New version of the common side seen from 2018 onwards. Main differences:<br>&nbsp;- Thicker and shorter numeral<br>&nbsp;- Rounded edges of the numeral<br>&nbsp;- Thicker font in \"EURO CENT\"<br>&nbsp;- Thicker lines with longer ends outside of stars<br><a href=\"https://en.numista.com/catalogue/images/5ed6053f062dd.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5ed6053f062dd.jpg\" alt=\"\"></a></p><p>&nbsp;</p><p>The obverse is widely mistaken as an Alpine Primrose (<i>Primula angustifolia<strong>)</strong></i>, a flower native to the United States. &nbsp;The official mint description states that “the three smallest coins in the collection are all decorated with <i><strong>alpine flowers</strong></i>\" with the “ 5 cent piece with <i><strong>primula auricula</strong></i>, the mountain cowslip.” (emphasis added). &nbsp;</p>",
+  "tags": [
+    "Map",
+    "Globe",
+    "Flower"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "3084"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "279"
+    }
+  ],
+  "weight": 3.92,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/autriche/3023-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/autriche/3023-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 232,
+      "name": "Austrian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

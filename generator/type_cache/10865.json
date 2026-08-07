@@ -1,0 +1,149 @@
+{
+  "id": 10865,
+  "url": "https://en.numista.com/10865",
+  "title": "½ Dollar \"Kennedy Half Dollar\" (40% Silver)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "etats-unis",
+    "name": "United States"
+  },
+  "min_year": 1965,
+  "max_year": 1970,
+  "ruler": [
+    {
+      "id": 4720,
+      "name": "Federal republic",
+      "wikidata_id": "Q30"
+    }
+  ],
+  "value": {
+    "text": "½ Dollar ",
+    "numeric_value": 0.5,
+    "numerator": 1,
+    "denominator": 2,
+    "currency": {
+      "id": 59,
+      "name": "Dollar",
+      "full_name": "Dollar (1785-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 30.61,
+  "thickness": 2.15,
+  "shape": "Round",
+  "composition": {
+    "text": "Billon (.400 silver)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Gilroy Roberts"
+    ],
+    "description": "Profile of John Fitzgerald Kennedy facing left",
+    "lettering": "LIBERTY\r\nGR\r\nIN GOD WE TRUST\r\n1965",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/2237-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/2237-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "engravers": [
+      "Frank Gasparro"
+    ],
+    "description": "Modified presidential seal of the United States of America (A shield (with vertical stripes) on the chest of an American eagle, holding an olive branch on its right talon and a bundle of thirteen arrows on its left, with the words \"E PLURIBUS UNUM\" in the scroll held in the bird's beak, with a circle of stars surrounding the eagle",
+    "lettering": "UNITED STATES OF AMERICA\r\nE PLURIBUS UNUM\r\nFG\r\nHALF DOLLAR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "OUT OF MANY, ONE\r\nFG\r\nHALF DOLLAR",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/2238-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/2238-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "<p>Gilroy Roberts monogram, which some confuse for a hammer and sickle, appears on the truncation.<br><img src=\"https://en.numista.com/catalogue/images/5acb6f49cdd73.jpg\" alt=\"\"><br><br>1966 SMS, Double Die Obverse<br><a href=\"https://en.numista.com/catalogue/images/68832b476e472.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/68832b476e472.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/68832b478ea83.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/68832b478ea83.jpg\"></a><br>From 1965 to 1967, these coins were minted in Philadelphia and Denver without a mintmark.<br><br>The outer layer of the coins is a mixture of .800 silver, which is bonded to an inner core made from .209 silver, for a net composition of .400 silver.</p>",
+  "related_types": [
+    {
+      "id": 943,
+      "title": "½ Dollar \"Kennedy Half Dollar\" (90% Silver)",
+      "category": "coin",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 1964,
+      "maxYear": 1964
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Eagle",
+    "Politician",
+    "Coat of Arms",
+    "Cold weapons"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "202a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "203a"
+    }
+  ],
+  "weight": 11.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/4136-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/4136-180.jpg",
+    "picture_copyright": "jasanche",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 10,
+      "name": "United States Mint of Denver"
+    },
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    },
+    {
+      "id": 10,
+      "name": "United States Mint of Denver"
+    },
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    },
+    {
+      "id": 12,
+      "name": "United States Mint of San Francisco"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

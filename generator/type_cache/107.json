@@ -1,0 +1,140 @@
+{
+  "id": 107,
+  "url": "https://en.numista.com/107",
+  "title": "5 Euro Cents",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "allemagne",
+    "name": "Germany, Federal Republic of"
+  },
+  "min_year": 2002,
+  "max_year": 2026,
+  "ruler": [
+    {
+      "id": 2860,
+      "name": "Federal Republic",
+      "wikidata_id": "Q183"
+    }
+  ],
+  "value": {
+    "text": "5 Euro Cents",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 9007,
+      "name": "Euro",
+      "full_name": "Euro (2002-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2002-01-01"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21.25,
+  "thickness": 1.67,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Rolf Lederbogen"
+    ],
+    "description": "An oak twig, symbolizing stability, is surrounded with the twelve stars of Europe.",
+    "lettering": "A 2006",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/allemagne/61fde61bf27925.91167153-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/61fde61bf27925.91167153-180.jpg",
+    "picture_copyright": "Mike Bentley",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Luc Luycx"
+    ],
+    "description": "A globe, next to the face value, shows Europe in relation to Africa and Asia",
+    "lettering": "5 EURO CENT LL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/allemagne/61fde61ce40330.51779213-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/61fde61ce40330.51779213-180.jpg",
+    "picture_copyright": "Mike Bentley",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p>Smaller reverse (kleinesmünzbild) for 2002 D coins:</p><p><a href=\"https://en.numista.com/catalogue/images/65ff1f9f652e4.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/65ff1f9f652e4.jpg\"></a></p><p>(It is estimated that around 7 million Kleinesmünzbild (Type 2) coins were struck)</p><p>&nbsp;</p><p>Different varieties of 2002 D coins:</p><p><a href=\"https://en.numista.com/catalogue/images/5c99416f2b43c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5c99416f2b43c.jpg\" alt=\"\"></a></p><p>&nbsp;</p><p>On coins from 2019, change of the size of the oak leaf:<br><a href=\"https://en.numista.com/catalogue/images/663c8136c18c7.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/663c8136c18c7.jpg\"></a><br><br><a href=\"https://en.numista.com/catalogue/images/5ce1da4b54776.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5ce1da4b54776.jpg\" alt=\"\"></a><br>©Ulmo<br><br><a href=\"https://en.numista.com/catalogue/images/60895e968072d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/60895e968072d.jpg\" alt=\"\"></a></p>",
+  "tags": [
+    "Map"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "209"
+    },
+    {
+      "catalogue": {
+        "id": 80,
+        "code": "J"
+      },
+      "number": "484"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "208"
+    }
+  ],
+  "weight": 3.92,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/allemagne/2010-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/2010-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 5,
+      "name": "Berlin"
+    },
+    {
+      "id": 1,
+      "name": "Munich"
+    },
+    {
+      "id": 2,
+      "name": "Staatliche Münze Baden-Württemberg"
+    },
+    {
+      "id": 3,
+      "name": "Staatliche Münze Baden-Württemberg"
+    },
+    {
+      "id": 4,
+      "name": "Hamburgische Münze"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

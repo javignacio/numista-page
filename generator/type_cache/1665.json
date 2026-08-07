@@ -1,0 +1,143 @@
+{
+  "id": 1665,
+  "url": "https://en.numista.com/1665",
+  "title": "1 Dollar (ribbon downwards)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "singapour",
+    "name": "Singapore"
+  },
+  "min_year": 1992,
+  "max_year": 2013,
+  "ruler": [
+    {
+      "id": 906,
+      "name": "Republic",
+      "wikidata_id": "Q334"
+    }
+  ],
+  "value": {
+    "text": "1 Dollar",
+    "numeric_value": 1,
+    "currency": {
+      "id": 55,
+      "name": "Dollar",
+      "full_name": "Dollar (1967-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 22.4,
+  "thickness": 2.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Christopher Ironside"
+    ],
+    "description": "The arms of Singapore with the date underneath and 'Singapore' on four sides in English, Tamil, Chinese, and Malay.",
+    "lettering": "SINGAPURA \r\nசிங்கப்பூர் 新加坡\r\n1997\r\nSINGAPORE",
+    "lettering_scripts": [
+      {
+        "name": "Chinese (simplified)"
+      },
+      {
+        "name": "Latin"
+      },
+      {
+        "name": "Tamil"
+      }
+    ],
+    "lettering_translation": "Singapore",
+    "picture": "https://en.numista.com/catalogue/photos/singapour/373-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/singapour/373-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "reverse": {
+    "engravers": [
+      "Christopher Ironside"
+    ],
+    "description": "The denomination in Latin at the top and a rosy periwinkle blossom (Binomial Name: Lochnera rosea) with the denomination in numerals below",
+    "lettering": "ONE DOLLAR\r\n$1",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/singapour/374-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/singapour/374-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "comments": "<p>This coin has two different versions. The coins before 1995 (included) have larger size date numbers than those after 1997 (included).</p><p><a href=\"https://en.numista.com/catalogue/images/686fafd3b1cfe.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686fafd3b1cfe.jpg\"></a></p>",
+  "related_types": [
+    {
+      "id": 1663,
+      "title": "1 Dollar (ribbon upwards)",
+      "category": "coin",
+      "country": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "minYear": 1987,
+      "maxYear": 1991
+    }
+  ],
+  "tags": [
+    "Cat or feline",
+    "Flower",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "103"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "81"
+    }
+  ],
+  "weight": 6.3,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded with inscription, either the right way, or upside down.",
+    "lettering": "REPUBLIC OF SINGAPORE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/singapour/695b5cf1da3d74.90254561-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/singapour/695b5cf1da3d74.90254561-180.jpg",
+    "picture_copyright": "ngdawa",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 25,
+      "name": "Singapore Mint"
+    },
+    {
+      "id": 25,
+      "name": "Singapore Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

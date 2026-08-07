@@ -1,0 +1,126 @@
+{
+  "id": 21115,
+  "url": "https://en.numista.com/21115",
+  "title": "10 Centavos (smooth edge; magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "argentine",
+    "name": "Argentina"
+  },
+  "min_year": 2006,
+  "max_year": 2011,
+  "ruler": [
+    {
+      "id": 3983,
+      "name": "Federal Republic",
+      "wikidata_id": "Q414"
+    }
+  ],
+  "value": {
+    "text": "10 Centavos",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 145,
+      "name": "Peso convertible",
+      "full_name": "Peso convertible (1992-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 18.2,
+  "thickness": 1.3,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Rising sun behind the centre ellipse surrounded by a wreath with two shaking hands hold a pike inside and a Phrygian cap on top",
+    "lettering": ".REPUBLICA ARGENTINA.\r\nEN UNION Y LIBERTAD",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Argentina\r\nIn Union and Liberty",
+    "picture": "https://en.numista.com/catalogue/photos/argentine/5f464f16ece7d7.13107854-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/5f464f16ece7d7.13107854-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Value, date below",
+    "lettering": "10\r\ncentavos\r\n2011",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/argentine/5f464f17341728.48555942-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/5f464f17341728.48555942-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "related_types": [
+    {
+      "id": 2214,
+      "title": "10 Centavos (reeded edge; non-magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 1992,
+      "maxYear": 2006
+    }
+  ],
+  "tags": [
+    "Coat of Arms",
+    "Phrygian cap",
+    "Sun"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "107a"
+    },
+    {
+      "catalogue": {
+        "id": 160,
+        "code": "CJ"
+      },
+      "number": "3"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "110a"
+    }
+  ],
+  "weight": 2.2,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 1336,
+      "name": "Buenos Aires"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,187 @@
+{
+  "id": 1633,
+  "url": "https://en.numista.com/1633",
+  "title": "25 Paise",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "inde",
+    "name": "India"
+  },
+  "min_year": 1972,
+  "max_year": 1990,
+  "ruler": [
+    {
+      "id": 2943,
+      "name": "Republic",
+      "wikidata_id": "Q668"
+    }
+  ],
+  "value": {
+    "text": "25 Paise",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 171,
+      "name": "Rupee",
+      "full_name": "Rupee (decimalized, 1957-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2011-06-30"
+  },
+  "size": 19,
+  "thickness": 1.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Asoka lion pedestal\r\n\r\nNOTE: Different National Emblem Types \r\nType 1: Side lions toothless with 2 to 3 fur rows, short squat D in INDIA.\r\nType 2: Asoka lion pedestal more imposing. Side lions with 3 or 4 fur rows, more elegant D in INDIA. The shape of the D in INDIA is the easiest way to distinguish this obverse.\r\nTYPE 3: Similar to Type 1 but 2 teeth, 4 to 5 fur rows, smaller lion head.\r\n\r\nNOTE: redesigns of types exist, several varieties.",
+    "lettering": "भारत INDIA",
+    "lettering_scripts": [
+      {
+        "name": "Devanagari"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/inde/2204-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/inde/2204-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "reverse": {
+    "description": "Denomination above the date",
+    "lettering": "पैसे PAISE\r\n 25\r\n1974\r\nB",
+    "lettering_scripts": [
+      {
+        "name": "Devanagari"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/inde/3119-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/inde/3119-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "comments": "<p>Bombay mintmarks<br>♦ - Circulation strikes<br>B - Proof strikes<br><br>KM#49.1 Type 1 - lion with whiskers, faces and wheel redesigned.<br>KM#49.2 Type 2 - 9 mm between lions' nose tips, 15 mm across field. Bull has three legs.<br>KM#49.3 Type 2 - 10 mm between lion nose tips, 16-16.3 mm across field. Bull has three legs.<br>KM#49.4 Type 1 - central lion with bull and horse re-engraved.<br>KM#49.5 Type 3.<br>KM#49.6 Type 2 - 9-1/2 mm between lions' nose tips. Bull has four legs.<br>KM#49.7 Mule: Obverse of KM#48.2 Nickel issue (Lion face without whiskers) and Reverse of KM#49.1.<br><a href=\"https://en.numista.com/catalogue/images/690b9610b9b3a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/690b9610b9b3a.jpg\"></a></p><p><br><a href=\"https://en.numista.com/catalogue/images/5b59dd976d0e5.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5b59dd976d0e5.jpg\" alt=\"\"></a><br><br><br>- The center Lion on the KM#49.4 has re-engraved mouth, chest hair and bull and horse (click on image to zoom).<br><a href=\"https://en.numista.com/catalogue/images/5b89644c3c881.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5b89644c3c881.jpg\" alt=\"\"></a><br><br>1988 Calcutta mint details:<br>Obverse: different lions<br>Reverse: wide and narrow date<br><a href=\"https://en.numista.com/catalogue/images/5f45c5d9daa45.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5f45c5d9daa45.jpg\" alt=\"\"></a><br><br>Detail of re-engraving KM#49.7 vs KM#49.1.<br><a href=\"https://en.numista.com/catalogue/images/581b2b57a486e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/581b2b57a486e.jpg\" alt=\"\"></a><br><br>1976B Borders<br><a href=\"https://en.numista.com/catalogue/images/62d26ed219ca6.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/62d26ed219ca6.jpg\" alt=\"\"></a></p>",
+  "related_types": [
+    {
+      "id": 6325,
+      "title": "25 Paise",
+      "category": "coin",
+      "country": {
+        "code": "inde",
+        "name": "India"
+      },
+      "minYear": 1964,
+      "maxYear": 1968
+    }
+  ],
+  "tags": [
+    "Cat or feline",
+    "Coat of Arms",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "49"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "49.1"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "49.2"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "49.3"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "49.4"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "49.5"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "49.6"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "49.7"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "80"
+    }
+  ],
+  "weight": 2.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded.\r\nNOTE: 1984-86 issues of KM#49.1 have edge varieties: rounded (local blanks) or flat (Korean blanks)."
+  },
+  "mints": [
+    {
+      "id": 1803,
+      "name": "Kolkata / Calcutta / Murshidabad"
+    },
+    {
+      "id": 1806,
+      "name": "Hyderabad"
+    },
+    {
+      "id": 1804,
+      "name": "Mumbai / Bombay"
+    },
+    {
+      "id": 1804,
+      "name": "Mumbai / Bombay"
+    },
+    {
+      "id": 19,
+      "name": "Royal Canadian Mint of Ottawa"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

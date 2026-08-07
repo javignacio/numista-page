@@ -1,0 +1,105 @@
+{
+  "id": 12943,
+  "url": "https://en.numista.com/12943",
+  "title": "2 Guineas - Charles II (2nd bust)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "england",
+    "name": "England"
+  },
+  "min_year": 1675,
+  "max_year": 1684,
+  "ruler": [
+    {
+      "id": 515,
+      "name": "Charles II",
+      "wikidata_id": "Q122553",
+      "group": {
+        "id": 28,
+        "name": "House of Stuart Restored (1660-1714)"
+      }
+    }
+  ],
+  "value": {
+    "text": "2 Guineas",
+    "numeric_value": 2,
+    "currency": {
+      "id": 9077,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1970)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "shape": "Round",
+  "composition": {
+    "text": "Gold (.917)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "John Roettier"
+    ],
+    "description": "Second laureate bust of King Charles II right, legend around.\r\n\r\nNote: rounded truncation",
+    "lettering": "CAROLVS·II· DEI·GRATIA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Charles the Second by the Grace of God",
+    "picture": "https://en.numista.com/catalogue/photos/england/449-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/england/449-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "engravers": [
+      "John Roettier"
+    ],
+    "description": "Crowned cruciform shields around interlinked C's with sceptres bearing national emblems in angles, divided date above, legend around.",
+    "lettering": "MAG· BR·FRA· ET·HIB· REX·16 82·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "King of Great Britain France and Ireland",
+    "picture": "https://en.numista.com/catalogue/photos/england/450-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/england/450-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "<span style=\"font-style:italic;\">Obverse die varieties:</span><br /><br />\r\n<span style=\"font-weight:bold;\">Sp#3335, KM#443.1</span> <span style=\"font-style:italic;\">(1675-84)</span> Second laureate bust, rounded truncation;<br />\r\n<span style=\"font-weight:bold;\">Sp#3336, KM#443.2</span> <span style=\"font-style:italic;\">(1676-84)</span> Similar, elephant and castle below bust;<br />\r\n<span style=\"font-weight:bold;\">Sp#3337, KM#443.3</span> <span style=\"font-style:italic;\">(1678 only)</span> Similar, elephant below bust.<br />\r\n&nbsp;<br />\r\nThese coins were struck at 22¼ to the pound troy, giving a standard weight of 48/89 troy ounce (258.9 grains).",
+  "tags": [
+    "Cat or feline",
+    "Crown",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "3335-7"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "443"
+    }
+  ],
+  "weight": 16.77,
+  "orientation": "coin",
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

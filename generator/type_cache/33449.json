@@ -1,0 +1,171 @@
+{
+  "id": 33449,
+  "url": "https://en.numista.com/33449",
+  "title": "1 Dinar (2nd Coat of Arms; Magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "serbie",
+    "name": "Serbia"
+  },
+  "min_year": 2011,
+  "max_year": 2024,
+  "ruler": [
+    {
+      "id": 2945,
+      "name": "Republic",
+      "wikidata_id": "Q403"
+    }
+  ],
+  "value": {
+    "text": "1 Dinar",
+    "numeric_value": 1,
+    "currency": {
+      "id": 29,
+      "name": "Dinar",
+      "full_name": "Dinar (2003-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2011-05-20"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 20,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Plated steel (brass plating over copper plating)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Serbian coat of arms (with the flat bottom of the top crown)",
+    "lettering": "РЕПУБЛИКА СРБИJА-REPUBLIKA SRBIJA\r\n•НБС-NBS•",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Serbia - Republic of Serbia\r\nNBS - NBS (National Bank of Serbia)",
+    "picture": "https://en.numista.com/catalogue/photos/serbie/68c3df62487b25.98710088-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/serbie/68c3df62487b25.98710088-180.jpg",
+    "picture_copyright": "nova1993",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "National Bank of Serbia building with the numerical value above the date to the left",
+    "lettering": "ДИНАР-DINAR\r\n1\r\n2014",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Dinar",
+    "picture": "https://en.numista.com/catalogue/photos/serbie/68c3df62f1f579.10942453-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/serbie/68c3df62f1f579.10942453-180.jpg",
+    "picture_copyright": "nova1993",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "These coins feature new Coat of arms of the Republic of Serbia from 2010-now.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5c0fb07c34341.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5c0fb07c34341.png\" alt=\"\" width=\"200\" height=\"249\" /></a>",
+  "related_types": [
+    {
+      "id": 6877,
+      "title": "1 Dinar",
+      "category": "coin",
+      "country": {
+        "code": "serbie",
+        "name": "Serbia"
+      },
+      "minYear": 2003,
+      "maxYear": 2005
+    },
+    {
+      "id": 5611,
+      "title": "1 Dinar (1st Coat of Arms; Non-magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "serbie",
+        "name": "Serbia"
+      },
+      "minYear": 2005,
+      "maxYear": 2009
+    },
+    {
+      "id": 24644,
+      "title": "1 Dinar (1st Coat of Arms; Magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "serbie",
+        "name": "Serbia"
+      },
+      "minYear": 2009,
+      "maxYear": 2010
+    },
+    {
+      "id": 3383,
+      "title": "1 Dinar",
+      "category": "coin",
+      "country": {
+        "code": "yougoslavie",
+        "name": "Yugoslavia"
+      },
+      "minYear": 2000,
+      "maxYear": 2002
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Other building",
+    "Crown",
+    "Coat of Arms",
+    "Double-headed eagle"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "54"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "203"
+    }
+  ],
+  "weight": 4.2,
+  "orientation": "medal",
+  "edge": {
+    "description": "5 reeded segments with 14 reeds each",
+    "picture": "https://en.numista.com/catalogue/photos/serbie/66833b45c5b089.79859854-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/serbie/66833b45c5b089.79859854-180.jpg",
+    "picture_copyright": "Julio Vega",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 1365,
+      "name": "Belgrade"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

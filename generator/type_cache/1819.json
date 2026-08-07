@@ -1,0 +1,147 @@
+{
+  "id": 1819,
+  "url": "https://en.numista.com/1819",
+  "title": "10 Milliemes",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "egypte",
+    "name": "Egypt"
+  },
+  "min_year": 1973,
+  "max_year": 1973,
+  "ruler": [
+    {
+      "id": 2903,
+      "name": "Arab Republic of Egypt",
+      "wikidata_id": "Q16249924"
+    }
+  ],
+  "value": {
+    "text": "10 Milliemes",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 117,
+      "name": "Pound",
+      "full_name": "Pound (1916-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 21.1,
+  "thickness": 1.4,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The arms of the Federation of Arab Republics (Hawk of Qureish), name of issuer under.",
+    "lettering": "اتحاد الجمهوريات العربية\r\nجمهورية مصر العربية",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "Federation of Arab Republics \r\nArab Republic of Egypt",
+    "picture": "https://en.numista.com/catalogue/photos/egypte/60589c60cc8b79.90608447-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/egypte/60589c60cc8b79.90608447-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "reverse": {
+    "description": "The issuer name above with the denomination in Arabic in the center and the Hegira and Gregorian year in Arabic on the sides.",
+    "lettering": "جمهورية مصر العربية\r\n١٠\r\nمليمات\r\n١٣٩٣ ١٩٧٣",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "Arab Republic of Egypt\r\n10\r\nMilliemes\r\n1973 1393",
+    "picture": "https://en.numista.com/catalogue/photos/egypte/60589c611b3131.56918437-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/egypte/60589c611b3131.56918437-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "series": "Egypt- The Falcon (Hawk of Quraish)",
+  "related_types": [
+    {
+      "id": 4824,
+      "title": "5 Milliemes",
+      "category": "coin",
+      "country": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "minYear": 1973,
+      "maxYear": 1973
+    },
+    {
+      "id": 370087,
+      "title": "10 Milliemes (1976 Mule)",
+      "category": "coin",
+      "country": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "minYear": 1976,
+      "maxYear": 1976
+    },
+    {
+      "id": 370084,
+      "title": "10 Milliemes (1980 Mule)",
+      "category": "coin",
+      "country": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "minYear": 1980,
+      "maxYear": 1980
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "435"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "149"
+    },
+    {
+      "catalogue": {
+        "id": 2245,
+        "code": "MHC"
+      },
+      "number": "331"
+    }
+  ],
+  "weight": 3.2,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/egypte/614f1a6e6c7290.27967689-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/egypte/614f1a6e6c7290.27967689-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 1323,
+      "name": "Egyptian Mint Authority"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

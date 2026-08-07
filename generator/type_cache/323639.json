@@ -1,0 +1,106 @@
+{
+  "id": 323639,
+  "url": "https://en.numista.com/323639",
+  "title": "50 Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "argentine",
+    "name": "Argentina"
+  },
+  "min_year": 2013,
+  "max_year": 2013,
+  "ruler": [
+    {
+      "id": 3983,
+      "name": "Federal Republic",
+      "wikidata_id": "Q414"
+    }
+  ],
+  "value": {
+    "text": "50 Centavos",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 145,
+      "name": "Peso convertible",
+      "full_name": "Peso convertible (1992-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": false
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Steel plated copper-nickel (Cu 75 Ni 25)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Tucuman Building with the issuer name above and a legend below",
+    "lettering": "REPUBLICA ARGENTINA\r\n· EN UNION Y LIBERTAD ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Argentinian Republic\r\nIn Union and Liberty",
+    "picture": "https://en.numista.com/catalogue/photos/argentine/65db871e0916c4.95237566-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/65db871e0916c4.95237566-180.jpg",
+    "picture_copyright": "gvaicika",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Denomination above the date",
+    "lettering": "50\r\nCENTAVOS\r\n2013",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/argentine/65db8720d7a2c1.64361623-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/65db8720d7a2c1.64361623-180.jpg",
+    "picture_copyright": "gvaicika",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "This coin did not come into circulation due to the poor quality of the blanks.",
+  "tags": [
+    "Museum"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 160,
+        "code": "CJ"
+      },
+      "number": "5.11"
+    }
+  ],
+  "weight": 5.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/argentine/65db87243d9385.14145013-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/65db87243d9385.14145013-180.jpg",
+    "picture_copyright": "gvaicika",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 1336,
+      "name": "Buenos Aires"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

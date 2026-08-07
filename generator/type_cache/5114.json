@@ -1,0 +1,115 @@
+{
+  "id": 5114,
+  "url": "https://en.numista.com/5114",
+  "title": "5 Sucres",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "equateur",
+    "name": "Ecuador"
+  },
+  "min_year": 1988,
+  "max_year": 1991,
+  "ruler": [
+    {
+      "id": 3758,
+      "name": "Republic",
+      "wikidata_id": "Q736"
+    }
+  ],
+  "value": {
+    "text": "5 Sucres",
+    "numeric_value": 5,
+    "currency": {
+      "id": 187,
+      "name": "Sucre",
+      "full_name": "Sucre (1884-2000)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2000-10-09"
+  },
+  "size": 22,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel clad steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Name of the country, coat of arms, year of issue",
+    "lettering": "REPUBLICA DEL ECUADOR\r\n1988",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Ecuador",
+    "picture": "https://en.numista.com/catalogue/photos/equateur/638-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/equateur/638-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "description": "Denomination in digits, denomination in Braille, an image of bananas",
+    "lettering": "5 SUCRES",
+    "lettering_scripts": [
+      {
+        "name": "Braille"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/equateur/639-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/equateur/639-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "91"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "85.1"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "85.2"
+    },
+    {
+      "catalogue": {
+        "id": 2898,
+        "code": "Galst/Alfen"
+      },
+      "number": "X.27"
+    }
+  ],
+  "weight": 5.25,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 1339,
+      "name": "Sherritt Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

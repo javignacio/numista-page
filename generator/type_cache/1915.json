@@ -1,0 +1,191 @@
+{
+  "id": 1915,
+  "url": "https://en.numista.com/1915",
+  "title": "10 Pfennigs (type 2 - small shield)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "allemagne-pre1945",
+    "name": "Germany (1871-1948)"
+  },
+  "min_year": 1890,
+  "max_year": 1916,
+  "ruler": [
+    {
+      "id": 2862,
+      "name": "William II",
+      "wikidata_id": "Q2677",
+      "group": {
+        "id": 699,
+        "name": "House of Hohenzollern"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Pfennigs",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 233,
+      "name": "Mark",
+      "full_name": "Mark (1873-1923)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1924-10-11"
+  },
+  "size": 21,
+  "thickness": 1.35,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (Cu 750, Ni 250)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Otto Schultz"
+    ],
+    "description": "Imperial German Eagle, with small shield (2nd type). Mintmarks below.",
+    "lettering": "D D",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/allemagne-pre1945/60d5e2842d3bf0.36777156-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/allemagne-pre1945/60d5e2842d3bf0.36777156-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "reverse": {
+    "engravers": [
+      "Emil Weigand"
+    ],
+    "description": "Large central denomination with lettering and date around the rim",
+    "lettering": "DEUTSCHES REICH 1912 \r\n10 \r\n• PFENNIG •",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "German Empire 1912\r\n10\r\n• Pfennig •",
+    "picture": "https://en.numista.com/catalogue/photos/allemagne-pre1945/60d5e2848877e8.96896248-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/allemagne-pre1945/60d5e2848877e8.96896248-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/5cd4a62728a6d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5cd4a62728a6d.jpg\" alt=\"\" width=\"192\" height=\"250\" /></a>",
+  "related_types": [
+    {
+      "id": 6078,
+      "title": "10 Pfennigs (type 1 - large shield)",
+      "category": "coin",
+      "country": {
+        "code": "allemagne-pre1945",
+        "name": "Germany (1871-1948)"
+      },
+      "minYear": 1873,
+      "maxYear": 1889
+    },
+    {
+      "id": 1953,
+      "title": "10 Pfennigs (type 2 - small shield; beaded border)",
+      "category": "coin",
+      "country": {
+        "code": "allemagne-pre1945",
+        "name": "Germany (1871-1948)"
+      },
+      "minYear": 1916,
+      "maxYear": 1922
+    },
+    {
+      "id": 1954,
+      "title": "10 Pfennigs (type 2 - small shield; without mintmarks)",
+      "category": "coin",
+      "country": {
+        "code": "allemagne-pre1945",
+        "name": "Germany (1871-1948)"
+      },
+      "minYear": 1917,
+      "maxYear": 1922
+    }
+  ],
+  "tags": [
+    "Eagle",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "12"
+    },
+    {
+      "catalogue": {
+        "id": 81,
+        "code": "AKS"
+      },
+      "number": "12"
+    },
+    {
+      "catalogue": {
+        "id": 80,
+        "code": "J"
+      },
+      "number": "13"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "13"
+    },
+    {
+      "catalogue": {
+        "id": 2976,
+        "code": "Neum Pruss/Kön"
+      },
+      "number": "30"
+    }
+  ],
+  "weight": 4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/allemagne-pre1945/697a482be86325.29643604-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/allemagne-pre1945/697a482be86325.29643604-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 5,
+      "name": "Berlin"
+    },
+    {
+      "id": 1,
+      "name": "Munich"
+    },
+    {
+      "id": 1366,
+      "name": "Muldenhütten"
+    },
+    {
+      "id": 2,
+      "name": "State Mint of Stuttgart / State Mints of Baden-Württemberg"
+    },
+    {
+      "id": 3,
+      "name": "State Mint of Karlsruhe / State Mints of Baden-Württemberg"
+    },
+    {
+      "id": 4,
+      "name": "Hamburg Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

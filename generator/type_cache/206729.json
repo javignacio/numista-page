@@ -1,0 +1,122 @@
+{
+  "id": 206729,
+  "url": "https://en.numista.com/206729",
+  "title": "100 Pesos",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "argentine",
+    "name": "Argentina"
+  },
+  "issuing_entity": {
+    "id": 597,
+    "name": "Central Bank of the Argentine Republic",
+    "wikidata_id": "Q642444"
+  },
+  "min_year": 2013,
+  "max_year": 2017,
+  "ruler": [
+    {
+      "id": 3983,
+      "name": "Federal Republic",
+      "wikidata_id": "Q414"
+    }
+  ],
+  "value": {
+    "text": "100 Pesos",
+    "numeric_value": 100,
+    "currency": {
+      "id": 145,
+      "name": "Peso convertible",
+      "full_name": "Peso convertible (1992-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 155,
+  "size2": 65,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Portrait of Maria Eva Duarte de Perón",
+    "lettering": "BANCO CENTRAL DE LA REPUBLICA ARGENTINA\r\nCIEN PESOS\r\nMaria Eva Duarte de Perón\r\n07 05 1919 - 26 07 1952\r\nComo mujer siento en el alma la cálida ternura del pueblo de dónde vine y a quien me debo",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Bank of the Argentine Republic\r\nOne hundred Pesos\r\nMaria Eva Duarte de Perón\r\n07 May 1919 - 26 July 1952\r\nAs a woman I feel in my soul the warm tenderness of the people where I came from and to whom I owe",
+    "picture": "https://en.numista.com/catalogue/photos/argentine/626bea399c9420.98538719-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/626bea399c9420.98538719-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Relief on \"Ara Pacis Augustae\" (Altar of Peace of Augustus), Rome",
+    "lettering": "REPUBLICA ARGENTINA\r\nen unión y libertad\r\nARA PACIS AUGUSTAE\r\nLider popular que luhcó por los derechos de los trabajadores, humildes y desprotegidos, realizando una intensa tarea de justicia social. \r\nImpulsó la participación de las mujeres en la vida política, promoviendo fervientemente el voto femenino, derecho finalmente consagrado por Ley en el año 1947 y ejercido por primera vez en el año 1951.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Argentine Republic\r\nin union and liberty\r\nAltar of Peace of Augustus\r\nPopular leader who fought for the rights of workers, humble and unprotected, carrying out an intense task of social justice.\r\nShe promoted the participation of women in political life, fervently promoting the female vote, a right finally consecrated by Law in 1947 and exercised for the first time in 1951.",
+    "picture": "https://en.numista.com/catalogue/photos/argentine/626bea3a243c25.24779155-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/626bea3a243c25.24779155-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "series": "We have a homeland",
+  "comments": "<p>Note the difference between P#358a and P#358b(1). In the latter one, the plate is modified whereas this is not done in the former one (see figure below)<br><a href=\"https://en.numista.com/catalogue/images/5ea1849721c18.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5ea1849721c18.jpg\" alt=\"\"></a><br>&nbsp;</p><p>Banknotes with a 2-letter serial number have an additional security feature on the edges and the reverse does not have the signature of the \"S.E. Casa de Moeda\":</p><p><a href=\"https://en.numista.com/catalogue/images/67c5ce8d077c7.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67c5ce8d077c7.jpg\"></a><br>UV activity:<br><a href=\"https://en.numista.com/catalogue/images/649dbacf07dfb.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/649dbacf07dfb.png\" alt=\"\"></a><br><a href=\"https://en.numista.com/catalogue/images/649dbadd84a5f.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/649dbadd84a5f.png\" alt=\"\"></a><br>© gyoschak</p>",
+  "related_types": [
+    {
+      "id": 240928,
+      "title": "100 Pesos (60th Anniversary of Eva Perón's Death)",
+      "category": "banknote",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 2012,
+      "maxYear": 2013
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "358b-358d"
+    },
+    {
+      "catalogue": {
+        "id": 1841,
+        "code": "Bottero"
+      },
+      "number": "4301 to 4345a"
+    }
+  ],
+  "watermark": {
+    "description": "Eva Perón and initials E P",
+    "picture": "https://en.numista.com/catalogue/photos/argentine/5eb9b91220ba99.34733317-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/5eb9b91220ba99.34733317-180.jpg",
+    "picture_copyright": "Andy289",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "printers": [
+    {
+      "id": "11",
+      "name": "Casa de Moneda"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

@@ -1,0 +1,137 @@
+{
+  "id": 4226,
+  "url": "https://en.numista.com/4226",
+  "title": "50 Pence - Elizabeth II (2nd portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1982,
+  "max_year": 1984,
+  "ruler": [
+    {
+      "id": 275,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 527,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "50 Pence",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 126,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (decimalized, 1971-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1998-02-28"
+  },
+  "size": 30,
+  "thickness": 2.5,
+  "shape": "Equilateral curve heptagon (7-sided)",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Arnold Machin"
+    ],
+    "description": "Second crowned portrait of Queen Elizabeth II right, wearing the Girls of Great Britain and Ireland tiara, legend around.",
+    "lettering": "ELIZABETH·II  D·G·REG·F·D·1983",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Elizabeth II Dei Gratia Regina Fidei Defensatrix",
+    "lettering_translation": "Elizabeth II by the Grace of God Queen Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/10652-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/10652-180.jpg",
+    "picture_copyright": "radrick007",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Christopher Ironside"
+    ],
+    "description": "A figure of Britannia seated beside a lion, with a shield resting against her right side, holding a trident in her right hand and an olive branch in her left, denomination below and legend above.",
+    "lettering": "FIFTY PENCE\r\n50",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/10653-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/10653-180.jpg",
+    "picture_copyright": "radrick007",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "In 1982, 11 years after Decimalisation Day on 15th February 1971, the word &#039;NEW&#039; was removed from the denomination on the reverse, so the legend now reads &#039;FIFTY PENCE&#039;.<br /><br />\r\n1984 dated pieces were not struck for circulation and can only be found in Royal Mint annual Brilliant Uncirculated &amp; Proof sets.<br /><br />\r\n(former Spink ref. 4225)",
+  "related_types": [
+    {
+      "id": 880,
+      "title": "50 New Pence - Elizabeth II (2nd portrait)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1969,
+      "maxYear": 1981
+    }
+  ],
+  "tags": [
+    "Cat or feline",
+    "Armour",
+    "Allegory"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "932"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "H3"
+    }
+  ],
+  "weight": 13.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/5ef88abea52c68.57067817-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/5ef88abea52c68.57067817-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

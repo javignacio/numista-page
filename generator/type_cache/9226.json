@@ -1,0 +1,132 @@
+{
+  "id": 9226,
+  "url": "https://en.numista.com/9226",
+  "title": "1 Baht - Rama IX (Magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "thailande",
+    "name": "Thailand"
+  },
+  "min_year": 2009,
+  "max_year": 2017,
+  "ruler": [
+    {
+      "id": 1905,
+      "name": "Bhumibol Adulyadej (Rama IX)",
+      "wikidata_id": "Q855252",
+      "group": {
+        "id": 65,
+        "name": "Chakri dynasty"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Baht",
+    "numeric_value": 1,
+    "currency": {
+      "id": 4,
+      "name": "Baht",
+      "full_name": "Baht (1897-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 20,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "2nd portrait of HRH King Bhumibol Adulyadej facing left",
+    "lettering": "ภูมิพลอดุลยเดช รัชกาลที่ ๙",
+    "lettering_scripts": [
+      {
+        "name": "Thai"
+      }
+    ],
+    "lettering_translation": "Bhumibol Adulyadej Rama IX",
+    "picture": "https://en.numista.com/catalogue/photos/thailande/2842-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/thailande/2842-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "reverse": {
+    "description": "Phra Kaew Temple in Bangkok, state name, denomination, and year of issue in Thai lunar year.",
+    "lettering": "ประเทศไทย พ.ศ.๒๕๕๖\r\n๑\r\n1 บาท",
+    "lettering_scripts": [
+      {
+        "name": "Thai"
+      }
+    ],
+    "lettering_translation": "Thailand BE 2556 (C.E. 2013)\r\n1\r\n1 baht",
+    "picture": "https://en.numista.com/catalogue/photos/thailande/2843-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/thailande/2843-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "comments": "<p>Subtypes details<br><br>1 Baht 2552<br><a href=\"https://en.numista.com/catalogue/images/5d568994c5b54.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d568994c5b54.jpg\" alt=\"\"></a><br>________<br><br>1 Baht 2553<br><a href=\"https://en.numista.com/catalogue/images/5f293a2acfcc6.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5f293a2acfcc6.jpg\" alt=\"\"></a><br><a href=\"https://en.numista.com/catalogue/images/5f293a3e6104e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5f293a3e6104e.jpg\" alt=\"\"></a><br>________</p><p>&nbsp;</p><p>1 Baht 2554</p><p>* see examples section.</p><p>________<br><br>1 Baht 2557<br><br><a href=\"https://en.numista.com/catalogue/images/5d56899c1fb36.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d56899c1fb36.jpg\" alt=\"\"></a><br><a href=\"https://en.numista.com/catalogue/images/58014e94a7a99.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/58014e94a7a99.jpg\" alt=\"\"></a><br>________<br><br>1 Baht 2558<br><a href=\"https://en.numista.com/catalogue/images/633845e730f1a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/633845e730f1a.jpg\" alt=\"\"></a><br>________<br><br>Minor varieties list (Pictures in process)<br>2552 (small space ๕๒) - Type A, B<br>2552 (large space ๕๒) - B, C (possibly more subvariety in Type B)<br>2553 - Type B, <strong>C</strong><br>2554 - Type <strong>A</strong>, B, D0 (possibly subvariety Type B exist)<br>2555 - Type B, C, C2, D (possibly subvariety Type A exist)<br>2556 - Type A, C, D (possibly more subvariety in Type A)<br>2556 (die rotation error +10° to -10°) - Type C<br>2557 (thin ๑) - Type A [Mint bag]<br>2557 (thick ๑) - Type C [Mint roll]<br>2558 (thin ๑) - Type A [Mint bag]<br>2558 (thick ๑) - Type C [Mint roll]<br>2559 - Type A [Mint bag], Type C<br>2560 - Type A [Mint bag]<br>(Note - A: Wave surface / B: Full Moon Surface / C: Mirror Surface / D: Brushed Surface / <strong>Rare coin in bold</strong>)<br><br>(By-Type list)<br>Type A - low relief, yellowish surface<br>- 2552smsp, <strong>2554</strong>, 2556, 2557, 2558, 2559, 2560<br>Type B -<br>- 2552smsp, 2552lasp, 2553, 2554, 2555<br>Type C - Mirror-like purple-ish surface, rays error sometimes<br>- 2552lasp, <strong>2553</strong>, 2555, 2556, 2557, 2558, (2561)<br>* <strong>2553</strong> high relief, clear 2nd bottom line<br>* 2555 sometime blurred at middle of stupa<br>Type D - Die brush vertical lines<br>- 2555, 2556, (2561)<br>Type D0 - Die brush lines are not vertical<br>- 2554<br>(Note - A: <strong>Rare coin in bold</strong>)<br><br>734,911,611 coins were minted in 2557,<br>733,354,00 in 2558, both unknown to thick or thin ones.</p>",
+  "related_types": [
+    {
+      "id": 1106,
+      "title": "1 Baht - Rama IX (Non-magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "minYear": 1986,
+      "maxYear": 2008
+    }
+  ],
+  "tags": [
+    "Religious building"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "443"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "624"
+    }
+  ],
+  "weight": 3,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/thailande/2861-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/thailande/2861-180.jpg",
+    "picture_copyright": "CyrusPamelaOne",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 1,
+      "name": "Munich"
+    },
+    {
+      "id": 4212,
+      "name": "Pathum Thani"
+    },
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

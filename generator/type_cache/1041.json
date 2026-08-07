@@ -1,0 +1,115 @@
+{
+  "id": 1041,
+  "url": "https://en.numista.com/1041",
+  "title": "1 Cent",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "antilles_neerlandaises",
+    "name": "Netherlands Antilles"
+  },
+  "min_year": 1989,
+  "max_year": 2022,
+  "ruler": [
+    {
+      "id": 4126,
+      "name": "Beatrix",
+      "wikidata_id": "Q29574",
+      "group": {
+        "id": 277,
+        "name": "House of Orange-Nassau"
+      }
+    },
+    {
+      "id": 4127,
+      "name": "Willem-Alexander",
+      "wikidata_id": "Q154952",
+      "group": {
+        "id": 277,
+        "name": "House of Orange-Nassau"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Cent",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 68,
+      "name": "Gulden",
+      "full_name": "Gulden (1828-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2025-03-31"
+  },
+  "size": 14,
+  "thickness": 1.95,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Orange blossom within a circle and the privy marks below",
+    "lettering": "NEDERLANDSE ANTILLEN",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Netherlands Antilles",
+    "picture": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/388-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/388-180.jpg",
+    "picture_copyright": "gef"
+  },
+  "reverse": {
+    "description": "Value within circle of geometric designed border, divided date",
+    "lettering": "1c\r\n2003",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "1 cent",
+    "picture": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/389-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/389-180.jpg",
+    "picture_copyright": "gef"
+  },
+  "tags": [
+    "Fruit"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "32"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "72"
+    }
+  ],
+  "weight": 0.7,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 23,
+      "name": "Royal Dutch Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,135 @@
+{
+  "id": 5653,
+  "url": "https://en.numista.com/5653",
+  "title": "1 Dollar (Non-magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "jamaique",
+    "name": "Jamaica"
+  },
+  "min_year": 1990,
+  "max_year": 1993,
+  "ruler": [
+    {
+      "id": 2931,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 828,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Dollar",
+    "numeric_value": 1,
+    "currency": {
+      "id": 50,
+      "name": "Dollar",
+      "full_name": "Dollar (1969-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1995-00-00"
+  },
+  "size": 23.99,
+  "thickness": 2.64,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass (70% Copper, 24.5% Zinc, 5.5% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms of Jamaica.",
+    "lettering": "JAMAICA\r\nOUT OF MANY, ONE PEOPLE\r\nONE DOLLAR 1992",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/jamaique/6517e65f9a3bb2.48712092-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/jamaique/6517e65f9a3bb2.48712092-180.jpg",
+    "picture_copyright": "E. Timmermans",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Bust of Sir Alexander Bustamante facing forward.",
+    "lettering": "SIR ALEXANDER BUSTAMANTE\r\n1884 - 1977",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/jamaique/6517e6614cf213.05211045-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/jamaique/6517e6614cf213.05211045-180.jpg",
+    "picture_copyright": "E. Timmermans",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "series": "1990 series",
+  "comments": "Sir William Alexander Bustamante, born as William Alexander Clarke in Hanover Parish (Jamaica), became the first prime minister of Jamaica in 1962. In 1969 he was declared to be a National Hero.",
+  "related_types": [
+    {
+      "id": 9578,
+      "title": "1 Dollar (Magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "jamaique",
+        "name": "Jamaica"
+      },
+      "minYear": 1993,
+      "maxYear": 1994
+    }
+  ],
+  "tags": [
+    "Coat of Arms",
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "145"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "103"
+    }
+  ],
+  "weight": 9,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded with inscription.",
+    "lettering": "BANK ★ OF ★ JAMAICA ★",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/jamaique/6517e662d1ed85.55372969-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/jamaique/6517e662d1ed85.55372969-180.jpg",
+    "picture_copyright": "E. Timmermans",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

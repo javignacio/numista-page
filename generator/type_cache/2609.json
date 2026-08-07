@@ -1,0 +1,171 @@
+{
+  "id": 2609,
+  "url": "https://en.numista.com/2609",
+  "title": "1 Cent - Elizabeth II (3rd portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "fidji",
+    "name": "Fiji"
+  },
+  "min_year": 1990,
+  "max_year": 2001,
+  "ruler": [
+    {
+      "id": 3001,
+      "name": "Republic",
+      "wikidata_id": "Q712"
+    }
+  ],
+  "value": {
+    "text": "1 Cent",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 46,
+      "name": "Dollar",
+      "full_name": "Dollar (1969-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2008-10-13"
+  },
+  "size": 17.5,
+  "thickness": 1.17,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper plated zinc"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Raphael David Maklouf"
+    ],
+    "description": "Crowned portrait of Queen Elizabeth II facing right surrounded by legend.",
+    "lettering": "ELIZABETH II FIJI 1997\r\nRDM",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/fidji/128-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/fidji/128-180.jpg",
+    "picture_copyright": "Ma collection de monnaies",
+    "picture_copyright_url": "https://monnaiesetvarietes.numista.com/"
+  },
+  "reverse": {
+    "engravers": [
+      "Ken Payne"
+    ],
+    "description": "Tanoa devides the denomination, around, a circle of pearls. A Tanoa is a large deep wooden bowl used for the Sevusevu, ceremony of presentation of the Yaquna, Fijian name for Kava.",
+    "lettering": "1\r\ncent",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/fidji/129-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/fidji/129-180.jpg",
+    "picture_copyright": "Ma collection de monnaies",
+    "picture_copyright_url": "https://monnaiesetvarietes.numista.com/"
+  },
+  "comments": "Years 2002-2005 do not exist for this coin, despite many catalogs including them.",
+  "related_types": [
+    {
+      "id": 2952,
+      "title": "2 Cents - Elizabeth II (3rd portrait)",
+      "category": "coin",
+      "country": {
+        "code": "fidji",
+        "name": "Fiji"
+      },
+      "minYear": 1990,
+      "maxYear": 2001
+    },
+    {
+      "id": 949,
+      "title": "5 Cents - Elizabeth II (3rd portrait)",
+      "category": "coin",
+      "country": {
+        "code": "fidji",
+        "name": "Fiji"
+      },
+      "minYear": 1990,
+      "maxYear": 2006
+    },
+    {
+      "id": 3048,
+      "title": "10 Cents - Elizabeth II (3rd portrait, large type)",
+      "category": "coin",
+      "country": {
+        "code": "fidji",
+        "name": "Fiji"
+      },
+      "minYear": 1990,
+      "maxYear": 2006
+    },
+    {
+      "id": 2610,
+      "title": "20 Cents - Elizabeth II (3rd portrait)",
+      "category": "coin",
+      "country": {
+        "code": "fidji",
+        "name": "Fiji"
+      },
+      "minYear": 1990,
+      "maxYear": 2006
+    },
+    {
+      "id": 2611,
+      "title": "50 Cents - Elizabeth II (3rd portrait)",
+      "category": "coin",
+      "country": {
+        "code": "fidji",
+        "name": "Fiji"
+      },
+      "minYear": 1990,
+      "maxYear": 2006
+    }
+  ],
+  "tags": [
+    "Monarch"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "49a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "58b"
+    }
+  ],
+  "weight": 1.6,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/fidji/657fc0fa811706.46227291-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/fidji/657fc0fa811706.46227291-180.jpg",
+    "picture_copyright": "Julio Vega",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

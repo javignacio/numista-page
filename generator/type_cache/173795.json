@@ -1,0 +1,125 @@
+{
+  "id": 173795,
+  "url": "https://en.numista.com/173795",
+  "title": "500 Yen - Reiwa",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "japon",
+    "name": "Japan"
+  },
+  "min_year": 2019,
+  "max_year": 2021,
+  "ruler": [
+    {
+      "id": 337,
+      "name": "Reiwa",
+      "wikidata_id": "Q62609017"
+    }
+  ],
+  "value": {
+    "text": "500 Yen",
+    "numeric_value": 500,
+    "currency": {
+      "id": 197,
+      "name": "Yen",
+      "full_name": "Yen (1871-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 26.5,
+  "thickness": 1.81,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Paulownia plant with authority above and value below.",
+    "lettering": "日 本 国\r\n五 百 円",
+    "lettering_translation": "State of Japan\r\n500 yen",
+    "picture": "https://en.numista.com/catalogue/photos/japon/2293-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/japon/2293-180.jpg",
+    "picture_copyright": "HsG",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Large numerical value in center with latent images in zeros, flanked by\r\nTachibana oranges (Citrus reticulata tachibana), bamboo on top and date below.",
+    "lettering": "500\r\n5 5\r\n0 0\r\n0 0\r\n円円\r\n令 和 元 年",
+    "lettering_translation": "500\r\nFirst year of Reiwa",
+    "picture": "https://en.numista.com/catalogue/photos/japon/2294-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/japon/2294-180.jpg",
+    "picture_copyright": "HsG",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "comments": "<p>Security feature \"500 円\" inside the 0's when held at angle</p><p><a href=\"https://en.numista.com/catalogue/images/681fee6ec3fc3.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/681fee6ec3fc3.jpg\"></a><br>© ajbbarbados (<a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://creativecommons.org/licenses/by-nc/4.0/deed.en\">CC BY-NC</a>)<br>&nbsp;</p><p>See Quantity of Mint Sets and Proof Sets at <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.numista.com/182978\">1 Yen</a> page.</p>",
+  "related_types": [
+    {
+      "id": 2122,
+      "title": "500 Yen - Heisei",
+      "category": "coin",
+      "country": {
+        "code": "japon",
+        "name": "Japan"
+      },
+      "minYear": 2000,
+      "maxYear": 2019
+    },
+    {
+      "id": 283986,
+      "title": "500 Yen - Reiwa",
+      "category": "coin",
+      "country": {
+        "code": "japon",
+        "name": "Japan"
+      },
+      "minYear": 2021,
+      "maxYear": 2026
+    }
+  ],
+  "tags": [
+    "Flower",
+    "Fruit",
+    "Latent image"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3041,
+        "code": "JNDA"
+      },
+      "number": "02-1A"
+    },
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "293"
+    }
+  ],
+  "weight": 7,
+  "orientation": "medal",
+  "edge": {
+    "description": "Slanted reeding with two different pitches",
+    "picture": "https://en.numista.com/catalogue/photos/japon/68cb3eeb8bbf25.67753856-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/japon/68cb3eeb8bbf25.67753856-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 41,
+      "name": "Japan Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

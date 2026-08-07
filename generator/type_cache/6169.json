@@ -1,0 +1,115 @@
+{
+  "id": 6169,
+  "url": "https://en.numista.com/6169",
+  "title": "1 Đồng",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "south-vietnam",
+    "name": "South Vietnam"
+  },
+  "min_year": 1960,
+  "max_year": 1960,
+  "ruler": [
+    {
+      "id": 4646,
+      "name": "Ngô Đình Diệm",
+      "wikidata_id": "Q192502",
+      "group": {
+        "id": 363,
+        "name": "Republic"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Đồng",
+    "numeric_value": 1,
+    "currency": {
+      "id": 425,
+      "name": "Southern đồng",
+      "full_name": "Southern đồng (1953-1975)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 22,
+  "thickness": 1.3,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Norman Sillman"
+    ],
+    "description": "Portrait of Ngô Đình Diệm, president and dictator of South Vietnam, facing left",
+    "lettering": "VIỆT-NAM CỘNG-HOÀ",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Vietnam",
+    "picture": "https://en.numista.com/catalogue/photos/south-vietnam/69e9f39dc95339.92128272-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/south-vietnam/69e9f39dc95339.92128272-180.jpg",
+    "picture_copyright": "Zanzibar.Orc.Coins",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Norman Sillman"
+    ],
+    "description": "Bamboo divides denomination with date below",
+    "lettering": "1 ĐỒNG\r\n1960",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/south-vietnam/69e9f39eed2179.79739892-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/south-vietnam/69e9f39eed2179.79739892-180.jpg",
+    "picture_copyright": "Zanzibar.Orc.Coins",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "Of the total mintage, 50,500,000 were minted in 1961, 24,500,000 were minted in 1962, and 30,000,000 were minted in 1963.",
+  "tags": [
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "5"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "39"
+    }
+  ],
+  "weight": 3.6,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

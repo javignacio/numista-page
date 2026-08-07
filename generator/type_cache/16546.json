@@ -1,0 +1,125 @@
+{
+  "id": 16546,
+  "url": "https://en.numista.com/16546",
+  "title": "1 Dollar (Abraham Lincoln)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "etats-unis",
+    "name": "United States"
+  },
+  "min_year": 2010,
+  "max_year": 2010,
+  "ruler": [
+    {
+      "id": 4720,
+      "name": "Federal republic",
+      "wikidata_id": "Q30"
+    }
+  ],
+  "value": {
+    "text": "1 Dollar",
+    "numeric_value": 1,
+    "currency": {
+      "id": 59,
+      "name": "Dollar",
+      "full_name": "Dollar (1785-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 26.5,
+  "thickness": 1.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Manganese brass clad copper"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Don Everhart"
+    ],
+    "description": "The bust of Abraham Lincoln facing the viewer",
+    "lettering": "ABRAHAM LINCOLN\r\nDE\r\nIN GOD WE TRUST 16th PRESIDENT 1861-1865",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/624d95f2944106.53558527-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/624d95f2944106.53558527-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Don Everhart"
+    ],
+    "description": "The Statue of Liberty with the denomination to the left and the country name around the rim",
+    "lettering": "UNITED STATES OF AMERICA\r\n$1\r\nDE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/624d95f322a634.83548786-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/624d95f322a634.83548786-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "series": "Presidential $1 Coin Program",
+  "commemorated_topic": "Abraham Lincoln - 16th President - 1861-1865",
+  "comments": "The Presidential Dollar proved to be unpopular amongst the American public and are today rarely seen in everyday commerce. However, they are frequently used in Ecuador and El Salvador, two nations that have adopted the United States dollar.",
+  "tags": [
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "478"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "478"
+    }
+  ],
+  "weight": 8.1,
+  "orientation": "coin",
+  "edge": {
+    "description": "Engraved with the date and motto.",
+    "lettering": "2010 D *** E PLURIBUS UNUM **********",
+    "lettering_translation": "2010 D Out of Many, One",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/3142-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/3142-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 10,
+      "name": "United States Mint of Denver"
+    },
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    },
+    {
+      "id": 12,
+      "name": "United States Mint of San Francisco"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

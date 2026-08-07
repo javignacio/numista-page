@@ -1,0 +1,132 @@
+{
+  "id": 941,
+  "url": "https://en.numista.com/941",
+  "title": "1 Cent",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bahamas",
+    "name": "Bahamas, The"
+  },
+  "min_year": 1985,
+  "max_year": 2004,
+  "ruler": [
+    {
+      "id": 952,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 797,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Cent",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 39,
+      "name": "Dollar",
+      "full_name": "Dollar (1966-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2020-12-31"
+  },
+  "size": 19,
+  "thickness": 1.4,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper plated zinc"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms and motto of the Bahamas.",
+    "lettering": "COMMONWEALTH OF THE BAHAMAS\r\nFORWARD, UPWARD, ONWARD TOGETHER\r\n1998",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bahamas/692-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bahamas/692-180.jpg",
+    "picture_copyright": "HOOK"
+  },
+  "reverse": {
+    "description": "Starfish.",
+    "lettering": "ONE CENT\r\n· ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bahamas/693-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bahamas/693-180.jpg",
+    "picture_copyright": "HOOK"
+  },
+  "related_types": [
+    {
+      "id": 3159,
+      "title": "1 Cent",
+      "category": "coin",
+      "country": {
+        "code": "bahamas",
+        "name": "Bahamas, The"
+      },
+      "minYear": 1974,
+      "maxYear": 1985
+    },
+    {
+      "id": 14792,
+      "title": "1 Cent (Large type)",
+      "category": "coin",
+      "country": {
+        "code": "bahamas",
+        "name": "Bahamas, The"
+      },
+      "minYear": 2006,
+      "maxYear": 2007
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Fish",
+    "Marine invertebrate",
+    "Shell",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "59a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "34a"
+    }
+  ],
+  "weight": 2.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

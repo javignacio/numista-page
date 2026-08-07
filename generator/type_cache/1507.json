@@ -1,0 +1,126 @@
+{
+  "id": 1507,
+  "url": "https://en.numista.com/1507",
+  "title": "50 Öre",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "suede",
+    "name": "Sweden"
+  },
+  "min_year": 1992,
+  "max_year": 2009,
+  "ruler": [
+    {
+      "id": 2366,
+      "name": "Carl XVI Gustaf",
+      "wikidata_id": "Q45068",
+      "group": {
+        "id": 99,
+        "name": "House of Bernadotte"
+      }
+    }
+  ],
+  "value": {
+    "text": "50 Öre",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 18,
+      "name": "Krona",
+      "full_name": "Krona (1873-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2010-09-30"
+  },
+  "size": 18.77,
+  "thickness": 1.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze (97% Copper, 2.5% Zinc, 0.5% Tin)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Bo Thorén"
+    ],
+    "description": "Three crowns - symbol of Sweden - with the year of issue underneath.",
+    "lettering": "2008",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/suede/62b1ccd05bf1e3.66579757-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suede/62b1ccd05bf1e3.66579757-180.jpg",
+    "picture_copyright": "RuibaiK",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Bo Thorén"
+    ],
+    "description": "On the reverse is the figure 50. Above the figure is the text SVERIGE and below is the text ÖRE. Right of ÖRE is the mintmark while at left there is initials of the surname of the Governor of the Riksbank.",
+    "lettering": "SVERIGE\r\n50\r\nS ÖRE  SI",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Sweden.",
+    "picture": "https://en.numista.com/catalogue/photos/suede/62b1ccd0c5e655.86054555-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suede/62b1ccd0c5e655.86054555-180.jpg",
+    "picture_copyright": "RuibaiK",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p>Minted in Sweden from 1992 to 2007.</p><p>Minted in Finland in 2008 and 2009.</p>",
+  "tags": [
+    "Crown",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "878"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "90"
+    }
+  ],
+  "weight": 3.7,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain.",
+    "picture": "https://en.numista.com/catalogue/photos/suede/62b1ccd151b5c9.56445249-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suede/62b1ccd151b5c9.56445249-180.jpg",
+    "picture_copyright": "RuibaiK",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 4665,
+      "name": "Myntverket"
+    },
+    {
+      "id": 1334,
+      "name": "Mint of Finland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

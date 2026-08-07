@@ -1,0 +1,128 @@
+{
+  "id": 4769,
+  "url": "https://en.numista.com/4769",
+  "title": "1 Cent",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "liberia",
+    "name": "Liberia"
+  },
+  "min_year": 1960,
+  "max_year": 1990,
+  "ruler": [
+    {
+      "id": 4014,
+      "name": "Republic",
+      "wikidata_id": "Q1014"
+    }
+  ],
+  "value": {
+    "text": "1 Cent",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 52,
+      "name": "Dollar",
+      "full_name": "Dollar (1943-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 18,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass (95% Copper, 5% Zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Elephant within circle above star",
+    "lettering": "REPUBLIC OF LIBERIA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/liberia/5ec6231772faa8.40814585-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/liberia/5ec6231772faa8.40814585-180.jpg",
+    "picture_copyright": "Ponpandi Perumal",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Ship and bird to right of palm tree within 3/4 circle above date",
+    "lettering": "THE LOVE OF LIBERTY BROUGHT US HERE\r\nB.H\r\n1968\r\nONE CENT",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/liberia/5ec623180640b2.08535547-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/liberia/5ec623180640b2.08535547-180.jpg",
+    "picture_copyright": "Ponpandi Perumal",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "Although the &quot;Standard Catalog of World Coins&quot; lists this type as Bronze, official US mint records list these coins as being made of Copper and Zinc (Brass).",
+  "tags": [
+    "Bird",
+    "Elephant",
+    "Boat or watercraft",
+    "Tree",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "13"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "13"
+    }
+  ],
+  "weight": 2.6,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    },
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    },
+    {
+      "id": 10,
+      "name": "United States Mint of Denver"
+    },
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    },
+    {
+      "id": 12,
+      "name": "United States Mint of San Francisco"
+    },
+    {
+      "id": 1319,
+      "name": "Franklin Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

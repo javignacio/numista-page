@@ -1,0 +1,97 @@
+{
+  "id": 36419,
+  "url": "https://en.numista.com/36419",
+  "title": "5 Pesetas - Juan Carlos I (Silver)",
+  "object_type": {
+    "id": 3,
+    "name": "Non-circulating coins"
+  },
+  "issuer": {
+    "code": "espagne",
+    "name": "Spain"
+  },
+  "min_year": 2001,
+  "max_year": 2001,
+  "ruler": [
+    {
+      "id": 151,
+      "name": "Juan Carlos I",
+      "wikidata_id": "Q19943",
+      "group": {
+        "id": 44,
+        "name": "House of Bourbon"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Pesetas",
+    "numeric_value": 5,
+    "currency": {
+      "id": 142,
+      "name": "Peseta",
+      "full_name": "Peseta (1868-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2002-02-28"
+  },
+  "size": 17.5,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.925)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Stylized \"JCI\" monogram of King Juan Carlos I.",
+    "lettering": "ESPAÑA\r\n2001",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Spain",
+    "picture": "https://en.numista.com/catalogue/photos/espagne/68ff914a427e44.18760380-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/68ff914a427e44.18760380-180.jpg",
+    "picture_copyright": "car-nev",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Value above stylized sailboats.",
+    "lettering": "5 PTAS\r\nM",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "5 Pesetas",
+    "picture": "https://en.numista.com/catalogue/photos/espagne/68ff914a93e6c5.01260507-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/68ff914a93e6c5.01260507-180.jpg",
+    "picture_copyright": "car-nev",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "series": "Last issue of pesetas",
+  "commemorated_topic": "Silver issue",
+  "tags": [
+    "Boat or watercraft",
+    "Monogram"
+  ],
+  "weight": 3.9,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 24,
+      "name": "Royal Mint of Madrid"
+    }
+  ],
+  "category": "coin",
+  "type": "Non-circulating coins"
+}

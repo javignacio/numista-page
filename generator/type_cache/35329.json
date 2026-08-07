@@ -1,0 +1,88 @@
+{
+  "id": 35329,
+  "url": "https://en.numista.com/35329",
+  "title": "½ Real",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "chili",
+    "name": "Chile"
+  },
+  "min_year": 1838,
+  "max_year": 1840,
+  "ruler": [
+    {
+      "id": 3299,
+      "name": "Republic",
+      "wikidata_id": "Q298"
+    }
+  ],
+  "value": {
+    "text": "½ Real",
+    "numeric_value": 0.5,
+    "numerator": 1,
+    "denominator": 2,
+    "currency": {
+      "id": 1203,
+      "name": "Real",
+      "full_name": "Real (1541-1852)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 17,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.902)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of Arms",
+    "lettering": "REPUBLICA DE CHILE • S • I • J\r\n1/2 R\r\n• 1840 •",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Chile",
+    "picture": "https://en.numista.com/catalogue/photos/chili/656-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/656-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "description": "Condor",
+    "lettering": "•POR LA RAZ • Y LA FUER •\r\n10Ds 20Gs",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "By the reason and the force",
+    "picture": "https://en.numista.com/catalogue/photos/chili/655-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/655-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "98.1"
+    }
+  ],
+  "weight": 1.68,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

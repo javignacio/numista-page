@@ -1,0 +1,96 @@
+{
+  "id": 9370,
+  "url": "https://en.numista.com/9370",
+  "title": "100 Cruzeiros Reais",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bresil",
+    "name": "Brazil"
+  },
+  "min_year": 1993,
+  "max_year": 1994,
+  "ruler": [
+    {
+      "id": 2684,
+      "name": "Federative Republic of Brazil",
+      "wikidata_id": "Q155"
+    }
+  ],
+  "value": {
+    "text": "100 Cruzeiros Reais",
+    "numeric_value": 100,
+    "currency": {
+      "id": 157,
+      "name": "Cruzeiro real",
+      "full_name": "Cruzeiro real (1993-1994)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 24,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Date to left of denomination",
+    "lettering": "1994 BRASIL 100 CR$",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bresil/1927-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/1927-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "reverse": {
+    "description": "Maned wolf right\r\nBinomial Name: Chrysocyon brachyurus",
+    "lettering": "LOBO GUARÁ",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bresil/1926-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/1926-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "tags": [
+    "Dog or canid"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "630"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "139"
+    }
+  ],
+  "weight": 4.27,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/1928-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/1928-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

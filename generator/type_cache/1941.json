@@ -1,0 +1,122 @@
+{
+  "id": 1941,
+  "url": "https://en.numista.com/1941",
+  "title": "10 Schilling (Silver)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "autriche",
+    "name": "Austria"
+  },
+  "min_year": 1957,
+  "max_year": 1973,
+  "ruler": [
+    {
+      "id": 149,
+      "name": "Second Republic",
+      "wikidata_id": "Q40"
+    }
+  ],
+  "value": {
+    "text": "10 Schilling",
+    "numeric_value": 10,
+    "currency": {
+      "id": 178,
+      "name": "Second Schilling",
+      "full_name": "Second Schilling (1945-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1975-03-31"
+  },
+  "size": 27,
+  "thickness": 1.58,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.640) (Copper .360)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Ferdinand Welz"
+    ],
+    "description": "Austrian escutcheon, red and white",
+    "lettering": "REPUBLIK ÖSTERREICH ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/autriche/3487-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/autriche/3487-180.jpg",
+    "picture_copyright": "A. KOIFMAN JR"
+  },
+  "reverse": {
+    "engravers": [
+      "Ferdinand Welz"
+    ],
+    "description": "Woman head wearing the traditional Lower Austria hat",
+    "lettering": "SCHILLING 1972\r\n10\r\nWELZ",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/autriche/3488-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/autriche/3488-180.jpg",
+    "picture_copyright": "A. KOIFMAN JR"
+  },
+  "related_types": [
+    {
+      "id": 743,
+      "title": "10 Schilling (Copper-nickel)",
+      "category": "coin",
+      "country": {
+        "code": "autriche",
+        "name": "Austria"
+      },
+      "minYear": 1974,
+      "maxYear": 2001
+    }
+  ],
+  "tags": [
+    "Hat"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "2882"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "79"
+    }
+  ],
+  "weight": 7.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Milled",
+    "picture": "https://en.numista.com/catalogue/photos/autriche/68162526742d25.15021500-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/autriche/68162526742d25.15021500-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 232,
+      "name": "Münze Österreich"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

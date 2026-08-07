@@ -1,0 +1,113 @@
+{
+  "id": 2701,
+  "url": "https://en.numista.com/2701",
+  "title": "5 Cents (ribbon upwards)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "singapour",
+    "name": "Singapore"
+  },
+  "min_year": 1985,
+  "max_year": 1991,
+  "ruler": [
+    {
+      "id": 906,
+      "name": "Republic",
+      "wikidata_id": "Q334"
+    }
+  ],
+  "value": {
+    "text": "5 Cents",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 55,
+      "name": "Dollar",
+      "full_name": "Dollar (1967-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 16.75,
+  "thickness": 1.22,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Christopher Ironside"
+    ],
+    "description": "Emblem with the date underneath and 'Singapore' on four sides in English, Tamil, Chinese, and Malay.",
+    "lettering": "SINGAPURA \r\nசிங்கப்பூர் 新加坡\r\n1988\r\nSINGAPORE",
+    "lettering_translation": "Singapore\r\nSingapore Singapore\r\n1988\r\nSingapore",
+    "picture": "https://en.numista.com/catalogue/photos/singapour/1664-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/singapour/1664-180.jpg",
+    "picture_copyright": "Chilian"
+  },
+  "reverse": {
+    "engravers": [
+      "Christopher Ironside"
+    ],
+    "description": "A fruit salad plant (Binomial Name: Monstera deliciosa) with the denomination in words above and in numerals below",
+    "lettering": "FIVE CENTS\r\n5",
+    "picture": "https://en.numista.com/catalogue/photos/singapour/1665-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/singapour/1665-180.jpg",
+    "picture_copyright": "Chilian"
+  },
+  "related_types": [
+    {
+      "id": 1675,
+      "title": "5 Cents (ribbon downwards)",
+      "category": "coin",
+      "country": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "minYear": 1992,
+      "maxYear": 2013
+    }
+  ],
+  "tags": [
+    "Cat or feline",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "50"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "40"
+    }
+  ],
+  "weight": 1.56,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/singapour/1820-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/singapour/1820-180.jpg",
+    "picture_copyright": "Saber82"
+  },
+  "mints": [
+    {
+      "id": 25,
+      "name": "Singapore Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

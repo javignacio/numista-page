@@ -1,0 +1,123 @@
+{
+  "id": 2401,
+  "url": "https://en.numista.com/2401",
+  "title": "10 Pesos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "republique_dominicaine",
+    "name": "Dominican Republic (1844-date)"
+  },
+  "min_year": 2005,
+  "max_year": 2017,
+  "ruler": [
+    {
+      "id": 4033,
+      "name": "Fourth Republic",
+      "wikidata_id": "Q786"
+    }
+  ],
+  "value": {
+    "text": "10 Pesos",
+    "numeric_value": 10,
+    "currency": {
+      "id": 152,
+      "name": "Peso oro",
+      "full_name": "Peso oro (1937-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 27,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: brass centre in copper-nickel ring"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Arms of the Dominican Republic in the centre along with the value to the left and below, the country name above in the outer ring, and the date below, also in the outer ring",
+    "lettering": "REPUBLICA DOMINICANA\r\n10\r\nPESOS\r\n2008",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Dominican Republic\r\n10\r\nPesos\r\n2016",
+    "picture": "https://en.numista.com/catalogue/photos/republique_dominicaine/61f023710868b2.40926825-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/republique_dominicaine/61f023710868b2.40926825-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "reverse": {
+    "description": "Matías Ramón Mella in the centre with the issuer name above in the outer ring and the date below, also in the outer ring",
+    "lettering": "BANCO CENTRAL DE LA REPUBLICA DOMINICANA\r\n2008",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Bank of the Dominican Republic\r\n2016",
+    "picture": "https://en.numista.com/catalogue/photos/republique_dominicaine/61f0237159e690.57826085-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/republique_dominicaine/61f0237159e690.57826085-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "related_types": [
+    {
+      "id": 165951,
+      "title": "10 Pesos Dominicanos",
+      "category": "coin",
+      "country": {
+        "code": "republique_dominicaine",
+        "name": "Dominican Republic (1844-date)"
+      },
+      "minYear": 2017,
+      "maxYear": 2024
+    }
+  ],
+  "tags": [
+    "Coat of Arms",
+    "Mustache/Beard"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "106"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "150"
+    }
+  ],
+  "weight": 8,
+  "orientation": "coin",
+  "edge": {
+    "description": "Segmented reeding"
+  },
+  "mints": [
+    {
+      "id": 27,
+      "name": "Mint of Poland"
+    },
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    },
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

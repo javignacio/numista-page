@@ -1,0 +1,119 @@
+{
+  "id": 3294,
+  "url": "https://en.numista.com/3294",
+  "title": "100 Rupiah (Forestry for prosperity)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "indonesie",
+    "name": "Indonesia (1949-date)"
+  },
+  "issuing_entity": {
+    "id": 574,
+    "name": "Bank Indonesia",
+    "wikidata_id": "Q1906161"
+  },
+  "min_year": 1978,
+  "max_year": 1990,
+  "ruler": [
+    {
+      "id": 4071,
+      "name": "Republic",
+      "wikidata_id": "Q252"
+    }
+  ],
+  "value": {
+    "text": "100 Rupiah",
+    "numeric_value": 100,
+    "currency": {
+      "id": 172,
+      "name": "Rupiah",
+      "full_name": "Rupiah (1965-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2002-06-26"
+  },
+  "size": 28.5,
+  "thickness": 1.4,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Traditional house of Minangkabau people in West Sumatra (Rumah gadang).",
+    "lettering": "BANK INDONESIA\r\nSERATUS RUPIAH\r\n100",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Bank of Indonesia\r\nOne Hundred Rupiah\r\n100",
+    "picture": "https://en.numista.com/catalogue/photos/indonesie/5f5c11651a6131.26867112-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5f5c11651a6131.26867112-180.jpg",
+    "picture_copyright": "Ben-jamin",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "reverse": {
+    "description": "Legendary tree of life (Batang Garing)",
+    "lettering": "HUTAN UNTUK KESEJAHTERAAN\r\nRP. 100",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Forest for well-being\n100 Rupiah",
+    "picture": "https://en.numista.com/catalogue/photos/indonesie/5f5c11656bed43.33894539-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5f5c11656bed43.33894539-180.jpg",
+    "picture_copyright": "Ben-jamin",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "commemorated_topic": "Forestry for prosperity",
+  "comments": "Stuck with a fixed date until at least 1990. Of the total mintage of this coin, 67,698,000 pieces were minted in 1978 according to FAO Coins International Catalogue by Attilio Armiento (2017 Edition page 140).",
+  "tags": [
+    "FAO",
+    "Sustainability"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "42"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "32"
+    }
+  ],
+  "weight": 7,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/indonesie/5fa8f7bf408e69.61174824-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5fa8f7bf408e69.61174824-180.jpg",
+    "picture_copyright": "Griffin S",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 4154,
+      "name": "Perum Peruri"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

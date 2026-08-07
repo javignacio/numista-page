@@ -1,0 +1,95 @@
+{
+  "id": 118350,
+  "url": "https://en.numista.com/118350",
+  "title": "1 Cent - Elizabeth II (4th portrait)",
+  "object_type": {
+    "id": 3,
+    "name": "Non-circulating coins"
+  },
+  "issuer": {
+    "code": "tokelau",
+    "name": "Tokelau"
+  },
+  "min_year": 2017,
+  "max_year": 2017,
+  "ruler": [
+    {
+      "id": 1087,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 808,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Cent",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 8632,
+      "name": "Dollar of New Zealand",
+      "full_name": "Dollar of New Zealand (1978-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 18.2,
+  "thickness": 1.35,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Ian Rank-Broadley"
+    ],
+    "description": "Crowned portrait right within an geometrical ornamentation and the National flag (depicts the stars of Southern Cross & a stylized Polynesian Canoe).\r\nDate.",
+    "lettering": "~ ELIZABETH II ~ TOKELAU 2017 ~\r\nIRB",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/tokelau/332-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/tokelau/332-180.jpg",
+    "picture_copyright": "AvrAlex (Belgorod, Russia)"
+  },
+  "reverse": {
+    "description": "Turtle.\r\nValue.",
+    "lettering": "1 c",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/tokelau/333-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/tokelau/333-180.jpg",
+    "picture_copyright": "AvrAlex (Belgorod, Russia)"
+  },
+  "comments": "Magnetic issue.",
+  "tags": [
+    "Reptile",
+    "Turtle or tortoise"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "120"
+    }
+  ],
+  "weight": 2.12,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "category": "coin",
+  "type": "Non-circulating coins"
+}

@@ -1,0 +1,140 @@
+{
+  "id": 651,
+  "url": "https://en.numista.com/651",
+  "title": "¼ Dollar \"Washington Quarter\" (Arizona)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "etats-unis",
+    "name": "United States"
+  },
+  "min_year": 2008,
+  "max_year": 2008,
+  "ruler": [
+    {
+      "id": 4720,
+      "name": "Federal republic",
+      "wikidata_id": "Q30"
+    }
+  ],
+  "value": {
+    "text": "¼ Dollar ",
+    "numeric_value": 0.25,
+    "numerator": 1,
+    "denominator": 4,
+    "currency": {
+      "id": 59,
+      "name": "Dollar",
+      "full_name": "Dollar (1785-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24.26,
+  "thickness": 1.75,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel clad copper"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "John Flanagan",
+      "William Cousins"
+    ],
+    "description": "The portrait in left profile of George Washington, the first President of the United States from 1789 to 1797, is accompanied with the motto \"IN GOD WE TRUST\" and the lettering \"LIBERTY\" and it is surrounded with the face value and the inscription \"UNITED STATES OF AMERICA\"",
+    "lettering": "UNITED STATES OF AMERICA\r\nIN\r\nGOD WE \r\nTRUST\r\nLIBERTY  D\r\nJF  WCc\r\nQUARTER DOLLAR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/65bd5f75a36830.43768856-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/65bd5f75a36830.43768856-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Joseph Francis Menna"
+    ],
+    "description": "The Grand Canyon with a Saguaro cactus in the foreground and a banner reading \"Grand Canyon State\" separates the two images to signify that the Saguaro cactus does not grow in the Grand Canyon with the date below",
+    "lettering": "ARIZONA\r\n1912\r\nGRAND CANYON STATE\r\nJFM\r\n2008\r\nE PLURIBUS UNUM",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Arizona\r\n1912\r\nGrand Canyon State\r\nJFM\r\n2008\r\nOut of Many, One",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/65bd5f769ddc10.48890047-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/65bd5f769ddc10.48890047-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "series": "United States Mint's 50 State Quarters Program",
+  "commemorated_topic": "Arizona State",
+  "comments": "Some of the Arizona quarters struck at the Philadelphia mint have a die crack towards the bottom of the Saguaro cactus on the reverse giving the appearance of an &quot;extra cactus leaf&quot;. The die crack is horizontal across the cactus trunk causing the &quot;extra cactus leaf&quot; to cover the engraver&#039;s initials.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5faba78622cb3.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5faba78622cb3.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "related_types": [
+    {
+      "id": 14897,
+      "title": "¼ Dollar \"Washington Quarter\" (Arizona - Silver Proof)",
+      "category": "coin",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 2008,
+      "maxYear": 2008
+    }
+  ],
+  "tags": [
+    "Desert"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "423"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "421"
+    }
+  ],
+  "weight": 5.67,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/3193-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/3193-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 10,
+      "name": "United States Mint of Denver"
+    },
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    },
+    {
+      "id": 12,
+      "name": "United States Mint of San Francisco"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

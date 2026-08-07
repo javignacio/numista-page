@@ -1,0 +1,129 @@
+{
+  "id": 5846,
+  "url": "https://en.numista.com/5846",
+  "title": "25 Pennia",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "finlande",
+    "name": "Finland"
+  },
+  "min_year": 1940,
+  "max_year": 1943,
+  "ruler": [
+    {
+      "id": 3291,
+      "name": "Republic",
+      "wikidata_id": "Q33"
+    }
+  ],
+  "value": {
+    "text": "25 Pennia",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 1156,
+      "name": "Markka",
+      "full_name": "Markka (1860-1963)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 16,
+  "thickness": 1.05,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms of Finland - a rampant lion left with the right foreleg replaced with an armoured hand brandishing a sword, trampling on a sabre with the hindpaws. Date divided by coat of arms.",
+    "lettering": "19 42\r\nS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/finlande/1571-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/1571-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "reverse": {
+    "description": "Denomination flanked by grain sprigs.",
+    "lettering": "25 \r\nPENNIÄ",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/finlande/1572-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/1572-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "related_types": [
+    {
+      "id": 8725,
+      "title": "25 Pennia",
+      "category": "coin",
+      "country": {
+        "code": "finlande",
+        "name": "Finland"
+      },
+      "minYear": 1921,
+      "maxYear": 1940
+    },
+    {
+      "id": 9254,
+      "title": "25 Pennia",
+      "category": "coin",
+      "country": {
+        "code": "finlande",
+        "name": "Finland"
+      },
+      "minYear": 1943,
+      "maxYear": 1945
+    }
+  ],
+  "tags": [
+    "Cat or feline",
+    "Flower",
+    "Coat of Arms",
+    "Cold weapons"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "25a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "20a"
+    }
+  ],
+  "weight": 1.27,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/finlande/1303-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/1303-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 1333,
+      "name": "Mint of Finland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,137 @@
+{
+  "id": 31888,
+  "url": "https://en.numista.com/31888",
+  "title": "10 Cents - Elizabeth II (4th portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "oeco",
+    "name": "Eastern Caribbean States"
+  },
+  "min_year": 2009,
+  "max_year": 2022,
+  "ruler": [
+    {
+      "id": 1089,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 810,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Cents",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 45,
+      "name": "Dollar",
+      "full_name": "Dollar (1965-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 18.06,
+  "thickness": 1.4,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Ian Rank-Broadley"
+    ],
+    "description": "Portrait of Queen Elizabeth II facing right.",
+    "lettering": "QUEEN ELIZABETH THE SECOND\r\nIRB",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/oeco/65f5f47376b6b2.70384955-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/oeco/65f5f47376b6b2.70384955-180.jpg",
+    "picture_copyright": "Monéphil",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Thomas Humphrey Paget"
+    ],
+    "description": "Denomination in numbers to the right and left of the \"Golden Hind\", ship of corsair and explorer Sir Francis Drake (1542-1596) and below in letters.",
+    "lettering": "EAST CARIBBEAN STATES 2009\r\n10 10\r\nTEN CENTS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/oeco/65f5f474c12124.65687932-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/oeco/65f5f474c12124.65687932-180.jpg",
+    "picture_copyright": "Monéphil",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "related_types": [
+    {
+      "id": 932,
+      "title": "10 Cents - Elizabeth II (2nd portrait)",
+      "category": "coin",
+      "country": {
+        "code": "oeco",
+        "name": "Eastern Caribbean States"
+      },
+      "minYear": 1981,
+      "maxYear": 2000
+    },
+    {
+      "id": 5712,
+      "title": "10 Cents - Elizabeth II (4th portrait)",
+      "category": "coin",
+      "country": {
+        "code": "oeco",
+        "name": "Eastern Caribbean States"
+      },
+      "minYear": 2002,
+      "maxYear": 2007
+    }
+  ],
+  "tags": [
+    "Boat or watercraft"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "37a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "38a"
+    }
+  ],
+  "weight": 2.26,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,138 @@
+{
+  "id": 2757,
+  "url": "https://en.numista.com/2757",
+  "title": "1 Kroon",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "estonie",
+    "name": "Estonia"
+  },
+  "min_year": 1998,
+  "max_year": 2006,
+  "ruler": [
+    {
+      "id": 2044,
+      "name": "Republic",
+      "wikidata_id": "Q191"
+    }
+  ],
+  "value": {
+    "text": "1 Kroon",
+    "numeric_value": 1,
+    "currency": {
+      "id": 14,
+      "name": "New kroon",
+      "full_name": "New kroon (1992-2011)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2011-01-01"
+  },
+  "size": 23.25,
+  "thickness": 1.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Nordic gold (89% Copper, 5% Aluminium, 5% Zinc, 1% Tin)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "A. Raud",
+      "A. Mölder"
+    ],
+    "description": "Three lions within shield divide date.",
+    "lettering": "2001",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/estonie/6059aa756507b6.32250488-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/estonie/6059aa756507b6.32250488-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "reverse": {
+    "engravers": [
+      "A. Raud",
+      "A. Mölder"
+    ],
+    "description": "Denomination.",
+    "lettering": "EESTI VABARIIK\r\n1\r\nKROON",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Estonia\r\n1 Krona",
+    "picture": "https://en.numista.com/catalogue/photos/estonie/6059aa75b3a572.80612626-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/estonie/6059aa75b3a572.80612626-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "comments": "<p>Rim variation for 2000 coins:</p><p><a href=\"https://en.numista.com/catalogue/images/6986366f2a3d0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6986366f2a3d0.jpg\"></a></p><p>&nbsp;</p><p>Edge variation for 2006 coins:</p><p><a href=\"https://en.numista.com/catalogue/images/59c51766a8c31.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/59c51766a8c31.jpg\" alt=\"\"></a></p>",
+  "related_types": [
+    {
+      "id": 3867,
+      "title": "1 Kroon",
+      "category": "coin",
+      "country": {
+        "code": "estonie",
+        "name": "Estonia"
+      },
+      "minYear": 1992,
+      "maxYear": 1995
+    },
+    {
+      "id": 5829,
+      "title": "1 Kroon (Independence)",
+      "category": "coin",
+      "country": {
+        "code": "estonie",
+        "name": "Estonia"
+      },
+      "minYear": 2008,
+      "maxYear": 2008
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "35"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "26b"
+    }
+  ],
+  "weight": 5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Three reeded and plain sections",
+    "picture": "https://en.numista.com/catalogue/photos/estonie/213-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/estonie/213-180.jpg",
+    "picture_copyright": "ZacUK"
+  },
+  "mints": [
+    {
+      "id": 1334,
+      "name": "Mint of Finland"
+    },
+    {
+      "id": 23,
+      "name": "Royal Dutch Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

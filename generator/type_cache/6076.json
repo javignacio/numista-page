@@ -1,0 +1,107 @@
+{
+  "id": 6076,
+  "url": "https://en.numista.com/6076",
+  "title": "1 Deutsche Mark",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "ddr",
+    "name": "German Democratic Republic"
+  },
+  "min_year": 1956,
+  "max_year": 1963,
+  "ruler": [
+    {
+      "id": 1313,
+      "name": "Democratic Republic",
+      "wikidata_id": "Q16957"
+    }
+  ],
+  "value": {
+    "text": "1 Mark",
+    "numeric_value": 1,
+    "currency": {
+      "id": 229,
+      "name": "Mark",
+      "full_name": "Mark (1948-1990)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1990-06-30"
+  },
+  "size": 25,
+  "thickness": 2.1,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "State emblem (hammer and a compass, surrounded by wreath of ears with a ribbon displaying the flag colors: black, red and gold).",
+    "lettering": "DEUTSCHE DEMOKRATISCHE\r\n* REPUBLIK *",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "German Democratic \r\nRepublic",
+    "picture": "https://en.numista.com/catalogue/photos/ddr/418-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ddr/418-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "reverse": {
+    "engravers": [
+      "Rudi Högner"
+    ],
+    "description": "Value flanked by oak leaves, mintmark above.",
+    "lettering": "A\r\n1 \r\nDEUTSCHE \r\nMARK\r\n1963",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/ddr/419-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ddr/419-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "comments": "<p>A few different dies are known. There are many differences between dies, here marked those, which are enough for attribution.<br><br><i>Obverse</i><br>Die <strong>1</strong> - small embossed and spaced grains, at the bottom stalks snuggle to short ribbon.<br>Die <strong>2</strong> - large flat grains, at the bottom stalks protrude from long ribbon.<br><br><i>Reverse</i><br>Die 1956 - embossed font, small serifs at the right top of K to MARK.<br>Die 1962 - flat font, small serifs at the right top of K to MARK.<br>Die 1963 - flat font, very long serif at the right top of K to MARK.<br>Picture: © Images courtesy of Alexandr Prokofyev.<br><a href=\"https://en.numista.com/catalogue/images/621ea3efaef3e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/621ea3efaef3e.jpg\" alt=\"\"></a><br><br><i>Combinations</i><br>Obverse Die <strong>1</strong> + Reverse 1956.<br>Obverse Die <strong>1</strong> + Reverse 1962.<br>Obverse Die <strong>2</strong> + Reverse 1963.</p>",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "13"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "13"
+    }
+  ],
+  "weight": 2.4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Smooth with imprints (13 small 6-rays stars).",
+    "picture": "https://en.numista.com/catalogue/photos/ddr/500-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ddr/500-180.jpg",
+    "picture_copyright": "jasanche",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 5,
+      "name": "Berlin"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

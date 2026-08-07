@@ -1,0 +1,114 @@
+{
+  "id": 1421,
+  "url": "https://en.numista.com/1421",
+  "title": "5 Kroner - Margrethe II",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "danemark",
+    "name": "Denmark"
+  },
+  "min_year": 1973,
+  "max_year": 1988,
+  "ruler": [
+    {
+      "id": 2404,
+      "name": "Margrethe II",
+      "wikidata_id": "Q102139",
+      "group": {
+        "id": 104,
+        "name": "House of Schleswig-Holstein-Sonderburg-Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Kroner",
+    "numeric_value": 5,
+    "currency": {
+      "id": 13,
+      "name": "Krone",
+      "full_name": "Krone (1873-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 33,
+  "thickness": 2.35,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Frode Bahnsen"
+    ],
+    "description": "Queen Margrethe II",
+    "lettering": "MARGRETHE II DANMARKS DRONNING\r\nS ♥ B",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Margrethe III, Queen of Denmark\r\nS ♥ B",
+    "picture": "https://en.numista.com/catalogue/photos/danemark/64c7ea21b0ed88.64409884-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/64c7ea21b0ed88.64409884-180.jpg",
+    "picture_copyright": "Elvi75"
+  },
+  "reverse": {
+    "engravers": [
+      "Frode Bahnsen"
+    ],
+    "description": "Royal Denmark coat of arms, three oak leaves on each side",
+    "lettering": "19 76\r\n5 KRONER",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/danemark/64c7ea2320ca34.97375763-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/64c7ea2320ca34.97375763-180.jpg",
+    "picture_copyright": "Elvi75"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/5e73645e1093b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e73645e1093b.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\n<span style=\"text-decoration:underline;\">The Royal Coat of arms</span> is different from the Coat of arms of Denmark and constitute as follows<br />\r\nThe first and fourth quarters represent Denmark by three crowned lions passant accompanied by nine hearts.<br />\r\nThe second quarter contains two lions passant representing Schleswig, a former Danish province now divided between Denmark and Germany.<br />\r\nThe third quarter contains a total of three symbols:-<br />\r\nTop: The Three Crowns represents the former Kalmar Union of Denmark, Norway &amp; Sweden (1397–1523)<br />\r\nBottom Left: Ram representing the Faroe Islands &amp; Bottom Right: Polar bear representing Greenland.<br /><br />\r\n<span style=\"text-decoration:underline;\">The Coat of arms of Denmark</span> is the Crowned heraldic shield of 3 lions &amp; 9 hearts (originally represented waterlily or sea leaves)",
+  "tags": [
+    "Monarch",
+    "Crown",
+    "Coat of Arms",
+    "Heart"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "863"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "81"
+    }
+  ],
+  "weight": 15,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 260,
+      "name": "Royal Danish Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

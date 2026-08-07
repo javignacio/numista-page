@@ -1,0 +1,127 @@
+{
+  "id": 4265,
+  "url": "https://en.numista.com/4265",
+  "title": "5 Pesos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "uruguay",
+    "name": "Uruguay"
+  },
+  "issuing_entity": {
+    "id": 29,
+    "name": "Bank of Oriental Republic of Uruguay"
+  },
+  "min_year": 1965,
+  "max_year": 1965,
+  "ruler": [
+    {
+      "id": 3897,
+      "name": "Oriental Republic of Uruguay",
+      "wikidata_id": "Q77"
+    }
+  ],
+  "value": {
+    "text": "5 Pesos",
+    "numeric_value": 5,
+    "currency": {
+      "id": 298,
+      "name": "Peso",
+      "full_name": "Peso (1863-1975)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 25,
+  "thickness": 2.1,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze (Copper 92% - Aluminium 6% - Nickel 2%)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Santiago Urzúa Valenzuela"
+    ],
+    "description": "Artigas (Jose Gervasio Artigas) head right, date below, country name around",
+    "lettering": "REPÚBLICA ORIENTAL DEL URUGUAY\r\n• ARTIGAS •\r\n1965",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Oriental Republic of Uruguay\r\nArtigas\r\n1965",
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/496-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/496-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "engravers": [
+      "Santiago Urzúa Valenzuela"
+    ],
+    "description": "Uruguayan coat of arms within wreath, value below, circle of 19 stars above and on sides",
+    "lettering": "5\r\nPESOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "5\r\nPesos",
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/497-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/497-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "tags": [
+    "Military leader",
+    "Politician",
+    "Coat of Arms",
+    "Sun",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "47"
+    },
+    {
+      "catalogue": {
+        "id": 709,
+        "code": "SA"
+      },
+      "number": "88"
+    },
+    {
+      "catalogue": {
+        "id": 2069,
+        "code": "CG"
+      },
+      "number": "88"
+    }
+  ],
+  "weight": 7,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/635f3b0e1447c2.78799047-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/635f3b0e1447c2.78799047-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,186 @@
+{
+  "id": 5287,
+  "url": "https://en.numista.com/5287",
+  "title": "25 Centésimos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "uruguay",
+    "name": "Uruguay"
+  },
+  "issuing_entity": {
+    "id": 29,
+    "name": "Bank of Oriental Republic of Uruguay"
+  },
+  "min_year": 1960,
+  "max_year": 1960,
+  "ruler": [
+    {
+      "id": 3897,
+      "name": "Oriental Republic of Uruguay",
+      "wikidata_id": "Q77"
+    }
+  ],
+  "value": {
+    "text": "25 Centésimos",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 298,
+      "name": "Peso",
+      "full_name": "Peso (1863-1975)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 17.9,
+  "thickness": 1.64,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Thomas Humphrey Paget"
+    ],
+    "description": "Portrait of José Artigas facing right within beaded rim.",
+    "lettering": "REPÚBLICA ORIENTAL DEL URUGUAY\r\nHP\r\n·ARTIGAS·\r\n1960",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/378-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/378-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "description": "Coat of Arms with denomination below.\r\nSurrounded by 19 stars with beaded rim.",
+    "lettering": "25\r\nCENTÉSIMOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/379-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/379-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "related_types": [
+    {
+      "id": 10342,
+      "title": "2 Centésimos",
+      "category": "coin",
+      "country": {
+        "code": "uruguay",
+        "name": "Uruguay"
+      },
+      "minYear": 1960,
+      "maxYear": 1960
+    },
+    {
+      "id": 8115,
+      "title": "5 Centésimos",
+      "category": "coin",
+      "country": {
+        "code": "uruguay",
+        "name": "Uruguay"
+      },
+      "minYear": 1960,
+      "maxYear": 1960
+    },
+    {
+      "id": 5286,
+      "title": "10 Centésimos",
+      "category": "coin",
+      "country": {
+        "code": "uruguay",
+        "name": "Uruguay"
+      },
+      "minYear": 1960,
+      "maxYear": 1960
+    },
+    {
+      "id": 1095,
+      "title": "50 Centésimos",
+      "category": "coin",
+      "country": {
+        "code": "uruguay",
+        "name": "Uruguay"
+      },
+      "minYear": 1960,
+      "maxYear": 1960
+    },
+    {
+      "id": 5283,
+      "title": "1 Peso",
+      "category": "coin",
+      "country": {
+        "code": "uruguay",
+        "name": "Uruguay"
+      },
+      "minYear": 1960,
+      "maxYear": 1960
+    }
+  ],
+  "tags": [
+    "Military leader",
+    "Politician",
+    "Coat of Arms",
+    "Sun",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "40"
+    },
+    {
+      "catalogue": {
+        "id": 709,
+        "code": "SA"
+      },
+      "number": "81"
+    },
+    {
+      "catalogue": {
+        "id": 2069,
+        "code": "CG"
+      },
+      "number": "81"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "24"
+    }
+  ],
+  "weight": 3,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/6518d853200430.74276958-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/6518d853200430.74276958-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

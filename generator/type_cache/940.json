@@ -1,0 +1,116 @@
+{
+  "id": 940,
+  "url": "https://en.numista.com/940",
+  "title": "5 Lire",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "italie",
+    "name": "Italy"
+  },
+  "min_year": 1946,
+  "max_year": 1950,
+  "ruler": [
+    {
+      "id": 1164,
+      "name": "Republic",
+      "wikidata_id": "Q38"
+    }
+  ],
+  "value": {
+    "text": "5 Lire",
+    "numeric_value": 5,
+    "currency": {
+      "id": 112,
+      "name": "Lira",
+      "full_name": "Lira (1861-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1954-00-00"
+  },
+  "size": 26.7,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Pietro Giampaoli"
+    ],
+    "designers": [
+      "Giuseppe Romagnoli"
+    ],
+    "description": "Female head facing right holding a torch in her raised right hand. Engraver and designer names below.",
+    "lettering": "REPVBBLICA ITALIANA\r\nG.ROMAGNOLI-P.GIAMPAOLI INC",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Italian Republic\r\nG. Romagnoli - P. Giampaoli INC",
+    "picture": "https://en.numista.com/catalogue/photos/italie/5f7988efd4b370.52158656-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/italie/5f7988efd4b370.52158656-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "engravers": [
+      "Pietro Giampaoli"
+    ],
+    "designers": [
+      "Giuseppe Romagnoli"
+    ],
+    "description": "Grape cluster divides value, date and mintmark below.",
+    "lettering": "L.5 \r\n1947 R",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "5 Lire\r\n1947 R",
+    "picture": "https://en.numista.com/catalogue/photos/italie/5f7988f0aa87c3.73583083-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/italie/5f7988f0aa87c3.73583083-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "tags": [
+    "Fruit"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "89"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "88"
+    }
+  ],
+  "weight": 2.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 22,
+      "name": "Rome"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

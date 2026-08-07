@@ -1,0 +1,131 @@
+{
+  "id": 1889,
+  "url": "https://en.numista.com/1889",
+  "title": "1 Drachma - Paul I",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "grece",
+    "name": "Greece"
+  },
+  "min_year": 1954,
+  "max_year": 1965,
+  "ruler": [
+    {
+      "id": 1260,
+      "name": "Paul",
+      "wikidata_id": "Q155394",
+      "group": {
+        "id": 471,
+        "name": "Kingdom of Greece • House of Schleswig-Holstein-Sonderburg-Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Drachma",
+    "numeric_value": 1,
+    "currency": {
+      "id": 62,
+      "name": "Third modern drachma",
+      "full_name": "Third modern drachma (1954-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 21,
+  "thickness": 1.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Vasos Falireas"
+    ],
+    "description": "Portrait of mature King Paul A left, date below",
+    "lettering": "ΠΑΥΛΟΣ ΒΑΣΙΛΕΥΣ ΤΩΝ ΕΛΛΗΝΩΝ\r\n1965",
+    "lettering_scripts": [
+      {
+        "name": "Greek"
+      }
+    ],
+    "lettering_translation": "Paul King of the Greeks\r\n1957",
+    "picture": "https://en.numista.com/catalogue/photos/grece/60bb1e291b3928.51854033-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/grece/60bb1e291b3928.51854033-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Crowned arms (shield with cross) with the defenders of the Crown, denomination below",
+    "lettering": "ΒΑΣΙΛΕΙΟΝ ΤΗΣ ΕΛΛΑΔΟΣ\r\n1 ΔΡΑΧΜΗ",
+    "lettering_scripts": [
+      {
+        "name": "Greek"
+      }
+    ],
+    "lettering_translation": "Kingdom of Greece\r\n1 Drachma",
+    "picture": "https://en.numista.com/catalogue/photos/grece/60bb1e29907936.30605856-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/grece/60bb1e29907936.30605856-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/5deb87e75e1bc.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5deb87e75e1bc.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "related_types": [
+    {
+      "id": 540,
+      "title": "1 Drachma - Constantine II",
+      "category": "coin",
+      "country": {
+        "code": "grece",
+        "name": "Greece"
+      },
+      "minYear": 1966,
+      "maxYear": 1970
+    }
+  ],
+  "tags": [
+    "Monarch",
+    "Mythology",
+    "Crown",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "81"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "21"
+    }
+  ],
+  "weight": 4,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/grece/614ca6c104a457.13890006-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/grece/614ca6c104a457.13890006-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

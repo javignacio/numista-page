@@ -1,0 +1,121 @@
+{
+  "id": 2396,
+  "url": "https://en.numista.com/2396",
+  "title": "10 Lire",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "italie",
+    "name": "Italy"
+  },
+  "min_year": 1946,
+  "max_year": 1950,
+  "ruler": [
+    {
+      "id": 1164,
+      "name": "Republic",
+      "wikidata_id": "Q38"
+    }
+  ],
+  "value": {
+    "text": "10 Lire",
+    "numeric_value": 10,
+    "currency": {
+      "id": 112,
+      "name": "Lira",
+      "full_name": "Lira (1861-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1954-00-00"
+  },
+  "size": 29,
+  "thickness": 2.1,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Pietro Giampaoli"
+    ],
+    "designers": [
+      "Giuseppe Romagnoli"
+    ],
+    "description": "Pegasus, the white-winged horse of myth and fantasy, in-flight to left and the country name at the bottom. Below are the designer and the engraver names",
+    "lettering": "REPVBBLICA ITALIANA\r\nG. ROMAGNOLI \r\nP. GIAMPAOLI INC.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Italy\r\nG. Romagnoli\r\nP. Giampaoli INC.",
+    "picture": "https://en.numista.com/catalogue/photos/italie/5f798dd3108ca0.48999250-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/italie/5f798dd3108ca0.48999250-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "designers": [
+      "Giuseppe Romagnoli"
+    ],
+    "description": "The olive branch of fruit with leaves, dividing value and the mintmark to the lower left and the date at the bottom",
+    "lettering": "L 10\r\nR\r\n1947",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "10 Lire\r\nR\r\n1947",
+    "picture": "https://en.numista.com/catalogue/photos/italie/5f799091d969d6.91824668-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/italie/5f799091d969d6.91824668-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "<p><u>In 1947 the minting is retouched which is why there are two main variants. The differences are these:</u><br>1) the characters that make up \"REPVBBLICA ITALIANA\" are different. In the word \"REPVBBLICA\" the differences are noticed in particular in the E, in the two B and in the C; but also in the term \"ITALIANA\" differences are observed. In the second type, the signature P • GIAMPAOLI is shifted to the right respect to that of G • ROMAGNOLI compared to the first type.<br>2) the wing feathers touch the edge in the first type, but not in the second<br>3) the mane of the Pegasus is different<br>4) the ear is less rounded in the second coinage<br>5) the attachment of the wings is different<br>6) the tail is different in particular it can be seen in the terminal extremity<br>7) the front hooves are of different make, while the rear ones of the first coinage border the edge unlike those of the second</p><p>&nbsp;</p><p><u>First coinage:</u></p><p><a href=\"https://en.numista.com/catalogue/images/67ea94630c3a0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67ea94630c3a0.jpg\"></a></p><p>&nbsp;</p><p><u>Second coinage:</u></p><p><a href=\"https://en.numista.com/catalogue/images/67ea94736bee8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67ea94736bee8.jpg\"></a></p>",
+  "tags": [
+    "Fantasy animal",
+    "Horse or equine",
+    "Mythology"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "90"
+    }
+  ],
+  "weight": 3,
+  "orientation": "coin",
+  "edge": {
+    "description": "Smooth with inscription",
+    "lettering": "REPVBBLICA ITALIANA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Italy",
+    "picture": "https://en.numista.com/catalogue/photos/italie/6032451130c2a6.34218206-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/italie/6032451130c2a6.34218206-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 22,
+      "name": "Rome"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

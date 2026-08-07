@@ -1,0 +1,132 @@
+{
+  "id": 302,
+  "url": "https://en.numista.com/302",
+  "title": "500 Lire",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "italie",
+    "name": "Italy"
+  },
+  "min_year": 1982,
+  "max_year": 2001,
+  "ruler": [
+    {
+      "id": 1164,
+      "name": "Republic",
+      "wikidata_id": "Q38"
+    }
+  ],
+  "value": {
+    "text": "500 Lire",
+    "numeric_value": 500,
+    "currency": {
+      "id": 112,
+      "name": "Lira",
+      "full_name": "Lira (1861-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2002-02-28"
+  },
+  "size": 25.8,
+  "thickness": 1.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: bronzital centre in acmonital ring"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Laura Cretara"
+    ],
+    "description": "Female head facing left. The woman symbolizes the Italian Republic with feathered wings coming from temples (symbols of intelligence and freedom). Engraver's name below the neck-cut.",
+    "lettering": "REPVBBLICA ITALIANA\r\nCRETARA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Italian Republic.",
+    "picture": "https://en.numista.com/catalogue/photos/italie/5f81b129238eb5.37429813-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/italie/5f81b129238eb5.37429813-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Laura Cretara"
+    ],
+    "description": "In the center a view of the Piazza del Quirinale, Rome., with small date in lower position. Value (\"L.500\") in Braille at top of the outer ring, as text at the bottom; plants on either sides.",
+    "lettering": "⠨⠇⠄⠼⠑⠚⠚⠄\r\nR 1987\r\nL.500",
+    "lettering_scripts": [
+      {
+        "name": "Braille"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/italie/5f81b12979c873.42035040-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/italie/5f81b12979c873.42035040-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "<p>There are three main groups of the Obv.<br>Medium head: 1982-1987, 1994-1997, 2000, 2001.<br>Large head: 1988-1991.<br>Small head: 1991-1992, 1998.<br>Portrait varieties exist with the size of the head and details of hair and signature vary.<br><br><u>1982&nbsp;</u><br>Only medium head.<br><a href=\"https://en.numista.com/catalogue/images/59ca43d7dbb6c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/59ca43d7dbb6c.jpg\" alt=\"\"></a><br><br><u>1987</u><br>Only medium head.<br><i>Obverse</i><br>Die <strong>1</strong> 1982 - large signature, lower plies of hair narrow.<br>Die <strong>2</strong> - small signature, well engraved front part of neck with sharp bottom corner, lower plies of hair wide.<br>Picture: © Images courtesy of Alexandr Prokofyev.<br><a href=\"https://en.numista.com/catalogue/images/639e362b8b039.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/639e362b8b039.jpg\" alt=\"\"></a></p><p>Variations exist on 1987</p><p><img class=\"image_resized\" style=\"width:22.06%;\" src=\"https://en.numista.com/catalogue/images/miniatures/65fee91dc088c.png\"><br><br><u>1991</u><br><a href=\"https://en.numista.com/catalogue/images/5c87b0251d00d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5c87b0251d00d.jpg\" alt=\"\"></a><br><br>Examples of 1991 with the monument edges incuse (compared to 1980s with the monument edges raised) are known:<br><a href=\"https://en.numista.com/catalogue/images/6342b750b698a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6342b750b698a.jpg\" alt=\"\"></a><br>©tvladusic</p><p>&nbsp;</p><p>1991 - 1&amp;9 close and with gap</p><p><a href=\"https://en.numista.com/catalogue/images/656b8b48bfe38.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/656b8b48bfe38.png\"></a></p><p>&nbsp;</p><p>&nbsp;</p><p>1988 Overprint</p><p><a href=\"https://en.numista.com/catalogue/images/656b8b865629b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/656b8b865629b.jpg\"></a></p>",
+  "tags": [
+    "Allegory"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "111"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "110"
+    },
+    {
+      "catalogue": {
+        "id": 2898,
+        "code": "Galst/Alfen"
+      },
+      "number": "X.29"
+    },
+    {
+      "catalogue": {
+        "id": 162,
+        "code": "Gigante"
+      },
+      "number": "43-57"
+    }
+  ],
+  "weight": 6.8,
+  "orientation": "coin",
+  "edge": {
+    "description": "Alternating smooth and reeded segments.",
+    "picture": "https://en.numista.com/catalogue/photos/italie/852-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/italie/852-180.jpg",
+    "picture_copyright": "ZacUK"
+  },
+  "mints": [
+    {
+      "id": 22,
+      "name": "Rome"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

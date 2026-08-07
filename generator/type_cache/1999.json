@@ -1,0 +1,137 @@
+{
+  "id": 1999,
+  "url": "https://en.numista.com/1999",
+  "title": "1 Forint",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "hongrie",
+    "name": "Hungary"
+  },
+  "min_year": 1992,
+  "max_year": 2008,
+  "ruler": [
+    {
+      "id": 1801,
+      "name": "Republic",
+      "wikidata_id": "Q718422"
+    }
+  ],
+  "value": {
+    "text": "1 Forint",
+    "numeric_value": 1,
+    "currency": {
+      "id": 71,
+      "name": "Forint",
+      "full_name": "Forint (1946-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2008-03-01"
+  },
+  "size": 16.3,
+  "thickness": 1.45,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "István Kósa",
+      "István Bartos"
+    ],
+    "description": "Crowned shield of Hungary and the date below.",
+    "lettering": "MAGYAR KÖZTÁRSASÁG\r\n· 2005 ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Hungary",
+    "picture": "https://en.numista.com/catalogue/photos/hongrie/62f510c08dea30.59817476-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hongrie/62f510c08dea30.59817476-180.jpg",
+    "picture_copyright": "Máté Bikfalvi",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "István Kósa",
+      "István Bartos"
+    ],
+    "description": "Underlined numeral of value, mintmark below.",
+    "lettering": "1 \r\nFORINT\r\nBP.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/hongrie/62f510c10688a0.62504234-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hongrie/62f510c10688a0.62504234-180.jpg",
+    "picture_copyright": "Máté Bikfalvi",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "comments": "<p>Before end of circulation of two small denominations the Hungarian mint issued two sets with 1 and 2 forints 2007 in brilliant uncirculated condition.<br><br><i>The set-ruler</i> with history of the forint.<br>Picture: © Images courtesy of Alexandr Prokofyev.<br><a href=\"https://en.numista.com/catalogue/images/64139be47fb43.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64139be47fb43.jpg\" alt=\"\"></a> <a href=\"https://en.numista.com/catalogue/images/64139bee3578e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64139bee3578e.jpg\" alt=\"\"></a><br><br><i>The set-bookmark</i> with images of early coinage on the Obverse and all types of 1 and 2 forints from the communist period on the Reverse.<br>Picture: © Images courtesy of Alexandr Prokofyev.<br><a href=\"https://en.numista.com/catalogue/images/64139c59f1da3.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64139c59f1da3.jpg\" alt=\"\"></a> <a href=\"https://en.numista.com/catalogue/images/64139c621ad2f.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64139c621ad2f.jpg\" alt=\"\"></a></p>",
+  "related_types": [
+    {
+      "id": 812,
+      "title": "2 Forint",
+      "category": "coin",
+      "country": {
+        "code": "hongrie",
+        "name": "Hungary"
+      },
+      "minYear": 1992,
+      "maxYear": 2008
+    }
+  ],
+  "tags": [
+    "Crown",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "692"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "197"
+    },
+    {
+      "catalogue": {
+        "id": 360,
+        "code": "Adamo"
+      },
+      "number": "F6.4"
+    }
+  ],
+  "weight": 2.05,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/hongrie/61581d283f47c4.60548396-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hongrie/61581d283f47c4.60548396-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 1248,
+      "name": "Hungarian mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

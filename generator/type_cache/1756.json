@@ -1,0 +1,110 @@
+{
+  "id": 1756,
+  "url": "https://en.numista.com/1756",
+  "title": "2000 Dobras (FAO)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "sao_tome-et-principe",
+    "name": "São Tomé and Príncipe"
+  },
+  "min_year": 1997,
+  "max_year": 1997,
+  "ruler": [
+    {
+      "id": 4338,
+      "name": "Democratic Republic",
+      "wikidata_id": "Q1039"
+    }
+  ],
+  "value": {
+    "text": "2000 Dobras",
+    "numeric_value": 2000,
+    "currency": {
+      "id": 37,
+      "name": "First Dobra",
+      "full_name": "First Dobra (1977-2017)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 28,
+  "thickness": 2.2,
+  "shape": "Equilateral curve heptagon (7-sided)",
+  "composition": {
+    "text": "Chromium clad steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Arms with supporters",
+    "lettering": "REPÚBLICA DEMOCRÁTICA DE S.TOMÉ E PRÍNCIPE\r\nREPÚBLICA DEMOCRÁTICA DE S.TOMÉ E PRÍNCIPE\r\nUNIDADE DISCIPLINA TRABALHO\r\n1997",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/sao_tome-et-principe/1-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/sao_tome-et-principe/1-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Robert Elderton"
+    ],
+    "description": "Tropical food plants within circle",
+    "lettering": "AUMENTEMOS A PRODUÇÃO\r\n2000\r\nDOBRAS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/sao_tome-et-principe/2-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/sao_tome-et-principe/2-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "commemorated_topic": "F.A.O.",
+  "tags": [
+    "Bird",
+    "FAO",
+    "Fruit",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "91"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "94"
+    }
+  ],
+  "weight": 8.6,
+  "orientation": "medal",
+  "edge": {
+    "description": "Milled"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

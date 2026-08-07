@@ -1,0 +1,149 @@
+{
+  "id": 2086,
+  "url": "https://en.numista.com/2086",
+  "title": "10 Heller",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "autriche-habsbourg",
+    "name": "Austrian Empire"
+  },
+  "min_year": 1892,
+  "max_year": 1911,
+  "ruler": [
+    {
+      "id": 754,
+      "name": "Francis Joseph I",
+      "wikidata_id": "Q51056",
+      "nomisma_id": "franz_joseph",
+      "group": {
+        "id": 66,
+        "name": "House of Habsburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Hellers",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 214,
+      "name": "Crown",
+      "full_name": "Crown (1892-1918)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 18.9,
+  "thickness": 1.25,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Rudolf Neuberger",
+      "Anton Scharff"
+    ],
+    "description": "The double headed imperial eagle with Habsburg-Lorraine shield on breast",
+    "picture": "https://en.numista.com/catalogue/photos/autriche-habsbourg/5e932dc31d2ef9.37090316-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/autriche-habsbourg/5e932dc31d2ef9.37090316-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "reverse": {
+    "engravers": [
+      "Rudolf Neuberger",
+      "Anton Scharff"
+    ],
+    "description": "Value above date at center of ornate shield",
+    "lettering": "10\r\n1911",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/autriche-habsbourg/5e932dc3742b41.87209523-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/autriche-habsbourg/5e932dc3742b41.87209523-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "comments": "Year 1895 was minted also in 1906 after production restart.",
+  "related_types": [
+    {
+      "id": 4119,
+      "title": "10 Heller (Shield with lion and stars)",
+      "category": "coin",
+      "country": {
+        "code": "autriche-habsbourg",
+        "name": "Austrian Empire"
+      },
+      "minYear": 1915,
+      "maxYear": 1916
+    },
+    {
+      "id": 7762,
+      "title": "10 Heller (Austrian shield)",
+      "category": "coin",
+      "country": {
+        "code": "autriche-habsbourg",
+        "name": "Austrian Empire"
+      },
+      "minYear": 1916,
+      "maxYear": 1916
+    },
+    {
+      "id": 3835,
+      "title": "10 Fillér - Francis Joseph I",
+      "category": "coin",
+      "country": {
+        "code": "hongrie",
+        "name": "Hungary"
+      },
+      "minYear": 1892,
+      "maxYear": 1914
+    }
+  ],
+  "tags": [
+    "Eagle",
+    "Crown",
+    "Coat of Arms",
+    "Double-headed eagle",
+    "Globus cruciger",
+    "Cold weapons"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "2802"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "5"
+    }
+  ],
+  "weight": 3,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/autriche-habsbourg/6991afb574f263.76695999-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/autriche-habsbourg/6991afb574f263.76695999-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 232,
+      "name": "Austrian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

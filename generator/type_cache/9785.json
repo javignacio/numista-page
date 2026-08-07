@@ -1,0 +1,110 @@
+{
+  "id": 9785,
+  "url": "https://en.numista.com/9785",
+  "title": "1 Paisa",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "pakistan",
+    "name": "Pakistan"
+  },
+  "issuing_entity": {
+    "id": 537,
+    "name": "Government of Pakistan",
+    "wikidata_id": "Q3250182"
+  },
+  "min_year": 1964,
+  "max_year": 1969,
+  "ruler": [
+    {
+      "id": 5238,
+      "name": "Islamic Republic",
+      "wikidata_id": "Q843"
+    }
+  ],
+  "value": {
+    "text": "1 Paisa",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 417,
+      "name": "Rupee",
+      "full_name": "Rupee (decimalized, 1961-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2014-09-30"
+  },
+  "size": 17,
+  "thickness": 1.1,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Government of Pakistan (in Bengali and in Urdu Tughra) with Crescent on Left and a 5 point star",
+    "lettering": "1965\r\nপাকিস্তান সরকার\r\nحکومت پاکستان",
+    "lettering_scripts": [
+      {
+        "name": "Bengali"
+      },
+      {
+        "name": "Urdu"
+      }
+    ],
+    "lettering_translation": "1965\r\nGovernment of Pakistan\r\nGovernment of Pakistan",
+    "picture": "https://en.numista.com/catalogue/photos/pakistan/668962de9d4182.25265105-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pakistan/668962de9d4182.25265105-180.jpg",
+    "picture_copyright": "Iftikhar Ahmad"
+  },
+  "reverse": {
+    "description": "Value written in Bengali and Urdu. Oat sprigs on both sides.",
+    "lettering": "1\r\nایک پیسہ\r\nএক পয়সা",
+    "lettering_scripts": [
+      {
+        "name": "Bengali"
+      },
+      {
+        "name": "Urdu"
+      }
+    ],
+    "lettering_translation": "1\r\nOne Paisa\r\nOne Paisa",
+    "picture": "https://en.numista.com/catalogue/photos/pakistan/668962df0e1e82.06504920-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pakistan/668962df0e1e82.06504920-180.jpg",
+    "picture_copyright": "Iftikhar Ahmad"
+  },
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "24a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "22a"
+    }
+  ],
+  "weight": 1.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 1876,
+      "name": "Lahore"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

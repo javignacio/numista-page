@@ -1,0 +1,105 @@
+{
+  "id": 10324,
+  "url": "https://en.numista.com/10324",
+  "title": "20 Meticais",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "mozambique",
+    "name": "Mozambique"
+  },
+  "min_year": 1980,
+  "max_year": 1980,
+  "ruler": [
+    {
+      "id": 4697,
+      "name": "People's Republic",
+      "wikidata_id": "Q617078"
+    }
+  ],
+  "value": {
+    "text": "20 Meticais",
+    "numeric_value": 20,
+    "currency": {
+      "id": 134,
+      "name": "Old metical",
+      "full_name": "Old metical (1980-2006)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 30,
+  "thickness": 3,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms, legend surrounding with date at bottom.",
+    "lettering": "REPÚBLICA POPULAR DE MOÇAMBIQUE\r\nREPÚBLICA POPULAR \r\nDE MOÇAMBIQUE\r\n1980",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/mozambique/723-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mozambique/723-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "reverse": {
+    "description": "Denomination (20 METICAIS) and tank",
+    "lettering": "20\r\nMETICAIS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/mozambique/724-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mozambique/724-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "related_types": [
+    {
+      "id": 10325,
+      "title": "20 Meticais",
+      "category": "coin",
+      "country": {
+        "code": "mozambique",
+        "name": "Mozambique"
+      },
+      "minYear": 1986,
+      "maxYear": 1986
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "103"
+    }
+  ],
+  "weight": 12.2,
+  "orientation": "medal",
+  "edge": {
+    "description": "Smooth with stars",
+    "picture": "https://en.numista.com/catalogue/photos/mozambique/512-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mozambique/512-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 5,
+      "name": "Berlin"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

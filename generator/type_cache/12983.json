@@ -1,0 +1,120 @@
+{
+  "id": 12983,
+  "url": "https://en.numista.com/12983",
+  "title": "1 Öre - Gustaf V",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "suede",
+    "name": "Sweden"
+  },
+  "min_year": 1917,
+  "max_year": 1919,
+  "ruler": [
+    {
+      "id": 2364,
+      "name": "Gustaf V",
+      "wikidata_id": "Q52890",
+      "group": {
+        "id": 99,
+        "name": "House of Bernadotte"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Öre",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 18,
+      "name": "Krona",
+      "full_name": "Krona (1873-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 16,
+  "thickness": 1.3,
+  "shape": "Round",
+  "composition": {
+    "text": "Iron"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Crowned double monogram of King Gustaf V of Sweden divides date. King's motto around rim.",
+    "lettering": "MED FOLKET FÖR FOSTERLANDET\r\n19 GGV 18",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "With the people for the Motherland.",
+    "picture": "https://en.numista.com/catalogue/photos/suede/3117-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suede/3117-180.jpg",
+    "picture_copyright": "seb"
+  },
+  "reverse": {
+    "description": "The Three crowns of Sweden divides value in letters at base of lower crown. Above the crowns there is the value in number and below the mintmark of Stockholm mint.",
+    "lettering": "1\r\nETT ÖRE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "One Öre.",
+    "picture": "https://en.numista.com/catalogue/photos/suede/3118-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suede/3118-180.jpg",
+    "picture_copyright": "seb"
+  },
+  "comments": "Coins in iron minted to replace those in bronze, due to metal shortages during and after World War I.",
+  "related_types": [
+    {
+      "id": 12985,
+      "title": "2 Öre - Gustaf V",
+      "category": "coin",
+      "country": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "minYear": 1917,
+      "maxYear": 1920
+    },
+    {
+      "id": 12986,
+      "title": "5 Öre - Gustaf V",
+      "category": "coin",
+      "country": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "minYear": 1917,
+      "maxYear": 1919
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "789"
+    }
+  ],
+  "weight": 1.74,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 5989,
+      "name": "Kungliga Myntet"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,190 @@
+{
+  "id": 7078,
+  "url": "https://en.numista.com/7078",
+  "title": "1 New Sheqel (with circle below emblem)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "israel",
+    "name": "Israel"
+  },
+  "min_year": 1994,
+  "max_year": 2017,
+  "ruler": [
+    {
+      "id": 4056,
+      "name": "State of Israel",
+      "wikidata_id": "Q801"
+    }
+  ],
+  "value": {
+    "text": "1 New Sheqel",
+    "numeric_value": 1,
+    "currency": {
+      "id": 183,
+      "name": "New Shekel",
+      "full_name": "New Shekel (1986-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 18,
+  "thickness": 2.1,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Victor Huster"
+    ],
+    "description": "Lily and letters Yehud (Judah) written in Paleo-Hebrew, resembling images from antique Persian silver coins with state emblem above (menorah flanked by olive branches), circle below emblem.",
+    "lettering": "יהד",
+    "lettering_scripts": [
+      {
+        "name": "Hebrew"
+      }
+    ],
+    "lettering_translation": "Yehud",
+    "picture": "https://en.numista.com/catalogue/photos/israel/174-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/israel/174-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Gabi Neumann"
+    ],
+    "description": "The denomination \"1 New Sheqel\" in Hebrew and English; the date in Hebrew; \"Israel\" in Hebrew, Arabic, and English.",
+    "lettering": "اسرائيل • ISRAEL התש\"ס • ישראל\r\n1\r\nשקל\r\nחדש\r\nNEW SHEQEL",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      },
+      {
+        "name": "Hebrew"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Israel Israel Israel 5760\r\n1\r\nNew\r\nSheqel\r\nNew Sheqel",
+    "picture": "https://en.numista.com/catalogue/photos/israel/175-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/israel/175-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "A few main groups are known, which differ by thickness of all details. Most noticeably differences are visible on reverse, where in addition the type <span style=\"font-weight:bold;\">D</span> has new spelling in Arabic.<br /><br />\r\n<span style=\"font-style:italic;\">Obverse</span><br />\r\nDie <span style=\"font-weight:bold;\">I</span> - top of lily far from rim.<br />\r\nDie <span style=\"font-weight:bold;\">II</span> - top of lily far from rim. Circle under the coat of arms.<br />\r\n<span style=\"font-style:italic;\">Note</span>. Different thickness of details.<br />\r\nDie <span style=\"font-weight:bold;\">III</span> - top of lily almost touches rim. Circle under the coat of arms.<br />\r\nPicture: © Images courtesy of Alexandr Prokofyev.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/61be653220835.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/61be653220835.jpg\" alt=\"\" width=\"200\" height=\"199\" /></a><br /><br />\r\n<span style=\"font-style:italic;\">Reverse</span><br />\r\nType <span style=\"font-weight:bold;\">A</span> - all details thick and far from rim, no hamza &#039;ء&#039; under alif &#039;ا&#039; in &#039;إسرائيل&#039;.<br />\r\nType <span style=\"font-weight:bold;\">B</span> - all details thick and close to rim.<br />\r\nType <span style=\"font-weight:bold;\">C</span> - all details thin.<br />\r\nType <span style=\"font-weight:bold;\">D</span> - all details very thin, with hamza &#039;ء&#039; under alif &#039;ا&#039; in &#039;إسرائيل&#039;.<br />\r\nPicture: © Images courtesy of Alexandr Prokofyev.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/61be65605c869.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/61be65605c869.jpg\" alt=\"\" width=\"200\" height=\"210\" /></a><br /><br />\r\n<span style=\"font-style:italic;\">Combinations</span><br />\r\nCopper-nickel, medal alignment ↑↑<br />\r\n<span style=\"font-weight:bold;\">I</span>+<span style=\"font-weight:bold;\">A</span>: 5745-5753.<br /><br />\r\nNickel plated steel, medal alignment ↑↑<br />\r\n<span style=\"font-weight:bold;\">II</span>+<span style=\"font-weight:bold;\">B</span>: 5754-5763.<br />\r\n<span style=\"font-weight:bold;\">II</span>+<span style=\"font-weight:bold;\">C</span>: 5765-5767.<br />\r\n<span style=\"font-weight:bold;\">II</span>+<span style=\"font-weight:bold;\">D</span>: 5769-5777.<br />\r\n<span style=\"font-weight:bold;\">III</span>+<span style=\"font-weight:bold;\">B</span>: 5757.<br /><br />\r\nNickel plated steel, coin alignment ↑↓<br />\r\n<span style=\"font-weight:bold;\">II</span>+<span style=\"font-weight:bold;\">B</span>: 5754.<br />\r\n<span style=\"font-weight:bold;\">II</span>+<span style=\"font-weight:bold;\">C</span>: 5766.",
+  "related_types": [
+    {
+      "id": 1076,
+      "title": "1 New Sheqel (without circle below emblem)",
+      "category": "coin",
+      "country": {
+        "code": "israel",
+        "name": "Israel"
+      },
+      "minYear": 1985,
+      "maxYear": 1993
+    },
+    {
+      "id": 9575,
+      "title": "1 New Sheqel (Hanukkah)",
+      "category": "coin",
+      "country": {
+        "code": "israel",
+        "name": "Israel"
+      },
+      "minYear": 1986,
+      "maxYear": 2010
+    },
+    {
+      "id": 34794,
+      "title": "1 New Sheqel (Israel's 40th Anniversary)",
+      "category": "coin",
+      "country": {
+        "code": "israel",
+        "name": "Israel"
+      },
+      "minYear": 1988,
+      "maxYear": 1988
+    },
+    {
+      "id": 376574,
+      "title": "1 New Shekel",
+      "category": "coin",
+      "country": {
+        "code": "israel",
+        "name": "Israel"
+      },
+      "minYear": 2022,
+      "maxYear": 2022
+    },
+    {
+      "id": 88536,
+      "title": "½ Ma'ah-Obol (Judea)",
+      "category": "coin",
+      "country": {
+        "code": "yehud_medinata_satrapy",
+        "name": "Yehud Medinata, Satrapy of"
+      },
+      "minYear": -375,
+      "maxYear": -332
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "160a"
+    }
+  ],
+  "weight": 3.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/israel/2463-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/israel/2463-180.jpg",
+    "picture_copyright": "CyrusPamelaOne",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 1334,
+      "name": "Mint of Finland"
+    },
+    {
+      "id": 1888,
+      "name": "Norwegian Mint"
+    },
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    },
+    {
+      "id": 23,
+      "name": "Royal Dutch Mint"
+    },
+    {
+      "id": 1300,
+      "name": "South African Mint"
+    },
+    {
+      "id": 2,
+      "name": "Staatliche Münze Baden-Württemberg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

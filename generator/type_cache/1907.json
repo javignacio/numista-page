@@ -1,0 +1,170 @@
+{
+  "id": 1907,
+  "url": "https://en.numista.com/1907",
+  "title": "1 Franc - Charlotte (large Type)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "luxembourg",
+    "name": "Luxembourg"
+  },
+  "min_year": 1946,
+  "max_year": 1947,
+  "ruler": [
+    {
+      "id": 1578,
+      "name": "Charlotte",
+      "wikidata_id": "Q155608",
+      "group": {
+        "id": 129,
+        "name": "Grand Duchy of Luxembourg"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Franc",
+    "numeric_value": 1,
+    "currency": {
+      "id": 79,
+      "name": "Franc",
+      "full_name": "Franc (1854-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1953-01-01"
+  },
+  "size": 23,
+  "thickness": 1.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Armand Bonnetain"
+    ],
+    "description": "Man shovelling coal",
+    "lettering": "LETZEBURG\r\nA.B.\r\n1947",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Luxembourg\r\nA.B.\r\n1947",
+    "picture": "https://en.numista.com/catalogue/photos/luxembourg/625428fa9995f9.77728818-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/luxembourg/625428fa9995f9.77728818-180.jpg",
+    "picture_copyright": "smy77",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Armand Bonnetain"
+    ],
+    "description": "Royal Crown",
+    "lettering": "1 Ch F.\r\nA.B.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/luxembourg/625428fb2efb32.21403080-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/luxembourg/625428fb2efb32.21403080-180.jpg",
+    "picture_copyright": "smy77",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "Coin minted at the Brussels workshop, composed of 75% copper and 25% nickel. The tolerance for the title has been set at 10 thousandths and for the weight at 40 thousandths. This coin was issued in parallel with the <a href=\"https://fr.numista.com/4194\">1 franc harvonneuse</a> and the <a href=\"https://fr.numista.com/4189\">1 franc puddleur</a> in nickel. Their withdrawal was ordered by the Grand-Ducal decree of November 13, 1952.<br /><br />\r\nFirst coin issued after the Second World War. The economic union with Belgium is re-established, and the Luxembourg franc is once again equivalent to the Belgian franc.",
+  "related_types": [
+    {
+      "id": 65621,
+      "title": "1 Franc - Charlotte (Essai)",
+      "category": "coin",
+      "country": {
+        "code": "luxembourg",
+        "name": "Luxembourg"
+      },
+      "minYear": 1946,
+      "maxYear": 1946
+    },
+    {
+      "id": 103672,
+      "title": "1 Franc - Charlotte (Essai)",
+      "category": "coin",
+      "country": {
+        "code": "luxembourg",
+        "name": "Luxembourg"
+      },
+      "minYear": 1952,
+      "maxYear": 1963
+    },
+    {
+      "id": 251,
+      "title": "1 Franc - Charlotte (small Type)",
+      "category": "coin",
+      "country": {
+        "code": "luxembourg",
+        "name": "Luxembourg"
+      },
+      "minYear": 1952,
+      "maxYear": 1964
+    },
+    {
+      "id": 57586,
+      "title": "1 Franc - Charlotte (Silver)",
+      "category": "coin",
+      "country": {
+        "code": "luxembourg",
+        "name": "Luxembourg"
+      },
+      "minYear": 1980,
+      "maxYear": 1980
+    }
+  ],
+  "tags": [
+    "Industry"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 124,
+        "code": "L"
+      },
+      "number": "297"
+    },
+    {
+      "catalogue": {
+        "id": 177,
+        "code": "Weiller"
+      },
+      "number": "286"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "46.1"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "31"
+    }
+  ],
+  "weight": 5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Milled"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

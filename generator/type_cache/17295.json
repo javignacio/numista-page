@@ -1,0 +1,93 @@
+{
+  "id": 17295,
+  "url": "https://en.numista.com/17295",
+  "title": "1 Centavo (Thick Planchet)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "chili",
+    "name": "Chile"
+  },
+  "min_year": 1835,
+  "max_year": 1835,
+  "ruler": [
+    {
+      "id": 3299,
+      "name": "Republic",
+      "wikidata_id": "Q298"
+    }
+  ],
+  "value": {
+    "text": "1 Centavo",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 237,
+      "name": "Peso",
+      "full_name": "Peso (1835-1959)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 30,
+  "thickness": 2.96,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "5-pointed star, date below",
+    "lettering": "REPUBLICA DE CHILE\r\n1835",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Chile",
+    "picture": "https://en.numista.com/catalogue/photos/chili/1254-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/1254-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "description": "Denomination within wreath",
+    "lettering": "ECONOMIA ES RIQUEZA\r\nUN CENTAVO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Economy is wealth.\r\nOne  centavo",
+    "picture": "https://en.numista.com/catalogue/photos/chili/1255-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/1255-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "115"
+    }
+  ],
+  "weight": 18,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 1808,
+      "name": "Soho Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

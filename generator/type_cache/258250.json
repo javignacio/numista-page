@@ -1,0 +1,138 @@
+{
+  "id": 258250,
+  "url": "https://en.numista.com/258250",
+  "title": "50 000 Guaranies (Series H-K)",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "paraguay",
+    "name": "Paraguay"
+  },
+  "issuing_entity": {
+    "id": 935,
+    "name": "Central Bank of Paraguay",
+    "wikidata_id": "Q4504275"
+  },
+  "min_year": 2015,
+  "max_year": 2022,
+  "ruler": [
+    {
+      "id": 4650,
+      "name": "Republic",
+      "wikidata_id": "Q733"
+    }
+  ],
+  "value": {
+    "text": "50 000 Guaraníes",
+    "numeric_value": 50000,
+    "currency": {
+      "id": 87,
+      "name": "Guarani",
+      "full_name": "Guarani (1944-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 157,
+  "size2": 67,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Purple, green and light brown on multicolor underprint.\r\nAgustín Pío Barríos \"Mangore\" holding guitar at center, face value combining numbers and letters on top an lower left; and on numbers and on letters on center right. issuer name on top right, security thread to right of center, see-thru device (guitar shape) on lower left, the 2 official coats of arms on sides on lettered face of value (right). \r\nRed vertical serial #s on left, black horizontal on lower right.",
+    "lettering": "50 MIL\r\nBANCO CENTRAL DEL PARAGUAY\r\nEL BANCO CENTRAL DEL PARAGUAY\r\nRECONOCE ESTE BILLETE POR\r\n50000\r\nAÑO 2015\r\nCINCUENTA MIL GUARANIES\r\nESTE BILETE TIENE CURSO LEGAL Y FUERZA CANCELATORIA ILIMITADA EN TODO EL TERRITORIO DE LA REPUBLICA (LEY 489 DEL 29 JUNIO DE 1995).",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "50 Thousand\r\nCentral Bank of Paraguay\r\nThe Central Bank of Paraguay accept this banknote for\r\nYear 2015\r\nFifty Thousand Guaranies\r\nThis banknote is legal tender and has unlimited validity on all the Republic territory (Law 489 from June 29th., 1995).",
+    "picture": "https://en.numista.com/catalogue/photos/paraguay/6793d4641cc511.18786254-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/paraguay/6793d4641cc511.18786254-180.jpg",
+    "picture_copyright": "vladthiengo",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Multicolor print.\r\nCentral part of guitar, stylized \"Ñanduty\" design, face value on numbers to left, combined numbers and letters on top right, country name on top, face value in Guarani language on bottom.",
+    "lettering": "REPUBLICA DEL PARAGUAY        50 MIL \r\n50000\r\nPOPA SU GUARANI",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Paraguay           50 Thousand\r\nFifty Thousand Guaranies (Guarani language)",
+    "picture": "https://en.numista.com/catalogue/photos/paraguay/6793d464d63d48.70375177-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/paraguay/6793d464d63d48.70375177-180.jpg",
+    "picture_copyright": "vladthiengo",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "series": "Agustín Pío Barrios \"Mangore\"",
+  "comments": "Agustín Pío Barrios (1885-1944), also known as &quot;Nitsuga Mangoré&quot; or &quot;Mangoré&quot;, was the most famous Paraguayan classic guitar player, considered the best musician at his country.<br /><br />\r\nTrivia: &quot;Nitsuga&quot; is Agustin spelled backwards.",
+  "related_types": [
+    {
+      "id": 242056,
+      "title": "50 000 Guaranies (Series D-F)",
+      "category": "banknote",
+      "country": {
+        "code": "paraguay",
+        "name": "Paraguay"
+      },
+      "minYear": 2007,
+      "maxYear": 2011
+    },
+    {
+      "id": 241823,
+      "title": "50 000 Guaranies (Series G)",
+      "category": "banknote",
+      "country": {
+        "code": "paraguay",
+        "name": "Paraguay"
+      },
+      "minYear": 2013,
+      "maxYear": 2013
+    }
+  ],
+  "tags": [
+    "Music",
+    "Map",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "239"
+    },
+    {
+      "catalogue": {
+        "id": 936,
+        "code": "TBB"
+      },
+      "number": "863"
+    }
+  ],
+  "watermark": {
+    "description": "Gustín Pío Barríos \"Mangore\" / Electrotype \"50 Mil\"",
+    "picture": "https://en.numista.com/catalogue/photos/paraguay/670bed215c2e84.79844160-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/paraguay/670bed215c2e84.79844160-180.jpg",
+    "picture_copyright": "Leandro.brito",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "printers": [
+    {
+      "id": "7",
+      "name": "Oberthur Fiduciaire"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

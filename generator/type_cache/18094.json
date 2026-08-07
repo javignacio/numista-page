@@ -1,0 +1,132 @@
+{
+  "id": 18094,
+  "url": "https://en.numista.com/18094",
+  "title": "10 Centavos (small type)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "mexique",
+    "name": "Mexico"
+  },
+  "min_year": 2009,
+  "max_year": 2019,
+  "ruler": [
+    {
+      "id": 4029,
+      "name": "United Mexican States/Mexican Republic",
+      "wikidata_id": "Q96"
+    }
+  ],
+  "value": {
+    "text": "10 Centavos",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 271,
+      "name": "New Peso",
+      "full_name": "New Peso (1992-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 14,
+  "thickness": 1.65,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The national emblem of Mexico depicting a Mexican golden eagle perched on a prickly pear cactus devouring a snake above a half-wreath of oak and laurel below and the legend “ESTADOS UNIDOS MEXICANOS” forming the upper semicircle.",
+    "lettering": "ESTADOS UNIDOS MEXICANOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "United Mexican States",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/6300097d12b772.25311511-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/6300097d12b772.25311511-180.jpg",
+    "picture_copyright": "Numismatica Quetzalcoatl (Gabriel Herrera)",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "At center, the denomination 10¢ with the date above and the mint mark Ṁ below. To the right and below, a partial border of stylized solar rays of the Ring on the Sacrifice (Anillo del Sacrificio) on the Aztec calendar stone (Piedra del Sol).",
+    "lettering": "2019\r\n10¢\r\nMo",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/mexique/6300097d3e5e38.01390713-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/6300097d3e5e38.01390713-180.jpg",
+    "picture_copyright": "Numismatica Quetzalcoatl (Gabriel Herrera)",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "10 Centavos coins are minted over the punched out cores of the rings used to make the 1 Peso coins (<a href=\"https://en.numista.com/585\">KM#603</a>), which was the main reason for the change in size and material (to use the cores instead of remelting them).",
+  "related_types": [
+    {
+      "id": 581,
+      "title": "10 Centavos (large type)",
+      "category": "coin",
+      "country": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "minYear": 1992,
+      "maxYear": 2009
+    },
+    {
+      "id": 585,
+      "title": "1 Peso (non magnetic core)",
+      "category": "coin",
+      "country": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "minYear": 1996,
+      "maxYear": 2025
+    }
+  ],
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "934"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "460"
+    }
+  ],
+  "weight": 1.755,
+  "orientation": "coin",
+  "edge": {
+    "description": "Smooth with a groove running circumferentially around the edge of the coin",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/915-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/915-180.jpg",
+    "picture_copyright": "Banco de Mexico"
+  },
+  "mints": [
+    {
+      "id": 29,
+      "name": "Mexican Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

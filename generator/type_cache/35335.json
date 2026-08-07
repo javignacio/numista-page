@@ -1,0 +1,88 @@
+{
+  "id": 35335,
+  "url": "https://en.numista.com/35335",
+  "title": "½ Real",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "chili",
+    "name": "Chile"
+  },
+  "min_year": 1841,
+  "max_year": 1842,
+  "ruler": [
+    {
+      "id": 3299,
+      "name": "Republic",
+      "wikidata_id": "Q298"
+    }
+  ],
+  "value": {
+    "text": "½ Real",
+    "numeric_value": 0.5,
+    "numerator": 1,
+    "denominator": 2,
+    "currency": {
+      "id": 1203,
+      "name": "Real",
+      "full_name": "Real (1541-1852)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 17,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.902)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of Arms",
+    "lettering": "REPUBLICA DE CHILE \r\nSo IJ\r\n1/2 R\r\n1842",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Chile",
+    "picture": "https://en.numista.com/catalogue/photos/chili/660-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/660-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "description": "Condor",
+    "lettering": "POR LA RAZON Y LA FUERZA\r\n10 Ds. 20 Gs.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "By reason and force",
+    "picture": "https://en.numista.com/catalogue/photos/chili/659-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/659-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "98.3"
+    }
+  ],
+  "weight": 1.68,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

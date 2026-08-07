@@ -1,0 +1,119 @@
+{
+  "id": 3594,
+  "url": "https://en.numista.com/3594",
+  "title": "10 Escudos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "portugal",
+    "name": "Portugal"
+  },
+  "min_year": 1954,
+  "max_year": 1955,
+  "ruler": [
+    {
+      "id": 1294,
+      "name": "Second Republic",
+      "wikidata_id": "Q17748736"
+    }
+  ],
+  "value": {
+    "text": "10 Escudos",
+    "numeric_value": 10,
+    "currency": {
+      "id": 65,
+      "name": "Escudo",
+      "full_name": "Escudo (1911-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 30,
+  "thickness": 2.1,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.680)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "João da Silva"
+    ],
+    "description": "Boat, sailing ship heading left with legend above and date below",
+    "lettering": "REPUBLICA PORTUGUESA\r\n1954",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/portugal/3041-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/portugal/3041-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "reverse": {
+    "engravers": [
+      "João da Silva"
+    ],
+    "description": "Portuguese shield above armillary sphere",
+    "lettering": "10 Esc.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/portugal/3042-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/portugal/3042-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "series": "System 1927-1968",
+  "comments": "Homage to the Portuguese navigators and great discoveries during the 15th and 16th century.<br />\r\n<a href=\"https://fr.wikipedia.org/wiki/D%C3%A9couvertes_portugaises\" rel=\"nofollow\">https://fr.wikipedia.org/wiki/D%C3%A9couvertes_portugaises</a>",
+  "related_types": [
+    {
+      "id": 11157,
+      "title": "10 Escudos",
+      "category": "coin",
+      "country": {
+        "code": "portugal",
+        "name": "Portugal"
+      },
+      "minYear": 1932,
+      "maxYear": 1948
+    }
+  ],
+  "tags": [
+    "Boat or watercraft"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "586"
+    },
+    {
+      "catalogue": {
+        "id": 108,
+        "code": "Gomes"
+      },
+      "number": "R 44"
+    }
+  ],
+  "weight": 12.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/portugal/6447b47a86eee0.78845494-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/portugal/6447b47a86eee0.78845494-180.jpg",
+    "picture_copyright": "monge",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

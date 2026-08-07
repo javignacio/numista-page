@@ -1,0 +1,123 @@
+{
+  "id": 202312,
+  "url": "https://en.numista.com/202312",
+  "title": "5000 Guaranies (Polymer; Series G-J)",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "paraguay",
+    "name": "Paraguay"
+  },
+  "issuing_entity": {
+    "id": 935,
+    "name": "Central Bank of Paraguay",
+    "wikidata_id": "Q4504275"
+  },
+  "min_year": 2011,
+  "max_year": 2022,
+  "ruler": [
+    {
+      "id": 4650,
+      "name": "Republic",
+      "wikidata_id": "Q733"
+    }
+  ],
+  "value": {
+    "text": "5000 Guaranies",
+    "numeric_value": 5000,
+    "currency": {
+      "id": 87,
+      "name": "Guarani",
+      "full_name": "Guarani (1944-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 157,
+  "size2": 67,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Polymer"
+  },
+  "obverse": {
+    "description": "Red on multicolor underprint.\r\nPortrait of Don Carlos Antonio Lopez (1792–1862), who served as the First President of Paraguay (1844–1862) at right; Paraguayan Coat of Arms and Coat of arms of the Treasury, lion with Phrygian cap and the inscription \"Paz y Justicia\" (Peace and Justice) above value denomination.",
+    "lettering": "5 BANCO CENTRAL\r\nMIL DEL PARAGUAY\r\nEL BANCO CENTRAL DEL PARAGUAY\r\nRECONOCE ESTE BILLETE POR\r\n5000\r\nCINCO MIL GUARANIES\r\nREPUBLICA DEL PARAGUAY AÑO 2011 PAZ Y JUSTICIA\r\n\r\nGERENTE GENERAL PRESIDENTE DON CARLOS ANTONIO LOPEZ\r\nESTE BILLETE TIENE CURSO LEGAL Y FUERZA CANCELATORIA ILIMITADA EN TODO EL TERRITORIO DE LA REPUBLICA - LEY 489 DEL 29 DE JUNIO DE 1995\r\nBCP\r\n5MIL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "5 Thousands\r\nCentral Bank of Paraguay\r\nThe Central Bank of Paraguay accepts this banknote for \r\nFive Thousand Guaranies\r\nYear 2022\r\nThis banknote is legal tender, and unlimited valid on ll the Republic territory (Law # 489 from June 29th., 1995).",
+    "picture": "https://en.numista.com/catalogue/photos/paraguay/65a6cda56f3143.70985225-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/paraguay/65a6cda56f3143.70985225-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Palacio de Los López in Asunción that serves as workplace for the President of Paraguay and is also the seat of the government of Paraguay.",
+    "lettering": "REPUBLICA DEL PARAGUAY\r\n5000 CINCO MIL GUARANIES\r\nPALACIO DE LOS LÓPEZ\r\nPO SU GUARANI",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Paraguay\r\nFive Thousand Guaranies",
+    "picture": "https://en.numista.com/catalogue/photos/paraguay/65a6cda7e01163.61713440-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/paraguay/65a6cda7e01163.61713440-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p>UV activity&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/67a0ddde6f431.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67a0ddde6f431.jpg\"></a></p>",
+  "tags": [
+    "Palace",
+    "Politician",
+    "Flag",
+    "Train",
+    "Coat of Arms",
+    "Phrygian cap"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "234"
+    },
+    {
+      "catalogue": {
+        "id": 936,
+        "code": "TBB"
+      },
+      "number": "857"
+    },
+    {
+      "catalogue": {
+        "id": 1758,
+        "code": "Pratt"
+      },
+      "number": "MC221"
+    }
+  ],
+  "watermark": {
+    "description": "Electrotype \"BCP\"",
+    "picture": "https://en.numista.com/catalogue/photos/paraguay/670bf7485ed061.13061973-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/paraguay/670bf7485ed061.13061973-180.jpg",
+    "picture_copyright": "Leandro.brito",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "printers": [
+    {
+      "id": "20",
+      "name": "Canadian Bank Note Company"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

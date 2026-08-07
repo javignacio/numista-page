@@ -1,0 +1,117 @@
+{
+  "id": 8484,
+  "url": "https://en.numista.com/8484",
+  "title": "1 Farthing - William IV",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1831,
+  "max_year": 1837,
+  "ruler": [
+    {
+      "id": 269,
+      "name": "William IV",
+      "wikidata_id": "Q130822",
+      "group": {
+        "id": 525,
+        "name": "House of Hanover"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Farthing",
+    "numeric_value": 0.0010416666666666667,
+    "numerator": 1,
+    "denominator": 960,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1971)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1869-12-31"
+  },
+  "size": 22,
+  "thickness": 1.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "William Wyon"
+    ],
+    "description": "Uncrowned portrait of King William IV facing right, legend around, date below.",
+    "lettering": "GULIELMUS IIII DEI GRATIA\r\n1831",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "William the Fourth by the Grace of God",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/3919-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/3919-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "description": "Seated figure of Britannia facing right, trident in left hand, shield with Union flag in right, legend around, national flower emblems in exergue.",
+    "lettering": "BRITANNIAR: REX FID: DEF:",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Britanniarum Rex Fidei Defensor",
+    "lettering_translation": "King of the Britains Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/2622-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/2622-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "The standard weight was one sixth ounce avoirdupois (72 11/12 grains) although can vary between 4.6-4.9g.<br /><br />\r\n<span style=\"font-style:italic;\">Reverse die varieties:</span><br /><br />\r\n<span style=\"font-weight:bold;\">Rev A</span> incuse line down the arms of the saltire (St, Andrews&#039;s cross);<br />\r\n<span style=\"font-weight:bold;\">Rev B</span> raised line down the arms of the saltire;<br /><br />\r\nFor more detailed information on William IV farthing varieties, please visit <a href=\"http://aboutfarthings.co.uk/catalogue/uk-farthings/1831-1837-william-iv/\" rel=\"nofollow\">Aboutfarthings</a>.",
+  "tags": [
+    "Armour",
+    "Flower",
+    "Cross"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "705"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "3848"
+    }
+  ],
+  "weight": 4.72,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

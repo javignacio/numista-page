@@ -1,0 +1,155 @@
+{
+  "id": 1579,
+  "url": "https://en.numista.com/1579",
+  "title": "10 Cents",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "hong_kong",
+    "name": "Hong Kong"
+  },
+  "min_year": 1993,
+  "max_year": 2017,
+  "ruler": [
+    {
+      "id": 923,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 791,
+        "name": "British colony"
+      }
+    },
+    {
+      "id": 924,
+      "name": "Special Administrative Region",
+      "wikidata_id": "Q8646"
+    }
+  ],
+  "value": {
+    "text": "10 Cents",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 48,
+      "name": "Dollar",
+      "full_name": "Dollar (1863-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1994-05-00"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 17.55,
+  "thickness": 1.18,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Joseph Yam"
+    ],
+    "description": "Bauhinia or Hong Kong orchid flower (Binomial Name: Bauhinia blakeana)",
+    "lettering": "香 港\r\nHONG KONG",
+    "lettering_scripts": [
+      {
+        "name": "Chinese (traditional, regular script)"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Hong Kong",
+    "picture": "https://en.numista.com/catalogue/photos/hong_kong/25-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hong_kong/25-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Joseph Yam"
+    ],
+    "description": "The value in numerals above the date, and the denomination in English at the bottom",
+    "lettering": "壹 毫\r\n10\r\n1995\r\nTEN CENTS",
+    "lettering_scripts": [
+      {
+        "name": "Chinese (traditional, regular script)"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Ten Cents",
+    "picture": "https://en.numista.com/catalogue/photos/hong_kong/26-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hong_kong/26-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "This coin was first struck under the reign of Elizabeth II and continued with the handover to China in 1997.<br /><br />\r\n1993 coins are rare as they were not intended to circulate, and were only minted in presentation sets.",
+  "related_types": [
+    {
+      "id": 1585,
+      "title": "10 Cents - Elizabeth II (3rd portrait)",
+      "category": "coin",
+      "country": {
+        "code": "hong_kong",
+        "name": "Hong Kong"
+      },
+      "minYear": 1985,
+      "maxYear": 1992
+    },
+    {
+      "id": 5275,
+      "title": "10 Cents (Special Administration Region)",
+      "category": "coin",
+      "country": {
+        "code": "hong_kong",
+        "name": "Hong Kong"
+      },
+      "minYear": 1997,
+      "maxYear": 1997
+    }
+  ],
+  "tags": [
+    "Flower"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "66"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "50"
+    }
+  ],
+  "weight": 1.84,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

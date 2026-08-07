@@ -1,0 +1,107 @@
+{
+  "id": 38747,
+  "url": "https://en.numista.com/38747",
+  "title": "1 Pound",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "soudan",
+    "name": "Sudan"
+  },
+  "min_year": 2011,
+  "max_year": 2011,
+  "ruler": [
+    {
+      "id": 4153,
+      "name": "Republic",
+      "wikidata_id": "Q1049"
+    }
+  ],
+  "value": {
+    "text": "1 Pound",
+    "numeric_value": 1,
+    "currency": {
+      "id": 5902,
+      "name": "Third pound",
+      "full_name": "Third pound (2011-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 27,
+  "thickness": 2.25,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Central Bank Building of Sudan",
+    "lettering": "CENTRAL BANK OF SUDAN\r\nبنك السودان المركزي",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Bank of Sudan\r\nCentral Bank of Sudan",
+    "picture": "https://en.numista.com/catalogue/photos/soudan/61edddc1ea70a4.58196691-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/soudan/61edddc1ea70a4.58196691-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "reverse": {
+    "description": "Denomination within circle",
+    "lettering": "2011 ONE SUDANESE POUND ٢٠١١\r\nواحد ١ جنيه",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "2011 One Sudanese Pound 2011\r\nOne 1 Pound",
+    "picture": "https://en.numista.com/catalogue/photos/soudan/61edddc2476607.64201223-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/soudan/61edddc2476607.64201223-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "comments": "Coarse (top) vs Fine (bottom) reeding:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5b3138e004eb3.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5b3138e004eb3.jpg\" alt=\"\" width=\"199\" height=\"137\" /></a><br />\r\n© myriakorea<br /><br />\r\nCoarse reeding seems to be rare and been struck earlier.<br />\r\nEdge lettering position varies around the coin.<br />\r\nEdge lettering is readable when coin obverse is on top, or when reverse is on top.",
+  "tags": [
+    "Other building"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "127"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "106"
+    }
+  ],
+  "weight": 8.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Fine or coarse reeded and inscribted with \"Central Bank of Sudan\" written in separated Arabic letters",
+    "lettering": "ب ن ك.            ا ل س و د ا ن.                ا ل م ر ك ز ى",
+    "lettering_translation": "Central Bank of Sudan",
+    "picture": "https://en.numista.com/catalogue/photos/soudan/423-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/soudan/423-180.jpg",
+    "picture_copyright": "Emad Ibrahim"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,189 @@
+{
+  "id": 904,
+  "url": "https://en.numista.com/904",
+  "title": "50 Cents - Elizabeth II (2nd Portrait; Dodecagonal)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "australie",
+    "name": "Australia"
+  },
+  "min_year": 1969,
+  "max_year": 1984,
+  "ruler": [
+    {
+      "id": 1783,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 825,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "50 Cents",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 243,
+      "name": "Dollar",
+      "full_name": "Dollar (1966-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 31.51,
+  "thickness": 3,
+  "shape": "Dodecagonal (12-sided)",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Arnold Machin"
+    ],
+    "description": "2nd portrait of Queen Elizabeth II facing right wearing the Girls of Great Britain and Ireland Tiara.",
+    "lettering": "ELIZABETH II  \r\nAUSTRALIA 1971",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/australie/65b12a2567cc56.84094586-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/australie/65b12a2567cc56.84094586-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "Stuart Devlin"
+    ],
+    "description": "Australia coat of arms (the escutcheon is carried by a red kangaroo (Macropus rufus) and an Emu (Dromaius novaehollandiae)) and the numeral \"50\".\r\nDesigner's mark \"SD\" below.",
+    "lettering": "50\r\nSD",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/australie/65b12a27b631b2.09907964-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/australie/65b12a27b631b2.09907964-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "Australia&#039;s first 12-sided 50-cent coin issued into circulation by the Royal Australian Mint (RAM) in 1969 replacing the 80% silver round 50-cent of 1966.<br />\r\nNo 50 cent coins were issued in 1967 and 1968.<br /><br />\r\n<span style=\"font-style:italic;\">* Diameter note:</span> 12-sided (dodecagonal) shape - 31.5mm across flats, 32.5mm point to point.<br /><br />\r\nFor the variety &quot;two parallel horizontal bars behind Emu&#039;s head&quot; for the years 1979 and 1980, this is what you have to look for:<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/61fd2500a8633.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/61fd2500a8633.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nOfficially in 1977 only Queen Elizabeth II Silver Jubilee 50 cent coins were struck by the RAM. However, there are 7 known examples of a COA (Coat of Arms) 1977 50 cent coin. These were either minted accidentally or deliberately (Mint Sport). None have been seen for a while and would fetch a very good price in the current market.<br /><br />\r\nSeven Mules are known to exist made from the 1977 obverse and a standard Coat of Arms Reverse.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/603060c9702aa.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/603060c9702aa.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "related_types": [
+    {
+      "id": 6761,
+      "title": "50 Cents - Elizabeth II (2nd Portrait; Round)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 1966,
+      "maxYear": 1966
+    },
+    {
+      "id": 5027,
+      "title": "50 Cents - Elizabeth II (3rd Portrait)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 1985,
+      "maxYear": 2019
+    },
+    {
+      "id": 8327,
+      "title": "50 Cents - Elizabeth II (4th Portrait)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 1999,
+      "maxYear": 2019
+    },
+    {
+      "id": 168438,
+      "title": "50 Cents - Elizabeth II (5th Portrait)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 2019,
+      "maxYear": 2019
+    },
+    {
+      "id": 168436,
+      "title": "50 Cents - Elizabeth II (6th Portrait)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 2019,
+      "maxYear": 2023
+    },
+    {
+      "id": 416678,
+      "title": "50 Cents - Charles III (1st Portrait)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 2024,
+      "maxYear": 2025
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Marsupial",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "68"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "55"
+    }
+  ],
+  "weight": 15.55,
+  "orientation": "medal",
+  "edge": {
+    "description": "12 Sided Smooth",
+    "picture": "https://en.numista.com/catalogue/photos/australie/698dacf3ea8471.13154113-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/australie/698dacf3ea8471.13154113-180.jpg",
+    "picture_copyright": "Mike Bentley",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 28,
+      "name": "Royal Australian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

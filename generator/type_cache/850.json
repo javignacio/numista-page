@@ -1,0 +1,148 @@
+{
+  "id": 850,
+  "url": "https://en.numista.com/850",
+  "title": "10 Pfennig",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "allemagne",
+    "name": "Germany, Federal Republic of"
+  },
+  "min_year": 1950,
+  "max_year": 2001,
+  "ruler": [
+    {
+      "id": 2860,
+      "name": "Federal Republic",
+      "wikidata_id": "Q183"
+    }
+  ],
+  "value": {
+    "text": "10 Pfennigs",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 131,
+      "name": "Deutsche Mark",
+      "full_name": "Deutsche Mark (1948-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2001-12-31"
+  },
+  "size": 21.5,
+  "thickness": 1.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass clad steel (90% Iron, 10% Brass)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Adolf Jäger"
+    ],
+    "description": "An oak seedling above the date",
+    "lettering": "BUNDESREPUBLIK DEUTSCHLAND\r\n1989",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Federal Republic of Germany",
+    "picture": "https://en.numista.com/catalogue/photos/allemagne/234-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/234-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Adolf Jäger"
+    ],
+    "description": "The mintmark in between two rye ears above the denomination",
+    "lettering": "F\r\n10\r\nPFENNIG",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/allemagne/235-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/235-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "<p>1969J and 1971J have different varieties-Small \"J\" and Large \"J\". &nbsp;The shape of the ears of wheat are also different.<br><a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.ngccoin.com/price-guide/world/germany-federal-republic-10-pfennig-km-108-1950-2001-cuid-38780-duid-109659\">https://www.ngccoin.com/price-guide/world/germany-federal-republic-10-pfennig-km-108-1950-2001-cuid-38780-duid-109659</a><br><a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"http://www.coincommunity.com/forum/topic.asp?TOPIC_ID=166737\">http://www.coincommunity.com/forum/topic.asp?TOPIC_ID=166737</a><br><a href=\"https://en.numista.com/catalogue/images/583c61cb677fa.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/583c61cb677fa.jpg\" alt=\"\"></a></p><p>&nbsp;</p><p>1969J</p><p><a href=\"https://en.numista.com/catalogue/images/6835b2cf6c5ca.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6835b2cf6c5ca.jpg\"></a></p><p>LDC63</p>",
+  "related_types": [
+    {
+      "id": 3425,
+      "title": "10 Pfennigs (Bank of German States)",
+      "category": "coin",
+      "country": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+      },
+      "minYear": 1949,
+      "maxYear": 1949
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "108"
+    },
+    {
+      "catalogue": {
+        "id": 80,
+        "code": "J"
+      },
+      "number": "383"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "106"
+    }
+  ],
+  "weight": 4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Smooth with the brass plating partly stretched over a steel core",
+    "picture": "https://en.numista.com/catalogue/photos/allemagne/697faca280bdd1.30781410-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/697faca280bdd1.30781410-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 5,
+      "name": "Berlin"
+    },
+    {
+      "id": 1,
+      "name": "Munich"
+    },
+    {
+      "id": 2,
+      "name": "Staatliche Münze Baden-Württemberg"
+    },
+    {
+      "id": 3,
+      "name": "Staatliche Münze Baden-Württemberg"
+    },
+    {
+      "id": 4,
+      "name": "Hamburgische Münze"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

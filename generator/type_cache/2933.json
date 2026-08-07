@@ -1,0 +1,117 @@
+{
+  "id": 2933,
+  "url": "https://en.numista.com/2933",
+  "title": "2.50 Escudos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "angola",
+    "name": "Angola"
+  },
+  "min_year": 1953,
+  "max_year": 1974,
+  "ruler": [
+    {
+      "id": 4995,
+      "name": "Overseas province of Portugal",
+      "wikidata_id": "Q2826232",
+      "group": {
+        "id": 467,
+        "name": "Portuguese Angola"
+      }
+    }
+  ],
+  "value": {
+    "text": "2.5 Escudos",
+    "numeric_value": 2.5,
+    "currency": {
+      "id": 390,
+      "name": "Escudo",
+      "full_name": "Escudo (1958-1977)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 20,
+  "thickness": 1.46,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Portuguese Angola coat of arms",
+    "lettering": "ANGOLA\r\n2$50",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/angola/63141ac5621d52.68602628-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/angola/63141ac5621d52.68602628-180.jpg",
+    "picture_copyright": "Ben-jamin",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "reverse": {
+    "description": "Portugal coat of arms",
+    "lettering": "REPÚBLICA·PORTUGUESA\r\n1974",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Portugal\r\n1974",
+    "picture": "https://en.numista.com/catalogue/photos/angola/63141ac7176f86.42135920-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/angola/63141ac7176f86.42135920-180.jpg",
+    "picture_copyright": "Ben-jamin",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "tags": [
+    "Elephant",
+    "Horse or equine",
+    "Castle or fortification",
+    "Coat of Arms",
+    "Cross"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "77"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "17"
+    }
+  ],
+  "weight": 3.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/angola/658223e503ea66.83679957-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/angola/658223e503ea66.83679957-180.jpg",
+    "picture_copyright": "Julio Vega",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 1337,
+      "name": "Imprensa Nacional - Casa da Moeda"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

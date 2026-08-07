@@ -1,0 +1,110 @@
+{
+  "id": 1718,
+  "url": "https://en.numista.com/1718",
+  "title": "10 Agorot",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "israel",
+    "name": "Israel"
+  },
+  "min_year": 1975,
+  "max_year": 1980,
+  "ruler": [
+    {
+      "id": 4056,
+      "name": "State of Israel",
+      "wikidata_id": "Q801"
+    }
+  ],
+  "value": {
+    "text": "10 Agorot",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 9318,
+      "name": "Pound",
+      "full_name": "Pound (1960-1980)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1984-03-31"
+  },
+  "size": 21.5,
+  "thickness": 1.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Gerd Rothschild",
+      "Zeev Lipman"
+    ],
+    "description": "Date palm tree",
+    "lettering": "اسرائيل ישראל",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      },
+      {
+        "name": "Hebrew"
+      }
+    ],
+    "lettering_translation": "Israel Israel",
+    "picture": "https://en.numista.com/catalogue/photos/israel/1504-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/israel/1504-180.jpg",
+    "picture_copyright": "Australian Coin Info"
+  },
+  "reverse": {
+    "engravers": [
+      "Gabriel Shamir",
+      "Maxim Shamir"
+    ],
+    "description": "The value above the date",
+    "lettering": "אגורות 10\r\nתשל\"ח",
+    "lettering_scripts": [
+      {
+        "name": "Hebrew"
+      }
+    ],
+    "lettering_translation": "10 Agorot",
+    "picture": "https://en.numista.com/catalogue/photos/israel/1505-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/israel/1505-180.jpg",
+    "picture_copyright": "Australian Coin Info"
+  },
+  "comments": "<span style=\"font-weight:bold;\">Unpolished (Standard) Dies - Jerusalem / Israel Mint</span><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5e93434cce1d8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e93434cce1d8.jpg\" alt=\"\" width=\"200\" height=\"94\" /></a><br /><br />\r\n<span style=\"font-weight:bold;\">Polished Dies - Winnipeg / Royal Canadian Mint</span><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5e9343603ae12.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e9343603ae12.jpg\" alt=\"\" width=\"200\" height=\"92\" /></a>",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "26b"
+    }
+  ],
+  "weight": 1.61,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/israel/614e0795f35a09.12558861-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/israel/614e0795f35a09.12558861-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 1540,
+      "name": "Jerusalem"
+    },
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,116 @@
+{
+  "id": 61644,
+  "url": "https://en.numista.com/61644",
+  "title": "5 Groszy (magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "pologne",
+    "name": "Poland"
+  },
+  "min_year": 2013,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 3739,
+      "name": "Third Republic",
+      "wikidata_id": "Q1259201"
+    }
+  ],
+  "value": {
+    "text": "5 Groszys",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 200,
+      "name": "Fourth Zloty",
+      "full_name": "Fourth Zloty (1995-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 19.5,
+  "thickness": 1.3,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Sebastian Mikołajczak"
+    ],
+    "description": "Polish eagle (state emblem) with stylized rings intersecting at top and split at bottom by date.",
+    "lettering": "mw\r\nRZECZPOSPOLITA POLSKA\r\n2017",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Poland",
+    "picture": "https://en.numista.com/catalogue/photos/pologne/6226-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pologne/6226-180.jpg",
+    "picture_copyright": "Narodowy Bank Polski",
+    "picture_copyright_url": "http://www.nbp.pl"
+  },
+  "reverse": {
+    "designers": [
+      "Ewa Tyc-Karpińska"
+    ],
+    "description": "Five oak leaves below denomination.",
+    "lettering": "5 GROSZY",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/pologne/6227-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pologne/6227-180.jpg",
+    "picture_copyright": "Narodowy Bank Polski",
+    "picture_copyright_url": "http://www.nbp.pl"
+  },
+  "comments": "Design differences between the two versions:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5a55a2af3da78.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5a55a2af3da78.png\" alt=\"\" width=\"200\" height=\"101\" /></a>",
+  "tags": [
+    "Eagle",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "925"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "803"
+    }
+  ],
+  "weight": 2.59,
+  "orientation": "medal",
+  "edge": {
+    "description": "Milled and plain alternately (four each)",
+    "picture": "https://en.numista.com/catalogue/photos/pologne/6159d5ff612143.53182078-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pologne/6159d5ff612143.53182078-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    },
+    {
+      "id": 27,
+      "name": "Mint of Poland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,145 @@
+{
+  "id": 1310,
+  "url": "https://en.numista.com/1310",
+  "title": "1 Dirham (small type; non-magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "emirats_arabes_unis",
+    "name": "United Arab Emirates"
+  },
+  "min_year": 1995,
+  "max_year": 2007,
+  "ruler": [
+    {
+      "id": 1501,
+      "name": "Zayed bin Sultan Al Nahyan",
+      "wikidata_id": "Q167846"
+    },
+    {
+      "id": 1500,
+      "name": "Khalifa bin Zayed Al Nahyan",
+      "wikidata_id": "Q1059948"
+    }
+  ],
+  "value": {
+    "text": "1 Dirham",
+    "numeric_value": 1,
+    "currency": {
+      "id": 35,
+      "name": "Dirham",
+      "full_name": "Dirham (1973-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23.8,
+  "thickness": 1.9,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Denomination in Arabic characters surrounded by name of the country",
+    "lettering": "الامارات العربية المتحدة\r\n١\r\nدرهمـ\r\nUNITED ARAB EMIRATES",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "United Arab Emirates, 1 Dirham",
+    "picture": "https://en.numista.com/catalogue/photos/emirats_arabes_unis/6-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/emirats_arabes_unis/6-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Geoffrey Colley"
+    ],
+    "description": "Dallah (traditional Arabic coffee pot) above dates",
+    "lettering": "١٤١٩-١٩٩٨",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "1998-1419",
+    "picture": "https://en.numista.com/catalogue/photos/emirats_arabes_unis/5-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/emirats_arabes_unis/5-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "Rulers:<br />\r\n1- Sheikh Zayed bin Sultan Al Nahayan (02 Dec 1971 - 02 Nov 2004)<br />\r\n2- Sheikh Khalifa bin Zayed Al Nahayan (03 Nov 2004 - Date)<br /><br />\r\nMint:<br />\r\nBritish Royal Mint (1995)<br />\r\nRoyal Canadian Mint (1998, 2005 &amp; 2007)<br /><br />\r\nRim varieties: (2007 above, 1998 below)<br />\r\n<a href=\"https://en.numista.com/catalogue/images/588e288e7ea21.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/588e288e7ea21.jpg\" alt=\"\" width=\"200\" height=\"203\" /></a><br />\r\n© PeterRet<br /><br />\r\n1415-1418 (1995-1997) Proof Set:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/597101ec0d0f4.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/597101ec0d0f4.jpg\" alt=\"\" width=\"200\" height=\"43\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/597101f2ed144.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/597101f2ed144.jpg\" alt=\"\" width=\"191\" height=\"250\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/597101fbe7810.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/597101fbe7810.jpg\" alt=\"\" width=\"200\" height=\"146\" /></a> <a href=\"https://en.numista.com/catalogue/images/5971020235a40.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5971020235a40.jpg\" alt=\"\" width=\"200\" height=\"130\" /></a><br />\r\n© Zameer Abubakar<br /><br />\r\n1419 (1998) Specimen:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5a10876756568.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5a10876756568.jpg\" alt=\"\" width=\"171\" height=\"249\" /></a> <a href=\"https://en.numista.com/catalogue/images/5a108770f25b3.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5a108770f25b3.jpg\" alt=\"\" width=\"171\" height=\"249\" /></a><br />\r\n© Steve Desouza",
+  "related_types": [
+    {
+      "id": 2958,
+      "title": "1 Dirham (large type)",
+      "category": "coin",
+      "country": {
+        "code": "emirats_arabes_unis",
+        "name": "United Arab Emirates"
+      },
+      "minYear": 1973,
+      "maxYear": 1989
+    },
+    {
+      "id": 40522,
+      "title": "1 Dirham (small type; magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "emirats_arabes_unis",
+        "name": "United Arab Emirates"
+      },
+      "minYear": 2012,
+      "maxYear": 2025
+    }
+  ],
+  "tags": [
+    "Container or tableware"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "6.2"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "25"
+    }
+  ],
+  "weight": 6.4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 19,
+      "name": "Royal Canadian Mint of Ottawa"
+    },
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

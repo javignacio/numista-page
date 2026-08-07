@@ -1,0 +1,106 @@
+{
+  "id": 2302,
+  "url": "https://en.numista.com/2302",
+  "title": "100 Pesos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "chili",
+    "name": "Chile"
+  },
+  "min_year": 1981,
+  "max_year": 2000,
+  "ruler": [
+    {
+      "id": 3299,
+      "name": "Republic",
+      "wikidata_id": "Q298"
+    }
+  ],
+  "value": {
+    "text": "100 Pesos",
+    "numeric_value": 100,
+    "currency": {
+      "id": 146,
+      "name": "Peso",
+      "full_name": "Peso (1975-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 27,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze (92% Copper, 6% Nickel, 2% Aluminium)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The arms of Chile and the mintmark below",
+    "lettering": "REPUBLICA DE CHILE \r\nPOR LA RAZON O LA FUERZA\r\nSo",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Chile\r\nBy reason or force\r\nSo",
+    "picture": "https://en.numista.com/catalogue/photos/chili/902-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/902-180.jpg",
+    "picture_copyright": "Quodlibet"
+  },
+  "reverse": {
+    "description": "Value above date within a laurel wreath",
+    "lettering": "100 \r\nPESOS\r\n1995",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chili/903-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/903-180.jpg",
+    "picture_copyright": "Quodlibet"
+  },
+  "comments": "1985 Varieties:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/59ec1d0315464.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/59ec1d0315464.jpg\" alt=\"\" width=\"200\" height=\"59\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5cac7b9d1e10e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5cac7b9d1e10e.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nThe edge appears in random position (all years):<br />\r\n<a href=\"https://en.numista.com/catalogue/images/59ec1d4b8ad42.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/59ec1d4b8ad42.jpg\" alt=\"\" width=\"200\" height=\"67\" /></a><br /><br />\r\n226.1 downward line of the &quot;9&quot; (second digit of the date) points DOWN<br />\r\n226.2 (prior to 1999) downward line of the &quot;9&quot; (second digit of the date) points UP<br />\r\n226.2 (1999) downward line of the &quot;9&quot; (second digit of the date) points TO THE BASE OF THE &quot;1&quot;",
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "226"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "71"
+    }
+  ],
+  "weight": 9,
+  "orientation": "coin",
+  "edge": {
+    "description": "Smooth and inscripted",
+    "lettering": "POR LA RAZON O LA FUERZA *",
+    "lettering_translation": "By reason or force *",
+    "picture": "https://en.numista.com/catalogue/photos/chili/694ad5bd8410c7.34820369-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/694ad5bd8410c7.34820369-180.jpg",
+    "picture_copyright": "ZacUK"
+  },
+  "mints": [
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

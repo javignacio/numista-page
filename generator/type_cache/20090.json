@@ -1,0 +1,159 @@
+{
+  "id": 20090,
+  "url": "https://en.numista.com/20090",
+  "title": "12½ Céntimos \"Locha\"",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "venezuela",
+    "name": "Venezuela"
+  },
+  "min_year": 1896,
+  "max_year": 1938,
+  "ruler": [
+    {
+      "id": 4705,
+      "name": "United States",
+      "wikidata_id": "Q5848651"
+    }
+  ],
+  "value": {
+    "text": "12½ Centimos",
+    "numeric_value": 0.125,
+    "currency": {
+      "id": 7,
+      "name": "Bolivar",
+      "full_name": "Bolivar (1879-2007)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2011-12-31"
+  },
+  "size": 23,
+  "thickness": 1.4,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat pf arms with legend at top and date at bottom.",
+    "lettering": "ESTADOS UNIDOS DE VENEZUELA\r\n1927",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "United States of Venezuela\r\n1927",
+    "picture": "https://en.numista.com/catalogue/photos/venezuela/476-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/venezuela/476-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "description": "Value within wreath",
+    "lettering": "12½\r\nCENTIMOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "12.5 Centimes",
+    "picture": "https://en.numista.com/catalogue/photos/venezuela/475-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/venezuela/475-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "related_types": [
+    {
+      "id": 22177,
+      "title": "12½ Céntimos \"Locha\"",
+      "category": "coin",
+      "country": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "minYear": 1944,
+      "maxYear": 1944
+    },
+    {
+      "id": 9471,
+      "title": "12½ Céntimos \"Locha\"",
+      "category": "coin",
+      "country": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "minYear": 1945,
+      "maxYear": 1948
+    },
+    {
+      "id": 5481,
+      "title": "12½ Céntimos \"Locha\"",
+      "category": "coin",
+      "country": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "minYear": 1958,
+      "maxYear": 1958
+    },
+    {
+      "id": 48673,
+      "title": "12½ Centimos \"Locha\"",
+      "category": "coin",
+      "country": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "minYear": 1969,
+      "maxYear": 1969
+    }
+  ],
+  "tags": [
+    "Horse or equine",
+    "Coat of Arms",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "28"
+    },
+    {
+      "catalogue": {
+        "id": 2068,
+        "code": "NCV"
+      },
+      "number": "mv12.5cts-aa"
+    }
+  ],
+  "weight": 5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/venezuela/65e53db1dbb681.03705887-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/venezuela/65e53db1dbb681.03705887-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 5,
+      "name": "Berlin"
+    },
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

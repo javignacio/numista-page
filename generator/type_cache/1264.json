@@ -1,0 +1,127 @@
+{
+  "id": 1264,
+  "url": "https://en.numista.com/1264",
+  "title": "25 Pesetas (Melilla)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "espagne",
+    "name": "Spain"
+  },
+  "min_year": 1997,
+  "max_year": 1997,
+  "ruler": [
+    {
+      "id": 151,
+      "name": "Juan Carlos I",
+      "wikidata_id": "Q19943",
+      "group": {
+        "id": 44,
+        "name": "House of Bourbon"
+      }
+    }
+  ],
+  "value": {
+    "text": "25 Pesetas",
+    "numeric_value": 25,
+    "currency": {
+      "id": 142,
+      "name": "Peseta",
+      "full_name": "Peseta (1868-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2002-02-28"
+  },
+  "size": 19.5,
+  "thickness": 1.6,
+  "shape": "Round with a round hole",
+  "composition": {
+    "text": "Aluminium bronze (88.4% copper, 5% nickel, 5% aluminium, 1% iron, 0.6% manganese)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Luis Antonio García Ruiz"
+    ],
+    "description": "Towered buildings of the Palace of the Assembly of Melilla.",
+    "lettering": "ESPAÑA \r\n1997",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Spain",
+    "picture": "https://en.numista.com/catalogue/photos/espagne/209-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/209-180.jpg"
+  },
+  "reverse": {
+    "engravers": [
+      "Luis Antonio García Ruiz"
+    ],
+    "description": "Centre hole divides ancient phoenician amphora and dates",
+    "lettering": "25 PTAS\r\nM \r\nMELILLA \r\n1497-1997",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "25 Pesetas",
+    "picture": "https://en.numista.com/catalogue/photos/espagne/210-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/210-180.jpg"
+  },
+  "series": "Autonomous communities of Spain",
+  "commemorated_topic": "500th anniversary of the Conquest of Melilla",
+  "comments": "<p><strong>Melilla</strong> is a Spanish autonomous city located on the northwest coast of Africa, sharing a border with Morocco. Melilla is one of two permanently inhabited Spanish cities in mainland Africa, the other being nearby Ceuta. It was part of the Province of Málaga until 14 March 1995, when the city's Statute of Autonomy was passed.<br>The coin is commemoring the <strong>500th Anniversary of the Conquest of Melilla by Spain</strong> (1497).</p>",
+  "tags": [
+    "Other building",
+    "Palace",
+    "Tower",
+    "Container or tableware",
+    "Region"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "983"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "246"
+    },
+    {
+      "catalogue": {
+        "id": 1965,
+        "code": "Aureo"
+      },
+      "number": "95"
+    }
+  ],
+  "weight": 4.2,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/espagne/3406-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/3406-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 24,
+      "name": "Royal Mint of Madrid"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

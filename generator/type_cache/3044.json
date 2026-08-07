@@ -1,0 +1,101 @@
+{
+  "id": 3044,
+  "url": "https://en.numista.com/3044",
+  "title": "1 Yeni Lira",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "turquie",
+    "name": "Turkey"
+  },
+  "min_year": 2005,
+  "max_year": 2008,
+  "ruler": [
+    {
+      "id": 2047,
+      "name": "Republic",
+      "wikidata_id": "Q43"
+    }
+  ],
+  "value": {
+    "text": "1 Lira",
+    "numeric_value": 1,
+    "currency": {
+      "id": 125,
+      "name": "New lira",
+      "full_name": "New lira (2005-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2009-01-01"
+  },
+  "size": 26.15,
+  "thickness": 1.9,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: nickel brass centre in nickel brass ring (Core: 81% Copper, 4% Nickel, 15% Zinc - Ring: 75% Copper, 15% Nickel, 10% Zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Bust of Atatürk 3/4 left within circle",
+    "lettering": "TÜRKİYE CUMHURİYETİ",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Turkey",
+    "picture": "https://en.numista.com/catalogue/photos/turquie/1170-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/turquie/1170-180.jpg",
+    "picture_copyright": "KennyG"
+  },
+  "reverse": {
+    "description": "Value within circle, date below",
+    "lettering": "1\r\nYENİ TÜRK LİRASI\r\n2006",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "1\r\nNew Turkish Lira\r\n2006",
+    "picture": "https://en.numista.com/catalogue/photos/turquie/1171-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/turquie/1171-180.jpg",
+    "picture_copyright": "KennyG"
+  },
+  "comments": "The mint set &quot;The first minted new uncirculated coins 2005.&quot;<br />\r\nPicture: © Images courtesy of Alexandr Prokofyev.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/64f31fd9caa88.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64f31fd9caa88.jpg\" alt=\"\" width=\"157\" height=\"250\" /></a> <a href=\"https://en.numista.com/catalogue/images/64f31fe271a63.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64f31fe271a63.jpg\" alt=\"\" width=\"157\" height=\"250\" /></a>",
+  "tags": [
+    "Politician",
+    "Moon"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1169"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "739"
+    }
+  ],
+  "weight": 8.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Alternating smooth and milled segments (8 each)",
+    "picture": "https://en.numista.com/catalogue/photos/turquie/635-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/turquie/635-180.jpg",
+    "picture_copyright": "ZacUK"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

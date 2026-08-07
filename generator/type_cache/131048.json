@@ -1,0 +1,110 @@
+{
+  "id": 131048,
+  "url": "https://en.numista.com/131048",
+  "title": "5 Piso (Round, BSP seal type 1)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "philippines",
+    "name": "Philippines"
+  },
+  "issuing_entity": {
+    "id": 492,
+    "name": "Central Bank of the Philippines",
+    "wikidata_id": "Q1853468"
+  },
+  "min_year": 2017,
+  "max_year": 2020,
+  "ruler": [
+    {
+      "id": 1639,
+      "name": "Republic",
+      "wikidata_id": "Q928"
+    }
+  ],
+  "value": {
+    "text": "5 Pesos",
+    "numeric_value": 5,
+    "currency": {
+      "id": 151,
+      "name": "Piso",
+      "full_name": "Piso (1967-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2018-03-26"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25,
+  "thickness": 2.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Bust of Andres Bonifacio facing front-right at left, denomination at right and \"REPUBLIKA NG PILIPINAS\" in a microtext repeated many times, on which the mintmark and the year of minting appear.",
+    "lettering": "ANDRES BONIFACIO\r\nREPUBLIKA NG PILIPINAS\r\n5 PISO\r\n2018\r\nPI",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of the Philippines.",
+    "picture": "https://en.numista.com/catalogue/photos/philippines/6482745bec91d4.55860372-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/philippines/6482745bec91d4.55860372-180.jpg",
+    "picture_copyright": "Nelson Viterbo"
+  },
+  "reverse": {
+    "description": "Jade vine (Strongylodon macrobotrys) at left, seal of Central Bank of the Philippines and its name \"Bangko Sentral ng Pilipinas\" in a microtext repeated many times at right.",
+    "lettering": "TAYABAK\r\nBANGKO SENTRAL NG PILIPINAS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Bank of the Philippines.",
+    "picture": "https://en.numista.com/catalogue/photos/philippines/6482745db0dff4.02511635-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/philippines/6482745db0dff4.02511635-180.jpg",
+    "picture_copyright": "Nelson Viterbo"
+  },
+  "series": "New Generation Currency Series",
+  "tags": [
+    "Revolution or civil war",
+    "Flower"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "302"
+    }
+  ],
+  "weight": 7.4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/philippines/6a105b77c381b4.78660845-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/philippines/6a105b77c381b4.78660845-180.jpg",
+    "picture_copyright": "HyenaDrew",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 5198,
+      "name": "BSP Security Plant Complex"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

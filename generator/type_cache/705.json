@@ -1,0 +1,153 @@
+{
+  "id": 705,
+  "url": "https://en.numista.com/705",
+  "title": "1 Franc (Chambers of Commerce)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "france",
+    "name": "France"
+  },
+  "min_year": 1920,
+  "max_year": 1927,
+  "ruler": [
+    {
+      "id": 8,
+      "name": "Third Republic",
+      "wikidata_id": "Q70802",
+      "group": {
+        "id": 89,
+        "name": "Modern France"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Franc",
+    "numeric_value": 1,
+    "currency": {
+      "id": 303,
+      "name": "Franc",
+      "full_name": "Franc (1795-1959)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1949-08-05"
+  },
+  "size": 23,
+  "thickness": 1.48,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze (91% Copper, 9% Aluminium)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Joseph-François Domard"
+    ],
+    "description": "Mercury, the god of commerce (god of abundance and commercial success)",
+    "lettering": "COMMERCE INDUSTRIE\r\nDOMARD INV.\r\n1922",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Industry of Commerce\r\nDomard Inverted (Invent)\r\n1922",
+    "picture": "https://en.numista.com/catalogue/photos/france/6a08d3fb921bf9.77899732-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/6a08d3fb921bf9.77899732-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "reverse": {
+    "engravers": [
+      "Joseph-François Domard"
+    ],
+    "description": "Denomination in center, lettering surrounding",
+    "lettering": "✿ CHAMBRES·DE·COMMERCE·DE·FRANCE\r\nBON POUR\r\n1\r\nFRANC\r\nBR. AL.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Chambers of Commerce of France\r\nGood For\r\n1\r\nFranc\r\nBronze-Aluminum",
+    "picture": "https://en.numista.com/catalogue/photos/france/6a08d3fc9b40b0.94325719-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/6a08d3fc9b40b0.94325719-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "comments": "<p>The weight can vary from 3.65 to 4.23 g.</p><p>&nbsp;</p><p>The edges vary as shown here:</p><p><a href=\"https://en.numista.com/catalogue/images/694972882ad92.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/694972882ad92.jpg\"></a><br><br>Regarding open and closed digits:<br>These are not different dies but striking varieties, therefore artefacts punched with obstructed dies. For varieties lovers, we can simply note that all 2 exist either open or closed, but that they are closed only by a small residue of metal that got stuck there and not because of a different design die. We note the existence of 2 incompletely closed.<br>Extract from Franc 10<br><br>Trial strike<br><a href=\"https://en.numista.com/catalogue/images/5e9050a9b1448.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e9050a9b1448.jpg\" alt=\"\"></a><br>Variety 2 open or 2 close:<br><a href=\"https://en.numista.com/catalogue/images/5e905342bc208.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e905342bc208.jpg\" alt=\"\"></a><a href=\"https://en.numista.com/catalogue/images/5e90534a5ea8e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e90534a5ea8e.jpg\" alt=\"\"></a><br>Variety 4 open or 4 close:<br><a href=\"https://en.numista.com/catalogue/images/560d06c7b2682.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/560d06c7b2682.jpg\" alt=\"\"></a></p><p>&nbsp;</p><p>1925 Unlisted overdate with the number 5 of the date struck over a 3</p><p><a href=\"https://en.numista.com/catalogue/images/656464d604138.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/656464d604138.jpg\"></a></p>",
+  "related_types": [
+    {
+      "id": 889,
+      "title": "50 Centimes (Chambers of Commerce)",
+      "category": "coin",
+      "country": {
+        "code": "france",
+        "name": "France"
+      },
+      "minYear": 1920,
+      "maxYear": 1929
+    },
+    {
+      "id": 699,
+      "title": "2 Francs (Chambers of Commerce)",
+      "category": "coin",
+      "country": {
+        "code": "france",
+        "name": "France"
+      },
+      "minYear": 1920,
+      "maxYear": 1927
+    }
+  ],
+  "tags": [
+    "Allegory"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 34,
+        "code": "Franc 2014"
+      },
+      "number": "218"
+    },
+    {
+      "catalogue": {
+        "id": 109,
+        "code": "Gad 1789"
+      },
+      "number": "468"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "876"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "197"
+    }
+  ],
+  "weight": 4,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/france/69c571fa2feac3.21679285-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/69c571fa2feac3.21679285-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

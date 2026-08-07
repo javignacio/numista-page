@@ -1,0 +1,120 @@
+{
+  "id": 3522,
+  "url": "https://en.numista.com/3522",
+  "title": "1 Centavo (Weight\t4 g)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "argentine",
+    "name": "Argentina"
+  },
+  "min_year": 1985,
+  "max_year": 1986,
+  "ruler": [
+    {
+      "id": 3983,
+      "name": "Federal Republic",
+      "wikidata_id": "Q414"
+    }
+  ],
+  "value": {
+    "text": "1 Centavo",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 144,
+      "name": "Austral",
+      "full_name": "Austral (1985-1991)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1992-03-01"
+  },
+  "size": 20.64,
+  "thickness": 1.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Common Rhea (Binomial Name: Rhea americana) and the country name below",
+    "lettering": "REPUBLICA ARGENTINA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Argentina",
+    "picture": "https://en.numista.com/catalogue/photos/argentine/6045122bb01519.20518252-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/6045122bb01519.20518252-180.jpg",
+    "picture_copyright": "Rhonan",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Value, double-lined “A” at the top, date below",
+    "lettering": "₳\r\n1\r\nCENTAVO\r\n1986",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/argentine/6045122bf12091.90328521-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/6045122bf12091.90328521-180.jpg",
+    "picture_copyright": "Rhonan",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p><strong>Common Rhea </strong>or the Greater Rhea or <u>ñandú </u>is a flightless bird and is endemic to <strong>Argentina</strong>, Bolivia, Brazil, <u>Paraguay</u> and Uruguay.<br>The 1986 coin has two types with colour and different features (picture from personal collection: @Rhonan).<br><a href=\"https://en.numista.com/catalogue/images/699041ba78e26.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/699041ba78e26.jpg\"></a></p>",
+  "tags": [
+    "Bird"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "96.1"
+    },
+    {
+      "catalogue": {
+        "id": 160,
+        "code": "CJ"
+      },
+      "number": "393"
+    },
+    {
+      "catalogue": {
+        "id": 160,
+        "code": "CJ"
+      },
+      "number": "394.1"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "96"
+    }
+  ],
+  "weight": 4,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 1336,
+      "name": "Buenos Aires"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

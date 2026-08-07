@@ -1,0 +1,153 @@
+{
+  "id": 22257,
+  "url": "https://en.numista.com/22257",
+  "title": "10 Pesos Uruguayos (Puma)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "uruguay",
+    "name": "Uruguay"
+  },
+  "min_year": 2011,
+  "max_year": 2015,
+  "ruler": [
+    {
+      "id": 3897,
+      "name": "Oriental Republic of Uruguay",
+      "wikidata_id": "Q77"
+    }
+  ],
+  "value": {
+    "text": "10 Pesos Uruguayos",
+    "numeric_value": 10,
+    "currency": {
+      "id": 153,
+      "name": "Peso uruguayo",
+      "full_name": "Peso uruguayo (1993-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 28,
+  "thickness": 2.3,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: brass plated steel centre in nickel plated steel ring"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Robert Evans"
+    ],
+    "description": "Coat of arms surrounded by country name, year on bottom",
+    "lettering": "REPUBLICA ORIENTAL DEL URUGUAY\r\n2011",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Eastern Republic of Uruguay (Uruguay)",
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/630-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/630-180.jpg",
+    "picture_copyright": "Dario Silva Collection",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Robert Evans"
+    ],
+    "description": "Cougar (Puma concolor) walking left in front of rising sun, with 19 rays, face value below.",
+    "lettering": "$10",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/631-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/631-180.jpg",
+    "picture_copyright": "Dario Silva Collection",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "series": "Native fauna of Uruguay",
+  "comments": "The sun on reverse has 19 rays, for the 19 departments of the country. The Cougar is one of local species, on extintion risk.<br />\r\nThis design is similar to that used on 10 Centésimos 1930 and 1936, and 1 Peso 1942.<br /><br />\r\n<img src=\"https://en.numista.com/catalogue/images/54ffb542dacda.jpg\" alt=\"\" width=\"223\" height=\"225\" /><img src=\"https://en.numista.com/catalogue/images/54ffb54ff3908.jpg\" alt=\"\" width=\"215\" height=\"211\" /><img src=\"https://en.numista.com/catalogue/images/54ffb55f0e550.jpg\" alt=\"\" width=\"213\" height=\"212\" /><br /><br />\r\nThe coin is classified as bimetallic, but in fact is 2-piece with brass-plated steel center and nickel plated steel ring.<br /><br />\r\nAll 3 issues 2011, 2014 and 2015 were minted in Royal Mint<br /><br />\r\nMINTING ERROR:<br />\r\nOn 2011 and 2014 issues were detected a minting error (not catalogued - known as &quot;León Ciego&quot; = Blind Lion), where face of cougar has no eyes nor nose, also many sun rays have a depressing near edge of coin. This is not caused by wearing, as was detected on uncirculated coins, taken directly from Banco Central, and is not a low pressure or thin planchet problem, since the details on obverse are complete. Is mostly considered a die defect.<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5b63146bdeb73.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5b63146bdeb73.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><a href=\"https://en.numista.com/catalogue/images/5b63147b028d2.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5b63147b028d2.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\n(pictures source: adanieluy)<br />\r\nHere the coin from 2014 with nose and eyes:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/629dc21140662.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/629dc21140662.jpg\" alt=\"\" width=\"200\" height=\"156\" /></a><br />\r\n(image source: sjoelund)",
+  "related_types": [
+    {
+      "id": 19103,
+      "title": "1 Peso Uruguayo (Mulita)",
+      "category": "coin",
+      "country": {
+        "code": "uruguay",
+        "name": "Uruguay"
+      },
+      "minYear": 2011,
+      "maxYear": 2024
+    },
+    {
+      "id": 19104,
+      "title": "2 Pesos Uruguayos (Carpincho)",
+      "category": "coin",
+      "country": {
+        "code": "uruguay",
+        "name": "Uruguay"
+      },
+      "minYear": 2011,
+      "maxYear": 2024
+    },
+    {
+      "id": 22259,
+      "title": "5 Pesos Uruguayos (Ñandu)",
+      "category": "coin",
+      "country": {
+        "code": "uruguay",
+        "name": "Uruguay"
+      },
+      "minYear": 2011,
+      "maxYear": 2024
+    }
+  ],
+  "tags": [
+    "Cat or feline",
+    "Coat of Arms",
+    "Sun",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "134"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "114"
+    }
+  ],
+  "weight": 10.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/6526e0486c9cd4.16695569-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/6526e0486c9cd4.16695569-180.jpg",
+    "picture_copyright": "adnansami"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

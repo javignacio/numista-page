@@ -1,0 +1,111 @@
+{
+  "id": 43220,
+  "url": "https://en.numista.com/43220",
+  "title": "Nummus - Constantius II (FEL TEMP REPARATIO; Sirmium)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "rome",
+    "name": "Roman Empire (27 BC - 395 AD)"
+  },
+  "min_year": 351,
+  "max_year": 355,
+  "ruler": [
+    {
+      "id": 124,
+      "name": "Constantius II",
+      "wikidata_id": "Q46418",
+      "nomisma_id": "constantius_ii",
+      "group": {
+        "id": 324,
+        "name": "Tetrarchy and Constantinian dynasty"
+      }
+    }
+  ],
+  "value": {
+    "text": "Nummus / Follis",
+    "numeric_value": 0.005555555555555556,
+    "numerator": 1,
+    "denominator": 180,
+    "currency": {
+      "id": 1619,
+      "name": "Solidus, Reform of Constantine",
+      "full_name": "Solidus, Reform of Constantine (AD 310/324 – 395)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 17,
+  "shape": "Round (irregular)",
+  "composition": {
+    "text": "Bronze"
+  },
+  "technique": {
+    "text": "Hammered"
+  },
+  "obverse": {
+    "description": "Bust of Constantius II, pearl-diademed, draped, cuirassed, right.",
+    "lettering": "D N CONSTAN-TIVS P F AVG",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Dominus Noster Constantius Pius Felix Augustus.",
+    "lettering_translation": "Our Lord Constantius II, pious, successful emperor.",
+    "picture": "https://en.numista.com/catalogue/photos/rome/677d904cbdcaa8.21833273-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/rome/677d904cbdcaa8.21833273-180.jpg",
+    "picture_copyright": "Sandir",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "reverse": {
+    "description": "Helmeted soldier to left, shield on left arm, spearing falling horseman; shield on ground at right. Horseman is bareheaded, turns to face soldier, and extends left arm.\r\nOfficina and mintmark followed by a dot in exergue.",
+    "lettering": "FEL TEMP - REPARATIO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Felicitas Temporum Reparatio.",
+    "lettering_translation": "The restoration of happy times.",
+    "picture": "https://en.numista.com/catalogue/photos/rome/677d904d1bda24.22901240-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/rome/677d904d1bda24.22901240-180.jpg",
+    "picture_copyright": "Sandir",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "tags": [
+    "Cold weapons",
+    "Armour"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 460,
+        "code": "RIC VIII"
+      },
+      "number": "52"
+    },
+    {
+      "catalogue": {
+        "id": 1020,
+        "code": "OCRE"
+      },
+      "number": "ric.8.sir.52"
+    }
+  ],
+  "weight": 2.24,
+  "orientation": "variable",
+  "mints": [
+    {
+      "id": 63,
+      "name": "Sirmium"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

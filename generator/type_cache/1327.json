@@ -1,0 +1,110 @@
+{
+  "id": 1327,
+  "url": "https://en.numista.com/1327",
+  "title": "50 000 Lira",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "turquie",
+    "name": "Turkey"
+  },
+  "min_year": 1996,
+  "max_year": 2000,
+  "ruler": [
+    {
+      "id": 2047,
+      "name": "Republic",
+      "wikidata_id": "Q43"
+    }
+  ],
+  "value": {
+    "text": "50 000 Lira",
+    "numeric_value": 50000,
+    "currency": {
+      "id": 124,
+      "name": "Old lira",
+      "full_name": "Old lira (1923-2005)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 28,
+  "thickness": 2.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass (69.5% Copper, 18% Zinc, 12% Nickel, 0.5% Manganese)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Suat Özyönüm"
+    ],
+    "description": "Depiction of the head of Mustafa Kemal Atatürk facing left",
+    "lettering": "TÜRKİYE CUMHURİYETİ\r\n2000",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Turkey",
+    "picture": "https://en.numista.com/catalogue/photos/turquie/18-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/turquie/18-180.jpg"
+  },
+  "reverse": {
+    "engravers": [
+      "Suat Özyönüm"
+    ],
+    "description": "Crescent moon and star, value",
+    "lettering": "50\r\nBİN\r\nLİRA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/turquie/19-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/turquie/19-180.jpg"
+  },
+  "tags": [
+    "Politician",
+    "Moon"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1056"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "561"
+    }
+  ],
+  "weight": 11.7,
+  "orientation": "coin",
+  "edge": {
+    "description": "Smooth with inscription: letters \"T.C\" and four fleur-de-lis, four times each",
+    "lettering": "++++ T.C. ++++ T.C. ++++ T.C. ++++ T.C.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "TÜRKİYE CUMHURİYETİ",
+    "lettering_translation": "Republic of Turkey",
+    "picture": "https://en.numista.com/catalogue/photos/turquie/554-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/turquie/554-180.jpg",
+    "picture_copyright": "ZacUK"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,118 @@
+{
+  "id": 2238,
+  "url": "https://en.numista.com/2238",
+  "title": "25 Cents - Elizabeth II",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "belize",
+    "name": "Belize (1973-date)"
+  },
+  "min_year": 1974,
+  "max_year": 2022,
+  "ruler": [
+    {
+      "id": 1090,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 1182,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "25 Cents",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 40,
+      "name": "Dollar",
+      "full_name": "Dollar (1973-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23.6,
+  "thickness": 1.9,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Cecil Thomas"
+    ],
+    "description": "Crowned bust of Queen Elizabeth II facing right. Beaded circle around the rim.",
+    "lettering": "QUEEN ELIZABETH THE SECOND",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/belize/6814ad1aa484e0.99863930-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/belize/6814ad1aa484e0.99863930-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Denomination within circle, date below. Beaded circle around the rim.",
+    "lettering": "BELIZE\r\n25\r\nCENTS\r\n2003",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/belize/6814ad1aad5ae2.53970416-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/belize/6814ad1aad5ae2.53970416-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "series": "1973 series",
+  "comments": "<p>This coin also exists under KM#117 in some Editions of Standard Catalog of World Coins.<br><br>Two variants exists for 1974 and 1976.<br>Die <strong>1</strong> - all details small, legend far from beads, cross of crown to the right of a bead, <strong>I</strong> in ELIZABETH between beads, 136 beads.<br>Die <strong>2</strong> - all details large, legend closer to beads, cross of crown to a bead, <strong>I</strong> in ELIZABETH to a bead, 121 beads.<br><a href=\"https://en.numista.com/catalogue/images/5f05778e1b032.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5f05778e1b032.jpg\" alt=\"\"></a></p>",
+  "tags": [
+    "Monarch",
+    "Crown"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "36"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "6"
+    }
+  ],
+  "weight": 5.66,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/belize/6814ad1ab3f0c1.79553374-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/belize/6814ad1ab3f0c1.79553374-180.jpg",
+    "picture_copyright": "Harryg",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

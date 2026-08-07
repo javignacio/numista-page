@@ -1,0 +1,146 @@
+{
+  "id": 1202,
+  "url": "https://en.numista.com/1202",
+  "title": "½ Dinar",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "tunisie",
+    "name": "Tunisia"
+  },
+  "min_year": 1996,
+  "max_year": 2013,
+  "ruler": [
+    {
+      "id": 4957,
+      "name": "Republic",
+      "wikidata_id": "Q948"
+    }
+  ],
+  "value": {
+    "text": "½ Dinar",
+    "numeric_value": 0.5,
+    "numerator": 1,
+    "denominator": 2,
+    "currency": {
+      "id": 32,
+      "name": "Dinar",
+      "full_name": "Dinar (1958-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23.9,
+  "thickness": 2.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms within circle, Islamic and Gregorian date of production, two sprigs. At the top name of the country \"Republic of Tunisia\".",
+    "lettering": "الجمهوريه التونسية \r\n1997-1418",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/tunisie/10-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/tunisie/10-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Hatem El Mekki"
+    ],
+    "description": "Hand holding wheat, hand holding oranges. \"Central Bank of Tunisia\" at the top, denomination \"Half a dinar\" at the bottom.",
+    "lettering": "البنك المركزي التونسي\r\nELMEKKI\r\nنصف ½ دينار",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/tunisie/11-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/tunisie/11-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "<p>There are 2 varieties of AH1418-1997.<br><i>Obverse:&nbsp;</i><br><strong>I</strong> - all details small. Leafs are touching the inner circle.<br><strong>II</strong> - all details large. Leafs are not touching the inner circle.<br>It is easy to see the difference in the position of details and the inner circle.<br>Picture: © Images courtesy of Alexandr Prokofyev<br><a href=\"https://en.numista.com/catalogue/images/58b34db7c5e13.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/58b34db7c5e13.jpg\" alt=\"\"></a><br><br>3 completely different types of reverse are known for this emission:<br><i>Reverse:</i><br><strong>B</strong> 1996 - thick rim. Two dots far to the left of the curve of the left word at bottom.<br><strong>E</strong> - thick rim. Two dots under the curve of the left word at bottom.<br><strong>F</strong> - thin rim. Two dots to the left next to the curve of the left word at bottom.<br>Picture: © Images courtesy of Alexandr Prokofyev<br><a href=\"https://en.numista.com/catalogue/images/617c4b48b0894.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/617c4b48b0894.jpg\" alt=\"\"></a><br><br><i>Combinations:&nbsp;</i><br><strong>A</strong> in AH1416-1996.<br><strong>I</strong>+<strong>E</strong>, <strong>II</strong>+<strong>F</strong> in AH1418-1997.<br><strong>E</strong> in AH1428-2007, AH1430-2009, AH 1432-2011, AH1434-2013.<br><br><i>Note</i>. Dies <strong>A</strong>, <strong>C</strong> and <strong>D</strong> are described in article ½ Dinar 1976-1983.</p>",
+  "related_types": [
+    {
+      "id": 1200,
+      "title": "½ Dinar (Habib Bourguiba)",
+      "category": "coin",
+      "country": {
+        "code": "tunisie",
+        "name": "Tunisia"
+      },
+      "minYear": 1976,
+      "maxYear": 1983
+    },
+    {
+      "id": 1201,
+      "title": "½ Dinar (Country map)",
+      "category": "coin",
+      "country": {
+        "code": "tunisie",
+        "name": "Tunisia"
+      },
+      "minYear": 1988,
+      "maxYear": 1990
+    },
+    {
+      "id": 327286,
+      "title": "½ Dinar",
+      "category": "coin",
+      "country": {
+        "code": "tunisie",
+        "name": "Tunisia"
+      },
+      "minYear": 2021,
+      "maxYear": 2021
+    }
+  ],
+  "tags": [
+    "Hand",
+    "Boat or watercraft",
+    "Scale",
+    "FAO",
+    "Fruit",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "346"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "321"
+    }
+  ],
+  "weight": 8,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

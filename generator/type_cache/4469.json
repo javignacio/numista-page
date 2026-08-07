@@ -1,0 +1,171 @@
+{
+  "id": 4469,
+  "url": "https://en.numista.com/4469",
+  "title": "3 Pesos (Che Guevara)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "cuba",
+    "name": "Cuba"
+  },
+  "issuing_entity": {
+    "id": 27,
+    "name": "Central Bank of Cuba",
+    "wikidata_id": "Q2607787"
+  },
+  "secondary_issuing_entity": {
+    "id": 26,
+    "name": "National Bank of Cuba"
+  },
+  "min_year": 1992,
+  "max_year": 2002,
+  "ruler": [
+    {
+      "id": 4118,
+      "name": "Second Republic",
+      "wikidata_id": "Q241"
+    }
+  ],
+  "value": {
+    "text": "3 Pesos",
+    "numeric_value": 3,
+    "currency": {
+      "id": 148,
+      "name": "Cuban Peso",
+      "full_name": "Cuban Peso (moneda nacional, 1914-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 26.5,
+  "thickness": 2.3,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Charles Edward Barber"
+    ],
+    "description": "Cuban coat of arms, Country name as curved legend on top, face value in letters as curved legend on bottom. Line of beads close to rim.",
+    "lettering": "REPUBLICA DE CUBA\r\nTRES PESOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Cuba\r\nThree Pesos",
+    "picture": "https://en.numista.com/catalogue/photos/cuba/61efe417df0f83.14868019-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/cuba/61efe417df0f83.14868019-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "reverse": {
+    "description": "Ernesto \"Che\" Guevara Portrait, motto \"Patria o Muerte\" as curved legend on top, date on excergue, line of beads close to rim.",
+    "lettering": "PATRIA O MUERTE\r\n1995",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Fatherland or death\r\n1995",
+    "picture": "https://en.numista.com/catalogue/photos/cuba/61efe4183b9891.76857302-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/cuba/61efe4183b9891.76857302-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "commemorated_topic": "Ernesto Che Guevara",
+  "comments": "<p>Image of Ernesto \"Che\" Guevara reproduces the photography \"Guerrillero Heroico\" (Guerilla Hero), taken by Alberto Díaz Gutiérrez \"Korda\" during the funerals of the victims of the explosion of \"Le Coubre\" vessel. On this event Fidel Castro gave the speech named \"Patria o Muerte\", that shows in this coin and many others.</p><p>&nbsp;</p><p>Design of reverse was modified on 2002 issue, the shoulder seen on the right appears truncated, and the hair falls over the shoulder seen on the left.</p><p><a href=\"https://en.numista.com/catalogue/images/67a5db8051b16.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67a5db8051b16.jpg\"></a></p><p>© Jorge Martinez</p>",
+  "related_types": [
+    {
+      "id": 414866,
+      "title": "3 Pesos (Obverse Trial)",
+      "category": "coin",
+      "country": {
+        "code": "cuba",
+        "name": "Cuba"
+      },
+      "minYear": 1990,
+      "maxYear": 1990
+    },
+    {
+      "id": 414865,
+      "title": "3 Pesos (Reverse Trial)",
+      "category": "coin",
+      "country": {
+        "code": "cuba",
+        "name": "Cuba"
+      },
+      "minYear": 1990,
+      "maxYear": 1990
+    },
+    {
+      "id": 8602,
+      "title": "3 Pesos (Che Guevara)",
+      "category": "coin",
+      "country": {
+        "code": "cuba",
+        "name": "Cuba"
+      },
+      "minYear": 1990,
+      "maxYear": 1992
+    }
+  ],
+  "tags": [
+    "Military leader",
+    "Politician",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "346a"
+    },
+    {
+      "catalogue": {
+        "id": 984,
+        "code": "JMA"
+      },
+      "number": "99"
+    },
+    {
+      "catalogue": {
+        "id": 984,
+        "code": "JMA"
+      },
+      "number": "101"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "C34a"
+    }
+  ],
+  "weight": 8,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/cuba/5ff855bdc82ed2.90482326-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/cuba/5ff855bdc82ed2.90482326-180.jpg",
+    "picture_copyright": "Worldwide collection",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 295,
+      "name": "Empresa Cubana de Acuñaciones"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

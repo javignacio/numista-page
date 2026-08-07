@@ -1,0 +1,172 @@
+{
+  "id": 864,
+  "url": "https://en.numista.com/864",
+  "title": "50 Pence - Elizabeth II (4th portrait; Britannia)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1998,
+  "max_year": 2009,
+  "ruler": [
+    {
+      "id": 275,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 527,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "50 Pence",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 126,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (decimalized, 1971-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 27.3,
+  "thickness": 1.78,
+  "shape": "Equilateral curve heptagon (7-sided)",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Ian Rank-Broadley"
+    ],
+    "description": "Fourth crowned portrait of Queen Elizabeth II right, wearing the Girls of Great Britain and Ireland tiara, legend around.",
+    "lettering": "ELIZABETH·II·D·G REG·F·D·1998\r\nIRB",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Elizabeth II Dei Gratia Regina Fidei Defensatrix",
+    "lettering_translation": "Elizabeth II by the Grace of God Queen Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/68f06c4ea426f4.92890464-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/68f06c4ea426f4.92890464-180.jpg",
+    "picture_copyright": "riversxian",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "Christopher Ironside"
+    ],
+    "description": "A figure of Britannia seated beside a lion, with a shield resting against her right side, holding a trident in her right hand and an olive branch in her left, denomination below and legend above.",
+    "lettering": "FIFTY PENCE\r\n50",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/68f06c50befb67.86528313-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/68f06c50befb67.86528313-180.jpg",
+    "picture_copyright": "riversxian",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "<p>The 1998 BU was also issued in a twin pack with the European Union 50p (15,370 sales).<br><a href=\"https://en.numista.com/catalogue/images/60310dc30584e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/60310dc30584e.jpg\" alt=\"\"></a><br><br>The 2006 &amp; 2007 issues were only struck for circulation and in Proof, not in Brilliant Uncirculated (2006 BU sets featured the Victoria Cross 50ps and the 2007 sets featured the Scouting Movement 50 pence).<br><br>The 2009 Proof strike was issued in sets in October 2009 to commemorate the 40th anniversary of the 50 pence denomination (issue limit 5,000).<br><a href=\"https://en.numista.com/catalogue/images/6021c4b8acc16.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6021c4b8acc16.png\" alt=\"\"></a><br>©The Royal Mint, 2009</p>",
+  "related_types": [
+    {
+      "id": 205377,
+      "title": "50 Pence - Elizabeth II (4th portrait; Britannia, Silver Proof)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2000,
+      "maxYear": 2009
+    },
+    {
+      "id": 275836,
+      "title": "50 Pence - Elizabeth II (Britannia; Gold Proof)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2002,
+      "maxYear": 2009
+    },
+    {
+      "id": 200118,
+      "title": "50 Pence - Elizabeth II (4th portrait; Britannia, Platinum Proof)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2008,
+      "maxYear": 2008
+    },
+    {
+      "id": 275837,
+      "title": "50 Pence - Elizabeth II (Britannia; Gold Piedfort)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2009,
+      "maxYear": 2009
+    }
+  ],
+  "tags": [
+    "Cat or feline",
+    "Armour",
+    "Allegory",
+    "Cold weapons"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "991"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "H8"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "H24"
+    }
+  ],
+  "weight": 8,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

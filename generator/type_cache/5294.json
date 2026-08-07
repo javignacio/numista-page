@@ -1,0 +1,132 @@
+{
+  "id": 5294,
+  "url": "https://en.numista.com/5294",
+  "title": "20 Pesos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "uruguay",
+    "name": "Uruguay"
+  },
+  "min_year": 1970,
+  "max_year": 1970,
+  "ruler": [
+    {
+      "id": 3897,
+      "name": "Oriental Republic of Uruguay",
+      "wikidata_id": "Q77"
+    }
+  ],
+  "value": {
+    "text": "20 Pesos",
+    "numeric_value": 20,
+    "currency": {
+      "id": 298,
+      "name": "Peso",
+      "full_name": "Peso (1863-1975)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1975-07-01"
+  },
+  "size": 21.5,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Francisco Orellana Pavés"
+    ],
+    "description": "National arms, surrounded with country name.\r\nDate on bottom, divided by mintmark",
+    "lettering": "REPUBLICA ORIENTAL DEL URUGUAY\r\n· 19 So 70 ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/915-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/915-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "reverse": {
+    "engravers": [
+      "Francisco Orellana Pavés"
+    ],
+    "description": "Three ears of wheat on right, face value on left",
+    "lettering": "20 \r\nPESOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/916-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/916-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "tags": [
+    "Coat of Arms",
+    "Sun",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "56"
+    },
+    {
+      "catalogue": {
+        "id": 709,
+        "code": "SA"
+      },
+      "number": "96"
+    },
+    {
+      "catalogue": {
+        "id": 2069,
+        "code": "CG"
+      },
+      "number": "97"
+    },
+    {
+      "catalogue": {
+        "id": 3175,
+        "code": "GL"
+      },
+      "number": "UY97.1.2"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "39"
+    }
+  ],
+  "weight": 3.75,
+  "orientation": "medal",
+  "edge": {
+    "description": "Milled",
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/917-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/917-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

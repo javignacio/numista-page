@@ -1,0 +1,111 @@
+{
+  "id": 1021,
+  "url": "https://en.numista.com/1021",
+  "title": "1 Cent - George VI",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "newfoundland",
+    "name": "Newfoundland"
+  },
+  "min_year": 1938,
+  "max_year": 1947,
+  "ruler": [
+    {
+      "id": 942,
+      "name": "George VI",
+      "wikidata_id": "Q280856"
+    }
+  ],
+  "value": {
+    "text": "1 Cent",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 340,
+      "name": "Dollar",
+      "full_name": "Dollar (1865-1949)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 19.05,
+  "thickness": 1.55,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze (Cu 95.5%, Sn 3%, Zn 1.5%)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Percy Metcalfe"
+    ],
+    "description": "A crowned portrait of King George VI facing left",
+    "lettering": "GEORGIVS VI DEI GRA. REX ET IND. IMP.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Georgivs VI, Dei Gratia Rex, Et Indiae Imperator",
+    "lettering_translation": "George VI, By the grace of God, King and Emperor of the Indies",
+    "picture": "https://en.numista.com/catalogue/photos/newfoundland/13-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/newfoundland/13-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "engravers": [
+      "W. J. Newman"
+    ],
+    "description": "A purple pitcher plant (the island's emblematic insectivore plant) in the center divides date and denomination below",
+    "lettering": "NEWFOUNDLAND\r\n1938\r\nONE CENT",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/newfoundland/14-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/newfoundland/14-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "<ul><li><u>1940 &amp; 1942</u> : These coins do not carry the Mintmark \"C\" because it has been forgotten.<br>&nbsp;</li></ul><p><br><br>During WW2, Newfoundland cents were made in Ottawa instead of England to avoid risking transatlantic shipping.</p>",
+  "tags": [
+    "Monarch"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "18"
+    }
+  ],
+  "weight": 3.24,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    },
+    {
+      "id": 19,
+      "name": "Royal Canadian Mint of Ottawa"
+    },
+    {
+      "id": 19,
+      "name": "Royal Canadian Mint of Ottawa"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

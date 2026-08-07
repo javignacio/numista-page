@@ -1,0 +1,137 @@
+{
+  "id": 7413,
+  "url": "https://en.numista.com/7413",
+  "title": "½ Sol de Oro (Casa de Moneda)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "perou",
+    "name": "Peru"
+  },
+  "min_year": 1965,
+  "max_year": 1965,
+  "ruler": [
+    {
+      "id": 3757,
+      "name": "Republic",
+      "wikidata_id": "Q419"
+    }
+  ],
+  "value": {
+    "text": "½ Sol",
+    "numeric_value": 0.5,
+    "numerator": 1,
+    "denominator": 2,
+    "currency": {
+      "id": 218,
+      "name": "Sol",
+      "full_name": "Sol (1863-1930) / Sol de Oro (1931-1985)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 22.5,
+  "thickness": 1.4,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Issuer's name surrounding its coat of arms. Value below.",
+    "lettering": "BANCO CENTRAL D RESERVA DL PERV\r\n1/2\r\nSOL DE ORO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Central Reserve Bank of Peru\r\n1/2 Gold Sol",
+    "picture": "https://en.numista.com/catalogue/photos/perou/6071e4935b43d1.52385026-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/6071e4935b43d1.52385026-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "reverse": {
+    "description": "Pillars of Hercules surronded by legend.",
+    "lettering": "CVATRICENTENARIO D LA FVNDACION D LA CASA D MONEDA\r\nLIMA\r\n1565 1965",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Quadricentenary of the Foundation of the Mint at Lima\r\n1565 - 1965",
+    "picture": "https://en.numista.com/catalogue/photos/perou/6071e49302da04.20468892-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/6071e49302da04.20468892-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "commemorated_topic": "400th Anniversary of the Foundation of La Casa de Moneda",
+  "related_types": [
+    {
+      "id": 5310,
+      "title": "½ Sol de Oro",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 1935,
+      "maxYear": 1965
+    },
+    {
+      "id": 909,
+      "title": "½ Sol de Oro (Large Coat of Arms)",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 1966,
+      "maxYear": 1973
+    },
+    {
+      "id": 9097,
+      "title": "½ Sol de Oro (Small Coat of Arms)",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 1973,
+      "maxYear": 1975
+    }
+  ],
+  "tags": [
+    "Camel or camelid",
+    "Coin depiction",
+    "Coat of Arms",
+    "Cornucopia",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "239"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "41"
+    }
+  ],
+  "weight": 4.3,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

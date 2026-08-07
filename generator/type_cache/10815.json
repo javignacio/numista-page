@@ -1,0 +1,161 @@
+{
+  "id": 10815,
+  "url": "https://en.numista.com/10815",
+  "title": "50 Guaraníes",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "paraguay",
+    "name": "Paraguay"
+  },
+  "issuing_entity": {
+    "id": 935,
+    "name": "Central Bank of Paraguay",
+    "wikidata_id": "Q4504275"
+  },
+  "min_year": 2006,
+  "max_year": 2019,
+  "ruler": [
+    {
+      "id": 4650,
+      "name": "Republic",
+      "wikidata_id": "Q733"
+    }
+  ],
+  "value": {
+    "text": "50 Guaraníes",
+    "numeric_value": 50,
+    "currency": {
+      "id": 87,
+      "name": "Guarani",
+      "full_name": "Guarani (1944-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 19,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Name of the country with bust of Marshal José Félix Estigarribia facing and year of issue below",
+    "lettering": "REPUBLICA DEL PARAGUAY\r\nMCAL.J.F.ESTIGARRIBIA\r\n2012",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Paraguay\r\nMarshal J.F. Estigarribia\r\n2012",
+    "picture": "https://en.numista.com/catalogue/photos/paraguay/1136-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/paraguay/1136-180.jpg",
+    "picture_copyright": "CGB",
+    "picture_copyright_url": "http://www.cgb.fr"
+  },
+  "reverse": {
+    "description": "Value above, dam on the Acaray River",
+    "lettering": "50\r\nREPRESA ACARAY\r\nGUARANIES",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "50 Guaranies\r\nAcaray Dam",
+    "picture": "https://en.numista.com/catalogue/photos/paraguay/1137-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/paraguay/1137-180.jpg",
+    "picture_copyright": "CGB",
+    "picture_copyright_url": "http://www.cgb.fr"
+  },
+  "comments": "A highly interesting mule<br />\r\n<a href=\"https://en.numista.com/catalogue/images/60fdad300461a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/60fdad300461a.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nInformation about the year of issue 2013 was published at the Central Bank&#039;s website.<br /><br />\r\nMarshal José Félix Estigarribia Insaurralde (February 21, 1888 – September 7, 1940) was a decorated Paraguayan war hero and an elected President of Paraguay for the Liberal party, who following his election, repositioned himself to become dictator. He died in a presumed accidental airplane crash barely a year after his election.<br /><br />\r\nThe Acaray Dam is a hydroelectric dam situated in Hernandarias, Paraguay. It has an electrical output of 210 megawatts (280,000 hp), supplying 3% of Paraguay&#039;s electricity demand.",
+  "related_types": [
+    {
+      "id": 4976,
+      "title": "50 Guaraníes (Date on reverse)",
+      "category": "coin",
+      "country": {
+        "code": "paraguay",
+        "name": "Paraguay"
+      },
+      "minYear": 1975,
+      "maxYear": 1975
+    },
+    {
+      "id": 4977,
+      "title": "50 Guaraníes",
+      "category": "coin",
+      "country": {
+        "code": "paraguay",
+        "name": "Paraguay"
+      },
+      "minYear": 1980,
+      "maxYear": 1988
+    },
+    {
+      "id": 5153,
+      "title": "50 Guaraníes",
+      "category": "coin",
+      "country": {
+        "code": "paraguay",
+        "name": "Paraguay"
+      },
+      "minYear": 1992,
+      "maxYear": 1992
+    },
+    {
+      "id": 9050,
+      "title": "50 Guaraníes",
+      "category": "coin",
+      "country": {
+        "code": "paraguay",
+        "name": "Paraguay"
+      },
+      "minYear": 1995,
+      "maxYear": 2005
+    }
+  ],
+  "tags": [
+    "Dam",
+    "Military leader",
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "191b"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "206"
+    }
+  ],
+  "weight": 1,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 27,
+      "name": "Mint of Poland"
+    },
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

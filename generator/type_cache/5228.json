@@ -1,0 +1,189 @@
+{
+  "id": 5228,
+  "url": "https://en.numista.com/5228",
+  "title": "5 Pesos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "argentine",
+    "name": "Argentina"
+  },
+  "min_year": 1976,
+  "max_year": 1977,
+  "ruler": [
+    {
+      "id": 3983,
+      "name": "Federal Republic",
+      "wikidata_id": "Q414"
+    }
+  ],
+  "value": {
+    "text": "5 Pesos",
+    "numeric_value": 5,
+    "currency": {
+      "id": 260,
+      "name": "Peso ley",
+      "full_name": "Peso ley (1970-1983)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1984-03-30"
+  },
+  "size": 23.5,
+  "thickness": 1.819,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze (Cu 92 Al 8)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Sol de Mayo (symbol, sun depicted with a face, and with alternating 16 straight and 16 wavy rays) and the country name above around the rim",
+    "lettering": "REPUBLICA ARGENTINA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Argentinian Republic",
+    "picture": "https://en.numista.com/catalogue/photos/argentine/5e35f752000a84.22249007-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/5e35f752000a84.22249007-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "reverse": {
+    "description": "The value to the right of a laurel branch with 9 leaves mintmark: (right) BAˢ (Buenos Aires Mint) Legend: (base, arched, year)",
+    "lettering": "5 \r\nPESOS \r\n1976",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/argentine/5e35f7537029c9.07209853-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/5e35f7537029c9.07209853-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "comments": "Previously KM#46",
+  "related_types": [
+    {
+      "id": 3236,
+      "title": "1 Centavo",
+      "category": "coin",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 1970,
+      "maxYear": 1975
+    },
+    {
+      "id": 3243,
+      "title": "5 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 1970,
+      "maxYear": 1975
+    },
+    {
+      "id": 2215,
+      "title": "10 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 1970,
+      "maxYear": 1976
+    },
+    {
+      "id": 3255,
+      "title": "20 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 1970,
+      "maxYear": 1976
+    },
+    {
+      "id": 2218,
+      "title": "50 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 1970,
+      "maxYear": 1976
+    },
+    {
+      "id": 5227,
+      "title": "1 Peso",
+      "category": "coin",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 1974,
+      "maxYear": 1976
+    },
+    {
+      "id": 5229,
+      "title": "10 Pesos",
+      "category": "coin",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 1976,
+      "maxYear": 1978
+    }
+  ],
+  "tags": [
+    "Sun",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "71"
+    },
+    {
+      "catalogue": {
+        "id": 160,
+        "code": "CJ"
+      },
+      "number": "323,324"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "71"
+    }
+  ],
+  "weight": 5.75,
+  "orientation": "coin",
+  "edge": {
+    "description": "Milled"
+  },
+  "mints": [
+    {
+      "id": 1336,
+      "name": "Buenos Aires"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

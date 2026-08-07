@@ -1,0 +1,133 @@
+{
+  "id": 202212,
+  "url": "https://en.numista.com/202212",
+  "title": "50 Reais (2nd. Family)",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "bresil",
+    "name": "Brazil"
+  },
+  "issuing_entity": {
+    "id": 900,
+    "name": "Central Bank of Brazil",
+    "wikidata_id": "Q806186"
+  },
+  "min_year": 2010,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 2684,
+      "name": "Federative Republic of Brazil",
+      "wikidata_id": "Q155"
+    }
+  ],
+  "value": {
+    "text": "50 Reais",
+    "numeric_value": 50,
+    "currency": {
+      "id": 158,
+      "name": "Real",
+      "full_name": "Real (1994-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2010-12-13"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 149,
+  "size2": 70,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Dark brown and dark orange print on predominantly light orange underprint.\r\nSymbolic effigy of the Republic, interpreted in the form of sculpture at right.\r\nIn the lower right corner, a tactile mark with two bars, for use by the visually impaired.",
+    "lettering": "REPÚBLICA FEDERATIVA DO BRASIL 50\r\n2010\r\n50\r\nREAIS\r\nREPÚBLICA\r\nDEUS SEJA LOUVADO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Federative Republic of Brazil 50\r\n2010\r\n50\r\nReais\r\nRepublic\r\nGod be praised",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/64170b014767f8.64681963-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/64170b014767f8.64681963-180.jpg",
+    "picture_copyright": "Rogbert",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Dark brown and orange print on predominantly light orange underprint.\r\nLeft jaguar (Panthera onca) supported by a tree trunk and right jaguar walking through the forest.",
+    "lettering": "BANCO CENTRAL DO BRASIL 50\r\n50\r\nMINISTRO DA FAZENDA\r\nPRESIDENTE DO\r\nBANCO CENTRAL DO BRASIL\r\nONÇA PINTADA\r\nCINQUENTA REAIS\r\nCASA DA MOEDA DO BRASIL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Brazilian Central Bank 50\r\n50\r\nFinance Minister\r\nPresident of the Brazilian Central Bank\r\nJaguar\r\nFifity Reais\r\nBrazilian Mint",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/64170b03dfd832.61974943-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/64170b03dfd832.61974943-180.jpg",
+    "picture_copyright": "Rogbert",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "series": "Real - 2nd Family",
+  "comments": "<p>Curiosity<br>(1) <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.wikipedia.org/wiki/Ef%C3%ADgie_da_Rep%C3%BAblica\"><i>Effigy of the Republic</i></a><br><br>(2) <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.wikipedia.org/wiki/Jaguar\"><i>Jaguar (Panthera onca)</i></a><br>---<br><strong>Notes</strong><br><a href=\"https://en.numista.com/catalogue/images/5eaf4cc1a0fd1.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5eaf4cc1a0fd1.jpg\" alt=\"\"></a><br><i>more...</i> <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.numista.com/numisdoc/brazil-179.html\">Federative Republic of <strong>Brazil</strong></a> and <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.wikipedia.org/wiki/Brazilian_real\">Real (R$)</a><br>---<br><a href=\"https://en.numista.com/catalogue/images/5eafd27f2a523.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5eafd27f2a523.jpg\" alt=\"\"></a><br><i><strong>Important:</strong> Date is frozen on 2010 (release of the new banknote series)</i><br>---<br><a href=\"https://en.numista.com/catalogue/images/5eb0e075cbccf.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5eb0e075cbccf.jpg\" alt=\"\"></a><br><i>Tactile mark for the visually impaired</i><br>---<br><a href=\"https://en.numista.com/catalogue/images/5eb0e0459e1ef.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5eb0e0459e1ef.jpg\" alt=\"\"></a><br><a href=\"https://en.numista.com/catalogue/images/5eb0e055e70c5.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5eb0e055e70c5.jpg\" alt=\"\"></a><br><i>Specimen note sample</i></p><p>&nbsp;</p><p>There is a security strip which can be read under backlight. It has “50 REAIS” repeated on it, seen here on a 2019 note:</p><p><a href=\"https://en.numista.com/catalogue/images/68186a16ba897.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/68186a16ba897.jpg\"></a></p><p>&nbsp;</p><p>UV activity on a 2019 note, at 365nm:</p><p><a href=\"https://en.numista.com/catalogue/images/68186a5d2ba59.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/68186a5d2ba59.jpg\"></a> &nbsp;<a href=\"https://en.numista.com/catalogue/images/68186a6454991.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/68186a6454991.jpg\"></a></p><p>© Brandon Bertolli</p><p>&nbsp;</p><p>Location of hidden latent images on the banknote:</p><p>&nbsp;</p><p>1.) On the obverse side, in the large orange/brown space to the right of of the sculpture, the denomination “50” can be seen when the note is tilted or looked at closely.&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/684630901698d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/684630901698d.jpg\"></a></p><p>© Kiet Tran</p><p>&nbsp;</p><p>2.) On the reverse side, in the bush to the left of the smaller jaguar, the denomination “50” can be seen when the note is tilted or looked at closely.&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/684630f40019f.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/684630f40019f.jpg\"></a></p><p>© Kiet Tran</p>",
+  "related_types": [
+    {
+      "id": 205661,
+      "title": "50 Reais (1st. Family; Stamp A)",
+      "category": "banknote",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1994,
+      "maxYear": 2009
+    }
+  ],
+  "tags": [
+    "Cat or feline",
+    "Sculpture",
+    "Allegory",
+    "Hologram",
+    "Latent image",
+    "Micro inscriptions",
+    "Photoluminescence"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "256"
+    },
+    {
+      "catalogue": {
+        "id": 936,
+        "code": "TBB"
+      },
+      "number": "878"
+    }
+  ],
+  "watermark": {
+    "description": "Jaguar image and electrotype denomination \"50\".",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/5eb0f30cd0db92.67492865-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/5eb0f30cd0db92.67492865-180.jpg",
+    "picture_copyright": "Wilson Roberto Vasques Nunes"
+  },
+  "printers": [
+    {
+      "id": "12",
+      "name": "Casa da Moeda do Brasil"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

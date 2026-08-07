@@ -1,0 +1,106 @@
+{
+  "id": 7264,
+  "url": "https://en.numista.com/7264",
+  "title": "1 Penny - Elizabeth II (4th portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "jersey",
+    "name": "Jersey"
+  },
+  "min_year": 1998,
+  "max_year": 2016,
+  "ruler": [
+    {
+      "id": 3218,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 783,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Penny",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 378,
+      "name": "Pound",
+      "full_name": "Pound (decimalized, 1971-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 20.27,
+  "thickness": 1.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Ian Rank-Broadley"
+    ],
+    "description": "Right bust of Queen Elizabeth II.",
+    "lettering": "QUEEN ELIZABETH THE SECOND\r\n2003\r\nIRB",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/jersey/698ef734cef211.03270252-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/jersey/698ef734cef211.03270252-180.jpg",
+    "picture_copyright": "riversxian",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Robert Lowe"
+    ],
+    "description": "Le Hocq Tower (coastal defence)",
+    "lettering": "BAILIWICK OF JERSEY\r\nONE PENNY",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/jersey/698ef7377227c3.92682273-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/jersey/698ef7377227c3.92682273-180.jpg",
+    "picture_copyright": "riversxian",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "tags": [
+    "Castle or fortification"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "103"
+    }
+  ],
+  "weight": 3.55,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

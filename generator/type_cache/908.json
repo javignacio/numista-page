@@ -1,0 +1,140 @@
+{
+  "id": 908,
+  "url": "https://en.numista.com/908",
+  "title": "1 Cent \"Lincoln - Wheat Ears Reverse\"",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "etats-unis",
+    "name": "United States"
+  },
+  "min_year": 1909,
+  "max_year": 1958,
+  "ruler": [
+    {
+      "id": 4720,
+      "name": "Federal republic",
+      "wikidata_id": "Q30"
+    }
+  ],
+  "value": {
+    "text": "1 Cent",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 59,
+      "name": "Dollar",
+      "full_name": "Dollar (1785-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 19,
+  "thickness": 1.4,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Victor David Brenner"
+    ],
+    "description": "The portrait of Abraham Lincoln facing right with the date to the right, and the mintmark (if present) below the date.",
+    "lettering": "IN GOD WE TRUST\r\nLIBERTY\r\n1925\r\nD\r\nVDB",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/1116-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/1116-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "engravers": [
+      "Victor David Brenner"
+    ],
+    "description": "Two wheat ears surrounding lettering.",
+    "lettering": "E·PLURIBUS·UNUM\r\nONE\r\nCENT\r\nUNITED STATES\r\nOF AMERICA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Out of Many, One",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/1117-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/1117-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "<p>KM# 132 - 1909-1942 bronze issues<br>KM# 132a - 1943 zinc-coated steel issues<br>KM# A132 - 1944-1958 bronze issues resumed<br><br>The standard weight of this coin was 48 grains.</p><p>&nbsp;</p><p>On some of the 1909 issues, Brenner's initials \"VDB\" appear on the bottom of the reverse side. They were removed that year, thus creating two varieties for each of the two mints in 1909. &nbsp;Brenner's initials were restored in 1918, and his initials were placed inconspicuously beneath the shoulder of Lincoln on this obverse side.<br><br>How the initials ['signature'] <strong>\"VDB\" </strong>looks on reverse (1909 and 1909-S only)<br><a href=\"https://en.numista.com/catalogue/images/5ca799aba4a20.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5ca799aba4a20.jpg\" alt=\"\"></a><br>© Ringgy<br><br>1909<br><a href=\"https://en.numista.com/catalogue/images/63610e5c0fc86.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/63610e5c0fc86.jpg\" alt=\"\"></a><br>1917<br><a href=\"https://en.numista.com/catalogue/images/63610e737c75a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/63610e737c75a.jpg\" alt=\"\"></a><br>1922<br><a href=\"https://en.numista.com/catalogue/images/63610e813ccda.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/63610e813ccda.jpg\" alt=\"\"></a><br>1928S<br><a href=\"https://en.numista.com/catalogue/images/63610eadec3d8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/63610eadec3d8.jpg\" alt=\"\"></a><br>1936<br><a href=\"https://en.numista.com/catalogue/images/63610ec23e3b9.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/63610ec23e3b9.jpg\" alt=\"\"></a><br>1941S<br><a href=\"https://en.numista.com/catalogue/images/63610ee872fb3.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/63610ee872fb3.jpg\" alt=\"\"></a></p><p>1941S</p><p><a href=\"https://en.numista.com/catalogue/images/679cfc36b1a04.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/679cfc36b1a04.jpg\"></a><br>1944D<br><a href=\"https://en.numista.com/catalogue/images/6377c5c10af83.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6377c5c10af83.jpg\" alt=\"\"></a><br>1946S (inverted S and S/D)<br><a href=\"https://en.numista.com/catalogue/images/63b826920aa7b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/63b826920aa7b.jpg\" alt=\"\"></a></p><p>1946S</p><p><a href=\"https://en.numista.com/catalogue/images/60fa5837e11dd.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/60fa5837e11dd.jpg\"></a><br>1953D<br><a href=\"https://en.numista.com/catalogue/images/63610f2796567.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/63610f2796567.jpg\" alt=\"\"></a><br>1955<br><a href=\"https://en.numista.com/catalogue/images/6377c5e0bd465.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6377c5e0bd465.jpg\" alt=\"\"></a><br>1956D<br><a href=\"https://en.numista.com/catalogue/images/679cfbe3a9bc5.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/679cfbe3a9bc5.jpg\"></a><br>1958<br><a href=\"https://en.numista.com/catalogue/images/6377c6014a30e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6377c6014a30e.jpg\" alt=\"\"></a><br><br>There are claims of a 1917 matte proof coin existing (one known). However, many sources now claim this coin does not exist.<br><br>Issues from 1944 to 1946 used brass made from spent wartime shell casings composed of 70% copper and 30% zinc. As a result, such issues are made of 95% copper and 5% zinc. However, the alloy resumed to pre-war composition after 1946 (95% copper and 5% tin and zinc)<br><br>The 1943 bronze cent is a \"Transitional Error\" which occurred during the changeover from bronze to steel coated zinc.</p>",
+  "related_types": [
+    {
+      "id": 3173,
+      "title": "1 Cent \"Lincoln - Wheat Ears Reverse - Steel\"",
+      "category": "coin",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 1943,
+      "maxYear": 1944
+    }
+  ],
+  "tags": [
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "132"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "A132"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "130"
+    }
+  ],
+  "weight": 3.11,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/3287-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/3287-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    },
+    {
+      "id": 10,
+      "name": "United States Mint of Denver"
+    },
+    {
+      "id": 12,
+      "name": "United States Mint of San Francisco"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

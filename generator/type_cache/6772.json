@@ -1,0 +1,211 @@
+{
+  "id": 6772,
+  "url": "https://en.numista.com/6772",
+  "title": "10 Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bolivie",
+    "name": "Bolivia"
+  },
+  "min_year": 1987,
+  "max_year": 1997,
+  "ruler": [
+    {
+      "id": 4379,
+      "name": "Republic",
+      "wikidata_id": "Q750"
+    }
+  ],
+  "value": {
+    "text": "10 Centavos",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 8,
+      "name": "Second boliviano",
+      "full_name": "Second boliviano (1986-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 18.5,
+  "thickness": 1,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "National arms, circular legend with country name, star flanked with dashes on bottom.",
+    "lettering": "REPUBLICA DE BOLIVIA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Bolivia",
+    "picture": "https://en.numista.com/catalogue/photos/bolivie/6202bc77d0a9c8.57636440-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bolivie/6202bc77d0a9c8.57636440-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "description": "Denomination with sprigs below within inner rope circle, motto between toothed border and inner rope circle, date below.",
+    "lettering": "LA UNION ES LA FUERZA\r\n10 \r\nCENTAVOS\r\n1991",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Unity is strength",
+    "picture": "https://en.numista.com/catalogue/photos/bolivie/6202bc78241f28.18652023-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bolivie/6202bc78241f28.18652023-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "comments": "Krause catalog also shows a 2006 issue for this type, but this is a mistake. Central Bank of Bolivia confirmed that in 2006 only coins of KM# 213 type (copper plated steel) were minted.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5c8a74bbda468.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5c8a74bbda468.jpg\" alt=\"\" width=\"200\" height=\"241\" /></a>",
+  "related_types": [
+    {
+      "id": 3220,
+      "title": "2 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "bolivie",
+        "name": "Bolivia"
+      },
+      "minYear": 1987,
+      "maxYear": 1987
+    },
+    {
+      "id": 7150,
+      "title": "5 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "bolivie",
+        "name": "Bolivia"
+      },
+      "minYear": 1987,
+      "maxYear": 1987
+    },
+    {
+      "id": 15842,
+      "title": "10 Centavos (Type 1 denomination letter)",
+      "category": "coin",
+      "country": {
+        "code": "bolivie",
+        "name": "Bolivia"
+      },
+      "minYear": 1997,
+      "maxYear": 1997
+    },
+    {
+      "id": 12037,
+      "title": "10 Centavos (Type 2 denomination letter)",
+      "category": "coin",
+      "country": {
+        "code": "bolivie",
+        "name": "Bolivia"
+      },
+      "minYear": 2001,
+      "maxYear": 2008
+    },
+    {
+      "id": 3223,
+      "title": "20 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "bolivie",
+        "name": "Bolivia"
+      },
+      "minYear": 1987,
+      "maxYear": 2008
+    },
+    {
+      "id": 3225,
+      "title": "50 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "bolivie",
+        "name": "Bolivia"
+      },
+      "minYear": 1987,
+      "maxYear": 2008
+    },
+    {
+      "id": 3228,
+      "title": "1 Boliviano",
+      "category": "coin",
+      "country": {
+        "code": "bolivie",
+        "name": "Bolivia"
+      },
+      "minYear": 1987,
+      "maxYear": 2008
+    },
+    {
+      "id": 5784,
+      "title": "2 Bolivianos (small type)",
+      "category": "coin",
+      "country": {
+        "code": "bolivie",
+        "name": "Bolivia"
+      },
+      "minYear": 1991,
+      "maxYear": 1991
+    },
+    {
+      "id": 13820,
+      "title": "2 Bolivianos (large type)",
+      "category": "coin",
+      "country": {
+        "code": "bolivie",
+        "name": "Bolivia"
+      },
+      "minYear": 1995,
+      "maxYear": 2008
+    },
+    {
+      "id": 7561,
+      "title": "5 Bolivianos",
+      "category": "coin",
+      "country": {
+        "code": "bolivie",
+        "name": "Bolivia"
+      },
+      "minYear": 2001,
+      "maxYear": 2004
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Flag",
+    "Coat of Arms",
+    "Firearms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "202"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "36"
+    }
+  ],
+  "weight": 1.8,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

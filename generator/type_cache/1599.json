@@ -1,0 +1,120 @@
+{
+  "id": 1599,
+  "url": "https://en.numista.com/1599",
+  "title": "5 Cents",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "sri_lanka_period",
+    "name": "Sri Lanka (1972-date)"
+  },
+  "min_year": 1978,
+  "max_year": 1991,
+  "ruler": [
+    {
+      "id": 589,
+      "name": "Democratic Socialist Republic",
+      "wikidata_id": "Q854"
+    }
+  ],
+  "value": {
+    "text": "5 Cents",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 176,
+      "name": "Rupee",
+      "full_name": "Rupee (1972-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 18,
+  "size2": 18,
+  "thickness": 1.51,
+  "shape": "Square with rounded corners",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Armorial Ensign of Sri Lanka",
+    "picture": "https://en.numista.com/catalogue/photos/sri_lanka_period/65376681a92e96.97298452-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/sri_lanka_period/65376681a92e96.97298452-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Denomination and the date at the bottom",
+    "lettering": "ශ්‍රී ලංකා\r\n5\r\nසත පඟ\r\nஐந்து சதம்\r\nFIVE CENTS\r\n1991",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      },
+      {
+        "name": "Sinhala"
+      },
+      {
+        "name": "Tamil"
+      }
+    ],
+    "lettering_translation": "Sri Lanka\r\n5\r\nFive Cents\r\n1991",
+    "picture": "https://en.numista.com/catalogue/photos/sri_lanka_period/65376681b766d7.60898212-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/sri_lanka_period/65376681b766d7.60898212-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "related_types": [
+    {
+      "id": 5533,
+      "title": "5 Cents",
+      "category": "coin",
+      "country": {
+        "code": "sri_lanka_period",
+        "name": "Sri Lanka (1972-date)"
+      },
+      "minYear": 1975,
+      "maxYear": 1975
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "139a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "77a"
+    }
+  ],
+  "weight": 1,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/sri_lanka_period/67047bdbb7d7c6.62033207-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/sri_lanka_period/67047bdbb7d7c6.62033207-180.jpg",
+    "picture_copyright": "Julio Vega",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

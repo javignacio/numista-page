@@ -1,0 +1,144 @@
+{
+  "id": 3928,
+  "url": "https://en.numista.com/3928",
+  "title": "2 Dollars - Elizabeth II (4th Portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "nouvelle-zelande",
+    "name": "New Zealand"
+  },
+  "min_year": 1999,
+  "max_year": 2022,
+  "ruler": [
+    {
+      "id": 629,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 788,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "2 Dollars",
+    "numeric_value": 2,
+    "currency": {
+      "id": 54,
+      "name": "Dollar",
+      "full_name": "Dollar (1967-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 26.5,
+  "thickness": 2.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Ian Rank-Broadley"
+    ],
+    "description": "Fourth crowned portrait of Queen Elizabeth II facing right, wearing the Girls of Great Britain and Ireland tiara, legend around, date below.",
+    "lettering": "NEW ZEALAND ELIZABETH II\r\nIRB\r\n2015",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/nouvelle-zelande/66f24d8fcd65f7.99790253-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/66f24d8fcd65f7.99790253-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "Robert Maurice Conly"
+    ],
+    "description": "Kotuku (white heron) surrounded by a Maori motif, denomination below.",
+    "lettering": "TWO DOLLARS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/nouvelle-zelande/66f24d90de3444.80623372-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/66f24d90de3444.80623372-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p>This New Zealand definitive two dollar coin was first issued into circulation in 1999 &amp; also in BU and Proof sets with the obverse featuring Ian Rank-Broadley's fourth portrait of Queen Elizabeth II. These coins have been minted at various different Mints over the years. From 2010 The $1 BU &amp; Proof set coins (Except for the Unofficial BU Sets of 2014 &amp; 2015 which were struck at the Royal Mint) were minted at the Royal Dutch Mint and are made from Brass instead of Aluminium-bronze.</p><p>&nbsp;</p><p>The Kotuku is one of New Zealand's rarest birds and held in high regard in Maori mythology.&nbsp;</p>",
+  "related_types": [
+    {
+      "id": 2653,
+      "title": "2 Dollars - Elizabeth II (3rd portrait)",
+      "category": "coin",
+      "country": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "minYear": 1990,
+      "maxYear": 1998
+    },
+    {
+      "id": 439768,
+      "title": "2 Dollars - Elizabeth II (4th Portrait; Set Issue)",
+      "category": "coin",
+      "country": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "minYear": 2010,
+      "maxYear": 2023
+    }
+  ],
+  "tags": [
+    "Bird"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "121"
+    }
+  ],
+  "weight": 10,
+  "orientation": "medal",
+  "edge": {
+    "description": "Fully milled with an Incuse channel with 10 raised dimples",
+    "picture": "https://en.numista.com/catalogue/photos/nouvelle-zelande/6958ef42ae7784.87692566-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/6958ef42ae7784.87692566-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 21,
+      "name": "Perth Mint"
+    },
+    {
+      "id": 28,
+      "name": "Royal Australian Mint"
+    },
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,122 @@
+{
+  "id": 5781,
+  "url": "https://en.numista.com/5781",
+  "title": "2½ Cents",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "curacao",
+    "name": "Curaçao"
+  },
+  "min_year": 1944,
+  "max_year": 1948,
+  "ruler": [
+    {
+      "id": 1923,
+      "name": "Wilhelmina",
+      "wikidata_id": "Q150747",
+      "nomisma_id": "queen_wilhelmina",
+      "group": {
+        "id": 754,
+        "name": "House of Orange-Nassau"
+      }
+    }
+  ],
+  "value": {
+    "text": "2½ Cents",
+    "numeric_value": 0.025,
+    "currency": {
+      "id": 10298,
+      "name": "Gulden",
+      "full_name": "Gulden (1828-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 23.4,
+  "thickness": 1,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze (95% Copper, 5% Zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Johannes Cornelis Wienecke"
+    ],
+    "description": "Crowned rampant Dutch lion to the left on field of 15 small shields all within beaded circle, date below between marks.",
+    "lettering": "MUNT VAN CURAÇAO \r\n1948",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Coin of Curaçao",
+    "picture": "https://en.numista.com/catalogue/photos/curacao/79-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/curacao/79-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "reverse": {
+    "designers": [
+      "Johannes Cornelis Wienecke"
+    ],
+    "description": "Value within wreath of orange branches.",
+    "lettering": "2 1/2\r\nCENT",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/curacao/80-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/curacao/80-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "comments": "<p>Despite being listed in the \"Standard Catalog of World Coins\" and Passon as bronze, official US Mint records state that these coins were minted in Copper and Zinc (Brass).<br><br>1944 coin:<br><a href=\"https://en.numista.com/catalogue/images/5fd3fa73351b4.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5fd3fa73351b4.jpg\" alt=\"\"></a><br>&nbsp;</p><ul><li>Palm tree: mark of the coins which were struck for the overseas territories of the Kingdom during WWII<br>&nbsp;</li><li>Mint mark: D, Denver, United States of America<br>&nbsp;</li></ul><p><br>1947/1948 coins:<br>&nbsp;</p><ul><li>Mint mark: caduceus, Koninklijke Nederlandse Munt (Royal Dutch Mint), Utrecht, the Netherlands<br>&nbsp;</li><li>Privy mark: fish - Dr J.W.A. van den Hengel<br>&nbsp;</li></ul><p><br>Two main groups of the reverse are known.<br><br><i>Reverse</i><br>Die <strong>A</strong> - bold letters, wide ribbon.<br>Die <strong>B</strong> - fine letters, narrow ribbon.<br><strong>Note</strong>. Many differences in wreath additionally shown on the picture.<br>Picture: © Images courtesy of Alexandr Prokofyev.<br><a href=\"https://en.numista.com/catalogue/images/61d641a3008b6.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/61d641a3008b6.jpg\" alt=\"\"></a><br><br><i>Combinations</i><br><strong>A</strong>: 1944.<br><strong>B</strong>: 1947, 1948.<br><br>According to Passon (2022) 1944 varieties exist:<br>- Without mint mark D<br>- Without mint mark D, aluminium<br>- Off metal strike: Silver plated card board (1 piece)<br>- Off metal strike: Lead (1 piece)<br>- Off metal strike: Lead; without mint mark D (1 piece)</p>",
+  "tags": [
+    "Coat of Arms",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "42"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "34"
+    }
+  ],
+  "weight": 4,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/curacao/5f396d167c1629.53057034-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/curacao/5f396d167c1629.53057034-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 23,
+      "name": "Royal Dutch Mint"
+    },
+    {
+      "id": 10,
+      "name": "United States Mint of Denver"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,137 @@
+{
+  "id": 1824,
+  "url": "https://en.numista.com/1824",
+  "title": "5 Milliemes (IWY)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "egypte",
+    "name": "Egypt"
+  },
+  "min_year": 1975,
+  "max_year": 1975,
+  "ruler": [
+    {
+      "id": 2903,
+      "name": "Arab Republic of Egypt",
+      "wikidata_id": "Q16249924"
+    }
+  ],
+  "value": {
+    "text": "5 Milliemes",
+    "numeric_value": 0.005,
+    "currency": {
+      "id": 117,
+      "name": "Pound",
+      "full_name": "Pound (1916-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 18,
+  "thickness": 1.3,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Denomination divides dates, legend above.",
+    "lettering": "جمهورية مصر العربية\r\n٥\r\nمليمات\r\n١٣٩٥ ١٩٧٥",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "Arab Republic of Egypt\r\n5\r\nMilliemes\r\n1975 1395",
+    "picture": "https://en.numista.com/catalogue/photos/egypte/1757-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/egypte/1757-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "reverse": {
+    "description": "Grain sprig at left and Nefertiti's bust at right with the logo of the United Nations' International Women's Year (a stylized dove) in her headgear.",
+    "lettering": "عامـ المرأة\r\nالعالمي\r\n١٩٧٥",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "International Women's Year\r\n1975",
+    "picture": "https://en.numista.com/catalogue/photos/egypte/1756-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/egypte/1756-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "series": "International Women's Year",
+  "commemorated_topic": "International Women's Year",
+  "comments": "Nefertiti (c. 1370 - c. 1330 BC), Egyptian Queen and Great Royal Wife of Pharaoh Akhenaten (Ekhnaton)",
+  "related_types": [
+    {
+      "id": 10273,
+      "title": "5 Milliemes (IWY; Mule)",
+      "category": "coin",
+      "country": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "minYear": 1973,
+      "maxYear": 1973
+    },
+    {
+      "id": 3513,
+      "title": "5 Qirsh (IWY)",
+      "category": "coin",
+      "country": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "minYear": 1975,
+      "maxYear": 1975
+    }
+  ],
+  "tags": [
+    "FAO",
+    "United Nations",
+    "Feminism"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "445"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "154.1"
+    },
+    {
+      "catalogue": {
+        "id": 2245,
+        "code": "MHC"
+      },
+      "number": "402"
+    }
+  ],
+  "weight": 2,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 1323,
+      "name": "Egyptian Mint Authority"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

@@ -1,0 +1,122 @@
+{
+  "id": 5113,
+  "url": "https://en.numista.com/5113",
+  "title": "1 Penny - Elizabeth II (Mace of the House of Assembly)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "gibraltar",
+    "name": "Gibraltar"
+  },
+  "min_year": 2005,
+  "max_year": 2009,
+  "ruler": [
+    {
+      "id": 2999,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 831,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Penny",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 119,
+      "name": "Pound",
+      "full_name": "Pound (decimalized, 1971-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 20.32,
+  "thickness": 1.65,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Raphael David Maklouf"
+    ],
+    "description": "Right facing uncouped bust of Queen Elizabeth II, wearing the George IV State Diadem, legend and date around",
+    "lettering": "ELIZABETH II  GIBRALTAR 2006\r\nRDM",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/gibraltar/220-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/gibraltar/220-180.jpg",
+    "picture_copyright": "Ma collection de monnaies",
+    "picture_copyright_url": "https://monnaiesetvarietes.numista.com/"
+  },
+  "reverse": {
+    "description": "The Mace of the House of Assembly",
+    "lettering": "ONE PENNY\r\nCONSTITUTION\r\nORDER 1969\r\n1",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/gibraltar/221-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/gibraltar/221-180.jpg",
+    "picture_copyright": "Ma collection de monnaies",
+    "picture_copyright_url": "https://monnaiesetvarietes.numista.com/"
+  },
+  "series": "2005 series",
+  "related_types": [
+    {
+      "id": 9533,
+      "title": "5 Pence - Elizabeth II (Occupation - Mace)",
+      "category": "coin",
+      "country": {
+        "code": "gibraltar",
+        "name": "Gibraltar"
+      },
+      "minYear": 2004,
+      "maxYear": 2004
+    }
+  ],
+  "tags": [
+    "Cross"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1079"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "1148"
+    }
+  ],
+  "weight": 3.56,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 288,
+      "name": "Tower Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

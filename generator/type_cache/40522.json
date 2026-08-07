@@ -1,0 +1,142 @@
+{
+  "id": 40522,
+  "url": "https://en.numista.com/40522",
+  "title": "1 Dirham (small type; magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "emirats_arabes_unis",
+    "name": "United Arab Emirates"
+  },
+  "min_year": 2012,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 1500,
+      "name": "Khalifa bin Zayed Al Nahyan",
+      "wikidata_id": "Q1059948"
+    },
+    {
+      "id": 6247,
+      "name": "Mohamed bin Zayed Al Nahyan",
+      "wikidata_id": "Q1951896"
+    }
+  ],
+  "value": {
+    "text": "1 Dirham",
+    "numeric_value": 1,
+    "currency": {
+      "id": 35,
+      "name": "Dirham",
+      "full_name": "Dirham (1973-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24,
+  "thickness": 1.9,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Denomination in Arabic characters surrounded by the country name",
+    "lettering": "الامارات العربية المتحدة\r\n١\r\nدرهمـ\r\nUNITED ARAB EMIRATES",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "United Arab Emirates\r\n1\r\nDirham\r\nUnited Arab Emirates",
+    "picture": "https://en.numista.com/catalogue/photos/emirats_arabes_unis/284-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/emirats_arabes_unis/284-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "reverse": {
+    "engravers": [
+      "Geoffrey Colley"
+    ],
+    "description": "Dallah (traditional Arabic coffee pot) above dates",
+    "lettering": "١٤٣٥-٢٠١٤",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "2014-1435",
+    "picture": "https://en.numista.com/catalogue/photos/emirats_arabes_unis/283-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/emirats_arabes_unis/283-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "comments": "NGC and NumisMaster have conflicting information as to the KM number (KM6.2a versus KM6.3), weight (6.1 versus 6.4 grams), and composition of this coin (copper nickel versus copper plated steel), at least for 1433/2012 and 1435/2014. Correct weight appears to be 6.1 grams, reflecting a composition of copper plated steel for all three years (1433/2012, 1435/2014, and 1443/2022), and KM6.3 will be used for the time being.<br /><br />\r\n1435 (2014) Roll:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5991a72c1f317.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5991a72c1f317.jpg\" alt=\"\" width=\"198\" height=\"58\" /></a><br />\r\n© Amer Salmeh",
+  "related_types": [
+    {
+      "id": 2958,
+      "title": "1 Dirham (large type)",
+      "category": "coin",
+      "country": {
+        "code": "emirats_arabes_unis",
+        "name": "United Arab Emirates"
+      },
+      "minYear": 1973,
+      "maxYear": 1989
+    },
+    {
+      "id": 1310,
+      "title": "1 Dirham (small type; non-magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "emirats_arabes_unis",
+        "name": "United Arab Emirates"
+      },
+      "minYear": 1995,
+      "maxYear": 2007
+    }
+  ],
+  "tags": [
+    "Container or tableware"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "6.3"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "25a"
+    }
+  ],
+  "weight": 6.1,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/emirats_arabes_unis/66a52e1ba1acd8.32725581-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/emirats_arabes_unis/66a52e1ba1acd8.32725581-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,133 @@
+{
+  "id": 673,
+  "url": "https://en.numista.com/673",
+  "title": "10 Centimos - Francisco Franco",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "espagne",
+    "name": "Spain"
+  },
+  "min_year": 1959,
+  "max_year": 1959,
+  "ruler": [
+    {
+      "id": 152,
+      "name": "Francisco Franco",
+      "wikidata_id": "Q29179"
+    }
+  ],
+  "value": {
+    "text": "10 Centimos",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 142,
+      "name": "Peseta",
+      "full_name": "Peseta (1868-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1997-01-01"
+  },
+  "size": 17.5,
+  "thickness": 1.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium (96% aluminium, 3.5% magnesium, 0.5% manganese)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Manuel Marín Jimeno"
+    ],
+    "designers": [
+      "Mariano Benlliure Gil"
+    ],
+    "description": "Head of Francisco Franco facing right.",
+    "lettering": "FRANCISCO FRANCO CAUDILLO DE ESPAÑA POR LA G.DE DIOS \r\n1959",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Francisco Franco Caudillo de España por la Gracia de Dios",
+    "lettering_translation": "Francisco Franco Leader of Spain by the Grace of God",
+    "picture": "https://en.numista.com/catalogue/photos/espagne/277-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/277-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Manuel Marín Jimeno"
+    ],
+    "description": "Face value surrounded by a leaves wreath.",
+    "lettering": "10 CÉNTIMOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/espagne/278-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/278-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "tags": [
+    "Military leader",
+    "Politician",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "790"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "31"
+    },
+    {
+      "catalogue": {
+        "id": 1965,
+        "code": "Aureo"
+      },
+      "number": "16"
+    },
+    {
+      "catalogue": {
+        "id": 44,
+        "code": "Cal"
+      },
+      "number": "132"
+    }
+  ],
+  "weight": 0.75,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/espagne/615d6def661945.44109681-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/615d6def661945.44109681-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 24,
+      "name": "Royal Mint of Madrid"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

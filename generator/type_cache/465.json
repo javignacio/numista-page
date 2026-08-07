@@ -1,0 +1,122 @@
+{
+  "id": 465,
+  "url": "https://en.numista.com/465",
+  "title": "1 Dollar - Elizabeth II (2nd portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "canada",
+    "name": "Canada"
+  },
+  "min_year": 1987,
+  "max_year": 1989,
+  "ruler": [
+    {
+      "id": 2095,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 827,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Dollar",
+    "numeric_value": 1,
+    "currency": {
+      "id": 44,
+      "name": "Dollar",
+      "full_name": "Dollar (1858-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 26.5,
+  "thickness": 1.75,
+  "shape": "Hendecagonal (11-sided)",
+  "composition": {
+    "text": "Bronze plated nickel (.915 nickel, .085 bronze)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Patrick Brindley"
+    ],
+    "designers": [
+      "Arnold Machin"
+    ],
+    "description": "Bust of Queen Elizabeth II, as at 37 years of age, wearing tiara, facing right.",
+    "lettering": "ELIZABETH II D·G·REGINA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "ELIZABETH II DEI GRATIA REGINA",
+    "lettering_translation": "Elizabeth II Queen by the grace of God",
+    "picture": "https://en.numista.com/catalogue/photos/canada/6984de2b9a7e54.33143985-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/6984de2b9a7e54.33143985-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "reverse": {
+    "engravers": [
+      "Terry Smith"
+    ],
+    "designers": [
+      "Robert-Ralph Carmichael"
+    ],
+    "description": "A Canadian loon swimming on a lake with above the inscription \"CANADA\" and below the face value",
+    "lettering": "CANADA\r\n1987\r\nDOLLAR\r\nRRC",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/canada/6984de2d144f96.93989553-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/6984de2d144f96.93989553-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "comments": "<p>(C) mintage included with the circulation coin.</p><p>&nbsp;</p><p>Note: for 1987 the coin's thickness is 1.95 mm and diameter 26.72 mm, but for 1988 and 1989 coins it is 1.75 mm and 26.50.<br><br>The common loon or the Canadian Loon (Binomial Name: Gavia immer)</p>",
+  "tags": [
+    "Bird",
+    "Lake"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "146"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "157"
+    }
+  ],
+  "weight": 7,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/canada/5115-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/5115-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

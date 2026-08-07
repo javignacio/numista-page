@@ -1,0 +1,72 @@
+{
+  "id": 162733,
+  "url": "https://en.numista.com/162733",
+  "title": "1 Euro - Dexter Laundry",
+  "object_type": {
+    "id": 170,
+    "name": "Laundry tokens"
+  },
+  "issuer": {
+    "code": "italie",
+    "name": "Italy"
+  },
+  "ruler": [
+    {
+      "id": 1164,
+      "name": "Republic",
+      "wikidata_id": "Q38"
+    }
+  ],
+  "value": {
+    "text": "1 Euro",
+    "numeric_value": 1,
+    "currency": {
+      "id": 9010,
+      "name": "Euro",
+      "full_name": "Euro (2002-date)"
+    }
+  },
+  "size": 23.4,
+  "thickness": 2.4,
+  "shape": "Round",
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Horse - company logo.",
+    "lettering": "DEXTER\r\nLAUNDRY",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/italie/6064f33d8e2e24.53255954-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/italie/6064f33d8e2e24.53255954-180.jpg",
+    "picture_copyright": "mikimaus",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "lettering": "1 €\r\nWWW.EXPRESSWASH.IT",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/italie/6064f33eab71a3.51376469-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/italie/6064f33eab71a3.51376469-180.jpg",
+    "picture_copyright": "mikimaus",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "tags": [
+    "Horse or equine"
+  ],
+  "weight": 5.9,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "category": "exonumia",
+  "type": "Laundry tokens"
+}

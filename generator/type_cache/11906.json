@@ -1,0 +1,121 @@
+{
+  "id": 11906,
+  "url": "https://en.numista.com/11906",
+  "title": "2 Shillings - George VI",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "afrique_occidentale_britannique",
+    "name": "British West Africa"
+  },
+  "issuing_entity": {
+    "id": 5877,
+    "name": "West African Currency Board"
+  },
+  "min_year": 1949,
+  "max_year": 1952,
+  "ruler": [
+    {
+      "id": 1755,
+      "name": "George VI",
+      "wikidata_id": "Q280856",
+      "group": {
+        "id": 823,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "2 Shillings",
+    "numeric_value": 0.1,
+    "numerator": 2,
+    "denominator": 20,
+    "currency": {
+      "id": 281,
+      "name": "Pound",
+      "full_name": "Pound (1907-1968)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 28.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass (79% Copper, 20% Zinc, 1% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Percy Metcalfe"
+    ],
+    "description": "Crowned head of King George VI facing left.",
+    "lettering": "+ GEORGIVS VI DEI GRA: BRITT: OMN: REX FID: DEF:\r\nPM",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "+ GEORGIVS VI DEI GRATIA BRITANNIARUM OMNIUM REX FIDEI DEFENSOR",
+    "lettering_translation": "George VI, by the Grace of God, King of all the Britons, Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/afrique_occidentale_britannique/6980daccbf3e75.35501497-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/afrique_occidentale_britannique/6980daccbf3e75.35501497-180.jpg",
+    "picture_copyright": "PCGS",
+    "picture_copyright_url": "https://www.pcgs.com/"
+  },
+  "reverse": {
+    "description": "Palm tree divides date in circular frame, denomination below.",
+    "lettering": "BRITISH WEST AFRICA\r\n. 19 49 .\r\nKN\r\nTWO SHILLINGS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/afrique_occidentale_britannique/6980dacef323c4.22972321-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/afrique_occidentale_britannique/6980dacef323c4.22972321-180.jpg",
+    "picture_copyright": "PCGS",
+    "picture_copyright_url": "https://www.pcgs.com/"
+  },
+  "tags": [
+    "Monarch",
+    "Crown",
+    "Tree"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "29"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "28"
+    }
+  ],
+  "weight": 11.31,
+  "orientation": "medal",
+  "edge": {
+    "description": "Security"
+  },
+  "mints": [
+    {
+      "id": 18,
+      "name": "Heaton and Sons / The Mint Birmingham"
+    },
+    {
+      "id": 31,
+      "name": "Kings Norton Metal Company"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

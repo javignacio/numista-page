@@ -1,0 +1,141 @@
+{
+  "id": 7683,
+  "url": "https://en.numista.com/7683",
+  "title": "1 Markka",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "finlande",
+    "name": "Finland"
+  },
+  "min_year": 1928,
+  "max_year": 1940,
+  "ruler": [
+    {
+      "id": 3291,
+      "name": "Republic",
+      "wikidata_id": "Q33"
+    }
+  ],
+  "value": {
+    "text": "1 Markka",
+    "numeric_value": 1,
+    "currency": {
+      "id": 1156,
+      "name": "Markka",
+      "full_name": "Markka (1860-1963)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1963-00-00"
+  },
+  "size": 21,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Isak Gustaf Sundell"
+    ],
+    "description": "Arms of Finland (a rampant lion left with the right foreleg replaced with an armoured hand brandishing a sword, trampling on a sabre with the hind paws) dividing the date",
+    "lettering": "19 31\r\nS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/finlande/60042306ccf834.16120718-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/60042306ccf834.16120718-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Isak Gustaf Sundell"
+    ],
+    "description": "Denomination flanked by spruce branches",
+    "lettering": "1\r\nMARKKA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/finlande/60042307765509.53748678-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/60042307765509.53748678-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p>Coins dated 1929S and 1930S are known to be restruck on 1921-1924, KM#27 coins.<br>A 1929S as example:<br><a href=\"https://en.numista.com/catalogue/images/630232564fc89.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/630232564fc89.jpg\" alt=\"\"></a></p><p>&nbsp;</p><p>Clearly underneath the Lion the imprint of the 1 of the predecessor in the planchet after which it came loose and the final strike occurred.</p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/67292d80736bb.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67292d80736bb.jpg\"></a></p><p>Ronald Beumer</p>",
+  "related_types": [
+    {
+      "id": 2371,
+      "title": "1 Markka",
+      "category": "coin",
+      "country": {
+        "code": "finlande",
+        "name": "Finland"
+      },
+      "minYear": 1940,
+      "maxYear": 1951
+    },
+    {
+      "id": 7685,
+      "title": "1 Markka",
+      "category": "coin",
+      "country": {
+        "code": "finlande",
+        "name": "Finland"
+      },
+      "minYear": 1943,
+      "maxYear": 1952
+    }
+  ],
+  "tags": [
+    "Cat or feline",
+    "Flower",
+    "Coat of Arms",
+    "Cold weapons"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "30"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "23"
+    }
+  ],
+  "weight": 4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/finlande/1318-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/1318-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 1333,
+      "name": "Mint of Finland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

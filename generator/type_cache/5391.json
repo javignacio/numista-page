@@ -1,0 +1,105 @@
+{
+  "id": 5391,
+  "url": "https://en.numista.com/5391",
+  "title": "100 Cruzeiros",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bresil",
+    "name": "Brazil"
+  },
+  "min_year": 1992,
+  "max_year": 1993,
+  "ruler": [
+    {
+      "id": 2684,
+      "name": "Federative Republic of Brazil",
+      "wikidata_id": "Q155"
+    }
+  ],
+  "value": {
+    "text": "100 Cruzeiros",
+    "numeric_value": 100,
+    "currency": {
+      "id": 209,
+      "name": "Cruzeiro",
+      "full_name": "Cruzeiro (1990-1993)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1993-00-00"
+  },
+  "size": 18,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Date left of the denomination.",
+    "lettering": "BRASIL\r\n1993 100 \r\ncruzeiros",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Brazil\r\n1993 100\r\nCruzeiros",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/62bf86f5a54ee7.21879434-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/62bf86f5a54ee7.21879434-180.jpg",
+    "picture_copyright": "Ben-jamin",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "reverse": {
+    "description": "Manatee below its local name peixe-boi. Probably the Amazon manatee (Trichechus inunguis) because of his wrinkled appearance, it lives exclusively in freshwater. The West Indian manatee (T. manatus) is found down to the coasts of Brazil and the Amazon Estuary.",
+    "lettering": "PEIXE-BOI",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bresil/62bf86f6219496.12670320-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/62bf86f6219496.12670320-180.jpg",
+    "picture_copyright": "Ben-jamin",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "tags": [
+    "Marine mammal"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "623"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "132"
+    }
+  ],
+  "weight": 2.38,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 1335,
+      "name": "Mint of Brazil"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

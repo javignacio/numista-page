@@ -1,0 +1,106 @@
+{
+  "id": 1078,
+  "url": "https://en.numista.com/1078",
+  "title": "1 Dollar (Heptagonal)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "jamaique",
+    "name": "Jamaica"
+  },
+  "min_year": 1994,
+  "max_year": 2008,
+  "ruler": [
+    {
+      "id": 2931,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 828,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Dollar",
+    "numeric_value": 1,
+    "currency": {
+      "id": 50,
+      "name": "Dollar",
+      "full_name": "Dollar (1969-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 18.5,
+  "thickness": 1.6,
+  "shape": "Equilateral curve heptagon (7-sided)",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms of Jamaica.",
+    "lettering": "JAMAICA\r\nOUT OF MANY, ONE PEOPLE\r\nONE DOLLAR 1999",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/jamaique/698-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/jamaique/698-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "reverse": {
+    "description": "Bust of Alexander Bustamante facing forward, legend around.",
+    "lettering": "THE RT. EXCELLENT SIR ALEXANDER BUSTAMANTE \r\nNATIONAL HERO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/jamaique/699-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/jamaique/699-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "series": "1994 series",
+  "comments": "<p>Sir Alexander Bustamante was the first Prime Minister of Jamaica.</p><p>&nbsp;</p><p>In 2000 a Brilliant Uncirculated set was issued to commemorate the 40th Anniversary of The Bank of Jamaica.</p><p><a href=\"https://en.numista.com/catalogue/images/6584b52342e82.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6584b52342e82.jpg\"></a></p><p>&nbsp;</p><p>Two main types are known.</p><p><i>Reverse</i><br>Type <strong>A</strong> - squat font to bottom line, narrow R far from A in DOLLAR.<br>Type <strong>B</strong> - high font to bottom line, wide R near A in DOLLAR.<br>Picture: © Images courtesy of Alexandr Prokofyev.</p><p><a href=\"https://en.numista.com/catalogue/images/6698f1182cfd5.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6698f1182cfd5.jpg\"></a></p><p>&nbsp;</p><p><i>Combinations</i></p><p><strong>A</strong>: 1994-1996, 1999, 2003, 2005.<br><strong>B</strong>: 2006, 2008.</p>",
+  "tags": [
+    "Coat of Arms",
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "164"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "128"
+    }
+  ],
+  "weight": 2.9,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

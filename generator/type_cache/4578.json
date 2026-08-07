@@ -1,0 +1,133 @@
+{
+  "id": 4578,
+  "url": "https://en.numista.com/4578",
+  "title": "10 Kopecks (magnetic; smooth edge)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "russie",
+    "name": "Russian Federation (1991-date)"
+  },
+  "issuing_entity": {
+    "id": 937,
+    "name": "Central Bank of Russia",
+    "wikidata_id": "Q806651"
+  },
+  "min_year": 2006,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 1573,
+      "name": "Russian Federation",
+      "wikidata_id": "Q159"
+    }
+  ],
+  "value": {
+    "text": "10 Kopecks",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 169,
+      "name": "Rouble",
+      "full_name": "Rouble (1998-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 17.5,
+  "thickness": 1.25,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass clad steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Alexander Vasilyevich Baklanov"
+    ],
+    "designers": [
+      "Alexander Vasilyevich Baklanov"
+    ],
+    "description": "In the centre — the relief image of Saint George the Warrior on horseback killing a serpent with a spear;\r\n•\tto the right below, under the front hoof of the horse — the Cyrillic letters М (Moscow) or С-П (Saint Petersburg), indicating the mint-producer;\r\n•\tabove from the left to the right — the inscription along the rim: “БАНК РОССИИ” (BANK OF RUSSIA) divided by the figure of Saint George the Warrior;\r\n•\tbelow under the image of the serpent — the year of mintage.",
+    "lettering": "БАНК РОССИИ\r\nМ\r\n2007",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "Bank of Russia",
+    "picture": "https://en.numista.com/catalogue/photos/russie/6374-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/russie/6374-180.jpg",
+    "picture_copyright": "M@verick"
+  },
+  "reverse": {
+    "engravers": [
+      "Alexander Vasilyevich Baklanov"
+    ],
+    "designers": [
+      "Alexander Vasilyevich Baklanov"
+    ],
+    "description": "In the centre, a little to the right — the denomination of the coin: the figure 10, under it — the word “КОПЕЕК” (KOPECKS) written horizontal;\r\n at the bottom of the disc — the stylized vegetable ornament in form of two branches.",
+    "lettering": "10\r\nКОПЕЕК",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "Kopecks",
+    "picture": "https://en.numista.com/catalogue/photos/russie/6375-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/russie/6375-180.jpg",
+    "picture_copyright": "M@verick"
+  },
+  "comments": "Two types of this coin exists.<br /><br />\r\nType 1 (2006—2014): steel base clad with tombac (90% Cu, 10% Zn) on obverse and reverse side. Edge is partially covered, with steel base visible. Colour of the coin is bronze.<br /><br />\r\nType 2 (2014—2015): steel base electroplated with brass (75% Cu, 25% Zn). Both sides and edge are fully covered, steel base is not visible. Colour of the coin is yellow.<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/58d37ad438f1b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/58d37ad438f1b.jpg\" alt=\"\" width=\"200\" height=\"138\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5acb440c70284.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5acb440c70284.jpg\" alt=\"\" width=\"200\" height=\"179\" /></a><br /><br />\r\nDesign varieties exist. More details available here:<br />\r\n<a href=\"https://vse-monety.ru/katalog-a-stashkina-10-kopeek-1997-2015-gg\" rel=\"nofollow\">https://vse-monety.ru/katalog-a-stashkina-10-kopeek-1997-2015-gg</a>",
+  "related_types": [
+    {
+      "id": 1728,
+      "title": "10 Kopecks (non-magnetic; reeded edge)",
+      "category": "coin",
+      "country": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "minYear": 1997,
+      "maxYear": 2006
+    }
+  ],
+  "tags": [
+    "Fantasy animal",
+    "Horse or equine"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "602a"
+    }
+  ],
+  "weight": 1.85,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/russie/695b5b9484bcb8.55252523-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/russie/695b5b9484bcb8.55252523-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 6,
+      "name": "Moscow Mint"
+    },
+    {
+      "id": 7,
+      "name": "Saint Petersburg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

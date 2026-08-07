@@ -1,0 +1,185 @@
+{
+  "id": 5156,
+  "url": "https://en.numista.com/5156",
+  "title": "1 Guaraní (FAO)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "paraguay",
+    "name": "Paraguay"
+  },
+  "issuing_entity": {
+    "id": 935,
+    "name": "Central Bank of Paraguay",
+    "wikidata_id": "Q4504275"
+  },
+  "min_year": 1993,
+  "max_year": 1993,
+  "ruler": [
+    {
+      "id": 4650,
+      "name": "Republic",
+      "wikidata_id": "Q733"
+    }
+  ],
+  "value": {
+    "text": "1 Guaraní",
+    "numeric_value": 1,
+    "currency": {
+      "id": 87,
+      "name": "Guarani",
+      "full_name": "Guarani (1944-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2014-01-17"
+  },
+  "size": 15,
+  "thickness": 1.25,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Name of the country, soldier 3/4 facing and year of issue below",
+    "lettering": "REPUBLICA DEL PARAGUAY\r\nSOLDADO PARAGUAYO\r\n1993",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Paraguay\r\nParaguayan soldier",
+    "picture": "https://en.numista.com/catalogue/photos/paraguay/605cde730290f1.98205078-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/paraguay/605cde730290f1.98205078-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "reverse": {
+    "description": "Soy plant and value",
+    "lettering": "ALIMENTOS PARA EL MUNDO\r\n1 GUARANI",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Food for the world",
+    "picture": "https://en.numista.com/catalogue/photos/paraguay/605cde73737c99.91437720-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/paraguay/605cde73737c99.91437720-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "commemorated_topic": "F.A.O.",
+  "related_types": [
+    {
+      "id": 283379,
+      "title": "1 Guaraní (Copper Pattern)",
+      "category": "coin",
+      "country": {
+        "code": "paraguay",
+        "name": "Paraguay"
+      },
+      "minYear": 1974,
+      "maxYear": 1974
+    },
+    {
+      "id": 283402,
+      "title": "1 Guaraní (Aluminium Pattern)",
+      "category": "coin",
+      "country": {
+        "code": "paraguay",
+        "name": "Paraguay"
+      },
+      "minYear": 1974,
+      "maxYear": 1974
+    },
+    {
+      "id": 827,
+      "title": "1 Guaraní",
+      "category": "coin",
+      "country": {
+        "code": "paraguay",
+        "name": "Paraguay"
+      },
+      "minYear": 1975,
+      "maxYear": 1976
+    },
+    {
+      "id": 173634,
+      "title": "1 Guaraní (Gold)",
+      "category": "coin",
+      "country": {
+        "code": "paraguay",
+        "name": "Paraguay"
+      },
+      "minYear": 1976,
+      "maxYear": 1976
+    },
+    {
+      "id": 173895,
+      "title": "1 Guaraní (Gold FAO)",
+      "category": "coin",
+      "country": {
+        "code": "paraguay",
+        "name": "Paraguay"
+      },
+      "minYear": 1978,
+      "maxYear": 1980
+    },
+    {
+      "id": 4972,
+      "title": "1 Guaraní (FAO)",
+      "category": "coin",
+      "country": {
+        "code": "paraguay",
+        "name": "Paraguay"
+      },
+      "minYear": 1978,
+      "maxYear": 1988
+    }
+  ],
+  "tags": [
+    "Agriculture",
+    "FAO",
+    "War"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "192"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "190"
+    }
+  ],
+  "weight": 1.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/paraguay/5f5038d984ff33.66777990-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/paraguay/5f5038d984ff33.66777990-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

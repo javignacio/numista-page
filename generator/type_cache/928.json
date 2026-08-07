@@ -1,0 +1,113 @@
+{
+  "id": 928,
+  "url": "https://en.numista.com/928",
+  "title": "10 Centavos (INTUR - large \"10\")",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "cuba",
+    "name": "Cuba"
+  },
+  "min_year": 1981,
+  "max_year": 1981,
+  "ruler": [
+    {
+      "id": 4118,
+      "name": "Second Republic",
+      "wikidata_id": "Q241"
+    }
+  ],
+  "value": {
+    "text": "10 Centavos",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 5358,
+      "name": "INTUR",
+      "full_name": "INTUR (visitor's coinage, 1981-1989)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2001-10-15"
+  },
+  "size": 21.3,
+  "thickness": 1.65,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Zunzún (Hummingbird), date below.",
+    "lettering": "INSTITUTO NACIONAL DE TURISMO \r\n• 1981 • CUBA •",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "National Institute of Tourism\r\n1981 Cuba",
+    "picture": "https://en.numista.com/catalogue/photos/cuba/15-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/cuba/15-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Logo of the National Institute of Tourism (\"INTUR\") featuring a Real Palmtree; with face value as numerals on right and in words on bottom.",
+    "lettering": "10\r\nINTUR\r\nDIEZ CENTAVOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/cuba/16-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/cuba/16-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "Zunzún is the smallest hummingbird in the world, also known as &quot;pájaro mosca&quot; (fly bird), only 63 mm (2 1/2&quot;). Name comes from the sound of their wings when flying.<br />\r\nThere are about 300 species of hummingbirds at Cuba, and in spite Zunzún is not scarce, is hard to see, cause lives on deep forest, and usually avoids contact with humans.",
+  "related_types": [
+    {
+      "id": 10229,
+      "title": "10 Centavos (INTUR)",
+      "category": "coin",
+      "country": {
+        "code": "cuba",
+        "name": "Cuba"
+      },
+      "minYear": 1981,
+      "maxYear": 1981
+    }
+  ],
+  "tags": [
+    "Bird"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "415.1"
+    },
+    {
+      "catalogue": {
+        "id": 984,
+        "code": "JMA"
+      },
+      "number": "MC9"
+    }
+  ],
+  "weight": 4.05,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

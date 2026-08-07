@@ -1,0 +1,107 @@
+{
+  "id": 955,
+  "url": "https://en.numista.com/955",
+  "title": "10 Pesos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "argentine",
+    "name": "Argentina"
+  },
+  "min_year": 1962,
+  "max_year": 1968,
+  "ruler": [
+    {
+      "id": 3983,
+      "name": "Federal Republic",
+      "wikidata_id": "Q414"
+    }
+  ],
+  "value": {
+    "text": "10 Pesos",
+    "numeric_value": 10,
+    "currency": {
+      "id": 261,
+      "name": "Peso moneda nacional",
+      "full_name": "Peso moneda nacional (1881-1969)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1970-01-01"
+  },
+  "size": 23,
+  "thickness": 1.8,
+  "shape": "Dodecagonal (12-sided)",
+  "composition": {
+    "text": "Nickel clad steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The statue of \"El Gaucho Resero\" (The Gaucho Herdsman), depicting a man riding a horse",
+    "lettering": "REPUBLICA ARGENTINA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Argentina",
+    "picture": "https://en.numista.com/catalogue/photos/argentine/64421f76c762e9.80814608-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/64421f76c762e9.80814608-180.jpg",
+    "picture_copyright": "Numismatica Quetzalcoatl",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "A laurel branch to the left of the value and year, with the value above",
+    "lettering": "10\r\nPESOS\r\n1963",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/argentine/64421f7755d303.34219744-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/64421f7755d303.34219744-180.jpg",
+    "picture_copyright": "Numismatica Quetzalcoatl",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/5e8cae7f84d53.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e8cae7f84d53.jpg\" alt=\"\" width=\"200\" height=\"162\" /></a><br />\r\nSource: Wikimedia",
+  "tags": [
+    "Horse or equine"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "60"
+    },
+    {
+      "catalogue": {
+        "id": 160,
+        "code": "CJ"
+      },
+      "number": "281-287"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "60"
+    }
+  ],
+  "weight": 4.9,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

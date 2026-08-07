@@ -1,0 +1,144 @@
+{
+  "id": 1955,
+  "url": "https://en.numista.com/1955",
+  "title": "50 Pfennigs (Bank of German States)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "allemagne",
+    "name": "Germany, Federal Republic of"
+  },
+  "issuing_entity": {
+    "id": 1042,
+    "name": "Bank of German States",
+    "wikidata_id": "Q205736"
+  },
+  "min_year": 1949,
+  "max_year": 1950,
+  "ruler": [
+    {
+      "id": 2860,
+      "name": "Federal Republic",
+      "wikidata_id": "Q183"
+    }
+  ],
+  "value": {
+    "text": "50 Pfennigs",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 131,
+      "name": "Deutsche Mark",
+      "full_name": "Deutsche Mark (1948-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2001-12-31"
+  },
+  "size": 20,
+  "thickness": 1.58,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "A woman planting an oak, symbol of Germany's rebirth after the war",
+    "lettering": "1949",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/allemagne/259-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/259-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Richard M. Werner",
+      "Oberursel"
+    ],
+    "description": "The mintmark below the denomination",
+    "lettering": "50 PFENNIG\r\nF\r\nBANK DEUTSCHER LÄNDER",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "50 Pfennig\r\nF\r\nBank of German States",
+    "picture": "https://en.numista.com/catalogue/photos/allemagne/260-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/260-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "D-Munich<br />\r\nF-Stuttgart<br />\r\nG-Karlsruhe<br />\r\nJ-Hamburg",
+  "related_types": [
+    {
+      "id": 847,
+      "title": "50 Pfennigs",
+      "category": "coin",
+      "country": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+      },
+      "minYear": 1949,
+      "maxYear": 2001
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "104"
+    },
+    {
+      "catalogue": {
+        "id": 80,
+        "code": "J"
+      },
+      "number": "379"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "102"
+    }
+  ],
+  "weight": 3.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 1,
+      "name": "Munich"
+    },
+    {
+      "id": 2,
+      "name": "Staatliche Münze Baden-Württemberg"
+    },
+    {
+      "id": 3,
+      "name": "Staatliche Münze Baden-Württemberg"
+    },
+    {
+      "id": 4,
+      "name": "Hamburgische Münze"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,170 @@
+{
+  "id": 1075,
+  "url": "https://en.numista.com/1075",
+  "title": "10 Fillér",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "hongrie",
+    "name": "Hungary"
+  },
+  "min_year": 1967,
+  "max_year": 1989,
+  "ruler": [
+    {
+      "id": 1800,
+      "name": "People's Republic",
+      "wikidata_id": "Q16410"
+    }
+  ],
+  "value": {
+    "text": "10 Fillér",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 71,
+      "name": "Forint",
+      "full_name": "Forint (1946-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 18.5,
+  "thickness": 1.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium (Aluminium 97%, Magnesium 3%)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Dove carrying an olive branch, date",
+    "lettering": "MAGYAR NÉPKÖZTÁRSASÁG ·\r\n1989",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Hungarian People's Republic",
+    "picture": "https://en.numista.com/catalogue/photos/hongrie/1450-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hongrie/1450-180.jpg",
+    "picture_copyright": "HOOK"
+  },
+  "reverse": {
+    "description": "Denomination and mintmark",
+    "lettering": "10\r\nFILLÉR\r\nBP.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/hongrie/1451-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hongrie/1451-180.jpg",
+    "picture_copyright": "HOOK"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/5de8ef36ef82b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5de8ef36ef82b.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nsame design, but<br />\r\nKM#<span style=\"font-weight:bold;\">547</span> aluminium 10 Filler 1950-1966 has <span style=\"font-weight:bold;\">0.85</span>g weight, diameter <span style=\"font-weight:bold;\">19.2</span> mm and thickness of 1.25 mm<br />\r\nKM#<span style=\"font-weight:bold;\">572</span> aluminium 10 Filler 1967-1989 has <span style=\"font-weight:bold;\">0.60</span>g weight, diameter <span style=\"font-weight:bold;\">18.5</span> mm and thickness of 1.15 mm",
+  "related_types": [
+    {
+      "id": 35742,
+      "title": "10 Fillér",
+      "category": "coin",
+      "country": {
+        "code": "hongrie",
+        "name": "Hungary"
+      },
+      "minYear": 1950,
+      "maxYear": 1950
+    },
+    {
+      "id": 1997,
+      "title": "10 Fillér",
+      "category": "coin",
+      "country": {
+        "code": "hongrie",
+        "name": "Hungary"
+      },
+      "minYear": 1950,
+      "maxYear": 1966
+    },
+    {
+      "id": 11113,
+      "title": "10 Fillér (Set Issue)",
+      "category": "coin",
+      "country": {
+        "code": "hongrie",
+        "name": "Hungary"
+      },
+      "minYear": 1966,
+      "maxYear": 1967
+    },
+    {
+      "id": 4057,
+      "title": "10 Fillér",
+      "category": "coin",
+      "country": {
+        "code": "hongrie",
+        "name": "Hungary"
+      },
+      "minYear": 1990,
+      "maxYear": 1996
+    }
+  ],
+  "tags": [
+    "Bird"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "572"
+    },
+    {
+      "catalogue": {
+        "id": 14,
+        "code": "ÉH"
+      },
+      "number": "1595"
+    },
+    {
+      "catalogue": {
+        "id": 16,
+        "code": "H"
+      },
+      "number": "2336"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "51a"
+    },
+    {
+      "catalogue": {
+        "id": 360,
+        "code": "Adamo"
+      },
+      "number": "F3.2"
+    }
+  ],
+  "weight": 0.6,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/hongrie/61581bfc2aea83.10658323-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hongrie/61581bfc2aea83.10658323-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 1248,
+      "name": "Hungarian mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

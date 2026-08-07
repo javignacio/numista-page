@@ -1,0 +1,147 @@
+{
+  "id": 2844,
+  "url": "https://en.numista.com/2844",
+  "title": "1 Peso (large issue)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "chili",
+    "name": "Chile"
+  },
+  "min_year": 1978,
+  "max_year": 1979,
+  "ruler": [
+    {
+      "id": 3299,
+      "name": "Republic",
+      "wikidata_id": "Q298"
+    }
+  ],
+  "value": {
+    "text": "1 Peso",
+    "numeric_value": 1,
+    "currency": {
+      "id": 146,
+      "name": "Peso",
+      "full_name": "Peso (1975-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24,
+  "thickness": 1.63,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze (92% Copper, 6% Aluminium, 2% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "René Thénot"
+    ],
+    "description": "Portrait of Bernardo O'Higgins to the right",
+    "lettering": "REPUBLICA DE CHILE\r\nSo\r\nLIBERTADOR\r\nB. O'HIGGINS\r\nR.THENOT",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Chile\r\nSo\r\nLiberator\r\nB. O´Higgins",
+    "picture": "https://en.numista.com/catalogue/photos/chili/1007-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/1007-180.jpg",
+    "picture_copyright": "Quodlibet"
+  },
+  "reverse": {
+    "description": "Value within Laurel Wreath",
+    "lettering": "1\r\nPESO\r\n1978",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chili/1008-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/1008-180.jpg",
+    "picture_copyright": "Quodlibet"
+  },
+  "related_types": [
+    {
+      "id": 6815,
+      "title": "1 Peso (\"BERNARDO O'HIGGINS\")",
+      "category": "coin",
+      "country": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "minYear": 1975,
+      "maxYear": 1975
+    },
+    {
+      "id": 2301,
+      "title": "1 Peso (\"LIBERTADOR B. O'HIGGINS\")",
+      "category": "coin",
+      "country": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "minYear": 1976,
+      "maxYear": 1977
+    },
+    {
+      "id": 5426,
+      "title": "1 Peso (small issue)",
+      "category": "coin",
+      "country": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "minYear": 1981,
+      "maxYear": 1992
+    },
+    {
+      "id": 1866,
+      "title": "1 Peso",
+      "category": "coin",
+      "country": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "minYear": 1992,
+      "maxYear": 2015
+    }
+  ],
+  "tags": [
+    "Military leader",
+    "Politician",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "208a"
+    }
+  ],
+  "weight": 5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/chili/6521ce928c8948.25613291-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/6521ce928c8948.25613291-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

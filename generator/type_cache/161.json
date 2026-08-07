@@ -1,0 +1,164 @@
+{
+  "id": 161,
+  "url": "https://en.numista.com/161",
+  "title": "1 Rappen (Wreath; bronze)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "suisse",
+    "name": "Switzerland (1848-date)"
+  },
+  "min_year": 1850,
+  "max_year": 1941,
+  "ruler": [
+    {
+      "id": 2857,
+      "name": "Federal State",
+      "wikidata_id": "Q355857"
+    }
+  ],
+  "value": {
+    "text": "1 Rappen",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 82,
+      "name": "Franc",
+      "full_name": "Franc (1850-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1952-02-01"
+  },
+  "size": 16,
+  "thickness": 1.1,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze (95% copper, 4% tin, 1% zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Jacques-Jean Barre"
+    ],
+    "designers": [
+      "Alexander Hutter"
+    ],
+    "description": "Coat of arms of Switzerland on ornate shield. Oak branch to the right. Laurel branch to the left. Hat with feather above.",
+    "lettering": "HELVETIA\r\n1863",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/suisse/63b577d9924fa6.29921437-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suisse/63b577d9924fa6.29921437-180.jpg",
+    "picture_copyright": "1925collection",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Jacques-Jean Barre"
+    ],
+    "designers": [
+      "Alexander Hutter"
+    ],
+    "description": "Wreath with two laurel branches tied with a ribbon below.",
+    "lettering": "1\r\nB",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/suisse/63b577daaab0e1.99252659-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suisse/63b577daaab0e1.99252659-180.jpg",
+    "picture_copyright": "1925collection",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "series": "Coat of arms series",
+  "comments": "<p><i><u>Three varieties for this type are known:</u></i><br><br>1) <strong>Paris mint</strong> variety:<br><i>Mintmark:</i> A<br><i>Mint master:</i> Charles-Louis Dierick (1845-1860)<br><i>Mint master's mark:</i> hand at lower left<br><img src=\"https://en.numista.com/catalogue/images/5c233b4d47cfc.jpg\" alt=\"\"><br><i>Chief engraver:</i> Jacques-Jean Barre (1843-1855)<br><i>Engraver's mark:</i> greyhound head at lower right<br><img src=\"https://en.numista.com/catalogue/images/5c233b6209468.jpg\" alt=\"\"><br><a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.numista.com/catalogue/images/60410e9eba13d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/60410e9eba13d.jpg\" alt=\"\"></a><br>© <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.lugdunum-numismatik.com/\">Lugdunum Gmbh</a><br><br>2) <strong>Thick cross</strong> variety:<br><i>Mintmark:</i> B<br><a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.numista.com/catalogue/images/6040ee372e406.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6040ee372e406.jpg\" alt=\"\"></a><br>© <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"http://www.ha.com/\">Heritage Auctions</a><br><br>3) <strong>Thin cross</strong> variety:<br><i>Mintmark:</i> B<br><a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.numista.com/catalogue/images/6040ee2bbf024.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6040ee2bbf024.jpg\" alt=\"\"></a><br>© <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.sincona.com/\">Sincona AG</a><br><br><i><u>Some coins with overdate 1925/1924 exist:</u></i><br><a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.numista.com/catalogue/images/630c639b2c7e8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/630c639b2c7e8.jpg\" alt=\"\"></a></p>",
+  "related_types": [
+    {
+      "id": 162,
+      "title": "1 Rappen (Wreath; zinc)",
+      "category": "coin",
+      "country": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "minYear": 1942,
+      "maxYear": 1946
+    }
+  ],
+  "tags": [
+    "Coat of Arms",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "3"
+    },
+    {
+      "catalogue": {
+        "id": 962,
+        "code": "Divo/Tob19"
+      },
+      "number": "326"
+    },
+    {
+      "catalogue": {
+        "id": 1253,
+        "code": "HMZ 2"
+      },
+      "number": "1215"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "15"
+    },
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "18"
+    },
+    {
+      "catalogue": {
+        "id": 1015,
+        "code": "Kahnt/Schön"
+      },
+      "number": "1"
+    }
+  ],
+  "weight": 1.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    },
+    {
+      "id": 247,
+      "name": "Bern"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

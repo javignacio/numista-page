@@ -1,0 +1,98 @@
+{
+  "id": 9378,
+  "url": "https://en.numista.com/9378",
+  "title": "5 Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "chili",
+    "name": "Chile"
+  },
+  "min_year": 1908,
+  "max_year": 1919,
+  "ruler": [
+    {
+      "id": 3299,
+      "name": "Republic",
+      "wikidata_id": "Q298"
+    }
+  ],
+  "value": {
+    "text": "5 Centavos",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 237,
+      "name": "Peso",
+      "full_name": "Peso (1835-1959)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 14.5,
+  "thickness": 0.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Billon (.400 silver)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Defiant Condor on rock left.",
+    "lettering": "REPUBLICA DE CHILE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chili/698629780ab7f9.89089386-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/698629780ab7f9.89089386-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "reverse": {
+    "description": "Denomination above date within wreath.",
+    "lettering": "So\r\nCINCO\r\nCENTAVOS\r\n1913",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chili/6986297a3ce8f9.61058768-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/6986297a3ce8f9.61058768-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "tags": [
+    "Bird",
+    "Hammer and sickle"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "155.2a"
+    }
+  ],
+  "weight": 1,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/chili/6608bb496c1ec3.23540180-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/6608bb496c1ec3.23540180-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

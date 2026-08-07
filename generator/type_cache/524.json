@@ -1,0 +1,136 @@
+{
+  "id": 524,
+  "url": "https://en.numista.com/524",
+  "title": "5 Groszy (non-magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "pologne",
+    "name": "Poland"
+  },
+  "min_year": 1990,
+  "max_year": 2014,
+  "ruler": [
+    {
+      "id": 3739,
+      "name": "Third Republic",
+      "wikidata_id": "Q1259201"
+    }
+  ],
+  "value": {
+    "text": "5 Groszys",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 200,
+      "name": "Fourth Zloty",
+      "full_name": "Fourth Zloty (1995-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 19.5,
+  "thickness": 1.3,
+  "shape": "Round",
+  "composition": {
+    "text": "Manganese brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Stanisława Wątróbska-Frindt"
+    ],
+    "description": "The white eagle, the emblem of Poland which is depicted on its coats of arms, surrounded with the name of the country, and the date at the bottom",
+    "lettering": "RZECZPOSPOLITA POLSKA\r\nmw\r\n• 1991 •",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Poland\r\nMW\r\n1991",
+    "picture": "https://en.numista.com/catalogue/photos/pologne/5ebaafe3130864.47955265-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pologne/5ebaafe3130864.47955265-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "reverse": {
+    "designers": [
+      "Ewa Tyc-Karpińska"
+    ],
+    "description": "The face value accompanied by five oak leaves",
+    "lettering": "5 GROSZY",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/pologne/5ebaafe3633550.91025555-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pologne/5ebaafe3633550.91025555-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "related_types": [
+    {
+      "id": 61644,
+      "title": "5 Groszy (magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "minYear": 2013,
+      "maxYear": 2025
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "278"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "284"
+    },
+    {
+      "catalogue": {
+        "id": 165,
+        "code": "ParM"
+      },
+      "number": "703"
+    },
+    {
+      "catalogue": {
+        "id": 166,
+        "code": "Fischer Po"
+      },
+      "number": "OB126"
+    }
+  ],
+  "weight": 2.59,
+  "orientation": "medal",
+  "edge": {
+    "description": "Milled and plain alternately (four each)",
+    "picture": "https://en.numista.com/catalogue/photos/pologne/5ebaafe3b09d51.21122552-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pologne/5ebaafe3b09d51.21122552-180.jpg",
+    "picture_copyright": "Narodowy Bank Polski",
+    "picture_copyright_url": "http://www.nbp.pl"
+  },
+  "mints": [
+    {
+      "id": 27,
+      "name": "Mint of Poland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

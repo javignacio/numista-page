@@ -1,0 +1,145 @@
+{
+  "id": 9238,
+  "url": "https://en.numista.com/9238",
+  "title": "1 Afghani",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "afghanistan",
+    "name": "Afghanistan"
+  },
+  "issuing_entity": {
+    "id": 557,
+    "name": "Da Afghanistan Bank (Bank of Afghanistan)",
+    "wikidata_id": "Q1156372"
+  },
+  "min_year": 2004,
+  "max_year": 2005,
+  "ruler": [
+    {
+      "id": 2837,
+      "name": "Islamic Republic",
+      "wikidata_id": "Q30747910"
+    }
+  ],
+  "value": {
+    "text": "1 Afghani",
+    "numeric_value": 1,
+    "currency": {
+      "id": 1,
+      "name": "Second Afghani",
+      "full_name": "Second Afghani (2003-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2005-04-11"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 20,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms of Afghanistan adopted in 2002 consisting in a mosque with two Afghan flags. Inside the mosque, some steps which guide to the mehrab with a prayer rug inside. Surrounding the mosque, sheaves of wheat linked with a sunrise and the date of Afghanistan's independence (1298 / ۱۲۹۸) according to the Persian calendar. In the bottom, a ribbon with the name of the country in Pashto.",
+    "lettering": "١٢٩٨ هـ ش\r\nافغانستان",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "1298\r\nAfghanistan",
+    "picture": "https://en.numista.com/catalogue/photos/afghanistan/5fcd5ecc1138c7.44868359-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/afghanistan/5fcd5ecc1138c7.44868359-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Face value",
+    "lettering": "د افغانستان بانک\r\n۱\r\nیوة افغانی\r\n۱۳۸۳",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "Bank of Afghanistan\r\n1\r\nOne Afghani\r\n1383",
+    "picture": "https://en.numista.com/catalogue/photos/afghanistan/5fcd5ecc798821.45160781-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/afghanistan/5fcd5ecc798821.45160781-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p>Distributed in mint rolls of 50 AFG each:</p><p><br><img src=\"https://s3-ap-southeast-1.amazonaws.com/mint-product-img/18.jpg\" alt=\"Buy Afghanistan 1 Afghani Mint Roll 50 Coins Online | Mintage World\"></p>",
+  "related_types": [
+    {
+      "id": 9239,
+      "title": "2 Afghanis",
+      "category": "coin",
+      "country": {
+        "code": "afghanistan",
+        "name": "Afghanistan"
+      },
+      "minYear": 2004,
+      "maxYear": 2005
+    },
+    {
+      "id": 9240,
+      "title": "5 Afghanis",
+      "category": "coin",
+      "country": {
+        "code": "afghanistan",
+        "name": "Afghanistan"
+      },
+      "minYear": 2004,
+      "maxYear": 2005
+    }
+  ],
+  "tags": [
+    "Religious building",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1044"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "150"
+    }
+  ],
+  "weight": 3.25,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/afghanistan/697641e3079537.09305786-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/afghanistan/697641e3079537.09305786-180.jpg",
+    "picture_copyright": "Julio Vega",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

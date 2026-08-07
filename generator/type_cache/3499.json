@@ -1,0 +1,98 @@
+{
+  "id": 3499,
+  "url": "https://en.numista.com/3499",
+  "title": "½ Chon (FAO)",
+  "object_type": {
+    "id": 3,
+    "name": "Non-circulating coins"
+  },
+  "issuer": {
+    "code": "coree_du_nord",
+    "name": "North Korea"
+  },
+  "min_year": 2002,
+  "max_year": 2002,
+  "ruler": [
+    {
+      "id": 2285,
+      "name": "Democratic People's Republic",
+      "wikidata_id": "Q423"
+    }
+  ],
+  "value": {
+    "text": "½ Chon",
+    "numeric_value": 0.005,
+    "currency": {
+      "id": 195,
+      "name": "Second Won",
+      "full_name": "Second Won (1959-2009)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 27.02,
+  "thickness": 1.9,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "National Coat of Arms, date below",
+    "lettering": "조선민주주의인민공화국중앙은행\r\n2002",
+    "lettering_scripts": [
+      {
+        "name": "Hangul"
+      }
+    ],
+    "lettering_translation": "Central Bank of the Democratic People's Republic of Korea",
+    "picture": "https://en.numista.com/catalogue/photos/coree_du_nord/403-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/coree_du_nord/403-180.jpg",
+    "picture_copyright": "gef"
+  },
+  "reverse": {
+    "description": "Ancient sailboat",
+    "lettering": "XXI CENTURY FAO FOOD SECURITY \r\n½\r\n전",
+    "lettering_scripts": [
+      {
+        "name": "Hangul"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "½ Chon",
+    "picture": "https://en.numista.com/catalogue/photos/coree_du_nord/404-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/coree_du_nord/404-180.jpg",
+    "picture_copyright": "gef"
+  },
+  "commemorated_topic": "FAO - Food Security Series - Viking Ship",
+  "tags": [
+    "FAO",
+    "Boat or watercraft"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "191"
+    }
+  ],
+  "weight": 2.16,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/coree_du_nord/658cc6da992c04.10491889-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/coree_du_nord/658cc6da992c04.10491889-180.jpg",
+    "picture_copyright": "Julio Vega",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "category": "coin",
+  "type": "Non-circulating coins"
+}

@@ -1,0 +1,128 @@
+{
+  "id": 23736,
+  "url": "https://en.numista.com/23736",
+  "title": "½ Sovereign - Victoria (1st portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1838,
+  "max_year": 1885,
+  "ruler": [
+    {
+      "id": 270,
+      "name": "Victoria",
+      "wikidata_id": "Q9439",
+      "nomisma_id": "queen_victoria",
+      "group": {
+        "id": 525,
+        "name": "House of Hanover"
+      }
+    }
+  ],
+  "value": {
+    "text": "½ Sovereign",
+    "numeric_value": 0.5,
+    "numerator": 1,
+    "denominator": 2,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1971)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 19.3,
+  "shape": "Round",
+  "composition": {
+    "text": "Gold (.9167)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "William Wyon"
+    ],
+    "description": "Young uncrowned portrait of Queen Victoria left, legend around, date below.",
+    "lettering": "VICTORIA DEI GRATIA\r\n1839",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Victoria by the Grace of God",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/2940-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/2940-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "engravers": [
+      "Jean Baptiste Merlen"
+    ],
+    "description": "Crowned quartered shield of arms, legend around.",
+    "lettering": "BRITANNIARUM REGINA FID: DEF:",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Queen of the Britains Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/2941-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/2941-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "The standard weight of a half sovereign was 80/623 troy ounce (61.6 grains). The pure gold content was 56 312/623 grains (3.6612 g).<br /><br />\r\nNumerous obverse, reverse and overdate varieties exist (Spink lists 10). Between 1863 and 1880 gold coins issued by the Royal Mint for circulation in the UK and its possessions had a die number inscribed on the reverse under the wreath:<br /><br />\r\n<span style=\"font-weight:bold;\">KM#735.1</span> <span style=\"font-style:italic;\">without die number</span><br />\r\n<span style=\"font-weight:bold;\">KM#735.2</span> <span style=\"font-style:italic;\">with die number</span><br /><br />\r\nNote: For issues with mintmark below the shield see <a href=\"https://en.numista.com/catalogue/australia_colonial-1.html\">Australia</a> (M = Melbourne mint, S = Sydney mint).",
+  "related_types": [
+    {
+      "id": 24197,
+      "title": "½ Sovereign - Victoria",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 1871,
+      "maxYear": 1887
+    }
+  ],
+  "tags": [
+    "Cat or feline",
+    "Crown",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "735"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "3859-61"
+    }
+  ],
+  "weight": 3.99,
+  "orientation": "coin",
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

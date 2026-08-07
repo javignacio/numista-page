@@ -1,0 +1,116 @@
+{
+  "id": 1437,
+  "url": "https://en.numista.com/1437",
+  "title": "50 Øre - Haakon VII",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "norvege",
+    "name": "Norway"
+  },
+  "min_year": 1953,
+  "max_year": 1957,
+  "ruler": [
+    {
+      "id": 449,
+      "name": "Haakon VII",
+      "wikidata_id": "Q154927",
+      "group": {
+        "id": 358,
+        "name": "House of Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "50 Øre",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 16,
+      "name": "Krone",
+      "full_name": "Krone (1875-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 22,
+  "thickness": 1.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% copper, 25% nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Øivind Hansen"
+    ],
+    "description": "Crowned monogram of Haakon VII. Surrounded by inscription. Mintmark below monogram. Beaded ring on the rim.",
+    "lettering": "HAAKON DEN SJUENDE NORGES KONGE\r\nH7\r\n⚒",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Haakon the Seventh, King of Norway",
+    "picture": "https://en.numista.com/catalogue/photos/norvege/64cab1c5e84d96.78190123-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/64cab1c5e84d96.78190123-180.jpg",
+    "picture_copyright": "Elvi75"
+  },
+  "reverse": {
+    "designers": [
+      "Øivind Hansen"
+    ],
+    "description": "Crowned shield with a crowned norwegian lion holding a halberd and facing left. Inscription above the crown. Value below the shield. Date divided by shield. Beaded ring on the rim.",
+    "lettering": "NORGE\r\n19 | 53\r\n50 ØRE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Norway",
+    "picture": "https://en.numista.com/catalogue/photos/norvege/64cab1c6cd4197.69288273-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/64cab1c6cd4197.69288273-180.jpg",
+    "picture_copyright": "Elvi75"
+  },
+  "comments": "<p>1953 variants</p><p><a href=\"https://en.numista.com/catalogue/images/6744079f6afe9.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6744079f6afe9.jpg\"></a></p><p><a href=\"https://en.numista.com/catalogue/images/674407aac6ba3.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/674407aac6ba3.jpg\"></a></p>",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "402"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "54"
+    },
+    {
+      "catalogue": {
+        "id": 201,
+        "code": "Rønning"
+      },
+      "number": "269"
+    }
+  ],
+  "weight": 4.8,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain."
+  },
+  "mints": [
+    {
+      "id": 1888,
+      "name": "Norwegian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,92 @@
+{
+  "id": 51116,
+  "url": "https://en.numista.com/51116",
+  "title": "50 Luma (Antelope)",
+  "object_type": {
+    "id": 8,
+    "name": "Fantasy coins"
+  },
+  "issuer": {
+    "code": "haut-karabagh",
+    "name": "Artsakh"
+  },
+  "min_year": 2013,
+  "max_year": 2013,
+  "ruler": [
+    {
+      "id": 2050,
+      "name": "Republic",
+      "wikidata_id": "Q244165"
+    }
+  ],
+  "value": {
+    "text": "50 Luma",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 9494,
+      "name": "Dram",
+      "full_name": "Dram (2003-2023)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2024-01-01"
+  },
+  "size": 19.8,
+  "thickness": 1.4,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms of the Nagorno-Karabakh Republic.",
+    "lettering": "NAGORNO-KARABAKH \r\nԼԵՌՆԱՅԻՆ ՂԱՐԱԲԱՂԻ ՀԱՆՐԱՊԵՏՈՒԹՅՈՒՆ\r\nԱՐՑԱԽ\r\nREPUBLIC",
+    "lettering_scripts": [
+      {
+        "name": "Armenian"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Nagorno-Karabakh Republic\r\nArtsakh",
+    "picture": "https://en.numista.com/catalogue/photos/haut-karabagh/6724dce80c46a7.19513067-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/haut-karabagh/6724dce80c46a7.19513067-180.jpg",
+    "picture_copyright": "Heinz-Uwe"
+  },
+  "reverse": {
+    "description": "Goitered gazelle to the left.",
+    "lettering": "50 LUMA \r\n2013",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/haut-karabagh/6724dce8910843.43819696-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/haut-karabagh/6724dce8910843.43819696-180.jpg",
+    "picture_copyright": "Heinz-Uwe"
+  },
+  "tags": [
+    "Other animal",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "27"
+    }
+  ],
+  "weight": 0.95,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "category": "exonumia",
+  "type": "Fantasy coins"
+}

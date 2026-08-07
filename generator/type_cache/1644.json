@@ -1,0 +1,111 @@
+{
+  "id": 1644,
+  "url": "https://en.numista.com/1644",
+  "title": "50 Satang - Rama IX",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "thailande",
+    "name": "Thailand"
+  },
+  "min_year": 1987,
+  "max_year": 2008,
+  "ruler": [
+    {
+      "id": 1905,
+      "name": "Bhumibol Adulyadej (Rama IX)",
+      "wikidata_id": "Q855252",
+      "group": {
+        "id": 65,
+        "name": "Chakri dynasty"
+      }
+    }
+  ],
+  "value": {
+    "text": "50 Satangs",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 4,
+      "name": "Baht",
+      "full_name": "Baht (1897-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 18,
+  "thickness": 1.35,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze (92% Cu / 6% Al / 2% Ni)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Wuthichai Saengngoen"
+    ],
+    "description": "Bhumibol Adulyadej (Rama IX) facing left",
+    "lettering": "ภูมิพลอดุลยเดช    รัชกาลที่ ๙",
+    "lettering_scripts": [
+      {
+        "name": "Thai"
+      }
+    ],
+    "lettering_translation": "Bhumibol Adulyadej Rama IX",
+    "picture": "https://en.numista.com/catalogue/photos/thailande/128-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/thailande/128-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Paithoon Na Chiangmai"
+    ],
+    "description": "Wat Phrathat Doi Suthep, Chiang Mai",
+    "lettering": "ประเทศไทย พ.ศ.๒๕๓๘\r\n๕๐     50\r\nสตางค์",
+    "lettering_scripts": [
+      {
+        "name": "Thai"
+      }
+    ],
+    "unabridged_legend": "ประเทศไทย พุทธศักราช ๒๕๓๘",
+    "lettering_translation": "Thailand Buddhistic Era 1995\r\n50\r\nsatang",
+    "picture": "https://en.numista.com/catalogue/photos/thailande/129-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/thailande/129-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "Made-to-order coins exist:<br />\r\n- MTO 2542 sets of copper-silver-gold, from 1 Satang to 5 Baht. 16~18 sets believed to be made. (set of copper-silver-gold 1 Satang to 5 Baht series)<br />\r\n- Coins dated 2540 struck on aluminium planchet; PCGS <a href=\"https://www.pcgs.com/cert/80717147\" rel=\"nofollow\">#80717147</a>, PCGS <a href=\"https://www.pcgs.com/cert/80763606\" rel=\"nofollow\">#80763606</a>, ; PCGS <a href=\"https://www.pcgs.com/cert/37982046\" rel=\"nofollow\">#37982046</a>. (set of aluminium 25-50 Satang 2540)<br />\r\n- Coin dated 2547 struck on Aluminium planchet. Non-graded. (could be error)<br />\r\n- Coin dated 2550 struck on Aluminium planchet. Non-graded. (could be error)<br />\r\n- Coin struck as double obverse; PCGS <a href=\"https://www.pcgs.com/cert/80717151\" rel=\"nofollow\">#80717151</a>. (set of double obverse and double reverse 25-50 Satang 2532)<br />\r\n- Coin struck as double reverse, dated 2532; PCGS <a href=\"https://www.pcgs.com/cert/80717152\" rel=\"nofollow\">#80717152</a>. (set of double obverse and double reverse 25-50 Satang 2532)<br />\r\n- Coin dated 2532 struck as medal alignment. PCGS <a href=\"https://www.pcgs.com/cert/80717158\" rel=\"nofollow\">#80717158</a>. (set of medal alignment 25 Satang to 5 Baht 2532)<br />\r\n- Coin dated 2542 struck as medal alignment. NGC <a href=\"https://www.ngccoin.com/certlookup/4536282-093/67\" rel=\"nofollow\">#4536282-093</a>, NGC <a href=\"https://www.ngccoin.com/certlookup/4536282-098/64\" rel=\"nofollow\">#4536282-098</a>. (could be error)<br />\r\n- Coin with <a href=\"https://en.numista.com/6644\">&quot;50th Anniversary of Reign (Y# 329)&quot;</a> mule reverse, struck as medal alignment. Non-graded.",
+  "tags": [
+    "Religious building"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "203"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "344"
+    }
+  ],
+  "weight": 2.4,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

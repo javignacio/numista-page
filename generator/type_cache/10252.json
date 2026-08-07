@@ -1,0 +1,103 @@
+{
+  "id": 10252,
+  "url": "https://en.numista.com/10252",
+  "title": "200 Cruzeiros",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bresil",
+    "name": "Brazil"
+  },
+  "min_year": 1985,
+  "max_year": 1986,
+  "ruler": [
+    {
+      "id": 2684,
+      "name": "Federative Republic of Brazil",
+      "wikidata_id": "Q155"
+    }
+  ],
+  "value": {
+    "text": "200 Cruzeiros",
+    "numeric_value": 200,
+    "currency": {
+      "id": 206,
+      "name": "Cruzeiro novo",
+      "full_name": "Cruzeiro novo (1967-1986)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 19,
+  "thickness": 1.49,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "National Arms",
+    "lettering": "REPUBLICA FEDERATIVA DO BRASIL\r\n15 de Novembro de 1889",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bresil/5e35fa0598b194.69432924-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/5e35fa0598b194.69432924-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "reverse": {
+    "description": "Denomination above date",
+    "lettering": "BRASIL\r\n200 \r\nCRUZEIROS\r\n1985",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bresil/5e35fa06795991.51348797-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/5e35fa06795991.51348797-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "related_types": [
+    {
+      "id": 4052,
+      "title": "100 Cruzeiros",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1985,
+      "maxYear": 1986
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "596"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "105"
+    }
+  ],
+  "weight": 2.55,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,130 @@
+{
+  "id": 665,
+  "url": "https://en.numista.com/665",
+  "title": "1 New Penny - Elizabeth II (2nd portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1971,
+  "max_year": 1981,
+  "ruler": [
+    {
+      "id": 275,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 527,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Penny",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 126,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (decimalized, 1971-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 20.3,
+  "thickness": 1.52,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze (97% Cu, 2.5% Zn, 0.5% Sn)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Arnold Machin"
+    ],
+    "description": "Second crowned portrait of Queen Elizabeth II right, wearing the Girls of Great Britain and Ireland tiara, legend around.",
+    "lettering": "ELIZABETH·II D·G·REG·F·D·1971",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Elizabeth II Dei Gratia Regina Fidei Defensatrix",
+    "lettering_translation": "Elizabeth II by the Grace of God Queen Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/6568ba50f2cbf6.58966222-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/6568ba50f2cbf6.58966222-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "Christopher Ironside"
+    ],
+    "description": "A crowned portcullis with chains (an adaptation of the Badge of Henry VII which is now the Badge of the Palace of Westminster) and the face value.",
+    "lettering": "NEW PENNY\r\n1",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/6568ba52498538.83968580-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/6568ba52498538.83968580-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p>Although these coins were not issued until Decimalisation Day on 15th February 1971, Queen Elizabeth II struck 6 of the new pennies at the opening of the new Royal Mint in Llantrisant, Glamorgan on 17th December 1968. Following that, Prince Philip, the Duke of Edinburgh struck 6 of the new halfpennies and Prince Charles, the Prince of Wales struck 6 of the new two pence pieces.</p><p>&nbsp;</p><p>Due to the vast quantity required for the decimal changeover and the fact that the Mint was moving from Tower Hill, London to Llantrisant, Wales the coins were minted at both mints during 1968 -1970, in addition a training facility in Bridgend minted 1,840,000 in 1968 before Llantrisant was fully opened. (<a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://library.royalmintmuseum.org.uk/archive/royal-mint-annual-reports/royal-mint-annual-report-1968-volume-no99/1799232\">Royal Mint Annual Report 1968 Volume No.99 Image 17 - The Royal Mint Museum</a>). A total of 27,648,000 coins were minted in South Wales during 1968, while 3,562,900 were minted at Tower Hill. During 1969 there were 565,278,559 coins minted in South Wales and 21,331,441 at Tower Hill. In 1970 Llantrisant minted 444,200,000 coins while just 7,350 were minted at Tower Hill, between 1971 &amp; 1972 a total of 418,170,000 coins were minted at Llantrisant with production of 1p coins having end at Tower Hill.<br><br>Christopher Ironside designed all six new denominations for decimalisation for which he was awarded the OBE in 1971.</p><p>&nbsp;</p><p>A full set of the new decimal coins were issued in a blue presentation pack, along with an information card for public use.</p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/6796533f7ae27.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6796533f7ae27.jpg\"></a> &nbsp;<a href=\"https://en.numista.com/catalogue/images/6796534087281.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6796534087281.jpg\"></a> &nbsp;<a href=\"https://en.numista.com/catalogue/images/6796533ff0032.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6796533ff0032.jpg\"></a> &nbsp;See: &nbsp;BU (in blue wallet)</p><p>© LDC63 (CC BY)</p>",
+  "related_types": [
+    {
+      "id": 859,
+      "title": "1 Penny - Elizabeth II (2nd portrait)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1982,
+      "maxYear": 1984
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "915"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "B1"
+    }
+  ],
+  "weight": 3.56,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    },
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

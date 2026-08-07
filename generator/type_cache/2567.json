@@ -1,0 +1,119 @@
+{
+  "id": 2567,
+  "url": "https://en.numista.com/2567",
+  "title": "1 Cent",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "zimbabwe",
+    "name": "Zimbabwe (1980-date)"
+  },
+  "min_year": 1989,
+  "max_year": 1999,
+  "ruler": [
+    {
+      "id": 929,
+      "name": "Republic",
+      "wikidata_id": "Q954"
+    }
+  ],
+  "value": {
+    "text": "1 Cent",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 60,
+      "name": "First Dollar",
+      "full_name": "First Dollar (1980-2006)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 18.45,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Barry Stanton"
+    ],
+    "description": "The stone-carved Great Zimbabwe Bird, the national emblem of Zimbabwe.",
+    "lettering": "ZIMBABWE\r\n1997",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/zimbabwe/104-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/zimbabwe/104-180.jpg",
+    "picture_copyright": "seb"
+  },
+  "reverse": {
+    "engravers": [
+      "Jeff Huntly"
+    ],
+    "description": "Numeral \"1\" in a wreath of leaves of Flame Lily (Gloriosa superba).",
+    "lettering": "1",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/zimbabwe/105-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/zimbabwe/105-180.jpg",
+    "picture_copyright": "seb"
+  },
+  "comments": "<p><i>Reverse</i><br>Die <strong>A</strong> - all details thin, the left leaf small.<br>Die <strong>B</strong> - all details thick, the left leaf large.</p><p>There are many differences in details between dies, some other are pointed at the images.</p><p>Picture: © Images courtesy of Alexandr Prokofyev.</p><p><a href=\"https://en.numista.com/catalogue/images/65777cf65465a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/65777cf65465a.jpg\"></a></p><p><i>Combinations</i><br>Die <strong>A</strong>: 1980, 1982, 1983, 1986, 1988-1990.<br>Die <strong>B</strong>: 1990, 1991, 1994, 1995, 1997, 1999.</p>",
+  "related_types": [
+    {
+      "id": 6259,
+      "title": "1 Cent",
+      "category": "coin",
+      "country": {
+        "code": "zimbabwe",
+        "name": "Zimbabwe (1980-date)"
+      },
+      "minYear": 1980,
+      "maxYear": 1988
+    }
+  ],
+  "tags": [
+    "Bird"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "55a"
+    }
+  ],
+  "weight": 3,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

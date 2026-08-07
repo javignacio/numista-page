@@ -1,0 +1,92 @@
+{
+  "id": 41165,
+  "url": "https://en.numista.com/41165",
+  "title": "5 Ngwee",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "zambie",
+    "name": "Zambia"
+  },
+  "min_year": 2012,
+  "max_year": 2017,
+  "ruler": [
+    {
+      "id": 933,
+      "name": "Republic",
+      "wikidata_id": "Q953"
+    }
+  ],
+  "value": {
+    "text": "5 Ngwee",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 1800,
+      "name": "Kwacha",
+      "full_name": "Kwacha (2013-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2013-01-01"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 19,
+  "thickness": 1.55,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "National arms with supporters, date below.",
+    "lettering": "ZAMBIA\r\nONE ZAMBIA ONE NATION\r\n2012",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/zambie/675-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/zambie/675-180.jpg",
+    "picture_copyright": "African Coins"
+  },
+  "reverse": {
+    "description": "A Zambezi Indigobird in center. The denomination in numeral 5 to the left of it and in words to the right along the rim.",
+    "lettering": "5\r\nFIVE NGWEE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/zambie/676-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/zambie/676-180.jpg",
+    "picture_copyright": "African Coins"
+  },
+  "tags": [
+    "Bird",
+    "Eagle",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "205"
+    }
+  ],
+  "weight": 2.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

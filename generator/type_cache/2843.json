@@ -1,0 +1,117 @@
+{
+  "id": 2843,
+  "url": "https://en.numista.com/2843",
+  "title": "5 Pesos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "chili",
+    "name": "Chile"
+  },
+  "min_year": 1992,
+  "max_year": 2015,
+  "ruler": [
+    {
+      "id": 3299,
+      "name": "Republic",
+      "wikidata_id": "Q298"
+    }
+  ],
+  "value": {
+    "text": "5 Pesos",
+    "numeric_value": 5,
+    "currency": {
+      "id": 146,
+      "name": "Peso",
+      "full_name": "Peso (1975-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 15.5,
+  "thickness": 1.57,
+  "shape": "Octagonal (8-sided)",
+  "composition": {
+    "text": "Copper-aluminium-nickel (92% Copper, 6% Aluminium, 2% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Francois Maurice Thénot"
+    ],
+    "description": "Portrait of Bernardo O'Higgins right, mint mark to the left.",
+    "lettering": "REPUBLICA DE CHILE\r\nSo\r\nLIBERTADOR\r\nB O'HIGGINS\r\nR.THENOT",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Chile\r\nSo\r\nLiberator\r\nB O' Higgins\r\nR. Thenot",
+    "picture": "https://en.numista.com/catalogue/photos/chili/1639-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/1639-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "description": "Denomination above date within laurel wreath.",
+    "lettering": "5 \r\nPESOS \r\n2013",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chili/1640-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/1640-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "comments": "Varieties are known.<br /><br />\r\n<span style=\"font-style:italic;\">Obverse</span><br />\r\nDie <span style=\"font-weight:bold;\">1</span> - wide epaulette, convex medals, signature FR. Thenot under the sash of the Legion of Merit of Chile.<br />\r\nDie <span style=\"font-weight:bold;\">2</span> - R very close to epaulette, no signature under the sash.<br />\r\nDie <span style=\"font-weight:bold;\">3</span> - wide epaulette, medals almost incused, script bold, signature under the sash.<br />\r\nDie <span style=\"font-weight:bold;\">4</span> - wide epaulette, convex medals, script bold, signature under the sash.<br />\r\nDie <span style=\"font-weight:bold;\">5</span> - small portrait, narrow epaulette and the sash, medals stylized, no signature under the sash.<br />\r\nDie <span style=\"font-weight:bold;\">6</span> - small portrait, narrow epaulette and the sash, medals stylized, no signature under the sash, tall script to LIBERTADOR B.O&#039;HIGGINS.<br /><br />\r\n<span style=\"font-style:italic;\">Note</span>. Additional features of haircut shown on images. Picture: © Images courtesy of Alexandr Prokofyev.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/619a2224e6f88.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/619a2224e6f88.jpg\" alt=\"\" width=\"200\" height=\"236\" /></a><br /><br />\r\n<span style=\"font-style:italic;\">Reverse</span><br />\r\nDie <span style=\"font-weight:bold;\">A</span> - date vertically aligned.<br />\r\nDie <span style=\"font-weight:bold;\">B</span> - date lower.<br />\r\nDie <span style=\"font-weight:bold;\">C</span> - squat script to PESOS and date.<br />\r\nDie <span style=\"font-weight:bold;\">D</span> - date higher.<br />\r\nDie <span style=\"font-weight:bold;\">E</span>- date higher, PESOS bold.<br />\r\nDie <span style=\"font-weight:bold;\">F</span> - date lower, PESOS bold.<br />\r\nPicture: © Images courtesy of Alexandr Prokofyev<br />\r\n<a href=\"https://en.numista.com/catalogue/images/619a228864db0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/619a228864db0.jpg\" alt=\"\" width=\"200\" height=\"111\" /></a><br /><br />\r\n<span style=\"font-style:italic;\">Combinations</span><br />\r\n<span style=\"font-weight:bold;\">1</span>+<span style=\"font-weight:bold;\">A</span>: 1992.<br />\r\n<span style=\"font-weight:bold;\">1</span>+<span style=\"font-weight:bold;\">B</span>: 1993-1999, 2002 A, 2002 So.<br />\r\n<span style=\"font-weight:bold;\">1</span>+<span style=\"font-weight:bold;\">D</span>: 2006-2009.<br />\r\n<span style=\"font-weight:bold;\">2</span>+<span style=\"font-weight:bold;\">C</span>: 2001 SA.<br />\r\n<span style=\"font-weight:bold;\">3</span>+<span style=\"font-weight:bold;\">B</span>: 2000, 2001 So, 2003.<br />\r\n<span style=\"font-weight:bold;\">3</span>+<span style=\"font-weight:bold;\">D</span>: 2004.<br />\r\n<span style=\"font-weight:bold;\">4</span>+<span style=\"font-weight:bold;\">D</span>: 2005, 2007.<br />\r\n<span style=\"font-weight:bold;\">5</span>+<span style=\"font-weight:bold;\">A</span>: 2015.<br />\r\n<span style=\"font-weight:bold;\">5</span>+<span style=\"font-weight:bold;\">E</span>: 2011-2013.<br />\r\n<span style=\"font-weight:bold;\">5</span>+<span style=\"font-weight:bold;\">F</span>: 2014.<br />\r\n<span style=\"font-weight:bold;\">6</span>+<span style=\"font-weight:bold;\">A</span>: 2015.<br /><br />\r\n<span style=\"font-style:italic;\">Note</span>. There is tiny difference in thickness of PESOS in 2002.<br /><br />\r\n2000-2003:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5ae67cca3db90.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5ae67cca3db90.jpg\" alt=\"\" width=\"200\" height=\"130\" /></a><br /><br />\r\n2001:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/56c34f01c9fc0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/56c34f01c9fc0.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\n2002:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/56c34f13d8d07.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/56c34f13d8d07.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\n2004-2005:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5ae67cd27d19e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5ae67cd27d19e.jpg\" alt=\"\" width=\"200\" height=\"129\" /></a><br /><br />\r\n2007:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5ae67cdc4ff35.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5ae67cdc4ff35.jpg\" alt=\"\" width=\"200\" height=\"123\" /></a><br /><br />\r\n2009:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/59e6f45f7761b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/59e6f45f7761b.jpg\" alt=\"\" width=\"200\" height=\"126\" /></a><br /><br />\r\n2011:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/59e6f60cce48a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/59e6f60cce48a.jpg\" alt=\"\" width=\"200\" height=\"88\" /></a><br /><br />\r\n2015:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/59e6f1d6f1b93.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/59e6f1d6f1b93.jpg\" alt=\"\" width=\"200\" height=\"112\" /></a>",
+  "tags": [
+    "Politician",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "232"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "81"
+    }
+  ],
+  "weight": 2.2,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 23,
+      "name": "Royal Dutch Mint"
+    },
+    {
+      "id": 24,
+      "name": "Royal Mint of Madrid"
+    },
+    {
+      "id": 1300,
+      "name": "South African Mint"
+    },
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

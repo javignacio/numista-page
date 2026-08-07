@@ -1,0 +1,189 @@
+{
+  "id": 208018,
+  "url": "https://en.numista.com/208018",
+  "title": "10 Pence - Elizabeth II (4th portrait; Royal Shield, Silver Proof)",
+  "object_type": {
+    "id": 3,
+    "name": "Non-circulating coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 2008,
+  "max_year": 2015,
+  "ruler": [
+    {
+      "id": 275,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 527,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Pence",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 126,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (decimalized, 1971-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.925)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Ian Rank-Broadley"
+    ],
+    "description": "Fourth crowned portrait of Queen Elizabeth II right, wearing the Girls of Great Britain and Ireland tiara, legend around.",
+    "lettering": "ELIZABETH·II·D·G REG·F·D·2009\r\nIRB",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Elizabeth II Dei Gratia Regina Fidei Defensatrix",
+    "lettering_translation": "Elizabeth II by the Grace of God Queen Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/5ea5ff8b26c095.68451762-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/5ea5ff8b26c095.68451762-180.jpg",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Matthew Dent"
+    ],
+    "description": "Upper left section of the Royal Shield of Arms, denomination to upper segment.",
+    "lettering": "TEN PENCE\r\nMD",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/5ea5ff8b743522.91201727-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/5ea5ff8b743522.91201727-180.jpg",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "The 2008 strike was released as part of the changeover from the Emblems of Britain to the Royal Shield. The coin was also issued in copper-nickel, silver piedfort, gold proof and platinum proof. Issue Limit: 10,000<br />\r\n<a href=\"https://en.numista.com/catalogue/images/604d1799e20d3.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/604d1799e20d3.jpg\" alt=\"\" width=\"200\" height=\"216\" /></a><br />\r\n© The Royal Mint, 2008<br /><br />\r\nIn 2011, Spink changed their reference number for this coin when the composition of the base metal strike changed to Ni plated steel:<br />\r\n<span style=\"font-weight:bold;\">Sp#F6</span> <span style=\"font-style:italic;\">(2008-11)</span><br />\r\n<span style=\"font-weight:bold;\">Sp#F7</span> <span style=\"font-style:italic;\">(2012-15)</span><br /><br />\r\nIn 2012, for the Queen&#039;s Diamond Jubilee most coins were selectively plated with Gold and so this silver proof edition was limited.<br /><br />\r\nThe 2015 strike was issued as part of the dual set to commemorate the change from the 4th portrait to the 5th and was also struck in copper-nickel, gold proof and platinum proof.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/604d17d25a0ed.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/604d17d25a0ed.jpg\" alt=\"\" width=\"200\" height=\"206\" /></a><br />\r\n© The Royal Mint, 2008<br /><br />\r\n2008 issue limit: 10,000<br />\r\n2009 issue limit: 7,500<br />\r\n2010 issue limit: 3,500<br />\r\n2011 issue limit: 2,500<br />\r\n2012 issue limit: 995<br />\r\n2013 issue limit: 2,013<br />\r\n2014 issue limit: 2,014<br />\r\n2015 issue limit: 7,500",
+  "related_types": [
+    {
+      "id": 199828,
+      "title": "10 Pence - Elizabeth II (4th portrait; Royal Shield, Silver Piedfort)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2008,
+      "maxYear": 2008
+    },
+    {
+      "id": 7350,
+      "title": "10 Pence - Elizabeth II (4th portrait; Royal Shield, non-magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2008,
+      "maxYear": 2010
+    },
+    {
+      "id": 240895,
+      "title": "10 Pence - Elizabeth II (4th Portrait; Royal Shield, Gold Proof)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2008,
+      "maxYear": 2015
+    },
+    {
+      "id": 241056,
+      "title": "10 Pence - Elizabeth II (4th portrait; Royal Shield, Platinum Proof)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2008,
+      "maxYear": 2015
+    },
+    {
+      "id": 25746,
+      "title": "10 Pence - Elizabeth II (4th portrait; Royal Shield, magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2011,
+      "maxYear": 2015
+    },
+    {
+      "id": 206861,
+      "title": "10 Pence - Elizabeth II (4th portrait; Royal Shield, Silver Proof)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2012,
+      "maxYear": 2012
+    }
+  ],
+  "tags": [
+    "Cat or feline",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1110a"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "F6"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "F7"
+    }
+  ],
+  "weight": 6.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Non-circulating coins"
+}

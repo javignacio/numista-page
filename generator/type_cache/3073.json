@@ -1,0 +1,121 @@
+{
+  "id": 3073,
+  "url": "https://en.numista.com/3073",
+  "title": "1 Konvertibilna Marka",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bosnie-herzegovine",
+    "name": "Bosnia and Herzegovina"
+  },
+  "min_year": 2000,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 1315,
+      "name": "Federal Republic of Bosnia and Herzegovina",
+      "wikidata_id": "Q1274468"
+    }
+  ],
+  "value": {
+    "text": "1 Konvertibilna Marka",
+    "numeric_value": 1,
+    "currency": {
+      "id": 132,
+      "name": "Convertible Mark",
+      "full_name": "Convertible Mark (1998-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2000-07-31"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23.23,
+  "thickness": 1.9,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms of Bosnia and Herzegovina with two isosceles triangles above and below",
+    "lettering": "2002",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bosnie-herzegovine/6755e34f3698a7.34918514-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bosnie-herzegovine/6755e34f3698a7.34918514-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Numerical denomination",
+    "lettering": "Босна и Херцеговина\r\nBosna i Hercegovina\r\n1\r\nKM",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Bosnia and Herzegovina\r\nBosnia and Herzegovina\r\n1\r\nConvertible Mark",
+    "picture": "https://en.numista.com/catalogue/photos/bosnie-herzegovine/6755e34f8f08a8.03686138-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bosnie-herzegovine/6755e34f8f08a8.03686138-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "118"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "124"
+    },
+    {
+      "catalogue": {
+        "id": 2898,
+        "code": "Galst/Alfen"
+      },
+      "number": "X.10"
+    }
+  ],
+  "weight": 4.95,
+  "orientation": "medal",
+  "edge": {
+    "description": "Segmented reeding"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

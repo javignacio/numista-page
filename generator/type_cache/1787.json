@@ -1,0 +1,118 @@
+{
+  "id": 1787,
+  "url": "https://en.numista.com/1787",
+  "title": "20 Cents (SUID-AFRIKA - SOUTH AFRICA)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "afrique_du_sud",
+    "name": "South Africa"
+  },
+  "min_year": 1970,
+  "max_year": 1990,
+  "ruler": [
+    {
+      "id": 634,
+      "name": "Republic",
+      "wikidata_id": "Q258"
+    }
+  ],
+  "value": {
+    "text": "20 Cents",
+    "numeric_value": 0.2,
+    "currency": {
+      "id": 156,
+      "name": "Rand",
+      "full_name": "Rand (1961-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24.2,
+  "thickness": 1.84,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Tommy Sasseen"
+    ],
+    "description": "Arms of South Africa with the motto \"Ex Unitate Vires\" (Power Through Unity), legend around and the date below.",
+    "lettering": "SUID-AFRIKA · SOUTH AFRICA\r\nEX UNITATE VIRES\r\nT.S.\r\n1980",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/afrique_du_sud/25-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/25-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Tommy Sasseen"
+    ],
+    "description": "A King Protea, South Africa's national flower and the value to the left, engraver's initials at the bottom.",
+    "lettering": "20\r\nT.S.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/afrique_du_sud/26-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/26-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "Obverse engraver initials varieties exist:<br />\r\n1970-83 - &#039;T.S.&#039; below base of Coat of Arms right hand side (Tommy Sasseen).<br />\r\n1984 - no engraver initials (Arthur Sutherland).<br />\r\n1985-89 - &#039;A L S&#039; below base of Coat of Arms left hand side (Arthur Sutherland).<br /><br /><br />\r\nReverse with Royal Protea flower was in use from 1965 till 1990 and is known in 2 types.<br />\r\nDie <span style=\"font-weight:bold;\">A</span> - digits in 20 connect with slits in 0 for tail of 2, pentels above 20 with midribs.<br />\r\nDie <span style=\"font-weight:bold;\">B</span> - digits in 20 connect with tail of 2 over 0, pentels above 20 narrow and without midribs.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/617b116d3cb0a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/617b116d3cb0a.jpg\" alt=\"\" width=\"200\" height=\"160\" /></a><br /><br />\r\n<span style=\"font-style:italic;\">Combinations</span><br />\r\n<span style=\"font-weight:bold;\">A</span>: 1965-1969 all issues, 1970 MS (?).<br />\r\n<span style=\"font-weight:bold;\">B</span>: 1970 MS, 1970 PS, 1971-1990 all issues.<br /><br />\r\n<span style=\"font-style:italic;\">Abbreviations</span><br />\r\nMS - mint set, PS - proof set.",
+  "tags": [
+    "Coat of Arms",
+    "Flower"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "86"
+    },
+    {
+      "catalogue": {
+        "id": 146,
+        "code": "Hern"
+      },
+      "number": "D165-170, 172-173, 175-176, 178-185"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "125"
+    }
+  ],
+  "weight": 6,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 1872,
+      "name": "Pretoria"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

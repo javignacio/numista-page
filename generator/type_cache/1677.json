@@ -1,0 +1,137 @@
+{
+  "id": 1677,
+  "url": "https://en.numista.com/1677",
+  "title": "200 Rupiah",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "indonesie",
+    "name": "Indonesia (1949-date)"
+  },
+  "min_year": 2003,
+  "max_year": 2003,
+  "ruler": [
+    {
+      "id": 4071,
+      "name": "Republic",
+      "wikidata_id": "Q252"
+    }
+  ],
+  "value": {
+    "text": "200 Rupiah",
+    "numeric_value": 200,
+    "currency": {
+      "id": 172,
+      "name": "Rupiah",
+      "full_name": "Rupiah (1965-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25,
+  "thickness": 2.3,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "National emblem, called Garuda Pancasila",
+    "lettering": "BHINNEKA TUNGGAL IKA\r\n2003\r\nBANK INDONESIA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Unity in Diversity",
+    "picture": "https://en.numista.com/catalogue/photos/indonesie/681ce065ab3117.90999924-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/indonesie/681ce065ab3117.90999924-180.jpg",
+    "picture_copyright": "apadilha"
+  },
+  "reverse": {
+    "description": "Bali mynah bird on a branch, left, denomination below, local name above. The Bali myna (Leucopsar rothschildi), also Rothschild's mynah, Bali starling, or Bali mynah, locally known as Jalak Bali, is endemic to Bali.",
+    "lettering": "JALAK BALI\r\n200\r\nRUPIAH",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/indonesie/681ce0663ddbd1.34956831-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/indonesie/681ce0663ddbd1.34956831-180.jpg",
+    "picture_copyright": "apadilha"
+  },
+  "comments": "Minted in Perum Percetakan Uang Republik Indonesia (National Mint of Indonesia) in Jakarta.<br />\r\nThe typeface of the date often makes 2003 look like 2008.<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5dd8240f7fb91.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5dd8240f7fb91.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "related_types": [
+    {
+      "id": 5928,
+      "title": "50 Rupiah",
+      "category": "coin",
+      "country": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "minYear": 1999,
+      "maxYear": 2003
+    },
+    {
+      "id": 1678,
+      "title": "100 Rupiah",
+      "category": "coin",
+      "country": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "minYear": 1999,
+      "maxYear": 2005
+    },
+    {
+      "id": 1676,
+      "title": "500 Rupiah",
+      "category": "coin",
+      "country": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "minYear": 2003,
+      "maxYear": 2003
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "66"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "52"
+    }
+  ],
+  "weight": 2.38,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 4154,
+      "name": "Perum Peruri"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,118 @@
+{
+  "id": 5421,
+  "url": "https://en.numista.com/5421",
+  "title": "1 Inti",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "perou",
+    "name": "Peru"
+  },
+  "issuing_entity": {
+    "id": 936,
+    "name": "Central Reserve Bank of Peru",
+    "wikidata_id": "Q932146"
+  },
+  "min_year": 1985,
+  "max_year": 1988,
+  "ruler": [
+    {
+      "id": 3757,
+      "name": "Republic",
+      "wikidata_id": "Q419"
+    }
+  ],
+  "value": {
+    "text": "1 Inti",
+    "numeric_value": 1,
+    "currency": {
+      "id": 219,
+      "name": "Inti",
+      "full_name": "Inti (1985-1991)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1985-05-01"
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1991-07-01"
+  },
+  "size": 25,
+  "thickness": 2.05,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass (Copper-Nickel-Zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Shield of Peru, mint monogram below",
+    "lettering": "BANCO CENTRAL DE RESERVA DEL PERU\r\nLIMA\r\n1987",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Reserve Bank of Peru\r\nLIMA\r\n1987",
+    "picture": "https://en.numista.com/catalogue/photos/perou/6071e82b49edb4.94572674-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/6071e82b49edb4.94572674-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "reverse": {
+    "description": "Miguel Grau facing right with the denomination below",
+    "lettering": "GRAN ALMIRANTE MIGUEL GRAU\r\nUN INTI",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Great Admiral Miguel Grau\r\nOne Inti",
+    "picture": "https://en.numista.com/catalogue/photos/perou/6071e82b98c656.81349713-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/6071e82b98c656.81349713-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "comments": "filled &quot;8&quot; error for 1988:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/623dec3794d65.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/623dec3794d65.jpg\" alt=\"\" width=\"200\" height=\"62\" /></a>",
+  "tags": [
+    "Military leader",
+    "Politician",
+    "Coat of Arms",
+    "Cornucopia"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "296"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "97"
+    }
+  ],
+  "weight": 7,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/perou/649c76a586ebe6.34971185-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/649c76a586ebe6.34971185-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 297,
+      "name": "Lima"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

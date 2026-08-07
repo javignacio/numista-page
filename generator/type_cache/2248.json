@@ -1,0 +1,217 @@
+{
+  "id": 2248,
+  "url": "https://en.numista.com/2248",
+  "title": "1 Cruzeiro",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bresil",
+    "name": "Brazil"
+  },
+  "issuing_entity": {
+    "id": 900,
+    "name": "Central Bank of Brazil",
+    "wikidata_id": "Q806186"
+  },
+  "min_year": 1967,
+  "max_year": 1970,
+  "ruler": [
+    {
+      "id": 2684,
+      "name": "Federative Republic of Brazil",
+      "wikidata_id": "Q155"
+    }
+  ],
+  "value": {
+    "text": "1 Cruzeiro",
+    "numeric_value": 1,
+    "currency": {
+      "id": 206,
+      "name": "Cruzeiro novo",
+      "full_name": "Cruzeiro novo (1967-1986)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1970-05-15"
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1986-02-27"
+  },
+  "size": 29,
+  "thickness": 2.01,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Benedicto de Araújo Ribeiro"
+    ],
+    "designers": [
+      "Benedicto de Araújo Ribeiro"
+    ],
+    "description": "Brazil's effigy of liberty facing left. \"Brasil\" between star and compass rose",
+    "lettering": "BRASIL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "BRAZIL",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/2834-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/2834-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "engravers": [
+      "Benedicto de Araújo Ribeiro"
+    ],
+    "designers": [
+      "Benedicto de Araújo Ribeiro"
+    ],
+    "description": "Coffee branch with fruits and flowers on the left. Face value and year.",
+    "lettering": "1\r\nCRUZEIRO\r\n1970",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bresil/2835-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/2835-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "related_types": [
+    {
+      "id": 6794,
+      "title": "1 Centavo",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1967,
+      "maxYear": 1975
+    },
+    {
+      "id": 6437,
+      "title": "2 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1967,
+      "maxYear": 1975
+    },
+    {
+      "id": 2821,
+      "title": "5 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1967,
+      "maxYear": 1975
+    },
+    {
+      "id": 2243,
+      "title": "10 Centavos (non magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1967,
+      "maxYear": 1970
+    },
+    {
+      "id": 1016,
+      "title": "20 Centavos (non magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1967,
+      "maxYear": 1970
+    },
+    {
+      "id": 8851,
+      "title": "50 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1967,
+      "maxYear": 1967
+    },
+    {
+      "id": 1050,
+      "title": "50 Centavos (Non-magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1970,
+      "maxYear": 1975
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "581"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "86"
+    },
+    {
+      "catalogue": {
+        "id": 1678,
+        "code": "Bentes"
+      },
+      "number": "706"
+    },
+    {
+      "catalogue": {
+        "id": 1185,
+        "code": "AI Coins"
+      },
+      "number": "v318"
+    }
+  ],
+  "weight": 10.08,
+  "orientation": "coin",
+  "edge": {
+    "description": "Milled",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/65c127698d8555.83556434-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/65c127698d8555.83556434-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 1335,
+      "name": "Mint of Brazil"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

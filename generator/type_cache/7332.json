@@ -1,0 +1,110 @@
+{
+  "id": 7332,
+  "url": "https://en.numista.com/7332",
+  "title": "10 Dinara",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "yougoslavie",
+    "name": "Yugoslavia"
+  },
+  "min_year": 1992,
+  "max_year": 1992,
+  "ruler": [
+    {
+      "id": 2379,
+      "name": "Federal Republic of Yugoslavia",
+      "wikidata_id": "Q37024"
+    }
+  ],
+  "value": {
+    "text": "10 Dinars",
+    "numeric_value": 10,
+    "currency": {
+      "id": 228,
+      "name": "Reformed Dinar",
+      "full_name": "Reformed Dinar (1992-1993)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 25,
+  "thickness": 1.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "National Bank of Yugoslavia logo, name of country in Cyrillic and Latin characters, Rim with dots",
+    "lettering": "ЈУГОСЛАВИЈА\r\nЈНБ\r\nJUGOSLAVIJA",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "ЈУГОСЛАВИЈА\r\nЈУГОСЛOBAHCKA HAPOДHA БAHKA\r\nJUGOSLAVIJA",
+    "lettering_translation": "Yugoslavia\r\nYugoslavia",
+    "picture": "https://en.numista.com/catalogue/photos/yougoslavie/63b043e0856a39.60006164-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/yougoslavie/63b043e0856a39.60006164-180.jpg",
+    "picture_copyright": "mikimaus",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "The denomination in the center with the date below, rim with dots",
+    "lettering": "ДИНАРА\r\n10 \r\nDINARA\r\n1992",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "10 Dinars",
+    "picture": "https://en.numista.com/catalogue/photos/yougoslavie/63b043e0cbb597.57725745-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/yougoslavie/63b043e0cbb597.57725745-180.jpg",
+    "picture_copyright": "mikimaus",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p>1992-1993 : 4º DINAR: YUR - Reformed Dinar = 10 Dinars (3º Dinar)</p>",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "152"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "147"
+    }
+  ],
+  "weight": 6.6,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 1365,
+      "name": "Belgrade"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

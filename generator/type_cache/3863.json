@@ -1,0 +1,143 @@
+{
+  "id": 3863,
+  "url": "https://en.numista.com/3863",
+  "title": "25 Cents - Elizabeth II (2nd portrait, Nickel)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "canada",
+    "name": "Canada"
+  },
+  "min_year": 1968,
+  "max_year": 1978,
+  "ruler": [
+    {
+      "id": 2095,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 827,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "25 Cents",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 44,
+      "name": "Dollar",
+      "full_name": "Dollar (1858-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23.88,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Arnold Machin"
+    ],
+    "description": "Bust of Queen Elizabeth II, as at 37 years of age, wearing tiara, facing right.",
+    "lettering": "ELIZABETH II  D·G·REGINA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "ELIZABETH II DEI GRATIA REGINA",
+    "lettering_translation": "Elizabeth II Queen by the grace of God",
+    "picture": "https://en.numista.com/catalogue/photos/canada/2921-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/2921-180.jpg",
+    "picture_copyright": "Monéphil",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Emanuel Otto Hahn"
+    ],
+    "description": "A caribou accompanied with the face value and surrounded with the inscription \"CANADA\".",
+    "lettering": "CANADA 1974\r\n25\r\nCents\r\nH",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/canada/2922-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/2922-180.jpg",
+    "picture_copyright": "Monéphil",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p>“In 1968, it was necessary to stop using silver in favor of pure nickel. Nickel coins are darker in color and are attracted by a magnet.” - Standard Charlton Catalogue Volume I</p><p>“With the return of the caribou reverse for the 25-cent coin in 1974, the use of the large bust obverse was resumed.\"- Standard Charlton Catalogue Volume I</p><p><strong>1978 thickness:</strong> 1.58 mm</p><p><a href=\"https://en.numista.com/catalogue/images/6745ebe94ac74.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6745ebe94ac74.jpg\"></a></p>",
+  "related_types": [
+    {
+      "id": 364,
+      "title": "25 Cents - Elizabeth II (2nd portrait modified)",
+      "category": "coin",
+      "country": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "minYear": 1979,
+      "maxYear": 1989
+    }
+  ],
+  "tags": [
+    "Deer or cervid"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "62b"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "62b.1"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "62b.2"
+    }
+  ],
+  "weight": 5.05,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/canada/5173-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/5173-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 19,
+      "name": "Royal Canadian Mint of Ottawa"
+    },
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

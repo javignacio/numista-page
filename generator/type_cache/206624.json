@@ -1,0 +1,166 @@
+{
+  "id": 206624,
+  "url": "https://en.numista.com/206624",
+  "title": "500 Pesos",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "argentine",
+    "name": "Argentina"
+  },
+  "issuing_entity": {
+    "id": 597,
+    "name": "Central Bank of the Argentine Republic",
+    "wikidata_id": "Q642444"
+  },
+  "min_year": 2016,
+  "max_year": 2022,
+  "ruler": [
+    {
+      "id": 3983,
+      "name": "Federal Republic",
+      "wikidata_id": "Q414"
+    }
+  ],
+  "value": {
+    "text": "500 Pesos",
+    "numeric_value": 500,
+    "currency": {
+      "id": 145,
+      "name": "Peso convertible",
+      "full_name": "Peso convertible (1992-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 155,
+  "size2": 65,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Jaguar (panthera onca), flower",
+    "lettering": "QUINIENTOS PESOS\r\nBANCO CENTRAL DE LA REPÚBLICA ARGENTINA\r\nYAGUARETÉ\r\nMONUMENTO NATURAL NACIONAL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Five hundred Pesos\r\nCentral Bank of the Argentine Republic\r\nJaguar\r\nNatural national monument",
+    "picture": "https://en.numista.com/catalogue/photos/argentine/63c84f6f567e78.15928509-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/63c84f6f567e78.15928509-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Jaguar cub, Yungas jungle, map of Argentina, coat of arms of Argentina",
+    "lettering": "REPÚBLICA ARGENTINA\r\nen unión y libertad\r\nSelva de Yungas\r\nPARTE CONTINENTAL AMERICANA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Argentine Republic\r\nin union and liberty\r\nYungas jungle\r\nAmerican mainland",
+    "picture": "https://en.numista.com/catalogue/photos/argentine/63c84f703372c2.03199434-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/63c84f703372c2.03199434-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "series": "Native animals of Argentina",
+  "comments": "<p>There is a security strip best seen under backlight. Repeated across the strip is “$500 &nbsp;BCRA”</p><p>Also, under backlight there are three light rectangles equally spaced behind the strip:</p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/673fa80690c22.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/673fa80690c22.jpg\"></a></p><p>© Brandon Bertolli</p><p>&nbsp;</p><p>UV activity (365nm):</p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/673fa83faa0c1.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/673fa83faa0c1.jpg\"></a></p><p><a href=\"https://en.numista.com/catalogue/images/673fa84a64711.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/673fa84a64711.jpg\"></a></p><p>© Brandon Bertolli</p>",
+  "related_types": [
+    {
+      "id": 205902,
+      "title": "20 Pesos",
+      "category": "banknote",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 2017,
+      "maxYear": 2020
+    },
+    {
+      "id": 206693,
+      "title": "50 Pesos",
+      "category": "banknote",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 2018,
+      "maxYear": 2020
+    },
+    {
+      "id": 206732,
+      "title": "100 Pesos",
+      "category": "banknote",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 2018,
+      "maxYear": 2019
+    },
+    {
+      "id": 201699,
+      "title": "200 Pesos",
+      "category": "banknote",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 2016,
+      "maxYear": 2021
+    },
+    {
+      "id": 206628,
+      "title": "1000 Pesos",
+      "category": "banknote",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 2017,
+      "maxYear": 2022
+    }
+  ],
+  "tags": [
+    "Cat or feline",
+    "Coat of Arms",
+    "Map",
+    "Tree",
+    "Flower"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "365"
+    }
+  ],
+  "watermark": {
+    "description": "Jaguar (Panthera onca) and electrotype “500”",
+    "picture": "https://en.numista.com/catalogue/photos/argentine/5fddf6bb4b3c95.82704575-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/5fddf6bb4b3c95.82704575-180.jpg",
+    "picture_copyright": "Griffin S",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "printers": [
+    {
+      "id": "11",
+      "name": "Casa de Moneda"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

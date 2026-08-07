@@ -1,0 +1,156 @@
+{
+  "id": 19104,
+  "url": "https://en.numista.com/19104",
+  "title": "2 Pesos Uruguayos (Carpincho)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "uruguay",
+    "name": "Uruguay"
+  },
+  "min_year": 2011,
+  "max_year": 2024,
+  "ruler": [
+    {
+      "id": 3897,
+      "name": "Oriental Republic of Uruguay",
+      "wikidata_id": "Q77"
+    }
+  ],
+  "value": {
+    "text": "2 Pesos Uruguayos",
+    "numeric_value": 2,
+    "currency": {
+      "id": 153,
+      "name": "Peso uruguayo",
+      "full_name": "Peso uruguayo (1993-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23,
+  "thickness": 1.65,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms, surrounded by country name, year on bottom",
+    "lettering": "REPUBLICA ORIENTAL DEL URUGUAY\r\n2012",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Eastern Republic or Uruguay (Uruguay)\r\n2012",
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/638020f65fef55.87621145-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/638020f65fef55.87621145-180.jpg",
+    "picture_copyright": "eze711cba",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Carpincho (Hydrocoerus hydrochaeris - Capybara) to left, face value on left, animal name below.",
+    "lettering": "$2\r\nCARPINCHO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "$2\r\nCapybara",
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/638020f7328d56.94941691-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/638020f7328d56.94941691-180.jpg",
+    "picture_copyright": "eze711cba",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "series": "Native fauna of Uruguay",
+  "comments": "The carpincho (also capincho), or capivara in Brazil, is the biggest rodent in the world. A native of South America, it has a vegetarian diet, feeding both on aquatic and ground plants. It lives near lakes and rivers, where it often swims and uses as cover from dangerous situations.<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5a64884b007ac.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5a64884b007ac.jpg\" alt=\"\" width=\"200\" height=\"139\" /></a><a href=\"https://en.numista.com/catalogue/images/5a648933c8749.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5a648933c8749.jpg\" alt=\"\" width=\"200\" height=\"134\" /></a><br />\r\n(Image source: Wikipedia) (Image source: Temailken.org.ar)<br /><br />\r\n2011 and 2014 issues were minted in Spain<br />\r\n2012 issue was minted at Monnaie de Paris",
+  "related_types": [
+    {
+      "id": 19103,
+      "title": "1 Peso Uruguayo (Mulita)",
+      "category": "coin",
+      "country": {
+        "code": "uruguay",
+        "name": "Uruguay"
+      },
+      "minYear": 2011,
+      "maxYear": 2024
+    },
+    {
+      "id": 22259,
+      "title": "5 Pesos Uruguayos (Ñandu)",
+      "category": "coin",
+      "country": {
+        "code": "uruguay",
+        "name": "Uruguay"
+      },
+      "minYear": 2011,
+      "maxYear": 2024
+    },
+    {
+      "id": 22257,
+      "title": "10 Pesos Uruguayos (Puma)",
+      "category": "coin",
+      "country": {
+        "code": "uruguay",
+        "name": "Uruguay"
+      },
+      "minYear": 2011,
+      "maxYear": 2015
+    }
+  ],
+  "tags": [
+    "Rodent",
+    "Coat of Arms",
+    "Sun",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "136"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "112"
+    }
+  ],
+  "weight": 4.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/6518d4baef0224.26725591-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/6518d4baef0224.26725591-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 1262,
+      "name": "Kremnica"
+    },
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    },
+    {
+      "id": 24,
+      "name": "Royal Mint of Madrid"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

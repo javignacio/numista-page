@@ -1,0 +1,95 @@
+{
+  "id": 205241,
+  "url": "https://en.numista.com/205241",
+  "title": "100 Pesos",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "chili",
+    "name": "Chile"
+  },
+  "issuing_entity": {
+    "id": 904,
+    "name": "Central Bank of Chile",
+    "wikidata_id": "Q2631674"
+  },
+  "min_year": 1976,
+  "max_year": 1984,
+  "ruler": [
+    {
+      "id": 3299,
+      "name": "Republic",
+      "wikidata_id": "Q298"
+    }
+  ],
+  "value": {
+    "text": "100 Pesos",
+    "numeric_value": 100,
+    "currency": {
+      "id": 146,
+      "name": "Peso",
+      "full_name": "Peso (1975-date)"
+    }
+  },
+  "size": 145,
+  "size2": 70,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Purple and red-violet on multicolor underprint.\r\nPortrait of Diego Portales at right.",
+    "lettering": "BANCO CENTRAL DE \r\nCHILE\r\nCIEN \r\nPESOS\r\n1981\r\nCASA DE MONEDA DE CHILE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Bank of Chile\r\nOne Hundred Pesos\r\nChile Mint",
+    "picture": "https://en.numista.com/catalogue/photos/chili/64a702a0017591.73473653-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/64a702a0017591.73473653-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "reverse": {
+    "description": "Purple and red-violet on multicolor underprint.\r\nIllustration of a meeting of notables in 1837.",
+    "lettering": "BANCO CENTRAL DE CHILE\r\nCIEN \r\nPESOS\r\nReunion of Notables 1837",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Bank of Chile\r\nOne Hundred Pesos\r\nMeeting of notables 1837",
+    "picture": "https://en.numista.com/catalogue/photos/chili/64a702a06e9773.71436128-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/64a702a06e9773.71436128-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "series": "1975-2009 Issue",
+  "comments": "<p><u>Details in varieties types</u>:</p><p><a href=\"https://en.numista.com/catalogue/images/6597d696a1749.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6597d696a1749.jpg\"></a> <a href=\"https://en.numista.com/catalogue/images/679bbc0e714b9.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/679bbc0e714b9.png\"></a><br><strong>P#152a (1976)</strong> - wide round serial # (without prefix letter); series A.</p><p><a href=\"https://en.numista.com/catalogue/images/6597d6c13cc82.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6597d6c13cc82.jpg\"></a> <a href=\"https://en.numista.com/catalogue/images/679bbc24cce0a.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/679bbc24cce0a.png\"></a><br><strong>P#152b (1976 to 1984)</strong> - Thin straight serial # (with prefix letter).</p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/6597d73d36154.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6597d73d36154.jpg\"></a> &nbsp;<a href=\"https://en.numista.com/catalogue/images/6597d7444e843.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6597d7444e843.jpg\"></a></p><p><strong>P#152s (1976)</strong> - Specimen; with red overprint \"ESPECIMEN\" on both sides.</p>",
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "152"
+    }
+  ],
+  "watermark": {
+    "description": "Portrait of Diego Portales",
+    "picture": "https://en.numista.com/catalogue/photos/chili/6092d77701dee3.94794609-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/6092d77701dee3.94794609-180.jpg",
+    "picture_copyright": "oXide3030",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "printers": [
+    {
+      "id": 18,
+      "name": "Casa de Moneda de Chile"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

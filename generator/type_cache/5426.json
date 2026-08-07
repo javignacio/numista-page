@@ -1,0 +1,152 @@
+{
+  "id": 5426,
+  "url": "https://en.numista.com/5426",
+  "title": "1 Peso (small issue)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "chili",
+    "name": "Chile"
+  },
+  "min_year": 1981,
+  "max_year": 1992,
+  "ruler": [
+    {
+      "id": 3299,
+      "name": "Republic",
+      "wikidata_id": "Q298"
+    }
+  ],
+  "value": {
+    "text": "1 Peso",
+    "numeric_value": 1,
+    "currency": {
+      "id": 146,
+      "name": "Peso",
+      "full_name": "Peso (1975-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 17,
+  "thickness": 1.4,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze (92% Copper, 2% Aluminium, 6% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Portrait of Bernardo O'Higgins (1778-1842), one of the founders of Chile, one of the greatest military figures when fighting for Chile's independence, and the first Chilean head of state, facing right. The mintmark to left.",
+    "lettering": "REPUBLICA DE CHILE\r\nSo\r\nLIBERTADOR\r\nB. O'HIGGINS\r\nFR.THENOT",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Chile\r\nSo\r\nLiberator \r\nB. O´Higgins\r\nFR.THENOT",
+    "picture": "https://en.numista.com/catalogue/photos/chili/1009-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/1009-180.jpg",
+    "picture_copyright": "Quodlibet"
+  },
+  "reverse": {
+    "description": "Value and date within laurel wreath.",
+    "lettering": "1 \r\nPESO \r\n1981",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chili/1010-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/1010-180.jpg",
+    "picture_copyright": "Quodlibet"
+  },
+  "comments": "Bernardo O&#039;Higgins Riquelme (1778–1842) was a Chilean independence leader who, along with José de San Martín, freed Chile from Spanish rule in the Chilean War of Independence.<br /><br />\r\nTwo main groups and a year variety are known.<br />\r\n<span style=\"font-style:italic;\">Reverse</span><br />\r\nDie <span style=\"font-weight:bold;\">A</span> - wreath and denomination closer to center, date wider.<br />\r\nDie <span style=\"font-weight:bold;\">B</span> - wreath and denomination closer to rim, date narrower.<br />\r\nPicture: © Images courtesy of Alexandr Prokofyev.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/61b3d4208493d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/61b3d4208493d.jpg\" alt=\"\" width=\"200\" height=\"103\" /></a><br /><br />\r\n<span style=\"text-decoration:underline;\">1986</span><br />\r\nDie <span style=\"font-weight:bold;\">A1</span> - tall numerals in date.<br />\r\nDie <span style=\"font-weight:bold;\">A2</span> - squat numerals in date.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5927b9d5d95e2.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5927b9d5d95e2.jpg\" alt=\"\" width=\"199\" height=\"90\" /></a><br /><br />\r\n<span style=\"font-style:italic;\">Combinations</span><br />\r\n<span style=\"font-weight:bold;\">A</span>: 1981-1985, 1986 <span style=\"font-weight:bold;\">A1</span>, 1986 <span style=\"font-weight:bold;\">A2</span>, 1987.<br />\r\n<span style=\"font-weight:bold;\">B</span>: 1988-1992.<br /><br />\r\n<span style=\"font-style:italic;\">Notes</span>:<br />\r\n1. The position and wideness of the date differs from year to year, though the wreath is the same on coins from the same group.<br />\r\n2. In 1992 there were coins of two emissions: this one and the next, smaller in aluminum (N# 1866).<br />\r\n3. Correspondence with Standard Catalog of Worlds coins<br />\r\nKM#216.1: dies <span style=\"font-weight:bold;\">A</span>, 1986 <span style=\"font-weight:bold;\">A1</span>, 1986 <span style=\"font-weight:bold;\">A2</span>;<br />\r\nKM#216.2: die <span style=\"font-weight:bold;\">B</span>.",
+  "related_types": [
+    {
+      "id": 6815,
+      "title": "1 Peso (\"BERNARDO O'HIGGINS\")",
+      "category": "coin",
+      "country": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "minYear": 1975,
+      "maxYear": 1975
+    },
+    {
+      "id": 2301,
+      "title": "1 Peso (\"LIBERTADOR B. O'HIGGINS\")",
+      "category": "coin",
+      "country": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "minYear": 1976,
+      "maxYear": 1977
+    },
+    {
+      "id": 2844,
+      "title": "1 Peso (large issue)",
+      "category": "coin",
+      "country": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "minYear": 1978,
+      "maxYear": 1979
+    },
+    {
+      "id": 1866,
+      "title": "1 Peso",
+      "category": "coin",
+      "country": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "minYear": 1992,
+      "maxYear": 2015
+    }
+  ],
+  "tags": [
+    "Military leader",
+    "Politician",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "216"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "67"
+    }
+  ],
+  "weight": 2,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/chili/6521cfd067a351.13169527-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/6521cfd067a351.13169527-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

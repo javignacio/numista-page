@@ -1,0 +1,96 @@
+{
+  "id": 51123,
+  "url": "https://en.numista.com/51123",
+  "title": "5 Drams (Goat)",
+  "object_type": {
+    "id": 8,
+    "name": "Fantasy coins"
+  },
+  "issuer": {
+    "code": "haut-karabagh",
+    "name": "Artsakh"
+  },
+  "min_year": 2013,
+  "max_year": 2013,
+  "ruler": [
+    {
+      "id": 2050,
+      "name": "Republic",
+      "wikidata_id": "Q244165"
+    }
+  ],
+  "value": {
+    "text": "5 Drams",
+    "numeric_value": 5,
+    "currency": {
+      "id": 9494,
+      "name": "Dram",
+      "full_name": "Dram (2003-2023)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 22,
+  "thickness": 1.74,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms of the Nagorno-Karabakh Republic.",
+    "lettering": "NAGORNO-KARABAKH \r\nԼԵՌՆԱՅԻՆ ՂԱՐԱԲԱՂԻ ՀԱՆՐԱՊԵՏՈՒԹՅՈՒՆ\r\nԱՐՑԱԽ\r\nREPUBLIC",
+    "lettering_scripts": [
+      {
+        "name": "Armenian"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Nagorno-Karabakh Republic\r\nArtsakh",
+    "picture": "https://en.numista.com/catalogue/photos/haut-karabagh/6724dcecdf1bf5.47326341-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/haut-karabagh/6724dcecdf1bf5.47326341-180.jpg",
+    "picture_copyright": "Heinz-Uwe"
+  },
+  "reverse": {
+    "description": "Wild goat to the right.",
+    "lettering": "5 DRAM\r\n2013",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/haut-karabagh/6724dced5414c6.97040541-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/haut-karabagh/6724dced5414c6.97040541-180.jpg",
+    "picture_copyright": "Heinz-Uwe"
+  },
+  "tags": [
+    "Goat or caprine",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "31"
+    }
+  ],
+  "weight": 4.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/haut-karabagh/67c1c4bdd427b2.66273421-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/haut-karabagh/67c1c4bdd427b2.66273421-180.jpg",
+    "picture_copyright": "amakitu_Japan",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "category": "exonumia",
+  "type": "Fantasy coins"
+}

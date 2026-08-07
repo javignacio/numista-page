@@ -1,0 +1,110 @@
+{
+  "id": 42894,
+  "url": "https://en.numista.com/42894",
+  "title": "5 Cents",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "singapour",
+    "name": "Singapore"
+  },
+  "min_year": 2013,
+  "max_year": 2019,
+  "ruler": [
+    {
+      "id": 906,
+      "name": "Republic",
+      "wikidata_id": "Q334"
+    }
+  ],
+  "value": {
+    "text": "5 Cents",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 55,
+      "name": "Dollar",
+      "full_name": "Dollar (1967-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 16.75,
+  "thickness": 1.22,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Christopher Ironside"
+    ],
+    "description": "Emblem with date underneath and 'Singapore' on four sides in English, Tamil, Chinese, and Malay.",
+    "lettering": "SINGAPURA \r\nசிங்கப்பூர் 新加坡\r\n2013\r\nSINGAPORE",
+    "lettering_scripts": [
+      {
+        "name": "Chinese"
+      },
+      {
+        "name": "Latin"
+      },
+      {
+        "name": "Tamil"
+      }
+    ],
+    "lettering_translation": "Singapore",
+    "picture": "https://en.numista.com/catalogue/photos/singapour/322-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/singapour/322-180.jpg",
+    "picture_copyright": "didi83"
+  },
+  "reverse": {
+    "engravers": [
+      "Fabian Lim"
+    ],
+    "description": "Lion-head motif, and the Esplanade theatre with denomination",
+    "lettering": "5\r\nCENTS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/singapour/323-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/singapour/323-180.jpg",
+    "picture_copyright": "didi83"
+  },
+  "tags": [
+    "Cat or feline",
+    "Theatre",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "345"
+    }
+  ],
+  "weight": 1.7,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/singapour/1816-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/singapour/1816-180.jpg",
+    "picture_copyright": "Saber82"
+  },
+  "mints": [
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,181 @@
+{
+  "id": 254,
+  "url": "https://en.numista.com/254",
+  "title": "25 Centimes (Aluminium)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "luxembourg",
+    "name": "Luxembourg"
+  },
+  "min_year": 1954,
+  "max_year": 1972,
+  "ruler": [
+    {
+      "id": 1578,
+      "name": "Charlotte",
+      "wikidata_id": "Q155608",
+      "group": {
+        "id": 129,
+        "name": "Grand Duchy of Luxembourg"
+      }
+    },
+    {
+      "id": 1576,
+      "name": "Jean",
+      "wikidata_id": "Q15988",
+      "group": {
+        "id": 129,
+        "name": "Grand Duchy of Luxembourg"
+      }
+    }
+  ],
+  "value": {
+    "text": "25 Centimes",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 79,
+      "name": "Franc",
+      "full_name": "Franc (1854-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2002-02-28"
+  },
+  "size": 19,
+  "thickness": 1.29,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium (97% Aluminium, 3% Magnesium)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Nina Victorine Lefèvre-Kestler",
+      "Julien Lefèvre"
+    ],
+    "description": "Crowned shield and adorned with a Luxembourgish lion with forked tail, rampant to the left, on a field of ten pieces, below the name of the country in Luxembourgish between two rhombs.",
+    "lettering": "• LETZEBURG •",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Luxembourg",
+    "picture": "https://en.numista.com/catalogue/photos/luxembourg/62542b93dd0433.14900149-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/luxembourg/62542b93dd0433.14900149-180.jpg",
+    "picture_copyright": "smy77",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Nina Victorine Lefèvre-Kestler",
+      "Julien Lefèvre"
+    ],
+    "description": "Face value and mint year in three lines, accosted to the left of an oak branch.",
+    "lettering": "25 \r\nCMES\r\n1968",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "25\r\nCentimes",
+    "picture": "https://en.numista.com/catalogue/photos/luxembourg/62542b944500e8.90720276-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/luxembourg/62542b944500e8.90720276-180.jpg",
+    "picture_copyright": "smy77",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "Piece carved by Nina-Victorine Lefèvre (née Kestler), of Uzbek origin, and by her husband Julien Lefèvre, struck at the Brussels Mint. These coins were intended to replace the <a href=\"https://en.numista.com/1906\">25 cents in bronze</a>. The alloy contains 97% aluminum and 3% magnesium, with a tolerance both outside and within 15 thousandths for aluminum and 10 thousandths for magnesium. The tolerance of the weight being 50 thousandths.<br /><br />\nFor the year 1963, Probst mentions three known examples in cupronickel (reference L#300-7). Weiller and no other catalog mention this variant. The reference L#306-8 corresponds to the <a href=\"https://en.numista.com/57546\">25 cents in silver</a>, polished flan, minted in 1980.<br /><br />\nExisting piece in <span style=\"font-weight:bold;\">coin alignment</span> (KM#45a.1) and in <span style=\"font-weight:bold;\">medal alignment</span> (KM#45a.2).<br />\nOrientation in medal alignment is much less common.<br />\n<a href=\"https://en.numista.com/catalogue/images/587a3fff5f367.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/587a3fff5f367.jpg\" alt=\"\" width=\"199\" height=\"65\" /></a><br />\nThe medal alignment strikes exist for the 1960, 1963, 1965 and 1967 years. Probst and Weiller also mention a medal coin for the year 1954. This orientation for the year 1954 remains unknown to the current Luxembourg numismatists. However several copies of 1954 in off-center hits are known.<br />\n<a href=\"https://en.numista.com/catalogue/images/587a518421145.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/587a518421145.jpg\" alt=\"\" width=\"200\" height=\"199\" /></a><br /><br />\nThe 25-cent aluminum coins disappeared from circulation at the end of the 1980s. Their actual withdrawal was ordered much later by the Grand-Ducal Regulation of 20 December 2001 on the demonetisation of the francs to change over to the euro.",
+  "related_types": [
+    {
+      "id": 71257,
+      "title": "25 Centimes - Charlotte (Bronze Essai)",
+      "category": "coin",
+      "country": {
+        "code": "luxembourg",
+        "name": "Luxembourg"
+      },
+      "minYear": 1946,
+      "maxYear": 1946
+    },
+    {
+      "id": 1906,
+      "title": "25 Centimes (Bronze)",
+      "category": "coin",
+      "country": {
+        "code": "luxembourg",
+        "name": "Luxembourg"
+      },
+      "minYear": 1946,
+      "maxYear": 1947
+    },
+    {
+      "id": 57546,
+      "title": "25 Centimes - Jean (Silver)",
+      "category": "coin",
+      "country": {
+        "code": "luxembourg",
+        "name": "Luxembourg"
+      },
+      "minYear": 1980,
+      "maxYear": 1980
+    }
+  ],
+  "tags": [
+    "Cat or feline",
+    "Crown",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 124,
+        "code": "L"
+      },
+      "number": "300, 306"
+    },
+    {
+      "catalogue": {
+        "id": 177,
+        "code": "Weiller"
+      },
+      "number": "290, 296"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "45a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "30a"
+    }
+  ],
+  "weight": 0.76,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/luxembourg/61504b6a0ead31.09854917-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/luxembourg/61504b6a0ead31.09854917-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 1338,
+      "name": "Royal Mint of Belgium"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

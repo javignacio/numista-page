@@ -1,0 +1,110 @@
+{
+  "id": 5014,
+  "url": "https://en.numista.com/5014",
+  "title": "1000 Sucres",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "equateur",
+    "name": "Ecuador"
+  },
+  "min_year": 1996,
+  "max_year": 1996,
+  "ruler": [
+    {
+      "id": 3758,
+      "name": "Republic",
+      "wikidata_id": "Q736"
+    }
+  ],
+  "value": {
+    "text": "1000 Sucres",
+    "numeric_value": 1000,
+    "currency": {
+      "id": 187,
+      "name": "Sucre",
+      "full_name": "Sucre (1884-2000)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2000-09-10"
+  },
+  "size": 23.5,
+  "thickness": 2.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: brass centre in stainless steel ring"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Name of the country, coat of arms, year of issue",
+    "lettering": "REPUBLICA DEL ECUADOR\r\n1996",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Ecuador",
+    "picture": "https://en.numista.com/catalogue/photos/equateur/5ef19185914152.63536998-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/equateur/5ef19185914152.63536998-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Denomination in digits (twice), denomination in words (twice), portrait of scientist and politician Eugenio Espejo",
+    "lettering": "1000 - MIL SUCRES - 1000 - MIL SUCRES\r\nEUGENIO ESPEJO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "1000 - One thousand sucres - 1000 - One thousand sucres\r\nEugenio Espejo",
+    "picture": "https://en.numista.com/catalogue/photos/equateur/5ef191862e45c1.13715196-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/equateur/5ef191862e45c1.13715196-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "tags": [
+    "Literature",
+    "Science"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "99"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "93"
+    }
+  ],
+  "weight": 6.7,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/equateur/443-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/equateur/443-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 1339,
+      "name": "Sherritt Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

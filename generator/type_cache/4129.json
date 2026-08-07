@@ -1,0 +1,177 @@
+{
+  "id": 4129,
+  "url": "https://en.numista.com/4129",
+  "title": "25 Øre - Haakon VII",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "norvege",
+    "name": "Norway"
+  },
+  "min_year": 1924,
+  "max_year": 1950,
+  "ruler": [
+    {
+      "id": 449,
+      "name": "Haakon VII",
+      "wikidata_id": "Q154927",
+      "group": {
+        "id": 358,
+        "name": "House of Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "25 Øre",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 16,
+      "name": "Krone",
+      "full_name": "Krone (1875-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 17,
+  "thickness": 1.8,
+  "shape": "Round with a round hole",
+  "composition": {
+    "text": "Copper-nickel (Cu 75%, Ni 25%)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Cross consisting of four crowned Haakon VII monograms, around a hole. Beaded ring on the rim.",
+    "lettering": "H7 H7 H7 H7",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/norvege/64caacca22e2e8.31979739-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/64caacca22e2e8.31979739-180.jpg",
+    "picture_copyright": "Elvi75"
+  },
+  "reverse": {
+    "description": "Crown above a hole in the middle. Value below the hole. A triskelion on each side of the hole. Inscription below hole, above value. Mintmark on shield to the left of value. Date to the right of value. Beaded ring on the rim.",
+    "lettering": "NORGE\r\n⚒ 25 ØRE 1947",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Norway",
+    "picture": "https://en.numista.com/catalogue/photos/norvege/64caaccaae7ac5.96090532-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/64caaccaae7ac5.96090532-180.jpg",
+    "picture_copyright": "Elvi75"
+  },
+  "comments": "<p><a href=\"https://en.numista.com/catalogue/images/67475960cb897.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67475960cb897.jpg\"></a></p>",
+  "related_types": [
+    {
+      "id": 23974,
+      "title": "25 Øre - Haakon VII",
+      "category": "coin",
+      "country": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "minYear": 1909,
+      "maxYear": 1919
+    },
+    {
+      "id": 24391,
+      "title": "25 Øre - Haakon VII",
+      "category": "coin",
+      "country": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "minYear": 1921,
+      "maxYear": 1923
+    },
+    {
+      "id": 8716,
+      "title": "25 Øre - Haakon VII",
+      "category": "coin",
+      "country": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "minYear": 1921,
+      "maxYear": 1923
+    },
+    {
+      "id": 24392,
+      "title": "25 Øre - Haakon VII (WW2 Exile Coinage)",
+      "category": "coin",
+      "country": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "minYear": 1942,
+      "maxYear": 1942
+    },
+    {
+      "id": 1436,
+      "title": "25 Øre - Haakon VII",
+      "category": "coin",
+      "country": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "minYear": 1952,
+      "maxYear": 1957
+    },
+    {
+      "id": 6083,
+      "title": "25 Øre (German Occupation Coinage)",
+      "category": "coin",
+      "country": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "minYear": 1943,
+      "maxYear": 1945
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "384"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "35"
+    },
+    {
+      "catalogue": {
+        "id": 201,
+        "code": "Rønning"
+      },
+      "number": "271"
+    }
+  ],
+  "weight": 2.4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain."
+  },
+  "mints": [
+    {
+      "id": 1888,
+      "name": "Norwegian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

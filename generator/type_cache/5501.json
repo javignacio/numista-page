@@ -1,0 +1,120 @@
+{
+  "id": 5501,
+  "url": "https://en.numista.com/5501",
+  "title": "1 Farthing - Victoria (1st portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1838,
+  "max_year": 1864,
+  "ruler": [
+    {
+      "id": 270,
+      "name": "Victoria",
+      "wikidata_id": "Q9439",
+      "nomisma_id": "queen_victoria",
+      "group": {
+        "id": 525,
+        "name": "House of Hanover"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Farthing",
+    "numeric_value": 0.0010416666666666667,
+    "numerator": 1,
+    "denominator": 960,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1971)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1869-12-31"
+  },
+  "size": 22,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "William Wyon"
+    ],
+    "description": "Uncrowned portrait ('Young Head') of Queen Victoria left, legend around, date below, initials on bust truncation.\r\n\r\nNote: varieties exist (see below)",
+    "lettering": "VICTORIA DEI GRATIA\r\n1858 \r\nW W",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Victoria by the Grace of God",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/5e393d0b3e7372.75007170-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/5e393d0b3e7372.75007170-180.jpg",
+    "picture_copyright": "gdch6ng",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Seated figure of Britannia right, trident in left hand, shield with Union flag in right hand, legend around, national flower emblems in exergue.\r\n\r\nNote: varieties exist (see below)",
+    "lettering": "BRITANNIAR: REG: FID: DEF:",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Britanniarum Regina Fidei Defensatrix",
+    "lettering_translation": "Queen of the Britains Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/5e393d0ba8a388.71862985-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/5e393d0ba8a388.71862985-180.jpg",
+    "picture_copyright": "gdch6ng",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p>The standard weight was one sixth ounce avoirdupois (72 11/12 grains) although can vary between 4.5-4.9g.<br><br><i>Obverse and reverse die varieties:</i><br><strong>Obverse 1</strong> (1838-49) 'WW' raised on truncation, head and bun further from legend;<br><strong>Obverse 2</strong> (1850-53, 1855) 'WW' raised on truncation, head and bun closer to legend;<br><strong>Obverse 3</strong> (1853, 1855-59) 'WW' incuse on truncation, head and bun closer to legend;<br><strong>Reverse A</strong> (1838-45) Trident shaft touches thigh, straight mouth, plume touches shoulder;<br><strong>Reverse B</strong> (1843-59) Trident shaft short of thigh, down-turned mouth, plume short of shoulder;<br><br><i>1838 reverse die variety:</i><br><a href=\"https://en.numista.com/catalogue/images/60fe64e0f07e4.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/60fe64e0f07e4.jpg\" alt=\"\"></a><br><br><i>1839 die varieties:</i><br><a href=\"https://en.numista.com/catalogue/images/61bf01c0308c4.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/61bf01c0308c4.jpg\" alt=\"\"></a><br><br><i>1840 die varieties:</i><br><a href=\"https://en.numista.com/catalogue/images/61bf01eab2778.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/61bf01eab2778.jpg\" alt=\"\"></a><br><br><i>1843 die varieties:</i><br><a href=\"https://en.numista.com/catalogue/images/61bf020786b33.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/61bf020786b33.jpg\" alt=\"\"></a><br><br><i>1844 die varieties:</i><br><a href=\"https://en.numista.com/catalogue/images/61bf15bf6c65c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/61bf15bf6c65c.jpg\" alt=\"\"></a><br><br><i>1846 die varieties:</i><br><a href=\"https://en.numista.com/catalogue/images/61bf15e32bd5c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/61bf15e32bd5c.jpg\" alt=\"\"></a><br><br><i>1848 die varieties:</i><br><a href=\"https://en.numista.com/catalogue/images/61bf15fe585d2.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/61bf15fe585d2.jpg\" alt=\"\"></a><br><br><i>1850 die varieties:</i><br><a href=\"https://en.numista.com/catalogue/images/61bf161519305.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/61bf161519305.jpg\" alt=\"\"></a><br><br><i>1851 die varieties:</i><br><a href=\"https://en.numista.com/catalogue/images/61bf1629df1a0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/61bf1629df1a0.jpg\" alt=\"\"></a><br><br><i>1852 die varieties:</i><br><a href=\"https://en.numista.com/catalogue/images/61bf163ede60f.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/61bf163ede60f.jpg\" alt=\"\"></a><br><br><i>1856 die varieties:</i><br><a href=\"https://en.numista.com/catalogue/images/61bf165538842.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/61bf165538842.jpg\" alt=\"\"></a><br><br><i>1857 die varieties:</i><br><a href=\"https://en.numista.com/catalogue/images/61bf1669bc598.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/61bf1669bc598.jpg\" alt=\"\"></a><br><br>For more detailed information on Victorian farthing varieties, please visit <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"http://aboutfarthings.co.uk/catalogue/uk-farthings/victoria-1838-1901\">Aboutfarthings</a>.</p>",
+  "tags": [
+    "Armour",
+    "Flower",
+    "Cross"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "725"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "3950"
+    }
+  ],
+  "weight": 4.72,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

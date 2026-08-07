@@ -1,0 +1,189 @@
+{
+  "id": 195,
+  "url": "https://en.numista.com/195",
+  "title": "5 Francs (Herdsman; copper-nickel; embossed edge)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "suisse",
+    "name": "Switzerland (1848-date)"
+  },
+  "min_year": 1968,
+  "max_year": 2026,
+  "ruler": [
+    {
+      "id": 2857,
+      "name": "Federal State",
+      "wikidata_id": "Q355857"
+    }
+  ],
+  "value": {
+    "text": "5 Francs",
+    "numeric_value": 5,
+    "currency": {
+      "id": 82,
+      "name": "Franc",
+      "full_name": "Franc (1850-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 31.45,
+  "thickness": 2.35,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% copper, 25% nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Paul Burkhard"
+    ],
+    "description": "Bust of curly-haired herdsman, facing right, wearing hooded shirt, often mistakenly identified as William Tell.",
+    "lettering": "CONFOEDERATIO HELVETICA\r\nP , BVRKHARD , INCᵀ,",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Confederatio Helvetica. Paul Burkhard incidit.",
+    "lettering_translation": "Swiss Confederation. Engraved by Paul Burkhard.",
+    "picture": "https://en.numista.com/catalogue/photos/suisse/67b247d6c89eb2.06884358-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suisse/67b247d6c89eb2.06884358-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "reverse": {
+    "designers": [
+      "Paul Burkhard"
+    ],
+    "description": "Coat of arms of Switzerland on square shield. Edelweiss (Leontopodium nivale) spring to the left. Alpenrose (Rhododendron ferrugineum) spring to the right.",
+    "lettering": "5 FR.\r\n1980",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/suisse/67b247d76e7d32.50743793-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suisse/67b247d76e7d32.50743793-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "comments": "<p>In 1967, the price of silver soared steeply, reaching 260 francs per kilogram in August and 350 francs per kilogram in March 1968. At this time, the melt value of the 1⁄2, 1, and 2 franc pieces was circa 46% higher than their nominal value. Nevertheless, the nominal value of the 5 franc coin continued to stay slightly above its melt value of 4.38 francs. Switzerland started to experience a severe shortage of cash, due to the 1⁄2, 1, and 2 franc pieces being illegally melted. To a certain extend, the number of 5 franc pieces in circulation also dropped, due to hoarding.<br><br>To alleviate the crisis, the federal council switched to a copper-nickel alloy for the 1⁄2, 1, and 2 franc pieces in 1968. Moreover, the federal council secretly approved the minting of copper-nickel 5 franc pieces as well, but initially concealed the 33 871 000 pieces minted in 1968. Officially, 5 532 000 silver pieces were reported for 1967. To avoid a further shortage of cash, the Swiss mint produced an additional 8 285 000 silver pieces in 1968, but dated 1967, and 8 637 000 silver pieces in 1969, after which, the copper-nickel pieces dated 1968 were finally released into circulation.<br><br><i>Source</i>: Ruedi Kunzmann; 2002. \"<i>Die Silbermünzenkrise der Schweiz von 1968 und die Tätigkeit der Royal Mint, London</i>\". Schweizer Münzblätter, volume 50-52, page 68-72.</p>",
+  "related_types": [
+    {
+      "id": 193,
+      "title": "5 Francs (Herdsman; silver; large type; 5 Fr.)",
+      "category": "coin",
+      "country": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "minYear": 1922,
+      "maxYear": 1923
+    },
+    {
+      "id": 19999,
+      "title": "5 Francs (Herdsman; silver; large type; 5 FR.)",
+      "category": "coin",
+      "country": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "minYear": 1924,
+      "maxYear": 1928
+    },
+    {
+      "id": 194,
+      "title": "5 Francs (Herdsman; silver; small type)",
+      "category": "coin",
+      "country": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "minYear": 1931,
+      "maxYear": 1969
+    },
+    {
+      "id": 294830,
+      "title": "5 Francs (Herdsman; copper-nickel; incuse edge)",
+      "category": "coin",
+      "country": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "minYear": 1985,
+      "maxYear": 1993
+    }
+  ],
+  "tags": [
+    "Flower",
+    "Coat of Arms",
+    "Cross"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 1253,
+        "code": "HMZ 2"
+      },
+      "number": "1200"
+    },
+    {
+      "catalogue": {
+        "id": 962,
+        "code": "Divo/Tob19"
+      },
+      "number": "–"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "40a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "36a"
+    },
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "–"
+    }
+  ],
+  "weight": 13.2,
+  "orientation": "variable",
+  "edge": {
+    "description": "Embossed lettering.",
+    "lettering": "★★★ DOMINUS | PROVIDEBIT | ★★★★★★★★★★ |",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "The Lord Will Provide.",
+    "picture": "https://en.numista.com/catalogue/photos/suisse/695d41009089b1.91397484-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suisse/695d41009089b1.91397484-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "mints": [
+    {
+      "id": 247,
+      "name": "Bern"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

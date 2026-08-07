@@ -1,0 +1,182 @@
+{
+  "id": 2215,
+  "url": "https://en.numista.com/2215",
+  "title": "10 Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "argentine",
+    "name": "Argentina"
+  },
+  "min_year": 1970,
+  "max_year": 1976,
+  "ruler": [
+    {
+      "id": 3983,
+      "name": "Federal Republic",
+      "wikidata_id": "Q414"
+    }
+  ],
+  "value": {
+    "text": "10 Centavos",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 260,
+      "name": "Peso ley",
+      "full_name": "Peso ley (1970-1983)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1979-12-28"
+  },
+  "size": 16.5,
+  "thickness": 1.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "In the field the Liberty head designed by the artist Oudiné. Legend perimeter \"República Argentina\", among stars \"Libertad\". Dotted border.",
+    "lettering": "REPUBLICA ARGENTINA\r\n*LIBERTAD*",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Argentina\r\nLiberty",
+    "picture": "https://en.numista.com/catalogue/photos/argentine/6943ccb5e260a4.24526214-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/6943ccb5e260a4.24526214-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "reverse": {
+    "description": "In the field, the value, the denomination and the date, on the left a straight laurel twing. Dotted border.",
+    "lettering": "10\r\nCENTAVOS\r\n1970",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/argentine/6943ccb711f842.11052812-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/6943ccb711f842.11052812-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "comments": "<p><a href=\"https://en.numista.com/catalogue/images/5c93737c2543a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5c93737c2543a.jpg\" alt=\"\"></a><br><br>Previously KM#41</p>",
+  "related_types": [
+    {
+      "id": 3236,
+      "title": "1 Centavo",
+      "category": "coin",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 1970,
+      "maxYear": 1975
+    },
+    {
+      "id": 3243,
+      "title": "5 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 1970,
+      "maxYear": 1975
+    },
+    {
+      "id": 3255,
+      "title": "20 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 1970,
+      "maxYear": 1976
+    },
+    {
+      "id": 2218,
+      "title": "50 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 1970,
+      "maxYear": 1976
+    },
+    {
+      "id": 5227,
+      "title": "1 Peso",
+      "category": "coin",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 1974,
+      "maxYear": 1976
+    },
+    {
+      "id": 5228,
+      "title": "5 Pesos",
+      "category": "coin",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 1976,
+      "maxYear": 1977
+    },
+    {
+      "id": 5229,
+      "title": "10 Pesos",
+      "category": "coin",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 1976,
+      "maxYear": 1978
+    }
+  ],
+  "tags": [
+    "Allegory",
+    "Phrygian cap"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "66"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "66"
+    }
+  ],
+  "weight": 2,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 1336,
+      "name": "Buenos Aires"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

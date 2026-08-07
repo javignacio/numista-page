@@ -1,0 +1,144 @@
+{
+  "id": 42,
+  "url": "https://en.numista.com/42",
+  "title": "1 Cent \"Lincoln Memorial Cent\" (Bronze)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "etats-unis",
+    "name": "United States"
+  },
+  "min_year": 1959,
+  "max_year": 1982,
+  "ruler": [
+    {
+      "id": 4720,
+      "name": "Federal republic",
+      "wikidata_id": "Q30"
+    }
+  ],
+  "value": {
+    "text": "1 Cent",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 59,
+      "name": "Dollar",
+      "full_name": "Dollar (1785-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 19,
+  "thickness": 1.3,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze (95% copper, 5% zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Victor David Brenner"
+    ],
+    "description": "The portrait of Abraham Lincoln, the 16th President of the United States from 1861 to 1865, facing right accompanied by the motto.",
+    "lettering": "IN GOD WE TRUST\r\nLIBERTY\r\n1978\r\nS\r\nV D B",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/67b75dfe89f2a2.39273515-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/67b75dfe89f2a2.39273515-180.jpg",
+    "picture_copyright": "Pinheiro, Rafael",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Frank Gasparro"
+    ],
+    "description": "The Lincoln Memorial surrounded with the face value in full",
+    "lettering": "UNITED STATES oF AMERICA\r\nE • PLURIBUS \r\n• UNUM • \r\nFG\r\nONE CENT",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Out of Many, One",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/67b75dff61f016.66134950-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/67b75dff61f016.66134950-180.jpg",
+    "picture_copyright": "Pinheiro, Rafael",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "comments": "<p>The standard weight of this coin was 48 grains.<br><br>From 1959 to September 5, 1962 these coins were minted with 95% Copper and 5% Tin and Zinc. After September 5, 1962 and until 1982 these coins were minted with 95% Copper and 5% Zinc (Brass).<br><br>From 1965 to 1967, these coins were minted in Philadelphia and Denver without a mintmark.</p><p>&nbsp;</p><p>Cents dated 1968-1974 bearing an \"S\" mintmark are most likely not proofs. The San Francisco Mint struck this coin for circulation as well as all proofs for this type. \"S\" cents dated 1975 and later are always proofs.<br><br>From 1974 through 1986, a number of these coins were minted in the United States Bullion Depository, West Point. These coins lacked a mintmark are were indistinguishable from the Philadelphia issue.<br><br>FG engraver's signature<br><a href=\"https://en.numista.com/catalogue/images/6020291f0afb0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6020291f0afb0.jpg\" alt=\"\"></a><br><br><u>1960</u><br><a href=\"https://en.numista.com/catalogue/images/5aa2c5c9d44b5.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5aa2c5c9d44b5.jpg\" alt=\"\"></a><br>1960<br><a href=\"https://en.numista.com/catalogue/images/636537bcec14b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/636537bcec14b.jpg\" alt=\"\"></a><br>1969 double die<br><a href=\"https://en.numista.com/catalogue/images/636538085c8c7.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/636538085c8c7.jpg\" alt=\"\"></a><br><br><u>1969</u><br>Mintmark D: aligned with the word LIBERTY, there are small differences in the position of the date, the mintmark D and the motto \"IN GOD WE TRUST\".<br><a href=\"https://en.numista.com/catalogue/images/602028da93cbb.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/602028da93cbb.jpg\" alt=\"\"></a><br>1970 far near S<br><a href=\"https://en.numista.com/catalogue/images/636538639fb39.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/636538639fb39.jpg\" alt=\"\"></a><br>1971 double die<br><a href=\"https://en.numista.com/catalogue/images/6365388d021ed.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6365388d021ed.jpg\" alt=\"\"></a><br><u>1971, 1972</u><br>In 1971 and 1972 the original dies of obverse were used.<br>Die with vest line started from the knot of bowtie and with vest line started from a loop of bowtie.<br>Picture: © Images courtesy of Alexandr Prokofyev<br><a href=\"https://en.numista.com/catalogue/images/617fa077b760c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/617fa077b760c.jpg\" alt=\"\"></a><br>The upper die on the photos was in use in 1971 and 1972 years for all issues, the lower - in 1971 only for all issues.<br>1979S<br><a href=\"https://en.numista.com/catalogue/images/636538d0a4ae0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/636538d0a4ae0.jpg\" alt=\"\"></a><br>1981S<br><a href=\"https://en.numista.com/catalogue/images/636538e403f79.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/636538e403f79.jpg\" alt=\"\"></a><br><br><u>1982</u><br>The year 1982 is a transition: the earliest coins were struck in 95% copper, and the latest coins were struck in copper plated zinc. One of the most noticeable differences between the two is the weight (3.11 grams versus 2.50 grams).<br><a href=\"https://en.numista.com/catalogue/images/5c877e4275727.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5c877e4275727.jpg\" alt=\"\"></a></p>",
+  "related_types": [
+    {
+      "id": 43,
+      "title": "1 Cent \"Lincoln Memorial Cent\" (copper plated zinc)",
+      "category": "coin",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 1982,
+      "maxYear": 2008
+    }
+  ],
+  "tags": [
+    "Memorial",
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "201"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "202"
+    }
+  ],
+  "weight": 3.11,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/3289-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/3289-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 10,
+      "name": "United States Mint of Denver"
+    },
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    },
+    {
+      "id": 13,
+      "name": "United States Mint of West Point"
+    },
+    {
+      "id": 10,
+      "name": "United States Mint of Denver"
+    },
+    {
+      "id": 12,
+      "name": "United States Mint of San Francisco"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

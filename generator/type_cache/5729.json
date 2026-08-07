@@ -1,0 +1,175 @@
+{
+  "id": 5729,
+  "url": "https://en.numista.com/5729",
+  "title": "1 Penny - Elizabeth II (2nd portrait; non-magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "iles_malouines",
+    "name": "Falkland Islands"
+  },
+  "min_year": 1974,
+  "max_year": 1992,
+  "ruler": [
+    {
+      "id": 2978,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 829,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Penny",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 118,
+      "name": "Pound",
+      "full_name": "Pound (decimalized, 1971-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 20.32,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Arnold Machin"
+    ],
+    "description": "Young bust of Queen Elizabeth II facing right surrounded by legend",
+    "lettering": "QUEEN ELIZABETH THE SECOND",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/iles_malouines/172-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/iles_malouines/172-180.jpg",
+    "picture_copyright": "Monéphil",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "William Maving Gardner"
+    ],
+    "description": "Two Gentoo Penguins standing facing, denomination between them",
+    "lettering": "FALKLAND ISLANDS\r\n1\r\nWG\r\n1992",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/iles_malouines/173-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/iles_malouines/173-180.jpg",
+    "picture_copyright": "Monéphil",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "Wrong planchet mint errors <a href=\"https://en.numista.com/forum/topic134688.html#p1083045\">have been found</a> (magnetic)<br />\r\n<a href=\"https://en.numista.com/catalogue/images/64bdad32bbe7c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64bdad32bbe7c.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "related_types": [
+    {
+      "id": 7137,
+      "title": "½ Penny - Elizabeth II (2nd portrait)",
+      "category": "coin",
+      "country": {
+        "code": "iles_malouines",
+        "name": "Falkland Islands"
+      },
+      "minYear": 1974,
+      "maxYear": 1983
+    },
+    {
+      "id": 5730,
+      "title": "2 Pence - Elizabeth II (2nd portrait)",
+      "category": "coin",
+      "country": {
+        "code": "iles_malouines",
+        "name": "Falkland Islands"
+      },
+      "minYear": 1974,
+      "maxYear": 1992
+    },
+    {
+      "id": 9408,
+      "title": "5 Pence - Elizabeth II (2nd portrait; large type)",
+      "category": "coin",
+      "country": {
+        "code": "iles_malouines",
+        "name": "Falkland Islands"
+      },
+      "minYear": 1974,
+      "maxYear": 1992
+    },
+    {
+      "id": 9409,
+      "title": "10 Pence - Elizabeth II (2nd portrait; large type)",
+      "category": "coin",
+      "country": {
+        "code": "iles_malouines",
+        "name": "Falkland Islands"
+      },
+      "minYear": 1974,
+      "maxYear": 1992
+    },
+    {
+      "id": 9410,
+      "title": "20 Pence - Elizabeth II (2nd portrait)",
+      "category": "coin",
+      "country": {
+        "code": "iles_malouines",
+        "name": "Falkland Islands"
+      },
+      "minYear": 1982,
+      "maxYear": 1999
+    },
+    {
+      "id": 9411,
+      "title": "50 Pence - Elizabeth II (2nd portrait; large type)",
+      "category": "coin",
+      "country": {
+        "code": "iles_malouines",
+        "name": "Falkland Islands"
+      },
+      "minYear": 1980,
+      "maxYear": 1992
+    }
+  ],
+  "tags": [
+    "Bird"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "2"
+    }
+  ],
+  "weight": 3.56,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

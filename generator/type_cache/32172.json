@@ -1,0 +1,140 @@
+{
+  "id": 32172,
+  "url": "https://en.numista.com/32172",
+  "title": "¼ Dollar \"Washington Quarter\" (Chaco Culture National Historical Park, New Mexico)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "etats-unis",
+    "name": "United States"
+  },
+  "min_year": 2012,
+  "max_year": 2012,
+  "ruler": [
+    {
+      "id": 4720,
+      "name": "Federal republic",
+      "wikidata_id": "Q30"
+    }
+  ],
+  "value": {
+    "text": "¼ Dollar ",
+    "numeric_value": 0.25,
+    "numerator": 1,
+    "denominator": 4,
+    "currency": {
+      "id": 59,
+      "name": "Dollar",
+      "full_name": "Dollar (1785-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24.26,
+  "thickness": 1.75,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel clad copper"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "John Flanagan",
+      "William Cousins"
+    ],
+    "description": "The portrait in left profile of George Washington, the first President of the United States from 1789 to 1797.",
+    "lettering": "UNITED STATES OF AMERICA\r\nIN \r\nGOD WE \r\nTRUST\r\nLIBERTY  S\r\nJF  WC\r\nQUARTER DOLLAR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/65bf7aae09b8d1.44488190-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/65bf7aae09b8d1.44488190-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Phebe Hemphill",
+      "Donna Weaver"
+    ],
+    "description": "A view to the west of two elevated kivas that are part of the Chetro Ketl Complex. The design also shows the north wall of Chetro Ketl and the north wall of the canyon.",
+    "lettering": "CHACO CULTURE\r\nPH\r\nDW\r\nNEW MEXICO   2012   E PLURIBUS UNUM",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Chaco Culture\r\nPH\r\nDW\r\nNew Mexico 2012 Out of Many, One",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/65bf7ab04d5b78.30014061-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/65bf7ab04d5b78.30014061-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "series": "United States Mint's \"America the Beautiful\" Quarters Program",
+  "commemorated_topic": "Chaco Culture National Historical Park, New Mexico",
+  "related_types": [
+    {
+      "id": 35024,
+      "title": "¼ Dollar \"Washington Quarter\" (Chaco Culture National Historical Park, New Mexico - Silver Proof)",
+      "category": "coin",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 2012,
+      "maxYear": 2012
+    }
+  ],
+  "tags": [
+    "Park"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "520"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "512"
+    }
+  ],
+  "weight": 5.67,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/3242-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/3242-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 10,
+      "name": "United States Mint of Denver"
+    },
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    },
+    {
+      "id": 12,
+      "name": "United States Mint of San Francisco"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

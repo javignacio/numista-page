@@ -1,0 +1,158 @@
+{
+  "id": 3057,
+  "url": "https://en.numista.com/3057",
+  "title": "5 Pesos Uruguayos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "uruguay",
+    "name": "Uruguay"
+  },
+  "issuing_entity": {
+    "id": 30,
+    "name": "Central Bank of Uruguay",
+    "wikidata_id": "Q4504285"
+  },
+  "min_year": 2003,
+  "max_year": 2008,
+  "ruler": [
+    {
+      "id": 3897,
+      "name": "Oriental Republic of Uruguay",
+      "wikidata_id": "Q77"
+    }
+  ],
+  "value": {
+    "text": "5 Pesos Uruguayos",
+    "numeric_value": 5,
+    "currency": {
+      "id": 153,
+      "name": "Peso uruguayo",
+      "full_name": "Peso uruguayo (1993-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 26,
+  "thickness": 1.66,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-aluminium-nickel (92% Copper, 6% Aluminium, 2% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Portrait of Jose Gervasio Artigas (national hero) facing right; surrounded by country name.",
+    "lettering": "REPUBLICA ORIENTAL DEL URUGUAY",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Eastern Republic of Uruguay",
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/698eb7db9b0f37.53462149-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/698eb7db9b0f37.53462149-180.jpg",
+    "picture_copyright": "Verbamint",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Value in both numerals and lettering. Date below exergue line.",
+    "lettering": "$5\r\nCINCO PESOS\r\nURUGUAYOS\r\n2008",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "$5\r\nFive Pesos \r\nUruguayos\r\n2003",
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/698eb7dc364c70.27029034-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/698eb7dc364c70.27029034-180.jpg",
+    "picture_copyright": "Verbamint",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "There are 2 variants for this coin (Krause):<br /><br />\r\nKM# 120.1 Minted at Buenos Aires, dated 2003, has no mintmark, and also the neck of the bust points between &quot;P&quot; and &quot;U&quot; on &quot;REPÚBLICA&quot;.<br /><br />\r\nKM# 120.2 Minted at Santiago dated 2005 and 2008 has the mintmark under bust; the neck of the bust points directly to the &quot;P&quot; on &quot;REPÚBLICA&quot;.<br /><br />\r\n2005 version is softer than 2003 and 2008 (stronger relief of details).<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/60e10136a3b36.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/60e10136a3b36.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\nKM# 120.1 on right, KM# 120.2 on left<br />\r\n© adanieluy<br /><br />\r\nVariants:<br /><br />\r\n<span style=\"font-weight:bold;\">2003:</span><br />\r\nSA# 143.1.1, CG# 168.1.A, coin rotation,<br />\r\nSA# 143.1.2, CG# 168.1.B, medal rotation (normal issue),<br />\r\nSA# 143.1.3, CG# 168.1.C, 90º or 270º rotation,<br />\r\nSA# 143.1.4, CG# 168.1.D, other rotation.<br /><br />\r\n<span style=\"font-weight:bold;\">2005:</span><br />\r\nSA# 147.1.2, CG# 176.1.B, medal rotation (normal issue),<br />\r\nSA# 147.1.4, CG# 176.1.D, other rotation.<br /><br />\r\n<span style=\"font-weight:bold;\">2008:</span><br />\r\nNo variations",
+  "tags": [
+    "Military leader",
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "120"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "93"
+    },
+    {
+      "catalogue": {
+        "id": 709,
+        "code": "SA"
+      },
+      "number": "143"
+    },
+    {
+      "catalogue": {
+        "id": 709,
+        "code": "SA"
+      },
+      "number": "147"
+    },
+    {
+      "catalogue": {
+        "id": 709,
+        "code": "SA"
+      },
+      "number": "152"
+    },
+    {
+      "catalogue": {
+        "id": 2069,
+        "code": "CG"
+      },
+      "number": "168"
+    },
+    {
+      "catalogue": {
+        "id": 2069,
+        "code": "CG"
+      },
+      "number": "176"
+    },
+    {
+      "catalogue": {
+        "id": 2069,
+        "code": "CG"
+      },
+      "number": "182"
+    }
+  ],
+  "weight": 6.27,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 1336,
+      "name": "Buenos Aires"
+    },
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

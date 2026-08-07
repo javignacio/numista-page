@@ -1,0 +1,142 @@
+{
+  "id": 3010,
+  "url": "https://en.numista.com/3010",
+  "title": "5 Centavos (Liberty)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "colombie",
+    "name": "Colombia"
+  },
+  "min_year": 1918,
+  "max_year": 1950,
+  "ruler": [
+    {
+      "id": 4088,
+      "name": "Republic",
+      "wikidata_id": "Q739"
+    }
+  ],
+  "value": {
+    "text": "5 Centavos",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 147,
+      "name": "Peso decimalized",
+      "full_name": "Peso decimalized (1847-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Bust of Liberty facing right, with the country name around the top edge and the date below.",
+    "lettering": "REPÚBLICA DE COLOMBIA\r\nLIBERTAD\r\n1933",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Colombia\r\nLiberty",
+    "picture": "https://en.numista.com/catalogue/photos/colombie/5f52fd78a44272.46866570-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/5f52fd78a44272.46866570-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "description": "Denomination within wreath.",
+    "lettering": "V\r\nCENTAVOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/colombie/5f52fd791593a4.39181454-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/5f52fd791593a4.39181454-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "<p><a href=\"https://en.numista.com/catalogue/images/5ca9fffc965a3.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5ca9fffc965a3.jpg\" alt=\"\"></a><br><br><a href=\"https://en.numista.com/catalogue/images/67dc2c359869f.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67dc2c359869f.jpg\"></a></p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/67d460145714e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67d460145714e.jpg\"></a></p><p>Multiple years exists with and without beads, including 1933, 1935, 1938 and 1946. Some coins exhibit faint tracing of beads.<br><a href=\"https://en.numista.com/catalogue/images/581464b430902.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/581464b430902.jpg\" alt=\"\"></a><a href=\"https://en.numista.com/catalogue/images/581464bf2c47f.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/581464bf2c47f.jpg\" alt=\"\"></a><br><a href=\"https://en.numista.com/catalogue/images/5ef2d391e64f2.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5ef2d391e64f2.jpg\" alt=\"\"></a><a href=\"https://en.numista.com/catalogue/images/5ef2d3b826904.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5ef2d3b826904.jpg\" alt=\"\"></a><br><a href=\"https://en.numista.com/catalogue/images/5ef2d3cc5ba6e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5ef2d3cc5ba6e.jpg\" alt=\"\"></a><br><br><br><br><strong>Note: Small letter H on the reverse is not a mintmark. All the coins of 1918-1924, with this letter or without it, were minted in Bogotá</strong><br><br>For the 1946 dated coins:13,423,000 were minted in the Philadelphia Mint and 26,577,000 were minted in the San Francisco Mint (3,330,000 in 1946 and 23,247,000 in 1947).<br><br>Varieties exist for 1950 B: small 50 in date, large 50 in date (scarce), and very large 50 in date (rare).</p><p>&nbsp;</p><p>&nbsp;</p><p><strong><u>Note: varieties exist for 1941 B: small mintmark B, big minmark B</u></strong></p><p>&nbsp;</p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/683b7060a6b63.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/683b7060a6b63.jpg\"></a></p>",
+  "tags": [
+    "Allegory",
+    "Phrygian cap",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "199"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "14"
+    },
+    {
+      "catalogue": {
+        "id": 347,
+        "code": "Hernández"
+      },
+      "number": "364-376"
+    },
+    {
+      "catalogue": {
+        "id": 348,
+        "code": "Restrepo"
+      },
+      "number": "368"
+    }
+  ],
+  "weight": 4,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/colombie/68ef1d823f32b3.11601718-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/68ef1d823f32b3.11601718-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 280,
+      "name": "Bogota Mint"
+    },
+    {
+      "id": 281,
+      "name": "Casa de Moneda de Colombia"
+    },
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    },
+    {
+      "id": 12,
+      "name": "United States Mint of San Francisco"
+    },
+    {
+      "id": 280,
+      "name": "Bogota Mint"
+    },
+    {
+      "id": 18,
+      "name": "Heaton and Sons / The Mint Birmingham"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

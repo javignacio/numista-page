@@ -1,0 +1,210 @@
+{
+  "id": 1801,
+  "url": "https://en.numista.com/1801",
+  "title": "100 Francs CFA",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "republique_centrafricaine",
+    "name": "Central African Republic"
+  },
+  "issuing_entity": {
+    "id": 699,
+    "name": "Bank of Central African States",
+    "wikidata_id": "Q189972"
+  },
+  "min_year": 1975,
+  "max_year": 1990,
+  "ruler": [
+    {
+      "id": 831,
+      "name": "Republic",
+      "wikidata_id": "Q929"
+    }
+  ],
+  "value": {
+    "text": "100 Francs CFA",
+    "numeric_value": 100,
+    "currency": {
+      "id": 9043,
+      "name": "CFA Franc",
+      "full_name": "CFA Franc (Bank of Central African States, 1973-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25.5,
+  "thickness": 1.69,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Lucien Georges Bazor"
+    ],
+    "description": "Three giant elands (Antelopes), also known as the Lord Derby eland (Binomial Name: Taurotragus derbianus) facing left.",
+    "lettering": "REPUBLIQUE CENTRAFRICAINE\r\nG.B.L.BAZOR\r\nCR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central African republic",
+    "picture": "https://en.numista.com/catalogue/photos/republique_centrafricaine/6046052fe4d6b8.64998409-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/republique_centrafricaine/6046052fe4d6b8.64998409-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "reverse": {
+    "description": "Denomination and date within circle.",
+    "lettering": "BANQUE DES ETATS DE\r\nL'AFRIQUE CENTRALE\r\n100\r\nFRANCS\r\n1982",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Bank of Central African States",
+    "picture": "https://en.numista.com/catalogue/photos/republique_centrafricaine/604605303ee040.26406457-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/republique_centrafricaine/604605303ee040.26406457-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "related_types": [
+    {
+      "id": 4380,
+      "title": "100 Francs",
+      "category": "coin",
+      "country": {
+        "code": "cameroun",
+        "name": "Cameroon (1960-date)"
+      },
+      "minYear": 1975,
+      "maxYear": 1986
+    },
+    {
+      "id": 1375,
+      "title": "100 Francs CFA",
+      "category": "coin",
+      "country": {
+        "code": "republique_centrafricaine",
+        "name": "Central African Republic"
+      },
+      "minYear": 1971,
+      "maxYear": 1972
+    },
+    {
+      "id": 176154,
+      "title": "100 Francs CFA (Essai)",
+      "category": "coin",
+      "country": {
+        "code": "republique_centrafricaine",
+        "name": "Central African Republic"
+      },
+      "minYear": 1975,
+      "maxYear": 1975
+    },
+    {
+      "id": 10091,
+      "title": "100 Francs CFA - Bokassa I",
+      "category": "coin",
+      "country": {
+        "code": "republique_centrafricaine",
+        "name": "Central African Republic"
+      },
+      "minYear": 1978,
+      "maxYear": 1978
+    },
+    {
+      "id": 1805,
+      "title": "100 Francs CFA",
+      "category": "coin",
+      "country": {
+        "code": "beac",
+        "name": "Central African States"
+      },
+      "minYear": 1992,
+      "maxYear": 2003
+    },
+    {
+      "id": 5767,
+      "title": "100 Francs",
+      "category": "coin",
+      "country": {
+        "code": "tchad",
+        "name": "Chad"
+      },
+      "minYear": 1971,
+      "maxYear": 1972
+    },
+    {
+      "id": 8523,
+      "title": "100 Francs CFA",
+      "category": "coin",
+      "country": {
+        "code": "congo-brazzaville",
+        "name": "Congo, Republic of the"
+      },
+      "minYear": 1975,
+      "maxYear": 1990
+    },
+    {
+      "id": 8442,
+      "title": "100 Francos CFA",
+      "category": "coin",
+      "country": {
+        "code": "guinee_equatoriale",
+        "name": "Equatorial Guinea"
+      },
+      "minYear": 1985,
+      "maxYear": 1986
+    },
+    {
+      "id": 8522,
+      "title": "100 Francs",
+      "category": "coin",
+      "country": {
+        "code": "gabon",
+        "name": "Gabon"
+      },
+      "minYear": 1975,
+      "maxYear": 1985
+    }
+  ],
+  "tags": [
+    "Cow or bovine"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "7"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "7"
+    }
+  ],
+  "weight": 7,
+  "orientation": "coin",
+  "edge": {
+    "description": "Milled"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

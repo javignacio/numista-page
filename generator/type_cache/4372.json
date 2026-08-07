@@ -1,0 +1,153 @@
+{
+  "id": 4372,
+  "url": "https://en.numista.com/4372",
+  "title": "2 Centésimos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "uruguay",
+    "name": "Uruguay"
+  },
+  "min_year": 1943,
+  "max_year": 1951,
+  "ruler": [
+    {
+      "id": 3897,
+      "name": "Oriental Republic of Uruguay",
+      "wikidata_id": "Q77"
+    }
+  ],
+  "value": {
+    "text": "2 Centésimos",
+    "numeric_value": 0.02,
+    "currency": {
+      "id": 298,
+      "name": "Peso",
+      "full_name": "Peso (1863-1975)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1975-07-01"
+  },
+  "size": 20,
+  "thickness": 1.55,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Sun with rays",
+    "lettering": "REPÚBLICA ORIENTAL DEL URUGUAY\r\n1951",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/571-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/571-180.jpg",
+    "picture_copyright": "KennyG"
+  },
+  "reverse": {
+    "description": "Value within laurel wreath.\r\nThe mintmark S with o above is found above the 2",
+    "lettering": "So\r\n2\r\nCENTÉSIMOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/572-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/572-180.jpg",
+    "picture_copyright": "KennyG"
+  },
+  "tags": [
+    "Sun",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "20a"
+    },
+    {
+      "catalogue": {
+        "id": 709,
+        "code": "SA"
+      },
+      "number": "58, 59"
+    },
+    {
+      "catalogue": {
+        "id": 709,
+        "code": "SA"
+      },
+      "number": "61, 62"
+    },
+    {
+      "catalogue": {
+        "id": 709,
+        "code": "SA"
+      },
+      "number": "64, 66"
+    },
+    {
+      "catalogue": {
+        "id": 709,
+        "code": "SA"
+      },
+      "number": "68, 70"
+    },
+    {
+      "catalogue": {
+        "id": 2069,
+        "code": "CG"
+      },
+      "number": "58, 59"
+    },
+    {
+      "catalogue": {
+        "id": 2069,
+        "code": "CG"
+      },
+      "number": "61, 62"
+    },
+    {
+      "catalogue": {
+        "id": 2069,
+        "code": "CG"
+      },
+      "number": "64, 66"
+    },
+    {
+      "catalogue": {
+        "id": 2069,
+        "code": "CG"
+      },
+      "number": "68, 70"
+    }
+  ],
+  "weight": 3.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/6966eb734a3aa8.70201278-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/6966eb734a3aa8.70201278-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

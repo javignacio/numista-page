@@ -1,0 +1,110 @@
+{
+  "id": 2438,
+  "url": "https://en.numista.com/2438",
+  "title": "1 Centavo",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "guatemala",
+    "name": "Guatemala"
+  },
+  "min_year": 1974,
+  "max_year": 1995,
+  "ruler": [
+    {
+      "id": 5003,
+      "name": "Republic",
+      "wikidata_id": "Q774"
+    }
+  ],
+  "value": {
+    "text": "1 Centavo",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 155,
+      "name": "Quetzal",
+      "full_name": "Quetzal (1925-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1997-01-06"
+  },
+  "size": 19,
+  "thickness": 1.06,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass (70% Copper, 30% Zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The Emblem of Guatemala depicts two rifles and two swords crossed with a wreath of laurel. In the middle a scroll of parchment with the words \"Liberty 15 of September, 1821\" and in the upper part the national bird; the Quetzal.",
+    "lettering": "REPUBLICA DE GUATEMALA\r\nLIBERTAD\r\n15 DE\r\nSETIEMBRE\r\nDE 1821\r\n1976",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Guatemala\r\nLiberty\r\n15th of\r\nSeptember,\r\n1821",
+    "picture": "https://en.numista.com/catalogue/photos/guatemala/1114-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/guatemala/1114-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "description": "Denomination at top and a bust of Bartolomé de las Casas (c. 1484 – 1566).",
+    "lettering": "UN CENTAVO\r\nFRAY BARTOLOME DE LAS CASAS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "One Centavo",
+    "picture": "https://en.numista.com/catalogue/photos/guatemala/1115-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/guatemala/1115-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "series": "System: 1965-1997",
+  "comments": "<p>KM# 275.1 - No outlined coat. Larger portrait, date, and letters. Date with no dots.<br>KM# 275.2 - No outlined coat. Smaller portrait, date, and letters. Date with dots.<br>KM# 275.3 - No outlined coat. Smaller portrait, date, and letters. Lighter letters. Date with dots.<br>KM# 275.4 - Outlined coat. Smaller portrait, date, and letters. Date with dots.<br>KM# 275.5 - No outlined coat. Modified portrait. Larger date. Smaller letters. Lighter letters. Date with dots.<br><br><a href=\"https://en.numista.com/catalogue/images/68231c83ef41a.gif\"><img src=\"https://en.numista.com/catalogue/images/miniatures/68231c83ef41a.gif\"></a><br><br>While these coins are no longer in circulation, they are still redeemable by the Bank of Guatemala for face value.</p>",
+  "tags": [
+    "Bird",
+    "Coat of Arms",
+    "Religious figure",
+    "Firearms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "275"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "54"
+    }
+  ],
+  "weight": 2.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/guatemala/68f54de291ecc3.19391515-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/guatemala/68f54de291ecc3.19391515-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 4178,
+      "name": "Casa de Moneda de Guatemala"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,144 @@
+{
+  "id": 7978,
+  "url": "https://en.numista.com/7978",
+  "title": "500 Mark",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "allemagne-pre1945",
+    "name": "Germany (1871-1948)"
+  },
+  "min_year": 1923,
+  "max_year": 1923,
+  "ruler": [
+    {
+      "id": 2863,
+      "name": "Weimar Republic",
+      "wikidata_id": "Q41304"
+    }
+  ],
+  "value": {
+    "text": "500 Mark",
+    "numeric_value": 500,
+    "currency": {
+      "id": 233,
+      "name": "Mark",
+      "full_name": "Mark (1873-1923)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1924-10-11"
+  },
+  "size": 27,
+  "thickness": 1.35,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Joseph Wackerle"
+    ],
+    "description": "Heraldic eagle in centre with lettering around the beaded rim.",
+    "lettering": "EINIGKEIT UND RECHT UND FREIHEIT *",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Unity and Justice and Freedom *",
+    "picture": "https://en.numista.com/catalogue/photos/allemagne-pre1945/4235-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/allemagne-pre1945/4235-180.jpg",
+    "picture_copyright": "smy77",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Joseph Wackerle"
+    ],
+    "description": "Large central denomination with date and mintmark below. Lettering around the beaded rim.",
+    "lettering": "DEUTSCHES REICH\r\n500 \r\nMARK\r\n1923\r\nA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "German Empire\r\n500 \r\nMark\r\n1923 \r\nA",
+    "picture": "https://en.numista.com/catalogue/photos/allemagne-pre1945/4236-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/allemagne-pre1945/4236-180.jpg",
+    "picture_copyright": "smy77",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "A = Berlin<br />\r\nD = München<br />\r\nE = Muldenhütten<br />\r\nF = Stuttgart<br />\r\nG = Karlsruhe<br />\r\nJ = Hamburg",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "36"
+    },
+    {
+      "catalogue": {
+        "id": 81,
+        "code": "AKS"
+      },
+      "number": "23"
+    },
+    {
+      "catalogue": {
+        "id": 80,
+        "code": "J"
+      },
+      "number": "305"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "28"
+    }
+  ],
+  "weight": 1.67,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 5,
+      "name": "Berlin"
+    },
+    {
+      "id": 1,
+      "name": "Munich"
+    },
+    {
+      "id": 1366,
+      "name": "Muldenhütten"
+    },
+    {
+      "id": 2,
+      "name": "State Mint of Stuttgart / State Mints of Baden-Württemberg"
+    },
+    {
+      "id": 3,
+      "name": "State Mint of Karlsruhe / State Mints of Baden-Württemberg"
+    },
+    {
+      "id": 4,
+      "name": "Hamburg Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

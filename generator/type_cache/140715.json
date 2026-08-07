@@ -1,0 +1,91 @@
+{
+  "id": 140715,
+  "url": "https://en.numista.com/140715",
+  "title": "10 Cents (Magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "trinite-et-tobago",
+    "name": "Trinidad and Tobago"
+  },
+  "min_year": 2017,
+  "max_year": 2024,
+  "ruler": [
+    {
+      "id": 956,
+      "name": "Republic",
+      "wikidata_id": "Q754"
+    }
+  ],
+  "value": {
+    "text": "10 Cents",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 58,
+      "name": "Dollar",
+      "full_name": "Dollar (1964-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 16.3,
+  "thickness": 0.9,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of Arms, date below.",
+    "lettering": "REPUBLIC OF TRINIDAD AND TOBAGO\r\nTOGETHER WE ASPIRE TOGETHER WE ACHIEVE\r\n2017",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/trinite-et-tobago/63bd30f26f9781.10494263-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/trinite-et-tobago/63bd30f26f9781.10494263-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "designers": [
+      "James John Ponter"
+    ],
+    "description": "Flaming Hibiscus, denomination below.",
+    "lettering": "10\r\nCENTS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/trinite-et-tobago/63bd30f2d3da80.71566299-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/trinite-et-tobago/63bd30f2d3da80.71566299-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "comments": "On July 1, 2017 the metal composition of the 10 cents changed into a steel core with a copper-nickel overlay, which makes this coin magnetic.<br /><br />\r\nSince this change took place in the middle of the year it&#039;s likely the 2017 coin exists in old and new metal composition, so be aware to tick the right entry when adding a 2017 coin, especially since there are several other entries in between.",
+  "tags": [
+    "Flower",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "31b"
+    }
+  ],
+  "weight": 1.4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

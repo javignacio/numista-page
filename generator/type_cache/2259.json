@@ -1,0 +1,111 @@
+{
+  "id": 2259,
+  "url": "https://en.numista.com/2259",
+  "title": "10 Centavos (Non-magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "guatemala",
+    "name": "Guatemala"
+  },
+  "min_year": 1976,
+  "max_year": 2009,
+  "ruler": [
+    {
+      "id": 5003,
+      "name": "Republic",
+      "wikidata_id": "Q774"
+    }
+  ],
+  "value": {
+    "text": "10 Centavos",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 155,
+      "name": "Quetzal",
+      "full_name": "Quetzal (1925-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21,
+  "thickness": 1.25,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass (61% Copper, 20% Zinc, 19% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms, with legend at top, and date at bottom.",
+    "lettering": "REPUBLICA DE GUATEMALA\r\nLIBERTAD \r\n15 DE \r\nSETIEMBRE \r\nDE 1821 \r\n2006",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Guatemala\r\nLiberty \r\n15 of \r\nSeptember \r\n1821",
+    "picture": "https://en.numista.com/catalogue/photos/guatemala/1042-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/guatemala/1042-180.jpg"
+  },
+  "reverse": {
+    "description": "Mayan Pillar ruins of Quiriguá with denomination at right and legend below.",
+    "lettering": "10\r\nCENTAVOS\r\nMONOLITO DE QUIRIGUA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Quirigua Monolith",
+    "picture": "https://en.numista.com/catalogue/photos/guatemala/1043-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/guatemala/1043-180.jpg"
+  },
+  "series": "System: 1965-1997",
+  "comments": "KM# 277.1 - Toothed border. No outlined coat. Monolith #1. Date with dots.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5fcfee0b781db.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5fcfee0b781db.jpg\" alt=\"\" width=\"199\" height=\"100\" /></a><br />\r\nKM# 277.2 - Border with beads. No outlined coat. Monolith #1. Date with dots.<br />\r\nKM# 277.3 - Border with beads. Outlined coat. Monolito #2. Date with dots.<br />\r\nKM# 277.4 - Border with beads. Coat with outlined scroll. Monolith #3. Date with dots.<br />\r\nKM# 277.5 - Border with beads. No outlined coat. Monolith #4. Date with dots. Varieties exist with fine and coarse characters.<br />\r\nKM# 277.6 - Border with beads. No outlined coat. Monolito #5. This variant would be the only accepted variant for legal tender currency; because after the 1997 monetary reform all older coins fell in disuse, they can be easily exchanged at banks, but stores won&#039;t accept them because of the outdated designs. Most denominations got new types because of this reform, but in this coin&#039;s case the same coin had a design revision rather than a complete type change. Machines would mostly only accept the <a href=\"https://en.numista.com/42670\">magnetic version</a> of this variant because of this.<br /><br />\r\nEasiest way to see the difference between 10 centavos 1986 KM#277.4 and KM#277.5:<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/590d186e3b07c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/590d186e3b07c.jpg\" alt=\"\" width=\"200\" height=\"98\" /></a><br />\r\nReverse: KM#277.4 has plain field around monolith while KM#277.5 has bushy field around monolith.<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/590d190df0157.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/590d190df0157.jpg\" alt=\"\" width=\"200\" height=\"95\" /></a><br />\r\nObverse: KM#277.5 has incuse lettering on shield while KM#277.4 has lettering in relief on shield.",
+  "related_types": [
+    {
+      "id": 42670,
+      "title": "10 Centavos (Magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "guatemala",
+        "name": "Guatemala"
+      },
+      "minYear": 2009,
+      "maxYear": 2023
+    }
+  ],
+  "tags": [
+    "Sculpture",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "277"
+    }
+  ],
+  "weight": 3.2,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/guatemala/68f555bea7c358.39856302-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/guatemala/68f555bea7c358.39856302-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 4178,
+      "name": "Casa de Moneda de Guatemala"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

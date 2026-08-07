@@ -1,0 +1,130 @@
+{
+  "id": 11157,
+  "url": "https://en.numista.com/11157",
+  "title": "10 Escudos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "portugal",
+    "name": "Portugal"
+  },
+  "min_year": 1932,
+  "max_year": 1948,
+  "ruler": [
+    {
+      "id": 1294,
+      "name": "Second Republic",
+      "wikidata_id": "Q17748736"
+    }
+  ],
+  "value": {
+    "text": "10 Escudos",
+    "numeric_value": 10,
+    "currency": {
+      "id": 65,
+      "name": "Escudo",
+      "full_name": "Escudo (1911-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 30,
+  "thickness": 1.92,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.835)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "João da Silva",
+      "Arnaldo Fragoso"
+    ],
+    "description": "Boat sailing to the left above the date",
+    "lettering": "REPUBLICA PORTUGUESA\r\n1942",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Portuguese Republic\r\n1942",
+    "picture": "https://en.numista.com/catalogue/photos/portugal/65c46c56810fb9.87090944-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/portugal/65c46c56810fb9.87090944-180.jpg",
+    "picture_copyright": "guga.lamy"
+  },
+  "reverse": {
+    "engravers": [
+      "João da Silva",
+      "Arnaldo Fragoso"
+    ],
+    "description": "The arms of Portugal superimposed on a stylized view of the earth, and the denomination below",
+    "lettering": "10$00",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "10 Escudos",
+    "picture": "https://en.numista.com/catalogue/photos/portugal/65c46c584c4ec1.78517010-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/portugal/65c46c584c4ec1.78517010-180.jpg",
+    "picture_copyright": "guga.lamy"
+  },
+  "series": "System 1927-1968",
+  "comments": "From the rarest date, 1942, there are many Chinese fakes<br />\r\n<a href=\"https://en.numista.com/catalogue/images/6447b06ac500e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6447b06ac500e.jpg\" alt=\"\" width=\"97\" height=\"249\" /></a>",
+  "related_types": [
+    {
+      "id": 3594,
+      "title": "10 Escudos",
+      "category": "coin",
+      "country": {
+        "code": "portugal",
+        "name": "Portugal"
+      },
+      "minYear": 1954,
+      "maxYear": 1955
+    }
+  ],
+  "tags": [
+    "Coat of Arms",
+    "Boat or watercraft"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "582"
+    },
+    {
+      "catalogue": {
+        "id": 108,
+        "code": "Gomes"
+      },
+      "number": "R 43"
+    }
+  ],
+  "weight": 12.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/portugal/6447b07de37853.44373699-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/portugal/6447b07de37853.44373699-180.jpg",
+    "picture_copyright": "A. Monge da Silva",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 1337,
+      "name": "Imprensa Nacional - Casa da Moeda"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,136 @@
+{
+  "id": 8553,
+  "url": "https://en.numista.com/8553",
+  "title": "10 Roubles",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "russie",
+    "name": "Russian Federation (1991-date)"
+  },
+  "min_year": 2009,
+  "max_year": 2015,
+  "ruler": [
+    {
+      "id": 1573,
+      "name": "Russian Federation",
+      "wikidata_id": "Q159"
+    }
+  ],
+  "value": {
+    "text": "10 Roubles",
+    "numeric_value": 10,
+    "currency": {
+      "id": 169,
+      "name": "Rouble",
+      "full_name": "Rouble (1998-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 22,
+  "thickness": 2.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Alexander Vasilyevich Baklanov"
+    ],
+    "designers": [
+      "Alexander Vasilyevich Baklanov"
+    ],
+    "description": "In the centre, the emblem of the Bank of Russia (double-headed eagle with open wings), underneath which is the semicircular legend \"БАНК РОССИИ\" (Bank of Russia). To the right, under the talon of the eagle, is the mint mark. At the top of the circle is the denomination: \"ДЕСЯТЬ РУБЛЕЙ\" (Ten Roubles). At the bottom are two horizontal lines separated by a dot; under them is the year of issue.",
+    "lettering": "ДЕСЯТЬ РУБЛЕЙ\r\nММД\r\nБАНК РОССИИ\r\n2009",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "Ten Roubles\r\nMMD\r\nBank of Russia",
+    "picture": "https://en.numista.com/catalogue/photos/russie/5848-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/russie/5848-180.jpg",
+    "picture_copyright": "ken6528"
+  },
+  "reverse": {
+    "engravers": [
+      "Alexander Vasilyevich Baklanov"
+    ],
+    "designers": [
+      "Alexander Vasilyevich Baklanov"
+    ],
+    "description": "Denomination in the centre, on a background of vertical lines, underneath the word \"РУБЛЕЙ\" (Roubles). Floral design in the form of branches with intertwining stems along the edges.\r\n\r\nLatent image inside the number 0, seen differently depending on the viewing angle: the number 10 and the inscription \"РУБ\".",
+    "lettering": "10 \r\n10 РУБ\r\nРУБЛЕЙ",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "Roubles",
+    "picture": "https://en.numista.com/catalogue/photos/russie/5849-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/russie/5849-180.jpg",
+    "picture_copyright": "ken6528"
+  },
+  "comments": "Design varieties exist. More details available here:<br />\r\n<a href=\"https://vse-monety.ru/katalog-a-stashkina-10-rublej-2009-2016-gg/\" rel=\"nofollow\">https://vse-monety.ru/katalog-a-stashkina-10-rublej-2009-2016-gg/</a>",
+  "related_types": [
+    {
+      "id": 81300,
+      "title": "10 Roubles",
+      "category": "coin",
+      "country": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "minYear": 2016,
+      "maxYear": 2025
+    }
+  ],
+  "tags": [
+    "Coat of Arms",
+    "Latent image"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "998"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "1077"
+    }
+  ],
+  "weight": 5.63,
+  "orientation": "medal",
+  "edge": {
+    "description": "Segmented reeding: six coarsely and six finely reeded segments (5 and 7 embossed bars each) between twelve smooth segments.",
+    "picture": "https://en.numista.com/catalogue/photos/russie/2745-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/russie/2745-180.jpg",
+    "picture_copyright": "Bank of Russia",
+    "picture_copyright_url": "http://www.cbr.ru"
+  },
+  "mints": [
+    {
+      "id": 6,
+      "name": "Moscow Mint"
+    },
+    {
+      "id": 7,
+      "name": "Saint Petersburg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

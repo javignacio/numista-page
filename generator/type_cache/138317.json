@@ -1,0 +1,100 @@
+{
+  "id": 138317,
+  "url": "https://en.numista.com/138317",
+  "title": "50 Satang - Rama X (1st portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "thailande",
+    "name": "Thailand"
+  },
+  "min_year": 2018,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 1906,
+      "name": "Phra Vajira Klao (Rama X / Vajiralongkorn)",
+      "wikidata_id": "Q548733",
+      "group": {
+        "id": 65,
+        "name": "Chakri dynasty"
+      }
+    }
+  ],
+  "value": {
+    "text": "50 Satangs",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 4,
+      "name": "Baht",
+      "full_name": "Baht (1897-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 18,
+  "thickness": 1.35,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Bust of Rama X facing left, inscription left and right, in decagon rim",
+    "lettering": "มหาวชิราลงกรณ  รัชกาลที่ ๑๐",
+    "lettering_scripts": [
+      {
+        "name": "Thai"
+      }
+    ],
+    "lettering_translation": "Maha Vajiralongkorn  Rama X",
+    "picture": "https://en.numista.com/catalogue/photos/thailande/2684-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/thailande/2684-180.jpg",
+    "picture_copyright": "Jérémy Pureur"
+  },
+  "reverse": {
+    "description": "Crowned monogram with 17 radious on its top, inscription around, in decagon rim",
+    "lettering": "ประเทศไทย  พ.ศ. ๒๕๖๑\r\nวปร\r\n๕๐ สตางค์ 50",
+    "lettering_scripts": [
+      {
+        "name": "Thai"
+      }
+    ],
+    "lettering_translation": "Thailand  BE2561\r\nVPR\r\n50 Satang 50",
+    "picture": "https://en.numista.com/catalogue/photos/thailande/2685-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/thailande/2685-180.jpg",
+    "picture_copyright": "Jérémy Pureur"
+  },
+  "comments": "Information Royal Thai Mint:<br />\r\n<a href=\"http://www.royalthaimint.net/ewtadmin/ewt/mint_web/ewt_news.php?nid=1022\" rel=\"nofollow\">http://www.royalthaimint.net/ewtadmin/ewt/mint_web/ewt_news.php?nid=1022</a><br />\r\n________<br /><br />\r\n2561<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5f798c98ecc60.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5f798c98ecc60.jpg\" alt=\"\" width=\"200\" height=\"144\" /></a>",
+  "tags": [
+    "Crown",
+    "Monogram"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "573"
+    }
+  ],
+  "weight": 2.4,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 1300,
+      "name": "South African Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

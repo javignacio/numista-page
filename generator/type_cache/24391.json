@@ -1,0 +1,117 @@
+{
+  "id": 24391,
+  "url": "https://en.numista.com/24391",
+  "title": "25 Øre - Haakon VII",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "norvege",
+    "name": "Norway"
+  },
+  "min_year": 1921,
+  "max_year": 1923,
+  "ruler": [
+    {
+      "id": 449,
+      "name": "Haakon VII",
+      "wikidata_id": "Q154927",
+      "group": {
+        "id": 358,
+        "name": "House of Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "25 Øre",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 16,
+      "name": "Krone",
+      "full_name": "Krone (1875-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 17,
+  "thickness": 1.45,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (Cu 75%, Ni 25%)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Crowned monogram of Haakon VII. Surrounded by inscription. Beaded ring on the rim.",
+    "lettering": "⸰ALT⸰FOR⸰NORGE⸰\r\nH7",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Everything for Norway",
+    "picture": "https://en.numista.com/catalogue/photos/norvege/65b7bada532231.16967823-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/65b7bada532231.16967823-180.jpg",
+    "picture_copyright": "Oslo Myntgalleri",
+    "picture_copyright_url": "http://www.oslomyntgalleri.no"
+  },
+  "reverse": {
+    "description": "Crowned norwegian lion holding a halberd and facing left. Inscription and date above the lion. Mintmark and value below the lion. A triskelion on each side of the lion. Beaded ring on the rim.",
+    "lettering": "NORGE•1923\r\n⚒ 25 ØRE ⸰",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Norway",
+    "picture": "https://en.numista.com/catalogue/photos/norvege/65b7badb177270.27130162-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/65b7badb177270.27130162-180.jpg",
+    "picture_copyright": "Oslo Myntgalleri",
+    "picture_copyright_url": "http://www.oslomyntgalleri.no"
+  },
+  "related_types": [
+    {
+      "id": 8716,
+      "title": "25 Øre - Haakon VII",
+      "category": "coin",
+      "country": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "minYear": 1921,
+      "maxYear": 1923
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "381"
+    },
+    {
+      "catalogue": {
+        "id": 201,
+        "code": "Rønning"
+      },
+      "number": "253"
+    }
+  ],
+  "weight": 2.4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded."
+  },
+  "mints": [
+    {
+      "id": 1888,
+      "name": "Norwegian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

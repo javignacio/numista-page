@@ -1,0 +1,114 @@
+{
+  "id": 2596,
+  "url": "https://en.numista.com/2596",
+  "title": "10 Centimos - Alfonso XII",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "espagne",
+    "name": "Spain"
+  },
+  "min_year": 1877,
+  "max_year": 1879,
+  "ruler": [
+    {
+      "id": 156,
+      "name": "Alfonso XII",
+      "wikidata_id": "Q32347",
+      "group": {
+        "id": 44,
+        "name": "House of Bourbon"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Centimos",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 142,
+      "name": "Peseta",
+      "full_name": "Peseta (1868-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1941-10-29"
+  },
+  "size": 30,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze (95% copper, 4% tin, 1% zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Gregorio Sellán y González"
+    ],
+    "description": "Head of King Alfonso XII facing right.",
+    "lettering": "ALFONSO XII POR LA GRACIA DE DIOS\r\nG. S.\r\n🟎 1877 🟎",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Alfonso XII by the grace of God.",
+    "picture": "https://en.numista.com/catalogue/photos/espagne/68f935d305c597.01509438-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/68f935d305c597.01509438-180.jpg",
+    "picture_copyright": "La Catastrophe ultraviolette",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Gregorio Sellán y González"
+    ],
+    "description": "Crowned coat of arms of Spain within wreath.",
+    "lettering": "🟎 REY CONSTL. DE ESPAÑA 🟎\r\nOM\r\nDIEZ CENTIMOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Rey constitucional de España.",
+    "lettering_translation": "Constitutional king of Spain. Ten Centimos.",
+    "picture": "https://en.numista.com/catalogue/photos/espagne/68f935d50c22a1.93040704-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/68f935d50c22a1.93040704-180.jpg",
+    "picture_copyright": "La Catastrophe ultraviolette",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p>NOTE: The OM stands for Oeschger Mesdach &amp; Co, a French firm that minted coins out of Strasbourg, France.<br><br>Medal align. error for 10 Centimos Alfonso XII - 1879 Barcelona:<br><a href=\"https://en.numista.com/catalogue/images/578e7e1ebfc53.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/578e7e1ebfc53.jpg\" alt=\"\"></a><a href=\"https://en.numista.com/catalogue/images/578e7e30801d2.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/578e7e30801d2.jpg\" alt=\"\"></a></p>",
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "675"
+    }
+  ],
+  "weight": 10,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/espagne/686992d3aec288.13681280-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/686992d3aec288.13681280-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 4378,
+      "name": "Barcelona Mint / La Seca"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

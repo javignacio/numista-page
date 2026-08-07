@@ -1,0 +1,123 @@
+{
+  "id": 7594,
+  "url": "https://en.numista.com/7594",
+  "title": "50 Groszy",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "pologne",
+    "name": "Poland"
+  },
+  "min_year": 1949,
+  "max_year": 1949,
+  "ruler": [
+    {
+      "id": 3737,
+      "name": "Republic of Poland",
+      "wikidata_id": "Q211274"
+    }
+  ],
+  "value": {
+    "text": "50 Groszys",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 199,
+      "name": "Third Zloty",
+      "full_name": "Third Zloty (1949-1994)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1995-01-01"
+  },
+  "size": 23,
+  "thickness": 1.48,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The White Eagle, national coat of arms of Poland",
+    "lettering": "RZECZPOSPOLITA POLSKA\r\n1949",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Poland",
+    "picture": "https://en.numista.com/catalogue/photos/pologne/1921-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pologne/1921-180.jpg"
+  },
+  "reverse": {
+    "description": "Denomination above laurel wreath.",
+    "lettering": "50\r\nGROSZY",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/pologne/1922-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pologne/1922-180.jpg"
+  },
+  "related_types": [
+    {
+      "id": 14955,
+      "title": "50 Groszy",
+      "category": "coin",
+      "country": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "minYear": 1949,
+      "maxYear": 1949
+    },
+    {
+      "id": 2072,
+      "title": "50 Groszy (large date)",
+      "category": "coin",
+      "country": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "minYear": 1957,
+      "maxYear": 1985
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "44a"
+    },
+    {
+      "catalogue": {
+        "id": 165,
+        "code": "ParM"
+      },
+      "number": "209"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "36a"
+    }
+  ],
+  "weight": 1.6,
+  "orientation": "medal",
+  "edge": {
+    "description": "Milled",
+    "picture": "https://en.numista.com/catalogue/photos/pologne/6159cf74b7b360.31992162-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pologne/6159cf74b7b360.31992162-180.jpg"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

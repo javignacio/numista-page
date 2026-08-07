@@ -1,0 +1,87 @@
+{
+  "id": 15575,
+  "url": "https://en.numista.com/15575",
+  "title": "50 Paisa - Gyanendra Bir Bikram",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "nepal",
+    "name": "Nepal"
+  },
+  "min_year": 2003,
+  "max_year": 2004,
+  "ruler": [
+    {
+      "id": 3965,
+      "name": "Gyanendra Bir Bikram Shah",
+      "wikidata_id": "Q201327",
+      "group": {
+        "id": 240,
+        "name": "Shah dynasty"
+      }
+    }
+  ],
+  "value": {
+    "text": "50 Paisa",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 173,
+      "name": "Rupee",
+      "full_name": "Rupee (1932-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 22.5,
+  "thickness": 1.55,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Nepal King's Crown Below this is the\r\n2 Nepal Flags crossed & 2 Draggers crossed encompassing the \r\nPada's (feet) of the Almighty\r\nNepal\r\nVikram Samvat Era (VS) : 2060\r\nGregorian Calendar: VS - 57 years (2060 VS - 57 = 2003 AD)",
+    "lettering_scripts": [
+      {
+        "name": "Devanagari"
+      }
+    ],
+    "lettering_translation": "Sri Jnyānēndra Vir Vikrama Shahdev\r\nNepal 2060 (VE)",
+    "picture": "https://en.numista.com/catalogue/photos/nepal/960-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nepal/960-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "reverse": {
+    "description": "Sri Swayambunath Mahachaitya's (Buddhist Temple) Dome/tower\r\nBelow : A type of Prayer bells",
+    "lettering_scripts": [
+      {
+        "name": "Devanagari"
+      }
+    ],
+    "lettering_translation": "Sri Swayambunath Mahachaitya \r\n50 Paisa",
+    "picture": "https://en.numista.com/catalogue/photos/nepal/961-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nepal/961-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1179"
+    }
+  ],
+  "weight": 1.4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,112 @@
+{
+  "id": 9394,
+  "url": "https://en.numista.com/9394",
+  "title": "5 Øre - Christian X",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "danemark",
+    "name": "Denmark"
+  },
+  "min_year": 1913,
+  "max_year": 1923,
+  "ruler": [
+    {
+      "id": 2402,
+      "name": "Christian X",
+      "wikidata_id": "Q156617",
+      "group": {
+        "id": 104,
+        "name": "House of Schleswig-Holstein-Sonderburg-Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Øre",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 13,
+      "name": "Krone",
+      "full_name": "Krone (1873-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1989-06-30"
+  },
+  "size": 27,
+  "thickness": 1.88,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Crowned CX monogram, initials VBP (KM#814.1) or HCN (KM#814.2) and mint mark lower at left, date and initials GJ at lower right",
+    "lettering": "CX\r\nHCN ♥ 1921 GJ",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/danemark/698ddbff40da50.94447982-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/698ddbff40da50.94447982-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "reverse": {
+    "description": "Thick value, ornaments flanking",
+    "lettering": "5\r\nØRE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/danemark/698ddc008a7114.06134690-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/698ddc008a7114.06134690-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "814"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "22"
+    },
+    {
+      "catalogue": {
+        "id": 2262,
+        "code": "DNF"
+      },
+      "number": "3.4"
+    },
+    {
+      "catalogue": {
+        "id": 2262,
+        "code": "DNF"
+      },
+      "number": "3.7"
+    }
+  ],
+  "weight": 8,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/danemark/66ce27f27aed68.95128546-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/66ce27f27aed68.95128546-180.jpg",
+    "picture_copyright": "Marcin Łysik"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

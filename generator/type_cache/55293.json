@@ -1,0 +1,94 @@
+{
+  "id": 55293,
+  "url": "https://en.numista.com/55293",
+  "title": "5 Córdobas (Córdoba)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "nicaragua",
+    "name": "Nicaragua"
+  },
+  "min_year": 2012,
+  "max_year": 2012,
+  "ruler": [
+    {
+      "id": 4284,
+      "name": "Republic",
+      "wikidata_id": "Q811"
+    }
+  ],
+  "value": {
+    "text": "5 Córdobas",
+    "numeric_value": 5,
+    "currency": {
+      "id": 3150,
+      "name": "Third Córdoba \"Oro\"",
+      "full_name": "Third Córdoba \"Oro\" (1991-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2012-08-27"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 28,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Five volcanoes in a row with shining sun behind. Legend at top and dates at bottom.",
+    "lettering": "CENTENARIO DEL CÓRDOBA\r\n1912-2012",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Centennial of the Cordoba",
+    "picture": "https://en.numista.com/catalogue/photos/nicaragua/6022785d5ac7f5.69943448-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nicaragua/6022785d5ac7f5.69943448-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "description": "Value at center, with legend at top and date at bottom.",
+    "lettering": "REPÚBLICA DE NICARAGUA\r\n5\r\nCÓRDOBAS\r\n2012",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Nicaragua",
+    "picture": "https://en.numista.com/catalogue/photos/nicaragua/6022785dc9ab84.84031277-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nicaragua/6022785dc9ab84.84031277-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "commemorated_topic": "100th Anniversary of the Cordoba",
+  "tags": [
+    "Mountain",
+    "Sun"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "111"
+    }
+  ],
+  "weight": 7.8,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

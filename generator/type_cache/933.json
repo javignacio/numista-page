@@ -1,0 +1,101 @@
+{
+  "id": 933,
+  "url": "https://en.numista.com/933",
+  "title": "5 Soles de Oro",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "perou",
+    "name": "Peru"
+  },
+  "min_year": 1978,
+  "max_year": 1983,
+  "ruler": [
+    {
+      "id": 3757,
+      "name": "Republic",
+      "wikidata_id": "Q419"
+    }
+  ],
+  "value": {
+    "text": "5 Soles",
+    "numeric_value": 5,
+    "currency": {
+      "id": 218,
+      "name": "Sol",
+      "full_name": "Sol (1863-1930) / Sol de Oro (1931-1985)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 22.49,
+  "thickness": 1,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of Arms within circle, legend around",
+    "lettering": "BANCO CENTRAL DE RESERVA DEL PERU\r\n1980",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/perou/338-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/338-180.jpg",
+    "picture_copyright": "Ginger",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Denomination",
+    "lettering": "5 SOLES DE ORO\r\nLM",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "LM - Lima (Mint)",
+    "picture": "https://en.numista.com/catalogue/photos/perou/339-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/339-180.jpg",
+    "picture_copyright": "Ginger",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "271"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "72"
+    }
+  ],
+  "weight": 4.24,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 297,
+      "name": "Lima"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,102 @@
+{
+  "id": 1217,
+  "url": "https://en.numista.com/1217",
+  "title": "1 Jiao",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "chine",
+    "name": "China, People's Republic of"
+  },
+  "min_year": 1991,
+  "max_year": 2000,
+  "ruler": [
+    {
+      "id": 1436,
+      "name": "People's Republic",
+      "wikidata_id": "Q148"
+    }
+  ],
+  "value": {
+    "text": "1 Jiao",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 198,
+      "name": "Rénmínbì",
+      "full_name": "Rénmínbì (1955-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1992-06-01"
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2018-05-01"
+  },
+  "size": 22.5,
+  "thickness": 2.4,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "China's emblem: Tian'anmen, \"Gate of Heavenly Peace\", the gate to the forbidden city, 5 stars above it along with the country name",
+    "lettering": "ZHONGHUA RENMIN GONGHEGUO\r\n中华人民共和国\r\n1997",
+    "lettering_translation": "People's Republic of China\r\nPeople's Republic of China\r\n1997",
+    "picture": "https://en.numista.com/catalogue/photos/chine/1751-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chine/1751-180.jpg",
+    "picture_copyright": "HOOK"
+  },
+  "reverse": {
+    "description": "Chrysanthemum and the value in Chinese and Pinyin",
+    "lettering": "1 角\r\nYI JIAO",
+    "lettering_translation": "1 Jiao\r\n1 JIao",
+    "picture": "https://en.numista.com/catalogue/photos/chine/1752-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chine/1752-180.jpg",
+    "picture_copyright": "HOOK"
+  },
+  "comments": "Previously listed as Y#328.<br /><br />\r\nVarieties of the size of date letters seem to exist on the obverse.",
+  "tags": [
+    "Coat of Arms",
+    "Flower"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "335"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "287"
+    },
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "328"
+    }
+  ],
+  "weight": 2.2,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/chine/3788-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chine/3788-180.jpg",
+    "picture_copyright": "Saber82"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

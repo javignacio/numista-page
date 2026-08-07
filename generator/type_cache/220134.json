@@ -1,0 +1,106 @@
+{
+  "id": 220134,
+  "url": "https://en.numista.com/220134",
+  "title": "5000 Pesos Argentinos",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "argentine",
+    "name": "Argentina"
+  },
+  "issuing_entity": {
+    "id": 597,
+    "name": "Central Bank of the Argentine Republic",
+    "wikidata_id": "Q642444"
+  },
+  "min_year": 1984,
+  "max_year": 1985,
+  "ruler": [
+    {
+      "id": 3983,
+      "name": "Federal Republic",
+      "wikidata_id": "Q414"
+    }
+  ],
+  "value": {
+    "text": "5000 Pesos Argentinos",
+    "numeric_value": 5000,
+    "currency": {
+      "id": 275,
+      "name": "Argentine peso",
+      "full_name": "Argentine peso (1983-1985)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1988-08-01"
+  },
+  "size": 155,
+  "size2": 75,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Portrait of Juan Bautista Alberdi",
+    "lettering": "5000\r\nBANCO CENTRAL\r\nDE LA\r\nREPUBLICA ARGENTINA\r\nCINCO MIL\r\nPESOS ARGENTINOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Bank of the Argentinian Republic\r\nFive Thousand Argentine Pesos",
+    "picture": "https://en.numista.com/catalogue/photos/argentine/64c544c13ffd86.77358870-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/64c544c13ffd86.77358870-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "reverse": {
+    "description": "Picture \"Los Constituyentes de 1853\"",
+    "lettering": "REPUBLICA ARGENTINA\r\n5000\r\nCINCO MIL PESOS ARGENTINOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Argentinian Republic\r\n5000\r\nFive Thousand Argentine Pesos",
+    "picture": "https://en.numista.com/catalogue/photos/argentine/64c544c1a58da6.04533941-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/64c544c1a58da6.04533941-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "series": "ND (1983-1985) \"Peso Argentino\" Issue",
+  "comments": "Printer: Casa de Moneda de la Nación (Argentina) - CMN",
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "318"
+    },
+    {
+      "catalogue": {
+        "id": 1841,
+        "code": "Bottero"
+      },
+      "number": "2637 to 2640a"
+    }
+  ],
+  "watermark": {
+    "description": "Gal San Martin",
+    "picture": "https://en.numista.com/catalogue/photos/argentine/655b52112eff52.17619673-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/655b52112eff52.17619673-180.jpg",
+    "picture_copyright": "vladthiengo",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "printers": [
+    {
+      "id": 11,
+      "name": "Casa de Moneda"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

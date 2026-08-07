@@ -1,0 +1,112 @@
+{
+  "id": 1529,
+  "url": "https://en.numista.com/1529",
+  "title": "50 Pennia",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "finlande",
+    "name": "Finland"
+  },
+  "min_year": 1963,
+  "max_year": 1990,
+  "ruler": [
+    {
+      "id": 3291,
+      "name": "Republic",
+      "wikidata_id": "Q33"
+    }
+  ],
+  "value": {
+    "text": "50 Pennia",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 133,
+      "name": "New Markka",
+      "full_name": "New Markka (1963-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 25,
+  "thickness": 1.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze (93% Copper, 5% Aluminium, 2% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Finnish coat of Arms, date below",
+    "lettering": "SUOMEN TASAVALTA \r\nS\r\n* 1972*",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic Of Finland\r\nS\r\n1972",
+    "picture": "https://en.numista.com/catalogue/photos/finlande/60951dde6fd514.35078881-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/60951dde6fd514.35078881-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "reverse": {
+    "description": "Tree to the right of denomination",
+    "lettering": "50 \r\nPENNIÄ",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/finlande/60951ddec24df5.81101802-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/60951ddec24df5.81101802-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "tags": [
+    "Cat or feline",
+    "Tree",
+    "Coat of Arms",
+    "Cold weapons"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "48"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "55"
+    }
+  ],
+  "weight": 5.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/finlande/66946c5df397c3.02832304-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/66946c5df397c3.02832304-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 1333,
+      "name": "Mint of Finland"
+    },
+    {
+      "id": 1334,
+      "name": "Mint of Finland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

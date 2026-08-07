@@ -1,0 +1,136 @@
+{
+  "id": 1417,
+  "url": "https://en.numista.com/1417",
+  "title": "1 Krone - Margrethe II",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "danemark",
+    "name": "Denmark"
+  },
+  "min_year": 1992,
+  "max_year": 2023,
+  "ruler": [
+    {
+      "id": 2404,
+      "name": "Margrethe II",
+      "wikidata_id": "Q102139",
+      "group": {
+        "id": 104,
+        "name": "House of Schleswig-Holstein-Sonderburg-Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Krone",
+    "numeric_value": 1,
+    "currency": {
+      "id": 13,
+      "name": "Krone",
+      "full_name": "Krone (1873-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1993-01-26"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 20.15,
+  "thickness": 1.6,
+  "shape": "Round with a round hole",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Jan Petersen"
+    ],
+    "designers": [
+      "Johan Alkjaer"
+    ],
+    "description": "New royal monogram, showing three times between three crowns. The autographs of the designer, medallist and mint official flanking the year.",
+    "lettering": "M II ♥ M II ♥ M II\r\nLG 1992 JP A",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/danemark/62d0ae89bef509.72430723-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/62d0ae89bef509.72430723-180.jpg",
+    "picture_copyright": "Ben-jamin",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "reverse": {
+    "description": "Drawing based on prehistoric drawings with two hearts on each side of the hole representing the royal mint",
+    "lettering": "1 KRONE DANMARK",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Denmark",
+    "picture": "https://en.numista.com/catalogue/photos/danemark/62d0ae8a338006.03960192-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/62d0ae8a338006.03960192-180.jpg",
+    "picture_copyright": "Ben-jamin",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "comments": "<p>LG = Laust Grove (Mint Official)<br>JP = Jan Petersen (Medallist)<br>A = Johan Alkjaer (Designer)</p><p>&nbsp;</p><p>These coins were minted by the Mint of Finland from 2017-2024.</p>",
+  "tags": [
+    "Crown",
+    "Monogram"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "873.1"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "873.2"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "86"
+    }
+  ],
+  "weight": 3.6,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/danemark/666f1f2b53a570.32002172-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/666f1f2b53a570.32002172-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 1334,
+      "name": "Mint of Finland"
+    },
+    {
+      "id": 260,
+      "name": "Royal Danish Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

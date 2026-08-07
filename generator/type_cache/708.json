@@ -1,0 +1,204 @@
+{
+  "id": 708,
+  "url": "https://en.numista.com/708",
+  "title": "1 Franc (aluminium, light type)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "france",
+    "name": "France"
+  },
+  "min_year": 1941,
+  "max_year": 1959,
+  "ruler": [
+    {
+      "id": 10,
+      "name": "Fourth Republic",
+      "wikidata_id": "Q69829",
+      "group": {
+        "id": 89,
+        "name": "Modern France"
+      }
+    },
+    {
+      "id": 177,
+      "name": "Provisional Government of the French Republic",
+      "wikidata_id": "Q783684",
+      "group": {
+        "id": 89,
+        "name": "Modern France"
+      }
+    },
+    {
+      "id": 9,
+      "name": "French State",
+      "wikidata_id": "Q69808",
+      "group": {
+        "id": 89,
+        "name": "Modern France"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Fifth Republic",
+      "wikidata_id": "Q200686",
+      "group": {
+        "id": 89,
+        "name": "Modern France"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Franc",
+    "numeric_value": 1,
+    "currency": {
+      "id": 303,
+      "name": "Franc",
+      "full_name": "Franc (1795-1959)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2002-02-14"
+  },
+  "size": 23,
+  "thickness": 1.41,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Pierre-Alexandre Morlon"
+    ],
+    "description": "Wreathed female head facing left, lettering around edge both sides, engraver's name behind head",
+    "lettering": "REPUBLIQUE FRANÇAISE\r\nMORLON",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of France\r\nMorlon",
+    "picture": "https://en.numista.com/catalogue/photos/france/4988-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/4988-180.jpg",
+    "picture_copyright": "Subli37",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Pierre-Alexandre Morlon"
+    ],
+    "description": "A cornucopia on each side, lettering at the top, the value in middle with the date below and the privy mark to the right of the date in between the gap between the two cornucopias",
+    "lettering": "LIBERTE-EGALITE\r\nFRATERNITE\r\n1\r\nFRANC\r\n1947",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Liberty Equality\r\nFraternity\r\n1\r\nFranc\r\n1947",
+    "picture": "https://en.numista.com/catalogue/photos/france/4989-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/4989-180.jpg",
+    "picture_copyright": "Subli37",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p>Striking began very soon after the liberation of Paris, with the material available. For example, the 1941 mint, weighing 1.30g, was produced in September 1944, and can be easily distinguished from the original mint because the sides are thinner.</p>",
+  "related_types": [
+    {
+      "id": 18129,
+      "title": "1 Franc (aluminium, heavy type)",
+      "category": "coin",
+      "country": {
+        "code": "france",
+        "name": "France"
+      },
+      "minYear": 1941,
+      "maxYear": 1941
+    },
+    {
+      "id": 36749,
+      "title": "1 Franc - Graziani - Zinc",
+      "category": "coin",
+      "country": {
+        "code": "france",
+        "name": "France"
+      },
+      "minYear": 1943,
+      "maxYear": 1943
+    },
+    {
+      "id": 36748,
+      "title": "1 Franc - Graziani - Aluminium",
+      "category": "coin",
+      "country": {
+        "code": "france",
+        "name": "France"
+      },
+      "minYear": 1943,
+      "maxYear": 1943
+    }
+  ],
+  "tags": [
+    "Phrygian cap",
+    "Cornucopia"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 34,
+        "code": "Franc 2014"
+      },
+      "number": "221"
+    },
+    {
+      "catalogue": {
+        "id": 109,
+        "code": "Gad 1789"
+      },
+      "number": "473"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "885a.1-3"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "200a"
+    }
+  ],
+  "weight": 1.3,
+  "orientation": "coin",
+  "edge": {
+    "description": "Smooth\r\nThe image shows both heavy KM#885a (bottom) and light KM#885a.1-3 (top) type",
+    "picture": "https://en.numista.com/catalogue/photos/france/5074-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/5074-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    },
+    {
+      "id": 72,
+      "name": "Beaumont-le-Roger"
+    },
+    {
+      "id": 74,
+      "name": "Castelsarrasin"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

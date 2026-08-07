@@ -1,0 +1,112 @@
+{
+  "id": 10396,
+  "url": "https://en.numista.com/10396",
+  "title": "5 Markkaa",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "finlande",
+    "name": "Finland"
+  },
+  "min_year": 1972,
+  "max_year": 1978,
+  "ruler": [
+    {
+      "id": 3291,
+      "name": "Republic",
+      "wikidata_id": "Q33"
+    }
+  ],
+  "value": {
+    "text": "5 Markkaa",
+    "numeric_value": 5,
+    "currency": {
+      "id": 133,
+      "name": "New Markka",
+      "full_name": "New Markka (1963-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1997-12-31"
+  },
+  "size": 26.3,
+  "thickness": 2.05,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze (93% Copper, 5% Aluminium, 2% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Heikki Häiväoja"
+    ],
+    "description": "Icebreaker \"Varma\", date below.",
+    "lettering": "SUOMI\r\nFINLAND\r\n1973",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/finlande/1589-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/1589-180.jpg",
+    "picture_copyright": "lektrobal"
+  },
+  "reverse": {
+    "engravers": [
+      "Heikki Häiväoja"
+    ],
+    "description": "Stylized flock of birds, denomination in center.",
+    "lettering": "5\r\nMARKKAA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/finlande/1590-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/1590-180.jpg",
+    "picture_copyright": "lektrobal"
+  },
+  "tags": [
+    "Boat or watercraft"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "53"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "58"
+    }
+  ],
+  "weight": 8,
+  "orientation": "medal",
+  "edge": {
+    "description": "Inscribed in hollow.",
+    "lettering": "REPUBLIKEN FINLAND SUOMEN TASAVALTA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ]
+  },
+  "mints": [
+    {
+      "id": 1333,
+      "name": "Mint of Finland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

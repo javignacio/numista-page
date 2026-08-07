@@ -1,0 +1,93 @@
+{
+  "id": 14154,
+  "url": "https://en.numista.com/14154",
+  "title": "50 Cruzeiros Reais",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bresil",
+    "name": "Brazil"
+  },
+  "min_year": 1993,
+  "max_year": 1994,
+  "ruler": [
+    {
+      "id": 2684,
+      "name": "Federative Republic of Brazil",
+      "wikidata_id": "Q155"
+    }
+  ],
+  "value": {
+    "text": "50 Cruzeiros Reais",
+    "numeric_value": 50,
+    "currency": {
+      "id": 157,
+      "name": "Cruzeiro real",
+      "full_name": "Cruzeiro real (1993-1994)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 23,
+  "thickness": 1,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Date to left of denomination.",
+    "lettering": "BRASIL\r\n1993 50\r\nCR$",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bresil/695bac8b809ba4.73209592-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/695bac8b809ba4.73209592-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "reverse": {
+    "description": "Mother jaguar and cub.\r\nBinomial Name: Panthera onca",
+    "lettering": "ONÇA \r\nPINTADA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bresil/695bac8d633ae9.46849749-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/695bac8d633ae9.46849749-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "tags": [
+    "Cat or feline"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "629"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "138"
+    }
+  ],
+  "weight": 3.92,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

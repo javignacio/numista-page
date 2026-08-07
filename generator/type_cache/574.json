@@ -1,0 +1,150 @@
+{
+  "id": 574,
+  "url": "https://en.numista.com/574",
+  "title": "5 Soles de Oro",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "perou",
+    "name": "Peru"
+  },
+  "min_year": 1975,
+  "max_year": 1977,
+  "ruler": [
+    {
+      "id": 3757,
+      "name": "Republic",
+      "wikidata_id": "Q419"
+    }
+  ],
+  "value": {
+    "text": "5 Soles",
+    "numeric_value": 5,
+    "currency": {
+      "id": 218,
+      "name": "Sol",
+      "full_name": "Sol (1863-1930) / Sol de Oro (1931-1985)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1985-01-01"
+  },
+  "size": 22.48,
+  "thickness": 1.55,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Circle around national arms of Peru",
+    "lettering": "BANCO CENTRAL DE RESERVA DEL PERU\r\n1977",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Reserve Bank of Peru\r\n1977",
+    "picture": "https://en.numista.com/catalogue/photos/perou/6186cd6f5b4834.89258365-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/6186cd6f5b4834.89258365-180.jpg",
+    "picture_copyright": "EZE711CBA",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Depiction of Tupac Amaru facing right\r\nMintmark LM of Lima Mint",
+    "lettering": "TUPAC AMARU\r\n5\r\nCINCO SOLES DE ORO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Tupac Amaru\r\nFive Gold Sols",
+    "picture": "https://en.numista.com/catalogue/photos/perou/6186cd70330626.00451771-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/6186cd70330626.00451771-180.jpg",
+    "picture_copyright": "EZE711CBA",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "Mintmark in monogram",
+  "related_types": [
+    {
+      "id": 5595,
+      "title": "5 Soles de Oro (Independence)",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 1971,
+      "maxYear": 1971
+    },
+    {
+      "id": 9098,
+      "title": "5 Soles de Oro",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 1972,
+      "maxYear": 1975
+    },
+    {
+      "id": 933,
+      "title": "5 Soles de Oro",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 1978,
+      "maxYear": 1983
+    }
+  ],
+  "tags": [
+    "Military leader",
+    "Hat",
+    "Coat of Arms",
+    "Cornucopia"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "267"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "67"
+    }
+  ],
+  "weight": 4.4,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/perou/615e5e572d0153.91144922-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/615e5e572d0153.91144922-180.jpg",
+    "picture_copyright": "CyrusPamelaOne",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 297,
+      "name": "Lima"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

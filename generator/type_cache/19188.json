@@ -1,0 +1,106 @@
+{
+  "id": 19188,
+  "url": "https://en.numista.com/19188",
+  "title": "1 Cent (Magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "barbade",
+    "name": "Barbados"
+  },
+  "min_year": 2007,
+  "max_year": 2012,
+  "ruler": [
+    {
+      "id": 3989,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 244,
+        "name": "Commonwealth Realm"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Cent",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 51,
+      "name": "Dollar",
+      "full_name": "Dollar (1973-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 18.86,
+  "thickness": 1.55,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Philip Nathan"
+    ],
+    "description": "National arms of Barbados dividing the date on both sides above tridents and the country name at the bottom",
+    "lettering": "2009\r\nPRIDE AND INDUSTRY\r\nBARBADOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/barbade/240-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/barbade/240-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "reverse": {
+    "engravers": [
+      "Philip Nathan"
+    ],
+    "description": "Trident above value.",
+    "lettering": "ONE CENT\r\nPN",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/barbade/241-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/barbade/241-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "tags": [
+    "Cold weapons",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "10b"
+    }
+  ],
+  "weight": 2.78,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/barbade/698b07776fb599.87068520-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/barbade/698b07776fb599.87068520-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

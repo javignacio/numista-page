@@ -1,0 +1,136 @@
+{
+  "id": 1456,
+  "url": "https://en.numista.com/1456",
+  "title": "10 Øre - Haakon VII",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "norvege",
+    "name": "Norway"
+  },
+  "min_year": 1924,
+  "max_year": 1951,
+  "ruler": [
+    {
+      "id": 449,
+      "name": "Haakon VII",
+      "wikidata_id": "Q154927",
+      "group": {
+        "id": 358,
+        "name": "House of Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Øre",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 16,
+      "name": "Krone",
+      "full_name": "Krone (1875-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 15,
+  "thickness": 1.25,
+  "shape": "Round with a round hole",
+  "composition": {
+    "text": "Copper-nickel (Cu 75%, Ni 25%)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Crown above a hole in the middle. Date divided by mintmark on shield below the hole. Surrounded by inscription. Beaded ring on the rim.",
+    "lettering": "∘ALT∘FOR∘NORGE∘\r\n19 ⚒ 46",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Everything for Norway",
+    "picture": "https://en.numista.com/catalogue/photos/norvege/64caa37745cba2.57085563-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/64caa37745cba2.57085563-180.jpg",
+    "picture_copyright": "Elvi75"
+  },
+  "reverse": {
+    "description": "Value in two lines, with a hole in the middle. A triskelion on each side of the hole. Beaded ring on the rim.",
+    "lettering": "10 \r\nØRE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/norvege/64caa377c18584.06436031-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/64caa377c18584.06436031-180.jpg",
+    "picture_copyright": "Elvi75"
+  },
+  "comments": "<p><a href=\"https://en.numista.com/catalogue/images/6858b0ddb356c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6858b0ddb356c.jpg\"></a></p><p><a href=\"https://en.numista.com/catalogue/images/6858c2b8dbf52.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6858c2b8dbf52.jpg\"></a></p><p>1926, 1939, 1940, 1941 &amp; 1951 crowns</p><p><a href=\"https://en.numista.com/catalogue/images/674755855c3d5.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/674755855c3d5.jpg\"></a></p><p><a href=\"https://en.numista.com/catalogue/images/6858c662cbc8a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6858c662cbc8a.jpg\"></a></p><p><a href=\"https://en.numista.com/catalogue/images/672e1f0893c44.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/672e1f0893c44.jpg\"></a></p><p><a href=\"https://en.numista.com/catalogue/images/6858da58d3c80.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6858da58d3c80.jpg\"></a></p><p><a href=\"https://en.numista.com/catalogue/images/685a14552356d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/685a14552356d.jpg\"></a></p>",
+  "related_types": [
+    {
+      "id": 24385,
+      "title": "10 Øre - Haakon VII (WW2 Exile Coinage)",
+      "category": "coin",
+      "country": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "minYear": 1942,
+      "maxYear": 1942
+    },
+    {
+      "id": 3716,
+      "title": "10 Øre (German Occupation Coinage)",
+      "category": "coin",
+      "country": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "minYear": 1941,
+      "maxYear": 1945
+    }
+  ],
+  "tags": [
+    "Crown"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "383"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "32"
+    },
+    {
+      "catalogue": {
+        "id": 201,
+        "code": "Rønning"
+      },
+      "number": "273"
+    }
+  ],
+  "weight": 1.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain."
+  },
+  "mints": [
+    {
+      "id": 1888,
+      "name": "Norwegian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

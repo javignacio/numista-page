@@ -1,0 +1,145 @@
+{
+  "id": 3274,
+  "url": "https://en.numista.com/3274",
+  "title": "10 Haléřů",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "tchecoslovaquie",
+    "name": "Czechoslovakia"
+  },
+  "min_year": 1974,
+  "max_year": 1990,
+  "ruler": [
+    {
+      "id": 2061,
+      "name": "Socialist Republic",
+      "wikidata_id": "Q853348"
+    }
+  ],
+  "value": {
+    "text": "10 Haléřů / Halierov",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 3667,
+      "name": "Koruna",
+      "full_name": "Koruna (1953-1992)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1993-10-15"
+  },
+  "size": 18.2,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium (97.6% Aluminium, 2% Magnesium, 0.4% Manganese)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "František David"
+    ],
+    "description": "The Czechoslovak coat of arms and the date below.",
+    "lettering": "ČESKOSLOVENSKÁ SOCIALISTICKÁ REPUBLIKA\r\n1976",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Czechoslovak Socialist Republic\r\n1976",
+    "picture": "https://en.numista.com/catalogue/photos/tchecoslovaquie/691-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/tchecoslovaquie/691-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "reverse": {
+    "engravers": [
+      "František David"
+    ],
+    "description": "A five-pointed star above the value, engraver's initial to the left.",
+    "lettering": "10\r\nh\r\nD",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/tchecoslovaquie/692-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/tchecoslovaquie/692-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "comments": "A few types of the obverse are known.<br /><br />\r\n<span style=\"font-style:italic;\">Obverse</span><br />\r\nDie <span style=\"font-weight:bold;\">I</span> - deep fur lines in lion mane, close &quot;9&quot; with large mash.<br />\r\nDie <span style=\"font-weight:bold;\">II</span> - deep fur lines in lion mane, close &quot;9&quot; with medium mash.<br />\r\nDie <span style=\"font-weight:bold;\">III</span> - shallow fur lines in lion mane, close &quot;9&quot; with narrow small mash.<br />\r\nDie <span style=\"font-weight:bold;\">IV</span> - shallow fur lines in lion mane, additional vertical line to scrotum, open &quot;9&quot; with large mash.<br />\r\nDie <span style=\"font-weight:bold;\">V</span> - small lion and star, deeper fur lines with one more narrow line above shield in lion mane, close &quot;9&quot; with large mash.<br />\r\nPicture: © Images courtesy of Alexandr Prokofyev.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/63812d5ae8f97.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/63812d5ae8f97.jpg\" alt=\"\" width=\"200\" height=\"129\" /></a><br /><br />\r\n<span style=\"font-style:italic;\">Combinations</span><br />\r\n<span style=\"font-weight:bold;\">I</span>: 1974-1976.<br />\r\n<span style=\"font-weight:bold;\">II</span>: 1976.<br />\r\n<span style=\"font-weight:bold;\">III</span>: 1977-1984.<br />\r\n<span style=\"font-weight:bold;\">IV</span>: 1985.<br />\r\n<span style=\"font-weight:bold;\">V</span>: 1986-1990.<br /><br />\r\nVariations in the shape of the lettering exist:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/64b8ea4412a58.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64b8ea4412a58.png\" alt=\"\" width=\"200\" height=\"200\" /></a>",
+  "related_types": [
+    {
+      "id": 2645,
+      "title": "10 Haléřů",
+      "category": "coin",
+      "country": {
+        "code": "tchecoslovaquie",
+        "name": "Czechoslovakia"
+      },
+      "minYear": 1961,
+      "maxYear": 1971
+    },
+    {
+      "id": 91329,
+      "title": "10 Haléřů (Trial Strike)",
+      "category": "coin",
+      "country": {
+        "code": "tchecoslovaquie",
+        "name": "Czechoslovakia"
+      },
+      "minYear": 1985,
+      "maxYear": 1985
+    },
+    {
+      "id": 3994,
+      "title": "10 Haléřů",
+      "category": "coin",
+      "country": {
+        "code": "tchecoslovaquie",
+        "name": "Czechoslovakia"
+      },
+      "minYear": 1991,
+      "maxYear": 1992
+    }
+  ],
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "80"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "79"
+    }
+  ],
+  "weight": 0.92,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/tchecoslovaquie/615b588e973207.84716616-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/tchecoslovaquie/615b588e973207.84716616-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 1262,
+      "name": "Kremnica"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

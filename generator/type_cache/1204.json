@@ -1,0 +1,154 @@
+{
+  "id": 1204,
+  "url": "https://en.numista.com/1204",
+  "title": "1 Dinar (Habib Bourguiba)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "tunisie",
+    "name": "Tunisia"
+  },
+  "min_year": 1976,
+  "max_year": 1983,
+  "ruler": [
+    {
+      "id": 4957,
+      "name": "Republic",
+      "wikidata_id": "Q948"
+    }
+  ],
+  "value": {
+    "text": "1 Dinar",
+    "numeric_value": 1,
+    "currency": {
+      "id": 32,
+      "name": "Dinar",
+      "full_name": "Dinar (1958-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 28,
+  "thickness": 2.08,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Profile portrait of Habib Bourguiba, then president of Tunisia",
+    "lettering": "الحبيب بورقيبة\r\n1983\r\nرئيس الجمهورية التونسية",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "Habib Bourguiba\r\n1983\r\nPresident of the Tunisian Republic",
+    "picture": "https://en.numista.com/catalogue/photos/tunisie/5f36a4ad53fb12.60380445-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/tunisie/5f36a4ad53fb12.60380445-180.jpg",
+    "picture_copyright": "pearcem12",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Hatem El Mekki"
+    ],
+    "description": "A woman picking olives with wheat, a tractor and a palm tree in the background",
+    "lettering": "البنك المركزي التونسي\r\nELMEKKI\r\nدينار 1 واحد",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "Central Bank of Tunisia\r\nOne 1 Dinar",
+    "picture": "https://en.numista.com/catalogue/photos/tunisie/5fbee08f368187.04353759-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/tunisie/5fbee08f368187.04353759-180.jpg",
+    "picture_copyright": "pearcem12",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/5a0dc82e11f0f.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5a0dc82e11f0f.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nIn 1983 these dies are known:<br />\r\n<span style=\"font-style:italic;\">Obverse: </span><br />\r\n1 - all details thick<br />\r\n2 - all details thin<br />\r\nIt is easy to see the difference in the shape of numerals<br />\r\n<span style=\"font-style:italic;\">Reverse:</span><br />\r\nA - all details thick<br />\r\nB - all details thin<br />\r\nIt is easy to see the difference in the shape of name of engraver.<br />\r\nKnown <span style=\"font-style:italic;\">combinations:</span> 1+A, 2+B<br />\r\n<a href=\"https://en.numista.com/catalogue/images/58b125ff59f18.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/58b125ff59f18.jpg\" alt=\"\" width=\"177\" height=\"250\" /></a><br /><br />\r\nSaid in another way<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5a0dc8929b586.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5a0dc8929b586.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "related_types": [
+    {
+      "id": 66940,
+      "title": "1 Dinar (FAO; Trial)",
+      "category": "coin",
+      "country": {
+        "code": "tunisie",
+        "name": "Tunisia"
+      },
+      "minYear": 1976,
+      "maxYear": 1976
+    },
+    {
+      "id": 1205,
+      "title": "1 Dinar (Country map)",
+      "category": "coin",
+      "country": {
+        "code": "tunisie",
+        "name": "Tunisia"
+      },
+      "minYear": 1988,
+      "maxYear": 1990
+    },
+    {
+      "id": 1206,
+      "title": "1 Dinar",
+      "category": "coin",
+      "country": {
+        "code": "tunisie",
+        "name": "Tunisia"
+      },
+      "minYear": 1996,
+      "maxYear": 2013
+    }
+  ],
+  "tags": [
+    "FAO",
+    "Truck or tractor"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "304"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "243"
+    }
+  ],
+  "weight": 10,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/tunisie/61497bda804156.13099293-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/tunisie/61497bda804156.13099293-180.jpg",
+    "picture_copyright": "CyrusPamelaOne",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    },
+    {
+      "id": 4157,
+      "name": "VDM Metals / Vereinigte Deutsche Metallwerke"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,139 @@
+{
+  "id": 14601,
+  "url": "https://en.numista.com/14601",
+  "title": "20 Kroner - Margrethe II (HMY Dannebrog)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "danemark",
+    "name": "Denmark"
+  },
+  "issuing_entity": {
+    "id": 588,
+    "name": "National Bank of Denmark",
+    "wikidata_id": "Q683252"
+  },
+  "min_year": 2008,
+  "max_year": 2008,
+  "ruler": [
+    {
+      "id": 2404,
+      "name": "Margrethe II",
+      "wikidata_id": "Q102139",
+      "group": {
+        "id": 104,
+        "name": "House of Schleswig-Holstein-Sonderburg-Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "20 Kroner",
+    "numeric_value": 20,
+    "currency": {
+      "id": 13,
+      "name": "Krone",
+      "full_name": "Krone (1873-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 27,
+  "thickness": 2.35,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Mogens Møller"
+    ],
+    "designers": [
+      "Johan Alkjaer"
+    ],
+    "description": "Bust of Queen Margrethe II facing right in a solid ring, surrounded by inscription. Date at the bottom, solid ring on the rim.",
+    "lettering": "MARGRETHE II ♥ DANMARKS DRONNING\r\n2008",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Margrethe II, Queen of Denmark.",
+    "picture": "https://en.numista.com/catalogue/photos/danemark/5f4b83cddc6427.41130027-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/5f4b83cddc6427.41130027-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Henrik Wiberg"
+    ],
+    "description": "Royal Yacht Dannebrog at sea facing left in a partial ring, inscription on the left. Value on the right, solid ring on the rim.",
+    "lettering": "DANNEBROG 20 KRONER",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/danemark/5f4b83ce793641.06571203-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/5f4b83ce793641.06571203-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "series": "Ships",
+  "commemorated_topic": "160th Anniversary of Dannebrog",
+  "related_types": [
+    {
+      "id": 37387,
+      "title": "500 Kroner - Margrethe II (HMY Dannebrog)",
+      "category": "coin",
+      "country": {
+        "code": "danemark",
+        "name": "Denmark"
+      },
+      "minYear": 2008,
+      "maxYear": 2008
+    }
+  ],
+  "tags": [
+    "Monarch",
+    "Boat or watercraft",
+    "Heart"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "928"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "147"
+    }
+  ],
+  "weight": 9.3,
+  "orientation": "medal",
+  "edge": {
+    "description": "Segmented reeding."
+  },
+  "mints": [
+    {
+      "id": 260,
+      "name": "Royal Danish Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

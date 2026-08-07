@@ -1,0 +1,132 @@
+{
+  "id": 1250,
+  "url": "https://en.numista.com/1250",
+  "title": "5 Francs - Baudouin I (Dutch text)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "belgique",
+    "name": "Belgium"
+  },
+  "min_year": 1986,
+  "max_year": 1993,
+  "ruler": [
+    {
+      "id": 1169,
+      "name": "Baudouin I",
+      "wikidata_id": "Q12976",
+      "group": {
+        "id": 530,
+        "name": "House of Belgium"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Francs",
+    "numeric_value": 5,
+    "currency": {
+      "id": 72,
+      "name": "Franc",
+      "full_name": "Franc (1832-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2002-02-28"
+  },
+  "size": 24,
+  "thickness": 1.72,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-aluminium-nickel (Copper 92%, Aluminium 6%, Nickel 2%)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Jean-Paul Laenen"
+    ],
+    "description": "Stylized portrait of Baudouin I, designer below.",
+    "lettering": "J-P.L",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/belgique/695a3fbc3592a7.35581503-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/belgique/695a3fbc3592a7.35581503-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "reverse": {
+    "engravers": [
+      "Jean-Paul Laenen"
+    ],
+    "description": "Denomination in centre, legend in Dutch below. Year at bottom flanked by privy and mint mark.",
+    "lettering": "5F\r\nBELGIË\r\n1986",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Frank",
+    "lettering_translation": "Belgium",
+    "picture": "https://en.numista.com/catalogue/photos/belgique/695a3fbe40d686.36829395-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/belgique/695a3fbe40d686.36829395-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "comments": "Mint mark: Head of Archangel Michael, Koninklijke Munt van België - Monnaie Royal de Belgique, Brussels, Belgium<br /><br />\r\n<span style=\"font-weight:bold;\">Three main groups of Obverse are known</span><br />\r\n<span style=\"font-style:italic;\">Obverse</span><br />\r\nDie <span style=\"font-weight:bold;\">I</span> - earlobe with curved outline.<br />\r\nDie <span style=\"font-weight:bold;\">II</span> - earlobe with angled outline in fine line.<br />\r\nDie <span style=\"font-weight:bold;\">III</span> - smaller earlobe with angled outline in thick line.<br /><br />\r\nTogether with these features there are many more, some of which are marked by arrows.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5f78cbeb80e25.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5f78cbeb80e25.jpg\" alt=\"\" width=\"200\" height=\"198\" /></a>",
+  "related_types": [
+    {
+      "id": 757,
+      "title": "5 Francs - Baudouin I (French text)",
+      "category": "coin",
+      "country": {
+        "code": "belgique",
+        "name": "Belgium"
+      },
+      "minYear": 1986,
+      "maxYear": 1993
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "164"
+    },
+    {
+      "catalogue": {
+        "id": 192,
+        "code": "LA"
+      },
+      "number": "BFM-140"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "132"
+    }
+  ],
+  "weight": 5.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/belgique/6179124b74e832.74144501-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/belgique/6179124b74e832.74144501-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 1338,
+      "name": "Royal Mint of Belgium"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

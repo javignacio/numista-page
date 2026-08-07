@@ -1,0 +1,207 @@
+{
+  "id": 8896,
+  "url": "https://en.numista.com/8896",
+  "title": "1 Real",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bresil",
+    "name": "Brazil"
+  },
+  "min_year": 2002,
+  "max_year": 2024,
+  "ruler": [
+    {
+      "id": 2684,
+      "name": "Federative Republic of Brazil",
+      "wikidata_id": "Q155"
+    }
+  ],
+  "value": {
+    "text": "1 Real",
+    "numeric_value": 1,
+    "currency": {
+      "id": 158,
+      "name": "Real",
+      "full_name": "Real (1994-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 27,
+  "thickness": 1.95,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: stainless steel centre in bronze plated steel ring"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Kátia Dias"
+    ],
+    "designers": [
+      "Glória Aparecida Ferreira Dias e Luciano Dias Araújo e Kátia Dias"
+    ],
+    "description": "Head of the Republic facing left with geometric patterns and legend at left.",
+    "lettering": "BRASIL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "BRAZIL",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/6415b67398cc93.94235770-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/6415b67398cc93.94235770-180.jpg",
+    "picture_copyright": "Rogbert",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "Glória Aparecida Ferreira Dias e Luciano Dias Araújo e Kátia Dias"
+    ],
+    "description": "Numerical denomination and date surrounded by geometric patterns and Southern Cross.",
+    "lettering": "1\r\nREAL\r\n2010",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bresil/6415b674c4fe24.52982882-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/6415b674c4fe24.52982882-180.jpg",
+    "picture_copyright": "Rogbert",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/621e3a7dc7d26.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/621e3a7dc7d26.jpg\" alt=\"\" width=\"199\" height=\"139\" /></a><br />\r\nOfficial Sets - 2018<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5d87a4d855fff.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d87a4d855fff.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5d87a4e1d1e0e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d87a4e1d1e0e.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\nOfficial Sets - 2019 - Mintage 3000 Sets<br />\r\n<a href=\"https://en.numista.com/catalogue/images/6206cb8057be3.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6206cb8057be3.jpg\" alt=\"\" width=\"200\" height=\"142\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/6206cb8c6a7f0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6206cb8c6a7f0.jpg\" alt=\"\" width=\"199\" height=\"139\" /></a><br />\r\nOfficial Sets - 2021 - Mintage 5000 Sets",
+  "related_types": [
+    {
+      "id": 4049,
+      "title": "1 Centavo (Cabral)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1998,
+      "maxYear": 2004
+    },
+    {
+      "id": 1049,
+      "title": "5 Centavos (Tiradentes)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1998,
+      "maxYear": 2025
+    },
+    {
+      "id": 2253,
+      "title": "10 Centavos (Pedro I)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1998,
+      "maxYear": 2025
+    },
+    {
+      "id": 2252,
+      "title": "25 Centavos (Deodoro da Fonseca)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1998,
+      "maxYear": 2025
+    },
+    {
+      "id": 8895,
+      "title": "50 Centavos (Rio Branco; copper-nickel)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1998,
+      "maxYear": 2001
+    },
+    {
+      "id": 666,
+      "title": "50 Centavos (Rio Branco; stainless steel)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 2002,
+      "maxYear": 2024
+    },
+    {
+      "id": 94947,
+      "title": "50 Centavos (Mule Coin)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 2012,
+      "maxYear": 2012
+    },
+    {
+      "id": 3817,
+      "title": "1 Real",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1998,
+      "maxYear": 1999
+    }
+  ],
+  "tags": [
+    "Allegory"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "652a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "160a"
+    }
+  ],
+  "weight": 7,
+  "orientation": "coin",
+  "edge": {
+    "description": "Segmented reeding",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/1540-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/1540-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "mints": [
+    {
+      "id": 1335,
+      "name": "Mint of Brazil"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

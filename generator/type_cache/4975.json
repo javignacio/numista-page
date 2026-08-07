@@ -1,0 +1,170 @@
+{
+  "id": 4975,
+  "url": "https://en.numista.com/4975",
+  "title": "10 Guaraníes (FAO)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "paraguay",
+    "name": "Paraguay"
+  },
+  "issuing_entity": {
+    "id": 935,
+    "name": "Central Bank of Paraguay",
+    "wikidata_id": "Q4504275"
+  },
+  "min_year": 1978,
+  "max_year": 1988,
+  "ruler": [
+    {
+      "id": 4650,
+      "name": "Republic",
+      "wikidata_id": "Q733"
+    }
+  ],
+  "value": {
+    "text": "10 Guaraníes",
+    "numeric_value": 10,
+    "currency": {
+      "id": 87,
+      "name": "Guarani",
+      "full_name": "Guarani (1944-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2014-01-17"
+  },
+  "size": 22,
+  "thickness": 1.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Name of the country with portrait of General Garay and year of issue below",
+    "lettering": "REPUBLICA DEL PARAGUAY\r\nGRAL. GARAY\r\n1980",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Paraguay\r\nGeneral Garay\r\n1980",
+    "picture": "https://en.numista.com/catalogue/photos/paraguay/6980cb7704a2c3.52102786-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/paraguay/6980cb7704a2c3.52102786-180.jpg",
+    "picture_copyright": "Hammad Numismatics",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Cow head left and value",
+    "lettering": "ALIMENTOS PARA EL MUNDO\r\n10 GUARANIES",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Food for the world\r\n10 guaraníes",
+    "picture": "https://en.numista.com/catalogue/photos/paraguay/6980cb796ac160.37108987-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/paraguay/6980cb796ac160.37108987-180.jpg",
+    "picture_copyright": "Hammad Numismatics",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "related_types": [
+    {
+      "id": 4974,
+      "title": "10 Guaraníes",
+      "category": "coin",
+      "country": {
+        "code": "paraguay",
+        "name": "Paraguay"
+      },
+      "minYear": 1975,
+      "maxYear": 1976
+    },
+    {
+      "id": 174269,
+      "title": "10 Guaraníes (Gold FAO)",
+      "category": "coin",
+      "country": {
+        "code": "paraguay",
+        "name": "Paraguay"
+      },
+      "minYear": 1978,
+      "maxYear": 1980
+    },
+    {
+      "id": 11619,
+      "title": "10 Guaraníes (FAO)",
+      "category": "coin",
+      "country": {
+        "code": "paraguay",
+        "name": "Paraguay"
+      },
+      "minYear": 1990,
+      "maxYear": 1990
+    },
+    {
+      "id": 5023,
+      "title": "10 Guaraníes (FAO)",
+      "category": "coin",
+      "country": {
+        "code": "paraguay",
+        "name": "Paraguay"
+      },
+      "minYear": 1996,
+      "maxYear": 1996
+    }
+  ],
+  "tags": [
+    "Cow or bovine",
+    "Military leader",
+    "FAO"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "167"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "178"
+    }
+  ],
+  "weight": 4.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/paraguay/6a0b10d0ef4f63.29040255-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/paraguay/6a0b10d0ef4f63.29040255-180.jpg",
+    "picture_copyright": "Dieter83"
+  },
+  "mints": [
+    {
+      "id": 1335,
+      "name": "Mint of Brazil"
+    },
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    },
+    {
+      "id": 4157,
+      "name": "VDM Metals / Vereinigte Deutsche Metallwerke"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

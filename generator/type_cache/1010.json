@@ -1,0 +1,143 @@
+{
+  "id": 1010,
+  "url": "https://en.numista.com/1010",
+  "title": "1 Centavo",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "colombie",
+    "name": "Colombia"
+  },
+  "min_year": 1967,
+  "max_year": 1978,
+  "ruler": [
+    {
+      "id": 4088,
+      "name": "Republic",
+      "wikidata_id": "Q739"
+    }
+  ],
+  "value": {
+    "text": "1 Centavo",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 147,
+      "name": "Peso decimalized",
+      "full_name": "Peso decimalized (1847-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 17.2,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper plated steel (90% Steel, 10% Copper)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Jacobin liberty cap within bay leaf wreath, symbolizing the won freedom",
+    "lettering": "REPUBLICA DE COLOMBIA\r\nLIBERTAD\r\n1967",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Colombia\r\nLiberty",
+    "picture": "https://en.numista.com/catalogue/photos/colombie/5f53e595f0eb43.54506596-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/5f53e595f0eb43.54506596-180.jpg",
+    "picture_copyright": "Ciscoins.net",
+    "picture_copyright_url": "https://web.archive.org/web/20201116183734/http://ciscoins.net/"
+  },
+  "reverse": {
+    "description": "Coffee bean sprigs flank denomination, cornucopia above.",
+    "lettering": "I\r\nCENTAVO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/colombie/5f53e596530b26.40158868-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/5f53e596530b26.40158868-180.jpg",
+    "picture_copyright": "Ciscoins.net",
+    "picture_copyright_url": "https://web.archive.org/web/20201116183734/http://ciscoins.net/"
+  },
+  "comments": "<p>Several date varieties exist. Please note that the ones shown below are also with a repunched date.</p><p><br><a href=\"https://en.numista.com/catalogue/images/582c951cafdb0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/582c951cafdb0.jpg\" alt=\"\"></a><br><a href=\"https://en.numista.com/catalogue/images/5edbe349a0434.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5edbe349a0434.jpg\" alt=\"\"></a></p>",
+  "related_types": [
+    {
+      "id": 6826,
+      "title": "1 Centavo (Phrygian Cap)",
+      "category": "coin",
+      "country": {
+        "code": "colombie",
+        "name": "Colombia"
+      },
+      "minYear": 1942,
+      "maxYear": 1966
+    },
+    {
+      "id": 35692,
+      "title": "1 Centavo (Independence)",
+      "category": "coin",
+      "country": {
+        "code": "colombie",
+        "name": "Colombia"
+      },
+      "minYear": 1960,
+      "maxYear": 1960
+    }
+  ],
+  "tags": [
+    "Cornucopia",
+    "Phrygian cap",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "205a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "25a"
+    },
+    {
+      "catalogue": {
+        "id": 347,
+        "code": "Hernández"
+      },
+      "number": "336"
+    },
+    {
+      "catalogue": {
+        "id": 348,
+        "code": "Restrepo"
+      },
+      "number": "352"
+    }
+  ],
+  "weight": 2,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 280,
+      "name": "Bogota Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

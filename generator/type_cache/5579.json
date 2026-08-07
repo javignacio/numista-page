@@ -1,0 +1,120 @@
+{
+  "id": 5579,
+  "url": "https://en.numista.com/5579",
+  "title": "2 New Sheqalim",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "israel",
+    "name": "Israel"
+  },
+  "min_year": 2008,
+  "max_year": 2017,
+  "ruler": [
+    {
+      "id": 4056,
+      "name": "State of Israel",
+      "wikidata_id": "Q801"
+    }
+  ],
+  "value": {
+    "text": "2 New Sheqalim",
+    "numeric_value": 2,
+    "currency": {
+      "id": 183,
+      "name": "New Shekel",
+      "full_name": "New Shekel (1986-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21.6,
+  "thickness": 2.3,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Ruben Nutels"
+    ],
+    "description": "A pair of cornucopias filled with fruit and grain with a pomegranate in between; pearls around the top half of the coin; the State symbol.",
+    "picture": "https://en.numista.com/catalogue/photos/israel/5fd23628199cc9.52412978-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/israel/5fd23628199cc9.52412978-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Ruben Nutels"
+    ],
+    "description": "The words \"2 New Sheqalim\" in Hebrew, Arabic, and English; the year of minting in Hebrew; the word \"Israel\" in Hebrew, Arabic, and English; pearls around the top half of the coin.",
+    "lettering": "إسرائيل · ISRAEL · התשס׳׳ח · ישראל\r\n2\r\nשקלים\r\nחדשים\r\nNEW SHEQALIM · ٢ شيقل جديد",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      },
+      {
+        "name": "Hebrew"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/israel/5fd2362886ff48.95637709-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/israel/5fd2362886ff48.95637709-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "Two variants to be found<br />\r\n<a href=\"https://en.numista.com/catalogue/images/646b72ee481f4.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/646b72ee481f4.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "related_types": [
+    {
+      "id": 27306,
+      "title": "Prutah - John Hyrcanus I",
+      "category": "coin",
+      "country": {
+        "code": "judee",
+        "name": "Judea"
+      },
+      "minYear": -134,
+      "maxYear": -104
+    }
+  ],
+  "tags": [
+    "Cornucopia"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "433"
+    }
+  ],
+  "weight": 5.7,
+  "orientation": "medal",
+  "edge": {
+    "description": "Smooth with 4 notched segments"
+  },
+  "mints": [
+    {
+      "id": 1334,
+      "name": "Mint of Finland"
+    },
+    {
+      "id": 23,
+      "name": "Royal Dutch Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

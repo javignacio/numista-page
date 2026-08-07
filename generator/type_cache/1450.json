@@ -1,0 +1,125 @@
+{
+  "id": 1450,
+  "url": "https://en.numista.com/1450",
+  "title": "20 Kroner - Harald V",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "norvege",
+    "name": "Norway"
+  },
+  "min_year": 1994,
+  "max_year": 2009,
+  "ruler": [
+    {
+      "id": 452,
+      "name": "Harald V",
+      "wikidata_id": "Q57287",
+      "group": {
+        "id": 358,
+        "name": "House of Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "20 Kroner",
+    "numeric_value": 20,
+    "currency": {
+      "id": 16,
+      "name": "Krone",
+      "full_name": "Krone (1875-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1994-11-01"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 27.5,
+  "thickness": 2.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass (Cu 81%, Zn 10%, Ni 9%)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Nils Aas",
+      "Ingrid Austlid Rise"
+    ],
+    "description": "Bust of king Harald V facing right. Engraver's initials behind back of bust. Inscription in two lines, on raised ground below bust. Solid ring on the rim.",
+    "lettering": "NAA\r\nHARALD V \r\nNORGES KONGE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Harald V, King of Norway",
+    "picture": "https://en.numista.com/catalogue/photos/norvege/13-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/13-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Nils Aas",
+      "Ingrid Austlid Rise"
+    ],
+    "description": "Half of ancient Viking boat, facing left. Value above boat. Date divided by mintmark below boat. Mintmaster's initials below date. Solid ring on the rim.",
+    "lettering": "20 KR\r\n19 ⚒ 94\r\nJEJ",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/norvege/14-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/14-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "<p>Mintmasters' initials are featured on the coin reverse. These initials are not included on coins minted after 2007. In 2001, there was a short period when there was no acting director for the mint. A small part of this year's mintage features a star to the right of the former director's initials.<br><br><i>Reverse</i><br>Two main groups of reverse are known.<br>Die <strong>A </strong>- tops of hammer and pick in mintmark with wedges.<br>Die<strong> B</strong> - tops of hammer and pick in mintmark without wedges.<br>Picture: © Images courtesy of Alexandr Prokofyev<br><a href=\"https://en.numista.com/catalogue/images/6196400398e37.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6196400398e37.jpg\" alt=\"\"></a><br><br><i>Combinations</i><br><strong>A</strong>: 1994-1998.<br><strong>B</strong>: 2000-2003, 2005, 2007-2009.<br><br>Some catalogues incorrectly include a mintage for the year 1999; such coin does not exist.</p><p>&nbsp;</p><p>1994 blister set mintage of 10.000 included in normal circulation line.</p><p>&nbsp;</p><p>Brilliant Uncirculated coin (1998-2007) was issued in the mint package.</p><p><a href=\"https://en.numista.com/catalogue/images/678dc7ec5bbdd.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/678dc7ec5bbdd.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/678dc7f206dbf.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/678dc7f206dbf.jpg\"></a></p><p>&nbsp;</p><p>Brilliant Uncirculated coin (2007-2009) was issued in special mint set.</p>",
+  "tags": [
+    "Monarch",
+    "Boat or watercraft"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "453"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "111"
+    }
+  ],
+  "weight": 9.9,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain.",
+    "picture": "https://en.numista.com/catalogue/photos/norvege/411-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/411-180.jpg",
+    "picture_copyright": "ADRIARTH"
+  },
+  "mints": [
+    {
+      "id": 1888,
+      "name": "Norwegian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

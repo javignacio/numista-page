@@ -1,0 +1,114 @@
+{
+  "id": 427,
+  "url": "https://en.numista.com/427",
+  "title": "1 Cent - Elizabeth II (2nd portrait, 12 sided)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "canada",
+    "name": "Canada"
+  },
+  "min_year": 1982,
+  "max_year": 1989,
+  "ruler": [
+    {
+      "id": 2095,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 827,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Cent",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 44,
+      "name": "Dollar",
+      "full_name": "Dollar (1858-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 19.1,
+  "thickness": 1.45,
+  "shape": "Dodecagonal (12-sided)",
+  "composition": {
+    "text": "Bronze (98% copper, 1.75% tin, 0.25% zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Arnold Machin"
+    ],
+    "description": "Bust of Queen Elizabeth II, as at 37 years of age, wearing tiara, facing right.",
+    "lettering": "ELIZABETH II D·G·REGINA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "ELIZABETH II DEI GRATIA REGINA",
+    "lettering_translation": "Elizabeth II Queen by the grace of God",
+    "picture": "https://en.numista.com/catalogue/photos/canada/2495-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/2495-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "engravers": [
+      "George Kruger Gray"
+    ],
+    "description": "A maple twig is surrounded with the face value and the inscription \"CANADA\"\n\nNOTE: Also on the Reverse the rim denticles were removed and replaced with beads.",
+    "lettering": "1 CENT\r\n1982\r\nCANADA \r\nK·G",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/canada/2497-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/2497-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "<p>(C) mintage included with the circulation coin.</p><p>&nbsp;</p><p><strong>(12-sided coin) </strong>The shape of the maple leaf twig was altered to make identification easier for the visually impaired. - Royal Canadian Mint</p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/5a732ec1545a6.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5a732ec1545a6.jpg\" alt=\"\"></a><br><a href=\"https://en.numista.com/catalogue/images/5ac79be765a34.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5ac79be765a34.jpg\" alt=\"\"></a></p>",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "132"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "59"
+    }
+  ],
+  "weight": 2.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/canada/5226-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/5226-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

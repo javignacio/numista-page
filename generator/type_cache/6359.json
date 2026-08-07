@@ -1,0 +1,96 @@
+{
+  "id": 6359,
+  "url": "https://en.numista.com/6359",
+  "title": "1 Shilling",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "somaliland",
+    "name": "Somaliland"
+  },
+  "min_year": 1994,
+  "max_year": 1994,
+  "ruler": [
+    {
+      "id": 4992,
+      "name": "Republic",
+      "wikidata_id": "Q34754"
+    }
+  ],
+  "value": {
+    "text": "1 Shilling",
+    "numeric_value": 1,
+    "currency": {
+      "id": 269,
+      "name": "Shilling",
+      "full_name": "Shilling (1994-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 20.5,
+  "thickness": 1.45,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Somali Pigeon Bird, date below",
+    "lettering": "REPUBLIC OF SOMALILAND\r\n1994 PM",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/somaliland/288-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/somaliland/288-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "reverse": {
+    "description": "Denomination",
+    "lettering": "• BAANKA SOMALILAND •\r\n1/-\r\nONE SOMALILAND SHILLING",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/somaliland/289-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/somaliland/289-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "comments": "Somali Pigeon or Somali stock dove (Binomial Name: Columba oliviae) is a species of bird living in Somaliland.<br /><br />\r\nThe two varieties of the coin<br />\r\n<a href=\"https://en.numista.com/catalogue/images/632733417f389.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/632733417f389.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "tags": [
+    "Bird"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1"
+    }
+  ],
+  "weight": 1.07,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/somaliland/290-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/somaliland/290-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 26,
+      "name": "Pobjoy Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

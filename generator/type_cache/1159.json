@@ -1,0 +1,126 @@
+{
+  "id": 1159,
+  "url": "https://en.numista.com/1159",
+  "title": "25 Cents (Non-Magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "trinite-et-tobago",
+    "name": "Trinidad and Tobago"
+  },
+  "min_year": 1976,
+  "max_year": 2017,
+  "ruler": [
+    {
+      "id": 956,
+      "name": "Republic",
+      "wikidata_id": "Q754"
+    }
+  ],
+  "value": {
+    "text": "25 Cents",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 58,
+      "name": "Dollar",
+      "full_name": "Dollar (1964-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 20,
+  "thickness": 1.63,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms, date below.",
+    "lettering": "REPUBLIC OF TRINIDAD AND TOBAGO\r\nTOGETHER WE ASPIRE TOGETHER WE ACHIEVE\r\n1976\r\nFM",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/trinite-et-tobago/393-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/trinite-et-tobago/393-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "designers": [
+      "Ernest Lauser"
+    ],
+    "description": "The Chaconia or Wild Poinsettia (Warszewiczia coccinea), the national flower, denomination below.",
+    "lettering": "25\r\nCENTS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/trinite-et-tobago/394-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/trinite-et-tobago/394-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "comments": "<p>On July 1, 2017 the metal composition of the 25 cents changed into a steel core with a copper-nickel overlay, which makes this coin magnetic.<br><br>Since this change took place in the middle of the year it's likely the 2017 coin exists in old and new metal composition, so be aware to tick the right entry when adding a 2017 coin, especially since there are several other entries in between.</p><p>&nbsp;</p><p>Trinidad and Tobago's coat of arms: a ship's wheel in front of a fruited coconut palm. Beneath the wheel is the wreath which holds the mantle in place. The Helm is a helmet facing front. The devices on the Shield are the two humming birds. The three gold ships represent the three ships of Columbus. The Supporters are a Scarlet Ibis (the national bird of Trinidad) on the left and a Cocrico (the national bird of Tobago) on the right. The Three Peaks commemorated both Columbus' decision to name Trinidad after the Blessed Trinity and the three Peaks of the Southern mountain range, called the \"Three Sisters\" on the horizon. Inscribed on the motto scroll are the words: \"Together we aspire, together we achieve\".</p><p>&nbsp;</p><p>Change of font (look at the “7's”):</p><p><a href=\"https://en.numista.com/catalogue/images/66ffa156e7662.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/66ffa156e7662.jpg\"></a></p><p>© E. Timmermans</p>",
+  "related_types": [
+    {
+      "id": 5930,
+      "title": "25 Cents - Elizabeth II",
+      "category": "coin",
+      "country": {
+        "code": "trinite-et-tobago",
+        "name": "Trinidad and Tobago"
+      },
+      "minYear": 1974,
+      "maxYear": 1976
+    }
+  ],
+  "tags": [
+    "Flower",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "32"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "31"
+    }
+  ],
+  "weight": 3.53,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/trinite-et-tobago/277-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/trinite-et-tobago/277-180.jpg",
+    "picture_copyright": "jasanche",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    },
+    {
+      "id": 1319,
+      "name": "Franklin Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

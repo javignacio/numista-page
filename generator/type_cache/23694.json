@@ -1,0 +1,115 @@
+{
+  "id": 23694,
+  "url": "https://en.numista.com/23694",
+  "title": "1 Balboa",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "panama",
+    "name": "Panama"
+  },
+  "min_year": 2011,
+  "max_year": 2019,
+  "ruler": [
+    {
+      "id": 4072,
+      "name": "Republic",
+      "wikidata_id": "Q804"
+    }
+  ],
+  "value": {
+    "text": "1 Balboa",
+    "numeric_value": 1,
+    "currency": {
+      "id": 5,
+      "name": "Balboa",
+      "full_name": "Balboa (1904-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 26.5,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: nickel brass plated steel centre in nickel plated steel ring"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms with 9 or 10 stars above. Name of the country above and value in letters below in the ring.",
+    "lettering": "REPUBLICA DE PANAMA\r\n*********\r\nPRO MUNDI BENEFICIO\r\nUN BALBOA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Panama\r\nFor the Benefit of the World\r\nOne Balboa",
+    "picture": "https://en.numista.com/catalogue/photos/panama/623-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/panama/623-180.jpg",
+    "picture_copyright": "Dario Silva Collection",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Armoured bust with helmet of Vasco Núñez de Balboa facing left in the center, surrounded by his name and the date in the ring.",
+    "lettering": "VASCO NUÑEZ DE BALBOA\r\n2011",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/panama/622-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/panama/622-180.jpg",
+    "picture_copyright": "Dario Silva Collection",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p>KM# 141.1; nine stars above coat of arms</p><p>KM# 141.2; ten stars above coat of arms</p>",
+  "tags": [
+    "Coat of Arms",
+    "Explorer"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "141"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "125"
+    }
+  ],
+  "weight": 7.2,
+  "orientation": "coin",
+  "edge": {
+    "description": "2 small reeded sectors superimposed to the lettering: PANAMA 1 BALBOA.\r\nExists in both directions, readable obverse up or reverse up.",
+    "lettering": "PANAMA 1 BALBOA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/panama/530-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/panama/530-180.jpg",
+    "picture_copyright": "Dr G Wagner AV"
+  },
+  "mints": [
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

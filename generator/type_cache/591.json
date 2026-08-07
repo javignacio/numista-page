@@ -1,0 +1,126 @@
+{
+  "id": 591,
+  "url": "https://en.numista.com/591",
+  "title": "10 Pesos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "mexique",
+    "name": "Mexico"
+  },
+  "min_year": 1997,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 4029,
+      "name": "United Mexican States/Mexican Republic",
+      "wikidata_id": "Q96"
+    }
+  ],
+  "value": {
+    "text": "10 Pesos",
+    "numeric_value": 10,
+    "currency": {
+      "id": 271,
+      "name": "New Peso",
+      "full_name": "New Peso (1992-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 28,
+  "thickness": 2.3,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: nickel silver centre in aluminium bronze ring (Core: 65% Copper, 10% Nickel, 25% Zinc - Ring: 92% Copper, 6% Aluminium, 2% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The national arms of Mexico (an eagle on cactus facing left with a snake in beak above wreath) with the inscription forming a semicircle above.",
+    "lettering": "ESTADOS UNIDOS MEXICANOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "United Mexican States",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/62f7e963c034e7.87975823-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/62f7e963c034e7.87975823-180.jpg",
+    "picture_copyright": "Numismatica Quetzalcoatl (Gabriel Herrera)",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "In the center there is the circle of the Aztec sun stone representing Tonatiuh with the fire mask. In the peripheral ring at top center the value; to the left the mint year, and to the right the mark of the Mint of Mexico \"Mo\"; at the bottom, the face value in words. On most coins the inverted \"L' shape ornament along the rim. See comments for details.",
+    "lettering": "$10\r\n2019 Mo\r\nDIEZ PESOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Ten Pesos",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/62f7e9642bdcd8.72777248-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/62f7e9642bdcd8.72777248-180.jpg",
+    "picture_copyright": "Numismatica Quetzalcoatl (Gabriel Herrera)",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "<p>A few main groups of dies are known.</p><p>&nbsp;</p><p><i>Obverse</i><br>Die <strong>1</strong> - bold font, high knot in bow of the wreath, tip of laurel leaf to the center of \"S\" in MEXICANOS.<br>Die <strong>2</strong> - fine font, high knot in bow of the wreath, tip of laurel leaf to the bottom of \"S\" in MEXICANOS.<br>Die <strong>3</strong> - fine font, squat knot in bow of the wreath, tip of laurel leaf to the center of \"S\" in MEXICANOS..<br>Die <strong>4</strong> - fine font, high knot in bow of the wreath, tip of laurel leaf to the top of \"S\" in MEXICANOS.<br><i>Note.</i> There are many more differences between dies, above are mentioned those for easy attribution.</p><p>Picture: © Images courtesy of Alexandr Prokofyev.</p><p><a href=\"https://en.numista.com/catalogue/images/6587f9997bde9.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6587f9997bde9.jpg\"></a></p><p>&nbsp;</p><p><i>Reverse&nbsp;</i><br><u>1998</u><br>Die <strong>A</strong> - date far from left denticle.<br>Die <strong>B</strong> - date close to the left denticle.</p><p>Picture: © Images courtesy of Alexandr Prokofyev.</p><p><a href=\"https://en.numista.com/catalogue/images/6587f9b7a3bff.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6587f9b7a3bff.jpg\"></a></p><p>&nbsp;</p><p><u>2007</u><br>Die <strong>A</strong> - top of denticles clockwise as on model 1997 (see photo on the image in description of the Obverse dies <strong>3</strong>+<strong>A</strong>).<br>Die <strong>B</strong> - top of denticles counterclockwise.</p><p>On the image below the die <strong>A</strong> &nbsp;is on the left and the die <strong>B</strong> is on the right. Spanish speaking collectors nicknamed the die <strong>B</strong> <i>grafila invertida</i>.<br><a href=\"https://en.numista.com/catalogue/images/5dbc3b08bcf5e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5dbc3b08bcf5e.jpg\" alt=\"\"></a></p><p>&nbsp;</p><p><i>Combinations</i><br>Die <strong>1</strong>: 1997, 1998 (<strong>1</strong>+<strong>A</strong>, <strong>1</strong>+<strong>B</strong>), 1999, 2002, 2004.<br>Die <strong>2</strong>: 2005.<br>Die <strong>3</strong>: 2006, 2007 (<strong>3</strong>+<strong>A</strong>, <strong>3</strong>+<strong>B</strong>), 2008-2010.<br>Die <strong>4</strong>: 2011-2018, 2021.<br>&nbsp;</p><p>Central part of the Sun Stone as it is shown on the coin.<br><br><a href=\"https://en.numista.com/catalogue/images/599ffa2b9c166.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/599ffa2b9c166.jpg\" alt=\"\"></a><br><br>&nbsp;</p>",
+  "related_types": [
+    {
+      "id": 590,
+      "title": "10 Nuevos Pesos",
+      "category": "coin",
+      "country": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "minYear": 1992,
+      "maxYear": 1995
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Eagle",
+    "Mythology",
+    "Coat of Arms",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "616"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "180a"
+    }
+  ],
+  "weight": 10.33,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/3670-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/3670-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 29,
+      "name": "Mexican Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

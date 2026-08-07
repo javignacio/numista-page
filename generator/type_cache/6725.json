@@ -1,0 +1,115 @@
+{
+  "id": 6725,
+  "url": "https://en.numista.com/6725",
+  "title": "50 Riels",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "cambodge",
+    "name": "Cambodia"
+  },
+  "min_year": 1994,
+  "max_year": 1994,
+  "ruler": [
+    {
+      "id": 2940,
+      "name": "Norodom Sihanouk",
+      "wikidata_id": "Q160318",
+      "group": {
+        "id": 170,
+        "name": "Kingdom of Cambodia"
+      }
+    }
+  ],
+  "value": {
+    "text": "50 Riels",
+    "numeric_value": 50,
+    "currency": {
+      "id": 162,
+      "name": "Second riel",
+      "full_name": "Second riel (1979-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1995-03-25"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 15.9,
+  "thickness": 1,
+  "shape": "Round",
+  "composition": {
+    "text": "Steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Independence Monument in Phnom Penh",
+    "lettering_scripts": [
+      {
+        "name": "Khmer"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/cambodge/6984c46f371062.99795641-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/cambodge/6984c46f371062.99795641-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "reverse": {
+    "description": "Year in Gregorian (1994) and Buddhist calendar (2538) and denomination within wreath",
+    "lettering": "៥០\r\nរៀល\r\n50\r\nគ.ស.១៩៩៤ ព.ស.២៥៣៨",
+    "lettering_scripts": [
+      {
+        "name": "Khmer"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "50\r\nRiels\r\n50\r\n1994 AD 2538 BE",
+    "picture": "https://en.numista.com/catalogue/photos/cambodge/6984c4706b0523.31205376-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/cambodge/6984c4706b0523.31205376-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "comments": "Independence Monument It is in the form of a lotus-shaped stupa<br /><br />\r\n<span style=\"font-weight:bold;\">Norodom Sihanouk</span> (Life:1922-2012) was <span style=\"text-decoration:underline;\">King of Cambodia</span> (1st Reign:1941-1955)<span style=\"font-weight:bold;\"> (2nd reign: 1993-2004).</span>",
+  "tags": [
+    "Sculpture",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "92"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "55"
+    }
+  ],
+  "weight": 1.6,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/cambodge/699b258ed39a68.19204687-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/cambodge/699b258ed39a68.19204687-180.jpg",
+    "picture_copyright": "Jabin2001"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,162 @@
+{
+  "id": 752,
+  "url": "https://en.numista.com/752",
+  "title": "50 Centimes (Dutch text)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "belgique",
+    "name": "Belgium"
+  },
+  "min_year": 1952,
+  "max_year": 2001,
+  "ruler": [
+    {
+      "id": 1169,
+      "name": "Baudouin I",
+      "wikidata_id": "Q12976",
+      "group": {
+        "id": 530,
+        "name": "House of Belgium"
+      }
+    },
+    {
+      "id": 1170,
+      "name": "Albert II",
+      "wikidata_id": "Q3911",
+      "group": {
+        "id": 530,
+        "name": "House of Belgium"
+      }
+    }
+  ],
+  "value": {
+    "text": "50 Centimes",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 72,
+      "name": "Franc",
+      "full_name": "Franc (1832-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2002-02-28"
+  },
+  "size": 19,
+  "thickness": 1.21,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze (95% Copper, 3% Tin, 2% Zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Marcel Rau"
+    ],
+    "description": "A miner, adapted from the a work of Constantin Meunier, facing left. Mining lamp on the right with designer underneath.",
+    "lettering": "RAU",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/belgique/3197-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/belgique/3197-180.jpg",
+    "picture_copyright": "moi4992",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Marcel Rau"
+    ],
+    "description": "Crowned face value dividing date. Legend above in Dutch.",
+    "lettering": "BELGIE\r\n1991 50\r\nCENTIMES",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Belgium",
+    "picture": "https://en.numista.com/catalogue/photos/belgique/3198-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/belgique/3198-180.jpg",
+    "picture_copyright": "moi4992",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p>KM#145 and KM#149 are very similar, with varieties of the size of the head (obverse) and letters (reverse):<br>- KM#145 (Type A): larger head, smaller crown, and letters; legend far from the rim<br>- KM#149.1 Type B: smaller head, large letters, broad rim, larger crown<br>- KM#149.1 Type C: larger head, large letters, broad rim<br>- KM#149.2: medal alignment</p><p>&nbsp;</p><p>1977 normal / large larynx</p><p><a href=\"https://en.numista.com/catalogue/images/6875099b738de.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6875099b738de.jpg\"></a><br><br>Schön# 97 includes both KM# 145 and KM# 149.</p>",
+  "related_types": [
+    {
+      "id": 1239,
+      "title": "50 Centimes (French text)",
+      "category": "coin",
+      "country": {
+        "code": "belgique",
+        "name": "Belgium"
+      },
+      "minYear": 1952,
+      "maxYear": 2001
+    }
+  ],
+  "tags": [
+    "Hat",
+    "Crown"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "145"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "149"
+    },
+    {
+      "catalogue": {
+        "id": 192,
+        "code": "LA"
+      },
+      "number": "BFM-79"
+    },
+    {
+      "catalogue": {
+        "id": 192,
+        "code": "LA"
+      },
+      "number": "BFM-81, 83"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "97"
+    }
+  ],
+  "weight": 2.75,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/belgique/6990c5da9149a3.72883998-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/belgique/6990c5da9149a3.72883998-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 1338,
+      "name": "Royal Mint of Belgium"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

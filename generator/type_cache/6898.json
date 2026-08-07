@@ -1,0 +1,129 @@
+{
+  "id": 6898,
+  "url": "https://en.numista.com/6898",
+  "title": "1 Crown - Elizabeth II (Churchill)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1965,
+  "max_year": 1965,
+  "ruler": [
+    {
+      "id": 275,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 527,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Crown",
+    "numeric_value": 0.25,
+    "numerator": 1,
+    "denominator": 4,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1970)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 38.61,
+  "thickness": 3,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Mary Gillick"
+    ],
+    "description": "Young laureate bust of Queen Elizabeth II right, legend around, date below.",
+    "lettering": "ELIZABETH II DEI GRATIA REGINA F·D· 1965",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Elizabeth II Dei Gratia Regina Fidei Defensatrix",
+    "lettering_translation": "Elizabeth II, by the Grace of God, Queen, Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/4973-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/4973-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "reverse": {
+    "engravers": [
+      "Oscar Nemon"
+    ],
+    "description": "A sombre-looking portrait of Sir Winston Churchill, in a siren suit facing right.",
+    "lettering": "CHURCHILL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/4974-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/4974-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "commemorated_topic": "Death of Sir Winston Churchill, 1965",
+  "comments": "<p>The Royal Mint described the Churchill Crown as “one of the most difficult ever produced.” Each cupro-nickel crown had to be struck by two extremely heavy presses, one of 250 tons and the other 360 tons. The Royal Mint had to remove some details such as Nemon’s small initials to the left of the head. The relief was flatter than the sculptor had intended and Nemon was not at all happy with the result. The initials remain on the VIP Specimen, no mintage figures are known.<br><a href=\"https://en.numista.com/catalogue/images/624852575eb88.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/624852575eb88.jpg\" alt=\"\"></a><br>© The Royal Mint Museum<br><br>The standard weight of these coins was 10/11 troy ounce (436.4 grains). Under the Coinage Act of 1946, the composition changed from .500 silver to .750 copper/.250 nickel, but the weight remained unchanged.<br><br>Following is an excerpt from the <i>Ninety—Sixth Annual Report of the Deputy Master and Comptroller of The Royal Mint, dated 20th July 1966:</i><br><br>'Distribution to the public began on 11th October 1965. Priority, after consultation with the banks, was given to overseas orders and notably to the North American Continent. By the end of November about 3 million Crowns had been sent abroad, and supplies for the United Kingdom became more plentiful thereafter.</p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/68079abf3be89.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/68079abf3be89.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/68079abf8b1df.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/68079abf8b1df.jpg\"></a></p><p><br>The coin is a coin of the Realm. Crowns are heavy pieces of metal, and for this reason they are not usually at all well received as money. Indeed, the total struck by the end of March 1966 was about three times the previous highest crown issue. Nevertheless, it would be pleasant if the circulation of the Churchill Crown as a coin of the Realm could persist for a time. I know people who use it freely and I might quote brieﬂy from the Daily Telegraph: ‘The massive jingle of a couple of these coins in my pocket has a far more heartening effect than any tatty old ten—bob note ... is it not a better memorial to Churchill to have his coin readily moving throughout the honest business of a free kingdom?’<br><br>The coin was issued alongside a £5 coin in a 2-coin set in 2015 to commemorate the 50th anniversary of Churchill's death. The coins for the 2015 set were taken from the secondary market and had sales of 4,987.<br><a href=\"https://en.numista.com/catalogue/images/5f0f80196d918.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5f0f80196d918.jpg\" alt=\"\"></a></p>",
+  "related_types": [
+    {
+      "id": 68027,
+      "title": "5 Pounds - Elizabeth II (4th portrait; Winston Churchill)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2015,
+      "maxYear": 2015
+    }
+  ],
+  "tags": [
+    "Death anniversary",
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "910"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "4144"
+    }
+  ],
+  "weight": 28.28,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

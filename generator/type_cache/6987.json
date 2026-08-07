@@ -1,0 +1,144 @@
+{
+  "id": 6987,
+  "url": "https://en.numista.com/6987",
+  "title": "5 Patacas",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "macao",
+    "name": "Macau"
+  },
+  "min_year": 1992,
+  "max_year": 2010,
+  "ruler": [
+    {
+      "id": 4157,
+      "name": "Special Territory",
+      "wikidata_id": "Q3916279",
+      "group": {
+        "id": 290,
+        "name": "Portuguese Administration"
+      }
+    },
+    {
+      "id": 4158,
+      "name": "Special Administrative Region",
+      "wikidata_id": "Q14773",
+      "group": {
+        "id": 291,
+        "name": "Chinese Administration"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Patacas",
+    "numeric_value": 5,
+    "currency": {
+      "id": 141,
+      "name": "Pataca",
+      "full_name": "Pataca (1894-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 27.5,
+  "thickness": 2,
+  "shape": "Dodecagonal (12-sided)",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Top: Bat (Flying Mammal).\r\n\r\nMiddle: Stylized design of Chinese Characters (meaning Macau).\r\nAbove: 澳\r\nCentre: MACAU (in Portuguese).\r\nBelow 門 \r\n\r\nBottom: Date.",
+    "lettering": "澳\r\nMACAU\r\n門\r\n1992",
+    "lettering_scripts": [
+      {
+        "name": "Chinese (traditional, regular script)"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Macau\r\nMacau\r\nMacau\r\n1992",
+    "picture": "https://en.numista.com/catalogue/photos/macao/634-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/macao/634-180.jpg",
+    "picture_copyright": "Ma collection de monnaies",
+    "picture_copyright_url": "https://monnaiesetvarietes.numista.com/"
+  },
+  "reverse": {
+    "description": "Chinese junk, ruins of St. Paul's Cathedral in the background, value below in a semicircle",
+    "lettering": "伍\r\n圓\r\n5 PATACAS",
+    "lettering_scripts": [
+      {
+        "name": "Chinese (traditional, regular script)"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Five\r\nPatacas\r\n5 Patacas",
+    "picture": "https://en.numista.com/catalogue/photos/macao/635-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/macao/635-180.jpg",
+    "picture_copyright": "Ma collection de monnaies",
+    "picture_copyright_url": "https://monnaiesetvarietes.numista.com/"
+  },
+  "comments": "The significance of the bat (Flying Mammal) in Chinese Customs is that bats are harbingers of 5 blessings (life, wealth, health, love of virtue &amp; death after achieving one&#039;s destiny)<br /><br />\r\nThe Stylish design (rounded version) of the Chinese Characters 澳門 on the obverse is designed in such a way that it symbolizes &#039;Shou&#039; or &#039;longevity&#039;.",
+  "related_types": [
+    {
+      "id": 11688,
+      "title": "200 Escudos (Macau)",
+      "category": "coin",
+      "country": {
+        "code": "portugal",
+        "name": "Portugal"
+      },
+      "minYear": 1996,
+      "maxYear": 1996
+    }
+  ],
+  "tags": [
+    "Religious building",
+    "Boat or watercraft"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 108,
+        "code": "Gomes"
+      },
+      "number": "R25.01"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "59"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "56"
+    }
+  ],
+  "weight": 10.1,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

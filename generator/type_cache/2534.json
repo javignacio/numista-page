@@ -1,0 +1,144 @@
+{
+  "id": 2534,
+  "url": "https://en.numista.com/2534",
+  "title": "20 Bolívares (non-magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "venezuela",
+    "name": "Venezuela"
+  },
+  "min_year": 2001,
+  "max_year": 2004,
+  "ruler": [
+    {
+      "id": 4707,
+      "name": "Bolivarian Republic",
+      "wikidata_id": "Q717"
+    }
+  ],
+  "value": {
+    "text": "20 Bolivars",
+    "numeric_value": 20,
+    "currency": {
+      "id": 7,
+      "name": "Bolivar",
+      "full_name": "Bolivar (1879-2007)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2011-12-31"
+  },
+  "size": 20,
+  "thickness": 2.1,
+  "shape": "Round",
+  "composition": {
+    "text": "Zinc-aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The small arms of Venezuela with value sharing the centre with legend around and date at the bottom",
+    "lettering": "• REPÚBLICA BOLIVARIANA DE VENEZUELA •\r\n20\r\nBOLÍVARES\r\n2004",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Bolivarian Republic of Venezuela",
+    "picture": "https://en.numista.com/catalogue/photos/venezuela/809-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/venezuela/809-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "description": "Bust left flanked with legend and engraver's name at the base inside a heptagon",
+    "lettering": "BOLÍVAR LIBERTADOR\r\nBARRE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Bolivar Liberator",
+    "picture": "https://en.numista.com/catalogue/photos/venezuela/810-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/venezuela/810-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "comments": "Y#81a.1 - Value with wavy based “2”<br />\r\nY#81a.2 - Value with flat-based “2”",
+  "related_types": [
+    {
+      "id": 2564,
+      "title": "20 Bolívares",
+      "category": "coin",
+      "country": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "minYear": 1998,
+      "maxYear": 1999
+    },
+    {
+      "id": 9508,
+      "title": "20 Bolívares (magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "minYear": 2000,
+      "maxYear": 2002
+    }
+  ],
+  "tags": [
+    "Horse or equine",
+    "Military leader",
+    "Politician",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "81a.1"
+    },
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "81a.2"
+    },
+    {
+      "catalogue": {
+        "id": 2068,
+        "code": "NCV"
+      },
+      "number": "mv20bs-cb"
+    },
+    {
+      "catalogue": {
+        "id": 2068,
+        "code": "NCV"
+      },
+      "number": "mv20bs-cc"
+    }
+  ],
+  "weight": 3.265,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 4182,
+      "name": "Casa de la Moneda de Venezuela"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

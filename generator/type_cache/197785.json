@@ -1,0 +1,107 @@
+{
+  "id": 197785,
+  "url": "https://en.numista.com/197785",
+  "title": "25 Centavos (Mule Coin)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bresil",
+    "name": "Brazil"
+  },
+  "min_year": 1994,
+  "max_year": 1995,
+  "ruler": [
+    {
+      "id": 2684,
+      "name": "Federative Republic of Brazil",
+      "wikidata_id": "Q155"
+    }
+  ],
+  "value": {
+    "text": "25 Centavos",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 158,
+      "name": "Real",
+      "full_name": "Real (1994-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23.5,
+  "thickness": 1.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Effigy of República whith the word Brasil (reverse of 50 Cent coin)",
+    "lettering": "Brasil",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Brazil",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/5e76361a7ae0e8.81121253-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/5e76361a7ae0e8.81121253-180.jpg",
+    "picture_copyright": "I printed It from this website en.numista"
+  },
+  "reverse": {
+    "description": "Outlined denomination, linear design",
+    "lettering": "25 CENTAVOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "25 Cents",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/5e76361a718a59.75885278-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/5e76361a718a59.75885278-180.jpg",
+    "picture_copyright": "I printed It from this website. en.numista"
+  },
+  "comments": "This is 25 centavos mule. This coin has the 50 centavos obverse. It has NO DATE because in a normal 25c coin date is engraved in the frontside, while on the 50c is engraved on the backside. The 50c obverse has NO DATE but this coin series was minted in 1994 and 1995.<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/6085b9a620c45.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6085b9a620c45.jpg\" alt=\"\" width=\"200\" height=\"199\" /></a><a href=\"https://en.numista.com/catalogue/images/6085b9b4e22bf.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6085b9b4e22bf.jpg\" alt=\"\" width=\"200\" height=\"200\" /></a><br />\r\n50 Centavos KM# 635, obverse used.<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/6085b961aa7b8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6085b961aa7b8.jpg\" alt=\"\" width=\"200\" height=\"199\" /></a><a href=\"https://en.numista.com/catalogue/images/6085b979894c4.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6085b979894c4.jpg\" alt=\"\" width=\"200\" height=\"199\" /></a><br />\r\n25 Centavos KM# 634, reverse used.",
+  "related_types": [
+    {
+      "id": 2242,
+      "title": "25 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1994,
+      "maxYear": 1995
+    },
+    {
+      "id": 2823,
+      "title": "50 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1994,
+      "maxYear": 1995
+    }
+  ],
+  "weight": 4.78,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 1335,
+      "name": "Mint of Brazil"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

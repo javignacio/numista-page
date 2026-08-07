@@ -1,0 +1,121 @@
+{
+  "id": 274,
+  "url": "https://en.numista.com/274",
+  "title": "10 Centimes - Léopold I",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "belgique",
+    "name": "Belgium"
+  },
+  "min_year": 1861,
+  "max_year": 1864,
+  "ruler": [
+    {
+      "id": 1165,
+      "name": "Leopold I",
+      "wikidata_id": "Q12971",
+      "group": {
+        "id": 529,
+        "name": "House of Saxe-Coburg and Gotha"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Centimes",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 72,
+      "name": "Franc",
+      "full_name": "Franc (1832-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 21,
+  "thickness": 1.65,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Joseph-Pierre Braemt"
+    ],
+    "description": "A rampant lion left within a circle and a legend in French around the rim above and the date below between stars",
+    "lettering": "L'UNION FAIT LA FORCE\r\nBRAEMT\r\n★ 1864 ★",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Unity Makes Strength",
+    "picture": "https://en.numista.com/catalogue/photos/belgique/62425b5f46c5f9.02596295-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/belgique/62425b5f46c5f9.02596295-180.jpg",
+    "picture_copyright": "EZE711CBA",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Joseph-Pierre Braemt"
+    ],
+    "description": "Value and star on close checkered background within the circle and lettering around the outside",
+    "lettering": "LEOPOLD PREMIER ROI DES BELGES\r\n10 \r\nCENTIMES \r\n*",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Leopold the first, King of the Belgians",
+    "picture": "https://en.numista.com/catalogue/photos/belgique/62425b62df63a5.97185982-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/belgique/62425b62df63a5.97185982-180.jpg",
+    "picture_copyright": "EZE711CBA",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p>A lot of coins with deviations in place or size of the numbers of the year exist.<br><br>The 1862 coin with a dot after 'PREMIER' and the overdate 1862/61 are not recognized by Aernout.</p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/65a2e5ece6981.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/65a2e5ece6981.jpg\"></a></p><p>Overdate 1862/61</p>",
+  "tags": [
+    "Cat or feline"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "22"
+    },
+    {
+      "catalogue": {
+        "id": 192,
+        "code": "LA"
+      },
+      "number": "BFM-32"
+    }
+  ],
+  "weight": 4.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Security edge",
+    "picture": "https://en.numista.com/catalogue/photos/belgique/621faa717cbd37.44039208-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/belgique/621faa717cbd37.44039208-180.jpg",
+    "picture_copyright": "smy77",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 1338,
+      "name": "Royal Mint of Belgium"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

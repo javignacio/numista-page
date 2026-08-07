@@ -1,0 +1,132 @@
+{
+  "id": 1802,
+  "url": "https://en.numista.com/1802",
+  "title": "50 Francs CFA",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "beac",
+    "name": "Central African States"
+  },
+  "issuing_entity": {
+    "id": 699,
+    "name": "Bank of Central African States",
+    "wikidata_id": "Q189972"
+  },
+  "min_year": 1976,
+  "max_year": 2003,
+  "value": {
+    "text": "50 Francs CFA",
+    "numeric_value": 50,
+    "currency": {
+      "id": 84,
+      "name": "CFA franc",
+      "full_name": "CFA franc (Bank of Central African States, 1973-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21.5,
+  "thickness": 1.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Robert Cochet"
+    ],
+    "designers": [
+      "Lucien Georges Bazor"
+    ],
+    "description": "Logo of Bank of Central African States (Giant Eland)",
+    "lettering": "BANQUE DES ETATS DE L'AFRIQUE CENTRALE\r\n1976\r\nCR\r\nG.B.L. BAZOR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Bank of the Central African States\r\n1976",
+    "picture": "https://en.numista.com/catalogue/photos/beac/6985aa6238b104.29296935-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/beac/6985aa6238b104.29296935-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "reverse": {
+    "engravers": [
+      "Robert Cochet"
+    ],
+    "description": "Denomination and design with agricultural products",
+    "lettering": "E\r\n50\r\nFRANCS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/beac/6985aa633b0417.21268868-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/beac/6985aa633b0417.21268868-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "comments": "The letter appearing above the denomination of this coin indicates which country it was struck for use in.<br /><br />\r\nA = Chad<br />\r\nB = Central African Republic<br />\r\nC = Republic of the Congo<br />\r\nD = Gabon<br />\r\nE = Cameroon<br /><br />\r\nDocumentation based on COBRA&#039;s findings concerning all the years and the markings on the coins:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/55f02346733a6.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/55f02346733a6.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\nOle",
+  "related_types": [
+    {
+      "id": 8192,
+      "title": "50 Francs CFA",
+      "category": "coin",
+      "country": {
+        "code": "beac",
+        "name": "Central African States"
+      },
+      "minYear": 1961,
+      "maxYear": 1963
+    },
+    {
+      "id": 120062,
+      "title": "50 Francs CFA (Essai)",
+      "category": "coin",
+      "country": {
+        "code": "beac",
+        "name": "Central African States"
+      },
+      "minYear": 1976,
+      "maxYear": 1976
+    }
+  ],
+  "tags": [
+    "Cow or bovine"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "11"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "21"
+    }
+  ],
+  "weight": 4.7,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

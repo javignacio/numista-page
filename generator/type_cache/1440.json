@@ -1,0 +1,117 @@
+{
+  "id": 1440,
+  "url": "https://en.numista.com/1440",
+  "title": "1 Krone - Haakon VII",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "norvege",
+    "name": "Norway"
+  },
+  "min_year": 1925,
+  "max_year": 1951,
+  "ruler": [
+    {
+      "id": 449,
+      "name": "Haakon VII",
+      "wikidata_id": "Q154927",
+      "group": {
+        "id": 358,
+        "name": "House of Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Krone",
+    "numeric_value": 1,
+    "currency": {
+      "id": 16,
+      "name": "Krone",
+      "full_name": "Krone (1875-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 25,
+  "thickness": 2,
+  "shape": "Round with a round hole",
+  "composition": {
+    "text": "Copper-nickel (Cu 75%, Ni 25%)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Cross consisting of four crowned Haakon VII monograms, around a hole. Surrounded by inscription. Date divided by mintmark on shield on the bottom. Beaded ring on the rim.",
+    "lettering": "HAAKON⸰DEN⸰SYVENDE⸰NORGES⸰KONGE\r\nH7 H7 H7 H7\r\n⸰19 ⚒ 49⸰",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Haakon the Seventh, King of Norway",
+    "picture": "https://en.numista.com/catalogue/photos/norvege/5ef984414062a8.29683439-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/5ef984414062a8.29683439-180.jpg",
+    "picture_copyright": "gdch6ng",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Crowned chain of the Order of Saint Olaf, around a hole. Value above the crown. Inscription below the chain. Beaded ring on the rim.",
+    "lettering": "⸰1 KRONE ⸰\r\nALT⸰FOR NORGE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Everything for Norway",
+    "picture": "https://en.numista.com/catalogue/photos/norvege/5ef98441b18066.48312937-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/5ef98441b18066.48312937-180.jpg",
+    "picture_copyright": "gdch6ng",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p><a href=\"https://en.numista.com/catalogue/images/67475c22b272a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67475c22b272a.jpg\"></a></p><p>&nbsp;</p><p>The \"9\" on the 1939 coin<br><a href=\"https://en.numista.com/catalogue/images/63f28a88ad6f7.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/63f28a88ad6f7.jpg\" alt=\"\"></a></p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/67475ddf8dce0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67475ddf8dce0.jpg\"></a></p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/67475ef193807.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67475ef193807.jpg\"></a></p>",
+  "tags": [
+    "Cross"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "385"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "39"
+    },
+    {
+      "catalogue": {
+        "id": 201,
+        "code": "Rønning"
+      },
+      "number": "265"
+    }
+  ],
+  "weight": 7,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain."
+  },
+  "mints": [
+    {
+      "id": 1888,
+      "name": "Norwegian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

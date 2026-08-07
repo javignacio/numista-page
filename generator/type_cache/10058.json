@@ -1,0 +1,134 @@
+{
+  "id": 10058,
+  "url": "https://en.numista.com/10058",
+  "title": "25 Francs Togo",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "aof",
+    "name": "French West Africa"
+  },
+  "issuing_entity": {
+    "id": 6431,
+    "name": "Issuing Institute of French West Africa and Togo"
+  },
+  "min_year": 1957,
+  "max_year": 1957,
+  "ruler": [
+    {
+      "id": 666,
+      "name": "French Union",
+      "wikidata_id": "Q848478"
+    }
+  ],
+  "value": {
+    "text": "25 Francs",
+    "numeric_value": 25,
+    "currency": {
+      "id": 279,
+      "name": "CFA franc",
+      "full_name": "CFA franc (1944-1958)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 27,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze (91% Copper, 9% Aluminium)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Lucien Georges Bazor"
+    ],
+    "description": "“Taku” a sawfish, a symbol of prosperity, the logo of the BCEAO, dividing the value.",
+    "lettering": "INSTITUT D'EMISSION\r\nAFRIQUE OCCIDENTALE FRANCAISE.TOGO\r\n25 FRANCS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Issuing Institute\nFrench West Africa - Togo",
+    "picture": "https://en.numista.com/catalogue/photos/aof/606777c4cf3210.92488396-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/aof/606777c4cf3210.92488396-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "reverse": {
+    "engravers": [
+      "Lucien Georges Bazor"
+    ],
+    "description": "Head of a Slender-Horned Gazelle or Rhim gazelle (Gazella leptoceros), maize or corn plants, and the date below",
+    "lettering": "G.B.L.BAZOR\r\n1957",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/aof/606777c531a1c8.30177806-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/aof/606777c531a1c8.30177806-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "related_types": [
+    {
+      "id": 10057,
+      "title": "10 Francs Togo",
+      "category": "coin",
+      "country": {
+        "code": "aof",
+        "name": "French West Africa"
+      },
+      "minYear": 1957,
+      "maxYear": 1957
+    },
+    {
+      "id": 576272,
+      "title": "25 Francs (Togo; Essai)",
+      "category": "coin",
+      "country": {
+        "code": "aof",
+        "name": "French West Africa"
+      },
+      "minYear": 1957,
+      "maxYear": 1957
+    }
+  ],
+  "tags": [
+    "Cow or bovine"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "9"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "9"
+    }
+  ],
+  "weight": 7.86,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

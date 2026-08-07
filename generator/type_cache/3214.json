@@ -1,0 +1,109 @@
+{
+  "id": 3214,
+  "url": "https://en.numista.com/3214",
+  "title": "10 Cents - Elizabeth II (4th portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bermudes",
+    "name": "Bermuda"
+  },
+  "min_year": 1999,
+  "max_year": 2021,
+  "ruler": [
+    {
+      "id": 950,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 796,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Cents",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 41,
+      "name": "Dollar",
+      "full_name": "Dollar (1970-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 17.8,
+  "thickness": 1.34,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Ian Rank-Broadley"
+    ],
+    "description": "Head of Queen Elizabeth II wearing a tiara facing right.",
+    "lettering": "ELIZABETH II BERMUDA\r\nIRB",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bermudes/695a4cd5ae2c33.28563582-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bermudes/695a4cd5ae2c33.28563582-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "reverse": {
+    "engravers": [
+      "Michael Rizzello"
+    ],
+    "description": "Bermuda lily, date above, denomination below.",
+    "lettering": "2000\r\nTEN CENTS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bermudes/695a4cd7916869.61085276-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bermudes/695a4cd7916869.61085276-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "tags": [
+    "Flower"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "109"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "126"
+    }
+  ],
+  "weight": 2.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

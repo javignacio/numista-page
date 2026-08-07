@@ -1,0 +1,136 @@
+{
+  "id": 5349,
+  "url": "https://en.numista.com/5349",
+  "title": "10 Cents",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "aruba",
+    "name": "Aruba"
+  },
+  "min_year": 1986,
+  "max_year": 2024,
+  "ruler": [
+    {
+      "id": 3297,
+      "name": "Beatrix",
+      "wikidata_id": "Q29574",
+      "group": {
+        "id": 752,
+        "name": "House of Orange-Nassau"
+      }
+    },
+    {
+      "id": 3298,
+      "name": "Willem-Alexander",
+      "wikidata_id": "Q154952",
+      "group": {
+        "id": 752,
+        "name": "House of Orange-Nassau"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Cents",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 69,
+      "name": "Florin",
+      "full_name": "Florin (1986-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 18,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Evelino Fingal"
+    ],
+    "description": "State name, coat of arms, privy mark and mint mark, and year of issue.",
+    "lettering": "ARUBA \r\n2006",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/aruba/52-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/aruba/52-180.jpg",
+    "picture_copyright": "gef"
+  },
+  "reverse": {
+    "engravers": [
+      "Evelino Fingal"
+    ],
+    "description": "Triangular geometric designs and face value.",
+    "lettering": "10 c",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "10 cents",
+    "picture": "https://en.numista.com/catalogue/photos/aruba/53-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/aruba/53-180.jpg",
+    "picture_copyright": "gef"
+  },
+  "comments": "1997 with both rims:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/64510ea9820ea.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64510ea9820ea.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5cf76809ae20a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5cf76809ae20a.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nThe star before a Mint Master Mark indicates that the piece was struck at the beginning of the term of office of a successor.",
+  "related_types": [
+    {
+      "id": 902,
+      "title": "25 Cents",
+      "category": "coin",
+      "country": {
+        "code": "aruba",
+        "name": "Aruba"
+      },
+      "minYear": 1986,
+      "maxYear": 2025
+    }
+  ],
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "2"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "2"
+    }
+  ],
+  "weight": 3,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded (1997 plain and reeded (sets only))",
+    "picture": "https://en.numista.com/catalogue/photos/aruba/65e68f5ec5d9e6.79591478-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/aruba/65e68f5ec5d9e6.79591478-180.jpg",
+    "picture_copyright": "DMK Collection (E.g. edge's coin 2014)"
+  },
+  "mints": [
+    {
+      "id": 23,
+      "name": "Royal Dutch Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

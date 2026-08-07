@@ -1,0 +1,171 @@
+{
+  "id": 3056,
+  "url": "https://en.numista.com/3056",
+  "title": "2 Pesos Uruguayos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "uruguay",
+    "name": "Uruguay"
+  },
+  "issuing_entity": {
+    "id": 30,
+    "name": "Central Bank of Uruguay",
+    "wikidata_id": "Q4504285"
+  },
+  "min_year": 1994,
+  "max_year": 2007,
+  "ruler": [
+    {
+      "id": 3897,
+      "name": "Oriental Republic of Uruguay",
+      "wikidata_id": "Q77"
+    }
+  ],
+  "value": {
+    "text": "2 Pesos Uruguayos",
+    "numeric_value": 2,
+    "currency": {
+      "id": 153,
+      "name": "Peso uruguayo",
+      "full_name": "Peso uruguayo (1993-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-aluminium-nickel (92% Copper, 6% Aluminium, 2% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Jorge Nicastro"
+    ],
+    "description": "Portrait of Jose Gervasio Artigas (national hero) facing right; surrounded by country name.",
+    "lettering": "REPUBLICA ORIENTAL DEL URUGUAY ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Oriental Republic of Uruguay",
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/1031-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/1031-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Jorge Nicastro"
+    ],
+    "description": "Value in both numerals and lettering. Date below exergue line.",
+    "lettering": "$2\r\nDOS PESOS \r\nURUGUAYOS\r\n1994",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "$2\r\nTwo Pesos\r\nUruguayos\r\n1994",
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/1032-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/1032-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/5da9d58e24b9d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5da9d58e24b9d.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nNOTE 1: On Obverse, the lower left point of the bust points to the U (KM# 104.1) or the P (KM# 104.2) of the word REPUBLICA<br />\r\n<a href=\"https://en.numista.com/catalogue/images/60e10136a3b36.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/60e10136a3b36.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\nKM# 104.1 on right, KM# 104.2 on left<br />\r\n© adanieluy<br /><br />\r\nNOTE 2: On 2007, mintage was made at Paris where they copied the design from 1998 issue; by mistake, they assumed the Santiago Mintmark was part of the design and didn&#039;t remove it.<br /><br />\r\n<span style=\"font-weight:bold;\">Variants:</span><br />\r\nSeveral variants in this coin.<br />\r\n<span style=\"font-weight:bold;\">1994:</span><br />\r\nRotation:<br />\r\nSA# 138.1.1, CG# 153.1.A, coin rotation,<br />\r\nSA# 138.1.2, CG# 153.1.B, medal rotation (normal issue),<br />\r\nSA# 138.1.3, CG# 153.1.C, 90º or 270º rotation,<br />\r\nSA# 138.1.4, CG# 153.1.D, other rotation.<br /><br />\r\nObverse:<br />\r\nDesign: length of hair on back, touching or not collar, lower right point of the bust points to center of &quot;U&quot;, or to its side, on last &quot;U&quot; of &quot;URUGUAY&quot;;<br />\r\ntypography: on &quot;DEL&quot; different shape of &quot;D&quot;, round and square; different length of lower part of &quot;L&quot;;<br />\r\nReverse:<br />\r\nFinishing: smooth background with thin letters, high relief, or rough background with bold letter, low relief.<br /><br />\r\n<span style=\"font-weight:bold;\">1998:</span><br />\r\nRotation:<br />\r\nSA# 142.1.2, CG# 162.1.B, medal rotation (normal issue),<br />\r\nSA# 142.1.3, CG# 162.1.C, 90º or 270º rotation,<br />\r\nSA# 142.1.4, CG# 162.1.D, other rotation.<br /><br />\r\n<span style=\"font-weight:bold;\">2007:</span><br />\r\nNo variations.",
+  "tags": [
+    "Military leader",
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "104"
+    },
+    {
+      "catalogue": {
+        "id": 709,
+        "code": "SA"
+      },
+      "number": "138"
+    },
+    {
+      "catalogue": {
+        "id": 709,
+        "code": "SA"
+      },
+      "number": "141"
+    },
+    {
+      "catalogue": {
+        "id": 709,
+        "code": "SA"
+      },
+      "number": "150"
+    },
+    {
+      "catalogue": {
+        "id": 2069,
+        "code": "CG"
+      },
+      "number": "153"
+    },
+    {
+      "catalogue": {
+        "id": 2069,
+        "code": "CG"
+      },
+      "number": "162"
+    },
+    {
+      "catalogue": {
+        "id": 2069,
+        "code": "CG"
+      },
+      "number": "180"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "92"
+    }
+  ],
+  "weight": 4.5,
+  "orientation": "variable",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/6518ce1018c330.70073746-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/6518ce1018c330.70073746-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 1336,
+      "name": "Buenos Aires"
+    },
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    },
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

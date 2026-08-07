@@ -1,0 +1,161 @@
+{
+  "id": 2004,
+  "url": "https://en.numista.com/2004",
+  "title": "1 Dinar",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "yougoslavie",
+    "name": "Yugoslavia"
+  },
+  "issuing_entity": {
+    "id": 690,
+    "name": "National Bank of Yugoslavia",
+    "wikidata_id": "Q1194664"
+  },
+  "min_year": 1965,
+  "max_year": 1965,
+  "ruler": [
+    {
+      "id": 2378,
+      "name": "Socialist Federal Republic",
+      "wikidata_id": "Q83286"
+    }
+  ],
+  "value": {
+    "text": "1 Dinar",
+    "numeric_value": 1,
+    "currency": {
+      "id": 33,
+      "name": "Hard dinar",
+      "full_name": "Hard dinar (1966-1989)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1965-12-31"
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1985-12-31"
+  },
+  "size": 21.8,
+  "thickness": 1.3,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75 % Cu, 25 % Ni)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Dragomir Mileusnić"
+    ],
+    "description": "State emblem of Yugoslavia",
+    "lettering": "СОЦИJАЛИСТИЧКА ФЕДЕРАТИВНА РЕПУБЛИКА JУГОСЛАВИJА\r\n29·XI·1943",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "Socialist Federative Republic of Yugoslavia\r\n29 · November · 1943",
+    "picture": "https://en.numista.com/catalogue/photos/yougoslavie/63ac381c163923.25887845-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/yougoslavie/63ac381c163923.25887845-180.jpg",
+    "picture_copyright": "mikimaus",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "Dragomir Mileusnić"
+    ],
+    "description": "The denomination above the date within wreath (Olive & Oak Sprigs ribbon tied at the bottom) and six stars above",
+    "lettering": "1 DINAR \r\n1965",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/yougoslavie/63ac381c5f4439.36954296-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/yougoslavie/63ac381c5f4439.36954296-180.jpg",
+    "picture_copyright": "mikimaus",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "related_types": [
+    {
+      "id": 2005,
+      "title": "1 Dinar",
+      "category": "coin",
+      "country": {
+        "code": "yougoslavie",
+        "name": "Yugoslavia"
+      },
+      "minYear": 1968,
+      "maxYear": 1968
+    },
+    {
+      "id": 2000,
+      "title": "1 Dinar",
+      "category": "coin",
+      "country": {
+        "code": "yougoslavie",
+        "name": "Yugoslavia"
+      },
+      "minYear": 1973,
+      "maxYear": 1981
+    }
+  ],
+  "tags": [
+    "Coat of Arms",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "47"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "38"
+    },
+    {
+      "catalogue": {
+        "id": 355,
+        "code": "Viscevic"
+      },
+      "number": "45"
+    },
+    {
+      "catalogue": {
+        "id": 3099,
+        "code": "Mandic"
+      },
+      "number": "42"
+    }
+  ],
+  "weight": 3.83,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/yougoslavie/61716085dbc306.44141911-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/yougoslavie/61716085dbc306.44141911-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 1365,
+      "name": "Belgrade"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

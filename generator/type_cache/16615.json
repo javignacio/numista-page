@@ -1,0 +1,128 @@
+{
+  "id": 16615,
+  "url": "https://en.numista.com/16615",
+  "title": "2 Kronor - Gustaf VI Adolf",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "suede",
+    "name": "Sweden"
+  },
+  "min_year": 1968,
+  "max_year": 1971,
+  "ruler": [
+    {
+      "id": 2365,
+      "name": "Gustaf VI Adolf",
+      "wikidata_id": "Q52878",
+      "group": {
+        "id": 99,
+        "name": "House of Bernadotte"
+      }
+    }
+  ],
+  "value": {
+    "text": "2 Kronor",
+    "numeric_value": 2,
+    "currency": {
+      "id": 18,
+      "name": "Krona",
+      "full_name": "Krona (1873-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2017-06-30"
+  },
+  "size": 31,
+  "thickness": 2.17,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Edvin Öhrström"
+    ],
+    "description": "Stylized portrait of King facing left. Below the mintmasters initials.",
+    "lettering": "GUSTAF VI ADOLF SVERIGES KONUNG\r\nö\r\nU",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Gustaf VI Adolf, King of Sweden.",
+    "picture": "https://en.numista.com/catalogue/photos/suede/64d03229f20f00.75653261-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suede/64d03229f20f00.75653261-180.jpg",
+    "picture_copyright": "Elvi75"
+  },
+  "reverse": {
+    "description": "Crowned coat of arms divides date (above crown's point) and value. Surrounded by inscription.",
+    "lettering": "19 69\r\n2 KR\r\nPLIKTEN · FRAMFÖR · ALLT",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Duty above all.",
+    "picture": "https://en.numista.com/catalogue/photos/suede/64d0322b375a18.41128989-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suede/64d0322b375a18.41128989-180.jpg",
+    "picture_copyright": "Elvi75"
+  },
+  "related_types": [
+    {
+      "id": 1516,
+      "title": "1 Krona - Gustaf VI Adolf",
+      "category": "coin",
+      "country": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "minYear": 1968,
+      "maxYear": 1973
+    },
+    {
+      "id": 6193,
+      "title": "2 Kronor - Gustaf VI Adolf",
+      "category": "coin",
+      "country": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "minYear": 1952,
+      "maxYear": 1966
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "827a"
+    }
+  ],
+  "weight": 13.3,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/suede/6301a0c78aba13.92443641-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suede/6301a0c78aba13.92443641-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 5989,
+      "name": "Kungliga Myntet"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,175 @@
+{
+  "id": 4828,
+  "url": "https://en.numista.com/4828",
+  "title": "50 Dirhams",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "qatar",
+    "name": "Qatar"
+  },
+  "min_year": 1973,
+  "max_year": 1998,
+  "ruler": [
+    {
+      "id": 1506,
+      "name": "Khalifa bin Hamad Al Thani",
+      "wikidata_id": "Q2072385"
+    },
+    {
+      "id": 1507,
+      "name": "Hamad bin Khalifa Al Thani",
+      "wikidata_id": "Q57360"
+    }
+  ],
+  "value": {
+    "text": "50 Dirhams",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 161,
+      "name": "Riyal",
+      "full_name": "Riyal (1973-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25,
+  "thickness": 1.78,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (74.50% copper, 25.25% nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Norman Sillman"
+    ],
+    "description": "Dates on top. Old emblem of Qatar consisting of a sailing ship (dhow) sailing on waves beside an island with two palm trees.",
+    "lettering": "١٤١٠ · ١٩٩٠\r\nدولَة قطَر",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "1990 · 1410\r\nState of Qatar",
+    "picture": "https://en.numista.com/catalogue/photos/qatar/228-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/qatar/228-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "reverse": {
+    "engravers": [
+      "Norman Sillman"
+    ],
+    "description": "Denomination.",
+    "lettering": "٥٠\r\nدرهماً\r\nSTATE OF QATAR",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "50 Dirhams\r\nState of Qatar",
+    "picture": "https://en.numista.com/catalogue/photos/qatar/229-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/qatar/229-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "comments": "1407 (1987) Specimen (Ex King&#039;s Norton Mint Collection):<br />\r\n<a href=\"https://en.numista.com/catalogue/images/59459a7832a40.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/59459a7832a40.jpg\" alt=\"\" width=\"192\" height=\"250\" /></a> <a href=\"https://en.numista.com/catalogue/images/59459a81b10c0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/59459a81b10c0.jpg\" alt=\"\" width=\"192\" height=\"250\" /></a><br />\r\n© Image courtesy of Heritage Auctions",
+  "related_types": [
+    {
+      "id": 15456,
+      "title": "50 Dirhams - Hamad",
+      "category": "coin",
+      "country": {
+        "code": "qatar",
+        "name": "Qatar"
+      },
+      "minYear": 2000,
+      "maxYear": 2003
+    },
+    {
+      "id": 9641,
+      "title": "50 Dirhams (non-magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "qatar",
+        "name": "Qatar"
+      },
+      "minYear": 2006,
+      "maxYear": 2006
+    },
+    {
+      "id": 45198,
+      "title": "50 Dirhams (Magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "qatar",
+        "name": "Qatar"
+      },
+      "minYear": 2008,
+      "maxYear": 2012
+    },
+    {
+      "id": 86313,
+      "title": "50 Dirhams",
+      "category": "coin",
+      "country": {
+        "code": "qatar",
+        "name": "Qatar"
+      },
+      "minYear": 2016,
+      "maxYear": 2020
+    },
+    {
+      "id": 17789,
+      "title": "50 Dirhams",
+      "category": "coin",
+      "country": {
+        "code": "qatar-et-dubai",
+        "name": "Qatar and Dubai"
+      },
+      "minYear": 1966,
+      "maxYear": 1966
+    }
+  ],
+  "tags": [
+    "Boat or watercraft",
+    "Tree",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "5"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "5"
+    }
+  ],
+  "weight": 6.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

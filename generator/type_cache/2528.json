@@ -1,0 +1,130 @@
+{
+  "id": 2528,
+  "url": "https://en.numista.com/2528",
+  "title": "100 Bolívares",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "venezuela",
+    "name": "Venezuela"
+  },
+  "min_year": 2001,
+  "max_year": 2004,
+  "ruler": [
+    {
+      "id": 4707,
+      "name": "Bolivarian Republic",
+      "wikidata_id": "Q717"
+    }
+  ],
+  "value": {
+    "text": "100 Bolivars",
+    "numeric_value": 100,
+    "currency": {
+      "id": 7,
+      "name": "Bolivar",
+      "full_name": "Bolivar (1879-2007)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2011-12-31"
+  },
+  "size": 25,
+  "thickness": 2.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel clad steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Désiré-Albert Barre"
+    ],
+    "description": "Small coat of arms sharing center with value. With legend around and date at bottom.",
+    "lettering": "•REPÚBLICA BOLIVARIANA DE VENEZUELA•\r\n100 BOLÍVARES \r\n2002",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Bolivarian Republic of Venezuela",
+    "picture": "https://en.numista.com/catalogue/photos/venezuela/6-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/venezuela/6-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Désiré-Albert Barre"
+    ],
+    "description": "Bust left, flanked with legend and engraver's name at base. Inside heptagon.",
+    "lettering": "BOLÍVAR LIBERTADOR\r\nBARRE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Bolivar Liberator",
+    "picture": "https://en.numista.com/catalogue/photos/venezuela/5-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "Obverse:<br /><br />\r\n<span style=\"font-weight:bold;\">2001 </span>- Small coat of arms. Big 100 with narrow zero, pointed top of one.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5f68673fb83e6.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5f68673fb83e6.jpg\" alt=\"\" width=\"200\" height=\"198\" /></a><br /><br />\r\n<span style=\"font-weight:bold;\">2002 </span>- Big coat of arms. Little 100 with wide zero, flat top of one.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5f68674b1585a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5f68674b1585a.jpg\" alt=\"\" width=\"200\" height=\"200\" /></a><br /><br />\r\n<span style=\"font-weight:bold;\">2004</span> - Big coat of arms. Little 100 with wide zero, flat top of one.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5f6867706d5b3.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5f6867706d5b3.jpg\" alt=\"\" width=\"200\" height=\"199\" /></a><br />\r\n(Image: adanieluy)",
+  "tags": [
+    "Horse or equine",
+    "Military leader",
+    "Politician",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "83"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "95"
+    },
+    {
+      "catalogue": {
+        "id": 2068,
+        "code": "NCV"
+      },
+      "number": "mv100bs-ga"
+    },
+    {
+      "catalogue": {
+        "id": 2068,
+        "code": "NCV"
+      },
+      "number": "mv100bs-gb"
+    }
+  ],
+  "weight": 6.8,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 4182,
+      "name": "Casa de la Moneda de Venezuela"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

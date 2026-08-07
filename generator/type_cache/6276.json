@@ -1,0 +1,83 @@
+{
+  "id": 6276,
+  "url": "https://en.numista.com/6276",
+  "title": "5 Paisa - Birendra Bir Bikram",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "nepal",
+    "name": "Nepal"
+  },
+  "min_year": 1982,
+  "max_year": 1990,
+  "ruler": [
+    {
+      "id": 3964,
+      "name": "Birendra Bir Bikram Shah",
+      "wikidata_id": "Q162306",
+      "group": {
+        "id": 240,
+        "name": "Shah dynasty"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Paisa",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 173,
+      "name": "Rupee",
+      "full_name": "Rupee (1932-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 18,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Crown",
+    "lettering": "श्री ५ वीरेन्द्र वीर विक्रम शाहदेव \r\nनेपाल २०४७",
+    "picture": "https://en.numista.com/catalogue/photos/nepal/341-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nepal/341-180.jpg",
+    "picture_copyright": "Nestor"
+  },
+  "reverse": {
+    "description": "Value",
+    "lettering": "श्री भवानी \r\n५\r\nपाँच पैसा",
+    "picture": "https://en.numista.com/catalogue/photos/nepal/342-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nepal/342-180.jpg",
+    "picture_copyright": "Nestor"
+  },
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1013"
+    }
+  ],
+  "weight": 0.8,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 4344,
+      "name": "Mint Division of the Central Bank of Nepal"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

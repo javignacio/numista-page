@@ -1,0 +1,131 @@
+{
+  "id": 2555,
+  "url": "https://en.numista.com/2555",
+  "title": "50 Pesetas - Juan Carlos I (Sagrada Familia)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "espagne",
+    "name": "Spain"
+  },
+  "min_year": 1992,
+  "max_year": 1992,
+  "ruler": [
+    {
+      "id": 151,
+      "name": "Juan Carlos I",
+      "wikidata_id": "Q19943",
+      "group": {
+        "id": 44,
+        "name": "House of Bourbon"
+      }
+    }
+  ],
+  "value": {
+    "text": "50 Pesetas",
+    "numeric_value": 50,
+    "currency": {
+      "id": 142,
+      "name": "Peseta",
+      "full_name": "Peseta (1868-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2002-02-28"
+  },
+  "size": 20.5,
+  "thickness": 1.9,
+  "shape": "Spanish flower",
+  "composition": {
+    "text": "Copper-nickel (75% copper, 25% nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Luis José Díaz Salas"
+    ],
+    "description": "Bust of King Juan Carlos I to the right wearing a suit facing left.",
+    "lettering": "JUAN · CARLOS · I\r\nESPAÑA \r\n1992",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Spain",
+    "picture": "https://en.numista.com/catalogue/photos/espagne/2259-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/2259-180.jpg",
+    "picture_copyright": "Union Latine",
+    "picture_copyright_url": "https://web.archive.org/web/20190818001417/http://www.union-latine.com/"
+  },
+  "reverse": {
+    "engravers": [
+      "Luis Antonio García Ruiz"
+    ],
+    "description": "Bell towers and top of the Nativity Façade of the Sagrada Familia.",
+    "lettering": "BARCELONA '92 \r\nM\r\n50 PTAS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "50 Pesetas",
+    "picture": "https://en.numista.com/catalogue/photos/espagne/2260-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/2260-180.jpg",
+    "picture_copyright": "Union Latine",
+    "picture_copyright_url": "https://web.archive.org/web/20190818001417/http://www.union-latine.com/"
+  },
+  "series": "1992 Summer Olympics, Barcelona",
+  "commemorated_topic": "Sagrada Familia",
+  "comments": "<p>The <strong>1992 Summer Olympics</strong>, officially the Games of the XXV Olympiad and officially branded as Barcelona '92, was an international multi-sport event held from 25 July to 9 August 1992 in Barcelona, Catalonia, Spain. Beginning in 1994, the International Olympic Committee decided to hold the Summer and Winter Olympics in alternating even-numbered years. The 1992 Summer and Winter Olympics were the last games to be staged in the same year.</p>",
+  "tags": [
+    "Religious building",
+    "Tower",
+    "Summer Olympic Games"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "907"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "160"
+    },
+    {
+      "catalogue": {
+        "id": 1965,
+        "code": "Aureo"
+      },
+      "number": "113"
+    }
+  ],
+  "weight": 5.6,
+  "orientation": "coin",
+  "edge": {
+    "description": "Spanish flower",
+    "picture": "https://en.numista.com/catalogue/photos/espagne/603aa1a85fc992.86002700-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/603aa1a85fc992.86002700-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 24,
+      "name": "Royal Mint of Madrid"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

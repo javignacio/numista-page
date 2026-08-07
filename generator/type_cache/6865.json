@@ -1,0 +1,108 @@
+{
+  "id": 6865,
+  "url": "https://en.numista.com/6865",
+  "title": "50 000 Lira (FAO)",
+  "object_type": {
+    "id": 3,
+    "name": "Non-circulating coins"
+  },
+  "issuer": {
+    "code": "turquie",
+    "name": "Turkey"
+  },
+  "min_year": 1999,
+  "max_year": 1999,
+  "ruler": [
+    {
+      "id": 2047,
+      "name": "Republic",
+      "wikidata_id": "Q43"
+    }
+  ],
+  "value": {
+    "text": "50 000 Lira",
+    "numeric_value": 50000,
+    "currency": {
+      "id": 124,
+      "name": "Old lira",
+      "full_name": "Old lira (1923-2005)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2005-01-01"
+  },
+  "size": 20,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Former wine merchant",
+    "lettering": "TÜRKİYE CUMHURİYETİ\r\n50.000 \r\nLİRA \r\n1999\r\nd",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Turkey",
+    "picture": "https://en.numista.com/catalogue/photos/turquie/63bad0544d6b02.56287087-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/turquie/63bad0544d6b02.56287087-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "reverse": {
+    "description": "Bronze age depicture of the Hurrian sky god Teshub",
+    "lettering": "XXI CENTURY.FAO. FOOD SECURITY",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/turquie/63bad054ce3ff2.05350269-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/turquie/63bad054ce3ff2.05350269-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "commemorated_topic": "FAO - Food Security",
+  "tags": [
+    "FAO",
+    "Mythology"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1103"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "635"
+    }
+  ],
+  "weight": 1.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/turquie/614b8461f08846.49519243-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/turquie/614b8461f08846.49519243-180.jpg",
+    "picture_copyright": "Walter_Scott"
+  },
+  "mints": [
+    {
+      "id": 1364,
+      "name": "Turkish State Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Non-circulating coins"
+}

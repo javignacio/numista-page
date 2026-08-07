@@ -1,0 +1,123 @@
+{
+  "id": 587,
+  "url": "https://en.numista.com/587",
+  "title": "2 Pesos (non magnetic core)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "mexique",
+    "name": "Mexico"
+  },
+  "min_year": 1996,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 4029,
+      "name": "United Mexican States/Mexican Republic",
+      "wikidata_id": "Q96"
+    }
+  ],
+  "value": {
+    "text": "2 Pesos",
+    "numeric_value": 2,
+    "currency": {
+      "id": 271,
+      "name": "New Peso",
+      "full_name": "New Peso (1992-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23,
+  "thickness": 1.4,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: aluminium bronze centre in stainless steel ring"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The national emblem of Mexico (a Mexican golden eagle perched on a prickly pear cactus devouring a snake above a half-wreath of oak and laurel below and the legend “ESTADOS UNIDOS MEXICANOS” forming the upper semicircle)",
+    "lettering": "ESTADOS UNIDOS MEXICANOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "United Mexican States",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/6873fab9561ce5.04472032-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/6873fab9561ce5.04472032-180.jpg",
+    "picture_copyright": "Numismatica Quetzalcoatl (Gabriel Herrera)",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "At the center, the denomination $2 with the date above the $ and the mint mark Ṁ to the right. On the outer ring, the stylized designs from the Ring of Days (Anillo de Los Días) on the Aztec calendar stone (Piedra del Sol).",
+    "lettering": "2019\r\n$2 Mo",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/mexique/6873fab9db5260.72678169-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/6873fab9db5260.72678169-180.jpg",
+    "picture_copyright": "Numismatica Quetzalcoatl (Gabriel Herrera)",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "<p>Varieties exist:<br>&nbsp;- Reverse: inner ring features placement: closer vs. farther from the side of the ring.<br>&nbsp;- Obverse: lettering placement on the outer ring: closer vs. farther from the right-side ornaments.<br><br><a href=\"https://en.numista.com/catalogue/images/58c729db19678.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/58c729db19678.jpg\" alt=\"\"></a><br>&nbsp;</p>",
+  "related_types": [
+    {
+      "id": 557512,
+      "title": "2 Pesos (Magnetic Core)",
+      "category": "coin",
+      "country": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "minYear": 2025,
+      "maxYear": 2025
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Eagle",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "604"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "178"
+    }
+  ],
+  "weight": 5.19,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/4308-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/4308-180.jpg",
+    "picture_copyright": "G-REMXD"
+  },
+  "mints": [
+    {
+      "id": 29,
+      "name": "Mexican Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

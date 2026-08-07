@@ -1,0 +1,108 @@
+{
+  "id": 6050,
+  "url": "https://en.numista.com/6050",
+  "title": "1 Dollar",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "namibia_period",
+    "name": "Namibia (1990-date)"
+  },
+  "issuing_entity": {
+    "id": 929,
+    "name": "Bank of Namibia",
+    "wikidata_id": "Q806684"
+  },
+  "min_year": 1993,
+  "max_year": 2024,
+  "ruler": [
+    {
+      "id": 935,
+      "name": "Republic",
+      "wikidata_id": "Q1030"
+    }
+  ],
+  "value": {
+    "text": "1 Dollar",
+    "numeric_value": 1,
+    "currency": {
+      "id": 53,
+      "name": "Dollar",
+      "full_name": "Dollar (1993-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1993-09-00"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 22.6,
+  "thickness": 1.9,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of Arms of Namibia, State name in full, and year of issue.",
+    "lettering": "UNITY LIBERTY JUSTICE\r\n1993\r\nREPUBLIC OF NAMIBIA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/namibia_period/6537c8d9cb6f37.54732695-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/namibia_period/6537c8d9cb6f37.54732695-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "reverse": {
+    "description": "A Bateleur Eagle (Terathopius ecaudatus) facing left, incomplete stylized sun, and denomination.",
+    "lettering": "1$",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/namibia_period/6537c8d9da9f67.27083808-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/namibia_period/6537c8d9da9f67.27083808-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "comments": "<p>The first consignment of Namibian coins arrived at Walvis Bay on 13 November 1993, with official issuance to commercial banks commencing on 8 December 1993. The inaugural coin series included denominations of 5c, 10c, 50c, N$1.00, and N$5.00, each featuring designs inspired by Namibia’s rich fauna and flora. &nbsp;An uncirculated 1993 First Coinage booklet was issued, containing all five denominations, the exact number of these sets remains unknown.</p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/67c56881a8539.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67c56881a8539.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/67c56886b82a0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67c56886b82a0.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/67c5688b9b502.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67c5688b9b502.jpg\"></a></p><p>&nbsp;</p><p>For 1996 2 different edge varieties exist<br><br><img src=\"https://en.numista.com/catalogue/images/573d637a79e39.jpg\" alt=\"\"><br><strong>Coarse reeding </strong>(above) and <strong>fine reeding</strong> (below)<br><br><a href=\"https://en.numista.com/catalogue/images/5e6f34292d9d0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e6f34292d9d0.jpg\" alt=\"\"></a><br><br><a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.wikipedia.org/wiki/Bateleur\">https://en.wikipedia.org/wiki/Bateleur</a></p>",
+  "tags": [
+    "Bird",
+    "Eagle",
+    "Sheep or ovine",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "4"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "4"
+    }
+  ],
+  "weight": 5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded\r\n1996 comes with both normal (top) and finer (bottom) reeds",
+    "picture": "https://en.numista.com/catalogue/photos/namibia_period/6537c8d9e59a92.75305041-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/namibia_period/6537c8d9e59a92.75305041-180.jpg"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

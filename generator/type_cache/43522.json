@@ -1,0 +1,135 @@
+{
+  "id": 43522,
+  "url": "https://en.numista.com/43522",
+  "title": "¼ Dollar \"Washington Quarter\" (Fort McHenry, Maryland)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "etats-unis",
+    "name": "United States"
+  },
+  "min_year": 2013,
+  "max_year": 2013,
+  "ruler": [
+    {
+      "id": 4720,
+      "name": "Federal republic",
+      "wikidata_id": "Q30"
+    }
+  ],
+  "value": {
+    "text": "¼ Dollar ",
+    "numeric_value": 0.25,
+    "numerator": 1,
+    "denominator": 4,
+    "currency": {
+      "id": 59,
+      "name": "Dollar",
+      "full_name": "Dollar (1785-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24.26,
+  "thickness": 1.75,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel clad copper"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "John Flanagan",
+      "William Cousins"
+    ],
+    "description": "Bust of George Washington, facing left.",
+    "lettering": "UNITED STATES OF AMERICA\r\nIN \r\nGOD WE \r\nTRUST\r\nLIBERTY  S\r\nJF  WC\r\nQUARTER DOLLAR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/65bf7cdf91b291.15833029-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/65bf7cdf91b291.15833029-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Joseph Francis Menna"
+    ],
+    "description": "The Fort McHenry National Monument and Historic Shrine site during the \"Defenders Day\" celebration, considered the centerpiece annual event held at Fort McHenry. The fireworks symbolize the \"rocket's red glare,\" linking the fort to its historic past.",
+    "lettering": "FORT McHENRY \r\nJFM\r\nMARYLAND   2013   E PLURIBUS UNUM",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/65bf7ce24100c2.99064494-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/65bf7ce24100c2.99064494-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "series": "United States Mint's \"America the Beautiful\" Quarters Program",
+  "commemorated_topic": "Fort McHenry",
+  "related_types": [
+    {
+      "id": 48428,
+      "title": "¼ Dollar \"Washington Quarter\" (Fort McHenry - Silver Proof)",
+      "category": "coin",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 2013,
+      "maxYear": 2013
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "545"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "537"
+    }
+  ],
+  "weight": 5.67,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/3225-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/3225-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 10,
+      "name": "United States Mint of Denver"
+    },
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    },
+    {
+      "id": 12,
+      "name": "United States Mint of San Francisco"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

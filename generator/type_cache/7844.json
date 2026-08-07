@@ -1,0 +1,164 @@
+{
+  "id": 7844,
+  "url": "https://en.numista.com/7844",
+  "title": "5 Dinars (1st Coat of Arms; Non-magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "serbie",
+    "name": "Serbia"
+  },
+  "min_year": 2005,
+  "max_year": 2010,
+  "ruler": [
+    {
+      "id": 2945,
+      "name": "Republic",
+      "wikidata_id": "Q403"
+    }
+  ],
+  "value": {
+    "text": "5 Dinars",
+    "numeric_value": 5,
+    "currency": {
+      "id": 29,
+      "name": "Dinar",
+      "full_name": "Dinar (2003-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2005-07-02"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24.1,
+  "thickness": 1.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass (75% Copper, 0.5% Nickel, 24.5% Zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Serbian coat of arms (with curved bottom of top crown)",
+    "lettering": "РЕПУБЛИКА СРБИЈА-REPUBLIKA SRBIJA\r\n•НБС-NBS•",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Serbia-Republic of Serbia\r\n•НБС-NBS•",
+    "picture": "https://en.numista.com/catalogue/photos/serbie/491-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/serbie/491-180.jpg",
+    "picture_copyright": "Mihajlo Nešić (MihajloNesic)"
+  },
+  "reverse": {
+    "description": "Krušedol Monastery, with the value to the left and the date at the bottom",
+    "lettering": "ДИНАРА•DINARA\r\n5\r\nКРУШЕДОЛ\r\n2010",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Dinars• Dinars\r\n5 \r\nKRUŠEDOL\r\n2010",
+    "picture": "https://en.numista.com/catalogue/photos/serbie/492-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/serbie/492-180.jpg",
+    "picture_copyright": "Mihajlo Nešić (MihajloNesic)"
+  },
+  "comments": "<p>2 great coat of arms for this coin (2 different KM 40 but not referred in the Standard Catalog of World Coins) :<br>link to the National Bank of Serbia : <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"http://www.nbs.rs/internet/english/75/75_1/k-5.html\">http://www.nbs.rs/internet/english/75/75_1/k-5.html</a></p>",
+  "related_types": [
+    {
+      "id": 3061,
+      "title": "5 Dinars",
+      "category": "coin",
+      "country": {
+        "code": "serbie",
+        "name": "Serbia"
+      },
+      "minYear": 2003,
+      "maxYear": 2003
+    },
+    {
+      "id": 129843,
+      "title": "5 Dinars (2nd Coat of Arms; Non-magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "serbie",
+        "name": "Serbia"
+      },
+      "minYear": 2011,
+      "maxYear": 2012
+    },
+    {
+      "id": 33452,
+      "title": "5 Dinars (2nd Coat of Arms; Magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "serbie",
+        "name": "Serbia"
+      },
+      "minYear": 2013,
+      "maxYear": 2024
+    },
+    {
+      "id": 3611,
+      "title": "5 Dinara",
+      "category": "coin",
+      "country": {
+        "code": "yougoslavie",
+        "name": "Yugoslavia"
+      },
+      "minYear": 2000,
+      "maxYear": 2002
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Religious building",
+    "Crown",
+    "Coat of Arms",
+    "Double-headed eagle"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "40"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "191"
+    }
+  ],
+  "weight": 6.13,
+  "orientation": "medal",
+  "edge": {
+    "description": "Alternating plain and reeded segments (5 sections each)",
+    "picture": "https://en.numista.com/catalogue/photos/serbie/6171666d286f99.10503423-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/serbie/6171666d286f99.10503423-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 1365,
+      "name": "Belgrade"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

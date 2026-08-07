@@ -1,0 +1,142 @@
+{
+  "id": 152,
+  "url": "https://en.numista.com/152",
+  "title": "2 Euros - Beatrix (1st map)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "pays-bas",
+    "name": "Netherlands"
+  },
+  "min_year": 1999,
+  "max_year": 2006,
+  "ruler": [
+    {
+      "id": 1303,
+      "name": "Beatrix",
+      "wikidata_id": "Q29574",
+      "group": {
+        "id": 750,
+        "name": "House of Orange-Nassau"
+      }
+    }
+  ],
+  "value": {
+    "text": "2 Euros",
+    "numeric_value": 2,
+    "currency": {
+      "id": 9012,
+      "name": "Euro",
+      "full_name": "Euro (2002-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2002-01-01"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25.75,
+  "thickness": 2.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: nickel brass clad nickel centre in copper-nickel ring"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Bruno Ninaber van Eyben"
+    ],
+    "description": "An uncluttered portrait of Queen Beatrix is accompanied, in the right side, facing left with a vertically written inscription above the date",
+    "lettering": "BEATRIX KONINGIN DER NEDERLANDEN 2000",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Beatrix Queen of the Netherlands 2000",
+    "picture": "https://en.numista.com/catalogue/photos/pays-bas/6700db4d09a631.74397196-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/6700db4d09a631.74397196-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Luc Luycx"
+    ],
+    "description": "A map, next to the face value, shows the fifteen states of the European Union",
+    "lettering": "2 EURO LL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/pays-bas/6700db4de175a4.23803755-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/6700db4de175a4.23803755-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p><strong><u>BU 1999</u></strong><br>Charité - \"Clini-clowns\" 75000 copies<br><strong><u>BU 2000</u></strong><br>Charité - \"Nature's masterpieces\" 75000 copies<br><strong><u>UNC 2000</u></strong><br>Rabo-bank 13850 copies<br><strong><u>BU 2001</u></strong><br>Charity - \"Fund for the disabled\" 65000 copies<br>Information set \"Denmark\" 15000 copies<br><strong><u>BU 2002</u></strong><br>Charity - \"Guide dogs for the blind\" 105000 copies<br>Beatrix box set 59500 copies<br>Birth 25000 copies<br>VOC 1 - The foundation 10000 copies<br>VOC 2 - The ships 10000 copies<br>VOC 3 - Itineraries 10,000 copies<br>VOC 4 - Heroes 10000 copies<br>Wedding 10000 copies<br>Mint Day 2002 copies<br>VVV IRIS gift vouchers 2500 copies<br>BVC Bloemendaal 3000 copies<br>Themaset - Beatrix 3500 copies<br><strong><u>BU 2003</u></strong><br>Charité - \"Fondation contre l'épilepsie\" 75,000 copies<br>VOC 5 - Goods 10,000 copies<br>VOC 6 - Money 4,500 copies<br>Marriage 15,000 copies<br>Birth 25,000 copies<br>Themaset - Princess birth 20,000 copies<br>Mint Day 2,003 copies<br>Themaset - Maîtres de la Monnaie 3,500 copies<br>VVV IRIS gift vouchers 10,000 copies<br>World Money Fair Basel 1,000 copies<br>Hungary\" information set 11,000 copies<br><strong><u>BU 2004</u></strong><br>Charity - \"Burn victims\" 50,000 copies<br>Birth 20,000 copies<br>Wedding 10,000 copies<br>Themaset - Mint Masters 3,500 copies<br>VVV IRIS gift vouchers 3,500 copies<br>Themaset - Souvenir de la Reine Juliana 10,000 copies<br>Jour de la Monnaie 2,004<br>Basel World Money Fair 1,000 copies<br><strong><u>BU 2005</u></strong><br>Charity - \"Princess Beatrix Fund\" 55,000 copies<br>Wedding 10,000 copies<br>Birth 14,500 copies<br>Miffy 50th anniversary box set 20,000 copies<br>Mint Day 2,005 copies<br>Themaset - Maîtres de la Monnaie 3,500 copies<br>World Money Fair Basel 1,000 copies<br>Themaset - Netherlands and Canada: 60 years of liberation 17,500 copies<br><strong><u>BU 2006</u></strong><br>Charité - \"KIKA Foundation\" 38,000 copies<br>World Money Fair Berlin 1,000 copies<br>Jour de la Monnaie 2,006 copies<br>Themaset - Maîtres de la Monnaie 3,500 copies<br>200 years of Dutch coinage 4,500 copies<br>Six Rembrandt series (silver collection) 4,000 copies</p>",
+  "related_types": [
+    {
+      "id": 6481,
+      "title": "2 Euros - Beatrix (2nd map)",
+      "category": "coin",
+      "country": {
+        "code": "pays-bas",
+        "name": "Netherlands"
+      },
+      "minYear": 2007,
+      "maxYear": 2013
+    }
+  ],
+  "tags": [
+    "Map"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "241"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "124"
+    }
+  ],
+  "weight": 8.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded with inscription",
+    "lettering": "GOD * ZIJ * MET * ONS *",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "God Be With Us",
+    "picture": "https://en.numista.com/catalogue/photos/pays-bas/6969f6645790c7.44370409-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/6969f6645790c7.44370409-180.jpg",
+    "picture_copyright": "ZacUK"
+  },
+  "mints": [
+    {
+      "id": 23,
+      "name": "Royal Dutch Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,108 @@
+{
+  "id": 2424,
+  "url": "https://en.numista.com/2424",
+  "title": "2 Lire",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "italie",
+    "name": "Italy"
+  },
+  "min_year": 1953,
+  "max_year": 2001,
+  "ruler": [
+    {
+      "id": 1164,
+      "name": "Republic",
+      "wikidata_id": "Q38"
+    }
+  ],
+  "value": {
+    "text": "2 Lire",
+    "numeric_value": 2,
+    "currency": {
+      "id": 112,
+      "name": "Lira",
+      "full_name": "Lira (1861-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2002-02-28"
+  },
+  "size": 18.3,
+  "thickness": 1,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium (96.2% Aluminium, 3.5% Magnesium, 0.3% Manganese)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Pietro Giampaoli"
+    ],
+    "designers": [
+      "Giuseppe Romagnoli"
+    ],
+    "description": "Bee",
+    "lettering": "REPVBBLICA · ITALIANA\r\nROMAGNOLI",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/italie/5f830330a39db5.17535082-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/italie/5f830330a39db5.17535082-180.jpg",
+    "picture_copyright": "whitegandalf"
+  },
+  "reverse": {
+    "engravers": [
+      "Pietro Giampaoli"
+    ],
+    "designers": [
+      "Giuseppe Romagnoli"
+    ],
+    "description": "Olive Branch. Value in number at left. Mintmark and date below, at right.",
+    "lettering": "2\r\n1985 R",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/italie/5f830330e74007.91240475-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/italie/5f830330e74007.91240475-180.jpg",
+    "picture_copyright": "whitegandalf"
+  },
+  "tags": [
+    "Insect"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "94"
+    }
+  ],
+  "weight": 0.8,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/italie/2664-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/italie/2664-180.jpg",
+    "picture_copyright": "Italiancoincollector"
+  },
+  "mints": [
+    {
+      "id": 22,
+      "name": "Rome"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

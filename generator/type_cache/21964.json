@@ -1,0 +1,127 @@
+{
+  "id": 21964,
+  "url": "https://en.numista.com/21964",
+  "title": "½ Crown - George V (2nd type)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1920,
+  "max_year": 1926,
+  "ruler": [
+    {
+      "id": 272,
+      "name": "George V",
+      "wikidata_id": "Q269412",
+      "group": {
+        "id": 526,
+        "name": "House of Saxe-Coburg and Gotha"
+      }
+    }
+  ],
+  "value": {
+    "text": "½ Crown",
+    "numeric_value": 0.125,
+    "numerator": 1,
+    "denominator": 8,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1971)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1969-12-31"
+  },
+  "size": 32.3,
+  "thickness": 2.15,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.500)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Edgar Bertram MacKennal"
+    ],
+    "description": "Uncrowned portrait of King George V left, legend around.",
+    "lettering": "GEORGIVS V DEI GRA: BRITT: OMN: REX",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "George the Fifth by the Grace of God King of all the Britains",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/6426-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/6426-180.jpg",
+    "picture_copyright": "Darkcid"
+  },
+  "reverse": {
+    "engravers": [
+      "George William de Saulles"
+    ],
+    "description": "Crowned quartered shield of arms within Garter band, legend around, divided date below.\r\n\r\nNote: crown touches shield, important to distinguish 1922 issues.",
+    "lettering": "· FID: DEF: IND: IMP: ·\r\nHALF · 19 21 · CROWN\r\nHONI SOIT· QVI MAL· Y PENSE·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Defender of the Faith Emperor of India\r\nShame on he who thinks evil of it",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/6427-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/6427-180.jpg",
+    "picture_copyright": "Darkcid"
+  },
+  "comments": "<p>The standard weight of these coins was 5/11 troy ounce (218.2 grains), unchanged from the earlier sterling silver issues.<br><br><i>Krause &amp; Mischler divide this series into two reverse varieties:</i><br><strong>KM#818.1a</strong> <i>(1920-22)</i> crown touches shield;<br><strong>KM#818.2</strong> <i>(1922-26)</i> groove between crown and shield.<br><br><i>Other sources indicate a total of three obverse and four reverse dies:</i><br><strong>Obverse 1</strong> small head in high relief;<br><strong>Obverse 2</strong> medium head, 24½mm and away from 'A: B', wide spaced 'REX';<br><strong>Obverse 3</strong> large head, 25mm, low relief, wide spaced 'REX';<br><strong>Reverse A</strong> raised garter edge above 'F·19', colon of 'DEF' points to pearl;<br><strong>Reverse B</strong> small design, plain edge above 'F·19' forming a pocket above 'C';<br><strong>Reverse C</strong> plain garter edge above 'F·19', colon of 'DEF' points to pearl in crown;<br><strong>Reverse D</strong> groove between crown and shield, legend close to garter, colon of 'DEF' points to space;<br><br><i>1926 obverse die varieties:</i><br><strong>KM#818.2</strong> 188 small beads around, colon after BRITT points between beads;<br><strong>KM#830</strong> 145 large beads around, colon after BRITT points to a bead;<br><a href=\"https://en.numista.com/catalogue/images/5cbec78ad756a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5cbec78ad756a.jpg\" alt=\"\"></a><br>Image above is reproduced with kind permission of<br>Numista member Sjoelund and <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"http://www.declanmageecoins.co.uk/G5HC.html\">Declan Magee Coins</a></p>",
+  "tags": [
+    "Cat or feline",
+    "Crown",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "818.1a"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "818.2"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "4021"
+    }
+  ],
+  "weight": 14.14,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/69ffa35186bf09.99570373-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/69ffa35186bf09.99570373-180.jpg",
+    "picture_copyright": "Walter_Scott"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

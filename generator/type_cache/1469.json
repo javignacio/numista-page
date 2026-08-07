@@ -1,0 +1,113 @@
+{
+  "id": 1469,
+  "url": "https://en.numista.com/1469",
+  "title": "20 Kroner - Margrethe II (3rd portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "danemark",
+    "name": "Denmark"
+  },
+  "min_year": 1994,
+  "max_year": 1999,
+  "ruler": [
+    {
+      "id": 2404,
+      "name": "Margrethe II",
+      "wikidata_id": "Q102139",
+      "group": {
+        "id": 104,
+        "name": "House of Schleswig-Holstein-Sonderburg-Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "20 Kroner",
+    "numeric_value": 20,
+    "currency": {
+      "id": 13,
+      "name": "Krone",
+      "full_name": "Krone (1873-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1994-10-00"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 27,
+  "thickness": 2.35,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "J. Petersen"
+    ],
+    "description": "Margarethe II portrait (3rd effigy)",
+    "lettering": "MARGRETHE II 🖤 DANMARKS DRONNING\r\nLG JP\r\n1999 A",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/danemark/698dde66337139.60884278-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/698dde66337139.60884278-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "reverse": {
+    "description": "Denmark coat of arms",
+    "lettering": "20 KRONER",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/danemark/698dde67464a92.19286691-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/698dde67464a92.19286691-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "comments": "Two main types are known.<br /><br />\r\n<span style=\"font-style:italic;\">Reverse</span><br />\r\nDie <span style=\"font-weight:bold;\">A </span>- flat legends.<br />\r\nDie <span style=\"font-weight:bold;\">B </span>- every symbol is outlined, being border higher.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5e2b6aabadcd0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e2b6aabadcd0.jpg\" alt=\"\" width=\"200\" height=\"215\" /></a><br /><br />\r\n<span style=\"font-weight:bold;\">Combinations</span><br />\r\nDie <span style=\"font-style:italic;\">A</span> - 1990, 1991, 1993, 1994, 1999.<br />\r\nDie <span style=\"font-style:italic;\">B</span> - 1996, 1998.",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "878"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "97"
+    }
+  ],
+  "weight": 9.3,
+  "orientation": "medal",
+  "edge": {
+    "description": "Segmented reeding",
+    "picture": "https://en.numista.com/catalogue/photos/danemark/62b47f4912a124.97814820-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/62b47f4912a124.97814820-180.jpg",
+    "picture_copyright": "RuibaiK",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 260,
+      "name": "Royal Danish Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

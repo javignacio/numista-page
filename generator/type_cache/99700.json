@@ -1,0 +1,120 @@
+{
+  "id": 99700,
+  "url": "https://en.numista.com/99700",
+  "title": "¼ Dollar \"Washington Quarter\" (George Rogers Clark National Historical Park, Indiana)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "etats-unis",
+    "name": "United States"
+  },
+  "min_year": 2017,
+  "max_year": 2017,
+  "ruler": [
+    {
+      "id": 4720,
+      "name": "Federal republic",
+      "wikidata_id": "Q30"
+    }
+  ],
+  "value": {
+    "text": "¼ Dollar ",
+    "numeric_value": 0.25,
+    "numerator": 1,
+    "denominator": 4,
+    "currency": {
+      "id": 59,
+      "name": "Dollar",
+      "full_name": "Dollar (1785-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24.3,
+  "thickness": 1.75,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel clad copper"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "William Cousins"
+    ],
+    "designers": [
+      "John Flanagan"
+    ],
+    "description": "The portrait in left profile of George Washington, the first President of the United States from 1789 to 1797, is accompanied with the motto \"IN GOD WE TRUST\" and the lettering \"LIBERTY\" surrounded with the denomination and the inscription \"UNITED STATES OF AMERICA\"",
+    "lettering": "UNITED STATES OF AMERICA\r\nIN \r\nGOD WE \r\nTRUST\r\nLIBERTY  P\r\nJF  WC\r\nQUARTER DOLLAR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/5044-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/5044-180.jpg",
+    "picture_copyright": "Image courtesy of United States Mint"
+  },
+  "reverse": {
+    "engravers": [
+      "Frank Morris",
+      "Michael Gaudioso"
+    ],
+    "description": "George Rogers Clark leading his men through the flooded plains approaching Fort Sackville (frontier settlement of Vincennes).",
+    "lettering": "GEORGE ROGERS CLARK\r\nMG\r\nFM\r\nINDIANA   2017   E PLURIBUS UNUM",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/5045-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/5045-180.jpg",
+    "picture_copyright": "United States Mint",
+    "picture_copyright_url": "http://www.usmint.gov"
+  },
+  "series": "United States Mint's \"America the Beautiful\" Quarters Program",
+  "commemorated_topic": "George Rogers Clark National Historical Park, Indiana",
+  "tags": [
+    "Firearms",
+    "War",
+    "Park"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "657"
+    }
+  ],
+  "weight": 5.67,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/4024-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/4024-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 10,
+      "name": "United States Mint of Denver"
+    },
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    },
+    {
+      "id": 12,
+      "name": "United States Mint of San Francisco"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

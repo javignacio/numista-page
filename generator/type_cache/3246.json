@@ -1,0 +1,144 @@
+{
+  "id": 3246,
+  "url": "https://en.numista.com/3246",
+  "title": "5 Centavos (reeded edge)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "argentine",
+    "name": "Argentina"
+  },
+  "min_year": 1992,
+  "max_year": 2005,
+  "ruler": [
+    {
+      "id": 3983,
+      "name": "Federal Republic",
+      "wikidata_id": "Q414"
+    }
+  ],
+  "value": {
+    "text": "5 Centavos",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 145,
+      "name": "Peso convertible",
+      "full_name": "Peso convertible (1992-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 17.2,
+  "thickness": 1.4,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "State name, the 'Sol de Mayo' (SPANISH: Sun of May) and State Motto",
+    "lettering": ".REPUBLICA ARGENTINA.\r\nEN UNION Y LIBERTAD",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": ".REPUBLIC OF ARGENTINA.\r\nIN UNION AND FREEDOM",
+    "picture": "https://en.numista.com/catalogue/photos/argentine/67a794506087d2.23992717-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/67a794506087d2.23992717-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Large value, date below",
+    "lettering": "5\r\nCENTAVOS \r\n1992",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/argentine/67a79450a6fa09.62351539-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/67a79450a6fa09.62351539-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "The variants of the 1992 coin<br />\r\n<a href=\"https://en.numista.com/catalogue/images/60f573ca6df6f.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/60f573ca6df6f.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nPreviously KM#84",
+  "related_types": [
+    {
+      "id": 6758,
+      "title": "5 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 1993,
+      "maxYear": 1995
+    },
+    {
+      "id": 21116,
+      "title": "5 Centavos (smooth edge, magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 2006,
+      "maxYear": 2011
+    }
+  ],
+  "tags": [
+    "Sun"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "109"
+    },
+    {
+      "catalogue": {
+        "id": 160,
+        "code": "CJ"
+      },
+      "number": "2"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "109"
+    }
+  ],
+  "weight": 2.02,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    },
+    {
+      "id": 29,
+      "name": "Mexican Mint"
+    },
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

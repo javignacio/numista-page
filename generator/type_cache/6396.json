@@ -1,0 +1,130 @@
+{
+  "id": 6396,
+  "url": "https://en.numista.com/6396",
+  "title": "1 Cent - Elizabeth II (2nd portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bahamas",
+    "name": "Bahamas, The"
+  },
+  "min_year": 1966,
+  "max_year": 1969,
+  "ruler": [
+    {
+      "id": 952,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 797,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Cent",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 39,
+      "name": "Dollar",
+      "full_name": "Dollar (1966-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2020-12-31"
+  },
+  "size": 22.5,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass (79% Copper, 20% Zinc, 1% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Arnold Machin"
+    ],
+    "description": "Bust of the Queen Elizabeth II turned to the right",
+    "lettering": "ELIZABETH II BAHAMA ISLANDS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bahamas/660-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bahamas/660-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "reverse": {
+    "engravers": [
+      "Arnold Machin"
+    ],
+    "description": "Starfish above date, value at top",
+    "lettering": "ONE CENT",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bahamas/661-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bahamas/661-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "comments": "Of the coins dated 1966: 3,837,000 were minted in 1966, 3,000,000 were minted in 1967, and 250,000 were minted in 1968. All were minted in London.<br /><br />\r\nOf the coins dated 1969: 1,000,000 were minted in 1969 in London, 2,000,000 were minted in 1970 in Llantrisant, and 1,200,000 were minted in 1971 in Llantrisant.<br /><br />\r\nOf the proof coins dated 1969: 10,681 were minted in 1969 and 20,000 were minted in 1970 in London and Llantrisant.",
+  "related_types": [
+    {
+      "id": 8112,
+      "title": "1 Cent - Elizabeth II",
+      "category": "coin",
+      "country": {
+        "code": "bahamas",
+        "name": "Bahamas, The"
+      },
+      "minYear": 1970,
+      "maxYear": 1970
+    }
+  ],
+  "tags": [
+    "Marine invertebrate",
+    "Monarch",
+    "Crown"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "2"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "1"
+    }
+  ],
+  "weight": 4.16,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    },
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

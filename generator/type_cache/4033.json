@@ -1,0 +1,146 @@
+{
+  "id": 4033,
+  "url": "https://en.numista.com/4033",
+  "title": "2 Öre - Gustaf V",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "suede",
+    "name": "Sweden"
+  },
+  "min_year": 1942,
+  "max_year": 1950,
+  "ruler": [
+    {
+      "id": 2364,
+      "name": "Gustaf V",
+      "wikidata_id": "Q52890",
+      "group": {
+        "id": 99,
+        "name": "House of Bernadotte"
+      }
+    }
+  ],
+  "value": {
+    "text": "2 Öre",
+    "numeric_value": 0.02,
+    "currency": {
+      "id": 18,
+      "name": "Krona",
+      "full_name": "Krona (1873-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 21,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Iron"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Crowned double monogram of King Gustaf V of Sweden divides date. King's motto around rim.",
+    "lettering": "MED FOLKET FÖR FOSTERLANDET\r\n19 GGV 50",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "With the People for the Motherland.",
+    "picture": "https://en.numista.com/catalogue/photos/suede/5fd945b86119e1.01674688-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suede/5fd945b86119e1.01674688-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "The Three crowns of Sweden divides value in letters at base of lower crown. Above the crowns there is the value in number and below the mintmark of Stockholm mint.",
+    "lettering": "2 \r\nTVÅ ÖRE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Two Öre.",
+    "picture": "https://en.numista.com/catalogue/photos/suede/5fd945b8c326c5.39319843-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suede/5fd945b8c326c5.39319843-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p>Coins in iron minted to replace those in bronze, due to metal shortages during and after World War II.</p><p>&nbsp;</p><p>Explanation for the 1942 variant:<br>&nbsp;Type 2A = light iron used on the 2 öre 1917-1919 and 1942.<br>&nbsp;Type 2B = dark iron used on the 2 öre 1942-1950.<br>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/6871e493eafa3.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6871e493eafa3.jpg\"></a></p><p><a href=\"https://en.numista.com/catalogue/images/6871e87990dd0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6871e87990dd0.jpg\"></a></p><p><a href=\"https://en.numista.com/catalogue/images/6871ec7f27f56.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6871ec7f27f56.jpg\"></a><br>Variant 1949, long / short 9:<br><a href=\"https://en.numista.com/catalogue/images/5540ace109121.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5540ace109121.jpg\" alt=\"\"></a></p>",
+  "related_types": [
+    {
+      "id": 4935,
+      "title": "1 Öre - Gustaf V",
+      "category": "coin",
+      "country": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "minYear": 1942,
+      "maxYear": 1950
+    },
+    {
+      "id": 12985,
+      "title": "2 Öre - Gustaf V",
+      "category": "coin",
+      "country": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "minYear": 1917,
+      "maxYear": 1920
+    },
+    {
+      "id": 5987,
+      "title": "5 Öre - Gustaf V",
+      "category": "coin",
+      "country": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "minYear": 1942,
+      "maxYear": 1950
+    }
+  ],
+  "tags": [
+    "Crown",
+    "Monogram"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "811"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "41"
+    }
+  ],
+  "weight": 3.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 5989,
+      "name": "Kungliga Myntet"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

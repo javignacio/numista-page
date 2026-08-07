@@ -1,0 +1,179 @@
+{
+  "id": 1389,
+  "url": "https://en.numista.com/1389",
+  "title": "1 Pound - Elizabeth II (2nd portrait; Royal Arms)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1983,
+  "max_year": 1983,
+  "ruler": [
+    {
+      "id": 275,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 527,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Pound",
+    "numeric_value": 1,
+    "currency": {
+      "id": 126,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (decimalized, 1971-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2017-10-15"
+  },
+  "size": 22.5,
+  "thickness": 3.15,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Arnold Machin"
+    ],
+    "description": "Second crowned portrait of Queen Elizabeth II right, wearing the Girls of Great Britain and Ireland tiara, legend around.",
+    "lettering": "ELIZABETH·II  D·G·REG·F·D·1983",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Elizabeth II Dei Gratia Regina Fidei Defensatrix",
+    "lettering_translation": "Elizabeth II by the Grace of God Queen Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/67a382ab35e974.79870316-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/67a382ab35e974.79870316-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Eric Sewell"
+    ],
+    "description": "Royal Arms with supporters, denomination below.",
+    "lettering": "HONI SOIT QUI MAL Y PENSE\r\nDIEU ET MON DROIT\r\nONE POUND",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Shame on he who thinks evil of it\r\nGod and my right",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/67a382acc0b0c2.70460238-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/67a382acc0b0c2.70460238-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "series": "Heraldic Emblems series",
+  "commemorated_topic": "UK",
+  "comments": "The first round pound coin to replace the old pound note. Issued for circulation as well as was part of the Annual Coin Sets in both Brilliant Uncirculated (637,100 sales) &amp; Proof versions, while also available in an individual BU pack (484, 900 sales)<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5ed1702d93330.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5ed1702d93330.jpg\" alt=\"\" width=\"200\" height=\"238\" /></a><a href=\"https://en.numista.com/catalogue/images/609827cb3862c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/609827cb3862c.jpg\" alt=\"\" width=\"136\" height=\"250\" /></a><br /><br />\r\nThe Eric Sewell &#039;Royal Arms&#039; reverse design was used four more times for circulation issues in subsequent years, 1993, 1998, 2003, 2008, making a total of 5 editions of this type.",
+  "related_types": [
+    {
+      "id": 56275,
+      "title": "1 Pound - Elizabeth II (Royal Arms; Silver Proof)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1983,
+      "maxYear": 1983
+    },
+    {
+      "id": 100878,
+      "title": "1 Pound - Elizabeth II (Royal Arms; Silver Piedfort)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1983,
+      "maxYear": 1983
+    },
+    {
+      "id": 1384,
+      "title": "1 Pound - Elizabeth II (3rd portrait; Royal Arms)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1993,
+      "maxYear": 1993
+    },
+    {
+      "id": 7385,
+      "title": "1 Pound - Elizabeth II (4th portrait; Royal Arms)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1998,
+      "maxYear": 2008
+    }
+  ],
+  "tags": [
+    "Fantasy animal",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "933"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "J1"
+    }
+  ],
+  "weight": 9.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Milled with incuse lettering",
+    "lettering": "DECUS ET TUTAMEN",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "An ornament and a safeguard",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/67a382ae2c4da6.48704585-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/67a382ae2c4da6.48704585-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

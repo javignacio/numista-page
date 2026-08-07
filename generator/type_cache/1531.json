@@ -1,0 +1,119 @@
+{
+  "id": 1531,
+  "url": "https://en.numista.com/1531",
+  "title": "5 Markkaa",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "finlande",
+    "name": "Finland"
+  },
+  "min_year": 1979,
+  "max_year": 1993,
+  "ruler": [
+    {
+      "id": 3291,
+      "name": "Republic",
+      "wikidata_id": "Q33"
+    }
+  ],
+  "value": {
+    "text": "5 Markkaa",
+    "numeric_value": 5,
+    "currency": {
+      "id": 133,
+      "name": "New Markka",
+      "full_name": "New Markka (1963-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1997-12-31"
+  },
+  "size": 26.3,
+  "thickness": 2.05,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze (93% Copper, 5% Aluminium, 2% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Icebreaker ship on ice boulders above legend and year",
+    "lettering": "SUOMI FINLAND 1990 M",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Finland",
+    "picture": "https://en.numista.com/catalogue/photos/finlande/153-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/153-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Value divided by bird silhouettes",
+    "lettering": "5 MARKKAA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/finlande/154-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/154-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "tags": [
+    "Boat or watercraft"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "57"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "66"
+    }
+  ],
+  "weight": 8,
+  "orientation": "medal",
+  "edge": {
+    "description": "Smooth with inscription",
+    "lettering": "REPUBLIKEN FINLAND * SUOMEN TASAVALTA *",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Finland",
+    "picture": "https://en.numista.com/catalogue/photos/finlande/1266-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/1266-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 1333,
+      "name": "Mint of Finland"
+    },
+    {
+      "id": 1334,
+      "name": "Mint of Finland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

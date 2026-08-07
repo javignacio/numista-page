@@ -1,0 +1,118 @@
+{
+  "id": 3375,
+  "url": "https://en.numista.com/3375",
+  "title": "50 Senti",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "tanzanie",
+    "name": "Tanzania"
+  },
+  "min_year": 1966,
+  "max_year": 1984,
+  "ruler": [
+    {
+      "id": 947,
+      "name": "Republic",
+      "wikidata_id": "Q924"
+    }
+  ],
+  "value": {
+    "text": "50 Senti",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 182,
+      "name": "Shilling",
+      "full_name": "Shilling (1966-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Christopher Ironside"
+    ],
+    "description": "Julius Nyerere facing to left",
+    "lettering": "TANZANIA 1966\r\nRAIS WA KWANZA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Tanzania 1966\r\nFirst President",
+    "picture": "https://en.numista.com/catalogue/photos/tanzanie/201-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/tanzanie/201-180.jpg",
+    "picture_copyright": "Global Coins",
+    "picture_copyright_url": "http://www.gcoins.net/"
+  },
+  "reverse": {
+    "engravers": [
+      "Christopher Ironside"
+    ],
+    "description": "Seated rabbit facing left",
+    "lettering": "SENTI HAMSINI\r\n50",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Fifty cents",
+    "picture": "https://en.numista.com/catalogue/photos/tanzanie/202-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/tanzanie/202-180.jpg",
+    "picture_copyright": "Global Coins",
+    "picture_copyright_url": "http://www.gcoins.net/"
+  },
+  "comments": "<span style=\"font-weight:bold;\">Julius Nyerere</span>: Tanzanian politician, founding father of Tanzania, President of Tanzania from the date of the country&#039;s foundation, in 1964, until his retirement, in 1985. He is considered one of the greatest historical figures of the Twentieth Century and one of the two most important personalities of modern Africa together with Nelson Mandela.<br /><br />\r\nOf the circulation coins dated 1966, 16,000,000 were minted in 1966, 3,750,000 were minted in 1967, and 6,250,000 were minted in 1968.",
+  "tags": [
+    "Rabbit",
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "3"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "4"
+    }
+  ],
+  "weight": 4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/tanzanie/69532a8b141057.87748433-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/tanzanie/69532a8b141057.87748433-180.jpg",
+    "picture_copyright": "Dieter83"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    },
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

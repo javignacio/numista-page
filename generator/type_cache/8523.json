@@ -1,0 +1,115 @@
+{
+  "id": 8523,
+  "url": "https://en.numista.com/8523",
+  "title": "100 Francs CFA",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "congo-brazzaville",
+    "name": "Congo, Republic of the"
+  },
+  "min_year": 1975,
+  "max_year": 1990,
+  "ruler": [
+    {
+      "id": 835,
+      "name": "People's Republic",
+      "wikidata_id": "Q1152126"
+    }
+  ],
+  "value": {
+    "text": "100 Francs CFA",
+    "numeric_value": 100,
+    "currency": {
+      "id": 9031,
+      "name": "CFA franc",
+      "full_name": "CFA franc (Bank of Central African States, 1973-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25.5,
+  "thickness": 1.74,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Lucien Georges Bazor"
+    ],
+    "description": "Giant Elands",
+    "lettering": "REPUBLIQUE POPULAIRE DU CONGO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "People's Republic of Congo",
+    "picture": "https://en.numista.com/catalogue/photos/congo-brazzaville/5fd3f04a00c6d4.84236314-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/congo-brazzaville/5fd3f04a00c6d4.84236314-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Denomination",
+    "lettering": "BANQUE DES ETATS DE L'AFRIQUE CENTRALE\r\n100 FRANCS\r\n1975",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Bank of Central African States",
+    "picture": "https://en.numista.com/catalogue/photos/congo-brazzaville/5fd3f04ac55494.19464635-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/congo-brazzaville/5fd3f04ac55494.19464635-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "The CFA franc (XAF, BEAC-Banque des Etats de l'Afrique Centrale) is used by Chad, the Central African Republic, the Republic of Congo, Gabon, Cameroon and Equatorial Guinea.",
+  "related_types": [
+    {
+      "id": 3205,
+      "title": "100 Francs CFA",
+      "category": "coin",
+      "country": {
+        "code": "congo-brazzaville",
+        "name": "Congo, Republic of the"
+      },
+      "minYear": 1971,
+      "maxYear": 1972
+    }
+  ],
+  "tags": [
+    "Cow or bovine"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "2"
+    }
+  ],
+  "weight": 7.05,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

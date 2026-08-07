@@ -1,0 +1,167 @@
+{
+  "id": 7725,
+  "url": "https://en.numista.com/7725",
+  "title": "1 Cruzeiro (150th Anniversary of Independence)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "bresil",
+    "name": "Brazil"
+  },
+  "issuing_entity": {
+    "id": 900,
+    "name": "Central Bank of Brazil",
+    "wikidata_id": "Q806186"
+  },
+  "min_year": 1972,
+  "max_year": 1972,
+  "ruler": [
+    {
+      "id": 2684,
+      "name": "Federative Republic of Brazil",
+      "wikidata_id": "Q155"
+    }
+  ],
+  "value": {
+    "text": "1 Cruzeiro",
+    "numeric_value": 1,
+    "currency": {
+      "id": 206,
+      "name": "Cruzeiro novo",
+      "full_name": "Cruzeiro novo (1967-1986)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1972-08-11"
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1986-02-28"
+  },
+  "size": 29,
+  "thickness": 1.9,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Aluísio Magalhães"
+    ],
+    "description": "Emperor Pedro I and President Emilio Garrastazu Medici superimposed; Commemorative logo 1822-1972. \"BRASIL\"",
+    "lettering": "BRASIL \r\n1972 \r\n1822",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bresil/60ba499be451c0.55226992-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/60ba499be451c0.55226992-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "Aluísio Magalhães"
+    ],
+    "description": "Map of Brazil with rays coming out of Brasilia representing national integration. \r\nFace value",
+    "lettering": "1 \r\nCRUZEIRO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bresil/60ba499cb56164.69920025-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/60ba499cb56164.69920025-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "commemorated_topic": "150th Anniversary of the Independence of Brazil",
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/5b894a02963a1.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5b894a02963a1.jpg\" alt=\"\" width=\"200\" height=\"200\" /></a><br />\r\nCase with 2 coins (1 Cruzeiro KM# 582; 20 Cruzeiros KM# 583)<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5b894a1a472a9.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5b894a1a472a9.jpg\" alt=\"\" width=\"200\" height=\"157\" /></a><br />\r\nCase with 3 coins (1 Cruzeiro KM# 582; 20 Cruzeiros KM# 583; 300 Cruzeiros KM# 584)",
+  "related_types": [
+    {
+      "id": 14499,
+      "title": "20 Cruzeiros (150th Anniversary of Independence)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1972,
+      "maxYear": 1972
+    },
+    {
+      "id": 36140,
+      "title": "300 Cruzeiros (150th Anniversary of Independence)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1972,
+      "maxYear": 1972
+    }
+  ],
+  "tags": [
+    "Military leader",
+    "Monarch",
+    "Map"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "582"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "87"
+    },
+    {
+      "catalogue": {
+        "id": 1185,
+        "code": "AI Coins"
+      },
+      "number": "V324"
+    },
+    {
+      "catalogue": {
+        "id": 1678,
+        "code": "Bentes"
+      },
+      "number": "708"
+    }
+  ],
+  "weight": 10.08,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain with inscription.",
+    "lettering": "SESQUICENTENARIO DA INDEPENDENCIA",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/694a3a4e120724.50381239-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/694a3a4e120724.50381239-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 1335,
+      "name": "Mint of Brazil"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

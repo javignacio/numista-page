@@ -1,0 +1,155 @@
+{
+  "id": 2122,
+  "url": "https://en.numista.com/2122",
+  "title": "500 Yen - Heisei",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "japon",
+    "name": "Japan"
+  },
+  "min_year": 2000,
+  "max_year": 2019,
+  "ruler": [
+    {
+      "id": 336,
+      "name": "Heisei",
+      "wikidata_id": "Q234510"
+    }
+  ],
+  "value": {
+    "text": "500 Yen",
+    "numeric_value": 500,
+    "currency": {
+      "id": 197,
+      "name": "Yen",
+      "full_name": "Yen (1871-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 26.5,
+  "thickness": 1.81,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass (72% Copper, 20% Zinc, 8% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Paulownia plant and highlighted authority above and value below.",
+    "lettering": "日 本 国\r\n\r\n五 百 円",
+    "lettering_scripts": [
+      {
+        "name": "Chinese"
+      }
+    ],
+    "lettering_translation": "State of Japan, 500 yen",
+    "picture": "https://en.numista.com/catalogue/photos/japon/29-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/japon/29-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Large numerical value in center with latent images in zeros, flanked by \r\nTachibana oranges (Citrus reticulata tachibana), bamboo on top and date below.",
+    "lettering": "500\r\n5 5\r\n0 0\r\n0 0\r\n円円\r\n平 成 十 九 年",
+    "lettering_scripts": [
+      {
+        "name": "Chinese"
+      }
+    ],
+    "lettering_translation": "500 Yen, Year 19 of Heisei",
+    "picture": "https://en.numista.com/catalogue/photos/japon/28-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/japon/28-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "Micro letters spelling NIPPON (Japan) on value (depicted) and in the paulownia blossoms.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5c8aa1b236c19.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5c8aa1b236c19.jpg\" alt=\"\" width=\"128\" height=\"250\" /></a><br />\r\n© Idolenz<br />\r\nSecurity feature &quot;500 円&quot; inside the 0&#039;s when held at angle<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5fb19b0a33328.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5fb19b0a33328.jpg\" alt=\"\" width=\"200\" height=\"75\" /></a><br />\r\n© Fireberg",
+  "related_types": [
+    {
+      "id": 3504,
+      "title": "500 Yen - Shōwa",
+      "category": "coin",
+      "country": {
+        "code": "japon",
+        "name": "Japan"
+      },
+      "minYear": 1982,
+      "maxYear": 1989
+    },
+    {
+      "id": 9586,
+      "title": "500 Yen - Heisei",
+      "category": "coin",
+      "country": {
+        "code": "japon",
+        "name": "Japan"
+      },
+      "minYear": 1989,
+      "maxYear": 1999
+    },
+    {
+      "id": 173795,
+      "title": "500 Yen - Reiwa",
+      "category": "coin",
+      "country": {
+        "code": "japon",
+        "name": "Japan"
+      },
+      "minYear": 2019,
+      "maxYear": 2021
+    }
+  ],
+  "tags": [
+    "Flower",
+    "Fruit",
+    "Latent image"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "125"
+    },
+    {
+      "catalogue": {
+        "id": 3041,
+        "code": "JNDA"
+      },
+      "number": "02-1A"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "102"
+    }
+  ],
+  "weight": 7,
+  "orientation": "medal",
+  "edge": {
+    "description": "Slanted reeding right",
+    "picture": "https://en.numista.com/catalogue/photos/japon/1182-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/japon/1182-180.jpg",
+    "picture_copyright": "Idolenz",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 41,
+      "name": "Japan Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,135 @@
+{
+  "id": 1158,
+  "url": "https://en.numista.com/1158",
+  "title": "5 Céntimos \"Puya\"",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "venezuela",
+    "name": "Venezuela"
+  },
+  "min_year": 1974,
+  "max_year": 1977,
+  "ruler": [
+    {
+      "id": 4706,
+      "name": "Fourth Republic",
+      "wikidata_id": "Q21296156"
+    }
+  ],
+  "value": {
+    "text": "5 Centimos",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 7,
+      "name": "Bolivar",
+      "full_name": "Bolivar (1879-2007)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2011-12-31"
+  },
+  "size": 18,
+  "thickness": 1.26,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper clad steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The Venezuelan coat of arms with the country name above around the rim and the date below.",
+    "lettering": "REPUBLICA DE VENEZUELA\r\n1977",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Venezuela\r\n1977",
+    "picture": "https://en.numista.com/catalogue/photos/venezuela/404-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/venezuela/404-180.jpg",
+    "picture_copyright": "KennyG"
+  },
+  "reverse": {
+    "description": "Denomination in two lines below an inverted wreath.",
+    "lettering": "5\r\nCENTIMOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/venezuela/405-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/venezuela/405-180.jpg",
+    "picture_copyright": "KennyG"
+  },
+  "comments": "<p>5 Céntimos coin is popularly known as \"Puya\" in Venezuela</p><p>&nbsp;</p><p>Each year different type.<br><br><i>Obverse</i><br>Die <strong>1</strong> - large letters in fine strokes.<br>Die <strong>2</strong> - large letters in bold strokes.<br>Die <strong>3</strong> - smaller letters with serifs, \"U\" and \"B\" in REPUBLICA almost touch each other.<br><br><i>Reverse</i><br>Die <strong>A</strong> - wider script, especially visible on final letter \"O\".<br>Die <strong>B</strong> - taller script, especially visible on letter \"O\", letters \"E\" and \"N\" almost touch each other.<br><br>Picture: © Images courtesy of Alexandr Prokofyev.<br><a href=\"https://en.numista.com/catalogue/images/6257fb48e6b1f.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6257fb48e6b1f.jpg\" alt=\"\"></a><br><br><i>Combinations</i><br><strong>1</strong>+<strong>A</strong>: 1974, VDM Metals.<br><strong>2</strong>+<strong>A</strong>: 1976, VDM Metals.<br><strong>3</strong>+<strong>B</strong>: 1977, Llantrisant (see the main photos of the article).</p>",
+  "related_types": [
+    {
+      "id": 5479,
+      "title": "5 Céntimos \"Puya\"",
+      "category": "coin",
+      "country": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "minYear": 1983,
+      "maxYear": 1983
+    },
+    {
+      "id": 5584,
+      "title": "5 Céntimos \"Puya\"",
+      "category": "coin",
+      "country": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "minYear": 1986,
+      "maxYear": 1986
+    }
+  ],
+  "tags": [
+    "Horse or equine",
+    "Coat of Arms",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "49"
+    },
+    {
+      "catalogue": {
+        "id": 2068,
+        "code": "NCV"
+      },
+      "number": "mv5cts-da"
+    }
+  ],
+  "weight": 2,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/venezuela/652232b85b7ee3.78827465-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/venezuela/652232b85b7ee3.78827465-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    },
+    {
+      "id": 4157,
+      "name": "VDM Metals / Vereinigte Deutsche Metallwerke"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,117 @@
+{
+  "id": 13799,
+  "url": "https://en.numista.com/13799",
+  "title": "25 Qirsh / Piastres",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "egypte",
+    "name": "Egypt"
+  },
+  "min_year": 2008,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 2903,
+      "name": "Arab Republic of Egypt",
+      "wikidata_id": "Q16249924"
+    }
+  ],
+  "value": {
+    "text": "25 Piastres",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 117,
+      "name": "Pound",
+      "full_name": "Pound (1916-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21,
+  "thickness": 1.89,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Value at centre, Arabic legend at top, dates below",
+    "lettering": "جمهورية مصر العربية\r\n٢٥\r\n٢٠٠٨ - ۱٤٢٩",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "Arab Republic of Egypt\r\n25 \r\n2008 1429",
+    "picture": "https://en.numista.com/catalogue/photos/egypte/2344-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/egypte/2344-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "description": "Value at centre, Arabic at top, English value below",
+    "lettering": "٢٥ قرشا\r\n٢٥\r\n25 PT.",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "25 Piastres\r\n25",
+    "picture": "https://en.numista.com/catalogue/photos/egypte/2345-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/egypte/2345-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "991"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "676"
+    },
+    {
+      "catalogue": {
+        "id": 2245,
+        "code": "MHC"
+      },
+      "number": "353"
+    }
+  ],
+  "weight": 4.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/egypte/1280-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/egypte/1280-180.jpg",
+    "picture_copyright": "Idolenz",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 1323,
+      "name": "Egyptian Mint Authority"
+    },
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,125 @@
+{
+  "id": 8491,
+  "url": "https://en.numista.com/8491",
+  "title": "10 Centavos (Non-Magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "honduras",
+    "name": "Honduras"
+  },
+  "min_year": 1993,
+  "max_year": 2007,
+  "ruler": [
+    {
+      "id": 4001,
+      "name": "Republic",
+      "wikidata_id": "Q783"
+    }
+  ],
+  "value": {
+    "text": "10 Centavos",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 101,
+      "name": "Lempira",
+      "full_name": "Lempira (1931-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 26,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass (70% Copper, 30% Zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of Arms",
+    "lettering": "REPUBLICA DE HONDURAS\r\nREPUBLICA DE HONDURAS, LIBRE, SOBERANA E INDEPENDIENTE\r\n15 DE SEPTIEMBRE 1821\r\n2003",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Honduras \r\nRepublic of Honduras, Free, Sovereign and Independent\r\n15 September 1821",
+    "picture": "https://en.numista.com/catalogue/photos/honduras/61c59c18823fe4.10842317-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/honduras/61c59c18823fe4.10842317-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "reverse": {
+    "description": "Value within Laurel Wreath",
+    "lettering": "DIEZ 10 CENTAVOS DE LEMPIRA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Ten\r\n10\r\nCentavos\r\nof a\r\nLempira",
+    "picture": "https://en.numista.com/catalogue/photos/honduras/61c59c18d353a6.37550389-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/honduras/61c59c18d353a6.37550389-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "comments": "<p>1. Lempira, the present currency of Honduras, was introduced in 1931 replacing the Peso. The Lempira is divided into 100 Centavos.<br><br>The currency is named after Lempira, a chieftain of the indigenous Lenca people, who waged war against Spanish occupation of the country during the 16th century. He is revered as a national hero.<br><br>2. Sept. 15, 1821, within the Coat of Arms commemorates the day when 5 Central American countries including Honduras gained independence from Spanish rule. 15th Sept is celebrated as the National Day of Honduras.</p><p>&nbsp;</p><p>1995 KM# 76.3 Date Sizes</p><p><a href=\"https://en.numista.com/catalogue/images/65fa02511d063.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/65fa02511d063.jpg\"></a></p><p>&nbsp;</p><p>Km#76.1a, Km#76.2a, km#76.3 and km#76.4 differences</p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/66d4a6e07dae1.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/66d4a6e07dae1.jpg\"></a></p>",
+  "tags": [
+    "Coat of Arms",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "76.2a"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "76.3"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "76.4"
+    }
+  ],
+  "weight": 6,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/honduras/68f57854a026c8.24833861-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/honduras/68f57854a026c8.24833861-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    },
+    {
+      "id": 23,
+      "name": "Royal Dutch Mint"
+    },
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    },
+    {
+      "id": 4175,
+      "name": "Vereinigte Deutsche Nickelwerke"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

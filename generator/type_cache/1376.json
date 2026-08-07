@@ -1,0 +1,129 @@
+{
+  "id": 1376,
+  "url": "https://en.numista.com/1376",
+  "title": "20 Pence - Elizabeth II (3rd portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1985,
+  "max_year": 1997,
+  "ruler": [
+    {
+      "id": 275,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 527,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "20 Pence",
+    "numeric_value": 0.2,
+    "currency": {
+      "id": 126,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (decimalized, 1971-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21.4,
+  "thickness": 1.7,
+  "shape": "Equilateral curve heptagon (7-sided)",
+  "composition": {
+    "text": "Copper-nickel (84% Cu, 16% Ni)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Raphael David Maklouf"
+    ],
+    "description": "Third crowned portrait of Queen Elizabeth II right, wearing the George IV State Diadem, legend around.\r\n\r\nNote: varieties exist, see below",
+    "lettering": "ELIZABETH II\r\nRDM\r\nD·G·REG·F·D·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Elizabeth II Dei Gratia Regina Fidei Defensatrix",
+    "lettering_translation": "Elizabeth II by the Grace of God Queen Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/68f0654fd16294.15666831-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/68f0654fd16294.15666831-180.jpg",
+    "picture_copyright": "riversxian",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "William Maving Gardner"
+    ],
+    "description": "Crowned Tudor rose dividing date and legend, denomination below.",
+    "lettering": "TWENTY PENCE\r\n19 97\r\nW G\r\n20",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/68f065525a6c20.72595044-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/68f065525a6c20.72595044-180.jpg",
+    "picture_copyright": "riversxian",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "The 1986 strike was not issued for circulation and only issued as part of the Annual Coin Sets in both Brilliant Uncirculated &amp; Proof versions.<br /><br />\r\n<span style=\"font-style:italic;\">Obverse varieties:</span><br /><br />\r\nAn obverse die design change occurred part way through 1992.<br /><br />\r\n<span style=\"font-weight:bold;\">1985-1992</span> slightly smaller portrait;<br />\r\n<span style=\"font-weight:bold;\">1992-1997</span> slightly larger portrait;<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5b689949f17ca.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5b689949f17ca.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a> <a href=\"https://en.numista.com/catalogue/images/5b68997568ab7.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5b68997568ab7.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a> <a href=\"https://en.numista.com/catalogue/images/5b68999c8c729.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5b68999c8c729.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nInformation has been received to suggest that 1992 BU and Proof sets bear the large portrait but this is yet to be confirmed.<br /><br />\r\n1997 has small varieties in the design of the portrait.",
+  "related_types": [
+    {
+      "id": 49637,
+      "title": "20 Pence - Elizabeth II (3rd portrait; Silver Proof)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1996,
+      "maxYear": 1996
+    }
+  ],
+  "tags": [
+    "Flower"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "939"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "G2"
+    }
+  ],
+  "weight": 5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

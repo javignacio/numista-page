@@ -1,0 +1,143 @@
+{
+  "id": 4127,
+  "url": "https://en.numista.com/4127",
+  "title": "1 Øre - Haakon VII",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "norvege",
+    "name": "Norway"
+  },
+  "min_year": 1908,
+  "max_year": 1952,
+  "ruler": [
+    {
+      "id": 449,
+      "name": "Haakon VII",
+      "wikidata_id": "Q154927",
+      "group": {
+        "id": 358,
+        "name": "House of Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Øre",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 16,
+      "name": "Krone",
+      "full_name": "Krone (1875-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1975-01-01"
+  },
+  "size": 16,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze (Cu 95%, Sn 4%, Zn 1%)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Crowned monogram of Haakon VII, in a solid ring. Surrounded by inscription. Solid ring on the rim.",
+    "lettering": "⸰KONGERIKET⸰NORGE⸰\r\nH7",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Kingdom of Norway",
+    "picture": "https://en.numista.com/catalogue/photos/norvege/65b7bc0ced9db6.89624709-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/65b7bc0ced9db6.89624709-180.jpg",
+    "picture_copyright": "Oslo Myntgalleri",
+    "picture_copyright_url": "http://www.oslomyntgalleri.no"
+  },
+  "reverse": {
+    "description": "Value and date in three lines. A triskelion on each side of the value and below the date. Date divided by mintmark. Solid ring on the rim.",
+    "lettering": "1\r\nØRE\r\n19 ⚒ 08",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/norvege/65b7bc0e677d56.38306398-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/65b7bc0e677d56.38306398-180.jpg",
+    "picture_copyright": "Oslo Myntgalleri",
+    "picture_copyright_url": "http://www.oslomyntgalleri.no"
+  },
+  "comments": "<p>There are two other types of the King Haakon period 1 Øre. Composition change to iron during the First and Second World War (see attached links) along with removal of the monogram during the German occupation.</p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/6747317972c8b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6747317972c8b.jpg\"></a><br><a href=\"https://en.numista.com/catalogue/images/6747335d6abea.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6747335d6abea.jpg\"></a></p><p><a href=\"https://en.numista.com/catalogue/images/674734d04ff95.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/674734d04ff95.jpg\"></a></p><p><a href=\"https://en.numista.com/catalogue/images/68634cf1cf033.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/68634cf1cf033.jpg\"></a><br><a href=\"https://en.numista.com/catalogue/images/6240568113e32.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6240568113e32.jpg\" alt=\"\"></a></p><p><a href=\"https://en.numista.com/catalogue/images/6747392d9aac3.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6747392d9aac3.jpg\"></a></p><p><a href=\"https://en.numista.com/catalogue/images/67473b3476528.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67473b3476528.jpg\"></a></p><p><a href=\"https://en.numista.com/catalogue/images/68635a1e47f27.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/68635a1e47f27.jpg\"></a></p><p><a href=\"https://en.numista.com/catalogue/images/68635a0f64910.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/68635a0f64910.jpg\"></a></p><p><a href=\"https://en.numista.com/catalogue/images/686484bf434ba.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686484bf434ba.jpg\"></a></p><p><a href=\"https://en.numista.com/catalogue/images/68653ae3b2c04.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/68653ae3b2c04.jpg\"></a></p><p><a href=\"https://en.numista.com/catalogue/images/68a55ac026b98.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/68a55ac026b98.jpg\"></a></p><p><a href=\"https://en.numista.com/catalogue/images/674747370680d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/674747370680d.jpg\"></a></p><p><a href=\"https://en.numista.com/catalogue/images/68654d33b02f9.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/68654d33b02f9.jpg\"></a></p>",
+  "related_types": [
+    {
+      "id": 19873,
+      "title": "1 Øre - Haakon VII",
+      "category": "coin",
+      "country": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "minYear": 1918,
+      "maxYear": 1921
+    },
+    {
+      "id": 5440,
+      "title": "1 Øre (German Occupation Coinage)",
+      "category": "coin",
+      "country": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "minYear": 1941,
+      "maxYear": 1945
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "367"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "17"
+    },
+    {
+      "catalogue": {
+        "id": 201,
+        "code": "Rønning"
+      },
+      "number": "263"
+    },
+    {
+      "catalogue": {
+        "id": 201,
+        "code": "Rønning"
+      },
+      "number": "279"
+    }
+  ],
+  "weight": 2,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain."
+  },
+  "mints": [
+    {
+      "id": 1888,
+      "name": "Norwegian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

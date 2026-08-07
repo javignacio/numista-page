@@ -1,0 +1,115 @@
+{
+  "id": 61885,
+  "url": "https://en.numista.com/61885",
+  "title": "2 Grosze (magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "pologne",
+    "name": "Poland"
+  },
+  "min_year": 2013,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 3739,
+      "name": "Third Republic",
+      "wikidata_id": "Q1259201"
+    }
+  ],
+  "value": {
+    "text": "2 Groszys",
+    "numeric_value": 0.02,
+    "currency": {
+      "id": 200,
+      "name": "Fourth Zloty",
+      "full_name": "Fourth Zloty (1995-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 17.5,
+  "thickness": 1.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Sebastian Mikołajczyk"
+    ],
+    "description": "Polish eagle (state emblem) with stylized rings intersecting at top and split at bottom by date.",
+    "lettering": "♱\r\nRZECZPOSPOLITA POLSKA\r\n2014",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Poland",
+    "picture": "https://en.numista.com/catalogue/photos/pologne/628111a3dc1096.57561489-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pologne/628111a3dc1096.57561489-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "reverse": {
+    "designers": [
+      "Ewa Tyc-Karpińska"
+    ],
+    "description": "Twig with oak leaf over denomination.",
+    "lettering": "2 \r\nGROSZE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/pologne/628111a42def89.76362254-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pologne/628111a42def89.76362254-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "comments": "Design differences between the two versions:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5a55a28a644b1.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5a55a28a644b1.png\" alt=\"\" width=\"200\" height=\"98\" /></a>",
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "924"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "802"
+    }
+  ],
+  "weight": 2.13,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/pologne/6159d5baa75d90.60696871-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pologne/6159d5baa75d90.60696871-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    },
+    {
+      "id": 27,
+      "name": "Mint of Poland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

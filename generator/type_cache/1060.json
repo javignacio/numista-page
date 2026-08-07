@@ -1,0 +1,118 @@
+{
+  "id": 1060,
+  "url": "https://en.numista.com/1060",
+  "title": "20 Pennia",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "finlande",
+    "name": "Finland"
+  },
+  "min_year": 1963,
+  "max_year": 1990,
+  "ruler": [
+    {
+      "id": 3291,
+      "name": "Republic",
+      "wikidata_id": "Q33"
+    }
+  ],
+  "value": {
+    "text": "20 Pennia",
+    "numeric_value": 0.2,
+    "currency": {
+      "id": 133,
+      "name": "New Markka",
+      "full_name": "New Markka (1963-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2002-02-28"
+  },
+  "size": 22,
+  "thickness": 1.75,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze (93% Copper, 5% Aluminium, 2% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Allan Alarik Soiniemi"
+    ],
+    "description": "Coat of Arms.\r\nMint official's initial is below sword handle.",
+    "lettering": "SUOMEN TASAVALTA \r\nK\r\n* 1976 *",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "REPUBLIC OF FINLAND\r\nK\r\n* 1976 *",
+    "picture": "https://en.numista.com/catalogue/photos/finlande/155-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/155-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Value, pine tree.",
+    "lettering": "20 \r\nPENNIÄ",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/finlande/156-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/156-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "<p><a href=\"https://en.numista.com/catalogue/images/6947f66456e39.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6947f66456e39.jpg\"></a></p>",
+  "tags": [
+    "Cat or feline",
+    "Tree",
+    "Coat of Arms",
+    "Cold weapons"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "47"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "54"
+    }
+  ],
+  "weight": 4.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/finlande/614da286bd70d6.02782812-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/614da286bd70d6.02782812-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 1333,
+      "name": "Mint of Finland"
+    },
+    {
+      "id": 1334,
+      "name": "Mint of Finland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

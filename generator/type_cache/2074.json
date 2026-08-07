@@ -1,0 +1,135 @@
+{
+  "id": 2074,
+  "url": "https://en.numista.com/2074",
+  "title": "20 Zlotys (Marceli Nowotko)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "pologne",
+    "name": "Poland"
+  },
+  "min_year": 1974,
+  "max_year": 1983,
+  "ruler": [
+    {
+      "id": 3738,
+      "name": "Polish People's Republic",
+      "wikidata_id": "Q211274"
+    }
+  ],
+  "value": {
+    "text": "20 Zlotys",
+    "numeric_value": 20,
+    "currency": {
+      "id": 199,
+      "name": "Third Zloty",
+      "full_name": "Third Zloty (1949-1994)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1974-03-29"
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1995-01-01"
+  },
+  "size": 29,
+  "thickness": 2.11,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Stanisława Wątróbska-Frindt"
+    ],
+    "description": "The White Eagle, national coat of arms of Poland.\r\nMint mark, if present, under left talon.",
+    "lettering": "POLSKA RZECZPOSPOLITA LUDOWA \r\n19 76\r\n◆ ZŁ 20 ZŁ ◆",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Polish People's Republic",
+    "picture": "https://en.numista.com/catalogue/photos/pologne/46-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pologne/46-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Stanisława Wątróbska-Frindt"
+    ],
+    "description": "Portrait of Marceli Nowotko (1893-1942).",
+    "lettering": "MARCELI NOWOTKO\r\n◆ 1893 ◆ 1942 ◆",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/pologne/45-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pologne/45-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "<p><a href=\"https://en.numista.com/catalogue/images/5c87c49a23d9e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5c87c49a23d9e.jpg\" alt=\"\"></a><br><br><a href=\"https://en.numista.com/catalogue/images/5da03ab89d95f.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5da03ab89d95f.jpg\" alt=\"\"></a></p>",
+  "tags": [
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "69"
+    },
+    {
+      "catalogue": {
+        "id": 165,
+        "code": "ParM"
+      },
+      "number": "246"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "64"
+    },
+    {
+      "catalogue": {
+        "id": 166,
+        "code": "Fischer Po"
+      },
+      "number": "OB071"
+    }
+  ],
+  "weight": 10.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/pologne/607c39c4d6bcd0.09154409-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pologne/607c39c4d6bcd0.09154409-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 1262,
+      "name": "Kremnica"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

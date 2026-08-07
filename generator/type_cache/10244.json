@@ -1,0 +1,104 @@
+{
+  "id": 10244,
+  "url": "https://en.numista.com/10244",
+  "title": "1 Cruzeiro (FAO)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "bresil",
+    "name": "Brazil"
+  },
+  "min_year": 1985,
+  "max_year": 1985,
+  "ruler": [
+    {
+      "id": 2684,
+      "name": "Federative Republic of Brazil",
+      "wikidata_id": "Q155"
+    }
+  ],
+  "value": {
+    "text": "1 Cruzeiro",
+    "numeric_value": 1,
+    "currency": {
+      "id": 206,
+      "name": "Cruzeiro novo",
+      "full_name": "Cruzeiro novo (1967-1986)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 20,
+  "thickness": 1.4,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Sugar canes",
+    "lettering": "BRASIL\r\nALIMENTOS PARA O MUNDO\r\naçucar",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Brazil\r\nFood for the World\r\nsugar",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/627bfe8b77a174.67858529-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/627bfe8b77a174.67858529-180.jpg",
+    "picture_copyright": "World Coin Gallery",
+    "picture_copyright_url": "http://worldcoingallery.com"
+  },
+  "reverse": {
+    "description": "Value, ribbon behind value",
+    "lettering": "1 \r\nCRUZEIRO \r\n1985",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bresil/627bfe8baf2717.06089490-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/627bfe8baf2717.06089490-180.jpg",
+    "picture_copyright": "World Coin Gallery",
+    "picture_copyright_url": "http://worldcoingallery.com"
+  },
+  "commemorated_topic": "F.A.O.",
+  "tags": [
+    "FAO"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "598"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "107"
+    },
+    {
+      "catalogue": {
+        "id": 1678,
+        "code": "Bentes"
+      },
+      "number": "730"
+    }
+  ],
+  "weight": 2.8,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

@@ -1,0 +1,99 @@
+{
+  "id": 2755,
+  "url": "https://en.numista.com/2755",
+  "title": "10 Yeni Kuruş",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "turquie",
+    "name": "Turkey"
+  },
+  "min_year": 2005,
+  "max_year": 2008,
+  "ruler": [
+    {
+      "id": 2047,
+      "name": "Republic",
+      "wikidata_id": "Q43"
+    }
+  ],
+  "value": {
+    "text": "10 Kuruş",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 125,
+      "name": "New lira",
+      "full_name": "New lira (2005-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2009-01-01"
+  },
+  "size": 19.25,
+  "thickness": 1.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass (65% Copper, 18% Nickel, 17% Zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Bust of Mustafa Kemal Atatürk.",
+    "lettering": "TÜRKİYE CUMHURİYETİ",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Turkey",
+    "picture": "https://en.numista.com/catalogue/photos/turquie/63bad76c27dca0.67322928-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/turquie/63bad76c27dca0.67322928-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "reverse": {
+    "description": "A crescent moon and a star, the face value.",
+    "lettering": "10\r\nYENİ\r\nKURUŞ\r\n2006",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "10 NEW KURUŞ",
+    "picture": "https://en.numista.com/catalogue/photos/turquie/63bad76ca7f2b4.82889779-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/turquie/63bad76ca7f2b4.82889779-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "tags": [
+    "Politician",
+    "Moon"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1166"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "736"
+    }
+  ],
+  "weight": 3.8,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

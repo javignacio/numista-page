@@ -1,0 +1,133 @@
+{
+  "id": 2082,
+  "url": "https://en.numista.com/2082",
+  "title": "2 Heller",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "autriche-habsbourg",
+    "name": "Austrian Empire"
+  },
+  "min_year": 1892,
+  "max_year": 1915,
+  "ruler": [
+    {
+      "id": 754,
+      "name": "Francis Joseph I",
+      "wikidata_id": "Q51056",
+      "nomisma_id": "franz_joseph",
+      "group": {
+        "id": 66,
+        "name": "House of Habsburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "2 Hellers",
+    "numeric_value": 0.02,
+    "currency": {
+      "id": 214,
+      "name": "Crown",
+      "full_name": "Crown (1892-1918)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 19,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze (Cu 950, Sn 40, Zn 10)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Anton Scharf",
+      "Andreas Neudeck"
+    ],
+    "description": "The 1867–1915 coat of arms of Austria-Hungary, a double-headed imperial eagle with Habsburg-Lorraine shield on breast.",
+    "picture": "https://en.numista.com/catalogue/photos/autriche-habsbourg/5e931ed96c2190.61119943-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/autriche-habsbourg/5e931ed96c2190.61119943-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "reverse": {
+    "engravers": [
+      "Anton Scharf",
+      "Andreas Neudeck"
+    ],
+    "description": "Value above twigs, date below, within an art nouveau style frame.",
+    "lettering": "2\r\n1904",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/autriche-habsbourg/5e931ed9ad8485.77995545-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/autriche-habsbourg/5e931ed9ad8485.77995545-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "related_types": [
+    {
+      "id": 5969,
+      "title": "2 Heller",
+      "category": "coin",
+      "country": {
+        "code": "autriche-habsbourg",
+        "name": "Austrian Empire"
+      },
+      "minYear": 1916,
+      "maxYear": 1918
+    },
+    {
+      "id": 4679,
+      "title": "2 Fillér",
+      "category": "coin",
+      "country": {
+        "code": "hongrie",
+        "name": "Hungary"
+      },
+      "minYear": 1892,
+      "maxYear": 1915
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Eagle",
+    "Crown",
+    "Coat of Arms",
+    "Double-headed eagle",
+    "Globus cruciger",
+    "Wreath",
+    "Cold weapons"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "2801"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "4"
+    }
+  ],
+  "weight": 3.35,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/autriche-habsbourg/61536eccec7e01.60565500-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/autriche-habsbourg/61536eccec7e01.60565500-180.jpg"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

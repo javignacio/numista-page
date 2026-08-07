@@ -1,0 +1,115 @@
+{
+  "id": 6599,
+  "url": "https://en.numista.com/6599",
+  "title": "5 Markkaa",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "finlande",
+    "name": "Finland"
+  },
+  "min_year": 1928,
+  "max_year": 1946,
+  "ruler": [
+    {
+      "id": 3291,
+      "name": "Republic",
+      "wikidata_id": "Q33"
+    }
+  ],
+  "value": {
+    "text": "5 Markkaa",
+    "numeric_value": 5,
+    "currency": {
+      "id": 1156,
+      "name": "Markka",
+      "full_name": "Markka (1860-1963)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 23,
+  "thickness": 1.65,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Isak Gustaf Sundell"
+    ],
+    "description": "Shielded coat of arms of Finland within spruce wreath - a rampant lion left with the right foreleg replaced with an armoured hand brandishing a sword, trampling on a sabre with the hindpaws. \r\nDate divided by wreath below.",
+    "lettering": "19 37",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/finlande/62efb6793fff97.78196347-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/62efb6793fff97.78196347-180.jpg",
+    "picture_copyright": "gyoschak",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Isak Gustaf Sundell"
+    ],
+    "description": "Denomination divided by wreath.",
+    "lettering": "SUOMEN TASAVALTA\r\n5 MARKKAA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Finland\r\n5 Markkaa",
+    "picture": "https://en.numista.com/catalogue/photos/finlande/62efb679a6c935.77029252-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/62efb679a6c935.77029252-180.jpg",
+    "picture_copyright": "gyoschak",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/603ce7f5349e8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/603ce7f5349e8.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "tags": [
+    "Cat or feline",
+    "Flower",
+    "Coat of Arms",
+    "Wreath",
+    "Cold weapons"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "31"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "24"
+    }
+  ],
+  "weight": 4.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 1333,
+      "name": "Mint of Finland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

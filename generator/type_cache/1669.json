@@ -1,0 +1,130 @@
+{
+  "id": 1669,
+  "url": "https://en.numista.com/1669",
+  "title": "10 Cents (ribbon upwards)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "singapour",
+    "name": "Singapore"
+  },
+  "min_year": 1985,
+  "max_year": 1991,
+  "ruler": [
+    {
+      "id": 906,
+      "name": "Republic",
+      "wikidata_id": "Q334"
+    }
+  ],
+  "value": {
+    "text": "10 Cents",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 55,
+      "name": "Dollar",
+      "full_name": "Dollar (1967-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 18.5,
+  "thickness": 1.38,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Christopher Ironside"
+    ],
+    "description": "The arms of Singapore with the date underneath and 'Singapore' on four sides in English, Tamil, Chinese, and Malay",
+    "lettering": "SINGAPURA \r\nசிங்கப்பூர் 新加坡\r\n1989\r\nSINGAPORE",
+    "lettering_scripts": [
+      {
+        "name": "Chinese (simplified)"
+      },
+      {
+        "name": "Latin"
+      },
+      {
+        "name": "Tamil"
+      }
+    ],
+    "lettering_translation": "Singapore",
+    "picture": "https://en.numista.com/catalogue/photos/singapour/693fded516b5b2.88927403-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/singapour/693fded516b5b2.88927403-180.jpg",
+    "picture_copyright": "petrus.numismata"
+  },
+  "reverse": {
+    "engravers": [
+      "Christopher Ironside"
+    ],
+    "description": "A star jasmine plant with three flowers (also known as downy jasmine, winter jasmine, star jasmine, Binomial Name: Jasminum multiflorum) above the denomination in numerals and the denomination in English above",
+    "lettering": "TEN CENTS\r\n10",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/singapour/693fded59b0e91.72089478-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/singapour/693fded59b0e91.72089478-180.jpg",
+    "picture_copyright": "petrus.numismata"
+  },
+  "related_types": [
+    {
+      "id": 1674,
+      "title": "10 Cents (ribbon downwards)",
+      "category": "coin",
+      "country": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "minYear": 1992,
+      "maxYear": 2013
+    }
+  ],
+  "tags": [
+    "Cat or feline",
+    "Flower",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "51"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "41"
+    }
+  ],
+  "weight": 2.6,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/singapour/1854-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/singapour/1854-180.jpg",
+    "picture_copyright": "Saber82"
+  },
+  "mints": [
+    {
+      "id": 25,
+      "name": "Singapore Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

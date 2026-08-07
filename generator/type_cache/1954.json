@@ -1,0 +1,142 @@
+{
+  "id": 1954,
+  "url": "https://en.numista.com/1954",
+  "title": "10 Pfennigs (type 2 - small shield; without mintmarks)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "allemagne-pre1945",
+    "name": "Germany (1871-1948)"
+  },
+  "min_year": 1917,
+  "max_year": 1922,
+  "ruler": [
+    {
+      "id": 2862,
+      "name": "William II",
+      "wikidata_id": "Q2677",
+      "group": {
+        "id": 699,
+        "name": "House of Hohenzollern"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Pfennigs",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 233,
+      "name": "Mark",
+      "full_name": "Mark (1873-1923)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1924-10-11"
+  },
+  "size": 21,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Zinc (Zn 1000)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of Arms (Imperial eagle with small shield); the border has approximately 100 very small dots.",
+    "picture": "https://en.numista.com/catalogue/photos/allemagne-pre1945/60d5de8d361a54.15328403-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/allemagne-pre1945/60d5de8d361a54.15328403-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "reverse": {
+    "description": "Value in centre, denomination below. Lettering above. Date at bottom",
+    "lettering": "• DEUTSCHES REICH •\r\n10\r\nPFENNIG\r\n1921",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "German Empire\r\nPfennig",
+    "picture": "https://en.numista.com/catalogue/photos/allemagne-pre1945/60d5de8d92e236.26609442-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/allemagne-pre1945/60d5de8d92e236.26609442-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "comments": "1─ Weight varieties exist. 2─There are no date letters at the bottom. 3─As this coin is zinc it is not magnetic.",
+  "related_types": [
+    {
+      "id": 6078,
+      "title": "10 Pfennigs - Wilhelm I (type 1 - large shield)",
+      "category": "coin",
+      "country": {
+        "code": "allemagne-pre1945",
+        "name": "Germany (1871-1948)"
+      },
+      "minYear": 1873,
+      "maxYear": 1889
+    },
+    {
+      "id": 1915,
+      "title": "10 Pfennigs - Wilhelm II (type 2 - small shield)",
+      "category": "coin",
+      "country": {
+        "code": "allemagne-pre1945",
+        "name": "Germany (1871-1948)"
+      },
+      "minYear": 1890,
+      "maxYear": 1916
+    },
+    {
+      "id": 1953,
+      "title": "10 Pfennigs - Wilhelm II (type 2 - small shield; beaded border)",
+      "category": "coin",
+      "country": {
+        "code": "allemagne-pre1945",
+        "name": "Germany (1871-1948)"
+      },
+      "minYear": 1916,
+      "maxYear": 1922
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "26"
+    },
+    {
+      "catalogue": {
+        "id": 81,
+        "code": "AKS"
+      },
+      "number": "14"
+    },
+    {
+      "catalogue": {
+        "id": 80,
+        "code": "J"
+      },
+      "number": "299"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "23"
+    }
+  ],
+  "weight": 3.226,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/allemagne-pre1945/697a4849570f13.36218372-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/allemagne-pre1945/697a4849570f13.36218372-180.jpg"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

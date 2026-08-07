@@ -1,0 +1,130 @@
+{
+  "id": 794,
+  "url": "https://en.numista.com/794",
+  "title": "10 Pesetas - Juan Carlos I (Type 1 denomination)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "espagne",
+    "name": "Spain"
+  },
+  "min_year": 1983,
+  "max_year": 1985,
+  "ruler": [
+    {
+      "id": 151,
+      "name": "Juan Carlos I",
+      "wikidata_id": "Q19943",
+      "group": {
+        "id": 44,
+        "name": "House of Bourbon"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Pesetas",
+    "numeric_value": 10,
+    "currency": {
+      "id": 142,
+      "name": "Peseta",
+      "full_name": "Peseta (1868-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2002-02-28"
+  },
+  "size": 18.5,
+  "thickness": 1.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% copper, 25% nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Manuel Martínez Tornero"
+    ],
+    "description": "Head of King Juan Carlos I facing left.",
+    "lettering": "JUAN CARLOS I REY DE ESPAÑA\r\n· 1984 ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Juan Carlos I King of Spain",
+    "picture": "https://en.numista.com/catalogue/photos/espagne/674ec3323beb37.10363762-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/674ec3323beb37.10363762-180.jpg",
+    "picture_copyright": "Elvi75"
+  },
+  "reverse": {
+    "engravers": [
+      "Manuel Martínez Tornero"
+    ],
+    "description": "Coat of arms of Spain with Pillars of Hercules.",
+    "lettering": "DIEZ\r\nPLUS ULTRA\r\nM \r\nPESETAS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Ten Pesetas\r\nFurther beyond",
+    "picture": "https://en.numista.com/catalogue/photos/espagne/674ec333800818.91902242-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/674ec333800818.91902242-180.jpg",
+    "picture_copyright": "Elvi75"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/5d8c56ba28f9b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d8c56ba28f9b.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "related_types": [
+    {
+      "id": 795,
+      "title": "10 Pesetas - Juan Carlos I (Type 2 denomination)",
+      "category": "coin",
+      "country": {
+        "code": "espagne",
+        "name": "Spain"
+      },
+      "minYear": 1992,
+      "maxYear": 1992
+    }
+  ],
+  "tags": [
+    "Mythology",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "827"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "54"
+    }
+  ],
+  "weight": 4,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/espagne/3396-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/3396-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 24,
+      "name": "Royal Mint of Madrid"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

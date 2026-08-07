@@ -1,0 +1,120 @@
+{
+  "id": 470653,
+  "url": "https://en.numista.com/470653",
+  "title": "50 Colones (Hawksbill turtle)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "costa_rica",
+    "name": "Costa Rica"
+  },
+  "issuing_entity": {
+    "id": 907,
+    "name": "Central Bank of Costa Rica",
+    "wikidata_id": "Q4504273"
+  },
+  "min_year": 2023,
+  "max_year": 2023,
+  "ruler": [
+    {
+      "id": 3834,
+      "name": "Second Republic",
+      "wikidata_id": "Q800"
+    }
+  ],
+  "value": {
+    "text": "50 Colones",
+    "numeric_value": 50,
+    "currency": {
+      "id": 10,
+      "name": "Colón",
+      "full_name": "Colón (1896-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2025-05-26"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24.5,
+  "thickness": 1.75,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Value at centre, with country name above",
+    "lettering": "REPUBLICA DE COSTA RICA\r\nBANCO CENTRAL DE COSTA RICA\r\n50\r\nCOLONES",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Costa Rica\r\nCentral Bank of Costa Rica",
+    "picture": "https://en.numista.com/catalogue/photos/costa_rica/68422d52125bd9.06871814-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/costa_rica/68422d52125bd9.06871814-180.jpg",
+    "picture_copyright": "Generic_User_Name",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Hawksbill turtle at centre with legend above and below, data at left",
+    "lettering": "ARRECIFE CORALINO\r\n2023\r\nTortuga carey\r\nEretmochelys imbricata",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Coral reef\r\nHawksbill turtle\r\nHawksbill turtle",
+    "picture": "https://en.numista.com/catalogue/photos/costa_rica/68422d52eb1fa8.73440504-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/costa_rica/68422d52eb1fa8.73440504-180.jpg",
+    "picture_copyright": "Generic_User_Name",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "series": "Costa Rican Fauna",
+  "commemorated_topic": "Hawksbill turtle",
+  "related_types": [
+    {
+      "id": 443357,
+      "title": "50 Colones (Hawksbill turtle; colourized)",
+      "category": "coin",
+      "country": {
+        "code": "costa_rica",
+        "name": "Costa Rica"
+      },
+      "minYear": 2023,
+      "maxYear": 2023
+    }
+  ],
+  "tags": [
+    "Turtle or tortoise",
+    "Sea",
+    "Map"
+  ],
+  "weight": 5.54,
+  "orientation": "coin",
+  "edge": {
+    "description": "Interrupted reeding",
+    "picture": "https://en.numista.com/catalogue/photos/costa_rica/697e21ac4f4442.98950522-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/costa_rica/697e21ac4f4442.98950522-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 27,
+      "name": "Mint of Poland"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

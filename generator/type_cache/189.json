@@ -1,0 +1,165 @@
+{
+  "id": 189,
+  "url": "https://en.numista.com/189",
+  "title": "2 Francs (Helvetia standing; copper-nickel)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "suisse",
+    "name": "Switzerland (1848-date)"
+  },
+  "min_year": 1968,
+  "max_year": 2026,
+  "ruler": [
+    {
+      "id": 2857,
+      "name": "Federal State",
+      "wikidata_id": "Q355857"
+    }
+  ],
+  "value": {
+    "text": "2 Francs",
+    "numeric_value": 2,
+    "currency": {
+      "id": 82,
+      "name": "Franc",
+      "full_name": "Franc (1850-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 27.4,
+  "thickness": 2.15,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% copper, 25% nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Antoine Bovy"
+    ],
+    "designers": [
+      "Albert Walch"
+    ],
+    "description": "Full-length figure of Helvetia, standing, facing left, wearing toga, holding spear in right hand, and supporting shield with coat of arms of Switzerland with left hand. 22 stars around, representing the 22 cantons of the Swiss confederation. In 1983, a 23rd star was added for the Canton of Jura, which was founded in 1979.",
+    "lettering": "HELVETIA \r\nA . BOVY INCᵀ.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Antoine Bovy incidit.",
+    "lettering_translation": "Engraved by Antoine Bovy.",
+    "picture": "https://en.numista.com/catalogue/photos/suisse/67b2378a58d4b9.46480027-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suisse/67b2378a58d4b9.46480027-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "reverse": {
+    "engravers": [
+      "Antoine Bovy"
+    ],
+    "designers": [
+      "Friedrich Fisch"
+    ],
+    "description": "Wreath formed of oak and alpine rose branches tied with a ribbon below.",
+    "lettering": "2 Fr. \r\n1980",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/suisse/67b2378ad93af2.41901042-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suisse/67b2378ad93af2.41901042-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "series": "Helvetia standing series",
+  "comments": "<p><strong>Switch from silver to copper-nickel</strong><br>This copper-nickel 2 franc coin replaced the <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.numista.com/188\">silver pieces minted between 1874-1967</a>. In 1967, the price of silver soared steeply, reaching 260 francs per kilogram in August and 350 francs per kilogram in March 1968. At this time, the melt value of the <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.numista.com/188\">silver 2 franc</a> pieces was circa 2.92 francs, exceeding their face value. Switzerland started to experience a severe shortage of cash, especially in the north, where coins were exported to Germany to be melted. In spite of strict measures against hoarding and melting coins, around 100 tonnes of silver in 1⁄2, 1, and 2 franc coins were melted. The crisis alleviated in 1968, when coins in copper-nickel started to be minted in double shifts in Bern, around 1.5 million per day. The coins were released on 10 May 1968 and the old silver coins were withdrawn on 1 April 1971.<br><br><strong>Mints</strong><br>The mint in Bern did not have enough capacity to timely substitute around half a billion silver coins in circulation in 1968 with new copper-nickel pieces. Therefore, the Royal Mint in London was contracted to supplement production in 1968-1970. The 2 franc coins dated 1968 were produced between 11-17 July. Around 500 000 early coins produced in London were rejected by the Swiss, who were dissatisfied with the dull grey colour and the quality of the milled edge. Four Swiss experts were sent to London to ensure quality control.<br><br><strong>Mintmarks</strong><br>Coins dated 1968 without mintmark were minted in London, and they can be easily distinguished from the coins minted in Bern, which bear the B mintmark. At the time, opportunistic collectors tried to sell the coins with no mintmark as rare mint errors, which was not the case, given that 10 000 000 two franc pieces had already been minted in London. In order to address these deceiving practices, the mint in Bern dropped the B mintmark after 1970 and until 1985.<br><br><strong>Alignment</strong><br>Coins dated 1968-1981 have coin alignment.<br>Coins dated after 1982 have medal alignment.<br><br><strong>Helvetia</strong><br>Helvetia (after the neo-Latin name of Switzerland) is an allegorical female figure symbolizing the Swiss Confederation. Helvetia is a derivation of the ethnonym Helvetii, the name of the Gaulish tribe inhabiting the Swiss Plateau before the Roman conquest. The first documented use of the allegory dates from 1642, in Matthäus Merian's \"<i>Topographia</i>\", after which it gradually replaced the earlier convention of representing Switzerland as a bull.<br><br><strong>Sources&nbsp;</strong><br>Georg Kreis; 1991. \"<i>Helvetia - through the ages. The story of a national figurehead</i>\". Verlag Neue Zürcher Zeitung, Zürich. ISBN 3858233161.<br>Ruedi Kunzmann; 2002. \"<i>Die Silbermünzenkrise der Schweiz von 1968 und die Tätigkeit der Royal Mint, London</i>\". Schweizer Münzblätter, volume 50-52, page 68-72.<br>&nbsp;</p><p><a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.numista.com/catalogue/images/682b253711035.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/682b253711035.jpg\"></a></p>",
+  "related_types": [
+    {
+      "id": 188,
+      "title": "2 Francs (Helvetia standing; silver)",
+      "category": "coin",
+      "country": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "minYear": 1874,
+      "maxYear": 1967
+    }
+  ],
+  "tags": [
+    "Allegory",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 1253,
+        "code": "HMZ 2"
+      },
+      "number": "1202"
+    },
+    {
+      "catalogue": {
+        "id": 962,
+        "code": "Divo/Tob19"
+      },
+      "number": "304a"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "21a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "29a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "59"
+    }
+  ],
+  "weight": 8.8,
+  "orientation": "variable",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/suisse/61f5e74c42a6d0.74417960-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suisse/61f5e74c42a6d0.74417960-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 247,
+      "name": "Bern"
+    },
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    },
+    {
+      "id": 247,
+      "name": "Bern"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

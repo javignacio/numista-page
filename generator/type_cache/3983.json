@@ -1,0 +1,114 @@
+{
+  "id": 3983,
+  "url": "https://en.numista.com/3983",
+  "title": "5 Centai",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "lituanie",
+    "name": "Lithuania"
+  },
+  "min_year": 1991,
+  "max_year": 1991,
+  "ruler": [
+    {
+      "id": 2866,
+      "name": "Republic",
+      "wikidata_id": "Q37"
+    }
+  ],
+  "value": {
+    "text": "5 Centai",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 115,
+      "name": "New litas",
+      "full_name": "New litas (1993-2014)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2015-01-01"
+  },
+  "size": 24.4,
+  "thickness": 1.35,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Petras Garška"
+    ],
+    "description": "The arms of Lithuania above the country name, which is above the date",
+    "lettering": "LIETUVA\r\n1991",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Lithuania\r\n1991",
+    "picture": "https://en.numista.com/catalogue/photos/lituanie/65b66aee032f64.69283331-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/lituanie/65b66aee032f64.69283331-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Petras Garška"
+    ],
+    "description": "The value in large font to the right of an ornament shaped like a wind vane. The central element is a leaf. On top of the ornament is a cross. On the leaf, a decorative element & the two sides have a snake. Below are two small angels blowing trumpets.",
+    "lettering": "5 CENTAI",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/lituanie/65b66aefa99452.29351198-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/lituanie/65b66aefa99452.29351198-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "tags": [
+    "Horse or equine",
+    "Cold weapons"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "87"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "17"
+    }
+  ],
+  "weight": 1.4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/lituanie/6150d0cf7c3d23.54503381-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/lituanie/6150d0cf7c3d23.54503381-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 1332,
+      "name": "Lithuanian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

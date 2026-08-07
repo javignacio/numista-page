@@ -1,0 +1,122 @@
+{
+  "id": 432,
+  "url": "https://en.numista.com/432",
+  "title": "1 Cent - Elizabeth II (2nd portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "canada",
+    "name": "Canada"
+  },
+  "min_year": 1965,
+  "max_year": 1978,
+  "ruler": [
+    {
+      "id": 2095,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 827,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Cent",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 44,
+      "name": "Dollar",
+      "full_name": "Dollar (1858-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 19.05,
+  "thickness": 1.65,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze (98% copper, 0.5% tin, 1.5% zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Arnold Machin"
+    ],
+    "description": "Bust of Queen Elizabeth II, as at 37 years of age, wearing tiara, facing right.",
+    "lettering": "ELIZABETH II D·G·REGINA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "ELIZABETH II DEI GRATIA REGINA",
+    "lettering_translation": "Elizabeth II Queen by the grace of God",
+    "picture": "https://en.numista.com/catalogue/photos/canada/6605838e2918e8.79904749-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/6605838e2918e8.79904749-180.jpg",
+    "picture_copyright": "NumisCorner"
+  },
+  "reverse": {
+    "engravers": [
+      "George Kruger Gray"
+    ],
+    "description": "A maple twig is surrounded with the face value and the inscription \"CANADA\"",
+    "lettering": "1 CENT\r\n1965\r\nCANADA\r\nK·G",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/canada/6605838e9cd6f8.32351399-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/6605838e9cd6f8.32351399-180.jpg",
+    "picture_copyright": "NumisCorner"
+  },
+  "comments": "<p>“In 1964, the British government decided to introduce a more mature portrait of Queen Elizabeth for national and Commonwealth coins. The new portrait design, by Arnold Machin, featured the Queen wearing a diadem instead of a laurel wreath. A copy of the design was sent to Canada and incorporated into the obverse for 1965.” - Standard Charlton Catalogue Volume I</p><p><strong>1965 obverse varieties.</strong> “In 1965, difficulties were encountered in minting the cents, resulting in the introduction of a second variety. The first variety has small pearls at the edge and a flat field; the second variety has large pearls at the edge and a field that rises towards the edge. Another way of distinguishing the two obverses is the position of the “A” in “REGINA” in relation to the edge pearls: on small pearls, it points between two pearls, while on large pearls, it points towards one pearl.” - Standard Charlton catalog Volume I</p><p><strong>1965 reverse varieties.</strong> “In addition, two reverses differing in style from 5 in the date were used in 1965. Obverse and reverse were used in all possible combinations, creating four varieties for the year.” - Standard Charlton catalog Volume I</p><p><a href=\"https://en.numista.com/catalogue/images/6751007308a04.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6751007308a04.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/675100a1af70c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/675100a1af70c.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/675100c0ac3a2.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/675100c0ac3a2.jpg\"></a></p><p>“In 1977, the Mint struck test tokens with a considerably reduced weight and a diameter of 16 mm. The change was prompted by the rising price of copper, which had caused a loss on the production of the 1-cent coin. Unfortunately, the diameter of the token was the same as that used by the Toronto Transit Commission. The conflict resulted in the cancellation of the reduced-diameter cent.” - Standard Charlton Catalogue Volume I</p><p><strong>1978</strong> Composition: 98% copper, 1.75% tin, 0.25% zinc. Thickness (mm): 1.52</p><p><a href=\"https://en.numista.com/catalogue/images/675100d6dc2f9.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/675100d6dc2f9.jpg\"></a></p>",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "59.1"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "59.2"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "58"
+    }
+  ],
+  "weight": 3.24,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/canada/614e03e2357002.89366622-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/614e03e2357002.89366622-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 19,
+      "name": "Royal Canadian Mint of Ottawa"
+    },
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,114 @@
+{
+  "id": 2149,
+  "url": "https://en.numista.com/2149",
+  "title": "5 Korun",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "republique_tcheque",
+    "name": "Czech Republic"
+  },
+  "min_year": 1993,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 1309,
+      "name": "Republic",
+      "wikidata_id": "Q213"
+    }
+  ],
+  "value": {
+    "text": "5 Korun",
+    "numeric_value": 5,
+    "currency": {
+      "id": 19,
+      "name": "Koruna",
+      "full_name": "Koruna (1993-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23,
+  "thickness": 1.85,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Czech Lion, state name 'ČESKÁ REPUBLIKA', and year of issue and mintmark below",
+    "lettering": "ČESKÁ\r\nREPUBLIKA\r\n2017",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Czech Republic",
+    "picture": "https://en.numista.com/catalogue/photos/republique_tcheque/561-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/republique_tcheque/561-180.jpg",
+    "picture_copyright": "Mihajlo Nešić (MihajloNesic)"
+  },
+  "reverse": {
+    "engravers": [
+      "Jiří Harcuba"
+    ],
+    "description": "Depiction of Charles Bridge which crosses Vltava river in Prague, a linden leaf and denomination in a large font",
+    "lettering": "5 Kč\r\nJH",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/republique_tcheque/562-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/republique_tcheque/562-180.jpg",
+    "picture_copyright": "Mihajlo Nešić (MihajloNesic)"
+  },
+  "comments": "Different mintmarks (crowned &quot;b&quot; or &quot;CM&quot; monogram = Bizuterie Jablonec Czech Mint, Maple Leaf = Royal Canadian Mint).<br /><br />\r\nTwo main groups of coinage are known:<br /><br />\r\n<span style=\"font-style:italic;\">Obverse</span><br />\r\nDie <span style=\"font-weight:bold;\">1</span> - thick script, left legs of letters A thinner than the right ones.<br />\r\nDie <span style=\"font-weight:bold;\">2</span> - thin script, both legs of letters A of the same thickness.<br /><br />\r\n<span style=\"font-style:italic;\">Reverse</span><br />\r\nDie <span style=\"font-weight:bold;\">A</span> - pointed numeral &quot;5&quot;, bridge narrow, thick script.<br />\r\nDie <span style=\"font-weight:bold;\">B</span> - pointed numeral &quot;5&quot;, bridge wide, thin script.<br />\r\nDie <span style=\"font-weight:bold;\">C</span> - blunt numeral &quot;5&quot;, bridge wide, thin script.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5fb6e5734e3ab.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5fb6e5734e3ab.jpg\" alt=\"\" width=\"200\" height=\"238\" /></a><br /><br />\r\n<span style=\"font-style:italic;\">Combinations</span><br />\r\n<span style=\"font-weight:bold;\">1</span>+<span style=\"font-weight:bold;\">A</span>: 1993-1997.<br />\r\n<span style=\"font-weight:bold;\">2</span>+<span style=\"font-weight:bold;\">B</span>: 1998-2019.<br />\r\n<span style=\"font-weight:bold;\">2</span>+<span style=\"font-weight:bold;\">C</span>: 2017 See main photo of this article.<br /><br />\r\n<span style=\"font-style:italic;\">Notes.</span><br />\r\n1. Two varieties of Obverse are known in 1995. They differ by mintmark and style of date:<br />\r\n<img src=\"https://en.numista.com/forum/images/56cdf93dab32f.jpg\" alt=\"\" width=\"496\" height=\"169\" /><br />\r\n© Image courtesy of Numismatika Oliver<br />\r\nBoth varieties have the same Reverse die <span style=\"font-weight:bold;\">A</span>.<br /><br />\r\n2. 2007 Issue is claimed by Czech National Bank (ČNB) as a purely set issue, however, these coins are found in general circulation, but they are difficult to find.",
+  "tags": [
+    "Cat or feline",
+    "Bridge"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "8"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "177"
+    }
+  ],
+  "weight": 4.8,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/republique_tcheque/673-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/republique_tcheque/673-180.jpg",
+    "picture_copyright": "CyrusPamelaOne",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    },
+    {
+      "id": 30,
+      "name": "Czech Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

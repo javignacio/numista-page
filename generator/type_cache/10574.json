@@ -1,0 +1,168 @@
+{
+  "id": 10574,
+  "url": "https://en.numista.com/10574",
+  "title": "2 Pounds - Elizabeth II (3rd portrait; Technology)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1997,
+  "max_year": 1997,
+  "ruler": [
+    {
+      "id": 275,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 527,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "2 Pounds",
+    "numeric_value": 2,
+    "currency": {
+      "id": 126,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (decimalized, 1971-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 28.4,
+  "thickness": 2.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: copper-nickel centre in nickel brass ring"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Raphael David Maklouf"
+    ],
+    "description": "Third crowned portrait of Queen Elizabeth II right, wearing the George IV State Diadem, legend around.",
+    "lettering": "ELIZABETH·II·DEI·GRATIA·REGINA·F·D +\r\nRDM",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Elizabeth II Dei Gratia Regina Fidei Defensatrix",
+    "lettering_translation": "Elizabeth II by the Grace of God Queen Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/68f0699e74b167.78719373-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/68f0699e74b167.78719373-180.jpg",
+    "picture_copyright": "riversxian",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Bruce Rushin"
+    ],
+    "description": "Four concentric circles representing the Iron Age, Industrial Revolution, silicon chip and the internet, legend above, date below.",
+    "lettering": "TWO POUNDS\r\nBR\r\n1997",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/68f069a08526a8.08615191-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/68f069a08526a8.08615191-180.jpg",
+    "picture_copyright": "riversxian",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "Issued as part of the Annual Coin Sets for 1997, in both Brilliant Uncirculated (109,557 sales) and Proof versions, while also issued in an individual BU pack (no sales data). The coin was also struck in silver proof, silver piedfort and gold proof.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5ecfd4a63642d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5ecfd4a63642d.jpg\" alt=\"\" width=\"200\" height=\"124\" /></a><a href=\"https://en.numista.com/catalogue/images/60776acb2683b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/60776acb2683b.jpg\" alt=\"\" width=\"125\" height=\"250\" /></a>",
+  "related_types": [
+    {
+      "id": 147528,
+      "title": "2 Pounds - Elizabeth II (Technology; Silver Proof)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1997,
+      "maxYear": 1997
+    },
+    {
+      "id": 199878,
+      "title": "2 Pounds - Elizabeth II (Technology; Gold Proof)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1997,
+      "maxYear": 1997
+    },
+    {
+      "id": 285471,
+      "title": "2 Pounds - Elizabeth II (Technology; Silver Piedfort)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1997,
+      "maxYear": 1997
+    },
+    {
+      "id": 1324,
+      "title": "2 Pounds - Elizabeth II (4th portrait; Technology)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1998,
+      "maxYear": 2015
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "976"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "K8"
+    }
+  ],
+  "weight": 12,
+  "orientation": "medal",
+  "edge": {
+    "description": "Milled with incuse lettering",
+    "lettering": "STANDING ON THE SHOULDERS OF GIANTS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/2061-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/2061-180.jpg",
+    "picture_copyright": "ZacUK"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

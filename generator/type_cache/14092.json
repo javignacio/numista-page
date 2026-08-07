@@ -1,0 +1,98 @@
+{
+  "id": 14092,
+  "url": "https://en.numista.com/14092",
+  "title": "10 Rupees - Birendra Bir Bikram (Visit Nepal)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "nepal",
+    "name": "Nepal"
+  },
+  "min_year": 1997,
+  "max_year": 1997,
+  "ruler": [
+    {
+      "id": 3964,
+      "name": "Birendra Bir Bikram Shah",
+      "wikidata_id": "Q162306",
+      "group": {
+        "id": 240,
+        "name": "Shah dynasty"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Rupees",
+    "numeric_value": 10,
+    "currency": {
+      "id": 173,
+      "name": "Rupee",
+      "full_name": "Rupee (1932-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25,
+  "thickness": 2.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "lettering_scripts": [
+      {
+        "name": "Devanagari"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/nepal/5f0c049911bd56.49091084-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nepal/5f0c049911bd56.49091084-180.jpg",
+    "picture_copyright": "Abdullah Zafar"
+  },
+  "reverse": {
+    "lettering": "Visit Nepal '98\r\n१०",
+    "lettering_scripts": [
+      {
+        "name": "Devanagari"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/nepal/5f0c0498323ee6.40079974-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nepal/5f0c0498323ee6.40079974-180.jpg",
+    "picture_copyright": "Abdullah Zafar"
+  },
+  "commemorated_topic": "Visit Nepal '98",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1118"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "367"
+    }
+  ],
+  "weight": 10,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 1334,
+      "name": "Mint of Finland"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

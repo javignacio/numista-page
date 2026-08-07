@@ -1,0 +1,114 @@
+{
+  "id": 3192,
+  "url": "https://en.numista.com/3192",
+  "title": "25 Cents - Elizabeth II (4th portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "iles_caimanes",
+    "name": "Cayman Islands"
+  },
+  "min_year": 1999,
+  "max_year": 2019,
+  "ruler": [
+    {
+      "id": 958,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 800,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "25 Cents",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 43,
+      "name": "Dollar",
+      "full_name": "Dollar (1972-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24.26,
+  "thickness": 1.61,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Ian Rank-Broadley"
+    ],
+    "description": "Fourth crowned portrait of Queen Elizabeth II right, wearing the Girls of Great Britain and Ireland tiara, legend around, date below.",
+    "lettering": "CAYMAN ISLANDS ELIZABETH II\r\n2002\r\nIRB",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/iles_caimanes/472-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/iles_caimanes/472-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "engravers": [
+      "Stuart Devlin"
+    ],
+    "description": "Schooner 'Kirk B', sailing, denomination to the right.",
+    "lettering": "25\r\nSD",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/iles_caimanes/473-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/iles_caimanes/473-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "tags": [
+    "Boat or watercraft"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "134"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "137"
+    }
+  ],
+  "weight": 5.1,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/iles_caimanes/66a533fd67e685.26910701-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/iles_caimanes/66a533fd67e685.26910701-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

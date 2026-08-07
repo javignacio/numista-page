@@ -1,0 +1,119 @@
+{
+  "id": 2848,
+  "url": "https://en.numista.com/2848",
+  "title": "1 Krona - Carl XVI Gustaf",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "suede",
+    "name": "Sweden"
+  },
+  "min_year": 2001,
+  "max_year": 2012,
+  "ruler": [
+    {
+      "id": 2366,
+      "name": "Carl XVI Gustaf",
+      "wikidata_id": "Q45068",
+      "group": {
+        "id": 99,
+        "name": "House of Bernadotte"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Krona",
+    "numeric_value": 1,
+    "currency": {
+      "id": 18,
+      "name": "Krona",
+      "full_name": "Krona (1873-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2017-06-30"
+  },
+  "size": 25,
+  "thickness": 1.88,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Ernst Nordin"
+    ],
+    "description": "A portrait of King Carl XVI Gustaf in profile; below the engraver's initials.",
+    "lettering": "CARL XVI GUSTAF · SVERIGES KONUNG\r\nEN\r\n·2005·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Carl XVI Gustaf, King of Sweden.",
+    "picture": "https://en.numista.com/catalogue/photos/suede/1988-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suede/1988-180.jpg",
+    "picture_copyright": "whitegandalf"
+  },
+  "reverse": {
+    "engravers": [
+      "Ernst Nordin"
+    ],
+    "description": "Royal crown of Sweden divides mint official's mark at left and the first letter in the surname of the Governor of the Riksbank at right. Above the king's motto and below the value.",
+    "lettering": "FÖR SVERIGE · I TIDEN\r\nE H\r\nEN KRONA\r\n+ 1 +",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "For Sweden · With the times\r\nOne krona",
+    "picture": "https://en.numista.com/catalogue/photos/suede/1989-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suede/1989-180.jpg",
+    "picture_copyright": "whitegandalf"
+  },
+  "comments": "<p style=\"margin-left:0px;\">Minted in Sweden from 2001 to 2007.</p><p style=\"margin-left:0px;\">Minted in Finland in 2008 and 2012.</p><p>&nbsp;</p><p>Versions exist:<br>&nbsp;- 2007: Reverse: smaller trefoils on the crown.<br>&nbsp;- 2003: Reverse: larger trefoils on the crown.<br><br><a href=\"https://en.numista.com/catalogue/images/58c6fdd380cc0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/58c6fdd380cc0.jpg\" alt=\"\"></a></p>",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "894"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "109"
+    }
+  ],
+  "weight": 7,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/suede/3861-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suede/3861-180.jpg",
+    "picture_copyright": "CyrusPamelaOne",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 4665,
+      "name": "Myntverket"
+    },
+    {
+      "id": 1334,
+      "name": "Mint of Finland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

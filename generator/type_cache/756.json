@@ -1,0 +1,135 @@
+{
+  "id": 756,
+  "url": "https://en.numista.com/756",
+  "title": "1 Franc - Albert II (Dutch text)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "belgique",
+    "name": "Belgium"
+  },
+  "min_year": 1994,
+  "max_year": 2001,
+  "ruler": [
+    {
+      "id": 1170,
+      "name": "Albert II",
+      "wikidata_id": "Q3911",
+      "group": {
+        "id": 530,
+        "name": "House of Belgium"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Franc",
+    "numeric_value": 1,
+    "currency": {
+      "id": 72,
+      "name": "Franc",
+      "full_name": "Franc (1832-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2002-02-28"
+  },
+  "size": 18,
+  "thickness": 1.62,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated iron"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Jan Alfons Keustermans"
+    ],
+    "description": "Portrait of Albert II in left profile, outline around back of his head, his name below",
+    "lettering": "ALBERT II",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/belgique/2197-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/belgique/2197-180.jpg",
+    "picture_copyright": "moi4992",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Lejon Tits"
+    ],
+    "description": "Value in center, date above and legend in Dutch below. Mint mark and privy mark at lower right.",
+    "lettering": "1996\r\n1 FRANK\r\nBELGIË",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Belgium",
+    "picture": "https://en.numista.com/catalogue/photos/belgique/2198-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/belgique/2198-180.jpg",
+    "picture_copyright": "moi4992",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "There are different portraits (design and size best recognizable at the design of the ear) on the obverse.",
+  "related_types": [
+    {
+      "id": 1247,
+      "title": "1 Franc - Albert II (French text)",
+      "category": "coin",
+      "country": {
+        "code": "belgique",
+        "name": "Belgium"
+      },
+      "minYear": 1994,
+      "maxYear": 2001
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "188"
+    },
+    {
+      "catalogue": {
+        "id": 192,
+        "code": "LA"
+      },
+      "number": "BFM-106"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "168"
+    }
+  ],
+  "weight": 2.75,
+  "orientation": "variable",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/belgique/61791919c56a69.49171252-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/belgique/61791919c56a69.49171252-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 1338,
+      "name": "Royal Mint of Belgium"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

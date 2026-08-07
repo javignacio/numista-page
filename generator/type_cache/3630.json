@@ -1,0 +1,155 @@
+{
+  "id": 3630,
+  "url": "https://en.numista.com/3630",
+  "title": "10 Nuevos Pesos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "uruguay",
+    "name": "Uruguay"
+  },
+  "min_year": 1981,
+  "max_year": 1981,
+  "ruler": [
+    {
+      "id": 3897,
+      "name": "Oriental Republic of Uruguay",
+      "wikidata_id": "Q77"
+    }
+  ],
+  "value": {
+    "text": "10 Nuevos Pesos",
+    "numeric_value": 10,
+    "currency": {
+      "id": 297,
+      "name": "Nuevo peso",
+      "full_name": "Nuevo peso (1975-1993)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1991-11-30"
+  },
+  "size": 28,
+  "thickness": 2.4,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Portrait of Jose Artigas, national hero, facing 1/4 left; short name of the country on left, date to rightof center, below portrait.",
+    "lettering": "URUGUAY ARTIGAS\r\nSo\r\n1981",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/63c0fedd987326.95578039-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/63c0fedd987326.95578039-180.jpg",
+    "picture_copyright": "Numismatica Quetzalcoatl",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Coral flower (Erythrina cristagalli); national flower of Uruguay.\r\nDenomination in front of flower, value on right as numeral.",
+    "lettering": "N$ 10",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/63c0fede18e836.49623962-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/63c0fede18e836.49623962-180.jpg",
+    "picture_copyright": "Numismatica Quetzalcoatl",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "Coral flower is the national flower of Uruguay, which is present in many issues.<br />\r\nThis coin shows José Artigas, main Urugayan hero and Coral flower, as national symbols.",
+  "related_types": [
+    {
+      "id": 3475,
+      "title": "1 Nuevo Peso",
+      "category": "coin",
+      "country": {
+        "code": "uruguay",
+        "name": "Uruguay"
+      },
+      "minYear": 1980,
+      "maxYear": 1980
+    },
+    {
+      "id": 5293,
+      "title": "5 Nuevos Pesos",
+      "category": "coin",
+      "country": {
+        "code": "uruguay",
+        "name": "Uruguay"
+      },
+      "minYear": 1980,
+      "maxYear": 1981
+    }
+  ],
+  "tags": [
+    "Military leader",
+    "Politician",
+    "Flower"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "79"
+    },
+    {
+      "catalogue": {
+        "id": 709,
+        "code": "SA"
+      },
+      "number": "125"
+    },
+    {
+      "catalogue": {
+        "id": 2069,
+        "code": "CG"
+      },
+      "number": "126"
+    },
+    {
+      "catalogue": {
+        "id": 3175,
+        "code": "GL"
+      },
+      "number": "126.1.2"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "55"
+    }
+  ],
+  "weight": 10,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/6518cd5c429631.94919477-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/6518cd5c429631.94919477-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

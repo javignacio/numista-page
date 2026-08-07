@@ -1,0 +1,131 @@
+{
+  "id": 4092,
+  "url": "https://en.numista.com/4092",
+  "title": "5 Nuevos Soles (1st type)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "perou",
+    "name": "Peru"
+  },
+  "issuing_entity": {
+    "id": 936,
+    "name": "Central Reserve Bank of Peru",
+    "wikidata_id": "Q932146"
+  },
+  "min_year": 1994,
+  "max_year": 2009,
+  "ruler": [
+    {
+      "id": 3757,
+      "name": "Republic",
+      "wikidata_id": "Q419"
+    }
+  ],
+  "value": {
+    "text": "5 Soles",
+    "numeric_value": 5,
+    "currency": {
+      "id": 184,
+      "name": "Nuevo sol",
+      "full_name": "Nuevo sol (1991-2015) / Sol (2016-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24.27,
+  "thickness": 2.09,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: brass centre in steel ring"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms of Peru: Cornucopia with gold coins, a vicuña and a cinchona representing the mineral, animal and plant kingdoms. Issuer name around, issuing date below.",
+    "lettering": "BANCO CENTRAL DE RESERVA DEL PERU\r\n2009",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Reserve Bank of Peru\r\n2009",
+    "picture": "https://en.numista.com/catalogue/photos/perou/1181-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/1181-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "reverse": {
+    "description": "Nazca Lines \"Condor\", face value in number and letters, with big numeral \"5\" to right and mintmark within.",
+    "lettering": "5 \r\nLIMA \r\nNUEVOS \r\nSOLES",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "5 Nuevos Soles",
+    "picture": "https://en.numista.com/catalogue/photos/perou/1182-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/1182-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "comments": "<p><strong>Obverse:</strong><br>Type <strong>1</strong> - large script. Letter <i>T</i> in <i>CENTRAL</i> very close to <i>N</i> and <i>R</i>. (1994 to 2000)<br>Type <strong>2</strong> - smaller script. Letter <i>T</i> in <i>CENTRAL</i> far from <i>N</i> and <i>R</i>. (2001 to 2009)<br><i>Note</i>. Types 1 and 2 describe the two main groups; specific year may have individual features. For example in 2008, the script is thicker and letter<i> B</i> in <i>BANCO</i> is lower.<br><br><strong>Reverse:</strong><br>Type <strong>A</strong> - script thinner. Letter <i>V</i> in <i>NUEVOS</i> is aligned. (1994 to 2001)<br>Type <strong>B</strong> - script thicker. Letter <i>V</i> in <i>NUEVOS</i> is smaller. (2002 to 2009)<br><br><a href=\"https://en.numista.com/catalogue/images/5b503a941890d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5b503a941890d.jpg\" alt=\"\"></a></p><p>&nbsp;</p><p><strong>Edge:</strong></p><p>Type <strong>I</strong> - Plain (1995 to 2008)</p><p>Type <strong>II</strong> - Reeded (1995 and 2009)</p>",
+  "related_types": [
+    {
+      "id": 17669,
+      "title": "5 Nuevos Soles (2nd type)",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 2010,
+      "maxYear": 2015
+    },
+    {
+      "id": 94809,
+      "title": "5 Soles",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 2016,
+      "maxYear": 2025
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Coat of Arms",
+    "Cornucopia"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "316"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "109"
+    }
+  ],
+  "weight": 6.67,
+  "orientation": "coin",
+  "edge": {
+    "description": "Type I: Smooth\r\nType II: Reeded (2009 only)\r\nsome 1995 might have reeding as well",
+    "picture": "https://en.numista.com/catalogue/photos/perou/1831-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/1831-180.jpg",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

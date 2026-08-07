@@ -1,0 +1,111 @@
+{
+  "id": 3531,
+  "url": "https://en.numista.com/3531",
+  "title": "5 Dollars",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "jamaique",
+    "name": "Jamaica"
+  },
+  "min_year": 1994,
+  "max_year": 2022,
+  "ruler": [
+    {
+      "id": 2931,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 828,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Dollars",
+    "numeric_value": 5,
+    "currency": {
+      "id": 50,
+      "name": "Dollar",
+      "full_name": "Dollar (1969-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21.5,
+  "thickness": 1.71,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms of Jamaica.",
+    "lettering": "JAMAICA\r\nOUT OF MANY, ONE PEOPLE\r\nFIVE DOLLARS 2014",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/jamaique/715-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/jamaique/715-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "description": "Head of Norman Manley facing left, legend around.",
+    "lettering": "THE RT. EXCELLENT NORMAN MANLEY\r\n· NATIONAL HERO ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/jamaique/716-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/jamaique/716-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "series": "1994 series",
+  "comments": "<p>Norman Washington Manley was a Jamaican statesman who served as the first and only Premier of Jamaica.</p><p>&nbsp;</p><p>In 2000 a Brilliant Uncirculated set was issued to commemorate the 40th Anniversary of The Bank of Jamaica.</p><p><a href=\"https://en.numista.com/catalogue/images/6584b85813980.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6584b85813980.jpg\"></a><br>&nbsp;</p><p>&nbsp;</p><p>Two design types present:</p><p>&nbsp;</p><p>Type 1: Thin lettered text; sharp edged inner rim</p><p>1994-2002</p><p>&nbsp;</p><p>Type 2: Bold lettered text; beveled inner rim</p><p>2014-2022</p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/675114d0e2203.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/675114d0e2203.jpg\"></a></p>",
+  "tags": [
+    "Coat of Arms",
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "163"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "129"
+    }
+  ],
+  "weight": 4.3,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/jamaique/69e46f34773d40.12879691-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/jamaique/69e46f34773d40.12879691-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,111 @@
+{
+  "id": 4733,
+  "url": "https://en.numista.com/4733",
+  "title": "50 Deni",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "macedoine",
+    "name": "North Macedonia"
+  },
+  "min_year": 1993,
+  "max_year": 1993,
+  "ruler": [
+    {
+      "id": 1311,
+      "name": "Republic",
+      "wikidata_id": "Q221"
+    }
+  ],
+  "value": {
+    "text": "50 Deni",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 22,
+      "name": "Second denar",
+      "full_name": "Second denar (1993-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2013-04-01"
+  },
+  "size": 21.5,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Biljana Unkovska"
+    ],
+    "description": "Black-headed gull (Chroicocephalus ridibundus) flying offshore, date below, name of the country around",
+    "lettering": "РЕПУБΛИКА МАКЕДОНИЈА\r\n1993",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "Republic of Macedonia",
+    "picture": "https://en.numista.com/catalogue/photos/macedoine/175-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/macedoine/175-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "reverse": {
+    "engravers": [
+      "Biljana Unkovska"
+    ],
+    "description": "Radiant value",
+    "lettering": "50 \r\nДЕНИ",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "50 Deni",
+    "picture": "https://en.numista.com/catalogue/photos/macedoine/176-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/macedoine/176-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "tags": [
+    "Bird"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "1"
+    }
+  ],
+  "weight": 4.05,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/macedoine/177-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/macedoine/177-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 5367,
+      "name": "Fabrika Suvenir"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

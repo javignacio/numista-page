@@ -1,0 +1,110 @@
+{
+  "id": 4777,
+  "url": "https://en.numista.com/4777",
+  "title": "1 Tambala (non-magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "malawi",
+    "name": "Malawi"
+  },
+  "min_year": 1995,
+  "max_year": 1995,
+  "ruler": [
+    {
+      "id": 4927,
+      "name": "Republic",
+      "wikidata_id": "Q1020"
+    }
+  ],
+  "value": {
+    "text": "1 Tambala",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 92,
+      "name": "Kwacha",
+      "full_name": "Kwacha (1971-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 17.3,
+  "thickness": 1.3,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of Arms",
+    "lettering": "MALAŴI",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/malawi/586-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/malawi/586-180.jpg",
+    "picture_copyright": "Ponpandi Perumal",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Tilapia Fish",
+    "lettering": "1995\r\n1 TAMBALA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/malawi/587-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/malawi/587-180.jpg",
+    "picture_copyright": "Ponpandi Perumal",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "related_types": [
+    {
+      "id": 15588,
+      "title": "1 Tambala (magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "malawi",
+        "name": "Malawi"
+      },
+      "minYear": 2003,
+      "maxYear": 2003
+    }
+  ],
+  "tags": [
+    "Fish",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "33"
+    }
+  ],
+  "weight": 1.8,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

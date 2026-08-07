@@ -1,0 +1,143 @@
+{
+  "id": 4181,
+  "url": "https://en.numista.com/4181",
+  "title": "5 Cents",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "seychelles",
+    "name": "Seychelles"
+  },
+  "min_year": 1982,
+  "max_year": 2003,
+  "ruler": [
+    {
+      "id": 3837,
+      "name": "Republic",
+      "wikidata_id": "Q1042"
+    }
+  ],
+  "value": {
+    "text": "5 Cents",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 175,
+      "name": "Rupee",
+      "full_name": "Rupee (1914-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 18,
+  "thickness": 1.1,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass (64% Copper, 36% Zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms",
+    "lettering": "REPUBLIC OF SEYCHELLES\r\nFinis Coronat Opus\r\n· 1982 ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "The End Crowns the Work",
+    "picture": "https://en.numista.com/catalogue/photos/seychelles/5f56a01212e799.27308622-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/seychelles/5f56a01212e799.27308622-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Robert Elderton"
+    ],
+    "description": "Manioc plant",
+    "lettering": "5\r\nFIVE CENTS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/seychelles/5f56a012ed8e39.07593526-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/seychelles/5f56a012ed8e39.07593526-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "According to FAO COINS INTERNATIONAL CATALOG by Attilio Armiento, only the 1982 issue of this coin is to be considered a part of the FAO catalog.",
+  "related_types": [
+    {
+      "id": 19424,
+      "title": "5 Cents",
+      "category": "coin",
+      "country": {
+        "code": "seychelles",
+        "name": "Seychelles"
+      },
+      "minYear": 2007,
+      "maxYear": 2012
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Fish",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "47.1"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "47"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "47.2"
+    }
+  ],
+  "weight": 1.95,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/seychelles/6557706780e3f9.07580805-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/seychelles/6557706780e3f9.07580805-180.jpg",
+    "picture_copyright": "khufu",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    },
+    {
+      "id": 26,
+      "name": "Pobjoy Mint"
+    },
+    {
+      "id": 1300,
+      "name": "South African Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

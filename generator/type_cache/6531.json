@@ -1,0 +1,118 @@
+{
+  "id": 6531,
+  "url": "https://en.numista.com/6531",
+  "title": "100 Lekë",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "albanie",
+    "name": "Albania"
+  },
+  "min_year": 2000,
+  "max_year": 2023,
+  "ruler": [
+    {
+      "id": 583,
+      "name": "Fourth Republic",
+      "wikidata_id": "Q222"
+    }
+  ],
+  "value": {
+    "text": "100 Lekë",
+    "numeric_value": 100,
+    "currency": {
+      "id": 311,
+      "name": "New lek",
+      "full_name": "New lek (1965-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2000-09-01"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24.75,
+  "thickness": 1.9,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: copper-aluminium-nickel centre in copper-nickel ring"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Queen Teuta motif",
+    "lettering": "· REPUBLIKA E SHQIPERISE ·\r\n2000\r\nTEUTA\r\nMBRETERESHA ILIRE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Albania\r\nQueen Teuta of Illyria",
+    "picture": "https://en.numista.com/catalogue/photos/albanie/6632be1bdc8b20.25493085-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/albanie/6632be1bdc8b20.25493085-180.jpg",
+    "picture_copyright": "Ben-jamin",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "reverse": {
+    "description": "Denomination",
+    "lettering": "100\r\nLEKE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/albanie/6632be1c9d0318.48286515-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/albanie/6632be1c9d0318.48286515-180.jpg",
+    "picture_copyright": "Ben-jamin",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "comments": "<p>Starting in 2016 Albania added umlauts to coin designs:<br>The lettering for 2000 is “LEKE” and “SHQIPERISE”.(without umlaut on \"E\")<br>The lettering for 2023 is “LEKË” and “SHQIPËRISË”.(with umlaut on \"E\")</p>",
+  "tags": [
+    "Monarch",
+    "Wreath",
+    "Cold weapons"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "80"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "79"
+    }
+  ],
+  "weight": 6.7,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/albanie/697780fc4ff681.93817545-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/albanie/697780fc4ff681.93817545-180.jpg",
+    "picture_copyright": "adnansami"
+  },
+  "mints": [
+    {
+      "id": 27,
+      "name": "Mint of Poland"
+    },
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

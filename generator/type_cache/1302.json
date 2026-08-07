@@ -1,0 +1,118 @@
+{
+  "id": 1302,
+  "url": "https://en.numista.com/1302",
+  "title": "1 Króna “Flotkróna”",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "islande",
+    "name": "Iceland"
+  },
+  "min_year": 1976,
+  "max_year": 1980,
+  "ruler": [
+    {
+      "id": 1592,
+      "name": "Republic",
+      "wikidata_id": "Q189"
+    }
+  ],
+  "value": {
+    "text": "1 Króna",
+    "numeric_value": 1,
+    "currency": {
+      "id": 241,
+      "name": "Old króna",
+      "full_name": "Old króna (1885-1980)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 17,
+  "thickness": 1.25,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium (98% Aluminium, 2% Magnesium)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Icelandic coat of arms surrounded by the four traditional protector spirits (\"Landvættir\") of Iceland. These are Griðungur the bull, Gammur the eagle, Dreki the dragon, and Bergrisi the giant.",
+    "lettering": "1978",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/islande/687a9535dcbdd2.23808061-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/islande/687a9535dcbdd2.23808061-180.jpg",
+    "picture_copyright": "Seal444",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Face value at the center and leaves of pubescent birch (Betula pubescens, only endemic tree of Iceland), to left and right.",
+    "lettering": "ÍSLAND\r\n1\r\nKRÓNA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Iceland",
+    "picture": "https://en.numista.com/catalogue/photos/islande/687a9536a21664.52322546-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/islande/687a9536a21664.52322546-180.jpg",
+    "picture_copyright": "Seal444",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "Though the SCWC gives mass as 0.57 g, direct measurements and official mint reports indicate that 0.61 g reflects the mass better.<br /><br />\r\nIn Iceland it is often called “flotkróna” or “floating krona” in English. This is because it is rumored to be so light that it floats on water.",
+  "tags": [
+    "Bird",
+    "Cow or bovine",
+    "Fantasy animal",
+    "Mythology",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "23"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "26"
+    },
+    {
+      "catalogue": {
+        "id": 144,
+        "code": "SIEG"
+      },
+      "number": "26"
+    }
+  ],
+  "weight": 0.61,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/islande/61518ae8cbbd80.95609414-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/islande/61518ae8cbbd80.95609414-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

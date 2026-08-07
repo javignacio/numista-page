@@ -1,0 +1,109 @@
+{
+  "id": 14370,
+  "url": "https://en.numista.com/14370",
+  "title": "10 Dollars (Round)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "jamaique",
+    "name": "Jamaica"
+  },
+  "min_year": 2008,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 2931,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 828,
+        "name": "House of Windsor"
+      }
+    },
+    {
+      "id": 6817,
+      "name": "Charles III",
+      "wikidata_id": "Q43274",
+      "group": {
+        "id": 828,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Dollars",
+    "numeric_value": 10,
+    "currency": {
+      "id": 50,
+      "name": "Dollar",
+      "full_name": "Dollar (1969-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24.5,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel clad steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms of Jamaica.",
+    "lettering": "JAMAICA\r\nOUT OF MANY. ONE PEOPLE\r\nTEN DOLLARS 2008",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/jamaique/189-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/jamaique/189-180.jpg"
+  },
+  "reverse": {
+    "description": "Bust of George William Gordon facing forward.",
+    "lettering": "THE RT. EXCELLENT GEORGE WILLIAM GORDON\r\nNATIONAL HERO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/jamaique/188-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/jamaique/188-180.jpg"
+  },
+  "series": "2008 series",
+  "tags": [
+    "Coat of Arms",
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "190"
+    }
+  ],
+  "weight": 5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 23,
+      "name": "Royal Dutch Mint"
+    },
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

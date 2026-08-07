@@ -1,0 +1,112 @@
+{
+  "id": 2445,
+  "url": "https://en.numista.com/2445",
+  "title": "1 Céntimo (Without braille)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "perou",
+    "name": "Peru"
+  },
+  "min_year": 2001,
+  "max_year": 2006,
+  "ruler": [
+    {
+      "id": 3757,
+      "name": "Republic",
+      "wikidata_id": "Q419"
+    }
+  ],
+  "value": {
+    "text": "1 Centimo",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 184,
+      "name": "Nuevo sol",
+      "full_name": "Nuevo sol (1991-2015) / Sol (2016-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2011-00-00"
+  },
+  "size": 16,
+  "thickness": 1.05,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Chavéz"
+    ],
+    "description": "Coat of arms of Peru: Cornucopia with gold coins, a vicuña and a cinchona representing the mineral, animal and plant kingdoms.",
+    "lettering": "BANCO CENTRAL DE RESERVA DEL PERÚ \r\n2004",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Reserve Bank of Peru",
+    "picture": "https://en.numista.com/catalogue/photos/perou/23-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/23-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Denomination flanked by Chimu designs from the citadel of Chan Chan.",
+    "lettering": "1\r\nCÉNTIMO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/perou/24-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/24-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "Variety with Braille :<br />\n<a href=\"https://en.numista.com/catalogue/images/5d3020eb9194b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d3020eb9194b.jpg\" alt=\"\" width=\"200\" height=\"199\" /></a><a href=\"https://en.numista.com/catalogue/images/5d3020e1ad163.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d3020e1ad163.jpg\" alt=\"\" width=\"200\" height=\"200\" /></a><br />\nEssor Prof<br /><br />\nVariety of date for 1993<br />\n<img src=\"https://en.numista.com/catalogue/images/6044fcb661c26.jpg\" alt=\"\" width=\"100\" height=\"99\" />",
+  "tags": [
+    "Camel or camelid",
+    "Coat of Arms",
+    "Cornucopia",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "303.4"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "102"
+    }
+  ],
+  "weight": 1.78,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 297,
+      "name": "Lima"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

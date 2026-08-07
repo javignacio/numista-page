@@ -1,0 +1,94 @@
+{
+  "id": 6910,
+  "url": "https://en.numista.com/6910",
+  "title": "50 Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "chili",
+    "name": "Chile"
+  },
+  "min_year": 1942,
+  "max_year": 1942,
+  "ruler": [
+    {
+      "id": 3299,
+      "name": "Republic",
+      "wikidata_id": "Q298"
+    }
+  ],
+  "value": {
+    "text": "50 Centavos",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 237,
+      "name": "Peso",
+      "full_name": "Peso (1835-1959)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1960-01-01"
+  },
+  "size": 20.5,
+  "thickness": 1.66,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Portrait of Bernardo O'Higgins (1778-1842) leader of the Chile independence along with José de San Martín",
+    "lettering": "REPUBLICA DE CHILE\r\nBERNARDO O'HIGGINS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chili/69862988b220c9.29750786-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/69862988b220c9.29750786-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "reverse": {
+    "description": "Value flanked by Copihue-Flowers (Lapageria rosea), Chile national flower",
+    "lettering": "So\r\n50\r\nCENTAVOS\r\n1942",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chili/6986298a17fec8.60344478-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/6986298a17fec8.60344478-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "tags": [
+    "Politician",
+    "Flower"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "178"
+    }
+  ],
+  "weight": 4,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

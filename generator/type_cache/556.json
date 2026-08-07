@@ -1,0 +1,116 @@
+{
+  "id": 556,
+  "url": "https://en.numista.com/556",
+  "title": "10 Drachmai - Constantine II",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "grece",
+    "name": "Greece"
+  },
+  "min_year": 1968,
+  "max_year": 1968,
+  "ruler": [
+    {
+      "id": 1261,
+      "name": "Constantine II",
+      "wikidata_id": "Q151773",
+      "group": {
+        "id": 471,
+        "name": "Kingdom of Greece • House of Schleswig-Holstein-Sonderburg-Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Drachmai",
+    "numeric_value": 10,
+    "currency": {
+      "id": 62,
+      "name": "Third modern drachma",
+      "full_name": "Third modern drachma (1954-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 30,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "V. Phalireas"
+    ],
+    "description": "The portrait of young Constantine facing left, date below",
+    "lettering": "ΚωΝCΤaΝΤΊΝΟC ΒaCΙλΕΎC ΤωΝ ΕλλΉΝωΝ\r\nΒ.ΦaλΗΡΈaC\r\n·1968·",
+    "lettering_scripts": [
+      {
+        "name": "Greek"
+      }
+    ],
+    "lettering_translation": "Constantine King of the Greeks\r\nV. Phalireas\r\n·1968·",
+    "picture": "https://en.numista.com/catalogue/photos/grece/5e88dbce210c75.33823959-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/grece/5e88dbce210c75.33823959-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "reverse": {
+    "engravers": [
+      "V. Phalireas"
+    ],
+    "description": "Crowned arms of Greece (shield with a cross) with the defenders of the Crown, denomination below",
+    "lettering": "ΒaCΙλΕΙΟΝ ΤΗC ΕλλaΔΟC\r\n10\r\n• ΔΡaΧΜaΙ •",
+    "lettering_scripts": [
+      {
+        "name": "Greek"
+      }
+    ],
+    "lettering_translation": "Kingdom of Greece\r\n10\r\nDrachmai",
+    "picture": "https://en.numista.com/catalogue/photos/grece/5e88dbce731401.81350981-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/grece/5e88dbce731401.81350981-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "tags": [
+    "Monarch",
+    "Mythology",
+    "Crown",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "96"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "35"
+    }
+  ],
+  "weight": 10,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/grece/614cac0486a937.84516131-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/grece/614cac0486a937.84516131-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 1262,
+      "name": "Kremnica"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

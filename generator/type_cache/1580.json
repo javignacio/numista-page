@@ -1,0 +1,129 @@
+{
+  "id": 1580,
+  "url": "https://en.numista.com/1580",
+  "title": "10 Cents - Elizabeth II (2nd portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "hong_kong",
+    "name": "Hong Kong"
+  },
+  "min_year": 1982,
+  "max_year": 1984,
+  "ruler": [
+    {
+      "id": 923,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 791,
+        "name": "British colony"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Cents",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 48,
+      "name": "Dollar",
+      "full_name": "Dollar (1863-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 17.55,
+  "thickness": 1.05,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Arnold Machin"
+    ],
+    "description": "Crowned bust facing right",
+    "lettering": "QUEEN ELIZABETH THE SECOND",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/hong_kong/27-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hong_kong/27-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Denomination surrounded by lettering",
+    "lettering": "HONG 香 KONG\r\n毫 10 一\r\n1983\r\nTEN 港 CENTS",
+    "lettering_scripts": [
+      {
+        "name": "Chinese"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Hong Kong\r\n10 Cents\r\n1983\r\nTen Cents",
+    "picture": "https://en.numista.com/catalogue/photos/hong_kong/28-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hong_kong/28-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "related_types": [
+    {
+      "id": 1585,
+      "title": "10 Cents - Elizabeth II (3rd portrait)",
+      "category": "coin",
+      "country": {
+        "code": "hong_kong",
+        "name": "Hong Kong"
+      },
+      "minYear": 1985,
+      "maxYear": 1992
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "49"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "23"
+    }
+  ],
+  "weight": 2,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/hong_kong/65a9dfedaa4b79.66454928-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hong_kong/65a9dfedaa4b79.66454928-180.jpg",
+    "picture_copyright": "Julio Vega",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

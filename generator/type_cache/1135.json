@@ -1,0 +1,126 @@
+{
+  "id": 1135,
+  "url": "https://en.numista.com/1135",
+  "title": "2 Centimes",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "france",
+    "name": "France"
+  },
+  "min_year": 1877,
+  "max_year": 1897,
+  "ruler": [
+    {
+      "id": 8,
+      "name": "Third Republic",
+      "wikidata_id": "Q70802",
+      "group": {
+        "id": 89,
+        "name": "Modern France"
+      }
+    }
+  ],
+  "value": {
+    "text": "2 Centimes",
+    "numeric_value": 0.02,
+    "currency": {
+      "id": 303,
+      "name": "Franc",
+      "full_name": "Franc (1795-1959)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1940-11-24"
+  },
+  "size": 20.2,
+  "thickness": 0.9,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Eugène-André Oudiné"
+    ],
+    "description": "Head of Ceres on the left crowned with ears of corn with a headband inscribed CONCOR; below signed OUDINE.",
+    "lettering": "RÉPUBLIQUE FRANÇAISE\r\nOUDINÉ\r\n1889",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/france/64fc82a4431878.75548502-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/64fc82a4431878.75548502-180.jpg",
+    "picture_copyright": "pimmy",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Eugène-André Oudiné"
+    ],
+    "description": "2 CENTIMES A in a beaded cord.",
+    "lettering": "LIBERTÉ ÉGALITÉ FRATERNITÉ\r\n2\r\nCENTIMES\r\nA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/france/64fc82a4e545d2.85549539-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/64fc82a4e545d2.85549539-180.jpg",
+    "picture_copyright": "pimmy",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "Trial Strike<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5cb09ddfb6f86.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5cb09ddfb6f86.jpg\" alt=\"\" width=\"200\" height=\"101\" /></a><br />\r\nDifférent size of A<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5d2f40291796c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d2f40291796c.jpg\" alt=\"\" width=\"199\" height=\"65\" /></a><br />\r\nSource : CGB&amp;Eagle68",
+  "tags": [
+    "Allegory"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 34,
+        "code": "Franc 2014"
+      },
+      "number": "109"
+    },
+    {
+      "catalogue": {
+        "id": 109,
+        "code": "Gad 1789"
+      },
+      "number": "105"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "827"
+    }
+  ],
+  "weight": 2,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    },
+    {
+      "id": 78,
+      "name": "Bordeaux"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

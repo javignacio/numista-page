@@ -1,0 +1,117 @@
+{
+  "id": 1157,
+  "url": "https://en.numista.com/1157",
+  "title": "5 Öre - Oscar II (Small letters)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "suede",
+    "name": "Sweden"
+  },
+  "min_year": 1874,
+  "max_year": 1889,
+  "ruler": [
+    {
+      "id": 2363,
+      "name": "Oscar II",
+      "wikidata_id": "Q52924",
+      "group": {
+        "id": 99,
+        "name": "House of Bernadotte"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Öre",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 18,
+      "name": "Krona",
+      "full_name": "Krona (1873-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 27,
+  "thickness": 1.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Crowned King's monogram. King's motto above, and Stockholm mintmark below, near rim.",
+    "lettering": "BRÖDRAFOLKENS VÄL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "The Welfare of the Brother People.",
+    "picture": "https://en.numista.com/catalogue/photos/suede/1275-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suede/1275-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "description": "Value and date together with the Three Crowns, symbol of Sweden, within ornate circle.",
+    "lettering": "5 \r\nÖRE\r\n1887",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/suede/1276-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suede/1276-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "<p>Crosses and lines</p><p><a href=\"https://en.numista.com/catalogue/images/6847fa65cabe4.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6847fa65cabe4.jpg\"></a></p><p>N's and overdate 5/4</p><p><a href=\"https://en.numista.com/catalogue/images/6847f991a6c4a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6847f991a6c4a.jpg\"></a></p><p>N's and overdate 80/70</p><p><a href=\"https://en.numista.com/catalogue/images/6847f9d3df6a2.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6847f9d3df6a2.jpg\"></a></p><p>1882 overdate 2/1<br><a href=\"https://en.numista.com/catalogue/images/61ae11d355b01.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/61ae11d355b01.jpg\" alt=\"\"></a><br>1883 different S's</p><p><a href=\"https://en.numista.com/catalogue/images/6847fb374ce43.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6847fb374ce43.jpg\"></a></p><p>Doubtful overdate 83/88</p><p><a href=\"https://en.numista.com/catalogue/images/6847fc5f553b8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6847fc5f553b8.jpg\"></a></p><p>Difference between KM# 736 &amp; KM#757</p><p><a href=\"https://en.numista.com/catalogue/images/6847fb9677550.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6847fb9677550.jpg\"></a></p>",
+  "related_types": [
+    {
+      "id": 6151,
+      "title": "5 Öre - Oscar II (Large letters)",
+      "category": "coin",
+      "country": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "minYear": 1888,
+      "maxYear": 1905
+    }
+  ],
+  "tags": [
+    "Crown",
+    "Monogram"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "736"
+    }
+  ],
+  "weight": 8,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/suede/614c7215602578.11552605-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suede/614c7215602578.11552605-180.jpg",
+    "picture_copyright": "Walter_Scott"
+  },
+  "mints": [
+    {
+      "id": 5989,
+      "name": "Kungliga Myntet"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,120 @@
+{
+  "id": 947,
+  "url": "https://en.numista.com/947",
+  "title": "1 Penny - George III (2nd Issue; 'Cartwheel')",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1797,
+  "max_year": 1797,
+  "ruler": [
+    {
+      "id": 267,
+      "name": "George III",
+      "wikidata_id": "Q127318",
+      "group": {
+        "id": 525,
+        "name": "House of Hanover"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Penny",
+    "numeric_value": 0.004166666666666667,
+    "numerator": 1,
+    "denominator": 240,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1971)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1971-08-31"
+  },
+  "size": 36,
+  "thickness": 3,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Conrad Heinrich Küchler"
+    ],
+    "description": "Laureate and draped bust of King George III right, legend around on raised rim.",
+    "lettering": "GEORGIUS III·D:G·REX.\r\nK",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Georgius III Dei Gratia Rex",
+    "lettering_translation": "George the Third by the Grace of God King",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/2697-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/2697-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "engravers": [
+      "Conrad Heinrich Küchler"
+    ],
+    "description": "Seated figure of Britannia left, with trident and shield in left hand, olive branch in raised right hand, shield bearing Union flag resting on left, sea behind with ship on left, mint name below shield, legend above and date below on raised rim.",
+    "lettering": "BRITANNIA\r\nSOHO\r\n1797",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/2698-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/2698-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "<p>The first base metal regal pennies to circulate in Britain, these pieces were produced by Matthew Boulton using a steam powered press at the Soho Mint in Birmingham beginning in 1797.<br><br>From 1770 until the end of the 18th century the practice of melting down the official copper coins and making lightweight forgeries had become so widespread that it prompted industrialist Matthew Boulton to offer a potential solution. He proposed that each coin should actually be made to contain its value in copper (one ounce avoirdupois), that the quality should be improved by using a retaining collar during striking (to give a perfectly round coin) and by designing the coins with thick raised borders to prevent them wearing so easily.</p><p>&nbsp;</p><p>This type is one of the <strong>1800 Australian Proclamation coins</strong>. In 1800 the then-Governor of New South Wales, Philip Gidley King issued a proclamation that ten specific British, Netherlands, Indian, Portuguese and Spanish coins were to be brought into the colony and given inflated denominations than what was indicated on the coins so that they would say in circulation in the colony. This Penny had a value of 2 Pence.<br><br>This type was struck in copper by Boulton for several years after 1797 with no change in date, along with some later strikes in a variety of metals. Further restrikes were produced by W.J. Taylor when he bought the dies in 1848; the chief way these later issues can be distinguished is by marks resulting from die corrosion.</p>",
+  "tags": [
+    "Armour",
+    "Sea",
+    "Boat or watercraft",
+    "Allegory"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "618"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "3777"
+    }
+  ],
+  "weight": 28.35,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 1808,
+      "name": "Soho Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

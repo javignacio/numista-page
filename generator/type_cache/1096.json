@@ -1,0 +1,130 @@
+{
+  "id": 1096,
+  "url": "https://en.numista.com/1096",
+  "title": "1 Peso Uruguayo",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "uruguay",
+    "name": "Uruguay"
+  },
+  "min_year": 1994,
+  "max_year": 2007,
+  "ruler": [
+    {
+      "id": 3897,
+      "name": "Oriental Republic of Uruguay",
+      "wikidata_id": "Q77"
+    }
+  ],
+  "value": {
+    "text": "1 Peso Uruguayo",
+    "numeric_value": 1,
+    "currency": {
+      "id": 153,
+      "name": "Peso uruguayo",
+      "full_name": "Peso uruguayo (1993-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 20,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-aluminium-nickel (92% Copper, 6% Aluminium, 2% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Jorge Nicastro"
+    ],
+    "description": "Portrait of José Artigas facing right, surrounded by country name.",
+    "lettering": "REPUBLICA ORIENTAL DEL URUGUAY",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Eastern Republic of Uruguay",
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/488-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/488-180.jpg",
+    "picture_copyright": "KennyG"
+  },
+  "reverse": {
+    "engravers": [
+      "Jorge Nicastro"
+    ],
+    "description": "Denomination in figure and number forms, and date on exergue",
+    "lettering": "$1\r\nUN PESO\r\nURUGUAYO\r\n1994",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "$1\r\nOne Peso Uruguayo\r\n1994",
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/489-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/489-180.jpg",
+    "picture_copyright": "KennyG"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/5da9d5431f2e4.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5da9d5431f2e4.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nDifference of 1998 and the others:<br /><br />\r\nReverse: year numbers in &quot;1998&quot; in bold letters, not as fine as letters in 1994, 2005 and 2007.<br />\r\nI don´t know if there exist a fine 1998<br /><br />\r\n1998 thin lettering, round &quot;o&quot; in Peso, oval &quot;o&quot; in Uruguayo<br /><br />\r\nVariants: on reverse, for KM# 103.1, lower point of neck points between &quot;P&quot; and &quot;U&quot; in REPUBLICA, while for KM# 103.2, points to &quot;P&quot;.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/60e10136a3b36.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/60e10136a3b36.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\nKM# 103.1 on right, KM# 103.2 on left<br />\r\n© adanieluy",
+  "tags": [
+    "Military leader",
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "103"
+    },
+    {
+      "catalogue": {
+        "id": 709,
+        "code": "SA"
+      },
+      "number": "134.1"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "152.1"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "91"
+    }
+  ],
+  "weight": 3.52,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/6518de90dab553.08372075-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/6518de90dab553.08372075-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 1336,
+      "name": "Buenos Aires"
+    },
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

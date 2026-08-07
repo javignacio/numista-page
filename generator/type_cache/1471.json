@@ -1,0 +1,124 @@
+{
+  "id": 1471,
+  "url": "https://en.numista.com/1471",
+  "title": "1 Tiyin",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "ouzbekistan",
+    "name": "Uzbekistan"
+  },
+  "min_year": 1994,
+  "max_year": 1994,
+  "ruler": [
+    {
+      "id": 1320,
+      "name": "Republic",
+      "wikidata_id": "Q265"
+    }
+  ],
+  "value": {
+    "text": "1 Tiyin",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 188,
+      "name": "Second soʻm",
+      "full_name": "Second soʻm (1994-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2020-03-01"
+  },
+  "size": 16.9,
+  "thickness": 1.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "National Coat of Arms, and 12 Stars representing the twelve provinces of Uzbekistan",
+    "lettering": "ЎЗБЕКИСТОН РЕСПУБЛИКАСИ",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "Republic of Uzbekistan",
+    "picture": "https://en.numista.com/catalogue/photos/ouzbekistan/109-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ouzbekistan/109-180.jpg",
+    "picture_copyright": "gef"
+  },
+  "reverse": {
+    "description": "Denomination inside a wreath of Cotton branches, date below",
+    "lettering": "1\r\nТИЙИН\r\n1994",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "1 Tiyin",
+    "picture": "https://en.numista.com/catalogue/photos/ouzbekistan/110-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ouzbekistan/110-180.jpg",
+    "picture_copyright": "gef"
+  },
+  "comments": "The Numista catalog photo shows KM# 1.2 / Schön# 1.2 with curved denomination.<br /><br />\r\nNOTE:<br />\r\nKM# 1.1 / Schön# 1.1 has the number 1 with six straight edges and less slanted top bar.<br />\r\nKM# 1.2 / Schön# 1.2 has the number 1 with seven curved edges and steep top bar.<br /><br />\r\nDifferences between KM# 1.1 and KM# 1.2:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/585ae45805896.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/585ae45805896.jpg\" alt=\"\" width=\"200\" height=\"177\" /></a>",
+  "tags": [
+    "Bird",
+    "Fantasy animal",
+    "Coat of Arms",
+    "Sun"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1.1"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1.2"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "1.1"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "1.2"
+    }
+  ],
+  "weight": 1.75,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 26,
+      "name": "Pobjoy Mint"
+    },
+    {
+      "id": 3703,
+      "name": "Tashkent"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

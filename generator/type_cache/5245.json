@@ -1,0 +1,102 @@
+{
+  "id": 5245,
+  "url": "https://en.numista.com/5245",
+  "title": "10 Australes",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "argentine",
+    "name": "Argentina"
+  },
+  "min_year": 1989,
+  "max_year": 1989,
+  "ruler": [
+    {
+      "id": 3983,
+      "name": "Federal Republic",
+      "wikidata_id": "Q414"
+    }
+  ],
+  "value": {
+    "text": "10 Australes",
+    "numeric_value": 10,
+    "currency": {
+      "id": 144,
+      "name": "Austral",
+      "full_name": "Austral (1985-1991)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1992-03-01"
+  },
+  "size": 23.2,
+  "thickness": 2.02,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "House of Agreement (Now a National monument)",
+    "lettering": "REPUBLICA ARGENTINA\r\nCASA DEL ACUERDO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Argentine Republic\r\nHouse of Agreement",
+    "picture": "https://en.numista.com/catalogue/photos/argentine/1186-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/1186-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "reverse": {
+    "description": "Large value in box at right, double lined “A” at left, date below \"A\"",
+    "lettering": "₳\r\n1989 10",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/argentine/1187-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/1187-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "tags": [
+    "Museum"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "102"
+    },
+    {
+      "catalogue": {
+        "id": 160,
+        "code": "CJ"
+      },
+      "number": "378"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "102"
+    }
+  ],
+  "weight": 2,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,139 @@
+{
+  "id": 2788,
+  "url": "https://en.numista.com/2788",
+  "title": "3 Pence - George V (2nd issue; incl. Maundy)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1920,
+  "max_year": 1927,
+  "ruler": [
+    {
+      "id": 272,
+      "name": "George V",
+      "wikidata_id": "Q269412",
+      "group": {
+        "id": 526,
+        "name": "House of Saxe-Coburg and Gotha"
+      }
+    }
+  ],
+  "value": {
+    "text": "3 Pence",
+    "numeric_value": 0.0125,
+    "numerator": 1,
+    "denominator": 80,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1971)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 16,
+  "thickness": 0.9,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.500)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Edgar Bertram MacKennal"
+    ],
+    "description": "Uncrowned portrait of King George V left, legend around.\r\n\r\nNote: colon (:) centred between BRITT and OMN.",
+    "lettering": "GEORGIVS V D.G. BRITT:OMN:REX F.D.IND:IMP:\r\nB.M.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Georgius V Dei Gratia Britanniarum Omnium Rex Fidei Defensor Indiae Imperator",
+    "lettering_translation": "George the Fifth by the Grace of God King of all the Britains Defender of the Faith Emperor of India",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/63bbdd2b3a23c3.29511330-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/63bbdd2b3a23c3.29511330-180.jpg",
+    "picture_copyright": "1925collection",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Jean Baptiste Merlen"
+    ],
+    "description": "Crowned denomination dividing date within oak wreath.",
+    "lettering": "1925\r\n3",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/63bbdd2c4b4c02.86371849-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/63bbdd2c4b4c02.86371849-180.jpg",
+    "picture_copyright": "1925collection",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p>House of Windsor (1917 to date), George V (1910-36), Second coinage (1920-27), silver threepence.<br>Struck with prooflike finish for use in the Maundy ceremony and with a duller surface for domestic circulation.<br>The standard weight of this coin was 1/22 troy ounce or 21.8 grains.<br><br><strong>Sp#4026</strong> <i>(1920-6)</i> Circulation issue with less prooflike surface.<br><br><i>1926 obverse die varieties:</i><br><a href=\"https://en.numista.com/catalogue/images/6076f55e5646d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6076f55e5646d.jpg\" alt=\"\"></a><br>Note: colon (:) centred between BRITT and OMN.</p><p><br><strong>Sp#4027</strong> Maundy money sets listed with their KM# references:<br><br>1921 MDS179 1,386 1925 MDS183 1,438<br>1922 MDS180 1,373 1926 MDS184 1,504<br>1923 MDS181 1,430 1927 MDS185 1,647<br>1924 MDS182 1,515<br><br><strong>Sp#4029</strong> <i>(1921-7)</i> Maundy prooflike issue;<br><br><i>Demonetization note:</i> Whilst the circulation strikes have been demonetized, the Maundy issues carry legal tender status and are still being struck to this day with the value updated to decimal pence.</p>",
+  "related_types": [
+    {
+      "id": 24854,
+      "title": "3 Pence - George V (3rd issue; incl. Maundy)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1926,
+      "maxYear": 1936
+    }
+  ],
+  "tags": [
+    "Crown",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "813a"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "4026"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "4029"
+    }
+  ],
+  "weight": 1.41,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

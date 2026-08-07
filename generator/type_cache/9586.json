@@ -1,0 +1,142 @@
+{
+  "id": 9586,
+  "url": "https://en.numista.com/9586",
+  "title": "500 Yen - Heisei",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "japon",
+    "name": "Japan"
+  },
+  "min_year": 1989,
+  "max_year": 1999,
+  "ruler": [
+    {
+      "id": 336,
+      "name": "Heisei",
+      "wikidata_id": "Q234510"
+    }
+  ],
+  "value": {
+    "text": "500 Yen",
+    "numeric_value": 500,
+    "currency": {
+      "id": 197,
+      "name": "Yen",
+      "full_name": "Yen (1871-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 26.5,
+  "thickness": 1.85,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Paulownia plant with authority above and value below",
+    "lettering": "日 本 国\r\n五 百 円",
+    "lettering_translation": "State of Japan\r\n500 yen",
+    "picture": "https://en.numista.com/catalogue/photos/japon/898-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/japon/898-180.jpg",
+    "picture_copyright": "KennyG"
+  },
+  "reverse": {
+    "description": "Large numerical value in center, flanked by\r\nTachibana oranges (Citrus reticulata tachibana), bamboo on top and date below.",
+    "lettering": "500\r\n平成四年",
+    "lettering_translation": "Year 4 of Heisei",
+    "picture": "https://en.numista.com/catalogue/photos/japon/899-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/japon/899-180.jpg",
+    "picture_copyright": "KennyG"
+  },
+  "comments": "Starting in the late 1990s, large quantities of manipulated Korean 500 won coins were brought into Japan. These were made of the same material, had the same diameter and now also the same weight as the 500 yen coins. They were used at vending machines to obtain genuine 500 yen coins through the refund mechanism (the won coins had only 1/10 their value).<br />\r\nThis led to the discontinuation of the production of 500 yen coins and a new version with modified alloy and anti-counterfeit designs in 2000.<br />\r\nHowever, it took a few more years before only the new coins were accepted by all vending machines.",
+  "related_types": [
+    {
+      "id": 3504,
+      "title": "500 Yen - Shōwa",
+      "category": "coin",
+      "country": {
+        "code": "japon",
+        "name": "Japan"
+      },
+      "minYear": 1982,
+      "maxYear": 1989
+    },
+    {
+      "id": 2122,
+      "title": "500 Yen - Heisei",
+      "category": "coin",
+      "country": {
+        "code": "japon",
+        "name": "Japan"
+      },
+      "minYear": 2000,
+      "maxYear": 2019
+    },
+    {
+      "id": 173795,
+      "title": "500 Yen - Reiwa",
+      "category": "coin",
+      "country": {
+        "code": "japon",
+        "name": "Japan"
+      },
+      "minYear": 2019,
+      "maxYear": 2021
+    }
+  ],
+  "tags": [
+    "Flower",
+    "Fruit"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "99"
+    },
+    {
+      "catalogue": {
+        "id": 3041,
+        "code": "JNDA"
+      },
+      "number": "02-1"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "77"
+    }
+  ],
+  "weight": 7.2,
+  "orientation": "medal",
+  "edge": {
+    "description": "Smooth with text",
+    "lettering": "ＮＩＰＰＯＮ ◆ ５ ００ ◆ ＮＩＰＰＯＮ ◆ ５ ００ ◆",
+    "lettering_translation": "Japan ◆  500 ◆ Japan ◆ 500 ◆",
+    "picture": "https://en.numista.com/catalogue/photos/japon/1685-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/japon/1685-180.jpg",
+    "picture_copyright": "Idolenz",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 41,
+      "name": "Japan Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

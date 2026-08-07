@@ -1,0 +1,124 @@
+{
+  "id": 5517,
+  "url": "https://en.numista.com/5517",
+  "title": "20 Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "mozambique",
+    "name": "Mozambique"
+  },
+  "min_year": 1973,
+  "max_year": 1974,
+  "ruler": [
+    {
+      "id": 4696,
+      "name": "Overseas province of Portugal",
+      "wikidata_id": "Q889394",
+      "group": {
+        "id": 376,
+        "name": "Portuguese Mozambique"
+      }
+    }
+  ],
+  "value": {
+    "text": "20 Centavos",
+    "numeric_value": 0.2,
+    "currency": {
+      "id": 255,
+      "name": "Escudo",
+      "full_name": "Escudo (1911-1974)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 16,
+  "thickness": 1.3,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Arms within crowned globe, date at bottom",
+    "lettering": "· MOÇAMBIQUE ·\r\n· 1974 ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/mozambique/800-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mozambique/800-180.jpg",
+    "picture_copyright": "HOOK"
+  },
+  "reverse": {
+    "description": "Value in centre",
+    "lettering": "REPÚBLICA · PORTUGUESA\r\n20\r\nCENTAVOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/mozambique/801-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mozambique/801-180.jpg",
+    "picture_copyright": "HOOK"
+  },
+  "comments": "Coat of arms (1935 - 1975). To distinguish Mozambique Coat of arms from other Portugal colonies: Within the centre of the Globe &amp; to the top right, <span style=\"font-weight:bold;\">is the Bunch of Arrow tied with a ribbon</span> (signifying the arms of the native Africans &amp; their culture).<br />\r\nThe Portugal coats or Escutcheon Shield is to the top left and was part of the all Portugal Colonies coat of arms.",
+  "related_types": [
+    {
+      "id": 2045,
+      "title": "20 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "mozambique",
+        "name": "Mozambique"
+      },
+      "minYear": 1961,
+      "maxYear": 1961
+    }
+  ],
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "88"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "26"
+    },
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "25a"
+    }
+  ],
+  "weight": 1.8,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 1337,
+      "name": "Imprensa Nacional - Casa da Moeda"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

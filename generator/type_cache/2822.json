@@ -1,0 +1,161 @@
+{
+  "id": 2822,
+  "url": "https://en.numista.com/2822",
+  "title": "10 Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bresil",
+    "name": "Brazil"
+  },
+  "min_year": 1994,
+  "max_year": 1997,
+  "ruler": [
+    {
+      "id": 2684,
+      "name": "Federative Republic of Brazil",
+      "wikidata_id": "Q155"
+    }
+  ],
+  "value": {
+    "text": "10 Centavos",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 158,
+      "name": "Real",
+      "full_name": "Real (1994-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 22,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The effigy of the Brazilian Republic surrounded by a stylish representation of laurel leaves",
+    "lettering": "BRASIL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Brazil",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/6415b2492e8832.18794084-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/6415b2492e8832.18794084-180.jpg",
+    "picture_copyright": "Rogbert",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Denomination flanked by laurel leaves behind diagonal stripes, and year of issue",
+    "lettering": "10 \r\nCENTAVOS \r\n1994",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bresil/6415b24a38d543.59064501-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/6415b24a38d543.59064501-180.jpg",
+    "picture_copyright": "Rogbert",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/5ac75ccf68fb7.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5ac75ccf68fb7.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "related_types": [
+    {
+      "id": 1104,
+      "title": "5 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1994,
+      "maxYear": 1997
+    },
+    {
+      "id": 2242,
+      "title": "25 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1994,
+      "maxYear": 1995
+    },
+    {
+      "id": 2823,
+      "title": "50 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1994,
+      "maxYear": 1995
+    },
+    {
+      "id": 3198,
+      "title": "1 Real",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1994,
+      "maxYear": 1994
+    }
+  ],
+  "tags": [
+    "Allegory"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "633"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "142"
+    },
+    {
+      "catalogue": {
+        "id": 2109,
+        "code": "PMLC"
+      },
+      "number": "666.01"
+    }
+  ],
+  "weight": 3.6,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/651a2b2905dce1.13850790-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/651a2b2905dce1.13850790-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 1335,
+      "name": "Mint of Brazil"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

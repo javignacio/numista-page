@@ -1,0 +1,122 @@
+{
+  "id": 3801,
+  "url": "https://en.numista.com/3801",
+  "title": "1 Cent - Elizabeth II (4th portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "oeco",
+    "name": "Eastern Caribbean States"
+  },
+  "min_year": 2002,
+  "max_year": 2013,
+  "ruler": [
+    {
+      "id": 1089,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 810,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Cent",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 45,
+      "name": "Dollar",
+      "full_name": "Dollar (1965-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2020-07-01"
+  },
+  "size": 18.42,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Ian Rank-Broadley"
+    ],
+    "description": "Portrait of Queen Elizabeth II facing right.",
+    "lettering": "QUEEN ELIZABETH THE SECOND\r\nIRB",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/oeco/192-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/oeco/192-180.jpg",
+    "picture_copyright": "Monéphil",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Thomas Humphrey Paget"
+    ],
+    "description": "Value flanked by palm tree fronds.",
+    "lettering": "EAST CARIBBEAN STATES 2004\r\n1\r\nONE CENT",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/oeco/193-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/oeco/193-180.jpg",
+    "picture_copyright": "Monéphil",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "Two main groups are known, most probably minted by different mints.<br /><br />\r\n<span style=\"font-style:italic;\">Obverse</span><br />\r\nDie <span style=\"font-weight:bold;\">1</span> - portrait and circular legend larger, thin script.<br />\r\nDie <span style=\"font-weight:bold;\">2</span> - portrait and circular legend smaller, thick script with bold serifs.<br /><br />\r\n<span style=\"font-style:italic;\">Reverse</span><br />\r\nDie <span style=\"font-weight:bold;\">A</span> - all details larger, &quot;1&quot; in denomination tall.<br />\r\nDie <span style=\"font-weight:bold;\">B</span> - all details smaller and closer the center, &quot;1&quot; in denomination short with bold serifs.<br />\r\nPicture: © Images courtesy of Alexandr Prokofyev.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/637342fcdce92.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/637342fcdce92.jpg\" alt=\"\" width=\"200\" height=\"107\" /></a><br /><br />\r\n<span style=\"font-style:italic;\">Combinations</span><br />\r\n<span style=\"font-weight:bold;\">A</span>+<span style=\"font-weight:bold;\">1</span>: 2002, 2004, 2008.<br />\r\n<span style=\"font-weight:bold;\">B</span>+<span style=\"font-weight:bold;\">2</span>: 2011, 2013.",
+  "related_types": [
+    {
+      "id": 3569,
+      "title": "1 Cent - Elizabeth II (2nd portrait)",
+      "category": "coin",
+      "country": {
+        "code": "oeco",
+        "name": "Eastern Caribbean States"
+      },
+      "minYear": 1981,
+      "maxYear": 2001
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "34"
+    }
+  ],
+  "weight": 1.03,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    },
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

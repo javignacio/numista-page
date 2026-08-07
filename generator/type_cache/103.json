@@ -1,0 +1,154 @@
+{
+  "id": 103,
+  "url": "https://en.numista.com/103",
+  "title": "1 Euro (1st map)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "france",
+    "name": "France"
+  },
+  "min_year": 1999,
+  "max_year": 2006,
+  "ruler": [
+    {
+      "id": 11,
+      "name": "Fifth Republic",
+      "wikidata_id": "Q200686",
+      "group": {
+        "id": 89,
+        "name": "Modern France"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Euro",
+    "numeric_value": 1,
+    "currency": {
+      "id": 9006,
+      "name": "Euro",
+      "full_name": "Euro (2002-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2002-01-01"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23.25,
+  "thickness": 2.33,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: copper-nickel clad nickel centre in nickel brass ring"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Joaquin Jimenez"
+    ],
+    "description": "A tree, symbolising life, continuity and growth, is contained in a hexagon and encircled by the French motto \"LIBERTÉ ÉGALITÉ FRATERNITÉ\" (liberty, equality, fraternity) and the twelve stars of Europe",
+    "lettering": "LIBERTÉ ÉGALITÉ FRATERNITÉ\r\nRF\r\nJ. JIMENEZ\r\n19 99",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "République française",
+    "picture": "https://en.numista.com/catalogue/photos/france/6054bc1c8530b4.22452556-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/6054bc1c8530b4.22452556-180.jpg",
+    "picture_copyright": "Mike Bentley",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Luc Luycx"
+    ],
+    "description": "A map, next to the face value, shows the gathering of the fifteen states of the European Union",
+    "lettering": "1 EURO LL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/france/6054bc1d27e2f5.09972518-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/6054bc1d27e2f5.09972518-180.jpg",
+    "picture_copyright": "Mike Bentley",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p><strong><u>BUNC Sets Released</u></strong><br>&nbsp;</p><ul><li>1999 - 35000 Annual Coin Sets<br>&nbsp;</li><li>2000 - 35000 Annual Coin Sets<br>&nbsp;</li><li>2001 - 35000 Annual Coin Sets<br>&nbsp;</li><li>2002 - 145563 Annual Coin Sets + 19727 <i>The Little Prince</i> Coin Sets<br>&nbsp;</li><li>2003 - 109407 Annual Coin Sets + 10094 <i>The Little Prince</i> Coin Sets + 12638 Tourism Coin Sets (Eiffel Tower)<br>&nbsp;</li><li>2004 - 120000 Annual Coin Sets + 5399 <i>The Little Prince</i> Coin Sets + 3704 Tourism Coin Sets (Provence)<br>&nbsp;</li><li>2005 - 69999 Annual Coin Sets + 2611 <i>Moebius </i>Coin Sets + 2541 Tourism Coin Sets (Garonne)<br>&nbsp;</li><li>2006 - 70000 Annual Coin Sets + 20 different illustrated Coin Sets of 500 issues each<br>&nbsp;</li></ul><p><br><strong><u>PROOF Sets Released</u></strong><br>&nbsp;</p><ul><li>From 1999 to 2006 - Annual Coin Sets<br>&nbsp;</li></ul><p><br><strong><u>Position of the Bee Mark in 1999 and 2000</u></strong><br>In the 1999 coin the Bee from the Mint Master is pointing to the left.<br>In the 2000 coin the Bee from the Mint Master is pointing to the right.<br><a href=\"https://en.numista.com/catalogue/images/5fa04e434c64e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5fa04e434c64e.jpg\" alt=\"\"></a><a href=\"https://en.numista.com/catalogue/images/5fa04e495efef.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5fa04e495efef.jpg\" alt=\"\"></a></p>",
+  "related_types": [
+    {
+      "id": 6375,
+      "title": "1 Euro (2nd map)",
+      "category": "coin",
+      "country": {
+        "code": "france",
+        "name": "France"
+      },
+      "minYear": 2007,
+      "maxYear": 2021
+    },
+    {
+      "id": 314958,
+      "title": "1 Euro (2nd type)",
+      "category": "coin",
+      "country": {
+        "code": "france",
+        "name": "France"
+      },
+      "minYear": 2022,
+      "maxYear": 2026
+    }
+  ],
+  "tags": [
+    "Map",
+    "Tree"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1288"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "657"
+    },
+    {
+      "catalogue": {
+        "id": 109,
+        "code": "Gad 1789"
+      },
+      "number": "7 (Ed.2019)"
+    }
+  ],
+  "weight": 7.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Segmented reeding",
+    "picture": "https://en.numista.com/catalogue/photos/france/8650-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/8650-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

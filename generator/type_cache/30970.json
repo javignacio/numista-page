@@ -1,0 +1,101 @@
+{
+  "id": 30970,
+  "url": "https://en.numista.com/30970",
+  "title": "½ Centavo",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "equateur",
+    "name": "Ecuador"
+  },
+  "min_year": 1909,
+  "max_year": 1909,
+  "ruler": [
+    {
+      "id": 3758,
+      "name": "Republic",
+      "wikidata_id": "Q736"
+    }
+  ],
+  "value": {
+    "text": "½ Centavo",
+    "numeric_value": 0.005,
+    "currency": {
+      "id": 187,
+      "name": "Sucre",
+      "full_name": "Sucre (1884-2000)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2000-10-09"
+  },
+  "size": 15,
+  "thickness": 1.1,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Flag-draped arms, date below",
+    "lettering": "REPUBLICA DEL ECUADOR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Ecuador",
+    "picture": "https://en.numista.com/catalogue/photos/equateur/278-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/equateur/278-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "description": "Denomination with laurels",
+    "lettering": "MEDIO\r\nCENTAVO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Half centavo",
+    "picture": "https://en.numista.com/catalogue/photos/equateur/279-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/equateur/279-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "57"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "50"
+    }
+  ],
+  "weight": 1.45,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 18,
+      "name": "Heaton and Sons / The Mint Birmingham"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

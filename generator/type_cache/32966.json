@@ -1,0 +1,80 @@
+{
+  "id": 32966,
+  "url": "https://en.numista.com/32966",
+  "title": "¼ Real - Ferdinand VII",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "perou",
+    "name": "Peru"
+  },
+  "min_year": 1809,
+  "max_year": 1823,
+  "ruler": [
+    {
+      "id": 4642,
+      "name": "Ferdinand VII",
+      "wikidata_id": "Q186256",
+      "nomisma_id": "ferdinand_vii_of_spain",
+      "group": {
+        "id": 360,
+        "name": "Viceroyalty of Spain, House of Bourbon"
+      }
+    }
+  ],
+  "value": {
+    "text": "¼ Real",
+    "numeric_value": 0.25,
+    "numerator": 1,
+    "denominator": 4,
+    "currency": {
+      "id": 900,
+      "name": "Real",
+      "full_name": "Real (1568-1858)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 10,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.896)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Crowned lion.",
+    "picture": "https://en.numista.com/catalogue/photos/perou/585-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/585-180.jpg",
+    "picture_copyright": "5899jorge"
+  },
+  "reverse": {
+    "description": "Castle (from Castilla, Spain)",
+    "lettering": "1/4 L\r\n. 1818 .",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/perou/586-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/586-180.jpg",
+    "picture_copyright": "5899jorge"
+  },
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "108"
+    }
+  ],
+  "weight": 0.7,
+  "orientation": "coin",
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

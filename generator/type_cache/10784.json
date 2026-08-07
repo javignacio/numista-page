@@ -1,0 +1,116 @@
+{
+  "id": 10784,
+  "url": "https://en.numista.com/10784",
+  "title": "1 Anna - George VI (2nd portrait, small crown, low relief)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "inde_britannique",
+    "name": "India - British"
+  },
+  "min_year": 1945,
+  "max_year": 1945,
+  "ruler": [
+    {
+      "id": 3745,
+      "name": "George VI",
+      "wikidata_id": "Q280856",
+      "group": {
+        "id": 771,
+        "name": "British India"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Anna",
+    "numeric_value": 0.0625,
+    "numerator": 1,
+    "denominator": 16,
+    "currency": {
+      "id": 244,
+      "name": "Rupee",
+      "full_name": "Rupee (1770-1947)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 21,
+  "thickness": 1.53,
+  "shape": "Scalloped (with 12 notches)",
+  "composition": {
+    "text": "Nickel brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Percy Metcalfe"
+    ],
+    "description": "Crowned head of King George VI, left. English legend surrounds",
+    "lettering": "GEORGE VI KING EMPEROR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/inde_britannique/1715-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/inde_britannique/1715-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "reverse": {
+    "description": "Denomination, date below within floral pattern. Value in four languages, Urdu, Telugu, Bengli & Devnagari outside",
+    "lettering": "ایک آن ఒకఅణా\r\nINDIA\r\nAN 1 NA\r\n1945\r\nएक आना এক মানা",
+    "lettering_scripts": [
+      {
+        "name": "Bengali"
+      },
+      {
+        "name": "Devanagari"
+      },
+      {
+        "name": "Latin"
+      },
+      {
+        "name": "Telugu"
+      },
+      {
+        "name": "Urdu"
+      }
+    ],
+    "lettering_translation": "One Anna",
+    "picture": "https://en.numista.com/catalogue/photos/inde_britannique/1716-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/inde_britannique/1716-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "comments": "- To see differences in KM# 537a &amp; KM 539, click on image below<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/571387363e9dd.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/571387363e9dd.jpg\" alt=\"\" width=\"200\" height=\"99\" /></a>",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "539"
+    }
+  ],
+  "weight": 3.8,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 1803,
+      "name": "Kolkata / Calcutta / Murshidabad"
+    },
+    {
+      "id": 1804,
+      "name": "Mumbai / Bombay"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

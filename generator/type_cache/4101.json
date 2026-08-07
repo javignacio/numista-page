@@ -1,0 +1,115 @@
+{
+  "id": 4101,
+  "url": "https://en.numista.com/4101",
+  "title": "10 Bani (Eagle without crown)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "roumanie",
+    "name": "Romania"
+  },
+  "min_year": 2005,
+  "max_year": 2017,
+  "ruler": [
+    {
+      "id": 1461,
+      "name": "Republic",
+      "wikidata_id": "Q218"
+    }
+  ],
+  "value": {
+    "text": "10 Bani",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 105,
+      "name": "Fourth leu",
+      "full_name": "Fourth leu (2005-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 20.4,
+  "thickness": 1.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "National arms flanked by stars.",
+    "lettering": "ROMANIA \r\n2011",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/roumanie/69821232ad1291.51175996-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/roumanie/69821232ad1291.51175996-180.jpg",
+    "picture_copyright": "riversxian",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Value.",
+    "lettering": "10 \r\nBANI",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/roumanie/69821234828d87.17436477-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/roumanie/69821234828d87.17436477-180.jpg",
+    "picture_copyright": "riversxian",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/59bc36ce93183.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/59bc36ce93183.jpg\" alt=\"\" width=\"200\" height=\"103\" /></a><br />\n<a href=\"https://en.numista.com/catalogue/images/5b20484655ded.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5b20484655ded.jpg\" alt=\"\" width=\"200\" height=\"115\" /></a>",
+  "related_types": [
+    {
+      "id": 133815,
+      "title": "10 Bani (Eagle with crown)",
+      "category": "coin",
+      "country": {
+        "code": "roumanie",
+        "name": "Romania"
+      },
+      "minYear": 2018,
+      "maxYear": 2025
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "191"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "207"
+    }
+  ],
+  "weight": 4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Alternating plain and reeded segments (3 each)",
+    "picture": "https://en.numista.com/catalogue/photos/roumanie/347-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/roumanie/347-180.jpg",
+    "picture_copyright": "ZacUK"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,100 @@
+{
+  "id": 13099,
+  "url": "https://en.numista.com/13099",
+  "title": "3 Pence - George II (incl. Maundy)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1729,
+  "max_year": 1760,
+  "ruler": [
+    {
+      "id": 266,
+      "name": "George II",
+      "wikidata_id": "Q131981",
+      "group": {
+        "id": 525,
+        "name": "House of Hanover"
+      }
+    }
+  ],
+  "value": {
+    "text": "3 Pence",
+    "numeric_value": 0.0125,
+    "numerator": 1,
+    "denominator": 80,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1971)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 17,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.925)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "John Croker"
+    ],
+    "description": "Laureate and draped bust of King George II left, legend around.",
+    "lettering": "GEORGIVS·II· DEI·GRATIA·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "George the Second by the Grace of God",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/2752-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/2752-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "description": "Central denomination below crown dividing date, legend around.\r\n\r\nNote: varieties exist (see below)",
+    "lettering": "MAG·BRI·FR·ET·HIB·REX·17 40·\r\n3",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "King of Great Britain France and Ireland",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/2753-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/2753-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "The standard weight of this coin was 3/62 troy ounce or 23.2 grains.<br /><br />\r\n<span style=\"font-style:italic;\">Reverse die varieties exist:</span><br /><br />\r\n<span style=\"font-weight:bold;\">Sp#3713</span> <span style=\"font-style:italic;\">(1729)</span> Crowned 3, pearls on arch;<br />\r\n<span style=\"font-weight:bold;\">Sp#3713A</span> <span style=\"font-style:italic;\">(1731)</span> Ornate arch;<br />\r\n<span style=\"font-weight:bold;\">Sp#3713B</span> <span style=\"font-style:italic;\">(1732-60)</span> Double arched crown with pearls;<br /><br />\r\nBefore the Great Recoinage of 1817, there is no known evidence to suggest that separate &#039;prooflike&#039; strikes were issued for the Maundy ceremony, suggesting that the money handed out was identical to the current circulating coinage.<br /><br />\r\n<span style=\"font-weight:bold;\">Sp#3716</span> <span style=\"font-style:italic;\">Maundy money sets listed with their KM# ref:</span><br /><br />\r\n1729 MDS43 1737 MDS47 1743 MDS50<br />\r\n1731 MDS44 1739 MDS48 1746 MDS51<br />\r\n1732 MDS45 1740 MDS49 1760 MDS52<br />\r\n1735 MDS46",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "569"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "3713"
+    }
+  ],
+  "weight": 1.5,
+  "orientation": "coin",
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

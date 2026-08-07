@@ -1,0 +1,131 @@
+{
+  "id": 21116,
+  "url": "https://en.numista.com/21116",
+  "title": "5 Centavos (smooth edge, magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "argentine",
+    "name": "Argentina"
+  },
+  "min_year": 2006,
+  "max_year": 2011,
+  "ruler": [
+    {
+      "id": 3983,
+      "name": "Federal Republic",
+      "wikidata_id": "Q414"
+    }
+  ],
+  "value": {
+    "text": "5 Centavos",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 145,
+      "name": "Peso convertible",
+      "full_name": "Peso convertible (1992-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 17.2,
+  "thickness": 1.4,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The emblem of Argentina, a smiling sun with rays, and the country name above",
+    "lettering": ".REPUBLICA ARGENTINA.\r\nEN UNION Y LIBERTAD",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Argentina\r\nIn union and liberty",
+    "picture": "https://en.numista.com/catalogue/photos/argentine/999-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/999-180.jpg",
+    "picture_copyright": "gef"
+  },
+  "reverse": {
+    "description": "Value, date below",
+    "lettering": "5\r\ncentavos\r\n2007",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/argentine/1000-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/1000-180.jpg",
+    "picture_copyright": "gef"
+  },
+  "related_types": [
+    {
+      "id": 3246,
+      "title": "5 Centavos (reeded edge)",
+      "category": "coin",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 1992,
+      "maxYear": 2005
+    },
+    {
+      "id": 6758,
+      "title": "5 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 1993,
+      "maxYear": 1995
+    }
+  ],
+  "tags": [
+    "Sun"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "109b"
+    },
+    {
+      "catalogue": {
+        "id": 160,
+        "code": "CJ"
+      },
+      "number": "2"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "109b"
+    }
+  ],
+  "weight": 2,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 1336,
+      "name": "Buenos Aires"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

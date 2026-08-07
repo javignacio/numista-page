@@ -1,0 +1,206 @@
+{
+  "id": 1438,
+  "url": "https://en.numista.com/1438",
+  "title": "50 Øre - Olav V",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "norvege",
+    "name": "Norway"
+  },
+  "min_year": 1958,
+  "max_year": 1973,
+  "ruler": [
+    {
+      "id": 451,
+      "name": "Olav V",
+      "wikidata_id": "Q154912",
+      "group": {
+        "id": 358,
+        "name": "House of Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "50 Øre",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 16,
+      "name": "Krone",
+      "full_name": "Krone (1875-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1997-09-16"
+  },
+  "size": 22,
+  "thickness": 1.65,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Cu, 25% Ni)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Per Palle Storm"
+    ],
+    "description": "Bust of king Olav V facing left. Solid ring on the rim.",
+    "picture": "https://en.numista.com/catalogue/photos/norvege/63e37742940e13.60081163-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/63e37742940e13.60081163-180.jpg",
+    "picture_copyright": "hareluca"
+  },
+  "reverse": {
+    "engravers": [
+      "Per Palle Storm"
+    ],
+    "description": "Norwegian elkhound facing right. Value above the hound. Inscription, date and mintmark below the hound. Solid ring on the rim.",
+    "lettering": "50•ØRE \r\nNORGE•1967\r\n⚒",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Norway",
+    "picture": "https://en.numista.com/catalogue/photos/norvege/63e37743407ae4.21769293-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/63e37743407ae4.21769293-180.jpg",
+    "picture_copyright": "hareluca"
+  },
+  "comments": "<p>Norwegian Elkhound is the Nation Animal of Norway.<br>Trinomial Name: Canis lupus familiaris<br><br>Small dot (1958-1967)<br>Large dot (1967-1973)</p><p><a href=\"https://en.numista.com/catalogue/images/608a9f5ec2248.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/608a9f5ec2248.jpg\" alt=\"\"></a></p><p><a href=\"https://en.numista.com/catalogue/images/6851c86bed0c7.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6851c86bed0c7.jpg\"></a></p><p>1958-1963 and 1965-1973 has square edge, 1964 has more rounded edge.</p>",
+  "related_types": [
+    {
+      "id": 1424,
+      "title": "1 Øre - Olav V",
+      "category": "coin",
+      "country": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "minYear": 1958,
+      "maxYear": 1972
+    },
+    {
+      "id": 4934,
+      "title": "2 Øre - Olav V (Small letters)",
+      "category": "coin",
+      "country": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "minYear": 1958,
+      "maxYear": 1958
+    },
+    {
+      "id": 1425,
+      "title": "2 Øre - Olav V (Large letters)",
+      "category": "coin",
+      "country": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "minYear": 1959,
+      "maxYear": 1972
+    },
+    {
+      "id": 1426,
+      "title": "5 Øre - Olav V",
+      "category": "coin",
+      "country": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "minYear": 1958,
+      "maxYear": 1973
+    },
+    {
+      "id": 1428,
+      "title": "10 Øre - Olav V (Large letters)",
+      "category": "coin",
+      "country": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "minYear": 1959,
+      "maxYear": 1973
+    },
+    {
+      "id": 1431,
+      "title": "25 Øre - Olav V",
+      "category": "coin",
+      "country": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "minYear": 1958,
+      "maxYear": 1973
+    },
+    {
+      "id": 2399,
+      "title": "1 Krone - Olav V",
+      "category": "coin",
+      "country": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "minYear": 1958,
+      "maxYear": 1973
+    },
+    {
+      "id": 1445,
+      "title": "5 Kroner - Olav V (Type 1)",
+      "category": "coin",
+      "country": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "minYear": 1963,
+      "maxYear": 1973
+    }
+  ],
+  "tags": [
+    "Dog or canid"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "408"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "61"
+    },
+    {
+      "catalogue": {
+        "id": 201,
+        "code": "Rønning"
+      },
+      "number": "294"
+    }
+  ],
+  "weight": 4.8,
+  "orientation": "medal",
+  "edge": {
+    "description": "Milled",
+    "picture": "https://en.numista.com/catalogue/photos/norvege/67951728b5a812.17867699-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/67951728b5a812.17867699-180.jpg",
+    "picture_copyright": "Elvi75"
+  },
+  "mints": [
+    {
+      "id": 1888,
+      "name": "Norwegian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

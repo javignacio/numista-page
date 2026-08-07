@@ -1,0 +1,118 @@
+{
+  "id": 7747,
+  "url": "https://en.numista.com/7747",
+  "title": "2 Øre - Haakon VII",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "norvege",
+    "name": "Norway"
+  },
+  "min_year": 1952,
+  "max_year": 1957,
+  "ruler": [
+    {
+      "id": 449,
+      "name": "Haakon VII",
+      "wikidata_id": "Q154927",
+      "group": {
+        "id": 358,
+        "name": "House of Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "2 Øre",
+    "numeric_value": 0.02,
+    "currency": {
+      "id": 16,
+      "name": "Krone",
+      "full_name": "Krone (1875-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 21,
+  "thickness": 1.65,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze (95% copper, 4% tin, 1% zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Crowned monogram of Haakon VII. Date divided by monogram. Solid ring on the rim.",
+    "lettering": "19 56\r\nH7",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/norvege/64ca9cea8a10c7.16920789-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/64ca9cea8a10c7.16920789-180.jpg",
+    "picture_copyright": "Elvi75"
+  },
+  "reverse": {
+    "description": "Value in two lines. Inscription above value. A triskelion on each side of the value. Mintmark below the value. Solid ring on the rim.",
+    "lettering": "NORGE\r\n2\r\nØRE\r\n⚒",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Norway",
+    "picture": "https://en.numista.com/catalogue/photos/norvege/64ca9ceb29f2a0.10108249-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/64ca9ceb29f2a0.10108249-180.jpg",
+    "picture_copyright": "Elvi75"
+  },
+  "comments": "<p>1952-1956 has mintmark on shield, 1957 has mintmark on coin.</p><p><a href=\"https://en.numista.com/catalogue/images/6742a5aa39777.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6742a5aa39777.jpg\"></a></p><p>1957 with mintmark on shield does not exist.</p>",
+  "related_types": [
+    {
+      "id": 1433,
+      "title": "2 Øre - Haakon VII",
+      "category": "coin",
+      "country": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "minYear": 1909,
+      "maxYear": 1952
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "399"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "50"
+    }
+  ],
+  "weight": 4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain.",
+    "picture": "https://en.numista.com/catalogue/photos/norvege/67886a67404a84.62940023-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/67886a67404a84.62940023-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 1888,
+      "name": "Norwegian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

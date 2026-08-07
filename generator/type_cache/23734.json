@@ -1,0 +1,106 @@
+{
+  "id": 23734,
+  "url": "https://en.numista.com/23734",
+  "title": "20 Sen",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "malaisie",
+    "name": "Malaysia"
+  },
+  "issuing_entity": {
+    "id": 359,
+    "name": "Central Bank of Malaysia",
+    "wikidata_id": "Q806646"
+  },
+  "min_year": 2011,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 905,
+      "name": "Federal elective constitutional monarchy",
+      "wikidata_id": "Q833"
+    }
+  ],
+  "value": {
+    "text": "20 Sen",
+    "numeric_value": 0.2,
+    "currency": {
+      "id": 163,
+      "name": "Ringgit",
+      "full_name": "Ringgit (1967-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 20.6,
+  "thickness": 1.75,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The Hibiscus flower (Binomial name: Hibiscus rosa-sinensis), the national flower of Malaysia with the date to the right above the denomination",
+    "lettering": "BANK NEGARA MALAYSIA 2012 20 SEN",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Malaysian National Bank 2012 20 Sen",
+    "picture": "https://en.numista.com/catalogue/photos/malaisie/628109267c6877.28641836-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/malaisie/628109267c6877.28641836-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "reverse": {
+    "description": "Bunga melur or jasmine flower with the destar siga pattern as background",
+    "picture": "https://en.numista.com/catalogue/photos/malaisie/62810926cf3367.66178964-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/malaisie/62810926cf3367.66178964-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "tags": [
+    "Flower"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "203"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "237"
+    }
+  ],
+  "weight": 4.18,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/malaisie/69f42f44e6c130.15610279-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/malaisie/69f42f44e6c130.15610279-180.jpg",
+    "picture_copyright": "Griffin S",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 4395,
+      "name": "Shah Alam"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

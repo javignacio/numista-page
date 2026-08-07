@@ -1,0 +1,132 @@
+{
+  "id": 4,
+  "url": "https://en.numista.com/4",
+  "title": "20 Centimes",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "france",
+    "name": "France"
+  },
+  "min_year": 1962,
+  "max_year": 2001,
+  "ruler": [
+    {
+      "id": 11,
+      "name": "Fifth Republic",
+      "wikidata_id": "Q200686",
+      "group": {
+        "id": 89,
+        "name": "Modern France"
+      }
+    }
+  ],
+  "value": {
+    "text": "20 Centimes",
+    "numeric_value": 0.2,
+    "currency": {
+      "id": 77,
+      "name": "New franc",
+      "full_name": "New franc (1960-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2002-02-17"
+  },
+  "size": 23.5,
+  "thickness": 1.4,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-aluminium-nickel (92% Copper, 6% Aluminium, 2% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Henri Lagriffoul"
+    ],
+    "description": "Marianne in left profile wearing the Phrygian cap of liberty, a national emblem of France, is surrounded with the lettering: \"REPUBLIQUE FRANÇAISE\" (French Republic)",
+    "lettering": "REPUBLIQUE FRANÇAISE\r\nLAGRIFFOUL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "French Republic",
+    "picture": "https://en.numista.com/catalogue/photos/france/5f9dd2c65f7916.51386836-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/5f9dd2c65f7916.51386836-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "reverse": {
+    "engravers": [
+      "Adrien Dieudonné"
+    ],
+    "description": "The face value is surrounded with a wheat ear, an olive branch and the French motto: \"LIBERTE - EGALITE - FRATERNITE\" (liberty, equality, fraternity)",
+    "lettering": "A.DIEUDONNE\r\nLIBERTE·EGALITE\r\n·FRATERNITE·\r\n20\r\nCENTIMES\r\n1968",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Liberty, Equality\r\nFraternity",
+    "picture": "https://en.numista.com/catalogue/photos/france/5f9dd2c6a02336.42871704-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/5f9dd2c6a02336.42871704-180.jpg",
+    "picture_copyright": "Jérémy Pureur"
+  },
+  "series": "20 centimes Marianne",
+  "comments": "Different privy marks throughout mintages:<br />\r\nOwl 1962-74 Raymond Joly<br />\r\nDolphin 1975-94 Rousseau<br />\r\nBee 1994-2000 Pierre Rodier<br />\r\nHorseshoe 2001 Gérard Buquoy<br /><br />\r\nVariante pour 1997<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5e60ea2f7b024.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e60ea2f7b024.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\nVariante pour 2000<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5e60f3ba166e2.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e60f3ba166e2.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "tags": [
+    "Allegory",
+    "Phrygian cap"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 34,
+        "code": "Franc 2014"
+      },
+      "number": "156"
+    },
+    {
+      "catalogue": {
+        "id": 109,
+        "code": "Gad 1789"
+      },
+      "number": "332"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "230"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "930"
+    }
+  ],
+  "weight": 4,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/france/7492-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/7492-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

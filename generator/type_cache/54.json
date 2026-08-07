@@ -1,0 +1,151 @@
+{
+  "id": 54,
+  "url": "https://en.numista.com/54",
+  "title": "¼ Dollar \"Washington Silver Quarter\"",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "etats-unis",
+    "name": "United States"
+  },
+  "min_year": 1932,
+  "max_year": 1964,
+  "ruler": [
+    {
+      "id": 4720,
+      "name": "Federal republic",
+      "wikidata_id": "Q30"
+    }
+  ],
+  "value": {
+    "text": "¼ Dollar ",
+    "numeric_value": 0.25,
+    "numerator": 1,
+    "denominator": 4,
+    "currency": {
+      "id": 59,
+      "name": "Dollar",
+      "full_name": "Dollar (1785-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24.26,
+  "thickness": 1.75,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.900)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "John Flanagan"
+    ],
+    "description": "The portrait of George Washington facing left, accompanied by the motto: \"IN GOD WE TRUST\" and surrounded with the lettering: \"LIBERTY\".",
+    "lettering": "LIBERTY\r\nIN GOD WE\r\nTRUST\r\nJF\r\n1942",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/1647-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/1647-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "engravers": [
+      "John Flanagan"
+    ],
+    "description": "An eagle, wings spread, and standing on a shaft of arrows with two olive sprays beneath the eagle, is surrounded with the face value, the motto \"E PLURIBUS UNUM\" and the lettering \"UNITED STATES OF AMERICA\".",
+    "lettering": "UNITED STATES OF AMERICA\r\nE PLURIBUS\r\nUNUM\r\nD\r\nQUARTER DOLLAR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Out of many, one.",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/1648-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/1648-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "1934 mottos<br />\r\n<a href=\"https://en.numista.com/catalogue/images/6385ccc4a5f9a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6385ccc4a5f9a.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\n1937 doubled die<br />\r\n<a href=\"https://en.numista.com/catalogue/images/6385ccf768a99.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6385ccf768a99.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\n1942D doubled die<br />\r\n<a href=\"https://en.numista.com/catalogue/images/6385cd221a2db.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6385cd221a2db.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\n1943 doubled die<br />\r\n<a href=\"https://en.numista.com/catalogue/images/6385cd4851aa9.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6385cd4851aa9.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\n1950D D/S<br />\r\n<a href=\"https://en.numista.com/catalogue/images/6385cd8041828.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6385cd8041828.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\n1950S S/D<br />\r\n<a href=\"https://en.numista.com/catalogue/images/6385cd9c0bb49.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6385cd9c0bb49.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\n1956 Proof vs Regular<br />\r\n<a href=\"https://en.numista.com/catalogue/images/6385cdc387dab.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6385cdc387dab.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nThe Philadelphia Mint produced some business strike coins in each of the years 1956 to 1964 using reverse proof dies that had already produced proof coins. These coins are referred to as Type B Reverses whereas the coins produced with normal (non-proof) dies are referred to as Type A Reverses. A more complete discussion of these coins can be found in the following Coin Week™ article:<br /><br />\r\n<a href=\"https://coinweek.com/expert-columns/us-coins-proof-reverse-washington-quarter-1956-1964-part-1/\" rel=\"nofollow\">https://coinweek.com/expert-columns/us-coins-proof-reverse-washington-quarter-1956-1964-part-1/</a>",
+  "related_types": [
+    {
+      "id": 55,
+      "title": "¼ Dollar \"Washington Quarter\"",
+      "category": "coin",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 1965,
+      "maxYear": 1998
+    },
+    {
+      "id": 30062,
+      "title": "¼ Dollar \"Washington Quarter\" (Silver Proof Issue)",
+      "category": "coin",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 1992,
+      "maxYear": 1998
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Eagle",
+    "Military leader",
+    "Politician",
+    "Wreath",
+    "Cold weapons"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "164"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "168"
+    }
+  ],
+  "weight": 6.25,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded (119 reeds)",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/3965-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/3965-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    },
+    {
+      "id": 10,
+      "name": "United States Mint of Denver"
+    },
+    {
+      "id": 12,
+      "name": "United States Mint of San Francisco"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

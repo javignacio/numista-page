@@ -1,0 +1,117 @@
+{
+  "id": 3520,
+  "url": "https://en.numista.com/3520",
+  "title": "50 Aurar",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "islande",
+    "name": "Iceland"
+  },
+  "min_year": 1969,
+  "max_year": 1974,
+  "ruler": [
+    {
+      "id": 1592,
+      "name": "Republic",
+      "wikidata_id": "Q189"
+    }
+  ],
+  "value": {
+    "text": "50 Aurar",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 241,
+      "name": "Old króna",
+      "full_name": "Old króna (1885-1980)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 19,
+  "thickness": 1.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass (79% Copper, 20% Zinc, 1% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Icelandic coat of arms surrounded by a floral wreath.",
+    "lettering": "1974",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/islande/687a9380a89603.53210431-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/islande/687a9380a89603.53210431-180.jpg",
+    "picture_copyright": "Seal444",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Face value at the center and leaves of pubescent birch (Betula pubescens, only endemic tree of Iceland), to left and right.",
+    "lettering": "ÍSLAND\r\n50\r\nAURAR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Iceland\r\n50\r\nAurar",
+    "picture": "https://en.numista.com/catalogue/photos/islande/687a938155bbc6.26639951-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/islande/687a938155bbc6.26639951-180.jpg",
+    "picture_copyright": "Seal444",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "tags": [
+    "Coat of Arms",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "17"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "15"
+    },
+    {
+      "catalogue": {
+        "id": 144,
+        "code": "SIEG"
+      },
+      "number": "20"
+    }
+  ],
+  "weight": 2.4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/islande/62031adec35212.60707634-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/islande/62031adec35212.60707634-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

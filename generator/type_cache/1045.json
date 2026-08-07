@@ -1,0 +1,110 @@
+{
+  "id": 1045,
+  "url": "https://en.numista.com/1045",
+  "title": "1 Cent - Elizabeth II (2nd portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bermudes",
+    "name": "Bermuda"
+  },
+  "min_year": 1970,
+  "max_year": 1985,
+  "ruler": [
+    {
+      "id": 950,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 796,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Cent",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 41,
+      "name": "Dollar",
+      "full_name": "Dollar (1970-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 19.05,
+  "thickness": 1.24,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze (97% copper; 2,5% zinc; 0,5% tin)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Arnold Machin"
+    ],
+    "description": "Young bust of Queen Elizabeth II facing right.",
+    "lettering": "BERMUDA ELIZABETH II",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bermudes/61f65bb5e55190.18630250-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bermudes/61f65bb5e55190.18630250-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "engravers": [
+      "Michael Rizzello"
+    ],
+    "description": "Wild boar walking left.",
+    "lettering": "ONE CENT\r\n1978",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bermudes/61f65bb6488354.48283651-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bermudes/61f65bb6488354.48283651-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "comments": "Wild Hog - The wild hog alludes to the islands&#039; first coins, a crude &#039;brasse&#039; or &#039;hogge&#039; money which bore a hog to convey the colonists fervent thanks for a welcome source of food.<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/6148668238adf.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6148668238adf.jpg\" alt=\"\" width=\"199\" height=\"135\" /></a> <a href=\"https://en.numista.com/catalogue/images/6148668f6ee24.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6148668f6ee24.jpg\" alt=\"\" width=\"200\" height=\"143\" /></a><br />\r\n© Travirca",
+  "tags": [
+    "Pig or porcine"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "15"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "15"
+    }
+  ],
+  "weight": 3.11,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

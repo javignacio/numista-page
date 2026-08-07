@@ -1,0 +1,103 @@
+{
+  "id": 6995,
+  "url": "https://en.numista.com/6995",
+  "title": "20 Pesewas",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "ghana",
+    "name": "Ghana (1957-date)"
+  },
+  "min_year": 2007,
+  "max_year": 2016,
+  "ruler": [
+    {
+      "id": 943,
+      "name": "Republic",
+      "wikidata_id": "Q117"
+    }
+  ],
+  "value": {
+    "text": "20 Pesewas",
+    "numeric_value": 0.2,
+    "currency": {
+      "id": 257,
+      "name": "Third cedi",
+      "full_name": "Third cedi (2007-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23.47,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "\"Ghana\" over its coat of arms: A shield divided into four quarters by a cross. In the top left-hand quarter is a crossed linguist staff and ceremonial sword. In the top right-hand quarter is a heraldic castle on a heraldic sea. In the bottom two quarters there is a cocoa tree and a mine shaft. In the center of the cross is a lion. Over the shield is a five-pointed star. “Freedom and Justice” on a scroll under the shield. Two eagles are holding the shield and scroll. The eagles have a star on their neck.\r\nYear at the bottom.",
+    "lettering": "GHANA\r\nFreedom and Justice\r\n2007",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/ghana/243-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ghana/243-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "reverse": {
+    "description": "Cocoa pod",
+    "lettering": "20\r\nPESEWAS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/ghana/244-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ghana/244-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "comments": "Ghana is the second largest producer of Cocoa in the World",
+  "tags": [
+    "Bird",
+    "Eagle",
+    "Fruit",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "40"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "39"
+    }
+  ],
+  "weight": 4.36,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

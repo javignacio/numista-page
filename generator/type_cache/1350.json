@@ -1,0 +1,128 @@
+{
+  "id": 1350,
+  "url": "https://en.numista.com/1350",
+  "title": "2 Francs (with IEOM)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "french_polynesia_period",
+    "name": "French Polynesia (1957-date)"
+  },
+  "issuing_entity": {
+    "id": 6709,
+    "name": "Overseas Institution of Issue"
+  },
+  "min_year": 1973,
+  "max_year": 2020,
+  "ruler": [
+    {
+      "id": 5295,
+      "name": "French Overseas Territory",
+      "wikidata_id": "Q2327385"
+    },
+    {
+      "id": 5296,
+      "name": "French Overseas Collectivity",
+      "wikidata_id": "Q719487"
+    }
+  ],
+  "value": {
+    "text": "2 Francs",
+    "numeric_value": 2,
+    "currency": {
+      "id": 8112,
+      "name": "CFP Franc",
+      "full_name": "CFP Franc (1945-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2022-11-30"
+  },
+  "size": 27,
+  "thickness": 1.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium (95% Aluminium, 5% Magnesium)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Lucien Georges Bazor"
+    ],
+    "description": "Liberty sitting on throne, facing left holding lit torch in left hand. Assorted fruit in a cornucopia in bend of right arm.",
+    "lettering": "REPUBLIQUE FRANÇAISE\r\nI·E· O·M·\r\nG.B.BAZOR\r\n1995",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "French Republic",
+    "picture": "https://en.numista.com/catalogue/photos/french_polynesia_period/6543c6a329f2b6.16676597-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/french_polynesia_period/6543c6a329f2b6.16676597-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Lucien Georges Bazor"
+    ],
+    "description": "Palm trees on left, sea with sailboat in middle, mountains in distance. Boat with outrigger in foreground, plus assorted fruit in container",
+    "lettering": "POLYNESIE \r\n2 F.\r\nFRANÇAISE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "French Polynesia",
+    "picture": "https://en.numista.com/catalogue/photos/french_polynesia_period/6543c6a32ec788.97736344-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/french_polynesia_period/6543c6a32ec788.97736344-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p><a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.numista.com/catalogue/images/5da3689c689d9.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5da3689c689d9.jpg\" alt=\"\"></a></p>",
+  "tags": [
+    "Allegory",
+    "Tree",
+    "Cornucopia",
+    "Boat or watercraft"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "10"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "13"
+    }
+  ],
+  "weight": 2.2,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/french_polynesia_period/679196cc2e06b4.24990917-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/french_polynesia_period/679196cc2e06b4.24990917-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

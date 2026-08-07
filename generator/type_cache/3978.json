@@ -1,0 +1,131 @@
+{
+  "id": 3978,
+  "url": "https://en.numista.com/3978",
+  "title": "2 Colones",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "costa_rica",
+    "name": "Costa Rica"
+  },
+  "issuing_entity": {
+    "id": 907,
+    "name": "Central Bank of Costa Rica",
+    "wikidata_id": "Q4504273"
+  },
+  "min_year": 1968,
+  "max_year": 1978,
+  "ruler": [
+    {
+      "id": 3834,
+      "name": "Second Republic",
+      "wikidata_id": "Q800"
+    }
+  ],
+  "value": {
+    "text": "2 Colones",
+    "numeric_value": 2,
+    "currency": {
+      "id": 10,
+      "name": "Colón",
+      "full_name": "Colón (1896-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 32,
+  "thickness": 2.32,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Costa Rica coat of arms. Seven stars represent the seven provinces, three extinct volcanoes for the three mountain ranges, two ships symbolizing the country's geographical situation between atlantic and pacific ocean and sunrise on the left",
+    "lettering": "REPUBLICA DE COSTA RICA\r\nAMERICA CENTRAL\r\nREPUBLICA DE COSTA RICA\r\n. 1978 .",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Costa Rica\r\nCentral America\r\nRepublic of Costa Rica",
+    "picture": "https://en.numista.com/catalogue/photos/costa_rica/306-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/costa_rica/306-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Value within a laurel wreath and initials of the \"Banco Central de Costa Rica\"",
+    "lettering": "AMERICA CENTRAL\r\n2\r\nCOLONES\r\nB.C.C.R.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central America",
+    "picture": "https://en.numista.com/catalogue/photos/costa_rica/307-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/costa_rica/307-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "Although these coins have been demonetized, they are still redeemable at the Central Bank of Costa Rica.",
+  "tags": [
+    "Coat of Arms",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "187.2"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "46"
+    }
+  ],
+  "weight": 14,
+  "orientation": "coin",
+  "edge": {
+    "description": "Smooth with lettering",
+    "lettering": "BCCR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/costa_rica/697e194a7d51a5.63654499-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/costa_rica/697e194a7d51a5.63654499-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    },
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    },
+    {
+      "id": 4157,
+      "name": "VDM Metals / Vereinigte Deutsche Metallwerke"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

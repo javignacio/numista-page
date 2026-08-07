@@ -1,0 +1,100 @@
+{
+  "id": 3454,
+  "url": "https://en.numista.com/3454",
+  "title": "5 Escudos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "mozambique",
+    "name": "Mozambique"
+  },
+  "min_year": 1971,
+  "max_year": 1973,
+  "ruler": [
+    {
+      "id": 4696,
+      "name": "Overseas province of Portugal",
+      "wikidata_id": "Q889394",
+      "group": {
+        "id": 376,
+        "name": "Portuguese Mozambique"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Escudos",
+    "numeric_value": 5,
+    "currency": {
+      "id": 255,
+      "name": "Escudo",
+      "full_name": "Escudo (1911-1974)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 24.26,
+  "thickness": 1.9,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Portuguese Mozambique coat of arms within crowned globe, value at bottom.",
+    "lettering": "MOÇAMBIQUE\r\n5$00",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Mozambique",
+    "picture": "https://en.numista.com/catalogue/photos/mozambique/777-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mozambique/777-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "description": "Portuguese coat of arms within a globe on Order of Christ cross, date at bottom.",
+    "lettering": "REPÚBLICA·PORTUGUESA\r\n·1973·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Portugal",
+    "picture": "https://en.numista.com/catalogue/photos/mozambique/778-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mozambique/778-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "tags": [
+    "Coat of Arms",
+    "Cross"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "86"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "28"
+    }
+  ],
+  "weight": 7,
+  "orientation": "variable",
+  "edge": {
+    "description": "Milled"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,105 @@
+{
+  "id": 2453,
+  "url": "https://en.numista.com/2453",
+  "title": "2 Centimes",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "algerie",
+    "name": "Algeria"
+  },
+  "min_year": 1964,
+  "max_year": 1964,
+  "ruler": [
+    {
+      "id": 3733,
+      "name": "People's Democratic Republic",
+      "wikidata_id": "Q262"
+    }
+  ],
+  "value": {
+    "text": "2 Centimes",
+    "numeric_value": 0.02,
+    "currency": {
+      "id": 23,
+      "name": "Dinar",
+      "full_name": "Dinar (1964-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 18,
+  "thickness": 1.12,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium (95% Aluminium, 5% Magnesium and other metals)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The first emblem of Algeria (1971-1976): 2 Algerian flags, the Hand of Fatima and the star in a crescent",
+    "lettering": "الجمهورية الجزائرية الديمقراطية الشعبية",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "The People's Democratic Republic of Algeria",
+    "picture": "https://en.numista.com/catalogue/photos/algerie/521-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/algerie/521-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "reverse": {
+    "description": "Value surrounded by Arab Ornamentals",
+    "lettering": "1964 ۱٣٨٣\r\n٢\r\nسنتمان",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "1964 1383\r\n2\r\nCentimes",
+    "picture": "https://en.numista.com/catalogue/photos/algerie/522-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/algerie/522-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "tags": [
+    "Flag",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "95"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "5"
+    }
+  ],
+  "weight": 0.6,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/algerie/6978529e14a804.39456605-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/algerie/6978529e14a804.39456605-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 18,
+      "name": "Heaton and Sons / The Mint Birmingham"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

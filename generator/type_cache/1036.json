@@ -1,0 +1,150 @@
+{
+  "id": 1036,
+  "url": "https://en.numista.com/1036",
+  "title": "⅒ Balboa",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "panama",
+    "name": "Panama"
+  },
+  "min_year": 1966,
+  "max_year": 1993,
+  "ruler": [
+    {
+      "id": 4072,
+      "name": "Republic",
+      "wikidata_id": "Q804"
+    }
+  ],
+  "value": {
+    "text": "⅒ Balboa",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 5,
+      "name": "Balboa",
+      "full_name": "Balboa (1904-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 17.9,
+  "thickness": 1.35,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel clad copper (Cladding: 75% Copper, 25% Nickel; Core: 100% Copper)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms of Panama with 9 stars, legend above and wreath and date below.",
+    "lettering": "REPVBLICA DE PANAMA \r\n*********\r\nPRO MUNDI BENEFICIO\r\n1980",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Panama\r\n*********\r\nFor the benefit of the World\r\n1980",
+    "picture": "https://en.numista.com/catalogue/photos/panama/581-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/panama/581-180.jpg",
+    "picture_copyright": "www.vinosmaster.com"
+  },
+  "reverse": {
+    "description": "Armoured bust of Vasco Nunez de Balboa facing left with wreath below and denomination above. The bust touches the rim.",
+    "lettering": "VN · DECIMO · DE · BALBOA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "One-tenth of a Balboa",
+    "picture": "https://en.numista.com/catalogue/photos/panama/580-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/panama/580-180.jpg",
+    "picture_copyright": "www.vinosmaster.com",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "Balboa was a Spaniard, first European who crossed the Isthmus, reached the Pacific by land and discovered the Perlas Archipelago (1513). The 9 stars represent the 9 provinces of the country at that time (there are now 10).<br /><br />\r\nSince its separation from Colombia in 1903, Panama has used the United States Dollar. These coins have the same specifications as the <a href=\"https://en.numista.com/53\">United States Dime</a> and circulated alongside it.<br /><br />\r\nVariants: Type I thick flan with diamonds on both sides of the &quot;DE&quot; of value, was minted in London; Type II, thin flan, elongated diamonds, was minted in San Francisco. There is a third type with thick flan and lines around the &quot;DE&quot;:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/56d812f1b25a7.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/56d812f1b25a7.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nAccording to the Royal British Mint, there over 1.6 million 1967 dated coins were minted for circulation. The ultimate fate of these coins is currently unknown.<br /><br />\r\nFor the 1970 circulation coins, 1,380,000 were minted in 1970 and 6,120,000 were minted in 1971.<br />\r\nFor the 1980 dated coins, 2,000,000 were minted in 1979 and 2,000,000 were minted in 1980.",
+  "related_types": [
+    {
+      "id": 5258,
+      "title": "⅒ Balboa",
+      "category": "coin",
+      "country": {
+        "code": "panama",
+        "name": "Panama"
+      },
+      "minYear": 1930,
+      "maxYear": 1962
+    },
+    {
+      "id": 9547,
+      "title": "⅒ Balboa",
+      "category": "coin",
+      "country": {
+        "code": "panama",
+        "name": "Panama"
+      },
+      "minYear": 1961,
+      "maxYear": 1961
+    }
+  ],
+  "tags": [
+    "Coat of Arms",
+    "Explorer"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "10"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "10a"
+    }
+  ],
+  "weight": 2.27,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/panama/600e78ced03023.08536083-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/panama/600e78ced03023.08536083-180.jpg",
+    "picture_copyright": "Griffin S",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    },
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    },
+    {
+      "id": 10,
+      "name": "United States Mint of Denver"
+    },
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    },
+    {
+      "id": 12,
+      "name": "United States Mint of San Francisco"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

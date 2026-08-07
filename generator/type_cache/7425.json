@@ -1,0 +1,112 @@
+{
+  "id": 7425,
+  "url": "https://en.numista.com/7425",
+  "title": "10 Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "perou",
+    "name": "Peru"
+  },
+  "min_year": 1918,
+  "max_year": 1941,
+  "ruler": [
+    {
+      "id": 3757,
+      "name": "Republic",
+      "wikidata_id": "Q419"
+    }
+  ],
+  "value": {
+    "text": "10 Centavos",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 218,
+      "name": "Sol",
+      "full_name": "Sol (1863-1930) / Sol de Oro (1931-1985)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 20,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Head right",
+    "lettering": "REPUBLICA PERUANA\r\nUN MIL NOVECIENTOS VEINTE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Peruvian Republic\r\nOne Thousand Nine Hundred and Twenty",
+    "picture": "https://en.numista.com/catalogue/photos/perou/694cdf39d03fb4.16225853-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/694cdf39d03fb4.16225853-180.jpg",
+    "picture_copyright": "JosueM",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Value to right of sprig",
+    "lettering": "10\r\nCENTAVOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/perou/694cdf3a5e0240.50453324-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/694cdf3a5e0240.50453324-180.jpg",
+    "picture_copyright": "JosueM",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "comments": "Coins dated between 1918 and 1926 were minted by the United States mint in Philadelphia.<br />\r\nCoins dated 1934 and after were minted by the British Royal Mint.",
+  "tags": [
+    "Allegory"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "214"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "18"
+    }
+  ],
+  "weight": 3.86,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/perou/651e2c45616264.85761314-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/651e2c45616264.85761314-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    },
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

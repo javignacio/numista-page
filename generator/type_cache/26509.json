@@ -1,0 +1,111 @@
+{
+  "id": 26509,
+  "url": "https://en.numista.com/26509",
+  "title": "1 Lek (Magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "albanie",
+    "name": "Albania"
+  },
+  "min_year": 2008,
+  "max_year": 2013,
+  "ruler": [
+    {
+      "id": 583,
+      "name": "Fourth Republic",
+      "wikidata_id": "Q222"
+    }
+  ],
+  "value": {
+    "text": "1 Lek",
+    "numeric_value": 1,
+    "currency": {
+      "id": 311,
+      "name": "New lek",
+      "full_name": "New lek (1965-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2010-07-21"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 18.1,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Kujtim Qami"
+    ],
+    "description": "Dalmatian Pelican left",
+    "lettering": "· REPUBLIKA E SHQIPERISE ·\r\n2008",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Albania",
+    "picture": "https://en.numista.com/catalogue/photos/albanie/823-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/albanie/823-180.jpg",
+    "picture_copyright": "Makake"
+  },
+  "reverse": {
+    "engravers": [
+      "Kujtim Qami"
+    ],
+    "description": "Denomination",
+    "lettering": "1\r\nLEK",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/albanie/824-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/albanie/824-180.jpg",
+    "picture_copyright": "Makake"
+  },
+  "comments": "<p>Issue date of 2008-dated coins: September 7, 2010</p><p>Issue date of 2013-dated coins: December 1, 2014</p>",
+  "related_types": [
+    {
+      "id": 6530,
+      "title": "1 Lek (Non-magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "albanie",
+        "name": "Albania"
+      },
+      "minYear": 1996,
+      "maxYear": 1996
+    }
+  ],
+  "tags": [
+    "Bird"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "75a"
+    }
+  ],
+  "weight": 3,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

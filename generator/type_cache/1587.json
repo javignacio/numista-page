@@ -1,0 +1,184 @@
+{
+  "id": 1587,
+  "url": "https://en.numista.com/1587",
+  "title": "10 New Dollars",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "taiwan",
+    "name": "Taiwan"
+  },
+  "min_year": 1981,
+  "max_year": 2010,
+  "ruler": [
+    {
+      "id": 5351,
+      "name": "Republic",
+      "wikidata_id": "Q865"
+    }
+  ],
+  "value": {
+    "text": "10 Yuan",
+    "numeric_value": 10,
+    "currency": {
+      "id": 57,
+      "name": "New dollar",
+      "full_name": "New dollar (1949-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 26,
+  "thickness": 1.63,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Bust of Chiang Kai-shek left",
+    "lettering": "年六十九國民華中",
+    "lettering_scripts": [
+      {
+        "name": "Chinese (traditional, regular script)"
+      }
+    ],
+    "lettering_translation": "Republic of China - Year 96",
+    "picture": "https://en.numista.com/catalogue/photos/taiwan/300-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/taiwan/300-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "reverse": {
+    "description": "Chinese symbols in center, 10 below",
+    "lettering": "圓拾\r\n10",
+    "lettering_scripts": [
+      {
+        "name": "Chinese (traditional, regular script)"
+      }
+    ],
+    "lettering_translation": "10 Dollars",
+    "picture": "https://en.numista.com/catalogue/photos/taiwan/301-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/taiwan/301-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "related_types": [
+    {
+      "id": 10246,
+      "title": "10 New Dollars (Taiwan's Retrocession)",
+      "category": "coin",
+      "country": {
+        "code": "taiwan",
+        "name": "Taiwan"
+      },
+      "minYear": 1995,
+      "maxYear": 1995
+    },
+    {
+      "id": 10248,
+      "title": "10 New Dollars (Monetary Reform)",
+      "category": "coin",
+      "country": {
+        "code": "taiwan",
+        "name": "Taiwan"
+      },
+      "minYear": 1999,
+      "maxYear": 1999
+    },
+    {
+      "id": 10249,
+      "title": "10 New Dollars (Millennium)",
+      "category": "coin",
+      "country": {
+        "code": "taiwan",
+        "name": "Taiwan"
+      },
+      "minYear": 2000,
+      "maxYear": 2000
+    },
+    {
+      "id": 10250,
+      "title": "10 New Dollars (90 Years Republic of China)",
+      "category": "coin",
+      "country": {
+        "code": "taiwan",
+        "name": "Taiwan"
+      },
+      "minYear": 2001,
+      "maxYear": 2001
+    },
+    {
+      "id": 13334,
+      "title": "10 New Dollars (Chiang Ching-kuo)",
+      "category": "coin",
+      "country": {
+        "code": "taiwan",
+        "name": "Taiwan"
+      },
+      "minYear": 2010,
+      "maxYear": 2010
+    },
+    {
+      "id": 15609,
+      "title": "10 New Dollars (Chiang Wei-shui)",
+      "category": "coin",
+      "country": {
+        "code": "taiwan",
+        "name": "Taiwan"
+      },
+      "minYear": 2010,
+      "maxYear": 2010
+    },
+    {
+      "id": 19429,
+      "title": "10 New Dollars",
+      "category": "coin",
+      "country": {
+        "code": "taiwan",
+        "name": "Taiwan"
+      },
+      "minYear": 2011,
+      "maxYear": 2023
+    }
+  ],
+  "tags": [
+    "Politician",
+    "Flower"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "553"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "23"
+    }
+  ],
+  "weight": 7.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Milled",
+    "picture": "https://en.numista.com/catalogue/photos/taiwan/691e5784b7e426.86414152-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/taiwan/691e5784b7e426.86414152-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 4724,
+      "name": "Central Mint of Taiwan"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

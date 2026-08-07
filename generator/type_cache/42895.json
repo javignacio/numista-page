@@ -1,0 +1,111 @@
+{
+  "id": 42895,
+  "url": "https://en.numista.com/42895",
+  "title": "10 Cents",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "singapour",
+    "name": "Singapore"
+  },
+  "min_year": 2013,
+  "max_year": 2019,
+  "ruler": [
+    {
+      "id": 906,
+      "name": "Republic",
+      "wikidata_id": "Q334"
+    }
+  ],
+  "value": {
+    "text": "10 Cents",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 55,
+      "name": "Dollar",
+      "full_name": "Dollar (1967-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 18.5,
+  "thickness": 1.38,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Christopher Ironside"
+    ],
+    "description": "Emblem with the date underneath and 'Singapore' on four sides in English, Tamil, Chinese, and Malay.",
+    "lettering": "SINGAPURA \r\nசிங்கப்பூர் 新加坡\r\nSINGAPORE\r\n2013",
+    "lettering_scripts": [
+      {
+        "name": "Chinese"
+      },
+      {
+        "name": "Latin"
+      },
+      {
+        "name": "Tamil"
+      }
+    ],
+    "lettering_translation": "Singapore\r\nSingapore Singapore\r\nSingapore\r\n2013",
+    "picture": "https://en.numista.com/catalogue/photos/singapour/314-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/singapour/314-180.jpg",
+    "picture_copyright": "didi83"
+  },
+  "reverse": {
+    "engravers": [
+      "Fabian Lim"
+    ],
+    "description": "Lion-head motif, Public housing, and denomination",
+    "lettering": "10 \r\nCENTS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/singapour/315-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/singapour/315-180.jpg",
+    "picture_copyright": "didi83"
+  },
+  "tags": [
+    "Cat or feline",
+    "Other building",
+    "Tree",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "346"
+    }
+  ],
+  "weight": 2.36,
+  "orientation": "medal",
+  "edge": {
+    "description": "Segmented reeding (four segments with 15 grooves each)",
+    "picture": "https://en.numista.com/catalogue/photos/singapour/313-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/singapour/313-180.jpg",
+    "picture_copyright": "ZacUK"
+  },
+  "mints": [
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

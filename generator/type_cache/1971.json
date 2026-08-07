@@ -1,0 +1,129 @@
+{
+  "id": 1971,
+  "url": "https://en.numista.com/1971",
+  "title": "2 Santimi",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "lettonie",
+    "name": "Latvia"
+  },
+  "min_year": 1992,
+  "max_year": 2009,
+  "ruler": [
+    {
+      "id": 2046,
+      "name": "Republic",
+      "wikidata_id": "Q211"
+    }
+  ],
+  "value": {
+    "text": "2 Santimi",
+    "numeric_value": 0.02,
+    "currency": {
+      "id": 99,
+      "name": "New lats",
+      "full_name": "New lats (1993-2013)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2014-01-14"
+  },
+  "size": 17,
+  "thickness": 1.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper clad steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Jānis Strupulis"
+    ],
+    "designers": [
+      "Gunārs Lūsis"
+    ],
+    "description": "The small coat of arms of the Republic of Latvia, encircled by the inscription LATVIJAS REPUBLIKA 2000.",
+    "lettering": "LATVIJAS REPUBLIKA\r\n· 2000 ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Latvia\r\n· 2000 ·",
+    "picture": "https://en.numista.com/catalogue/photos/lettonie/3-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/lettonie/3-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Jānis Strupulis"
+    ],
+    "designers": [
+      "Gunārs Lūsis"
+    ],
+    "description": "The numeral 2 is centered on the coin. The inscription SANTĪMI, arranged in a semicircle at the bottom. Above the numeral five arcs join two diamond-shaped suns which are located on either side of the numeral 2.",
+    "lettering": "2\r\nSANTĪMI",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/lettonie/4-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/lettonie/4-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "<p>Error for 1992, steel, 1.91g:<br><a href=\"https://en.numista.com/catalogue/images/5b37cd6e33f91.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5b37cd6e33f91.jpg\" alt=\"\"></a> <a href=\"https://en.numista.com/catalogue/images/5b37cd7c9b48a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5b37cd7c9b48a.jpg\" alt=\"\"></a></p>",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "21"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "13"
+    }
+  ],
+  "weight": 1.9,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/lettonie/615225ba381a39.60896393-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/lettonie/615225ba381a39.60896393-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 1,
+      "name": "Munich"
+    },
+    {
+      "id": 23,
+      "name": "Royal Dutch Mint"
+    },
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    },
+    {
+      "id": 2,
+      "name": "State Mint of Stuttgart / State Mints of Baden-Württemberg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

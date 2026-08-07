@@ -1,0 +1,202 @@
+{
+  "id": 27139,
+  "url": "https://en.numista.com/27139",
+  "title": "1 Riyal - Faisal I",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "irak",
+    "name": "Iraq"
+  },
+  "min_year": 1932,
+  "max_year": 1932,
+  "ruler": [
+    {
+      "id": 3856,
+      "name": "Faisal I",
+      "wikidata_id": "Q212486",
+      "group": {
+        "id": 237,
+        "name": "British Mandate of Mesopotamia"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Riyal",
+    "numeric_value": 0.2,
+    "numerator": 1,
+    "denominator": 5,
+    "currency": {
+      "id": 25,
+      "name": "Dinar",
+      "full_name": "Dinar (1931-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1961-01-06"
+  },
+  "size": 34,
+  "thickness": 2.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.500)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Percy Metcalfe"
+    ],
+    "description": "King Faisal (Reign: 1921-1933) in profile right\r\nlettering on either side",
+    "lettering": "فيصل الأول\r\nملك العراق",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "Faisal I.\r\nKing of Iraq",
+    "picture": "https://en.numista.com/catalogue/photos/irak/680a573dad9cc2.88320254-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/irak/680a573dad9cc2.88320254-180.jpg",
+    "picture_copyright": "pharaohra",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Denomination in the center with dates by sides in Gregorian and Islamic calendars. Official name of the country above and below the denomination",
+    "lettering": "المملكة\r\nريال\r\n١٣٥٠ ١٩٣٢\r\nالعراقية",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "Kingdom\r\n1 Rial\r\n1932 1350\r\nof Iraq",
+    "picture": "https://en.numista.com/catalogue/photos/irak/680a573dbe8d68.64859150-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/irak/680a573dbe8d68.64859150-180.jpg",
+    "picture_copyright": "pharaohra",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "related_types": [
+    {
+      "id": 24784,
+      "title": "1 Fils - Faisal I",
+      "category": "coin",
+      "country": {
+        "code": "irak",
+        "name": "Iraq"
+      },
+      "minYear": 1931,
+      "maxYear": 1933
+    },
+    {
+      "id": 6643,
+      "title": "2 Fils - Faisal I",
+      "category": "coin",
+      "country": {
+        "code": "irak",
+        "name": "Iraq"
+      },
+      "minYear": 1931,
+      "maxYear": 1933
+    },
+    {
+      "id": 8599,
+      "title": "4 Fils - Faisal I",
+      "category": "coin",
+      "country": {
+        "code": "irak",
+        "name": "Iraq"
+      },
+      "minYear": 1931,
+      "maxYear": 1933
+    },
+    {
+      "id": 8604,
+      "title": "10 Fils - Faisal I",
+      "category": "coin",
+      "country": {
+        "code": "irak",
+        "name": "Iraq"
+      },
+      "minYear": 1931,
+      "maxYear": 1933
+    },
+    {
+      "id": 12676,
+      "title": "20 Fils - Faisal I",
+      "category": "coin",
+      "country": {
+        "code": "irak",
+        "name": "Iraq"
+      },
+      "minYear": 1931,
+      "maxYear": 1933
+    },
+    {
+      "id": 10747,
+      "title": "50 Fils - Faisal I",
+      "category": "coin",
+      "country": {
+        "code": "irak",
+        "name": "Iraq"
+      },
+      "minYear": 1931,
+      "maxYear": 1933
+    }
+  ],
+  "tags": [
+    "Monarch"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "101"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "7"
+    },
+    {
+      "catalogue": {
+        "id": 938,
+        "code": "Dav AAO"
+      },
+      "number": "255"
+    }
+  ],
+  "weight": 20,
+  "orientation": "medal",
+  "edge": {
+    "description": "Inscripted",
+    "lettering": "٢٠٠",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "200",
+    "picture": "https://en.numista.com/catalogue/photos/irak/680a573dc12098.02992081-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/irak/680a573dc12098.02992081-180.jpg",
+    "picture_copyright": "pharaohra",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

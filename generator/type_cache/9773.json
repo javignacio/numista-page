@@ -1,0 +1,116 @@
+{
+  "id": 9773,
+  "url": "https://en.numista.com/9773",
+  "title": "10 Córdobas",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "nicaragua",
+    "name": "Nicaragua"
+  },
+  "issuing_entity": {
+    "id": 863,
+    "name": "Central Bank of Nicaragua",
+    "wikidata_id": "Q4504274"
+  },
+  "min_year": 2007,
+  "max_year": 2007,
+  "ruler": [
+    {
+      "id": 4284,
+      "name": "Republic",
+      "wikidata_id": "Q811"
+    }
+  ],
+  "value": {
+    "text": "10 Córdobas",
+    "numeric_value": 10,
+    "currency": {
+      "id": 3150,
+      "name": "Third Córdoba \"Oro\"",
+      "full_name": "Third Córdoba \"Oro\" (1991-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 26.5,
+  "thickness": 2.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms with legend around",
+    "lettering": "REPÚBLICA DE NICARAGUA\r\nAMÉRICA CENTRAL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Nicaragua\r\nCentral America",
+    "picture": "https://en.numista.com/catalogue/photos/nicaragua/6014881116d8c9.28637881-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nicaragua/6014881116d8c9.28637881-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "description": "Value, date, and latent at left. Statue of Andrés Castro at right.",
+    "lettering": "10\r\nCÓRDOBAS\r\n2007\r\nBCN / 10\r\nANDRÉS CASTRO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Banco Central de Nicaragua",
+    "lettering_translation": "Central Bank of Nicaragua",
+    "picture": "https://en.numista.com/catalogue/photos/nicaragua/601488119e5d08.48175071-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nicaragua/601488119e5d08.48175071-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "comments": "Latent image:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/650c93ee5d614.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/650c93ee5d614.jpg\" alt=\"\" width=\"200\" height=\"140\" /></a>",
+  "tags": [
+    "Sculpture",
+    "Coat of Arms",
+    "Latent image"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "102"
+    }
+  ],
+  "weight": 8.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Smooth with inscription",
+    "lettering": "B C N ▲ B C N ▲ B C N ▲",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Banco Central de Nicaragua",
+    "lettering_translation": "Central Bank of Nicaragua",
+    "picture": "https://en.numista.com/catalogue/photos/nicaragua/69ff59c5664580.92638389-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nicaragua/69ff59c5664580.92638389-180.jpg",
+    "picture_copyright": "E. Timmermans",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

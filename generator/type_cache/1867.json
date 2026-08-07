@@ -1,0 +1,111 @@
+{
+  "id": 1867,
+  "url": "https://en.numista.com/1867",
+  "title": "½ Penny - Edward VII",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1902,
+  "max_year": 1910,
+  "ruler": [
+    {
+      "id": 271,
+      "name": "Edward VII",
+      "wikidata_id": "Q20875",
+      "group": {
+        "id": 526,
+        "name": "House of Saxe-Coburg and Gotha"
+      }
+    }
+  ],
+  "value": {
+    "text": "½ Penny",
+    "numeric_value": 0.0020833333333333333,
+    "numerator": 1,
+    "denominator": 480,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1971)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1969-08-01"
+  },
+  "size": 25.5,
+  "thickness": 1.3,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "George William de Saulles"
+    ],
+    "description": "Uncrowned portrait of King Edward VII facing right, legend around.",
+    "lettering": "EDWARDVS VII DEI GRA:BRITT:OMN:REX FID:DEF:IND:IMP:\r\nDES",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Edwardus VII Dei Gratia Britanniarum Omnium Rex Fidei Defensor Indiae Imperator",
+    "lettering_translation": "Edward the Seventh by the Grace of God King of all the Britains Defender of the Faith Emperor of India",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/4022-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/4022-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "engravers": [
+      "Leonard Charles Wyon"
+    ],
+    "description": "Seated figure of Britannia right, trident in left hand, shield bearing the Union flag in right, denomination around, date in exergue, sea behind.",
+    "lettering": "HALF PENNY\r\n1903",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/4023-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/4023-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "The standard weight of these pieces was 80 to the pound or one fifth ounce avoirdupois (87½ grains).<br /><br />\r\n<span style=\"font-style:italic;\">1902 reverse die varieties:</span><br /><br />\r\nHalfpennies struck early in 1902 used the same reverse die as the veiled head Victoria issue.<br />\r\nThis was slightly changed during 1902, resulting in the low tide and normal tide varieties.<br /><br />\r\n<span style=\"font-weight:bold;\">KM#793.1, Sp#3991A</span> <span style=\"font-style:italic;\">(1902 only)</span> Low Tide, sea level further from Y, meets folds in Britannia&#039;s robe;<br />\r\n<span style=\"font-weight:bold;\">KM#793.2, Sp#3991</span> <span style=\"font-style:italic;\">(1902-1910)</span> Normal Tide, sea level closer to Y, meets where Britannia&#039;s legs cross;<br /><br />\r\nWe are indebted to <a href=\"http://www.declanmageecoins.co.uk\" rel=\"nofollow\">Declan Magee Coins</a> and Numista member<br />\r\n&nbsp;Sjoelund for the image below indicating the differences.<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/6221e4f35c784.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6221e4f35c784.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "tags": [
+    "Armour",
+    "Sea"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "793"
+    }
+  ],
+  "weight": 5.67,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

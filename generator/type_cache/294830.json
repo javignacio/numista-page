@@ -1,0 +1,181 @@
+{
+  "id": 294830,
+  "url": "https://en.numista.com/294830",
+  "title": "5 Francs (Herdsman; copper-nickel; incuse edge)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "suisse",
+    "name": "Switzerland (1848-date)"
+  },
+  "min_year": 1985,
+  "max_year": 1993,
+  "ruler": [
+    {
+      "id": 2857,
+      "name": "Federal State",
+      "wikidata_id": "Q355857"
+    }
+  ],
+  "value": {
+    "text": "5 Francs",
+    "numeric_value": 5,
+    "currency": {
+      "id": 82,
+      "name": "Franc",
+      "full_name": "Franc (1850-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2004-01-01"
+  },
+  "size": 31.45,
+  "thickness": 2.35,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% copper, 25% nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Paul Burkhard"
+    ],
+    "description": "Bust of curly-haired herdsman, facing right, wearing hooded shirt, often mistakenly identified as William Tell.",
+    "lettering": "CONFOEDERATIO HELVETICA\r\nP , BVRKHARD , INCᵀ,",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Confoederatio Helvetica. Paul Burkhard incidit.",
+    "lettering_translation": "Swiss Confederation. Engraved by Paul Burkhard.",
+    "picture": "https://en.numista.com/catalogue/photos/suisse/60a8a8c5384bb0.40443465-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suisse/60a8a8c5384bb0.40443465-180.jpg",
+    "picture_copyright": "World Coin Gallery",
+    "picture_copyright_url": "http://worldcoingallery.com"
+  },
+  "reverse": {
+    "designers": [
+      "Paul Burkhard"
+    ],
+    "description": "Coat of arms of Switzerland on square shield. Edelweiss (Leontopodium nivale) spring to the left. Alpenrose (Rhododendron ferrugineum) spring to the right.",
+    "lettering": "5 FR.\r\n1985",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/suisse/60a8a8c57a5ff2.65648314-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suisse/60a8a8c57a5ff2.65648314-180.jpg",
+    "picture_copyright": "World Coin Gallery",
+    "picture_copyright_url": "http://worldcoingallery.com"
+  },
+  "related_types": [
+    {
+      "id": 193,
+      "title": "5 Francs (Herdsman; silver; large type; 5 Fr.)",
+      "category": "coin",
+      "country": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "minYear": 1922,
+      "maxYear": 1923
+    },
+    {
+      "id": 19999,
+      "title": "5 Francs (Herdsman; silver; large type; 5 FR.)",
+      "category": "coin",
+      "country": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "minYear": 1924,
+      "maxYear": 1928
+    },
+    {
+      "id": 194,
+      "title": "5 Francs (Herdsman; silver; small type)",
+      "category": "coin",
+      "country": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "minYear": 1931,
+      "maxYear": 1969
+    },
+    {
+      "id": 195,
+      "title": "5 Francs (Herdsman; copper-nickel; embossed edge)",
+      "category": "coin",
+      "country": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "minYear": 1968,
+      "maxYear": 2026
+    }
+  ],
+  "tags": [
+    "Coat of Arms",
+    "Flower",
+    "Cross"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 1253,
+        "code": "HMZ 2"
+      },
+      "number": "1200"
+    },
+    {
+      "catalogue": {
+        "id": 962,
+        "code": "Divo/Tob19"
+      },
+      "number": "–"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "40a.3"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "36a"
+    },
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "–"
+    }
+  ],
+  "weight": 13.2,
+  "orientation": "medal",
+  "edge": {
+    "description": "Incuse lettering.",
+    "lettering": "DOMINUS PROVIDEBIT ★★★★★★★★★★★★★",
+    "lettering_translation": "The Lord will provide."
+  },
+  "mints": [
+    {
+      "id": 247,
+      "name": "Bern"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

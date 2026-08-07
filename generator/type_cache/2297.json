@@ -1,0 +1,120 @@
+{
+  "id": 2297,
+  "url": "https://en.numista.com/2297",
+  "title": "50 Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "argentine",
+    "name": "Argentina"
+  },
+  "min_year": 1992,
+  "max_year": 2010,
+  "ruler": [
+    {
+      "id": 3983,
+      "name": "Federal Republic",
+      "wikidata_id": "Q414"
+    }
+  ],
+  "value": {
+    "text": "50 Centavos",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 145,
+      "name": "Peso convertible",
+      "full_name": "Peso convertible (1992-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25.2,
+  "thickness": 1.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Tucuman Building with the issuer name above and a legend below",
+    "lettering": "REPUBLICA ARGENTINA\r\n· EN UNION Y LIBERTAD ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Argentinian Republic\r\nIn Union and Liberty",
+    "picture": "https://en.numista.com/catalogue/photos/argentine/1497-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/1497-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "description": "Denomination above the date",
+    "lettering": "50\r\nCENTAVOS\r\n2010",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/argentine/1498-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/1498-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "comments": "I have found at least 7 different fonts although I do not have the 1992 or 2009 bold coins.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/6019dc9974653.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6019dc9974653.jpg\" alt=\"\" width=\"200\" height=\"200\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/6019dcaa93152.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6019dcaa93152.jpg\" alt=\"\" width=\"200\" height=\"200\" /></a><br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5c389f992319f.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5c389f992319f.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\n1994 160,000,000 KM#111.1 (fine letters; fine reeding, 72 beads)<br />\r\n2009 122,800,000 KM#111.1 (fine letters; coarse reeding, 96 beads)<br /><br />\r\n1994 has 72 beads and 2009 has 96 beads:<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5602fa81d8c8a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5602fa81d8c8a.jpg\" alt=\"\" width=\"200\" height=\"98\" /></a><br /><br /><br />\r\nThe easiest difference to see is in the &quot;9&quot;s.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5815cd5445932.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5815cd5445932.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><a href=\"https://en.numista.com/catalogue/images/5815cd600c8e7.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5815cd600c8e7.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nThe difference in letter size exists. Information in World Coins Catalog concerning the different metals used (Brass and Copper-nickel) is wrong: both coin types are Aluminium-bronze.<br /><br />\r\nDifferent varieties exist concerning spacing between denomination letters and the number of beads on the reverse.<br /><br />\r\nImage of 1994 with 72 beads (left) and 96 beads (right)<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5fe7bee645522.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5fe7bee645522.jpg\" alt=\"\" width=\"188\" height=\"250\" /></a><br /><br />\r\n2010<br />\r\n<a href=\"https://en.numista.com/catalogue/images/61aa28019d75c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/61aa28019d75c.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "tags": [
+    "Museum"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "111.1, 111.2"
+    },
+    {
+      "catalogue": {
+        "id": 160,
+        "code": "CJ"
+      },
+      "number": "5"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "112"
+    }
+  ],
+  "weight": 5.8,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded \r\n\r\nNOTE: issues with fine and more coarse reeding exist."
+  },
+  "mints": [
+    {
+      "id": 1336,
+      "name": "Buenos Aires"
+    },
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    },
+    {
+      "id": 1262,
+      "name": "Kremnica"
+    },
+    {
+      "id": 1300,
+      "name": "South African Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

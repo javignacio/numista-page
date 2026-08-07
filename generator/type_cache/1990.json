@@ -1,0 +1,115 @@
+{
+  "id": 1990,
+  "url": "https://en.numista.com/1990",
+  "title": "5 Lepta - George I (1st portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "grece",
+    "name": "Greece"
+  },
+  "min_year": 1869,
+  "max_year": 1870,
+  "ruler": [
+    {
+      "id": 1256,
+      "name": "George I",
+      "wikidata_id": "Q17142",
+      "group": {
+        "id": 471,
+        "name": "Kingdom of Greece • House of Schleswig-Holstein-Sonderburg-Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Lepta",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 309,
+      "name": "First modern drachma",
+      "full_name": "First modern drachma (1832-1944)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 25,
+  "thickness": 1,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze (95% Copper, 4% Tin, 1% Zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Désiré-Albert Barre"
+    ],
+    "description": "Portrait of young King George I head facing left, date below",
+    "lettering": "ΓΕΩΡΓΙΟΣ Α! ΒΑΣΙΛΕΥΣ ΤΩΝ ΕΛΛΗΝΩΝ\r\nΒΑΡΡΕ 1869",
+    "lettering_scripts": [
+      {
+        "name": "Greek"
+      }
+    ],
+    "lettering_translation": "GEORGE I KING OF THE GREEKS \r\nBARRE 1869",
+    "picture": "https://en.numista.com/catalogue/photos/grece/64ac2b92177d91.60165855-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/grece/64ac2b92177d91.60165855-180.jpg",
+    "picture_copyright": "Greekcoins",
+    "picture_copyright_url": "https://www.greekcoins.gr/"
+  },
+  "reverse": {
+    "engravers": [
+      "Désiré-Albert Barre"
+    ],
+    "description": "Denomination within wreath",
+    "lettering": "ΟΒΟΛΟΣ 5 ΛΕΠΤΑ",
+    "lettering_scripts": [
+      {
+        "name": "Greek"
+      }
+    ],
+    "lettering_translation": "OBOL 5 LEPTA",
+    "picture": "https://en.numista.com/catalogue/photos/grece/64ac2b925542e0.15894990-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/grece/64ac2b925542e0.15894990-180.jpg",
+    "picture_copyright": "Greekcoins",
+    "picture_copyright_url": "https://www.greekcoins.gr/"
+  },
+  "comments": "this currency was minted according to the standards of the Latin Union",
+  "tags": [
+    "Monarch",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "42"
+    }
+  ],
+  "weight": 5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/grece/67d0e3a60439e9.14541223-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/grece/67d0e3a60439e9.14541223-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    },
+    {
+      "id": 73,
+      "name": "Strasbourg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

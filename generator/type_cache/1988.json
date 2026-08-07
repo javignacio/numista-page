@@ -1,0 +1,126 @@
+{
+  "id": 1988,
+  "url": "https://en.numista.com/1988",
+  "title": "1 Kuna (Croatian text)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "croatie",
+    "name": "Croatia"
+  },
+  "min_year": 1993,
+  "max_year": 2021,
+  "ruler": [
+    {
+      "id": 3278,
+      "name": "Republic",
+      "wikidata_id": "Q224"
+    }
+  ],
+  "value": {
+    "text": "1 Kuna",
+    "numeric_value": 1,
+    "currency": {
+      "id": 91,
+      "name": "Kuna",
+      "full_name": "Kuna (1994-2022)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2023-01-15"
+  },
+  "size": 22.5,
+  "thickness": 1.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass (65% Copper, 23.2% Zinc, 11.8% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Kuzma Kovačić"
+    ],
+    "description": "In the upper half-circle is a marten running to the right and the value in numerals in front of its body and the word \"KUNA\" written underneath. Along the edge upper rim is written issuers name in Croatian and the Croatian coat of arms in the middle of the lower edge in between stylized wheat ears to the right a stylized olive branch with fruits to the left.",
+    "lettering": "REPUBLIKA HRVATSKA\r\n1\r\nKUNA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "REPUBLIC OF CROATIA\r\n1\r\nKUNA",
+    "picture": "https://en.numista.com/catalogue/photos/croatie/294-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/croatie/294-180.jpg",
+    "picture_copyright": "HOOK"
+  },
+  "reverse": {
+    "engravers": [
+      "Kuzma Kovačić"
+    ],
+    "description": "A nightingale is facing left in the center with the initials of the designer near its foot and the Croatian name of the nightingale (SLAVUJ) above around the rim and the date in the central part of the bottom of the coin.",
+    "lettering": "SLAVUJ\r\nKK\r\n2005.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "NIGHTINGALE\r\nKK\r\n2005.",
+    "picture": "https://en.numista.com/catalogue/photos/croatie/293-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/croatie/293-180.jpg",
+    "picture_copyright": "HOOK"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/5ce059c02bcac.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5ce059c02bcac.jpg\" alt=\"\" width=\"200\" height=\"124\" /></a><br />\r\nThe engraver of the coin, Kuzma Kovačić, is a distinguished Croatian academic sculptor.<br /><br />\r\nYear of minting-in circulation from:<br />\r\n1993-30.5.1994.<br />\r\n1995.-15.7.1995.<br />\r\n1997.-15.5.1997.<br />\r\n2001.-20.2.2001.<br />\r\n2003.-24.2.2003.<br />\r\n2005.-26.1.2005.<br />\r\n2007.-29.1.2007.<br />\r\n2009.-23.2.2009.<br />\r\n2011.-21.3.2011.<br />\r\n2013.-22.4.2013.",
+  "related_types": [
+    {
+      "id": 4816,
+      "title": "1 Kuna (Latin text)",
+      "category": "coin",
+      "country": {
+        "code": "croatie",
+        "name": "Croatia"
+      },
+      "minYear": 1994,
+      "maxYear": 2022
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Other animal",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "9.1"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "13.1"
+    }
+  ],
+  "weight": 5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded (86 grooves)",
+    "picture": "https://en.numista.com/catalogue/photos/croatie/6151cf9e566852.70780008-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/croatie/6151cf9e566852.70780008-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 4815,
+      "name": "Croatian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

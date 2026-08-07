@@ -1,0 +1,113 @@
+{
+  "id": 8746,
+  "url": "https://en.numista.com/8746",
+  "title": "10 Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "costa_rica",
+    "name": "Costa Rica"
+  },
+  "issuing_entity": {
+    "id": 2682,
+    "name": "Government of Costa Rica"
+  },
+  "min_year": 1917,
+  "max_year": 1919,
+  "ruler": [
+    {
+      "id": 3833,
+      "name": "First Republic",
+      "wikidata_id": "Q60038319"
+    }
+  ],
+  "value": {
+    "text": "10 Centavos",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 10,
+      "name": "Colón",
+      "full_name": "Colón (1896-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 18,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Costa Rica coat of arms. Five stars represent the five provinces, three extinct volcanoes for the three mountain ranges, two ships symbolizing the country's geographical situation between atlantic and pacific ocean and sunrise on the left",
+    "lettering": "REPUBLICA DE COSTA RICA\r\n1919",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Costa Rica",
+    "picture": "https://en.numista.com/catalogue/photos/costa_rica/6276734889cba0.48202028-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/costa_rica/6276734889cba0.48202028-180.jpg",
+    "picture_copyright": "Yurek70"
+  },
+  "reverse": {
+    "description": "Value within a laurel wreath and initials of the Government of Costa Rica.",
+    "lettering": "AMERICA CENTRAL\r\n10\r\nCENTAVOS\r\nG.C.R.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "America Central\r\n10\r\nCentavos\r\nGobierno de Costa Rica",
+    "lettering_translation": "Central America\r\n10\r\nCentavos\r\nGovernment of Costa Rica",
+    "picture": "https://en.numista.com/catalogue/photos/costa_rica/6276734a3397b4.71171257-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/costa_rica/6276734a3397b4.71171257-180.jpg",
+    "picture_copyright": "Yurek70"
+  },
+  "comments": "Although these coins have been demonetized, they are still redeemable at the Central Bank of Costa Rica.",
+  "related_types": [
+    {
+      "id": 29639,
+      "title": "10 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "costa_rica",
+        "name": "Costa Rica"
+      },
+      "minYear": 1917,
+      "maxYear": 1917
+    }
+  ],
+  "tags": [
+    "Coat of Arms",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "149"
+    }
+  ],
+  "weight": 2,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 4173,
+      "name": "Casa Nacional de Moneda de Costa Rica"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

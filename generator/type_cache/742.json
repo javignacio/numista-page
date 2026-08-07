@@ -1,0 +1,125 @@
+{
+  "id": 742,
+  "url": "https://en.numista.com/742",
+  "title": "5 Schilling (Copper-nickel)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "autriche",
+    "name": "Austria"
+  },
+  "min_year": 1968,
+  "max_year": 2001,
+  "ruler": [
+    {
+      "id": 149,
+      "name": "Second Republic",
+      "wikidata_id": "Q40"
+    }
+  ],
+  "value": {
+    "text": "5 Schilling",
+    "numeric_value": 5,
+    "currency": {
+      "id": 178,
+      "name": "Second Schilling",
+      "full_name": "Second Schilling (1945-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2002-02-28"
+  },
+  "size": 23.5,
+  "thickness": 1.51,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Hans Köttenstorfer"
+    ],
+    "description": "Lipizzaner stallion with rider, rearing left.",
+    "lettering": "· REPUBLIK ·\r\nÖSTERREICH",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/autriche/63b80f7b24e6e8.99276178-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/autriche/63b80f7b24e6e8.99276178-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "reverse": {
+    "engravers": [
+      "Josef Köblinger"
+    ],
+    "description": "The Austrian escutcheon, the face value and two laurel branches\r\nBinomial Name: Laurus nobilis",
+    "lettering": "SCHILLING\r\n5\r\n19 87",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/autriche/63b80f7b877466.56789554-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/autriche/63b80f7b877466.56789554-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "comments": "The Lipizzaner is a horse breed from Slovenia, culturally linked to the Spanish School of Vienna. This famous school used only Lipizzaners.<br />\r\n<img src=\"https://en.numista.com/catalogue/images/55c792589dc1c.jpg\" alt=\"\" width=\"114\" height=\"116\" /><br /><br />\r\nAt the end of the 16th century, the armed forces and riding schools of Central Europe were looking for a horse that was both robust and agile. Archduke Charles II, brother of Emperor Maximilian II, founded a stud farm in Lipizza. At the time, Lipizza (now Lipica), in what is now Slovenia, was part of the Austrian Empire.<br />\r\nAlongside the creation of a quality breed of horse, a school for training and developing horses was also established. The famous riding school, the Spanish School, located in Vienna's Hofburg, trained Lipizzaner stallions to perform shows that highlighted the horses' particular movements.",
+  "related_types": [
+    {
+      "id": 741,
+      "title": "5 Schilling (Silver)",
+      "category": "coin",
+      "country": {
+        "code": "autriche",
+        "name": "Austria"
+      },
+      "minYear": 1960,
+      "maxYear": 1968
+    }
+  ],
+  "tags": [
+    "Horse or equine",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "2889a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "78a"
+    }
+  ],
+  "weight": 4.8,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/autriche/698a1a3270b8a5.16164965-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/autriche/698a1a3270b8a5.16164965-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 232,
+      "name": "Münze Österreich"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

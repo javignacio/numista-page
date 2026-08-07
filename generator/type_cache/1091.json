@@ -1,0 +1,114 @@
+{
+  "id": 1091,
+  "url": "https://en.numista.com/1091",
+  "title": "1 Cent",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "trinite-et-tobago",
+    "name": "Trinidad and Tobago"
+  },
+  "min_year": 1976,
+  "max_year": 2016,
+  "ruler": [
+    {
+      "id": 956,
+      "name": "Republic",
+      "wikidata_id": "Q754"
+    }
+  ],
+  "value": {
+    "text": "1 Cent",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 58,
+      "name": "Dollar",
+      "full_name": "Dollar (1964-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2018-07-03"
+  },
+  "size": 17.78,
+  "thickness": 1.14,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms of Trinidad and Tobago, date below.",
+    "lettering": "REPUBLIC OF TRINIDAD AND TOBAGO\r\nTOGETHER WE ASPIRE TOGETHER WE ACHIEVE\r\nFM\r\n1977",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/trinite-et-tobago/68dc5b72a54e76.63724997-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/trinite-et-tobago/68dc5b72a54e76.63724997-180.jpg",
+    "picture_copyright": "DominusDeus",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "Ernest Lauser"
+    ],
+    "description": "Hummingbird (White-tailed Goldenthroat, Polytmus guainumbi) in flight feeding from a Purple Arrowroot (Canna indica), denomination below.",
+    "lettering": "1 CENT",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/trinite-et-tobago/68dc5b74649159.34197960-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/trinite-et-tobago/68dc5b74649159.34197960-180.jpg",
+    "picture_copyright": "DominusDeus",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/616d896d293ed.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/616d896d293ed.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "tags": [
+    "Bird",
+    "Flower",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "29"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "28"
+    }
+  ],
+  "weight": 1.94,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    },
+    {
+      "id": 1319,
+      "name": "Franklin Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

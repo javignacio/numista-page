@@ -1,0 +1,116 @@
+{
+  "id": 672,
+  "url": "https://en.numista.com/672",
+  "title": "10 Centimos (Iberian rider)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "espagne",
+    "name": "Spain"
+  },
+  "min_year": 1940,
+  "max_year": 1953,
+  "ruler": [
+    {
+      "id": 152,
+      "name": "Francisco Franco",
+      "wikidata_id": "Q29179"
+    }
+  ],
+  "value": {
+    "text": "10 Centimos",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 142,
+      "name": "Peseta",
+      "full_name": "Peseta (1868-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1961-02-15"
+  },
+  "size": 23,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium (97.5% aluminium, 2.5% copper)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Carlos Mingo López"
+    ],
+    "description": "Horseman with a spear (Iberian rider).",
+    "lettering": "ESPAÑA\r\n1945",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Spain",
+    "picture": "https://en.numista.com/catalogue/photos/espagne/66792eee40da87.83178011-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/66792eee40da87.83178011-180.jpg",
+    "picture_copyright": "Aureo & Calicó S.L., subastas numismáticas",
+    "picture_copyright_url": "https://www.aureo.com/"
+  },
+  "reverse": {
+    "engravers": [
+      "Carlos Mingo López"
+    ],
+    "description": "Coat of arms of Spain.",
+    "lettering": "DIEZ CENTS\r\nUNA GRANDE LIBRE\r\nPLUS ULTRA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Ten Centimos\r\nOne, Great and Free\r\nFurther beyond",
+    "picture": "https://en.numista.com/catalogue/photos/espagne/66792eee99fdd1.96976404-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/66792eee99fdd1.96976404-180.jpg",
+    "picture_copyright": "Aureo & Calicó S.L., subastas numismáticas",
+    "picture_copyright_url": "https://www.aureo.com/"
+  },
+  "comments": "<p><a href=\"https://en.numista.com/catalogue/images/66793c7e31da9.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/66793c7e31da9.jpg\"></a></p><p>&nbsp;</p><p><i>Varieties:</i></p><p>&nbsp;</p><p><strong>Variety 1940 PLUS + UNA</strong> (Aureo#5; Cal#126)</p><p><a href=\"https://en.numista.com/catalogue/images/667931311b6a8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/667931311b6a8.jpg\"></a></p><p><strong>Variety 1940 PLVS + UNA</strong> (Aureo#6; Cal#127)</p><p><a href=\"https://en.numista.com/catalogue/images/66793164c699c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/66793164c699c.jpg\"></a></p><p><strong>Variety 1940 PLVS + VNA</strong> (Aureo#7)</p><p><strong><a href=\"https://en.numista.com/catalogue/images/6679317883f3b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6679317883f3b.jpg\"></a></strong></p><p><strong>Variety 1941 PLUS + UNA</strong> (Aureo#8; Cal#128)</p><p><a href=\"https://en.numista.com/catalogue/images/6679319cd4155.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6679319cd4155.jpg\"></a></p><p><strong>Variety 1941 PLVS + UNA</strong> (Aureo#9; Cal#129)</p><p><a href=\"https://en.numista.com/catalogue/images/667931eb07915.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/667931eb07915.jpg\"></a></p><p>&nbsp;</p><p><i><strong>Source of all the pictures</strong>: authorized website <strong>Aureo &amp; Calicó</strong></i></p>",
+  "tags": [
+    "Horse or equine",
+    "Cold weapons",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "766"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "24"
+    }
+  ],
+  "weight": 1.9,
+  "orientation": "coin",
+  "edge": {
+    "description": "Festooned",
+    "picture": "https://en.numista.com/catalogue/photos/espagne/983-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/983-180.jpg",
+    "picture_copyright": "ZacUK"
+  },
+  "mints": [
+    {
+      "id": 24,
+      "name": "Royal Mint of Madrid"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

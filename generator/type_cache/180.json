@@ -1,0 +1,157 @@
+{
+  "id": 180,
+  "url": "https://en.numista.com/180",
+  "title": "½ Franc (Helvetia standing; silver)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "suisse",
+    "name": "Switzerland (1848-date)"
+  },
+  "min_year": 1875,
+  "max_year": 1967,
+  "ruler": [
+    {
+      "id": 2857,
+      "name": "Federal State",
+      "wikidata_id": "Q355857"
+    }
+  ],
+  "value": {
+    "text": "½ Franc",
+    "numeric_value": 0.5,
+    "numerator": 1,
+    "denominator": 2,
+    "currency": {
+      "id": 82,
+      "name": "Franc",
+      "full_name": "Franc (1850-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1971-04-01"
+  },
+  "size": 18.2,
+  "thickness": 1.28,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.835) (.165 copper)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Antoine Bovy"
+    ],
+    "designers": [
+      "Albert Walch"
+    ],
+    "description": "Full-length figure of Helvetia, standing, facing left, wearing toga, holding a spear in right hand, and supporting shield with coat of arms of Switzerland with left hand. 22 stars around, representing the 22 cantons of the Swiss confederation.",
+    "lettering": "HELVETIA  \r\nA. BOVY  INCᵀ.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Antoine Bovy incidit.\nEngraved by Antoine Bovy.",
+    "picture": "https://en.numista.com/catalogue/photos/suisse/67b24a3d8cbbc3.91590050-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suisse/67b24a3d8cbbc3.91590050-180.jpg",
+    "picture_copyright": "NGC",
+    "picture_copyright_url": "https://www.ngccoin.com/"
+  },
+  "reverse": {
+    "engravers": [
+      "Antoine Bovy"
+    ],
+    "designers": [
+      "Albert Wach"
+    ],
+    "description": "Wreath formed of oak and alpine rose branches tied with a ribbon below.",
+    "lettering": "½ Fr. \r\n1878 \r\nB",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/suisse/67b24a3eb2f985.89709108-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suisse/67b24a3eb2f985.89709108-180.jpg",
+    "picture_copyright": "NGC",
+    "picture_copyright_url": "https://www.ngccoin.com/"
+  },
+  "series": "Helvetia standing series",
+  "comments": "<p>In 1967, the price of silver soared steeply, reaching 260 francs per kilogram in August and 350 francs per kilogram in March 1968. At this time, the melt value of the 1/2 franc pieces was circa 0.73 francs. Switzerland started to experience a severe shortage of cash, especially in the north, where people were illegally exporting coins to Germany to be melted. In spite of strict measures against hoarding and melting coins, it is estimated that around 100 tonnes of silver in 1/2, 1 and 2 franc coins were melted. The crisis concluded in 1968, when the Swiss mint started to mint coins in a copper-nickel alloy at full capacity, around 1.5 million coins per day. The coins were released on 10 May 1968 and the old silver coins were withdrawn on 1 April 1971.</p>",
+  "related_types": [
+    {
+      "id": 181,
+      "title": "½ Franc (Helvetia standing; copper-nickel)",
+      "category": "coin",
+      "country": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "minYear": 1968,
+      "maxYear": 2026
+    }
+  ],
+  "tags": [
+    "Allegory",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 1253,
+        "code": "HMZ 2"
+      },
+      "number": "1206"
+    },
+    {
+      "catalogue": {
+        "id": 962,
+        "code": "Divo/Tob19"
+      },
+      "number": "307"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "23"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "27"
+    },
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "31"
+    }
+  ],
+  "weight": 2.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded.",
+    "picture": "https://en.numista.com/catalogue/photos/suisse/6145acc8611ec0.37740188-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suisse/6145acc8611ec0.37740188-180.jpg",
+    "picture_copyright": "Walter_Scott"
+  },
+  "mints": [
+    {
+      "id": 247,
+      "name": "Bern"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

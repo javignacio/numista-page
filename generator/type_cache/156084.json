@@ -1,0 +1,133 @@
+{
+  "id": 156084,
+  "url": "https://en.numista.com/156084",
+  "title": "2 Cents (Type 2 coat of arms)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "chypre",
+    "name": "Cyprus"
+  },
+  "min_year": 1991,
+  "max_year": 2004,
+  "ruler": [
+    {
+      "id": 1795,
+      "name": "Republic",
+      "wikidata_id": "Q229"
+    }
+  ],
+  "value": {
+    "text": "2 Cents (Sent)",
+    "numeric_value": 0.02,
+    "currency": {
+      "id": 116,
+      "name": "Pound",
+      "full_name": "Pound (decimalized, 1983-2007)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2008-01-31"
+  },
+  "size": 19,
+  "thickness": 1.25,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Clara Georgiou"
+    ],
+    "description": "Cyprus coat of arms (A dove holding an olive twig and the independence year 1960), laurel twigs around.\r\nCountry name (Cyprus) in Greek, Turkish and English.",
+    "lettering": "CYPRUS·ΚΥΠΡΟΣ·KIBRIS\r\n1960\r\n·1996·",
+    "lettering_scripts": [
+      {
+        "name": "Greek"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chypre/771-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chypre/771-180.jpg",
+    "picture_copyright": "ǝRBe"
+  },
+  "reverse": {
+    "description": "Depicts two heraldically arranged goats taken from a shallow bowl of the mid - thirteen century B.C. The value 2 above to right. One circle with 4 dots inside and two circles with 6 dots.",
+    "lettering": "2",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chypre/772-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chypre/772-180.jpg",
+    "picture_copyright": "ǝRBe"
+  },
+  "comments": "There are several official sets issued for these coins<br />\r\nSet of coins in brilliant uncirculated(BU) condition, 1994 issue, in a brochure.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5c48ce517c56e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5c48ce517c56e.jpg\" alt=\"\" width=\"200\" height=\"109\" /></a> <a href=\"https://en.numista.com/catalogue/images/5c48ce61df1c6.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5c48ce61df1c6.jpg\" alt=\"\" width=\"200\" height=\"107\" /></a><br />\r\nSet of uncirculated condition coins, 2004 issue, in a rigid plastic case.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5c48cf33df497.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5c48cf33df497.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a> <a href=\"https://en.numista.com/catalogue/images/5c48cf40600b4.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5c48cf40600b4.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\nSet of coins in uncirculated condition, minted in 2004, in a three-ply folder. It was issued in 2007 as the set of the last Cyprus pound coins.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5c48cf811c63d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5c48cf811c63d.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "related_types": [
+    {
+      "id": 1951,
+      "title": "2 Cents (Type 1 coat of arms; solid value number)",
+      "category": "coin",
+      "country": {
+        "code": "chypre",
+        "name": "Cyprus"
+      },
+      "minYear": 1983,
+      "maxYear": 1983
+    },
+    {
+      "id": 156083,
+      "title": "2 Cents (Type 1 coat of arms; bordered value number)",
+      "category": "coin",
+      "country": {
+        "code": "chypre",
+        "name": "Cyprus"
+      },
+      "minYear": 1985,
+      "maxYear": 1990
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "54.3"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "67"
+    }
+  ],
+  "weight": 2.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/chypre/69aa81f0a0d459.34590417-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chypre/69aa81f0a0d459.34590417-180.jpg",
+    "picture_copyright": "CyrusPamelaOne",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

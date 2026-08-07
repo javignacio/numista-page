@@ -1,0 +1,107 @@
+{
+  "id": 9860,
+  "url": "https://en.numista.com/9860",
+  "title": "5 Pesos (Pan-American Games)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "colombie",
+    "name": "Colombia"
+  },
+  "min_year": 1971,
+  "max_year": 1971,
+  "ruler": [
+    {
+      "id": 4088,
+      "name": "Republic",
+      "wikidata_id": "Q739"
+    }
+  ],
+  "value": {
+    "text": "5 Pesos",
+    "numeric_value": 5,
+    "currency": {
+      "id": 147,
+      "name": "Peso decimalized",
+      "full_name": "Peso decimalized (1847-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 30,
+  "thickness": 2.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel clad steel (90% Steel, 10% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Torches flank denomination at the centre, date below.",
+    "lettering": "REPUBLICA DE COLOMBIA\r\n5 \r\nPESOS\r\n1971",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Colombia",
+    "picture": "https://en.numista.com/catalogue/photos/colombie/1389-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/1389-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "description": "Logo VI Pan American Games.",
+    "lettering": "VI JUEGOS PANAMERICANOS\r\nCALI",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "VI Pan American Games\r\nCali",
+    "picture": "https://en.numista.com/catalogue/photos/colombie/1388-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/1388-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "commemorated_topic": "6th Pan-American Games in Cali",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "247"
+    },
+    {
+      "catalogue": {
+        "id": 347,
+        "code": "Hernández"
+      },
+      "number": "621"
+    },
+    {
+      "catalogue": {
+        "id": 348,
+        "code": "Restrepo"
+      },
+      "number": "431"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "76"
+    }
+  ],
+  "weight": 10,
+  "orientation": "coin",
+  "edge": {
+    "description": "Milled"
+  },
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

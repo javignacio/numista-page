@@ -1,0 +1,142 @@
+{
+  "id": 2603,
+  "url": "https://en.numista.com/2603",
+  "title": "50 Céntimos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "costa_rica",
+    "name": "Costa Rica"
+  },
+  "issuing_entity": {
+    "id": 907,
+    "name": "Central Bank of Costa Rica",
+    "wikidata_id": "Q4504273"
+  },
+  "min_year": 1965,
+  "max_year": 1978,
+  "ruler": [
+    {
+      "id": 3834,
+      "name": "Second Republic",
+      "wikidata_id": "Q800"
+    }
+  ],
+  "value": {
+    "text": "50 Centimos",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 10,
+      "name": "Colón",
+      "full_name": "Colón (1896-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 26,
+  "thickness": 1.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Costa Rica coat of arms. Seven stars represent the seven provinces, three extinct volcanoes for the three mountain ranges, two ships symbolizing the country's geographical situation between atlantic and pacific ocean and sunrise on the left\r\n\r\nNOTE: differences in detail of coat of arms exist between listed varieties.\r\nOnly Type KM#189.1 has medal alignment.",
+    "lettering": "REPUBLICA DE COSTA RICA\r\nAMERICA CENTRAL\r\nREPUBLICA DE COSTA RICA\r\n1978",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Costa Rica\r\nCentral America",
+    "picture": "https://en.numista.com/catalogue/photos/costa_rica/310-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/costa_rica/310-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Value within a laurel wreath and initials of the \"Banco Central de Costa Rica\"",
+    "lettering": "AMERICA CENTRAL\r\n50\r\nCENTIMOS\r\nB.C.C.R.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Banco Central de Costa Rica",
+    "lettering_translation": "Central America\r\nCentral Bank of Costa Rica",
+    "picture": "https://en.numista.com/catalogue/photos/costa_rica/311-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/costa_rica/311-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/5c389080dcff8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5c389080dcff8.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nAlthough these coins have been demonetized, they are still redeemable at the Central Bank of Costa Rica.",
+  "tags": [
+    "Coat of Arms",
+    "Mountain",
+    "Wreath",
+    "Boat or watercraft"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "189"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "44"
+    }
+  ],
+  "weight": 7.1,
+  "orientation": "coin",
+  "edge": {
+    "description": "Smooth with inscription",
+    "lettering": "B.C.C.R.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Banco Central de Costa Rica",
+    "lettering_translation": "Central Bank of Costa Rica",
+    "picture": "https://en.numista.com/catalogue/photos/costa_rica/409-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/costa_rica/409-180.jpg",
+    "picture_copyright": "ZacUK"
+  },
+  "mints": [
+    {
+      "id": 4178,
+      "name": "Casa de Moneda de Guatemala"
+    },
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    },
+    {
+      "id": 1339,
+      "name": "Sherritt Mint"
+    },
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    },
+    {
+      "id": 4157,
+      "name": "VDM Metals / Vereinigte Deutsche Metallwerke"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

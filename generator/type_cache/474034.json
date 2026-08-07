@@ -1,0 +1,93 @@
+{
+  "id": 474034,
+  "url": "https://en.numista.com/474034",
+  "title": "100 Pesos (100 Years of the Central Bank of Chile)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "chili",
+    "name": "Chile"
+  },
+  "issuing_entity": {
+    "id": 904,
+    "name": "Central Bank of Chile",
+    "wikidata_id": "Q2631674"
+  },
+  "min_year": 2025,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 3299,
+      "name": "Republic",
+      "wikidata_id": "Q298"
+    }
+  ],
+  "value": {
+    "text": "100 Pesos",
+    "numeric_value": 100,
+    "currency": {
+      "id": 146,
+      "name": "Peso",
+      "full_name": "Peso (1975-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2025-07-21"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23.5,
+  "thickness": 2.36,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: nickel brass centre in copper-aluminium-nickel ring (Core: 70% Copper, 15% Nickel, 15% Zinc. Ring: 92% Copper, 6% Aluminium, 2% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Features the logo of Banco Central de Chile alongside the phrase “CIEN años” in the center of the core. Above, on the outer ring, appears the legend “REPÚBLICA DE CHILE”. Below, within the core, a stylized mountain represents a simplified depiction of the Andes. At the bottom of the ring, the inscription “BANCO CENTRAL DE CHILE 1925 – 2025” is shown. The mintmark (Ceca).",
+    "lettering": "REPUBLICA DE CHILE\r\nCIEN\r\naños\r\nSo\r\nBANCO CENTRAL DE CHILE 1925 – 2025",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Chile\r\nOne-hundred\r\nyears\r\nCentral Bank of Chile",
+    "picture": "https://en.numista.com/catalogue/photos/chili/685b0e586efe18.41144368-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/685b0e586efe18.41144368-180.jpg",
+    "picture_copyright": "Thuri"
+  },
+  "reverse": {
+    "description": "Displays the Escudo Nacional (National Coat of Arms) at the center of the core. Beneath it are the year 2025, the denomination “100”, and the word “PESOS”, overlapping with the ring. Surrounding the design on the ring are laurel branches.",
+    "lettering": "POR LA RAZON O LA FUERZA\r\n2025\r\n100\r\nPESOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "By reason or by force",
+    "picture": "https://en.numista.com/catalogue/photos/chili/685b0e5c74df20.90247490-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/685b0e5c74df20.90247490-180.jpg",
+    "picture_copyright": "Thuri"
+  },
+  "series": "100 Years of the Central Bank of Chile.",
+  "commemorated_topic": "100 Years of the Central Bank of Chile.",
+  "tags": [
+    "Coat of Arms"
+  ],
+  "weight": 7.58,
+  "orientation": "coin",
+  "mints": [
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

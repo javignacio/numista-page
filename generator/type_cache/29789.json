@@ -1,0 +1,105 @@
+{
+  "id": 29789,
+  "url": "https://en.numista.com/29789",
+  "title": "1 Kreuzer",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "frankfurt_free_imperial_city",
+    "name": "Frankfurt, Free imperial city of"
+  },
+  "min_year": 1838,
+  "max_year": 1857,
+  "ruler": [
+    {
+      "id": 5489,
+      "name": "Free City",
+      "wikidata_id": "Q1794"
+    }
+  ],
+  "value": {
+    "text": "1 Kreuzer ",
+    "numeric_value": 0.016666666666666666,
+    "numerator": 1,
+    "denominator": 60,
+    "currency": {
+      "id": 8937,
+      "name": "Gulden",
+      "full_name": "Gulden (1838-1866)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 14,
+  "thickness": 1,
+  "shape": "Round",
+  "composition": {
+    "text": "Billon (.167 silver)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms of the city of Frankfurt\r\neagle with elongated bust",
+    "lettering": "FREIE STADT\r\nFRANKFURT",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/frankfurt_free_imperial_city/43-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/frankfurt_free_imperial_city/43-180.jpg",
+    "picture_copyright": "noumea"
+  },
+  "reverse": {
+    "description": "Face value in a crown of oak leaves",
+    "lettering": "1\r\nKREUZER\r\n1853",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/frankfurt_free_imperial_city/44-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/frankfurt_free_imperial_city/44-180.jpg",
+    "picture_copyright": "noumea"
+  },
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 81,
+        "code": "AKS"
+      },
+      "number": "25"
+    },
+    {
+      "catalogue": {
+        "id": 849,
+        "code": "Jaeg 6 FHI"
+      },
+      "number": "18"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "312"
+    }
+  ],
+  "weight": 0.835,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/frankfurt_free_imperial_city/65ac894bba7ed8.57374557-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/frankfurt_free_imperial_city/65ac894bba7ed8.57374557-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,121 @@
+{
+  "id": 3444,
+  "url": "https://en.numista.com/3444",
+  "title": "10 Cents",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "antilles_neerlandaises",
+    "name": "Netherlands Antilles"
+  },
+  "min_year": 1970,
+  "max_year": 1985,
+  "ruler": [
+    {
+      "id": 4125,
+      "name": "Juliana",
+      "wikidata_id": "Q154946",
+      "group": {
+        "id": 277,
+        "name": "House of Orange-Nassau"
+      }
+    },
+    {
+      "id": 4126,
+      "name": "Beatrix",
+      "wikidata_id": "Q29574",
+      "group": {
+        "id": 277,
+        "name": "House of Orange-Nassau"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Cents",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 68,
+      "name": "Gulden",
+      "full_name": "Gulden (1828-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 16,
+  "thickness": 1.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Geurt Brinkgreve"
+    ],
+    "description": "Crowne coat of arms of the Netherlands Antilles and the motto in Latin.",
+    "lettering": "NEDERLANDSE ANTILLEN\r\nLIBERTATE UNANIMUS\r\n1980",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Netherlands Antilles\r\nUnified by Freedom",
+    "picture": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/553-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/553-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "reverse": {
+    "engravers": [
+      "Geurt Brinkgreve"
+    ],
+    "description": "Face value surrounded with 6 stars in 3 groups, agave leaves below",
+    "lettering": "10\r\nCENT",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/554-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/554-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "comments": "<p>The six stars represent the six island of the Netherlands Antilles (Aruba, Bonaire, Curaçao, Sint Maarten, Sint Eustacius and Saba.)</p>",
+  "tags": [
+    "Crown",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "10"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "51"
+    }
+  ],
+  "weight": 2,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 23,
+      "name": "Royal Dutch Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

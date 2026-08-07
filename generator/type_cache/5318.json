@@ -1,0 +1,124 @@
+{
+  "id": 5318,
+  "url": "https://en.numista.com/5318",
+  "title": "5 Groschen",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "autriche",
+    "name": "Austria"
+  },
+  "min_year": 1931,
+  "max_year": 1938,
+  "ruler": [
+    {
+      "id": 148,
+      "name": "First Republic",
+      "wikidata_id": "Q518101"
+    },
+    {
+      "id": 1450,
+      "name": "Federal State",
+      "wikidata_id": "Q176495"
+    }
+  ],
+  "value": {
+    "text": "5 Groschen",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 8669,
+      "name": "First Schilling",
+      "full_name": "First Schilling (1925-1938)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 17,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Philipp Häusler"
+    ],
+    "description": "Cross potent in center, lettering around, date below",
+    "lettering": "ÖSTERREICH\r\n·1931·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Austria",
+    "picture": "https://en.numista.com/catalogue/photos/autriche/6943d037ee4984.53779423-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/autriche/6943d037ee4984.53779423-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "reverse": {
+    "engravers": [
+      "Philipp Häusler"
+    ],
+    "description": "Denomination",
+    "lettering": "5\r\nGROSCHEN",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/autriche/6943d03933ded1.96201685-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/autriche/6943d03933ded1.96201685-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "related_types": [
+    {
+      "id": 313056,
+      "title": "5 Groschen (Pattern)",
+      "category": "coin",
+      "country": {
+        "code": "autriche",
+        "name": "Austria"
+      },
+      "minYear": 1931,
+      "maxYear": 1938
+    }
+  ],
+  "tags": [
+    "Cross"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "2846"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "41"
+    }
+  ],
+  "weight": 3,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 232,
+      "name": "Münze Österreich"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

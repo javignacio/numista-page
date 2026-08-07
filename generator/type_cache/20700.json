@@ -1,0 +1,163 @@
+{
+  "id": 20700,
+  "url": "https://en.numista.com/20700",
+  "title": "50 Pence - Elizabeth II (3rd portrait; small type)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1997,
+  "max_year": 1997,
+  "ruler": [
+    {
+      "id": 275,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 527,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "50 Pence",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 126,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (decimalized, 1971-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1997-09-01"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 27.3,
+  "thickness": 1.78,
+  "shape": "Equilateral curve heptagon (7-sided)",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Raphael David Maklouf"
+    ],
+    "description": "Third crowned portrait of Queen Elizabeth II right, wearing the George IV State Diadem, legend around.",
+    "lettering": "ELIZABETH II D·G·REG·F·D·1997\r\nRDM",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Elizabeth II Dei Gratia Regina Fidei Defensatrix",
+    "lettering_translation": "Elizabeth II by the Grace of God Queen Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/68f05265aedb44.93039127-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/68f05265aedb44.93039127-180.jpg",
+    "picture_copyright": "riversxian",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Christopher Ironside"
+    ],
+    "description": "A figure of Britannia seated beside a lion, with a shield resting against her right side, holding a trident in her right hand and an olive branch in her left, denomination below and legend above.",
+    "lettering": "FIFTY PENCE\r\n50",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/68f052680f86b1.12349671-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/68f052680f86b1.12349671-180.jpg",
+    "picture_copyright": "riversxian",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "As well as being issued for circulation, this design was also part of the Annual Coin Sets for 1997, in both Brilliant Uncirculated &amp; Proof versions.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5ecfdc01d4292.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5ecfdc01d4292.jpg\" alt=\"\" width=\"200\" height=\"124\" /></a><br /><br />\r\n(former Spink ref. 4354)",
+  "related_types": [
+    {
+      "id": 866,
+      "title": "50 Pence - Elizabeth II (3rd portrait; large type)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1985,
+      "maxYear": 1997
+    },
+    {
+      "id": 19438,
+      "title": "50 Pence - Elizabeth II (3rd portrait; small type, Silver Proof)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1997,
+      "maxYear": 1997
+    },
+    {
+      "id": 56363,
+      "title": "50 Pence - Elizabeth II (3rd portrait; small type, Silver Piedfort)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1997,
+      "maxYear": 1997
+    }
+  ],
+  "tags": [
+    "Cat or feline",
+    "Armour",
+    "Allegory",
+    "Cold weapons"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "940.2"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "H7"
+    }
+  ],
+  "weight": 8,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/6866ab9b1e36e2.24443229-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/6866ab9b1e36e2.24443229-180.jpg",
+    "picture_copyright": "bulgarian",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

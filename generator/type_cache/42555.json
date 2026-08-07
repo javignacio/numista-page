@@ -1,0 +1,104 @@
+{
+  "id": 42555,
+  "url": "https://en.numista.com/42555",
+  "title": "10 Centavos (Magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "honduras",
+    "name": "Honduras"
+  },
+  "issuing_entity": {
+    "id": 325,
+    "name": "Central Bank of Honduras",
+    "wikidata_id": "Q2920146"
+  },
+  "min_year": 2010,
+  "max_year": 2014,
+  "ruler": [
+    {
+      "id": 4001,
+      "name": "Republic",
+      "wikidata_id": "Q783"
+    }
+  ],
+  "value": {
+    "text": "10 Centavos",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 101,
+      "name": "Lempira",
+      "full_name": "Lempira (1931-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 26,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass plated steel (93.3% Steel, 4.7% Copper, 2.0% Zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms",
+    "lettering": "REPUBLICA DE HONDURAS\r\n2014",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Honduras",
+    "picture": "https://en.numista.com/catalogue/photos/honduras/5e6e2ba8443638.21600583-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/honduras/5e6e2ba8443638.21600583-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "description": "Value within laurel wreath",
+    "lettering": "DIEZ\r\n10\r\nCENTAVOS\r\nDE\r\nLEMPIRA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Ten\r\n10\r\nCentavos\r\nof a\r\nLempira",
+    "picture": "https://en.numista.com/catalogue/photos/honduras/5e6e2ba8be1265.52311068-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/honduras/5e6e2ba8be1265.52311068-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "comments": "Lempira, the present currency of Honduras, was introduced in 1931 replacing the Peso. The Lempira is divided into 100 Centavos.<br /><br />\r\nThe currency is named after Lempira, a chieftain of the indigenous Lenca people, who waged war against Spanish occupation of the country during the 16th century. He is revered as a national hero.",
+  "tags": [
+    "Coat of Arms",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "76.4a"
+    }
+  ],
+  "weight": 6,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 23,
+      "name": "Royal Dutch Mint"
+    },
+    {
+      "id": 24,
+      "name": "Royal Mint of Madrid"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

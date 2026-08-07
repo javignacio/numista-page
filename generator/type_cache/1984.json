@@ -1,0 +1,111 @@
+{
+  "id": 1984,
+  "url": "https://en.numista.com/1984",
+  "title": "2 Stotinki (2nd Coat of Arms)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bulgarie",
+    "name": "Bulgaria"
+  },
+  "min_year": 1974,
+  "max_year": 1990,
+  "ruler": [
+    {
+      "id": 2054,
+      "name": "People's Republic",
+      "wikidata_id": "Q121932"
+    }
+  ],
+  "value": {
+    "text": "2 Stotinki",
+    "numeric_value": 0.02,
+    "currency": {
+      "id": 108,
+      "name": "Third lev",
+      "full_name": "Third lev (1962-1999)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 18.1,
+  "thickness": 1.1,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The arms of the People's Republic of Bulgaria (681 is the foundation date of the first Bulgarian empire, 1944 is the foundation date of the People's Republic of Bulgaria)",
+    "lettering": "НАРОДНА РЕПУБЛИКА\r\n681 1944\r\nБЪЛГАРИЯ",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "The People's Republic of\r\nBulgaria",
+    "picture": "https://en.numista.com/catalogue/photos/bulgarie/7-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bulgarie/7-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "The denomination above the date flanked by grains on both sides",
+    "lettering": "2\r\nСТОТИНКИ\r\n1990",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "Stotinki",
+    "picture": "https://en.numista.com/catalogue/photos/bulgarie/8-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bulgarie/8-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "tags": [
+    "Coat of Arms",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "85"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "83"
+    }
+  ],
+  "weight": 2,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/bulgarie/60c6367c236072.35522989-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bulgarie/60c6367c236072.35522989-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 1329,
+      "name": "Bulgarian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

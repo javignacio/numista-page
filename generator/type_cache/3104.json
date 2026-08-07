@@ -1,0 +1,123 @@
+{
+  "id": 3104,
+  "url": "https://en.numista.com/3104",
+  "title": "5 Kopiiok",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "ukraine",
+    "name": "Ukraine"
+  },
+  "min_year": 1992,
+  "max_year": 2018,
+  "ruler": [
+    {
+      "id": 3209,
+      "name": "Republic",
+      "wikidata_id": "Q212"
+    }
+  ],
+  "value": {
+    "text": "5 Kopiikas",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 88,
+      "name": "Hryvnia",
+      "full_name": "Hryvnia (1996-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2019-10-01"
+  },
+  "size": 24,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Vasyl Lopata"
+    ],
+    "description": "The shield with the arms of Ukraine with an oak leaf in front and two ears of wheat behind along with the country name at the top and the date at the bottom",
+    "lettering": "Україна\r\n1992",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "Ukraine\r\n1992",
+    "picture": "https://en.numista.com/catalogue/photos/ukraine/5f9091d3670d08.48700671-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ukraine/5f9091d3670d08.48700671-180.jpg",
+    "picture_copyright": "National Bank of Ukraine",
+    "picture_copyright_url": "http://www.bank.gov.ua"
+  },
+  "reverse": {
+    "engravers": [
+      "Vasyl Lopata"
+    ],
+    "description": "Denomination in the center with an ornament of the eight Viburnum leaves with a cluster of four points around the rim",
+    "lettering": "5\r\nкопійок",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "5 Kopiikas",
+    "picture": "https://en.numista.com/catalogue/photos/ukraine/5f9091d42ce927.57571075-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ukraine/5f9091d42ce927.57571075-180.jpg",
+    "picture_copyright": "National Bank of Ukraine",
+    "picture_copyright_url": "http://www.bank.gov.ua"
+  },
+  "comments": "Different varieties of the existing 5 kopiyok circulating coins:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5a9d1efeec85b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5a9d1efeec85b.jpg\" alt=\"\" width=\"200\" height=\"135\" /></a><br /><br />\r\n1992 with wide central blade of trident were minted in Rome, Italy.<br />\r\n1992-1996 with narrow central blade of trident were minted in Luhansk, Ukraine.<br />\r\n2001-2018 were minted in Kyiv, Ukraine",
+  "tags": [
+    "Coat of Arms",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "7"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "24"
+    }
+  ],
+  "weight": 4.3,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/ukraine/1899-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ukraine/1899-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 4652,
+      "name": "Luhansk Cartridge Factory"
+    },
+    {
+      "id": 1330,
+      "name": "National Bank of Ukraine Banknote Printing and Minting Works"
+    },
+    {
+      "id": 22,
+      "name": "Rome"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

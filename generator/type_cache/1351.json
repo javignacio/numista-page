@@ -1,0 +1,113 @@
+{
+  "id": 1351,
+  "url": "https://en.numista.com/1351",
+  "title": "2 Pesos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "colombie",
+    "name": "Colombia"
+  },
+  "min_year": 1977,
+  "max_year": 1987,
+  "ruler": [
+    {
+      "id": 4088,
+      "name": "Republic",
+      "wikidata_id": "Q739"
+    }
+  ],
+  "value": {
+    "text": "2 Pesos",
+    "numeric_value": 2,
+    "currency": {
+      "id": 147,
+      "name": "Peso decimalized",
+      "full_name": "Peso decimalized (1847-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24.5,
+  "thickness": 1.95,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (92% Copper, 8% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Portrait of Simón Bolívar, South America general and politician, the symbol of independence for the Spanish colonies in South America.",
+    "lettering": "REPUBLICA DE COLOMBIA \r\n1980",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Colombia",
+    "picture": "https://en.numista.com/catalogue/photos/colombie/1271-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/1271-180.jpg",
+    "picture_copyright": "Ciscoins.net",
+    "picture_copyright_url": "https://web.archive.org/web/20201116183734/http://ciscoins.net/"
+  },
+  "reverse": {
+    "description": "Olives branches encompassing the value.",
+    "lettering": "2 \r\nPESOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/colombie/1272-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/1272-180.jpg",
+    "picture_copyright": "Ciscoins.net",
+    "picture_copyright_url": "https://web.archive.org/web/20201116183734/http://ciscoins.net/"
+  },
+  "comments": "Simon Bolivar (1783-1830 was the President of Gran Colombia from 1819-1830. He also was the President of Venezuela (1813-1819), Bolivia (1825), and Peru (1824-1827).<br />\r\nLetter varieties exist:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/6335b8a989926.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6335b8a989926.jpg\" alt=\"\" width=\"156\" height=\"250\" /></a> <a href=\"https://en.numista.com/catalogue/images/6335b8bb01f5f.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6335b8bb01f5f.jpg\" alt=\"\" width=\"154\" height=\"250\" /></a>",
+  "tags": [
+    "Military leader",
+    "Politician",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "263"
+    },
+    {
+      "catalogue": {
+        "id": 348,
+        "code": "Restrepo"
+      },
+      "number": "429"
+    },
+    {
+      "catalogue": {
+        "id": 347,
+        "code": "Hernández"
+      },
+      "number": "616-619"
+    }
+  ],
+  "weight": 7.7,
+  "orientation": "coin",
+  "edge": {
+    "description": "Smooth with inscription.",
+    "lettering": "CASA DE MONEDA ** LIBERTAD Y ORDEN **"
+  },
+  "mints": [
+    {
+      "id": 280,
+      "name": "Bogota Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

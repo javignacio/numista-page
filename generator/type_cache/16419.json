@@ -1,0 +1,153 @@
+{
+  "id": 16419,
+  "url": "https://en.numista.com/16419",
+  "title": "¼ Riyal / 25 Halālah - Abdullāh",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "saudi-arabia-period",
+    "name": "Saudi Arabia (1932-date)"
+  },
+  "min_year": 2009,
+  "max_year": 2014,
+  "ruler": [
+    {
+      "id": 3139,
+      "name": "Abdullah bin Abdulaziz",
+      "wikidata_id": "Q57298"
+    }
+  ],
+  "value": {
+    "text": "25 Halalas",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 164,
+      "name": "Riyal",
+      "full_name": "Riyal (1960-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23,
+  "thickness": 1.65,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Palm tree with crossed swords",
+    "lettering": "الملك عبد الله بن عبد العزيز آل سعود\r\nخادم الحرمين الشريفين",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "King Abdallah bin Abd al-Aziz Al Sa'ud\r\nCustodian of the Two Holy Mosques",
+    "picture": "https://en.numista.com/catalogue/photos/saudi-arabia-period/663250fc78e7c8.07153200-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/saudi-arabia-period/663250fc78e7c8.07153200-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "reverse": {
+    "description": "Legend above inscription in circle, dividing value, date below",
+    "lettering": "خمس وعشرون هللة\r\n٢٥ ربع ريال 25\r\n١٤٣٠ هـ",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "Twenty five Halalah\r\nQuarter Riyal\r\n1430 Hijra",
+    "picture": "https://en.numista.com/catalogue/photos/saudi-arabia-period/663250fcd5a227.01560212-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/saudi-arabia-period/663250fcd5a227.01560212-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "comments": "Large date for 1430, smaller date for 1433 and 1435<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5da80b3a1a397.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5da80b3a1a397.jpg\" alt=\"\" width=\"200\" height=\"206\" /></a>",
+  "related_types": [
+    {
+      "id": 29374,
+      "title": "1 Qirsh / 5 Halalāt - Abdullāh",
+      "category": "coin",
+      "country": {
+        "code": "saudi-arabia-period",
+        "name": "Saudi Arabia (1932-date)"
+      },
+      "minYear": 2009,
+      "maxYear": 2009
+    },
+    {
+      "id": 29375,
+      "title": "2 Qirsh / 10 Halalāt - Abdullāh",
+      "category": "coin",
+      "country": {
+        "code": "saudi-arabia-period",
+        "name": "Saudi Arabia (1932-date)"
+      },
+      "minYear": 2009,
+      "maxYear": 2009
+    },
+    {
+      "id": 9930,
+      "title": "½ Riyal / 50 Halalah - Abdullāh",
+      "category": "coin",
+      "country": {
+        "code": "saudi-arabia-period",
+        "name": "Saudi Arabia (1932-date)"
+      },
+      "minYear": 2007,
+      "maxYear": 2015
+    },
+    {
+      "id": 18704,
+      "title": "1 Riyal / 100 Halalah - Abdullāh",
+      "category": "coin",
+      "country": {
+        "code": "saudi-arabia-period",
+        "name": "Saudi Arabia (1932-date)"
+      },
+      "minYear": 2008,
+      "maxYear": 2008
+    }
+  ],
+  "tags": [
+    "Tree",
+    "Coat of Arms",
+    "Cold weapons"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "71"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "52"
+    }
+  ],
+  "weight": 5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/saudi-arabia-period/6942d1cee7ecb4.77873743-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/saudi-arabia-period/6942d1cee7ecb4.77873743-180.jpg",
+    "picture_copyright": "Dieter83"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

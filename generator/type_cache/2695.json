@@ -1,0 +1,122 @@
+{
+  "id": 2695,
+  "url": "https://en.numista.com/2695",
+  "title": "5 Centimes (FAO)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "algerie",
+    "name": "Algeria"
+  },
+  "min_year": 1974,
+  "max_year": 1974,
+  "ruler": [
+    {
+      "id": 3733,
+      "name": "People's Democratic Republic",
+      "wikidata_id": "Q262"
+    }
+  ],
+  "value": {
+    "text": "5 Centimes",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 23,
+      "name": "Dinar",
+      "full_name": "Dinar (1964-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 22.1,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Value in circle surrounded by Arabic legend",
+    "lettering": "الجمهورية الجزائرية الديمقراطية الشعبية\r\n5\r\nخمسة سنتيمات",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "The People's Democratic Republic of Algeria\r\nFive Centimes",
+    "picture": "https://en.numista.com/catalogue/photos/algerie/391-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/algerie/391-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "reverse": {
+    "description": "The dates of beginning and end of the second quadrennial plan, in a circle that consists of gears and cereal ears.",
+    "lettering": "1974\r\n1977",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/algerie/390-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/algerie/390-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "commemorated_topic": "FAO - 2nd Quadrennial Plan (1974-1977)",
+  "related_types": [
+    {
+      "id": 2921,
+      "title": "5 Centimes (FAO)",
+      "category": "coin",
+      "country": {
+        "code": "algerie",
+        "name": "Algeria"
+      },
+      "minYear": 1970,
+      "maxYear": 1970
+    }
+  ],
+  "tags": [
+    "FAO",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "106"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "16"
+    },
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "12"
+    }
+  ],
+  "weight": 1.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 1262,
+      "name": "Kremnica"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

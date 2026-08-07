@@ -1,0 +1,132 @@
+{
+  "id": 2783,
+  "url": "https://en.numista.com/2783",
+  "title": "20 Senti",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "estonie",
+    "name": "Estonia"
+  },
+  "min_year": 1997,
+  "max_year": 2008,
+  "ruler": [
+    {
+      "id": 2044,
+      "name": "Republic",
+      "wikidata_id": "Q191"
+    }
+  ],
+  "value": {
+    "text": "20 Senti",
+    "numeric_value": 0.2,
+    "currency": {
+      "id": 14,
+      "name": "New kroon",
+      "full_name": "New kroon (1992-2011)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2010-12-31"
+  },
+  "size": 18.95,
+  "thickness": 1,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "A. Raud",
+      "A. Mölder"
+    ],
+    "description": "Three lions divide date.",
+    "lettering": "2008",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/estonie/63ba00ee6973c4.79718851-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/estonie/63ba00ee6973c4.79718851-180.jpg",
+    "picture_copyright": "CGB",
+    "picture_copyright_url": "http://www.cgb.fr"
+  },
+  "reverse": {
+    "engravers": [
+      "A. Raud",
+      "A. Mölder"
+    ],
+    "description": "Denomination.",
+    "lettering": "· EESTI VABARIIK ·\r\n20\r\nSENTI",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Estonia\r\n20\r\nSenti",
+    "picture": "https://en.numista.com/catalogue/photos/estonie/63ba00eeac8cd9.99296704-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/estonie/63ba00eeac8cd9.99296704-180.jpg",
+    "picture_copyright": "CGB",
+    "picture_copyright_url": "http://www.cgb.fr"
+  },
+  "comments": "NOTE: Variants of date in 2003 and 2006:<br />\n2003 high date: 03 begins at height of lion&#039;s knee<br />\n2003 low date: 03 begins at height of lion&#039;s foot<br />\n2006 large date: digits begin at half feet&#039;s height, straight 2<br />\n2006 small date: digits begin over lion&#039;s feet, serifs on 2<br />\n<a href=\"https://en.numista.com/catalogue/images/5cfccc167b03f.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5cfccc167b03f.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\n<span style=\"font-weight:bold;\">how to understand the difference between high and low dates for 2003 and 2006:</span><br /><br />\n<a href=\"https://en.numista.com/catalogue/images/56cc928456f5c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/56cc928456f5c.jpg\" alt=\"\" width=\"200\" height=\"77\" /></a><br /><br />\n<a href=\"https://en.numista.com/catalogue/images/56cc92af55318.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/56cc92af55318.jpg\" alt=\"\" width=\"200\" height=\"127\" /></a>",
+  "related_types": [
+    {
+      "id": 3096,
+      "title": "20 Senti",
+      "category": "coin",
+      "country": {
+        "code": "estonie",
+        "name": "Estonia"
+      },
+      "minYear": 1992,
+      "maxYear": 1996
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "23a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "24a"
+    }
+  ],
+  "weight": 2,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/estonie/61507dbfa7d688.84030793-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/estonie/61507dbfa7d688.84030793-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 18,
+      "name": "Heaton and Sons / The Mint Birmingham"
+    },
+    {
+      "id": 1334,
+      "name": "Mint of Finland"
+    },
+    {
+      "id": 1300,
+      "name": "South African Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

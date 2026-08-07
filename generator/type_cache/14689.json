@@ -1,0 +1,113 @@
+{
+  "id": 14689,
+  "url": "https://en.numista.com/14689",
+  "title": "50 Øre (German Occupation Coinage)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "norvege",
+    "name": "Norway"
+  },
+  "min_year": 1941,
+  "max_year": 1945,
+  "ruler": [
+    {
+      "id": 450,
+      "name": "German occupation",
+      "wikidata_id": "Q819274"
+    }
+  ],
+  "value": {
+    "text": "50 Øre",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 16,
+      "name": "Krone",
+      "full_name": "Krone (1875-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 22,
+  "thickness": 1.9,
+  "shape": "Round",
+  "composition": {
+    "text": "Zinc (99.8% zinc, 0.2% aluminium)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Shield with a crowned norwegian lion holding a halberd and facing left. Inscription above the shield. The coat of arms of the Norwegian Church on each side of the shield. Beaded ring on the rim.",
+    "lettering": "NORGE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Norway",
+    "picture": "https://en.numista.com/catalogue/photos/norvege/65b14fae2ac811.76023718-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/65b14fae2ac811.76023718-180.jpg",
+    "picture_copyright": "Oslo Myntgalleri",
+    "picture_copyright_url": "http://www.oslomyntgalleri.no"
+  },
+  "reverse": {
+    "description": "Value and date in three lines. A triskelion on each side of the value and below the date. Date divided by mintmark on shield. Solid ring on the rim.",
+    "lettering": "50\r\nØRE\r\n19 ⚒ 44",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/norvege/65b14faf0103c3.84851671-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/65b14faf0103c3.84851671-180.jpg",
+    "picture_copyright": "Oslo Myntgalleri",
+    "picture_copyright_url": "http://www.oslomyntgalleri.no"
+  },
+  "comments": "<p>During the German occupation of Norway the composition was changed from copper-nickel to zinc (for the war efforts), the obverse was also changed to no longer include the Norwegian crown (symbol of the king) and the royal motto (\"Everything for Norway\"), as the king went into exile after denying the German ultimatum.</p>",
+  "related_types": [
+    {
+      "id": 1454,
+      "title": "50 Øre - Haakon VII",
+      "category": "coin",
+      "country": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "minYear": 1926,
+      "maxYear": 1949
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "390"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "45"
+    }
+  ],
+  "weight": 4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain."
+  },
+  "mints": [
+    {
+      "id": 1888,
+      "name": "Norwegian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

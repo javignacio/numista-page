@@ -1,0 +1,117 @@
+{
+  "id": 817,
+  "url": "https://en.numista.com/817",
+  "title": "10 Kroner - Margrethe II (2nd portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "danemark",
+    "name": "Denmark"
+  },
+  "min_year": 1989,
+  "max_year": 1993,
+  "ruler": [
+    {
+      "id": 2404,
+      "name": "Margrethe II",
+      "wikidata_id": "Q102139",
+      "group": {
+        "id": 104,
+        "name": "House of Schleswig-Holstein-Sonderburg-Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Kroner",
+    "numeric_value": 10,
+    "currency": {
+      "id": 13,
+      "name": "Krone",
+      "full_name": "Krone (1873-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1989-07-03"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23.35,
+  "thickness": 2.3,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze (92% Copper, 6% Aluminium, 2% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Jan Petersen",
+      "Hanne Varming"
+    ],
+    "description": "The second portrait of Margrethe II facing right",
+    "lettering": "MARGRETHE II ♥ DANMARKS DRONNING\r\nLG JP\r\n1990 A",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Margrethe II ♥ Queen of Denmark\r\nLG JP\r\n1990 A",
+    "picture": "https://en.numista.com/catalogue/photos/danemark/698dde0eace1a7.12573872-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/698dde0eace1a7.12573872-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "reverse": {
+    "engravers": [
+      "Johan Alkjaer"
+    ],
+    "description": "Value, crowned arms of Denmark in a circle, ornamental decoration",
+    "lettering": "10 KRONER",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/danemark/698dde10191d09.30173597-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/698dde10191d09.30173597-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "tags": [
+    "Crown"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "867"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "89"
+    }
+  ],
+  "weight": 7,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/danemark/416-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/416-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 260,
+      "name": "Royal Danish Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

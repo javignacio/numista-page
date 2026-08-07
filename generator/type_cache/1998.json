@@ -1,0 +1,202 @@
+{
+  "id": 1998,
+  "url": "https://en.numista.com/1998",
+  "title": "5 Forint",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "hongrie",
+    "name": "Hungary"
+  },
+  "min_year": 1992,
+  "max_year": 2011,
+  "ruler": [
+    {
+      "id": 1801,
+      "name": "Republic",
+      "wikidata_id": "Q718422"
+    }
+  ],
+  "value": {
+    "text": "5 Forint",
+    "numeric_value": 5,
+    "currency": {
+      "id": 71,
+      "name": "Forint",
+      "full_name": "Forint (1946-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21.2,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass (75% Copper, 4% Nickel, 21% Zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "István Kósa"
+    ],
+    "description": "Crane bird or Great White Egret (Ardea alba) and the date below.",
+    "lettering": "MAGYAR KÖZTÁRSASÁG\r\n· 2009 ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Hungary",
+    "picture": "https://en.numista.com/catalogue/photos/hongrie/62dbe423c20a76.19689970-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hongrie/62dbe423c20a76.19689970-180.jpg",
+    "picture_copyright": "Máté Bikfalvi",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "István Bartos"
+    ],
+    "description": "The denomination with the mintmark below.",
+    "lettering": "5\r\nFORINT\r\nBP.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/hongrie/62dbe4246e4d26.71759969-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hongrie/62dbe4246e4d26.71759969-180.jpg",
+    "picture_copyright": "Máté Bikfalvi",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "comments": "<p>Reverse variety 1993 - long Line</p><p><a href=\"https://en.numista.com/catalogue/images/699a11057433f.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/699a11057433f.jpg\"></a></p>",
+  "related_types": [
+    {
+      "id": 28729,
+      "title": "5 Forint",
+      "category": "coin",
+      "country": {
+        "code": "hongrie",
+        "name": "Hungary"
+      },
+      "minYear": 2012,
+      "maxYear": 2026
+    },
+    {
+      "id": 302184,
+      "title": "5 Forint (75 Years of the Forint - F)",
+      "category": "coin",
+      "country": {
+        "code": "hongrie",
+        "name": "Hungary"
+      },
+      "minYear": 2021,
+      "maxYear": 2021
+    },
+    {
+      "id": 302186,
+      "title": "5 Forint (75 Years of the Forint - O)",
+      "category": "coin",
+      "country": {
+        "code": "hongrie",
+        "name": "Hungary"
+      },
+      "minYear": 2021,
+      "maxYear": 2021
+    },
+    {
+      "id": 302190,
+      "title": "5 Forint (75 Years of the Forint - R)",
+      "category": "coin",
+      "country": {
+        "code": "hongrie",
+        "name": "Hungary"
+      },
+      "minYear": 2021,
+      "maxYear": 2021
+    },
+    {
+      "id": 302191,
+      "title": "5 Forint (75 Years of the Forint - I)",
+      "category": "coin",
+      "country": {
+        "code": "hongrie",
+        "name": "Hungary"
+      },
+      "minYear": 2021,
+      "maxYear": 2021
+    },
+    {
+      "id": 302193,
+      "title": "5 Forint (75 Years of the Forint - N)",
+      "category": "coin",
+      "country": {
+        "code": "hongrie",
+        "name": "Hungary"
+      },
+      "minYear": 2021,
+      "maxYear": 2021
+    },
+    {
+      "id": 302194,
+      "title": "5 Forint (75 Years of the Forint - T)",
+      "category": "coin",
+      "country": {
+        "code": "hongrie",
+        "name": "Hungary"
+      },
+      "minYear": 2021,
+      "maxYear": 2021
+    }
+  ],
+  "tags": [
+    "Bird"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "694"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "199"
+    },
+    {
+      "catalogue": {
+        "id": 360,
+        "code": "Adamo"
+      },
+      "number": "F8.5"
+    }
+  ],
+  "weight": 4.2,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/hongrie/4173-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hongrie/4173-180.jpg",
+    "picture_copyright": "CyrusPamelaOne",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 1248,
+      "name": "Hungarian mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,99 @@
+{
+  "id": 3509,
+  "url": "https://en.numista.com/3509",
+  "title": "1 Cruzado",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bresil",
+    "name": "Brazil"
+  },
+  "min_year": 1986,
+  "max_year": 1988,
+  "ruler": [
+    {
+      "id": 2684,
+      "name": "Federative Republic of Brazil",
+      "wikidata_id": "Q155"
+    }
+  ],
+  "value": {
+    "text": "1 Cruzado",
+    "numeric_value": 1,
+    "currency": {
+      "id": 207,
+      "name": "Cruzado",
+      "full_name": "Cruzado (1986-1989)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1989-00-00"
+  },
+  "size": 23,
+  "thickness": 1.67,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "State emblem (Star with circle within, surrounded by 27 small stars. Southern cross inside circle. Flanked by tobacco and coffee plant)",
+    "lettering": "REPUBLICA FEDERATIVA DO BRASIL\r\n15 DE NOVEMBRO DE 1889",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Federative Republic of Brazil\r\nNovember 15, 1889",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/695ba9ecf0f435.39098438-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/695ba9ecf0f435.39098438-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "reverse": {
+    "description": "Value; date.",
+    "lettering": "BRASIL \r\n1 \r\n1986\r\nCRUZADO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Brazil\r\n1\r\n1986\r\nCruzado",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/695ba9ee737fc2.56745579-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/695ba9ee737fc2.56745579-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "605"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "114"
+    }
+  ],
+  "weight": 4.38,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 1335,
+      "name": "Mint of Brazil"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

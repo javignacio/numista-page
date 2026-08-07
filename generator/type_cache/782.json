@@ -1,0 +1,142 @@
+{
+  "id": 782,
+  "url": "https://en.numista.com/782",
+  "title": "5 Pesetas - Juan Carlos I",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "espagne",
+    "name": "Spain"
+  },
+  "min_year": 1976,
+  "max_year": 1980,
+  "ruler": [
+    {
+      "id": 151,
+      "name": "Juan Carlos I",
+      "wikidata_id": "Q19943",
+      "group": {
+        "id": 44,
+        "name": "House of Bourbon"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Pesetas",
+    "numeric_value": 5,
+    "currency": {
+      "id": 142,
+      "name": "Peseta",
+      "full_name": "Peseta (1868-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1997-01-01"
+  },
+  "size": 23,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% copper, 25% nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Manuel Marín Jimeno"
+    ],
+    "description": "Head of King Juan Carlos I facing left.",
+    "lettering": "JUAN CARLOS I REY DE ESPAÑA\r\n· 1975 ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Juan Carlos I King of Spain",
+    "picture": "https://en.numista.com/catalogue/photos/espagne/5672-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/5672-180.jpg",
+    "picture_copyright": "Union Latine",
+    "picture_copyright_url": "https://web.archive.org/web/20190818001417/http://www.union-latine.com/"
+  },
+  "reverse": {
+    "engravers": [
+      "Francisco Martínez Tornero"
+    ],
+    "description": "Personal coat of arms of King Juan Carlos I.",
+    "lettering": "5 PTAS\r\n79",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "5 Pesetas",
+    "picture": "https://en.numista.com/catalogue/photos/espagne/5673-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/5673-180.jpg",
+    "picture_copyright": "Union Latine",
+    "picture_copyright_url": "https://web.archive.org/web/20190818001417/http://www.union-latine.com/"
+  },
+  "comments": "<p>Tilde style in España above the N has three sizes and also a variety with the mark missing altogether possibly from a blocked die?<br><a href=\"https://en.numista.com/catalogue/images/5b34089b73259.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5b34089b73259.jpg\" alt=\"\"></a></p><p>The date is written differently in the star.</p><p><a href=\"https://en.numista.com/catalogue/images/695cbc0610686.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/695cbc0610686.jpg\"></a></p>",
+  "related_types": [
+    {
+      "id": 3932,
+      "title": "5 Pesetas - Juan Carlos I (With mintmark)",
+      "category": "coin",
+      "country": {
+        "code": "espagne",
+        "name": "Spain"
+      },
+      "minYear": 1982,
+      "maxYear": 1989
+    }
+  ],
+  "tags": [
+    "Monarch",
+    "Crown",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "807"
+    },
+    {
+      "catalogue": {
+        "id": 44,
+        "code": "Cal"
+      },
+      "number": "119"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "40"
+    }
+  ],
+  "weight": 5.75,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/espagne/5f9f50451e8940.33466524-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/5f9f50451e8940.33466524-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 24,
+      "name": "Royal Mint of Madrid"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

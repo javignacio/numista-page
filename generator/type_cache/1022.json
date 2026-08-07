@@ -1,0 +1,168 @@
+{
+  "id": 1022,
+  "url": "https://en.numista.com/1022",
+  "title": "5 Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "perou",
+    "name": "Peru"
+  },
+  "min_year": 1945,
+  "max_year": 1965,
+  "ruler": [
+    {
+      "id": 3757,
+      "name": "Republic",
+      "wikidata_id": "Q419"
+    }
+  ],
+  "value": {
+    "text": "5 Centavos",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 218,
+      "name": "Sol",
+      "full_name": "Sol (1863-1930) / Sol de Oro (1931-1985)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 17,
+  "thickness": 1,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass (70% Copper, 30% Zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Head of Ceres",
+    "lettering": "·REPUBLICA PERUANA·\r\n1960",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Peru\r\n1960",
+    "picture": "https://en.numista.com/catalogue/photos/perou/607f2ef0b5be94.89500597-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/607f2ef0b5be94.89500597-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "description": "Denomination to right of sprig.",
+    "lettering": "5 \r\nCENTAVOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/perou/607f2ef105e8d9.94314823-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/607f2ef105e8d9.94314823-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/58a5ab4e801ec.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/58a5ab4e801ec.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nPlanchets:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/64c51a4dd317d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64c51a4dd317d.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nDate varieties exist:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/634f74d9092ad.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/634f74d9092ad.jpg\" alt=\"\" width=\"200\" height=\"147\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/634f74e625c52.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/634f74e625c52.jpg\" alt=\"\" width=\"200\" height=\"147\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/634f74f075bb1.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/634f74f075bb1.jpg\" alt=\"\" width=\"200\" height=\"147\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/634f74fbdb5a9.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/634f74fbdb5a9.jpg\" alt=\"\" width=\"200\" height=\"147\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/634f7506e5d1d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/634f7506e5d1d.jpg\" alt=\"\" width=\"200\" height=\"147\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/634f7513296f1.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/634f7513296f1.jpg\" alt=\"\" width=\"200\" height=\"147\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/619eadd91ad57.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/619eadd91ad57.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/634f7528daac3.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/634f7528daac3.jpg\" alt=\"\" width=\"200\" height=\"147\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/634f753291e5f.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/634f753291e5f.jpg\" alt=\"\" width=\"200\" height=\"147\" /></a>",
+  "related_types": [
+    {
+      "id": 7426,
+      "title": "5 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 1918,
+      "maxYear": 1941
+    },
+    {
+      "id": 15841,
+      "title": "5 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 1942,
+      "maxYear": 1944
+    },
+    {
+      "id": 7417,
+      "title": "5 Centavos (Abolition of Slavery)",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 1954,
+      "maxYear": 1954
+    },
+    {
+      "id": 7415,
+      "title": "5 Centavos (Casa de Moneda)",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 1965,
+      "maxYear": 1965
+    },
+    {
+      "id": 5420,
+      "title": "5 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 1966,
+      "maxYear": 1975
+    }
+  ],
+  "tags": [
+    "Mythology"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "223"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "27"
+    },
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "38"
+    }
+  ],
+  "weight": 1.85,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/perou/64a0d6a8b1ab39.37802538-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/64a0d6a8b1ab39.37802538-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 297,
+      "name": "Lima"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,169 @@
+{
+  "id": 168,
+  "url": "https://en.numista.com/168",
+  "title": "5 Rappen (Libertas; copper-nickel)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "suisse",
+    "name": "Switzerland (1848-date)"
+  },
+  "min_year": 1879,
+  "max_year": 1980,
+  "ruler": [
+    {
+      "id": 2857,
+      "name": "Federal State",
+      "wikidata_id": "Q355857"
+    }
+  ],
+  "value": {
+    "text": "5 Rappen",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 82,
+      "name": "Franc",
+      "full_name": "Franc (1850-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1984-01-01"
+  },
+  "size": 17.15,
+  "thickness": 1.25,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% copper, 25% nickel, non-magnetic)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Karl Schwenzer"
+    ],
+    "description": "Head of Libertas (Roman goddess of liberty) facing right, with braided hair tied with ribbon, and wearing tiara.",
+    "lettering": "CONFŒDERATIO HELVETICA\r\n᛭ 1925 ᛭\r\nLIBERTAS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Swiss Confederation.",
+    "picture": "https://en.numista.com/catalogue/photos/suisse/67b223bbe4f596.17502907-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suisse/67b223bbe4f596.17502907-180.jpg",
+    "picture_copyright": "NGC",
+    "picture_copyright_url": "https://www.ngccoin.com/"
+  },
+  "reverse": {
+    "designers": [
+      "Carl Friedrich Voigt"
+    ],
+    "description": "Wreath formed of two branches of grapevine bearing three bunches of grapes each and bound with a ribbon below.",
+    "lettering": "5\r\nB",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/suisse/67b223bd31c6b6.37934780-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suisse/67b223bd31c6b6.37934780-180.jpg",
+    "picture_copyright": "NGC",
+    "picture_copyright_url": "https://www.ngccoin.com/"
+  },
+  "series": "Libertas series",
+  "comments": "Different groups of dies are known.<br /><br />\r\n<span style=\"font-style:italic;\">Obverse</span><br />\r\nDie <span style=\"font-weight:bold;\">1</span> from model 1879 - large central dots in decorations, thin script to LIBERTAS.<br />\r\nNote: each year different thickness of letters and digits.<br /><br />\r\n<span style=\"font-style:italic;\">Reverse</span><br />\r\nDie <span style=\"font-weight:bold;\">A</span> from model 1879 - numeral &quot;5&quot; thick, to the right of it the inner tendrils have shape of ark of a circle, wide ribbon.<br />\r\nNote: there are many differences in shape and thickness of details, most probably due to die polishing. Here is an example of the shape of a left tendril.<br />\r\nPicture: © Images courtesy of Alexandr Prokofyev.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/626a7a3fd29ea.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/626a7a3fd29ea.jpg\" alt=\"\" width=\"200\" height=\"141\" /></a><br /><br />\r\nDie <span style=\"font-weight:bold;\">B</span> - numeral &quot;5&quot; thick, to the right of it the inner tendrils have elongated shape, wide ribbon.<br />\r\nPicture: © Images courtesy of Alexandr Prokofyev.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/626a7a8abe148.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/626a7a8abe148.jpg\" alt=\"\" width=\"200\" height=\"165\" /></a><br /><br />\r\nCombinations by groups<br />\r\n<span style=\"font-weight:bold;\">1</span>+<span style=\"font-weight:bold;\">A</span>: 1879-1957 (in some years no 5 rappen coins are known).<br />\r\n<span style=\"font-weight:bold;\">1</span>+<span style=\"font-weight:bold;\">B</span>: 1958-1980.<br /><br />\r\n<span style=\"text-decoration:underline;\">1902</span><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5d8336f4dd054.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d8336f4dd054.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "related_types": [
+    {
+      "id": 169,
+      "title": "5 Rappen (Libertas; brass)",
+      "category": "coin",
+      "country": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "minYear": 1918,
+      "maxYear": 1918
+    },
+    {
+      "id": 170,
+      "title": "5 Rappen (Libertas; nickel)",
+      "category": "coin",
+      "country": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "minYear": 1932,
+      "maxYear": 1941
+    },
+    {
+      "id": 171,
+      "title": "5 Rappen (Libertas; aluminium-bronze)",
+      "category": "coin",
+      "country": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "minYear": 1981,
+      "maxYear": 2026
+    }
+  ],
+  "tags": [
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 1253,
+        "code": "HMZ 2"
+      },
+      "number": "1212"
+    },
+    {
+      "catalogue": {
+        "id": 962,
+        "code": "Divo/Tob19"
+      },
+      "number": "319"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "26"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "24"
+    },
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "23"
+    }
+  ],
+  "weight": 2,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/suisse/614f0ca20a32b9.97263744-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suisse/614f0ca20a32b9.97263744-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 247,
+      "name": "Bern"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

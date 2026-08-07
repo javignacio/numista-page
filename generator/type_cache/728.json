@@ -1,0 +1,119 @@
+{
+  "id": 728,
+  "url": "https://en.numista.com/728",
+  "title": "10 Lire",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "italie",
+    "name": "Italy"
+  },
+  "min_year": 1951,
+  "max_year": 2001,
+  "ruler": [
+    {
+      "id": 1164,
+      "name": "Republic",
+      "wikidata_id": "Q38"
+    }
+  ],
+  "value": {
+    "text": "10 Lire",
+    "numeric_value": 10,
+    "currency": {
+      "id": 112,
+      "name": "Lira",
+      "full_name": "Lira (1861-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2002-02-28"
+  },
+  "size": 23.25,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium (96.2% Aluminium, 3.5% Magnesium, 0.3% Manganese)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Pietro Giampaoli"
+    ],
+    "designers": [
+      "Giuseppe Romagnoli"
+    ],
+    "description": "Plough, lettering above, date below",
+    "lettering": "REPVBBLICA \r\nITALIANA\r\nR \r\n1978",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Italian Republic",
+    "picture": "https://en.numista.com/catalogue/photos/italie/5f79c73dc12675.65849794-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/italie/5f79c73dc12675.65849794-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "reverse": {
+    "engravers": [
+      "Pietro Giampaoli"
+    ],
+    "designers": [
+      "Giuseppe Romagnoli"
+    ],
+    "description": "Two ears of wheat dividing by value",
+    "lettering": "10\r\nROMAGNOLI",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/italie/5f79c73e0a06f9.73627146-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/italie/5f79c73e0a06f9.73627146-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/5dc5867e9c2c0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5dc5867e9c2c0.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "tags": [
+    "Agriculture"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "93"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "93"
+    }
+  ],
+  "weight": 1.6,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/italie/5fb0bc282dc9f1.82018945-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/italie/5fb0bc282dc9f1.82018945-180.jpg",
+    "picture_copyright": "Fireberg",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 22,
+      "name": "Rome"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

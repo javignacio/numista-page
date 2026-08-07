@@ -1,0 +1,183 @@
+{
+  "id": 1784,
+  "url": "https://en.numista.com/1784",
+  "title": "1 Lira",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "malte",
+    "name": "Malta"
+  },
+  "issuing_entity": {
+    "id": 1705,
+    "name": "Central Bank of Malta",
+    "wikidata_id": "Q74690"
+  },
+  "min_year": 1986,
+  "max_year": 1986,
+  "ruler": [
+    {
+      "id": 2864,
+      "name": "Republic",
+      "wikidata_id": "Q233"
+    }
+  ],
+  "value": {
+    "text": "1 Pound",
+    "numeric_value": 1,
+    "currency": {
+      "id": 111,
+      "name": "Maltese Pound",
+      "full_name": "Maltese Pound (1972-2007)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 29.9,
+  "thickness": 2.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Noel Galea"
+    ],
+    "description": "Coat of arms showing a coastal scene with the rising sun, a traditional Maltese boat (the 'Luzzu'), a shovel and a pitchfork, and an Opuntia plant. The then new name of the Republic of Malta and the date display on the outside.",
+    "lettering": "·REPUBBLIKA·TA'·MALTA·\r\n1986",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/malte/6059a7bf593725.03605752-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/malte/6059a7bf593725.03605752-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "reverse": {
+    "engravers": [
+      "Noel Galea"
+    ],
+    "description": "Blue Rock Thrush, the national bird",
+    "lettering": "Lm1",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/malte/6059a7bfa789e7.62079533-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/malte/6059a7bfa789e7.62079533-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "related_types": [
+    {
+      "id": 2027,
+      "title": "1 Cent",
+      "category": "coin",
+      "country": {
+        "code": "malte",
+        "name": "Malta"
+      },
+      "minYear": 1986,
+      "maxYear": 1986
+    },
+    {
+      "id": 2026,
+      "title": "2 Cents",
+      "category": "coin",
+      "country": {
+        "code": "malte",
+        "name": "Malta"
+      },
+      "minYear": 1986,
+      "maxYear": 1986
+    },
+    {
+      "id": 2025,
+      "title": "5 Cents",
+      "category": "coin",
+      "country": {
+        "code": "malte",
+        "name": "Malta"
+      },
+      "minYear": 1986,
+      "maxYear": 1986
+    },
+    {
+      "id": 2024,
+      "title": "10 Cents",
+      "category": "coin",
+      "country": {
+        "code": "malte",
+        "name": "Malta"
+      },
+      "minYear": 1986,
+      "maxYear": 1986
+    },
+    {
+      "id": 2023,
+      "title": "25 Cents",
+      "category": "coin",
+      "country": {
+        "code": "malte",
+        "name": "Malta"
+      },
+      "minYear": 1986,
+      "maxYear": 1986
+    },
+    {
+      "id": 23102,
+      "title": "50 Cents",
+      "category": "coin",
+      "country": {
+        "code": "malte",
+        "name": "Malta"
+      },
+      "minYear": 1986,
+      "maxYear": 1986
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Boat or watercraft"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "82"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "86"
+    }
+  ],
+  "weight": 13,
+  "orientation": "medal",
+  "edge": {
+    "description": "Smooth with inscription",
+    "lettering": "BANK CENTRALI TA' MALTA •",
+    "picture": "https://en.numista.com/catalogue/photos/malte/202-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/malte/202-180.jpg",
+    "picture_copyright": "ZacUK"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

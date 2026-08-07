@@ -1,0 +1,144 @@
+{
+  "id": 325,
+  "url": "https://en.numista.com/325",
+  "title": "25 Cents - Elizabeth II (4th portrait; RCM logo)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "canada",
+    "name": "Canada"
+  },
+  "min_year": 2006,
+  "max_year": 2022,
+  "ruler": [
+    {
+      "id": 2095,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 827,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "25 Cents",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 44,
+      "name": "Dollar",
+      "full_name": "Dollar (1858-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23.88,
+  "thickness": 1.58,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Susan Taylor"
+    ],
+    "designers": [
+      "Susanna Blunt"
+    ],
+    "description": "Head of Queen Elizabeth II, as at 77 years of age, bare headed, wearing necklace and earrings, facing right.",
+    "lettering": "ELIZABETH II  D·G·REGINA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "ELIZABETH II DEI GRATIA REGINA",
+    "lettering_translation": "Elizabeth II Queen by the grace of God",
+    "picture": "https://en.numista.com/catalogue/photos/canada/64fa209bc00061.90685164-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/64fa209bc00061.90685164-180.jpg",
+    "picture_copyright": "monnaiecanada.com",
+    "picture_copyright_url": "https://www.monnaiecanada.com/"
+  },
+  "reverse": {
+    "designers": [
+      "Emanuel Otto Hahn"
+    ],
+    "description": "A caribou is accompanied with the face value and surrounded with the inscription \"CANADA\" and the date.",
+    "lettering": "CANADA 2006\r\n25\r\nCents\r\nH",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/canada/64fb8606d46001.03098725-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/64fb8606d46001.03098725-180.jpg",
+    "picture_copyright": "monnaiecanada.com",
+    "picture_copyright_url": "https://www.monnaiecanada.com/"
+  },
+  "comments": "<p>NOTE: 2006 last \"P\" (for plated) composition mark used on circulation coins and the RCM logo introduced as well.<br><br>Specimen version exist that have satin/brushed finish background with polished mirror finish relief detail.<br><a href=\"https://en.numista.com/catalogue/images/57018e2b67a49.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/57018e2b67a49.jpg\" alt=\"\"></a><a href=\"https://en.numista.com/catalogue/images/57018e3c4cdd0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/57018e3c4cdd0.jpg\" alt=\"\"></a><br><br>The Royal Mint's 2017 annual report lists a 110,720,000 mintage for regular circulating 2017 coins, even though the regular coins were switched to a 150-commemorative (which has a different mintage listed). However, starting in 2017, the annual report omitted the 'Coins struck dated 2017' table, meaning the 110,720,000 coins were probably dated either 2016 or 2018, even though they were struck in 2017.</p>",
+  "related_types": [
+    {
+      "id": 377368,
+      "title": "25 Cents - Elizabeth II (4th portrait)",
+      "category": "coin",
+      "country": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "minYear": 2003,
+      "maxYear": 2006
+    }
+  ],
+  "tags": [
+    "Deer or cervid"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "493"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "521"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "2296"
+    }
+  ],
+  "weight": 4.4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Serrated",
+    "picture": "https://en.numista.com/catalogue/photos/canada/5135-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/5135-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 19,
+      "name": "Royal Canadian Mint of Ottawa"
+    },
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

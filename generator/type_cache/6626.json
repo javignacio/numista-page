@@ -1,0 +1,121 @@
+{
+  "id": 6626,
+  "url": "https://en.numista.com/6626",
+  "title": "10 Markkaa",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "finlande",
+    "name": "Finland"
+  },
+  "min_year": 1928,
+  "max_year": 1939,
+  "ruler": [
+    {
+      "id": 3291,
+      "name": "Republic",
+      "wikidata_id": "Q33"
+    }
+  ],
+  "value": {
+    "text": "10 Markkaa",
+    "numeric_value": 10,
+    "currency": {
+      "id": 1156,
+      "name": "Markka",
+      "full_name": "Markka (1860-1963)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 27,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze (93% Copper, 3% Aluminium, 2% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Isak Gustaf Sundell"
+    ],
+    "description": "Shielded coat of arms of Finland within spruce wreath - a rampant lion left with the right foreleg replaced with an armoured hand brandishing a sword, trampling on a sabre with the hindpaws. \r\nDate divided by wreath below.",
+    "lettering": "19 32\r\nS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Isak Gustaf [b]S[/b]undell (Jan 1878 - Nov 1964) was director of the Mint from 1912 to 1947",
+    "picture": "https://en.numista.com/catalogue/photos/finlande/625bfa09057ab0.61967653-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/625bfa09057ab0.61967653-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Isak Gustaf Sundell"
+    ],
+    "description": "Denomination divided by wreath.",
+    "lettering": "SUOMEN TASAVALTA\r\n10 MARKKAA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "REPUBLIC OF FINLAND\r\n10 MARKKAA",
+    "picture": "https://en.numista.com/catalogue/photos/finlande/625bfa095f1af0.35282966-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/625bfa095f1af0.35282966-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "In early editions of World Coins this coin had KM#63",
+  "tags": [
+    "Cat or feline",
+    "Flower",
+    "Coat of Arms",
+    "Wreath",
+    "Cold weapons"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "32A"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "25"
+    }
+  ],
+  "weight": 8,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/finlande/636ceadd1ea7c4.10015733-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/636ceadd1ea7c4.10015733-180.jpg",
+    "picture_copyright": "Rhonan",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 1333,
+      "name": "Mint of Finland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

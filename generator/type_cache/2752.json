@@ -1,0 +1,120 @@
+{
+  "id": 2752,
+  "url": "https://en.numista.com/2752",
+  "title": "5 Kronor - Carl XVI Gustaf",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "suede",
+    "name": "Sweden"
+  },
+  "min_year": 1976,
+  "max_year": 2009,
+  "ruler": [
+    {
+      "id": 2366,
+      "name": "Carl XVI Gustaf",
+      "wikidata_id": "Q45068",
+      "group": {
+        "id": 99,
+        "name": "House of Bernadotte"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Kronor",
+    "numeric_value": 5,
+    "currency": {
+      "id": 18,
+      "name": "Krona",
+      "full_name": "Krona (1873-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2017-06-30"
+  },
+  "size": 28.5,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel clad nickel (Cladding: 75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Lars Englund",
+      "Ernst Nordin"
+    ],
+    "designers": [
+      "Sigurd Persson"
+    ],
+    "description": "Crowned monogram of king Carl XVI Gustaf. Above, around the rim, legend and date.",
+    "lettering": "SVERIGE 2005\r\nCG \r\nXVI",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Sweden.",
+    "picture": "https://en.numista.com/catalogue/photos/suede/1990-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suede/1990-180.jpg",
+    "picture_copyright": "whitegandalf"
+  },
+  "reverse": {
+    "engravers": [
+      "Lars Englund",
+      "Ernst Nordin"
+    ],
+    "designers": [
+      "Sigurd Persson"
+    ],
+    "description": "Big value with two snowflakes at sides of 5. Above at left the mintmark, at right the initials of Mint official or the Governor of the Riksbank.",
+    "lettering": "E H\r\n🞲 5  🞲\r\nKRONOR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/suede/1991-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suede/1991-180.jpg",
+    "picture_copyright": "whitegandalf"
+  },
+  "comments": "<p>Coins 1976-2007 are minted in Stockholm (AB Tumba Bruk Myntverket / AB Svenska Myntverket, Stockholm / Eskilstuna)<br>Coins from 2008 and 2009 are minted in Vantaa, Finland.</p><p><br><i>Main groups of style</i><br><br><i>Reverse</i><br>Die <strong>A</strong> - top rays of the left star connects high.<br>Die <strong>B</strong> - stars have deep cut rays.<br>Die <strong>C</strong> - stars have bold rays connected far from center.<br><a href=\"https://en.numista.com/catalogue/images/616e97e992d8f.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/616e97e992d8f.jpg\" alt=\"\"></a><br><br><i>Combinations</i><br><strong>A</strong>: 1976-1986, 1991 E U.<br><strong>B</strong>: 1987-1990, 1991 E D, 1992-2007.<br><strong>C</strong>: 2008, 2009.<br><br><i>Note</i>. The style of dies indicates that the issue of 1991 E U was made with the die <strong>A</strong> of reverse, which most probably mean, that it was used by mistake, and not that the minting was under supervision of mint official Benkt Ulvfot.<br><br>Krause's \"Standard Catalog of World Coins\" makes a difference between coins minted 1976-1992 (KM# 853) and 1993-2009 (KM# 853a), but it is unclear on which grounds, as the Swedish Riksbank does not recognize any changes in composition.</p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/65b3e6069f812.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/65b3e6069f812.jpg\"></a></p>",
+  "tags": [
+    "Monogram"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "75"
+    }
+  ],
+  "weight": 9.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/suede/614c735f41db24.46971255-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suede/614c735f41db24.46971255-180.jpg",
+    "picture_copyright": "Walter_Scott"
+  },
+  "mints": [
+    {
+      "id": 4665,
+      "name": "Myntverket"
+    },
+    {
+      "id": 1334,
+      "name": "Mint of Finland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

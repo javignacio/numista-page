@@ -1,0 +1,157 @@
+{
+  "id": 5597,
+  "url": "https://en.numista.com/5597",
+  "title": "20 Cents - Elizabeth II (4th Portrait - Coming Home - End of World War II)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "australie",
+    "name": "Australia"
+  },
+  "min_year": 2005,
+  "max_year": 2005,
+  "ruler": [
+    {
+      "id": 1783,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 825,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "20 Cents",
+    "numeric_value": 0.2,
+    "currency": {
+      "id": 243,
+      "name": "Dollar",
+      "full_name": "Dollar (1966-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 28.52,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Ian Rank-Broadley"
+    ],
+    "description": "4th portrait of Queen Elizabeth II facing right wearing the Girls of Great Britain and Ireland Tiara",
+    "lettering": "ELIZABETH II \r\nAUSTRALIA 2005\r\nIRB",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/australie/689c9d5c144721.30182636-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/australie/689c9d5c144721.30182636-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "Vladimir Gottwald"
+    ],
+    "description": "Australian Soldier wearing slouch hat returned home after WWII embracing his wife and daughter.",
+    "lettering": "WORLD WAR 1939-1945 COMING HOME\r\n20",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/australie/689c9d5d482cb5.44133784-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/australie/689c9d5d482cb5.44133784-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "commemorated_topic": "60th Anniversary of World War II - Coming Home",
+  "comments": "The 2005 Coming Home 20c coin shown above was released by the RAM into general circulation. It commemorates the 60th Anniversary of World War II and invites us to remember the sacrifices made by our troops in those times. This design was inspired by a photograph in the Australian War Memorial collection of a soldier returning home to his family. The RAM also released other similar themed issues during the year, a one dollar coin for Peace and a 50 cent Remembrance coin, all fitting accompaniments to this issue.<br /><br />\r\nAll three coins were also included in the 2005 Proof &amp; Baby Koala Proof Sets.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5d666c727a6de.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d666c727a6de.jpg\" alt=\"\" width=\"199\" height=\"150\" /></a><br /><br />\r\nThey were also included in the 2005 Uncirculated and Baby Koala Uncirculated Sets.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5d666c81c1ccf.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d666c81c1ccf.jpg\" alt=\"\" width=\"200\" height=\"159\" /></a><br /><br />\r\nThey were also included in the 2005 Wedding Specimen Set.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5d666c8fb8b91.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d666c8fb8b91.jpg\" alt=\"\" width=\"200\" height=\"249\" /></a> <a href=\"https://en.numista.com/catalogue/images/5d666c9ad968d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d666c9ad968d.jpg\" alt=\"\" width=\"200\" height=\"152\" /></a><br /><br />\r\nAll three of the above mentioned coins were also issued in the 2005 Fine Silver (.999) Proof Set.",
+  "related_types": [
+    {
+      "id": 173957,
+      "title": "20 Cents - Elizabeth II (4th Portrait - Coming Home - End of WWII - Fine Silver Proof)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 2005,
+      "maxYear": 2005
+    },
+    {
+      "id": 9348,
+      "title": "50 Cents - Elizabeth II (4th Portrait - Remembrance - End of World War II)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 2005,
+      "maxYear": 2005
+    },
+    {
+      "id": 7376,
+      "title": "1 Dollar - Elizabeth II (4th Portrait - Peace - End World War II)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 2005,
+      "maxYear": 2005
+    }
+  ],
+  "tags": [
+    "Hat",
+    "Peace",
+    "War"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "745"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "840"
+    }
+  ],
+  "weight": 11.31,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/australie/9194-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/australie/9194-180.jpg",
+    "picture_copyright": "Mike Bentley",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 28,
+      "name": "Royal Australian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

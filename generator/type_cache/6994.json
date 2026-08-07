@@ -1,0 +1,102 @@
+{
+  "id": 6994,
+  "url": "https://en.numista.com/6994",
+  "title": "10 Pesewas",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "ghana",
+    "name": "Ghana (1957-date)"
+  },
+  "min_year": 2007,
+  "max_year": 2016,
+  "ruler": [
+    {
+      "id": 943,
+      "name": "Republic",
+      "wikidata_id": "Q117"
+    }
+  ],
+  "value": {
+    "text": "10 Pesewas",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 257,
+      "name": "Third cedi",
+      "full_name": "Third cedi (2007-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 20.5,
+  "thickness": 1.54,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "National arms, date below",
+    "lettering": "GHANA\r\nFREEDOM AND JUSTICE\r\n2007",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/ghana/144-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ghana/144-180.jpg",
+    "picture_copyright": "gef"
+  },
+  "reverse": {
+    "description": "Open book, pen (Theme: Education)",
+    "lettering": "10 PESEWAS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/ghana/145-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ghana/145-180.jpg",
+    "picture_copyright": "gef"
+  },
+  "tags": [
+    "Bird",
+    "Eagle",
+    "Education",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "39"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "38"
+    }
+  ],
+  "weight": 3.4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Milled"
+  },
+  "mints": [
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,105 @@
+{
+  "id": 23731,
+  "url": "https://en.numista.com/23731",
+  "title": "10 Sen",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "malaisie",
+    "name": "Malaysia"
+  },
+  "issuing_entity": {
+    "id": 359,
+    "name": "Central Bank of Malaysia",
+    "wikidata_id": "Q806646"
+  },
+  "min_year": 2011,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 905,
+      "name": "Federal elective constitutional monarchy",
+      "wikidata_id": "Q833"
+    }
+  ],
+  "value": {
+    "text": "10 Sen",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 163,
+      "name": "Ringgit",
+      "full_name": "Ringgit (1967-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 18.8,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Hibiscus (Hibiscus rosa-sinensis) flower with date to the right above the denomination.",
+    "lettering": "2012\r\n10\r\nSEN\r\nBANK NEGARA MALAYSIA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "2012.\r\n10 Sen.\r\nMalaysian National Bank.",
+    "picture": "https://en.numista.com/catalogue/photos/malaisie/754-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/malaisie/754-180.jpg",
+    "picture_copyright": "didi83"
+  },
+  "reverse": {
+    "description": "Mah Meri tribe plant weaving pattern.",
+    "picture": "https://en.numista.com/catalogue/photos/malaisie/753-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/malaisie/753-180.jpg",
+    "picture_copyright": "didi83"
+  },
+  "comments": "Two variants of 2013 date position:<br />\r\n<img src=\"https://en.numista.com/catalogue/images/56f15eab1609e.jpg\" alt=\"\" width=\"345\" height=\"171\" /><br />\r\n© Image provided by myriakorea",
+  "tags": [
+    "Flower"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "202"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "236"
+    }
+  ],
+  "weight": 2.98,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded.",
+    "picture": "https://en.numista.com/catalogue/photos/malaisie/69f42f26435ea7.52163833-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/malaisie/69f42f26435ea7.52163833-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 4395,
+      "name": "Shah Alam"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

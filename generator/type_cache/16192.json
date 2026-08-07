@@ -1,0 +1,90 @@
+{
+  "id": 16192,
+  "url": "https://en.numista.com/16192",
+  "title": "5 Córdobas (2nd coat of arms; Nickel plated steel)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "nicaragua",
+    "name": "Nicaragua"
+  },
+  "min_year": 2007,
+  "max_year": 2014,
+  "ruler": [
+    {
+      "id": 4284,
+      "name": "Republic",
+      "wikidata_id": "Q811"
+    }
+  ],
+  "value": {
+    "text": "5 Córdobas",
+    "numeric_value": 5,
+    "currency": {
+      "id": 3150,
+      "name": "Third Córdoba \"Oro\"",
+      "full_name": "Third Córdoba \"Oro\" (1991-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 28,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms with legend around.\r\nThe water lines are wavy.",
+    "lettering": "· REPÚBLICA DE NICARAGUA ·\r\nAMÉRICA CENTRAL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Nicaragua\r\nCentral America",
+    "picture": "https://en.numista.com/catalogue/photos/nicaragua/60149906499813.45855637-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nicaragua/60149906499813.45855637-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "description": "Value above sprigs within circle, motto at top and date at bottom.",
+    "lettering": "EN DIOS CONFIAMOS\r\n5\r\nCÓRDOBAS\r\n★ ★ 2007 ★ ★",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "In God we trust",
+    "picture": "https://en.numista.com/catalogue/photos/nicaragua/601499070326d8.67489017-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nicaragua/601499070326d8.67489017-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "comments": "<p>Issue date for 2014-dated coins: April 23. 2015</p>",
+  "tags": [
+    "Coat of Arms",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "90a"
+    }
+  ],
+  "weight": 7.8,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

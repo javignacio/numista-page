@@ -1,0 +1,110 @@
+{
+  "id": 2155,
+  "url": "https://en.numista.com/2155",
+  "title": "2 Koruny",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "republique_tcheque",
+    "name": "Czech Republic"
+  },
+  "min_year": 1993,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 1309,
+      "name": "Republic",
+      "wikidata_id": "Q213"
+    }
+  ],
+  "value": {
+    "text": "2 Koruny",
+    "numeric_value": 2,
+    "currency": {
+      "id": 19,
+      "name": "Koruna",
+      "full_name": "Koruna (1993-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21.5,
+  "thickness": 1.85,
+  "shape": "Hendecagonal (11-sided)",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Jarmila Truhlíková - Spěváková"
+    ],
+    "description": "Crowned Czech lion, mintmark, year of production.",
+    "lettering": "ČESKÁ REPUBLIKA \r\n2016",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Czech Republic\r\n2016",
+    "picture": "https://en.numista.com/catalogue/photos/republique_tcheque/559-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/republique_tcheque/559-180.jpg",
+    "picture_copyright": "Mihajlo Nešić (MihajloNesic)"
+  },
+  "reverse": {
+    "engravers": [
+      "Jarmila Truhlíková - Spěváková"
+    ],
+    "description": "Great Moravian button-jewel, engraver's mark under value.",
+    "lettering": "2 Kč\r\nJTS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/republique_tcheque/560-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/republique_tcheque/560-180.jpg",
+    "picture_copyright": "Mihajlo Nešić (MihajloNesic)"
+  },
+  "comments": "Different mintmarks: crowned &quot;b&quot; = Bizuterie Jablonec Czech Mint, (L)Maple Leaf = Royal Canadian Mint.<br /><br />\r\nSince 1998 on Rev. the digit 2 is with sharp edges, decoration in pendant is more detailed, the &quot;ˇ&quot; is more widely spaced from &quot;c&quot; in &quot;Kč&quot;:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/588decb6b2318.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/588decb6b2318.jpg\" alt=\"\" width=\"169\" height=\"249\" /></a><br /><br />\r\nNotes about 1995:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/56daa117c03e1.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/56daa117c03e1.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nNotes about 1998 (please keep in mind, that in this documentation the 1998 is substituted by 1995):<br />\r\n<a href=\"https://en.numista.com/catalogue/images/56daa14425625.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/56daa14425625.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nNotes about engraver&#039;s initials:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/56daa15fc49b4.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/56daa15fc49b4.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "9"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "176"
+    }
+  ],
+  "weight": 3.7,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/republique_tcheque/615b5d6d830b47.18219152-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/republique_tcheque/615b5d6d830b47.18219152-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 30,
+      "name": "Czech Mint"
+    },
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

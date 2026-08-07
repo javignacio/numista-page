@@ -1,0 +1,121 @@
+{
+  "id": 1546,
+  "url": "https://en.numista.com/1546",
+  "title": "5 Aurar",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "islande",
+    "name": "Iceland"
+  },
+  "min_year": 1981,
+  "max_year": 1981,
+  "ruler": [
+    {
+      "id": 1592,
+      "name": "Republic",
+      "wikidata_id": "Q189"
+    }
+  ],
+  "value": {
+    "text": "5 Aurar",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 15,
+      "name": "New króna",
+      "full_name": "New króna (1980-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2003-10-01"
+  },
+  "size": 15,
+  "thickness": 1.1,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze (97% copper, 2.5% zinc, 0.5% tin)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Throstur Magnusson"
+    ],
+    "description": "Gammur the eagle, one of the four traditional protector spirits (\"Landvættir\") of Iceland.",
+    "lettering": "FIMM AURAR \r\nÍSLAND 1981",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Five Aurar\r\nIceland",
+    "picture": "https://en.numista.com/catalogue/photos/islande/67b5932e425130.24054646-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/islande/67b5932e425130.24054646-180.jpg",
+    "picture_copyright": "Seal444",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "Throstur Magnusson"
+    ],
+    "description": "Face value on Skate fish.",
+    "lettering": "5",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/islande/67b5932e9ffa08.11182025-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/islande/67b5932e9ffa08.11182025-180.jpg",
+    "picture_copyright": "Seal444",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p>Iceland mixed date mint set, including KM#24, KM#25, KM#26a, KM#27a, KM#28a, KM#29.1a, KM#31, KM#35</p><p><a href=\"https://en.numista.com/catalogue/images/686e16cd0029e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686e16cd0029e.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/686e16cc9a7df.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686e16cc9a7df.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/686e16c035349.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686e16c035349.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/686e16bfe7131.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686e16bfe7131.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/686e16d723795.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686e16d723795.jpg\"></a></p><p>@gdch6ng</p>",
+  "tags": [
+    "Bird",
+    "Fish",
+    "Mythology"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "24"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "27"
+    },
+    {
+      "catalogue": {
+        "id": 144,
+        "code": "SIEG"
+      },
+      "number": "9"
+    }
+  ],
+  "weight": 1.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

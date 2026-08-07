@@ -1,0 +1,127 @@
+{
+  "id": 7827,
+  "url": "https://en.numista.com/7827",
+  "title": "50 Pennia",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "finlande",
+    "name": "Finland"
+  },
+  "min_year": 1940,
+  "max_year": 1943,
+  "ruler": [
+    {
+      "id": 3291,
+      "name": "Republic",
+      "wikidata_id": "Q33"
+    }
+  ],
+  "value": {
+    "text": "50 Pennia",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 1156,
+      "name": "Markka",
+      "full_name": "Markka (1860-1963)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 18.5,
+  "thickness": 1.44,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Standing lion with sword divides date.",
+    "lettering": "19 40",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/finlande/1553-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/1553-180.jpg",
+    "picture_copyright": "Stu"
+  },
+  "reverse": {
+    "description": "Value below leaf sprays.",
+    "lettering": "50\r\nPENNIÄ",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/finlande/1554-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/1554-180.jpg",
+    "picture_copyright": "Stu"
+  },
+  "comments": "<p>Variants of the 1941 and 1942 coins</p><p><a href=\"https://en.numista.com/catalogue/images/69480ab7a6b04.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/69480ab7a6b04.jpg\"></a></p>",
+  "related_types": [
+    {
+      "id": 7144,
+      "title": "50 Pennia",
+      "category": "coin",
+      "country": {
+        "code": "finlande",
+        "name": "Finland"
+      },
+      "minYear": 1921,
+      "maxYear": 1940
+    },
+    {
+      "id": 7826,
+      "title": "50 Pennia",
+      "category": "coin",
+      "country": {
+        "code": "finlande",
+        "name": "Finland"
+      },
+      "minYear": 1943,
+      "maxYear": 1948
+    }
+  ],
+  "tags": [
+    "Cat or feline",
+    "Flower",
+    "Coat of Arms",
+    "Cold weapons"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "26a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "21a"
+    }
+  ],
+  "weight": 2.55,
+  "orientation": "medal",
+  "edge": {
+    "description": "Milled"
+  },
+  "mints": [
+    {
+      "id": 1333,
+      "name": "Mint of Finland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

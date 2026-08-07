@@ -1,0 +1,174 @@
+{
+  "id": 5730,
+  "url": "https://en.numista.com/5730",
+  "title": "2 Pence - Elizabeth II (2nd portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "iles_malouines",
+    "name": "Falkland Islands"
+  },
+  "min_year": 1974,
+  "max_year": 1992,
+  "ruler": [
+    {
+      "id": 2978,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 829,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "2 Pence",
+    "numeric_value": 0.02,
+    "currency": {
+      "id": 118,
+      "name": "Pound",
+      "full_name": "Pound (decimalized, 1971-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25.91,
+  "thickness": 1.85,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Arnold Machin"
+    ],
+    "description": "Young bust of Queen Elizabeth II facing right surrounded by legend",
+    "lettering": "QUEEN ELIZABETH THE SECOND",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/iles_malouines/62720e7d5e55f3.01814574-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/iles_malouines/62720e7d5e55f3.01814574-180.jpg",
+    "picture_copyright": "Mike Bentley",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "William Maving Gardner"
+    ],
+    "description": "Upland Goose or Magellan Goose, in flight, facing left. Numeral above, lettering and date around edge below. The subspecies Chloephaga picta leucoptera is restricted to the Falklands, being slightly larger than its South American counterpart C. p. picta.",
+    "lettering": "2\r\nWG\r\nFALKLAND ISLANDS 1982",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/iles_malouines/62720e7e9a93a4.86166416-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/iles_malouines/62720e7e9a93a4.86166416-180.jpg",
+    "picture_copyright": "Mike Bentley",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "related_types": [
+    {
+      "id": 7137,
+      "title": "½ Penny - Elizabeth II (2nd portrait)",
+      "category": "coin",
+      "country": {
+        "code": "iles_malouines",
+        "name": "Falkland Islands"
+      },
+      "minYear": 1974,
+      "maxYear": 1983
+    },
+    {
+      "id": 5729,
+      "title": "1 Penny - Elizabeth II (2nd portrait; non-magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "iles_malouines",
+        "name": "Falkland Islands"
+      },
+      "minYear": 1974,
+      "maxYear": 1992
+    },
+    {
+      "id": 9408,
+      "title": "5 Pence - Elizabeth II (2nd portrait; large type)",
+      "category": "coin",
+      "country": {
+        "code": "iles_malouines",
+        "name": "Falkland Islands"
+      },
+      "minYear": 1974,
+      "maxYear": 1992
+    },
+    {
+      "id": 9409,
+      "title": "10 Pence - Elizabeth II (2nd portrait; large type)",
+      "category": "coin",
+      "country": {
+        "code": "iles_malouines",
+        "name": "Falkland Islands"
+      },
+      "minYear": 1974,
+      "maxYear": 1992
+    },
+    {
+      "id": 9410,
+      "title": "20 Pence - Elizabeth II (2nd portrait)",
+      "category": "coin",
+      "country": {
+        "code": "iles_malouines",
+        "name": "Falkland Islands"
+      },
+      "minYear": 1982,
+      "maxYear": 1999
+    },
+    {
+      "id": 9411,
+      "title": "50 Pence - Elizabeth II (2nd portrait; large type)",
+      "category": "coin",
+      "country": {
+        "code": "iles_malouines",
+        "name": "Falkland Islands"
+      },
+      "minYear": 1980,
+      "maxYear": 1992
+    }
+  ],
+  "tags": [
+    "Bird"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "3"
+    }
+  ],
+  "weight": 7.12,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

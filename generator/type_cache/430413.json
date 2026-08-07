@@ -1,0 +1,112 @@
+{
+  "id": 430413,
+  "url": "https://en.numista.com/430413",
+  "title": "Antoninianus - Aurelianus (IMP C AVRELIANVS AVG; RESTITVTOR ORBIS)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "rome",
+    "name": "Roman Empire (27 BC - 395 AD)"
+  },
+  "min_year": 270,
+  "max_year": 275,
+  "ruler": [
+    {
+      "id": 107,
+      "name": "Aurelian",
+      "wikidata_id": "Q46780",
+      "nomisma_id": "aurelian",
+      "group": {
+        "id": 323,
+        "name": "Illyrian emperors"
+      }
+    }
+  ],
+  "value": {
+    "text": "Antoninianus",
+    "numeric_value": 1,
+    "currency": {
+      "id": 1615,
+      "name": "Antoninianus, Reform of Caracalla",
+      "full_name": "Antoninianus, Reform of Caracalla (AD 215 – 301)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 20,
+  "thickness": 3,
+  "shape": "Round (irregular)",
+  "composition": {
+    "text": "Silver"
+  },
+  "technique": {
+    "text": "Hammered"
+  },
+  "obverse": {
+    "description": "Bust of Aurelian, radiate, cuirassed, right.",
+    "lettering": "IMP C AVRELIANVS AVG",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Imperator Caesar Aurelianus Augustus.",
+    "lettering_translation": "Supreme commander, Caesar Aurelian, emperor.",
+    "picture": "https://en.numista.com/catalogue/photos/rome/66cd9a951e43e1.19064969-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/rome/66cd9a951e43e1.19064969-180.jpg",
+    "picture_copyright": "RRivas",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Female, draped, standing right, presenting wreath to Aurelian, standing left, holding spear; between them, kneeling figure.\r\nStar and officina in exergue.",
+    "lettering": "RESTITVTOR ORBIS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Restitutor Orbis.",
+    "lettering_translation": "Restorer of the city (Rome).",
+    "picture": "https://en.numista.com/catalogue/photos/rome/66cd9a9631b466.63561674-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/rome/66cd9a9631b466.63561674-180.jpg",
+    "picture_copyright": "RRivas",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "<p>Masa variable: 2,3–3,592 g; @@Ejemplo de este tipo: @Münzkabinett der Universität Göttingen@@Fuente:&nbsp;<br><a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"http://numismatics.org/ocre/\">Online Coins of the Roman Empire (OCRE)</a></p>",
+  "tags": [
+    "Armour",
+    "Wreath",
+    "Cold weapons"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 454,
+        "code": "RIC V.1"
+      },
+      "number": "349 var."
+    },
+    {
+      "catalogue": {
+        "id": 1020,
+        "code": "OCRE"
+      },
+      "number": "ric.5.aur.349"
+    }
+  ],
+  "weight": 3.73,
+  "orientation": "coin",
+  "mints": [
+    {
+      "id": 53,
+      "name": "Cyzicus"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

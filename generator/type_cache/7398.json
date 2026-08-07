@@ -1,0 +1,165 @@
+{
+  "id": 7398,
+  "url": "https://en.numista.com/7398",
+  "title": "2 Pence - Elizabeth II (4th portrait; magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1998,
+  "max_year": 2008,
+  "ruler": [
+    {
+      "id": 275,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 527,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "2 Pence",
+    "numeric_value": 0.02,
+    "currency": {
+      "id": 126,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (decimalized, 1971-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25.9,
+  "thickness": 2.05,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Ian Rank-Broadley"
+    ],
+    "description": "Fourth crowned portrait of Queen Elizabeth II right, wearing the Girls of Great Britain and Ireland tiara, legend around.",
+    "lettering": "ELIZABETH·II·D·G REG·F·D·2006 \r\nIRB",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Elizabeth II Dei Gratia Regina Fidei Defensatrix",
+    "lettering_translation": "Elizabeth II by the Grace of God Queen Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/2464-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/2464-180.jpg",
+    "picture_copyright": "Florino28",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Christopher Ironside"
+    ],
+    "description": "The badge of the Prince of Wales, a plume of three ostrich feathers enfiling a coronet of cross pattée and fleur de lys, dividing motto with legend above and denomination below.",
+    "lettering": "TWO PENCE\r\nICH DIEN\r\n2",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "I serve",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/2465-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/2465-180.jpg",
+    "picture_copyright": "Florino28",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p>In 1992 the composition for the two pence circulation strikes was changed from bronze to copper plated steel to reduce production costs.<br>In 1998 the circulation issues were struck in both bronze and copper plated steel in approximately equal quantities.<br>In 1999 the BU and Proof set issues were struck in bronze instead of copper plated steel.<br><br>Reports have been received regarding obverse varieties for the 1998 and 2004 issues:<br><a href=\"https://en.numista.com/catalogue/images/67cc4223266f1.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67cc4223266f1.jpg\"></a></p>",
+  "related_types": [
+    {
+      "id": 869,
+      "title": "2 Pence - Elizabeth II (4th portrait; non-magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1998,
+      "maxYear": 1999
+    },
+    {
+      "id": 204821,
+      "title": "2 Pence - Elizabeth II (4th portrait; Welsh Plumes, Silver Proof)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2000,
+      "maxYear": 2008
+    },
+    {
+      "id": 279958,
+      "title": "2 Pence - Elizabeth II (4th Portrait; Welsh Plumes, Gold Proof)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2002,
+      "maxYear": 2008
+    },
+    {
+      "id": 279959,
+      "title": "2 Pence - Elizabeth II (4th Portrait; Welsh Plumes, Platinum Proof)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2008,
+      "maxYear": 2008
+    }
+  ],
+  "tags": [
+    "Crown",
+    "Cross",
+    "Fleur-de-lis"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "987"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "C5"
+    }
+  ],
+  "weight": 7.12,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

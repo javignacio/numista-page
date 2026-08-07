@@ -1,0 +1,128 @@
+{
+  "id": 2447,
+  "url": "https://en.numista.com/2447",
+  "title": "1 Sentimo",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "philippines",
+    "name": "Philippines"
+  },
+  "issuing_entity": {
+    "id": 492,
+    "name": "Central Bank of the Philippines",
+    "wikidata_id": "Q1853468"
+  },
+  "min_year": 1975,
+  "max_year": 1978,
+  "ruler": [
+    {
+      "id": 1639,
+      "name": "Republic",
+      "wikidata_id": "Q928"
+    }
+  ],
+  "value": {
+    "text": "1 Sentimo",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 151,
+      "name": "Piso",
+      "full_name": "Piso (1967-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1998-01-02"
+  },
+  "size": 19,
+  "thickness": 2.4,
+  "shape": "Square with rounded corners",
+  "composition": {
+    "text": "Aluminium (95% Aluminium, 5% Magnesium)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Don Everhart"
+    ],
+    "description": "Front-right facing head of Lapulapu.",
+    "lettering": "REPUBLIKA NG PILIPINAS\r\nLAPULAPU\r\n1 SENTIMO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of the Philippines.",
+    "picture": "https://en.numista.com/catalogue/photos/philippines/681-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/philippines/681-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "reverse": {
+    "engravers": [
+      "J. Herman DeRoos"
+    ],
+    "description": "Central Bank of the Philippines seal.",
+    "lettering": "ANG BAGONG LIPUNAN\r\nBANGKO SENTRAL NG PILIPINAS 1949\r\n1975",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "The New Society. Central Bank of the Philippines.",
+    "picture": "https://en.numista.com/catalogue/photos/philippines/680-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/philippines/680-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "series": "The New Society Series",
+  "comments": "The business strike of 1975 was produced by Franklin mint in 60,190,000 and by Llantrisant Mint in 10,000,000 pieces. Till now there is no way to distinguish them.",
+  "tags": [
+    "Military leader"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "205"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "44"
+    }
+  ],
+  "weight": 1.2,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/philippines/659ba995326ba7.82604483-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/philippines/659ba995326ba7.82604483-180.jpg",
+    "picture_copyright": "MatthewM",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    },
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    },
+    {
+      "id": 1319,
+      "name": "Franklin Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

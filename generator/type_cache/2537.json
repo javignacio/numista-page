@@ -1,0 +1,136 @@
+{
+  "id": 2537,
+  "url": "https://en.numista.com/2537",
+  "title": "50 Bolívares",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "venezuela",
+    "name": "Venezuela"
+  },
+  "min_year": 1998,
+  "max_year": 1999,
+  "ruler": [
+    {
+      "id": 4706,
+      "name": "Fourth Republic",
+      "wikidata_id": "Q21296156"
+    }
+  ],
+  "value": {
+    "text": "50 Bolivars",
+    "numeric_value": 50,
+    "currency": {
+      "id": 7,
+      "name": "Bolivar",
+      "full_name": "Bolivar (1879-2007)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 23,
+  "thickness": 2.4,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel clad steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms with legend at top. Date and value at bottom.",
+    "lettering": "•REPÚBLICA DE VENEZUELA•\r\n1998 50 BOLÍVARES",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Venezuela",
+    "picture": "https://en.numista.com/catalogue/photos/venezuela/12-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/venezuela/12-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Bust left, flanked with legend and engraver's name at base. Inside heptagon.",
+    "lettering": "BOLÍVAR LIBERTADOR\r\nBARRE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Bolivar Liberator",
+    "picture": "https://en.numista.com/catalogue/photos/venezuela/11-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/venezuela/11-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "Y#77.1<br />\r\nObverse:<br />\r\nBig letters,numbers and coat of arms.<a href=\"https://en.numista.com/catalogue/images/5a80349c4803d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5a80349c4803d.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\nReverse:<br />\r\nBig letters, big bust,no mint mark.<a href=\"https://en.numista.com/catalogue/images/5a8034ed37ff0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5a8034ed37ff0.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nY#77.2<br />\r\nObverse:<br />\r\nSmall letters,numbers and coat of arms.<a href=\"https://en.numista.com/catalogue/images/5a8035161075e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5a8035161075e.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\nReverse:<br />\r\nSmall letters,small bust,with mint mark.<a href=\"https://en.numista.com/catalogue/images/5a80353c91ea8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5a80353c91ea8.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "related_types": [
+    {
+      "id": 2565,
+      "title": "50 Bolívares",
+      "category": "coin",
+      "country": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "minYear": 2000,
+      "maxYear": 2004
+    }
+  ],
+  "tags": [
+    "Horse or equine",
+    "Military leader",
+    "Politician",
+    "Coat of Arms",
+    "Cornucopia"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "77"
+    },
+    {
+      "catalogue": {
+        "id": 2068,
+        "code": "NCV"
+      },
+      "number": "mv50bs-d"
+    }
+  ],
+  "weight": 6.6,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/venezuela/6249d0627ae1f8.55981486-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/venezuela/6249d0627ae1f8.55981486-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 4182,
+      "name": "Casa de la Moneda de Venezuela"
+    },
+    {
+      "id": 30,
+      "name": "Czech Mint"
+    },
+    {
+      "id": 1248,
+      "name": "Hungarian mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

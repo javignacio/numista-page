@@ -1,0 +1,134 @@
+{
+  "id": 2562,
+  "url": "https://en.numista.com/2562",
+  "title": "1 Cent - Wilhelmina",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "pays-bas",
+    "name": "Netherlands"
+  },
+  "min_year": 1948,
+  "max_year": 1948,
+  "ruler": [
+    {
+      "id": 1301,
+      "name": "Wilhelmina",
+      "wikidata_id": "Q150747",
+      "nomisma_id": "queen_wilhelmina",
+      "group": {
+        "id": 750,
+        "name": "House of Orange-Nassau"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Cent",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 70,
+      "name": "Gulden",
+      "full_name": "Gulden (decimalized, 1817-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 17,
+  "thickness": 1.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Ludwig Oswald Wenckebach"
+    ],
+    "description": "Queen Wilhelmina facing left",
+    "lettering": "WILHELMINA KONINGIN DER NEDERLANDEN",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Wilhelmina, Queen of the Netherlands",
+    "picture": "https://en.numista.com/catalogue/photos/pays-bas/671a776bacf719.91991240-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/671a776bacf719.91991240-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Ludwig Oswald Wenckebach"
+    ],
+    "description": "Denomination, divided date at lower sides of \"1\". Privy mark (left) and mint mark (right) flanking value.",
+    "lettering": "1\r\n1948\r\nCENT",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/pays-bas/671a776c9657b7.47085682-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/671a776c9657b7.47085682-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "related_types": [
+    {
+      "id": 733,
+      "title": "1 Cent - Juliana",
+      "category": "coin",
+      "country": {
+        "code": "pays-bas",
+        "name": "Netherlands"
+      },
+      "minYear": 1950,
+      "maxYear": 1980
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "175"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "60"
+    },
+    {
+      "catalogue": {
+        "id": 118,
+        "code": "Sch"
+      },
+      "number": "1077"
+    }
+  ],
+  "weight": 2,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/pays-bas/615ec25ba43318.44089891-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/615ec25ba43318.44089891-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 23,
+      "name": "Royal Dutch Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

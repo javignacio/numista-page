@@ -1,0 +1,108 @@
+{
+  "id": 14870,
+  "url": "https://en.numista.com/14870",
+  "title": "8 Maravedis - Ferdinand VII (Jubia; 2nd portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "espagne",
+    "name": "Spain"
+  },
+  "min_year": 1817,
+  "max_year": 1821,
+  "ruler": [
+    {
+      "id": 162,
+      "name": "Ferdinand VII",
+      "wikidata_id": "Q186256",
+      "nomisma_id": "ferdinand_vii_of_spain",
+      "group": {
+        "id": 44,
+        "name": "House of Bourbon"
+      }
+    }
+  ],
+  "value": {
+    "text": "8 Maravedis",
+    "numeric_value": 0.23529411764705882,
+    "numerator": 8,
+    "denominator": 34,
+    "currency": {
+      "id": 4298,
+      "name": "Real Vellon",
+      "full_name": "Real Vellon (1808-1848)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1817-00-00"
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 29,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Félix Sagau y Dalmau de Galcerán"
+    ],
+    "description": "Laureate head of King Fernando VII facing right.",
+    "lettering": "FERDIN · VII· D · G · HISP · REX\r\nJ 8\r\n· 1819 ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Ferdinand VII Dei Gratia Hispaniarum Rex",
+    "lettering_translation": "Ferdinand VII King of Spain by the Grace of God",
+    "picture": "https://en.numista.com/catalogue/photos/espagne/6941a685d1e8f4.92624961-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/6941a685d1e8f4.92624961-180.jpg",
+    "picture_copyright": "Subastas Ibercoin",
+    "picture_copyright_url": "https://www.ibercoin.com/"
+  },
+  "reverse": {
+    "engravers": [
+      "Félix Sagau y Dalmau de Galcerán"
+    ],
+    "description": "Cross of Don Pelayo with castles and rampant lions representing the Kingdoms of Castile and Leon, three fleurs-de-lis in a central oval representing the Bourbons and perimeter wreath.",
+    "picture": "https://en.numista.com/catalogue/photos/espagne/6941a6862d7079.87271996-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/6941a6862d7079.87271996-180.jpg",
+    "picture_copyright": "Subastas Ibercoin",
+    "picture_copyright_url": "https://www.ibercoin.com/"
+  },
+  "tags": [
+    "Cat or feline",
+    "Castle or fortification",
+    "Cross",
+    "Fleur-de-lis",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "491"
+    }
+  ],
+  "weight": 10,
+  "orientation": "medal",
+  "mints": [
+    {
+      "id": 5280,
+      "name": "Jubia Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

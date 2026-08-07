@@ -1,0 +1,114 @@
+{
+  "id": 3704,
+  "url": "https://en.numista.com/3704",
+  "title": "25 Øre - Olav V",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "norvege",
+    "name": "Norway"
+  },
+  "min_year": 1974,
+  "max_year": 1982,
+  "ruler": [
+    {
+      "id": 451,
+      "name": "Olav V",
+      "wikidata_id": "Q154912",
+      "group": {
+        "id": 358,
+        "name": "House of Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "25 Øre",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 16,
+      "name": "Krone",
+      "full_name": "Krone (1875-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1985-01-01"
+  },
+  "size": 17,
+  "thickness": 1.4,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Cu, 25% Ni)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Øivind Hansen"
+    ],
+    "description": "Cross consisting of four crowned Olav V monograms. Solid ring on the rim.",
+    "lettering": "OV",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/norvege/834-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/834-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "reverse": {
+    "engravers": [
+      "Øivind Hansen"
+    ],
+    "description": "Value and inscription in three lines. Mintmaster's initial on the left side of the second line. Engraver's initial on the right side of the second line. Date divided by mintmark below inscription. Solid ring on the rim.",
+    "lettering": "25\r\nAB ØRE ØH\r\nNORGE\r\n19 ⚒ 79",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Norway",
+    "picture": "https://en.numista.com/catalogue/photos/norvege/835-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/835-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "comments": "<p>Double embossing exist:<br><a href=\"https://en.numista.com/catalogue/images/5e1299b39320b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e1299b39320b.jpg\" alt=\"\"></a><br>Position of star in 1980:<br><a href=\"https://en.numista.com/catalogue/images/5e5f7aeb8dddf.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e5f7aeb8dddf.jpg\" alt=\"\"></a></p>",
+  "tags": [
+    "Monogram"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "417"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "68"
+    }
+  ],
+  "weight": 2.4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/norvege/614ceb6e198f85.22192383-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/614ceb6e198f85.22192383-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 1888,
+      "name": "Norwegian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

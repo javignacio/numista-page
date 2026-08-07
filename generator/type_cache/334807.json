@@ -1,0 +1,89 @@
+{
+  "id": 334807,
+  "url": "https://en.numista.com/334807",
+  "title": "1 Farthing - Charles I (Maltravers type 1; counterfeit)",
+  "object_type": {
+    "id": 54,
+    "name": "Contemporary counterfeits"
+  },
+  "issuer": {
+    "code": "england",
+    "name": "England"
+  },
+  "min_year": 1634,
+  "max_year": 1636,
+  "ruler": [
+    {
+      "id": 512,
+      "name": "Charles I",
+      "wikidata_id": "Q81506",
+      "group": {
+        "id": 27,
+        "name": "House of Stuart"
+      }
+    }
+  ],
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 17,
+  "shape": "Round (irregular)",
+  "composition": {
+    "text": "Bronze"
+  },
+  "obverse": {
+    "description": "Two sceptres through a single-arched crown with 7 jewels, legend around. Privy mark trefoil",
+    "lettering": "CAROLVS(.) D! G(!) MAG(!) BRIT.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Charles, by the grace of God, of Great Britain",
+    "picture": "https://en.numista.com/catalogue/photos/england/62e0988c08d322.42368624-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/england/62e0988c08d322.42368624-180.jpg",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Eagle-headed, 6-string harp below single-arched crown with 7 jewels, legend around. No privy mark",
+    "lettering": "(.)FRAN! ET. HIB! REX",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "France and Ireland, King (continuation of obverse legend)",
+    "picture": "https://en.numista.com/catalogue/photos/england/62e0988d143e17.79007750-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/england/62e0988d143e17.79007750-180.jpg",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "comments": "Counterfeits can by identified by privy marks, punctuation and orientation:<br /><br />\r\nAll Everson Types 1 and 3 for Maltravers have a die axis of 0° (medal alignment), as do all Type 2 except those with privy marks double rose and woolpack.<br />\r\nThe only genuine privy marks for Type 1 are double rose and woolpack.<br />\r\nType 1 never has a stop after BRIT.<br />\r\nGenuine Maltravers farthings are well-centred.",
+  "related_types": [
+    {
+      "id": 48578,
+      "title": "1 Farthing - Charles I (Maltravers issue; types 1-3)",
+      "category": "coin",
+      "country": {
+        "code": "england",
+        "name": "England"
+      },
+      "minYear": 1634,
+      "maxYear": 1636
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "3197A"
+    }
+  ],
+  "weight": 0.4,
+  "orientation": "coin",
+  "category": "exonumia",
+  "type": "Contemporary counterfeits"
+}

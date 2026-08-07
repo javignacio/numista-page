@@ -1,0 +1,105 @@
+{
+  "id": 7268,
+  "url": "https://en.numista.com/7268",
+  "title": "2 Baisa - Said",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "muscat_and_oman",
+    "name": "Muscat and Oman"
+  },
+  "min_year": 1970,
+  "max_year": 1970,
+  "ruler": [
+    {
+      "id": 4831,
+      "name": "Said bin Taimur",
+      "wikidata_id": "Q879869",
+      "group": {
+        "id": 420,
+        "name": "House of Al Said"
+      }
+    }
+  ],
+  "value": {
+    "text": "2 Baisa",
+    "numeric_value": 0.002,
+    "currency": {
+      "id": 6257,
+      "name": "New Saidi rial",
+      "full_name": "New Saidi rial (1970)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 16,
+  "thickness": 1.27,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "National Arms in centre",
+    "lettering": "سعيد بن تيمور\r\nسلطان مسقط وعمان",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "Sa'id bin Taimur\r\nSultan of Muscat and Oman",
+    "picture": "https://en.numista.com/catalogue/photos/muscat_and_oman/601bc541db94a7.40506276-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/muscat_and_oman/601bc541db94a7.40506276-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "reverse": {
+    "description": "Value flanked by miniature National Arms, date below",
+    "lettering": "بيسة\r\n۲\r\n١٣٩٠",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/muscat_and_oman/601bc54220fd28.27932254-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/muscat_and_oman/601bc54220fd28.27932254-180.jpg",
+    "picture_copyright": "Jérémy Pureur"
+  },
+  "tags": [
+    "Coat of Arms",
+    "Cold weapons"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "36"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "27"
+    }
+  ],
+  "weight": 1.75,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,145 @@
+{
+  "id": 10969,
+  "url": "https://en.numista.com/10969",
+  "title": "1 Cent \"Lincoln Cent - Shield Reverse\"",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "etats-unis",
+    "name": "United States"
+  },
+  "min_year": 2010,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 4720,
+      "name": "Federal republic",
+      "wikidata_id": "Q30"
+    }
+  ],
+  "value": {
+    "text": "1 Cent",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 59,
+      "name": "Dollar",
+      "full_name": "Dollar (1785-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 19.05,
+  "thickness": 1.55,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper plated zinc (97.5% Zinc, 2.5% Copper)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Victor David Brenner"
+    ],
+    "designers": [
+      "Victor David Brenner"
+    ],
+    "description": "The bust of Abraham Lincoln with the date above the mintmark to the right",
+    "lettering": "IN GOD WE TRUST\r\nLIBERTY\r\n2011\r\nD\r\nVDB",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/5297-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/5297-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "engravers": [
+      "Joseph Francis Menna"
+    ],
+    "designers": [
+      "Lyndall Bass"
+    ],
+    "description": "Ribbon bearing value on top of the shield",
+    "lettering": "UNITED STATES OF AMERICA \r\nE PLURIBUS UNUM \r\nONE CENT\r\nLB JFM",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Out of Many, One",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/5298-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/5298-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "comments": "<p>In February 2025, President Donald Trump ordered the Treasury to discontinue production of the penny because of the costs to mint a single coin. In August, the Federal Reserve made their final shipments of pennies to distribution centers. As of September 2025, retailers are seeing a shortage of pennies as the distribution centers have canceled orders of pennies. The final pennies for 2025 were minted on November 12th, 2025.</p><p>&nbsp;</p><p>On December 11th, the United States Mint, through Stacks Bowers Galleries, auctioned 232 three-coin sets (representing the 232 years of the one-cent denomination) of the final Lincoln Cents. The coins bear an <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.usmint.gov/news/image-library/circulating#accordion-76deca3221-item-e01ba8cee6\"><u>Omega (Ω) privy mark</u></a>, signifying each coin is among the last of the circulating pennies ever struck by the Mint. The sets contain two circulating cents, one from the Philadelphia mint and one from the Denver mint. The third coin, minted in Philadelphia and is made of 99.99% 24 karat gold.</p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/691de70bb929f.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/691de70bb929f.jpg\"></a> &nbsp;&nbsp;<a href=\"https://en.numista.com/catalogue/images/691de7252cf66.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/691de7252cf66.jpg\"></a> &nbsp; &nbsp;<a href=\"https://en.numista.com/catalogue/images/691de7433027e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/691de7433027e.jpg\"></a></p>",
+  "related_types": [
+    {
+      "id": 532648,
+      "title": "1 Cent \"Lincoln Cent\" (Gold Omega Cent)",
+      "category": "coin",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 2025,
+      "maxYear": 2025
+    }
+  ],
+  "tags": [
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "468"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "463"
+    }
+  ],
+  "weight": 2.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/3152-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/3152-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    },
+    {
+      "id": 10,
+      "name": "United States Mint of Denver"
+    },
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    },
+    {
+      "id": 12,
+      "name": "United States Mint of San Francisco"
+    },
+    {
+      "id": 13,
+      "name": "United States Mint of West Point"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

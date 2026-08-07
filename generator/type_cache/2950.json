@@ -1,0 +1,106 @@
+{
+  "id": 2950,
+  "url": "https://en.numista.com/2950",
+  "title": "1 Escudo",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "chili",
+    "name": "Chile"
+  },
+  "min_year": 1971,
+  "max_year": 1972,
+  "ruler": [
+    {
+      "id": 3299,
+      "name": "Republic",
+      "wikidata_id": "Q298"
+    }
+  ],
+  "value": {
+    "text": "1 Escudo",
+    "numeric_value": 1,
+    "currency": {
+      "id": 236,
+      "name": "Escudo",
+      "full_name": "Escudo (1960-1975)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1975-09-29"
+  },
+  "size": 19,
+  "thickness": 1.4,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Francisco Orellana Pavéz"
+    ],
+    "description": "Portrait of José Miguel Carrera Verdugo (1785–1821) was a Chilean general, considered one of the founders of independent Chile.",
+    "lettering": "REPUBLICA DE CHILE\r\nF. ORE. P.\r\nJ.M.CARRERA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Chile\r\nJ.M.Carrera",
+    "picture": "https://en.numista.com/catalogue/photos/chili/642f838a651839.46501382-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/642f838a651839.46501382-180.jpg",
+    "picture_copyright": "eze711cba",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Chilean coat of Arms with the value below and the date to the bottom-left",
+    "lettering": "POR LA RAZON O LA FUERZA\r\n1972  So\r\n1\r\nESCUDO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "By Reason or Force\r\n1971 So\r\n1\r\nEscudo",
+    "picture": "https://en.numista.com/catalogue/photos/chili/642f838b227dc2.47803311-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/642f838b227dc2.47803311-180.jpg",
+    "picture_copyright": "eze711cba",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "tags": [
+    "Coat of Arms",
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "197"
+    }
+  ],
+  "weight": 2.74,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/chili/651e29fbc48aa2.89499191-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/651e29fbc48aa2.89499191-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

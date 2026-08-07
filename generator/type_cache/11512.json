@@ -1,0 +1,170 @@
+{
+  "id": 11512,
+  "url": "https://en.numista.com/11512",
+  "title": "1 Fils",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "jordanie",
+    "name": "Jordan"
+  },
+  "min_year": 1949,
+  "max_year": 1949,
+  "ruler": [
+    {
+      "id": 2905,
+      "name": "Abdullah I bin Al-Hussein",
+      "wikidata_id": "Q192780"
+    }
+  ],
+  "value": {
+    "text": "1 Fils",
+    "numeric_value": 0.001,
+    "currency": {
+      "id": 26,
+      "name": "Dinar",
+      "full_name": "Dinar (1949-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 18,
+  "thickness": 1.58,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "lettering": "١٣٦۸\r\n۱\r\n١٩٤٩\r\nفلس واحد\r\nالمملكة الأردنية الهاشمية",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "1368\r\n1\r\n1949\r\nOne Fils\r\nThe Hashemite Kingdom of the Jordan",
+    "picture": "https://en.numista.com/catalogue/photos/jordanie/62f03992c12d24.42025442-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/jordanie/62f03992c12d24.42025442-180.jpg",
+    "picture_copyright": "gyoschak",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Value in a circle, date below, legend around.",
+    "lettering": "THE HASHEMITE KINGDOM OF THE JORDAN *\r\nONE FILS\r\n1\r\n1949",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/jordanie/62f03992edc447.47455198-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/jordanie/62f03992edc447.47455198-180.jpg",
+    "picture_copyright": "gyoschak",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/5abe36ef8c1bf.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5abe36ef8c1bf.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "related_types": [
+    {
+      "id": 21721,
+      "title": "1 Fil (\"Fil\" error)",
+      "category": "coin",
+      "country": {
+        "code": "jordanie",
+        "name": "Jordan"
+      },
+      "minYear": 1949,
+      "maxYear": 1949
+    },
+    {
+      "id": 11510,
+      "title": "5 Fils",
+      "category": "coin",
+      "country": {
+        "code": "jordanie",
+        "name": "Jordan"
+      },
+      "minYear": 1949,
+      "maxYear": 1949
+    },
+    {
+      "id": 1742,
+      "title": "10 Fils - Abdullah I",
+      "category": "coin",
+      "country": {
+        "code": "jordanie",
+        "name": "Jordan"
+      },
+      "minYear": 1949,
+      "maxYear": 1949
+    },
+    {
+      "id": 6923,
+      "title": "20 Fils",
+      "category": "coin",
+      "country": {
+        "code": "jordanie",
+        "name": "Jordan"
+      },
+      "minYear": 1949,
+      "maxYear": 1949
+    },
+    {
+      "id": 1739,
+      "title": "50 Fils",
+      "category": "coin",
+      "country": {
+        "code": "jordanie",
+        "name": "Jordan"
+      },
+      "minYear": 1949,
+      "maxYear": 1949
+    },
+    {
+      "id": 5945,
+      "title": "100 Fils",
+      "category": "coin",
+      "country": {
+        "code": "jordanie",
+        "name": "Jordan"
+      },
+      "minYear": 1949,
+      "maxYear": 1949
+    }
+  ],
+  "tags": [
+    "Crown",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "2"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "2"
+    }
+  ],
+  "weight": 3,
+  "orientation": "medal",
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

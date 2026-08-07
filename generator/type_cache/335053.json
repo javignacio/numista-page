@@ -1,0 +1,110 @@
+{
+  "id": 335053,
+  "url": "https://en.numista.com/335053",
+  "title": "50 Soles",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "perou",
+    "name": "Peru"
+  },
+  "issuing_entity": {
+    "id": 936,
+    "name": "Central Reserve Bank of Peru",
+    "wikidata_id": "Q932146"
+  },
+  "min_year": 2019,
+  "max_year": 2021,
+  "ruler": [
+    {
+      "id": 3757,
+      "name": "Republic",
+      "wikidata_id": "Q419"
+    }
+  ],
+  "value": {
+    "text": "50 Soles",
+    "numeric_value": 50,
+    "currency": {
+      "id": 184,
+      "name": "Nuevo sol",
+      "full_name": "Nuevo sol (1991-2015) / Sol (2016-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2022-07-20"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 140,
+  "size2": 65,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Dark purple print on light red-pink underprint, horizontal layout.\r\nMaría Rostworowski at right.\r\nIssuer name on top left; white country name on lower center, rotated 90º; face value in numbers on lower left corner, in numbers and letters on top right corner; black serial #s, seven digits with one letter prefix and one letter suffix, horizontal on lower left, vertical on right edge.\r\nThree signatures with titles below on top center; issuing date on lower left; watermark area on left; issuing date on lower left; windowed security strip on left; raised device for identification by visually impaired, three diagonal bars woth circle on top on left edge, without circle on right edge.",
+    "lettering": "BANCO CENTRAL DEL PERÚ\r\nCINCUENTA SOLES\r\n50\r\nPRESIDENTE\r\nDIRECTOR\r\nGERENTE GENERAL\r\nPerú\r\nA12778148A\r\n21 DE MARZO DE 2019\r\nMARÍA ROSTWOROWSKI",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Bank of Peru\r\nFifty Soles\r\nPresident, Director, General Manager\r\nMarch 21st., 2019",
+    "picture": "https://en.numista.com/catalogue/photos/perou/62e491ac3d1216.09350257-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/62e491ac3d1216.09350257-180.jpg",
+    "picture_copyright": "Samantha Escutia"
+  },
+  "reverse": {
+    "description": "Dark purple print on light red-pink underprint; vertical format.\r\nJaguar on left center, Puya raimondii plant; coat of arms of Peru on left, below jaguar.\r\nWhite country name on top, face value in numbers on top center and lower right, in letters on top right.",
+    "lettering": "CINCUENTA SOLES\r\nPerú\r\n50",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Fifty Soles",
+    "picture": "https://en.numista.com/catalogue/photos/perou/62e491ad9ff8a7.88202177-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/62e491ad9ff8a7.88202177-180.jpg",
+    "picture_copyright": "Samantha Escutia"
+  },
+  "series": "2019 Issue",
+  "comments": "<p>The note has a solid security strip windowed into three pieces on the obverse. Under backlight the whole strip can be seen. It has “50” repeated on it:</p><p><a href=\"https://en.numista.com/catalogue/images/6845bdd5784ac.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6845bdd5784ac.jpg\"></a></p><p>© Brandon Bertolli</p><p>&nbsp;</p><p>Holographic feature on the security strip:</p><p>A dark bar rolls up and down the security thread and a diamond shape shrinks and expands as the note is tilted up and down.&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/69783933203ce.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/69783933203ce.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/697839361933b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/697839361933b.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/6978393e5669d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6978393e5669d.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/697839436c6b1.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/697839436c6b1.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/69783958e39db.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/69783958e39db.jpg\"></a></p><p>© Kiet Tran</p><p>&nbsp;</p><p>The appearances of a 2019 note under infrared light:</p><p><a href=\"https://en.numista.com/catalogue/images/6845be112d3c2.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6845be112d3c2.jpg\"></a> &nbsp;<a href=\"https://en.numista.com/catalogue/images/6845be5940602.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6845be5940602.jpg\"></a></p><p>&nbsp;</p><p>UV activity on a 2019 note at 365nm:</p><p><a href=\"https://en.numista.com/catalogue/images/6845be7ed4712.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6845be7ed4712.jpg\"></a> &nbsp;<a href=\"https://en.numista.com/catalogue/images/6845be88ed7c8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6845be88ed7c8.jpg\"></a></p><p>© Brandon Bertolli</p><p>&nbsp;</p><p style=\"margin-left:0px;\">Holographic feature 2:</p><p style=\"margin-left:0px;\">The ornamental shape on the bottom-right of the obverse is printed in colour shifting ink which changes colour from gold and lime green when the note is tilted and features a moving floating ring inside of it.</p><p style=\"margin-left:0px;\"><a href=\"https://en.numista.com/catalogue/images/6978371c492a8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6978371c492a8.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/697837201a256.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/697837201a256.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/697837242c92c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/697837242c92c.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/6978372652a46.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6978372652a46.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/6978379517368.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6978379517368.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/69783797d45e9.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/69783797d45e9.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/6978379b0847a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6978379b0847a.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/6978379e0c4db.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6978379e0c4db.jpg\"></a></p><p style=\"margin-left:0px;\">© Kiet Tran</p><p style=\"margin-left:0px;\">&nbsp;</p><p style=\"margin-left:0px;\">Hidden latent image in the patterned space to the right of María Rostworowski's face - denomination numeral 50 can be seen when looked at closely or the note is tilted:</p><p><a href=\"https://en.numista.com/catalogue/images/69783a4f120f8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/69783a4f120f8.jpg\"></a></p><p>© Kiet Tran</p>",
+  "tags": [
+    "Cat or feline",
+    "Tree",
+    "Coat of Arms",
+    "Latent image",
+    "Micro inscriptions",
+    "Photoluminescence"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 936,
+        "code": "TBB"
+      },
+      "number": "539"
+    }
+  ],
+  "watermark": {
+    "description": "María Rostworowski with electrotype pattern and 50 above",
+    "picture": "https://en.numista.com/catalogue/photos/perou/6845bf3784f772.93890492-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/6845bf3784f772.93890492-180.jpg",
+    "picture_copyright": "Brandon Bertolli",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "printers": [
+    {
+      "id": "107",
+      "name": "Perum Peruri"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

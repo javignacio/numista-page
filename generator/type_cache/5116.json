@@ -1,0 +1,187 @@
+{
+  "id": 5116,
+  "url": "https://en.numista.com/5116",
+  "title": "1 Centavo (José Martí)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "cuba",
+    "name": "Cuba"
+  },
+  "min_year": 1953,
+  "max_year": 1953,
+  "ruler": [
+    {
+      "id": 4117,
+      "name": "First Republic",
+      "wikidata_id": "Q14905932"
+    }
+  ],
+  "value": {
+    "text": "1 Centavo",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 148,
+      "name": "Cuban Peso",
+      "full_name": "Cuban Peso (moneda nacional, 1914-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 16.76,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass (Copper 70%, Zinc 30%)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Esteban Valderrama Peña"
+    ],
+    "description": "Five pointed star inside an equilateral triangle.\r\nCircular legend near edge; country name on half upper, motto\"Fatherland and Freedom\" below.\r\ntriangle divides face value, weight and fineness above",
+    "lettering": "REPUBLICA DE CUBA\r\n2.3 G.\r\n300 M.\r\n1        *           C.\r\nPATRIA Y LIBERTAD",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Cuba\r\n2.3g \r\n300M\r\n1 cent.\r\nFatherland and freedom",
+    "picture": "https://en.numista.com/catalogue/photos/cuba/2154-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/cuba/2154-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "engravers": [
+      "Esteban Valderrama Peña"
+    ],
+    "description": "Portrait of José Martí, left, Cuban National Hero (1853-1895) with a 5-pointed sparkling star near face; circular legend half top describing conmemorated event, dates on sides.",
+    "lettering": "1853 • CENTENARIO DE MARTI • 1953",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "1853 100th. Anniversary of Martí 1953",
+    "picture": "https://en.numista.com/catalogue/photos/cuba/2155-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/cuba/2155-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "series": "100th. Anniversary of José Martí birthdate",
+  "commemorated_topic": "José Martí",
+  "comments": "The Martí Centenary series (1c, 25c, 50c. and 1$ originally was designed sharing same obverse (the one of 25c), but when the trials were ready, was considered boring all being the same generics, so decided to change obverse, showing details of National Symbols. In this coin, the 5-pointed star within a triangle is present in the national flag and arms. See the other coins for the rest of details.<br /><br />\r\n2,160,000 of this issue was minted in 1952 and 47,840,000 was minted in 1953.",
+  "related_types": [
+    {
+      "id": 5117,
+      "title": "1 Centavo (José Martí)",
+      "category": "coin",
+      "country": {
+        "code": "cuba",
+        "name": "Cuba"
+      },
+      "minYear": 1958,
+      "maxYear": 1958
+    },
+    {
+      "id": 14183,
+      "title": "25 Centavos (José Martí)",
+      "category": "coin",
+      "country": {
+        "code": "cuba",
+        "name": "Cuba"
+      },
+      "minYear": 1953,
+      "maxYear": 1953
+    },
+    {
+      "id": 19966,
+      "title": "50 Centavos (José Martí)",
+      "category": "coin",
+      "country": {
+        "code": "cuba",
+        "name": "Cuba"
+      },
+      "minYear": 1953,
+      "maxYear": 1953
+    },
+    {
+      "id": 9262,
+      "title": "1 Peso (José Martí)",
+      "category": "coin",
+      "country": {
+        "code": "cuba",
+        "name": "Cuba"
+      },
+      "minYear": 1953,
+      "maxYear": 1953
+    },
+    {
+      "id": 1055,
+      "title": "20 Centavos (José Martí)",
+      "category": "coin",
+      "country": {
+        "code": "cuba",
+        "name": "Cuba"
+      },
+      "minYear": 1962,
+      "maxYear": 1968
+    }
+  ],
+  "tags": [
+    "Birth anniversary",
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "26"
+    },
+    {
+      "catalogue": {
+        "id": 984,
+        "code": "JMA"
+      },
+      "number": "7"
+    },
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "20"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "24"
+    }
+  ],
+  "weight": 2.3,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/cuba/6273f5c0643bd9.60661981-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/cuba/6273f5c0643bd9.60661981-180.jpg",
+    "picture_copyright": "Harryg",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

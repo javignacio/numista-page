@@ -1,0 +1,123 @@
+{
+  "id": 585,
+  "url": "https://en.numista.com/585",
+  "title": "1 Peso (non magnetic core)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "mexique",
+    "name": "Mexico"
+  },
+  "min_year": 1996,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 4029,
+      "name": "United Mexican States/Mexican Republic",
+      "wikidata_id": "Q96"
+    }
+  ],
+  "value": {
+    "text": "1 Peso",
+    "numeric_value": 1,
+    "currency": {
+      "id": 271,
+      "name": "New Peso",
+      "full_name": "New Peso (1992-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: aluminium bronze centre in stainless steel ring"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The national emblem of Mexico depicting a Mexican golden eagle perched on a prickly pear cactus devouring a snake above a half-wreath of oak and laurel below and the legend “ESTADOS UNIDOS MEXICANOS” forming the upper semicircle.",
+    "lettering": "ESTADOS UNIDOS MEXICANOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "United Mexican States",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/630087006e8ab0.16467625-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/630087006e8ab0.16467625-180.jpg",
+    "picture_copyright": "Numismatica Quetzalcoatl (Gabriel Herrera)",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "At center, the denomination $1 with the date above and the mint mark Ṁ to the right. On the outer ring, the stylized designs from the Ring of Splendor (Anillo del Resplandor) on the Aztec calendar stone (Piedra del Sol).",
+    "lettering": "2019\r\n$1\r\nMo",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/mexique/63008700a52792.73333283-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/63008700a52792.73333283-180.jpg",
+    "picture_copyright": "Numismatica Quetzalcoatl (Gabriel Herrera)",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/5db9570971071.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5db9570971071.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5db95723bb724.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5db95723bb724.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nVarieties exist: normal vs. elongated font on the obverse.<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/58c72a8ed7be6.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/58c72a8ed7be6.jpg\" alt=\"\" width=\"200\" height=\"195\" /></a>",
+  "related_types": [
+    {
+      "id": 556378,
+      "title": "1 Peso (Magnetic Core)",
+      "category": "coin",
+      "country": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "minYear": 2025,
+      "maxYear": 2025
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Eagle",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "603"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "177"
+    }
+  ],
+  "weight": 3.95,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/66fda6fba39250.67012871-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/66fda6fba39250.67012871-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 29,
+      "name": "Mexican Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

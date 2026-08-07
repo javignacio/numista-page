@@ -1,0 +1,143 @@
+{
+  "id": 807,
+  "url": "https://en.numista.com/807",
+  "title": "100 Forint",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "hongrie",
+    "name": "Hungary"
+  },
+  "min_year": 1996,
+  "max_year": 2011,
+  "ruler": [
+    {
+      "id": 1801,
+      "name": "Republic",
+      "wikidata_id": "Q718422"
+    }
+  ],
+  "value": {
+    "text": "100 Forint",
+    "numeric_value": 100,
+    "currency": {
+      "id": 71,
+      "name": "Forint",
+      "full_name": "Forint (1946-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23.8,
+  "thickness": 2.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: brass plated steel centre in nickel plated steel ring"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "István Kósa"
+    ],
+    "description": "The crowned shield of Hungary with the date below",
+    "lettering": "MAGYAR KÖZTÁRSASÁG · 2009 ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Hungary",
+    "picture": "https://en.numista.com/catalogue/photos/hongrie/62dbea00209192.50505770-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hongrie/62dbea00209192.50505770-180.jpg",
+    "picture_copyright": "Máté Bikfalvi",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "István Kósa"
+    ],
+    "description": "Denomination in wreath",
+    "lettering": "BP. \r\n100 \r\nFORINT",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/hongrie/62dbea00eb1708.95614119-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hongrie/62dbea00eb1708.95614119-180.jpg",
+    "picture_copyright": "Máté Bikfalvi",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "related_types": [
+    {
+      "id": 28736,
+      "title": "100 Forint (magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "hongrie",
+        "name": "Hungary"
+      },
+      "minYear": 2012,
+      "maxYear": 2019
+    },
+    {
+      "id": 231114,
+      "title": "100 Forint (non-magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "hongrie",
+        "name": "Hungary"
+      },
+      "minYear": 2018,
+      "maxYear": 2026
+    }
+  ],
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "721"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "223"
+    },
+    {
+      "catalogue": {
+        "id": 360,
+        "code": "Adamo"
+      },
+      "number": "F12.1"
+    }
+  ],
+  "weight": 8,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/hongrie/61581dd8cb2958.45259589-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hongrie/61581dd8cb2958.45259589-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 1248,
+      "name": "Hungarian mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,193 @@
+{
+  "id": 5227,
+  "url": "https://en.numista.com/5227",
+  "title": "1 Peso",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "argentine",
+    "name": "Argentina"
+  },
+  "min_year": 1974,
+  "max_year": 1976,
+  "ruler": [
+    {
+      "id": 3983,
+      "name": "Federal Republic",
+      "wikidata_id": "Q414"
+    }
+  ],
+  "value": {
+    "text": "1 Peso",
+    "numeric_value": 1,
+    "currency": {
+      "id": 260,
+      "name": "Peso ley",
+      "full_name": "Peso ley (1970-1983)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1984-03-30"
+  },
+  "size": 22,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Radiant sunface and below a laurel wreath",
+    "lettering": "REPUBLICA ARGENTINA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Argentina",
+    "picture": "https://en.numista.com/catalogue/photos/argentine/1132-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/1132-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "reverse": {
+    "description": "Value above the date with laurel branch to the left",
+    "lettering": "1 PESO 1974",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/argentine/1133-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/1133-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "comments": "Here is the documentation small/big sun etc<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5dd53ccb3431e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5dd53ccb3431e.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nMints:<br />\r\n1974-1975 - Casa de Moneda, Buenos Aires<br />\r\n1975-1976 - Casa de Moneda de Chile Santiago, Chile<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/58e5add68ce81.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/58e5add68ce81.jpg\" alt=\"\" width=\"200\" height=\"50\" /></a><br /><br />\r\nA1 - Obverse with a small sun and thick Rim.<br />\r\nA2 - Obverse with Large Sun and Fine Rim.<br />\r\nR1 - Reverse with Thick Rim<br />\r\nR2 - Reverse with Fine Rim<br /><br />\r\nPreviously KM#44",
+  "related_types": [
+    {
+      "id": 3236,
+      "title": "1 Centavo",
+      "category": "coin",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 1970,
+      "maxYear": 1975
+    },
+    {
+      "id": 3243,
+      "title": "5 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 1970,
+      "maxYear": 1975
+    },
+    {
+      "id": 2215,
+      "title": "10 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 1970,
+      "maxYear": 1976
+    },
+    {
+      "id": 3255,
+      "title": "20 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 1970,
+      "maxYear": 1976
+    },
+    {
+      "id": 2218,
+      "title": "50 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 1970,
+      "maxYear": 1976
+    },
+    {
+      "id": 5228,
+      "title": "5 Pesos",
+      "category": "coin",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 1976,
+      "maxYear": 1977
+    },
+    {
+      "id": 5229,
+      "title": "10 Pesos",
+      "category": "coin",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 1976,
+      "maxYear": 1978
+    }
+  ],
+  "tags": [
+    "Sun",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "69"
+    },
+    {
+      "catalogue": {
+        "id": 160,
+        "code": "CJ"
+      },
+      "number": "326-328"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "69"
+    }
+  ],
+  "weight": 5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 1336,
+      "name": "Buenos Aires"
+    },
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

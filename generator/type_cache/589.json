@@ -1,0 +1,123 @@
+{
+  "id": 589,
+  "url": "https://en.numista.com/589",
+  "title": "5 Pesos (non magnetic core)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "mexique",
+    "name": "Mexico"
+  },
+  "min_year": 1997,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 4029,
+      "name": "United Mexican States/Mexican Republic",
+      "wikidata_id": "Q96"
+    }
+  ],
+  "value": {
+    "text": "5 Pesos",
+    "numeric_value": 5,
+    "currency": {
+      "id": 271,
+      "name": "New Peso",
+      "full_name": "New Peso (1992-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25.5,
+  "thickness": 2.03,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: aluminium bronze centre in stainless steel ring"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The national emblem/shield of Mexico in sculpted relief--a Mexican golden eagle perched on a prickly pear cactus devouring a snake above a half-wreath of oak and laurel below, and the legend forming the upper semicircle.",
+    "lettering": "ESTADOS UNIDOS MEXICANOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "United Mexican States",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/62f7e905ca9b56.67446950-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/62f7e905ca9b56.67446950-180.jpg",
+    "picture_copyright": "Numismatica Quetzalcoatl (Gabriel Herrera)",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "In the center of the coin to the left, the symbol \"$\", and to the right, the face value, five \"5\"; top center, the mint year; to the right of the center, the mark of the Mint of Mexico “Mo” As the key motif, a stylized image of the Ring of the Serpents of the Aztec sun stone.",
+    "lettering": "2019\r\n$5 Mo",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/mexique/62f7e90619b930.03249592-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/62f7e90619b930.03249592-180.jpg",
+    "picture_copyright": "Numismatica Quetzalcoatl (Gabriel Herrera)",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "2008 - 2010 mintages are considerably lower because those were the years the commemorative coins were released (Centennial of the Revolution and Bicentennial of Independence series). The mintage for these standard 5 Pesos coins was reduced to nearly a tenth of the normal years, making them more difficult to find and usually more expensive than the commemorative coins of the same years.<br /><br />\r\nA small design error occurs on all the 1997-2008 coins, that was not present on the 1992-1995 5 nuevos pesos coins. From 2009 onward, the error is fixed and also the obverse got slightly smaller design features, with reduced thickness of the font compared to the pre-2009 font. On the reverse at the bottom on the bronze center, there are two half pearls that were whole on the 1992-1995 coins. From 2009 onward these pearls are whole again, with thin decoration lines added that are probably the cause for this error on the 1997-2008 coins.<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/650319ea1eb26.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/650319ea1eb26.jpg\" alt=\"\" width=\"199\" height=\"123\" /></a> <a href=\"https://en.numista.com/catalogue/images/5c1fda86c9dae.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5c1fda86c9dae.jpg\" alt=\"\" width=\"200\" height=\"200\" /></a><br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/599ff9ed9c672.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/599ff9ed9c672.jpg\" alt=\"\" width=\"199\" height=\"94\" /></a>",
+  "related_types": [
+    {
+      "id": 557513,
+      "title": "5 Pesos (Magnetic Core)",
+      "category": "coin",
+      "country": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "minYear": 2025,
+      "maxYear": 2025
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Eagle",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "605"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "179"
+    }
+  ],
+  "weight": 7.07,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/3688-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/3688-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 29,
+      "name": "Mexican Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

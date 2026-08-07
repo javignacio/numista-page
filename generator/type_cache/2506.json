@@ -1,0 +1,108 @@
+{
+  "id": 2506,
+  "url": "https://en.numista.com/2506",
+  "title": "25 Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "salvador",
+    "name": "El Salvador"
+  },
+  "issuing_entity": {
+    "id": 910,
+    "name": "Central Reserve Bank of El Salvador",
+    "wikidata_id": "Q1801435"
+  },
+  "min_year": 1993,
+  "max_year": 2000,
+  "ruler": [
+    {
+      "id": 4283,
+      "name": "Republic",
+      "wikidata_id": "Q792"
+    }
+  ],
+  "value": {
+    "text": "25 Centavos",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 11,
+      "name": "Colón",
+      "full_name": "Colón (1892-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2001-01-01"
+  },
+  "size": 22.5,
+  "thickness": 1.4,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel clad steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "José Matías Delgado bust left, with legend at top and date at bottom. In inner heptagon.",
+    "lettering": "REPÚBLICA DE EL SALVADOR \r\n1994",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of El Salvador",
+    "picture": "https://en.numista.com/catalogue/photos/salvador/5-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/salvador/5-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Denomination within wreath",
+    "lettering": "25 \r\nCENTAVOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/salvador/6-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/salvador/6-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "tags": [
+    "Politician",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "157b"
+    }
+  ],
+  "weight": 4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    },
+    {
+      "id": 1339,
+      "name": "Sherritt Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

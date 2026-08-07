@@ -1,0 +1,115 @@
+{
+  "id": 6981,
+  "url": "https://en.numista.com/6981",
+  "title": "2 Shillings - Elizabeth II (1st portrait; with 'BRITT:OMN')",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1953,
+  "max_year": 1953,
+  "ruler": [
+    {
+      "id": 275,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 527,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "2 Shillings",
+    "numeric_value": 0.1,
+    "numerator": 2,
+    "denominator": 20,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1970)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1993-06-30"
+  },
+  "size": 28.5,
+  "thickness": 2.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Cu, 25% Ni)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Mary Gillick"
+    ],
+    "description": "Young laureate bust of Queen Elizabeth II right, legend around.\r\n\r\nNote: with 'BRITT:OMN'",
+    "lettering": "+ ELIZABETH II DEI GRATIA BRITT:OMN:REGINA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Elizabeth II Dei Gratia Britanniarum Omnium Regina",
+    "lettering_translation": "Elizabeth II by the Grace of God Queen of all the Britains",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/4249-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/4249-180.jpg",
+    "picture_copyright": "KennyG"
+  },
+  "reverse": {
+    "engravers": [
+      "Cecil Thomas",
+      "Edgar Fuller"
+    ],
+    "description": "Central Tudor rose surrounded by thistles, shamrocks and leeks, legend above, denomination and date below.",
+    "lettering": "FID: DEF:\r\nE·F C·T\r\nTWO SHILLINGS 1953",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Fidei Defensatrix",
+    "lettering_translation": "Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/4250-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/4250-180.jpg",
+    "picture_copyright": "KennyG"
+  },
+  "comments": "House of Windsor (1917 to date), Elizabeth II (1952-2022), Pre-decimal issues (1953-70).<br /><br />\r\nThe standard weight of these coins was 4/11 troy ounce (174.5 grains). Under the Coinage Act of 1946, the composition changed from .500 silver to .750 copper/.250 nickel but the weight remained unchanged.<br /><br />\r\n<span style=\"font-style:italic;\">Two die varieties exist for this type - Obverse 1 from the plastic set issue and Obverse 2 struck for circulation:</span><br />\r\n<span style=\"font-weight:bold;\">Obv 1</span> I of ELIZ between beads, faint silhouette, I of DEI just to the right of a bead, B of BRITT between beads;<br />\r\n<span style=\"font-weight:bold;\">Obv 2</span> I of ELIZ at a bead, sharper silhouette, I of DEI between beads, B of BRITT to the right of a bead;<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5cc2f43ad62da.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5cc2f43ad62da.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\nImage above is reproduced with kind permission of Declan Magee and Numista member Sjoelund.<br /><br />\r\nA special mint set was released comprising 2s. 6d. to 1/4d. ordinary business strikes in transparent envelopes (1,288,000 issued).",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "892"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "4138"
+    }
+  ],
+  "weight": 11.31,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

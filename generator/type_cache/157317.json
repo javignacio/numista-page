@@ -1,0 +1,124 @@
+{
+  "id": 157317,
+  "url": "https://en.numista.com/157317",
+  "title": "5 Pesos Dominicanos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "republique_dominicaine",
+    "name": "Dominican Republic (1844-date)"
+  },
+  "min_year": 2017,
+  "max_year": 2024,
+  "ruler": [
+    {
+      "id": 4033,
+      "name": "Fourth Republic",
+      "wikidata_id": "Q786"
+    }
+  ],
+  "value": {
+    "text": "5 Pesos",
+    "numeric_value": 5,
+    "currency": {
+      "id": 152,
+      "name": "Peso oro",
+      "full_name": "Peso oro (1937-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2019-00-00"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 22.95,
+  "thickness": 2.15,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: stainless steel centre in aluminium bronze ring"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Denomination, name of the country, coat of arms of the Dominican Republic",
+    "lettering": "· REPUBLICA DOMINICANA ·\r\nDIOS PATRIA LIBERTAD\r\n5\r\nREPUBLICA DOMINICANA\r\nPESOS \r\nDOMINICANOS\r\n· 2017 ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Dominican Republic\r\nGod Fatherland Liberty\r\nDominican Republic\r\n5 Dominican pesos",
+    "picture": "https://en.numista.com/catalogue/photos/republique_dominicaine/5e6cdb05e05e01.82218523-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/republique_dominicaine/5e6cdb05e05e01.82218523-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "description": "Portrait and name of one of the founding fathers of the Dominican Republic: Francisco del Rosario Sánchez.",
+    "lettering": "BANCO CENTRAL DE REPUBLICA DOMINICANA\r\nSANCHEZ\r\n· 2017 ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Bank of the Dominican Republic\r\nSánchez",
+    "picture": "https://en.numista.com/catalogue/photos/republique_dominicaine/5e6cdb05801676.07502999-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/republique_dominicaine/5e6cdb05801676.07502999-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "comments": "Like previous type (KM# 89, Schön# 149) but with denomination &quot;PESOS DOMINICANOS&quot;.<br />\r\nThe coin of 2017 has been put into circulation on January 14, 2019",
+  "related_types": [
+    {
+      "id": 2504,
+      "title": "5 Pesos (magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "republique_dominicaine",
+        "name": "Dominican Republic (1844-date)"
+      },
+      "minYear": 2002,
+      "maxYear": 2020
+    }
+  ],
+  "tags": [
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "125"
+    }
+  ],
+  "weight": 6,
+  "orientation": "coin",
+  "edge": {
+    "description": "5 reeded segments"
+  },
+  "mints": [
+    {
+      "id": 1262,
+      "name": "Kremnica"
+    },
+    {
+      "id": 1334,
+      "name": "Mint of Finland"
+    },
+    {
+      "id": 27,
+      "name": "Mint of Poland"
+    },
+    {
+      "id": 24,
+      "name": "Royal Mint of Madrid"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

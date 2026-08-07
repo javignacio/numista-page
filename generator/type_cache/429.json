@@ -1,0 +1,112 @@
+{
+  "id": 429,
+  "url": "https://en.numista.com/429",
+  "title": "1 Cent - Elizabeth II (2nd portrait modified; reduced weight)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "canada",
+    "name": "Canada"
+  },
+  "min_year": 1980,
+  "max_year": 1981,
+  "ruler": [
+    {
+      "id": 2095,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 827,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Cent",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 44,
+      "name": "Dollar",
+      "full_name": "Dollar (1858-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 19,
+  "thickness": 1.45,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze (98% copper, 1.75% tin, 0.25% zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Arnold Machin"
+    ],
+    "description": "Bust of Queen Elizabeth II, as at 37 years of age, wearing tiara, facing right.",
+    "lettering": "ELIZABETH II D·G·REGINA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "ELIZABETH II DEI GRATIA REGINA",
+    "lettering_translation": "Elizabeth II Queen by the grace of God",
+    "picture": "https://en.numista.com/catalogue/photos/canada/6744c4b307c680.79960441-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/6744c4b307c680.79960441-180.jpg"
+  },
+  "reverse": {
+    "engravers": [
+      "George Kruger Gray"
+    ],
+    "description": "A maple twig is surrounded with the face value and the inscription \"CANADA\"",
+    "lettering": "1 CENT\r\n1980\r\nCANADA\r\nK·G",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/canada/6744c4b35b5fa5.00925657-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/6744c4b35b5fa5.00925657-180.jpg"
+  },
+  "comments": "<p>“In 1980, the mint introduced a coin of the same design as before, but with a reduced diameter and thickness, resulting in a reduction in weight.” &nbsp;- Standard Charlton Catalogue Volume I</p><p>“In 1981, the Royal Canadian Mint revamped its product line, adding a proof finish to its offerings. Proof coins were issued on standard bronze plates.” - Charlton Standard Catalogue Volume I</p>",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "127"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "58a"
+    }
+  ],
+  "weight": 2.8,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/canada/5ec0845bc8cdf6.54793985-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/5ec0845bc8cdf6.54793985-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

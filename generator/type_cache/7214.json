@@ -1,0 +1,164 @@
+{
+  "id": 7214,
+  "url": "https://en.numista.com/7214",
+  "title": "1 Cent \"Lincoln Cent\" (Formative Years)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "etats-unis",
+    "name": "United States"
+  },
+  "min_year": 2009,
+  "max_year": 2009,
+  "ruler": [
+    {
+      "id": 4720,
+      "name": "Federal republic",
+      "wikidata_id": "Q30"
+    }
+  ],
+  "value": {
+    "text": "1 Cent",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 59,
+      "name": "Dollar",
+      "full_name": "Dollar (1785-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 19.05,
+  "thickness": 1.55,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper plated zinc"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Victor David Brenner"
+    ],
+    "description": "Right facing portrait of President Abraham Lincoln (1809-1865)",
+    "lettering": "IN GOD WE TRUST\r\nLIBERTY\r\n2009\r\nVDB",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/4175-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/4175-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "reverse": {
+    "engravers": [
+      "Charles Lessie Vickers"
+    ],
+    "designers": [
+      "Charles Lessie Vickers"
+    ],
+    "description": "Abraham Lincoln sitting on a log reading a book",
+    "lettering": "UNITED STATES OF AMERICA\r\nONE CENT\r\nCLV\r\nE • PLURIBUS • UNUM",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Out of Many, One",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/4176-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/4176-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "series": "Lincoln's 200th birthday Series",
+  "commemorated_topic": "Formative Years",
+  "related_types": [
+    {
+      "id": 6731,
+      "title": "1 Cent \"Lincoln Cent\" (Birth and Early Childhood)",
+      "category": "coin",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 2009,
+      "maxYear": 2009
+    },
+    {
+      "id": 335708,
+      "title": "1 Cent \"Lincoln Cent\" (Formative Years - Bronze)",
+      "category": "coin",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 2009,
+      "maxYear": 2009
+    },
+    {
+      "id": 7579,
+      "title": "1 Cent \"Lincoln Cent\" (Professional Life)",
+      "category": "coin",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 2009,
+      "maxYear": 2009
+    },
+    {
+      "id": 7580,
+      "title": "1 Cent \"Lincoln Cent\" (Presidency)",
+      "category": "coin",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 2009,
+      "maxYear": 2009
+    }
+  ],
+  "tags": [
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "442"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "440"
+    }
+  ],
+  "weight": 2.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/3155-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/3155-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    },
+    {
+      "id": 10,
+      "name": "United States Mint of Denver"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

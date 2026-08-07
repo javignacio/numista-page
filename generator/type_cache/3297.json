@@ -1,0 +1,188 @@
+{
+  "id": 3297,
+  "url": "https://en.numista.com/3297",
+  "title": "10 Cents - Elizabeth II (4th portrait; Magnetic, Small Type)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "nouvelle-zelande",
+    "name": "New Zealand"
+  },
+  "min_year": 2006,
+  "max_year": 2020,
+  "ruler": [
+    {
+      "id": 629,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 788,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Cents",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 54,
+      "name": "Dollar",
+      "full_name": "Dollar (1967-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 20.5,
+  "thickness": 1.58,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper plated steel (Magnetic)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Ian Rank-Broadley"
+    ],
+    "description": "Fourth crowned portrait of Queen Elizabeth II facing right, wearing the Girls of Great Britain and Ireland Tiara, legend around, date below.",
+    "lettering": "NEW ZEALAND ELIZABETH II\r\nIRB\r\n2015",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/nouvelle-zelande/66f249fbe48588.35042810-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/66f249fbe48588.35042810-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "George James Berry"
+    ],
+    "description": "Māori koruru (carved mask) with Māori rafter patterns, denomination above.",
+    "lettering": "10\r\nJ B",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/nouvelle-zelande/66f249fce48df3.50639777-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/66f249fce48df3.50639777-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<span style=\"text-decoration:underline;\">From the Reserve Bank of New Zealand website, on the significance of the design:</span> <span style=\"font-style:italic;\">&quot;Koruru feature particularly strongly at the apex of the gable of a large carved house that was symbolic of the face of an important Māori ancestor from that part of the country. This particular koruru was designed by Mr. James Berry specifically for use on New Zealand currency and is representative of designs from various regions.&quot;</span><br /><br />\r\nThis coin was first issued into circulation in 2006. It was replacing the old larger heavier copper-nickel version of the 10 cent coin first issued in 1967. The Reserve Bank of NZ &amp; the NZ Post Office issued a Limited Edition special set of coins called <span style=\"font-weight:bold;\">&quot;Small Change Smaller Change&quot;</span> to celebrate the redesign of this coin and the 20 &amp; 50 cent coins and the removal of the 5 cent coin.<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/601a316cd6c77.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/601a316cd6c77.jpg\" alt=\"\" width=\"200\" height=\"149\" /></a> <a href=\"https://en.numista.com/catalogue/images/601a317c818b9.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/601a317c818b9.jpg\" alt=\"\" width=\"200\" height=\"149\" /></a> <a href=\"https://en.numista.com/catalogue/images/601a318cb9b0e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/601a318cb9b0e.jpg\" alt=\"\" width=\"200\" height=\"148\" /></a><br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/601a31a27c39e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/601a31a27c39e.jpg\" alt=\"\" width=\"200\" height=\"154\" /></a> <a href=\"https://en.numista.com/catalogue/images/601a31b227d9e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/601a31b227d9e.jpg\" alt=\"\" width=\"200\" height=\"151\" /></a> <a href=\"https://en.numista.com/catalogue/images/601a31c4c9f65.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/601a31c4c9f65.jpg\" alt=\"\" width=\"200\" height=\"156\" /></a>",
+  "related_types": [
+    {
+      "id": 8008,
+      "title": "10 Cents / 1 Shilling - Elizabeth II (2nd portrait)",
+      "category": "coin",
+      "country": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "minYear": 1967,
+      "maxYear": 1969
+    },
+    {
+      "id": 2330,
+      "title": "10 Cents - Elizabeth II (2nd portrait)",
+      "category": "coin",
+      "country": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "minYear": 1970,
+      "maxYear": 1985
+    },
+    {
+      "id": 3523,
+      "title": "10 Cents - Elizabeth II (3rd portrait)",
+      "category": "coin",
+      "country": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "minYear": 1986,
+      "maxYear": 1998
+    },
+    {
+      "id": 3926,
+      "title": "10 Cents - Elizabeth II (4th portrait; Non-Magnetic, Large type)",
+      "category": "coin",
+      "country": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "minYear": 1999,
+      "maxYear": 2006
+    },
+    {
+      "id": 434264,
+      "title": "10 Cents - Charles III (1st Portrait)",
+      "category": "coin",
+      "country": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "minYear": 2024,
+      "maxYear": 2024
+    }
+  ],
+  "tags": [
+    "Sculpture"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "117a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "197"
+    }
+  ],
+  "weight": 3.3,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/nouvelle-zelande/66f249fdc41a67.70715234-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/66f249fdc41a67.70715234-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 21,
+      "name": "Perth Mint"
+    },
+    {
+      "id": 28,
+      "name": "Royal Australian Mint"
+    },
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    },
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

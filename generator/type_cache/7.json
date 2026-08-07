@@ -1,0 +1,144 @@
+{
+  "id": 7,
+  "url": "https://en.numista.com/7",
+  "title": "2 Francs",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "france",
+    "name": "France"
+  },
+  "min_year": 1977,
+  "max_year": 2001,
+  "ruler": [
+    {
+      "id": 11,
+      "name": "Fifth Republic",
+      "wikidata_id": "Q200686",
+      "group": {
+        "id": 89,
+        "name": "Modern France"
+      }
+    }
+  ],
+  "value": {
+    "text": "2 Francs",
+    "numeric_value": 2,
+    "currency": {
+      "id": 77,
+      "name": "New franc",
+      "full_name": "New franc (1960-2001)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1978-03-24"
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2005-02-17"
+  },
+  "size": 26.5,
+  "thickness": 1.71,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Louis-Oscar Roty"
+    ],
+    "description": "The Sower, designed by Oscar Roty in 1900: a national emblem of the French Republic",
+    "lettering": "REPUBLIQUE FRANÇAISE\r\nD'APRÈS O.ROTY",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "French Republic",
+    "picture": "https://en.numista.com/catalogue/photos/france/5f9dd37e4e2969.55690294-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/5f9dd37e4e2969.55690294-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "reverse": {
+    "description": "An olive branch and an oak branch, behind the face value, are surrounded with the French motto: \"LIBERTE - EGALITE - FRATERNITE\" (liberty, equality, fraternity)",
+    "lettering": "LIBERTE EGALITE FRATERNITE\r\n2\r\nFRANCS\r\n1989",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/france/5f9dd37e92d7d2.97543737-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/5f9dd37e92d7d2.97543737-180.jpg",
+    "picture_copyright": "Jérémy Pureur"
+  },
+  "comments": "Different privy marks throughout mintages:<br />\r\nWithout 1977<br />\r\nDolphin 1978-94 Rousseau<br />\r\nBee 1994-2000 Pierre Rodier<br />\r\nHorseshoe 2001 Gérard Buquoy<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5df3cbaff230e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5df3cbaff230e.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "related_types": [
+    {
+      "id": 19263,
+      "title": "2 Francs (Signature: D'Après O. Roty)",
+      "category": "coin",
+      "country": {
+        "code": "france",
+        "name": "France"
+      },
+      "minYear": 1991,
+      "maxYear": 2001
+    }
+  ],
+  "tags": [
+    "Allegory",
+    "Phrygian cap"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "942.1"
+    },
+    {
+      "catalogue": {
+        "id": 109,
+        "code": "Gad 1789"
+      },
+      "number": "547"
+    },
+    {
+      "catalogue": {
+        "id": 34,
+        "code": "Franc 2014"
+      },
+      "number": "272"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "240"
+    }
+  ],
+  "weight": 7.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Milled (widely spaced)",
+    "picture": "https://en.numista.com/catalogue/photos/france/69516af8889102.15336706-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/69516af8889102.15336706-180.jpg",
+    "picture_copyright": "ZacUK"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

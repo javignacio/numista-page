@@ -1,0 +1,103 @@
+{
+  "id": 6094,
+  "url": "https://en.numista.com/6094",
+  "title": "1 Córdoba (Nickel clad steel)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "nicaragua",
+    "name": "Nicaragua"
+  },
+  "min_year": 2002,
+  "max_year": 2014,
+  "ruler": [
+    {
+      "id": 4284,
+      "name": "Republic",
+      "wikidata_id": "Q811"
+    }
+  ],
+  "value": {
+    "text": "1 Córdoba",
+    "numeric_value": 1,
+    "currency": {
+      "id": 3150,
+      "name": "Third Córdoba \"Oro\"",
+      "full_name": "Third Córdoba \"Oro\" (1991-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel clad steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The arms of Nicaragua with the country name above",
+    "lettering": "REPÚBLICA DE NICARAGUA\r\nAMÉRICA CENTRAL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Nicaragua\r\nCentral America",
+    "picture": "https://en.numista.com/catalogue/photos/nicaragua/545-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nicaragua/545-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "description": "Denomination in a circle with a legend above and the date below flanked by stars",
+    "lettering": "EN DIOS CONFIAMOS\r\n1 \r\nCÓRDOBA\r\n2012",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "In God we Trust",
+    "picture": "https://en.numista.com/catalogue/photos/nicaragua/546-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nicaragua/546-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "series": "2002 Series",
+  "comments": "<p>Issue date for 2014-dated coins: May 14, 2015</p><p>&nbsp;</p><p>Varieties exist:<br><a href=\"https://en.numista.com/catalogue/images/5616b3393857c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5616b3393857c.jpg\" alt=\"\"></a></p>",
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "101"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "98"
+    }
+  ],
+  "weight": 6.25,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 24,
+      "name": "Royal Mint of Madrid"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

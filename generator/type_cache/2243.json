@@ -1,0 +1,208 @@
+{
+  "id": 2243,
+  "url": "https://en.numista.com/2243",
+  "title": "10 Centavos (non magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bresil",
+    "name": "Brazil"
+  },
+  "min_year": 1967,
+  "max_year": 1970,
+  "ruler": [
+    {
+      "id": 2684,
+      "name": "Federative Republic of Brazil",
+      "wikidata_id": "Q155"
+    }
+  ],
+  "value": {
+    "text": "10 Centavos",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 206,
+      "name": "Cruzeiro novo",
+      "full_name": "Cruzeiro novo (1967-1986)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1986-03-01"
+  },
+  "size": 23,
+  "thickness": 1.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Effigy of the Liberty to the left",
+    "lettering": "BRASIL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bresil/6415c519d93b05.63165577-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/6415c519d93b05.63165577-180.jpg",
+    "picture_copyright": "Rogbert",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Steel industry, denomination and date at right.",
+    "lettering": "10\r\nCENTAVOS\r\n1970",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bresil/6415c51af03846.09756835-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/6415c51af03846.09756835-180.jpg",
+    "picture_copyright": "Rogbert",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "From 1968 to 1970, 207,636,018 blank planchets were manufactured at the United States Mint in Denver. These weighed 5.52 grams and were used for 1967 dated coins.",
+  "related_types": [
+    {
+      "id": 6794,
+      "title": "1 Centavo",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1967,
+      "maxYear": 1975
+    },
+    {
+      "id": 6437,
+      "title": "2 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1967,
+      "maxYear": 1975
+    },
+    {
+      "id": 2821,
+      "title": "5 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1967,
+      "maxYear": 1975
+    },
+    {
+      "id": 7052,
+      "title": "10 Centavos (magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1974,
+      "maxYear": 1979
+    },
+    {
+      "id": 1016,
+      "title": "20 Centavos (non magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1967,
+      "maxYear": 1970
+    },
+    {
+      "id": 8851,
+      "title": "50 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1967,
+      "maxYear": 1967
+    },
+    {
+      "id": 1050,
+      "title": "50 Centavos (Non-magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1970,
+      "maxYear": 1975
+    },
+    {
+      "id": 2248,
+      "title": "1 Cruzeiro",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1967,
+      "maxYear": 1970
+    }
+  ],
+  "tags": [
+    "Allegory",
+    "Industry"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "578"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "83"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "83a"
+    }
+  ],
+  "weight": 5.52,
+  "orientation": "coin",
+  "edge": {
+    "description": "Milled",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/5ffa0a2b207511.91350117-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/5ffa0a2b207511.91350117-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 1335,
+      "name": "Mint of Brazil"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

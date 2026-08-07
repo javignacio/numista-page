@@ -1,0 +1,134 @@
+{
+  "id": 5483,
+  "url": "https://en.numista.com/5483",
+  "title": "1 Mil",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "palestine",
+    "name": "British Palestine"
+  },
+  "min_year": 1927,
+  "max_year": 1947,
+  "ruler": [
+    {
+      "id": 946,
+      "name": "British Mandate",
+      "wikidata_id": "Q193714"
+    }
+  ],
+  "value": {
+    "text": "1 Mil",
+    "numeric_value": 0.001,
+    "currency": {
+      "id": 356,
+      "name": "Pound",
+      "full_name": "Pound (1927-1948)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1952-00-00"
+  },
+  "size": 21,
+  "thickness": 1.36,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze (95.5% Copper, 3% Tin, 1.5% Zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Palestine in Arabic, English and Hebrew with date below",
+    "lettering": "فلسطين\r\nPALESTINE\r\n(פלשתינה (א\"י\r\n1942\r\n١٩٤٢",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      },
+      {
+        "name": "Hebrew"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Filistine\r\nPalestina E.I.\r\n1942",
+    "picture": "https://en.numista.com/catalogue/photos/palestine/90-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/palestine/90-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "description": "Value in Hebrew, English and Arabic divided by olive branch",
+    "lettering": "מיל • ONE MIL • مل\r\n1 ١",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      },
+      {
+        "name": "Hebrew"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Mil Mil\r\n1",
+    "picture": "https://en.numista.com/catalogue/photos/palestine/91-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/palestine/91-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "For the Hebrew lettering of Palestine &quot;פלשתינה&quot; on the obverse side of the coin, there is a small acronym after it in brakes &quot;(א&quot;י)&quot;, which is shortened for &quot;ארץ ישראל&quot; (Land of Israel), the name used since biblical times to the present by the Jewish People for the geographical area that made up the lands of ancient Judea, the British Mandate of Palestine and later the State of Israel.",
+  "tags": [
+    "Tree"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "1"
+    },
+    {
+      "catalogue": {
+        "id": 566,
+        "code": "Aharoni"
+      },
+      "number": "1"
+    },
+    {
+      "catalogue": {
+        "id": 2763,
+        "code": "Bertram Weber"
+      },
+      "number": "PM1-10"
+    }
+  ],
+  "weight": 3.23,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/palestine/67a40a195c3564.87335253-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/palestine/67a40a195c3564.87335253-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

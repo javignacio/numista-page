@@ -1,0 +1,141 @@
+{
+  "id": 2001,
+  "url": "https://en.numista.com/2001",
+  "title": "20 Para",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "yougoslavie",
+    "name": "Yugoslavia"
+  },
+  "min_year": 1965,
+  "max_year": 1981,
+  "ruler": [
+    {
+      "id": 2378,
+      "name": "Socialist Federal Republic",
+      "wikidata_id": "Q83286"
+    }
+  ],
+  "value": {
+    "text": "20 Paras",
+    "numeric_value": 0.2,
+    "currency": {
+      "id": 33,
+      "name": "Hard dinar",
+      "full_name": "Hard dinar (1966-1989)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1967-02-15"
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1985-12-31"
+  },
+  "size": 23.2,
+  "thickness": 1.32,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium brass (85% Copper, 14.5% Zinc, 0.5% Aluminium)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Dragomir Mileusnić"
+    ],
+    "description": "State emblem",
+    "lettering": "СФР ЈУГОСЛАВИЈА\r\n29·XI·1943\r\nSFR JUGOSLAVIJA",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Социјалистичка Федеративна Република Југославија\r\nSocijalistička Federativna Republika Jugoslavija",
+    "lettering_translation": "Socialist Federal Republic of Yugoslavia",
+    "picture": "https://en.numista.com/catalogue/photos/yougoslavie/63ac320a149398.60355577-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/yougoslavie/63ac320a149398.60355577-180.jpg",
+    "picture_copyright": "mikimaus",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "Dragomir Mileusnić"
+    ],
+    "description": "Denomination divides date",
+    "lettering": "ПАРА·PARA\r\n19 20 79\r\nPAR·ПАРИ",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/yougoslavie/63ac320a5716a9.53760353-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/yougoslavie/63ac320a5716a9.53760353-180.jpg",
+    "picture_copyright": "mikimaus",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "45"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "41"
+    },
+    {
+      "catalogue": {
+        "id": 355,
+        "code": "Viscevic"
+      },
+      "number": "38"
+    },
+    {
+      "catalogue": {
+        "id": 3099,
+        "code": "Mandic"
+      },
+      "number": "40"
+    }
+  ],
+  "weight": 4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/yougoslavie/60d88f87445ea4.32628678-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/yougoslavie/60d88f87445ea4.32628678-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 1365,
+      "name": "Belgrade"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,128 @@
+{
+  "id": 1356,
+  "url": "https://en.numista.com/1356",
+  "title": "100 Francs",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "french_polynesia_period",
+    "name": "French Polynesia (1957-date)"
+  },
+  "issuing_entity": {
+    "id": 6709,
+    "name": "Overseas Institution of Issue"
+  },
+  "min_year": 1976,
+  "max_year": 2005,
+  "ruler": [
+    {
+      "id": 5295,
+      "name": "French Overseas Territory",
+      "wikidata_id": "Q2327385"
+    },
+    {
+      "id": 5296,
+      "name": "French Overseas Collectivity",
+      "wikidata_id": "Q719487"
+    },
+    {
+      "id": 5297,
+      "name": "French Overseas Country",
+      "wikidata_id": "Q3078827"
+    }
+  ],
+  "value": {
+    "text": "100 Francs",
+    "numeric_value": 100,
+    "currency": {
+      "id": 8112,
+      "name": "CFP Franc",
+      "full_name": "CFP Franc (1945-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2022-11-30"
+  },
+  "size": 30,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass (92% Copper, 6% Nickel, 2% Aluminium)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Raymond Joly"
+    ],
+    "description": "Capped bust Marianne facing left, date below.",
+    "lettering": "RÉPUBLIQUE FRANÇAISE\r\nR JOLY\r\nI·E·O·M\r\n1991",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Institut d’émission d’outre-mer",
+    "lettering_translation": "French Republic\nOverseas Issuing Institute",
+    "picture": "https://en.numista.com/catalogue/photos/french_polynesia_period/6900aadad86be9.20317022-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/french_polynesia_period/6900aadad86be9.20317022-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "engravers": [
+      "Aleth Guzman-Nageotte"
+    ],
+    "description": "Island Mooréa with mountain, native boats and palm trees, denomination above.",
+    "lettering": "POLYNESIE FRANÇAISE\r\n100 f\r\nA GUZMAN",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "French Polynesia\n",
+    "picture": "https://en.numista.com/catalogue/photos/french_polynesia_period/6900aadb705b33.12306713-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/french_polynesia_period/6900aadb705b33.12306713-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "comments": "<p>Till 2002 the privy marks are on the reverse, from 2003 on the privy marks are on the obverse.</p><p>&nbsp;</p><p>Some dates have R JOLY (without dot), others have R·JOLY (with dot).&nbsp;</p><p><a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.numista.com/catalogue/images/6900aa902abf6.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6900aa902abf6.jpg\"></a> <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.numista.com/catalogue/images/6900aa9d9cab4.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6900aa9d9cab4.jpg\"></a></p><p>&nbsp;</p><p>1976 has both, with and without dot:</p><p><a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.numista.com/catalogue/images/693922b332958.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/693922b332958.jpg\"></a> <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.numista.com/catalogue/images/693922be98549.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/693922be98549.jpg\"></a></p>",
+  "tags": [
+    "Allegory",
+    "Mountain",
+    "Tree",
+    "Phrygian cap",
+    "Boat or watercraft"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "14"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "18"
+    }
+  ],
+  "weight": 10,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,132 @@
+{
+  "id": 50,
+  "url": "https://en.numista.com/50",
+  "title": "5 Cents \"Jefferson Nickel\" (2nd portrait, Return to Monticello)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "etats-unis",
+    "name": "United States"
+  },
+  "min_year": 2006,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 4720,
+      "name": "Federal republic",
+      "wikidata_id": "Q30"
+    }
+  ],
+  "value": {
+    "text": "5 Cents",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 59,
+      "name": "Dollar",
+      "full_name": "Dollar (1785-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21.21,
+  "thickness": 1.95,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Donna Weaver"
+    ],
+    "designers": [
+      "Jamie Franki"
+    ],
+    "description": "The portrait of Thomas Jefferson, the 3rd President of the United States from 1801 to 1809, according to the first Rembrandt Peale life study of Jefferson done in 1800, facing the viewer accompanied with the word \"Liberty\" presented in Jefferson's handwriting, surrounded with the motto: \"IN GOD WE TRUST\"",
+    "lettering": "IN GOD WE TRUST \r\nJNF \r\nLiberty \r\n2016 \r\nD \r\nDW",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/65d61759c03a26.78468892-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/65d61759c03a26.78468892-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Felix Schlag"
+    ],
+    "designers": [
+      "Felix Schlag"
+    ],
+    "description": "A representation of Monticello, President Thomas Jefferson's Virginia home, accompanied with the legend \"MONTICELLO\" and surrounded with the face value in full, the motto \"E PLURIBUS UNUM\" and the lettering \"UNITED STATES OF AMERICA\"",
+    "lettering": "E PLURIBUS UNUM\r\nFS\r\nMONTICELLO \r\nFIVE CENTS\r\nUNITED STATES OF AMERICA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Out of Many, One",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/65d6175ba96e88.85824100-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/65d6175ba96e88.85824100-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "tags": [
+    "Other building",
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "381"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "381"
+    }
+  ],
+  "weight": 5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/3157-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/3157-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 10,
+      "name": "United States Mint of Denver"
+    },
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    },
+    {
+      "id": 12,
+      "name": "United States Mint of San Francisco"
+    },
+    {
+      "id": 13,
+      "name": "United States Mint of West Point"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

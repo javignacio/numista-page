@@ -1,0 +1,122 @@
+{
+  "id": 7215,
+  "url": "https://en.numista.com/7215",
+  "title": "20 Fillér",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "hongrie",
+    "name": "Hungary"
+  },
+  "min_year": 1946,
+  "max_year": 1950,
+  "ruler": [
+    {
+      "id": 1798,
+      "name": "Republic",
+      "wikidata_id": "Q940741"
+    }
+  ],
+  "value": {
+    "text": "20 Fillér",
+    "numeric_value": 0.2,
+    "currency": {
+      "id": 71,
+      "name": "Forint",
+      "full_name": "Forint (1946-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 21,
+  "thickness": 1.9,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Reményi József"
+    ],
+    "description": "Three wheat ears divide date",
+    "lettering": "MAGYAR · ÁLLAMI · VÁLTÓPÉNZ ·\r\n19 47",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Hungarian State Change",
+    "picture": "https://en.numista.com/catalogue/photos/hongrie/228-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hongrie/228-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "József Reményi"
+    ],
+    "description": "Denomination three times underlined",
+    "lettering": "20\r\nFILLÉR\r\nB P.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/hongrie/229-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hongrie/229-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "In the 1960s the company Artex (owned and operated by the Hungarian Mint) produced restrikes for the years 1946, 1947, 1948 and 1950. The restrikes can be identified by a rosette below the BP mintmark.<br />\r\n<a href=\"https://www.cointalk.com/threads/hungary-artex-restrikes.280585/\" rel=\"nofollow\">https://www.cointalk.com/threads/hungary-artex-restrikes.280585/</a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/646987f44b07a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/646987f44b07a.jpg\" alt=\"\" width=\"199\" height=\"139\" /></a>",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "531"
+    },
+    {
+      "catalogue": {
+        "id": 14,
+        "code": "ÉH"
+      },
+      "number": "1538"
+    },
+    {
+      "catalogue": {
+        "id": 16,
+        "code": "H"
+      },
+      "number": "2331"
+    },
+    {
+      "catalogue": {
+        "id": 360,
+        "code": "Adamo"
+      },
+      "number": "F4"
+    }
+  ],
+  "weight": 4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 1248,
+      "name": "Hungarian mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

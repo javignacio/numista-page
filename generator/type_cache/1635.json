@@ -1,0 +1,117 @@
+{
+  "id": 1635,
+  "url": "https://en.numista.com/1635",
+  "title": "20 Paise",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "inde",
+    "name": "India"
+  },
+  "min_year": 1982,
+  "max_year": 1997,
+  "ruler": [
+    {
+      "id": 2943,
+      "name": "Republic",
+      "wikidata_id": "Q668"
+    }
+  ],
+  "value": {
+    "text": "20 Paise",
+    "numeric_value": 0.2,
+    "currency": {
+      "id": 171,
+      "name": "Rupee",
+      "full_name": "Rupee (decimalized, 1957-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2011-06-30"
+  },
+  "size": 26,
+  "thickness": 1.7,
+  "shape": "Hexagonal (6-sided)",
+  "composition": {
+    "text": "Aluminium (96% Aluminium, 4% Magnesium)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Ashoka lion capitol",
+    "lettering": "भारत INDIA\r\nसत्यमेव जयते",
+    "lettering_scripts": [
+      {
+        "name": "Devanagari"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Truth shall prevail",
+    "picture": "https://en.numista.com/catalogue/photos/inde/2285-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/inde/2285-180.jpg",
+    "picture_copyright": "Cicily Thalachelloor"
+  },
+  "reverse": {
+    "description": "Denomination, date below",
+    "lettering": "पस\r\n20\r\nPAISE\r\n1983",
+    "lettering_scripts": [
+      {
+        "name": "Devanagari"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/inde/3114-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/inde/3114-180.jpg",
+    "picture_copyright": "Cicily Thalachelloor"
+  },
+  "tags": [
+    "Cat or feline",
+    "Coat of Arms",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "44"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "164"
+    }
+  ],
+  "weight": 2.2,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 1803,
+      "name": "Kolkata / Calcutta / Murshidabad"
+    },
+    {
+      "id": 1806,
+      "name": "Hyderabad"
+    },
+    {
+      "id": 1804,
+      "name": "Mumbai / Bombay"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

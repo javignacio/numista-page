@@ -1,0 +1,129 @@
+{
+  "id": 3392,
+  "url": "https://en.numista.com/3392",
+  "title": "1 Króna (Non-magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "islande",
+    "name": "Iceland"
+  },
+  "min_year": 1981,
+  "max_year": 1987,
+  "ruler": [
+    {
+      "id": 1592,
+      "name": "Republic",
+      "wikidata_id": "Q189"
+    }
+  ],
+  "value": {
+    "text": "1 Króna",
+    "numeric_value": 1,
+    "currency": {
+      "id": 15,
+      "name": "New króna",
+      "full_name": "New króna (1980-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21.5,
+  "thickness": 1.66,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Bergrisi the giant, one of the four traditional protector spirits (\"Landvættir\") of Iceland.",
+    "lettering": "EIN KRÓNA \r\nÍSLAND 1981",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "One Króna\r\nIceland 1981",
+    "picture": "https://en.numista.com/catalogue/photos/islande/67b59504bebac8.89467858-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/islande/67b59504bebac8.89467858-180.jpg",
+    "picture_copyright": "LDC63",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Face value above a Codfish (Gadus morhua).",
+    "lettering": "1 KR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "1 króna",
+    "lettering_translation": "1 crown",
+    "picture": "https://en.numista.com/catalogue/photos/islande/67b59505b885e1.75569245-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/islande/67b59505b885e1.75569245-180.jpg",
+    "picture_copyright": "LDC63",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "related_types": [
+    {
+      "id": 1549,
+      "title": "1 Króna (Magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "islande",
+        "name": "Iceland"
+      },
+      "minYear": 1989,
+      "maxYear": 2011
+    }
+  ],
+  "tags": [
+    "Fish",
+    "Mythology"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "27"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "30"
+    },
+    {
+      "catalogue": {
+        "id": 144,
+        "code": "SIEG"
+      },
+      "number": "27.1"
+    }
+  ],
+  "weight": 4.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/islande/61518b7ecb55a5.50527983-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/islande/61518b7ecb55a5.50527983-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,134 @@
+{
+  "id": 836,
+  "url": "https://en.numista.com/836",
+  "title": "1 Peso (non-magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "republique_dominicaine",
+    "name": "Dominican Republic (1844-date)"
+  },
+  "min_year": 1991,
+  "max_year": 2008,
+  "ruler": [
+    {
+      "id": 4033,
+      "name": "Fourth Republic",
+      "wikidata_id": "Q786"
+    }
+  ],
+  "value": {
+    "text": "1 Peso",
+    "numeric_value": 1,
+    "currency": {
+      "id": 152,
+      "name": "Peso oro",
+      "full_name": "Peso oro (1937-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25,
+  "thickness": 2,
+  "shape": "Hendecagonal (11-sided)",
+  "composition": {
+    "text": "Brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The arms of the Dominican Republic with the denomination to the left and below.",
+    "lettering": "1 PESO\r\nREPUBLICA DOMINICANA\r\nDIOS PATRIA LIBERTAD",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Dominican Republic\r\nGod Fatherland Liberty",
+    "picture": "https://en.numista.com/catalogue/photos/republique_dominicaine/698e199f63e372.63713373-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/republique_dominicaine/698e199f63e372.63713373-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "reverse": {
+    "description": "Portrait of Juan Pablo Duarte y Diez (1813-1876), one of the founding fathers of the Dominican Republic, facing left and the date below with the inscription \"DUARTE\" either on the neck or on the side.",
+    "lettering": "PADRE DE LA PATRIA\r\nDUARTE\r\n1993",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Father of the Fatherland",
+    "picture": "https://en.numista.com/catalogue/photos/republique_dominicaine/698e19a07bc079.34764558-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/republique_dominicaine/698e19a07bc079.34764558-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "comments": "<p><i>KM 80.1: \"DUARTE\" on bust; coin alignment</i></p><p><i>KM 80.2: \"DUARTE\" below bust; coin alignment ↑↓</i></p><p><i>KM 80.3; \"DUARTE\" below bust; medal alignment ↑↑</i><br><br>Specifications of the coins may also vary:<br>Diameter from 24.9 to 25.1 mm<br>Thickness from 1.9 to 2.05 mm<br>Weight from 6.45 to 6.6 g<br><br>Mints:<br>1991-1993 - Royal Canadian Mint (Canada)<br>1997 - Mennica Polska (Poland)<br>2000-2008 - Royal Canadian Mint (Canada)<br><br><u>1992</u><br>Varieties with different position of signature on the Rev.<br><a href=\"https://en.numista.com/catalogue/images/5c876e85be24d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5c876e85be24d.jpg\" alt=\"\"></a><br><br><u>1993</u><br>Variety with medal alignment ↑↑.<br>Picture: © Images courtesy of Alexandr Prokofyev.<br><a href=\"https://en.numista.com/catalogue/images/635eb0cf1d435.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/635eb0cf1d435.jpg\" alt=\"\"></a></p>",
+  "related_types": [
+    {
+      "id": 45819,
+      "title": "1 Peso (magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "republique_dominicaine",
+        "name": "Dominican Republic (1844-date)"
+      },
+      "minYear": 2008,
+      "maxYear": 2018
+    }
+  ],
+  "tags": [
+    "Coat of Arms",
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "80.1"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "80.2"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "80.3"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "102"
+    }
+  ],
+  "weight": 6.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain with 11 angles."
+  },
+  "mints": [
+    {
+      "id": 27,
+      "name": "Mint of Poland"
+    },
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

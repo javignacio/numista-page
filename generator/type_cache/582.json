@@ -1,0 +1,99 @@
+{
+  "id": 582,
+  "url": "https://en.numista.com/582",
+  "title": "20 Centavos (large type)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "mexique",
+    "name": "Mexico"
+  },
+  "min_year": 1992,
+  "max_year": 2009,
+  "ruler": [
+    {
+      "id": 4029,
+      "name": "United Mexican States/Mexican Republic",
+      "wikidata_id": "Q96"
+    }
+  ],
+  "value": {
+    "text": "20 Centavos",
+    "numeric_value": 0.2,
+    "currency": {
+      "id": 271,
+      "name": "New Peso",
+      "full_name": "New Peso (1992-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 19.5,
+  "thickness": 1.5,
+  "shape": "Dodecagonal (12-sided)",
+  "composition": {
+    "text": "Aluminium bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The national emblem of Mexico depicting (a golden Mexican eagle perched on a prickly pear cactus devouring a snake above a half-wreath of oak and laurel below and the legend “ESTADOS UNIDOS MEXICANOS” forming the upper semicircle)",
+    "lettering": "ESTADOS UNIDOS MEXICANOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "United Mexican States",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/4366-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/4366-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "description": "The denomination in the center with the date above and the mintmark below with a partial border of the stylized designs from Reed (Acatl), the 13th day on the Aztec calendar stone (Piedra del Sol), from the upper left to the bottom right",
+    "lettering": "2002\r\n20¢\r\nMo",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "2002\r\n20 Centavos\r\nMo",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/4367-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/4367-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/599ffb45a5f65.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/599ffb45a5f65.jpg\" alt=\"\" width=\"200\" height=\"171\" /></a>",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "548"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "144"
+    }
+  ],
+  "weight": 3.04,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 29,
+      "name": "Mexican Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

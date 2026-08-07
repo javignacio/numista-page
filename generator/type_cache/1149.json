@@ -1,0 +1,134 @@
+{
+  "id": 1149,
+  "url": "https://en.numista.com/1149",
+  "title": "5 Pesetas (La Rioja)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "espagne",
+    "name": "Spain"
+  },
+  "min_year": 1996,
+  "max_year": 1996,
+  "ruler": [
+    {
+      "id": 151,
+      "name": "Juan Carlos I",
+      "wikidata_id": "Q19943",
+      "group": {
+        "id": 44,
+        "name": "House of Bourbon"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Pesetas",
+    "numeric_value": 5,
+    "currency": {
+      "id": 142,
+      "name": "Peseta",
+      "full_name": "Peseta (1868-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2002-02-28"
+  },
+  "size": 17.5,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze (88.4% copper, 5% nickel, 5% aluminium, 1% iron, 0.6% manganese)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Begoña Castellanos García"
+    ],
+    "description": "Porch of Revellín (gate Carlos V, remaining part of the walls of the city) and tower of the church of Santa María de Palacio in Logroño.",
+    "lettering": "ESPAÑA\r\n1996",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Spain",
+    "picture": "https://en.numista.com/catalogue/photos/espagne/67b75b21d21f55.64417504-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/67b75b21d21f55.64417504-180.jpg",
+    "picture_copyright": "Luern",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Begoña Castellanos García"
+    ],
+    "description": "Dancer on stilts and grapes to the right.",
+    "lettering": "LA RIOJA\r\n5 PTAS\r\nM",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "5 Pesetas",
+    "picture": "https://en.numista.com/catalogue/photos/espagne/67b75b22549100.35346243-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/67b75b22549100.35346243-180.jpg",
+    "picture_copyright": "Luern",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "series": "Autonomous communities of Spain",
+  "commemorated_topic": "La Rioja",
+  "comments": "<p><a href=\"https://en.numista.com/catalogue/images/601412ff13867.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/601412ff13867.jpg\" alt=\"\"></a></p><p><strong>The </strong><i><strong>Danza de Los Zancos</strong></i><strong> (Dance of the Stilts)</strong> is a traditional folk festival on July 22nd in Anguiano, La Rioja, in which dancers wear traditional clothing and 50cm stilts and dance around in the streets.<br><strong>Grapes</strong> are represented because of the importance of Rioja wine, well known all over the world.<br><strong>La Rioja</strong> is an autonomous community and province in Spain, in the north of the Iberian Peninsula. Its capital is Logroño. Other cities and towns in the province include Calahorra, Arnedo, Alfaro, Haro, Santo Domingo de la Calzada, and Nájera. It has an estimated population of 315,675 inhabitants (INE 2018), making it the least populated autonomous community of Spain.<br>&nbsp;</p>",
+  "tags": [
+    "Dance",
+    "Castle or fortification",
+    "Religious building",
+    "Tower",
+    "Region",
+    "Fruit"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "960"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "220"
+    },
+    {
+      "catalogue": {
+        "id": 1965,
+        "code": "Aureo"
+      },
+      "number": "55"
+    }
+  ],
+  "weight": 3,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/espagne/3391-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/3391-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 24,
+      "name": "Royal Mint of Madrid"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

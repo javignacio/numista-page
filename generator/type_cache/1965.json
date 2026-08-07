@@ -1,0 +1,117 @@
+{
+  "id": 1965,
+  "url": "https://en.numista.com/1965",
+  "title": "5 Senti",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "tanzanie",
+    "name": "Tanzania"
+  },
+  "min_year": 1966,
+  "max_year": 1984,
+  "ruler": [
+    {
+      "id": 947,
+      "name": "Republic",
+      "wikidata_id": "Q924"
+    }
+  ],
+  "value": {
+    "text": "5 Senti",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 182,
+      "name": "Shilling",
+      "full_name": "Shilling (1966-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23.24,
+  "thickness": 1.33,
+  "shape": "Dodecagonal (12-sided)",
+  "composition": {
+    "text": "Bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Christopher Ironside"
+    ],
+    "description": "Portrait of Julius Kambarage Nyerere, facing left",
+    "lettering": "TANZANIA 1976\r\nRAIS WA KWANZA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "The First President",
+    "picture": "https://en.numista.com/catalogue/photos/tanzanie/11-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/tanzanie/11-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Christopher Ironside"
+    ],
+    "description": "Indo Pacific Sailfish (Istiophorus platypterus) jumping to the left above the denomination. Tano means 5 in Swahili.",
+    "lettering": "SENTI TANO\r\n5",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Five cents",
+    "picture": "https://en.numista.com/catalogue/photos/tanzanie/12-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/tanzanie/12-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "<span style=\"font-weight:bold;\">Julius Nyerere</span>: Tanzanian politician, founding father of Tanzania, President of Tanzania from the date of the country&#039;s foundation, in 1964, until his retirement, in 1985. He is considered one of the greatest historical figures of the Twentieth Century and one of the two most important personalities of modern Africa together with Nelson Mandela.<br /><br />\r\nOf the circulation coins dated 1966, 24,750,000 were minted in 1965 and 55,250,000 were minted in 1966.",
+  "tags": [
+    "Fish",
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "1"
+    }
+  ],
+  "weight": 4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    },
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

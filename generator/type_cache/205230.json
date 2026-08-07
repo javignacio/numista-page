@@ -1,0 +1,95 @@
+{
+  "id": 205230,
+  "url": "https://en.numista.com/205230",
+  "title": "500 Pesos",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "chili",
+    "name": "Chile"
+  },
+  "issuing_entity": {
+    "id": 904,
+    "name": "Central Bank of Chile",
+    "wikidata_id": "Q2631674"
+  },
+  "min_year": 1977,
+  "max_year": 2000,
+  "ruler": [
+    {
+      "id": 3299,
+      "name": "Republic",
+      "wikidata_id": "Q298"
+    }
+  ],
+  "value": {
+    "text": "500 Pesos",
+    "numeric_value": 500,
+    "currency": {
+      "id": 146,
+      "name": "Peso",
+      "full_name": "Peso (1975-date)"
+    }
+  },
+  "size": 145,
+  "size2": 70,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Dark-brown and brown-violet with black text on multicolor underprint.\r\nPortrait of Pedro de Valdivia at right.",
+    "lettering": "BANCO CENTRAL DE CHILE\r\nQUINIENTOS \r\nPESOS\r\n1990\r\nCASA DE MONEDA DE CHILE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Bank of Chile\r\nFive Hundred Pesos\r\nChile Mint",
+    "picture": "https://en.numista.com/catalogue/photos/chili/5ec2d2926f1363.75851938-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/5ec2d2926f1363.75851938-180.jpg",
+    "picture_copyright": "CGB",
+    "picture_copyright_url": "http://www.cgb.fr"
+  },
+  "reverse": {
+    "description": "Dark-brown and brown-violet on multicolor underprint.\r\nFounding of Santiago - oil painting by Pedro Lira.",
+    "lettering": "BANCO CENTRAL DE CHILE\r\nQUINIENTOS  PESOS\r\nFundacion de Santiago",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Bank of Chile\r\nFive Hundred Pesos\r\nSantiago Foundation",
+    "picture": "https://en.numista.com/catalogue/photos/chili/5ec2d292bec084.02712907-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/5ec2d292bec084.02712907-180.jpg",
+    "picture_copyright": "CGB",
+    "picture_copyright_url": "http://www.cgb.fr"
+  },
+  "series": "1975-2009 Issue",
+  "comments": "<p><a href=\"https://en.numista.com/catalogue/images/636db139d8a57.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/636db139d8a57.jpg\" alt=\"\"></a><br>UV light</p>",
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "153"
+    }
+  ],
+  "watermark": {
+    "description": "Portrait of Diego Portales",
+    "picture": "https://en.numista.com/catalogue/photos/chili/631a2d515de236.12776234-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/631a2d515de236.12776234-180.jpg",
+    "picture_copyright": "Thuri"
+  },
+  "printers": [
+    {
+      "id": 18,
+      "name": "Casa de Moneda de Chile"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

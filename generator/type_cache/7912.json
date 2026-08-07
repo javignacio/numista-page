@@ -1,0 +1,130 @@
+{
+  "id": 7912,
+  "url": "https://en.numista.com/7912",
+  "title": "10 Krónur (Magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "islande",
+    "name": "Iceland"
+  },
+  "min_year": 1996,
+  "max_year": 2008,
+  "ruler": [
+    {
+      "id": 1592,
+      "name": "Republic",
+      "wikidata_id": "Q189"
+    }
+  ],
+  "value": {
+    "text": "10 Krónur",
+    "numeric_value": 10,
+    "currency": {
+      "id": 15,
+      "name": "New króna",
+      "full_name": "New króna (1980-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 27.5,
+  "thickness": 1.78,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The four traditional protector spirits (\"Landvættir\") of Iceland. These are Griðungur the bull, Gammur the eagle, Dreki the dragon, and Bergrisi the giant.",
+    "lettering": "TÍU KRÓNUR\r\nÍSLAND 1996",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Ten Krónur\r\nIceland 1996",
+    "picture": "https://en.numista.com/catalogue/photos/islande/63b71c1a1235b1.83710304-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/islande/63b71c1a1235b1.83710304-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "reverse": {
+    "description": "Face value above four Capelin fishes (Mallotus villosus).",
+    "lettering": "10 KR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "10 Krónur",
+    "picture": "https://en.numista.com/catalogue/photos/islande/63b71c1a7325f1.61418969-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/islande/63b71c1a7325f1.61418969-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "comments": "<p><a href=\"https://en.numista.com/catalogue/images/5d08b785ca51c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d08b785ca51c.jpg\" alt=\"\"></a><a href=\"https://en.numista.com/catalogue/images/65a2b5811f620.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/65a2b5811f620.jpg\"></a></p><p>&nbsp;</p><p>Iceland mixed date mint set, including KM#24, KM#25, KM#26a, KM#27a, KM#28a, KM#29.1a, KM#31, KM#35</p><p><a href=\"https://en.numista.com/catalogue/images/686e1cf782467.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686e1cf782467.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/686e1cf8a41b5.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686e1cf8a41b5.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/686e1cea7253a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686e1cea7253a.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/686e1ceb66f88.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686e1ceb66f88.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/686e1d102023c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686e1d102023c.jpg\"></a></p><p>@gdch6ng</p><p>&nbsp;</p><p>2000 mint set, including KM#27a, KM#28a, KM#29.1a, KM#31, KM#35</p><p><a href=\"https://en.numista.com/catalogue/images/686e1cf055081.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686e1cf055081.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/686e1cfd7d5a0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686e1cfd7d5a0.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/686e1cfd30b83.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686e1cfd30b83.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/686e1cfe7fef4.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686e1cfe7fef4.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/686e1cec0093b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686e1cec0093b.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/686e1cf8f3623.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686e1cf8f3623.jpg\"></a></p><p>@gdch6ng</p>",
+  "related_types": [
+    {
+      "id": 1548,
+      "title": "10 Krónur (Non-magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "islande",
+        "name": "Iceland"
+      },
+      "minYear": 1984,
+      "maxYear": 1994
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Cow or bovine",
+    "Fantasy animal",
+    "Fish",
+    "Mythology"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "29.1a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "32a"
+    },
+    {
+      "catalogue": {
+        "id": 144,
+        "code": "SIEG"
+      },
+      "number": "56.2"
+    }
+  ],
+  "weight": 6.9,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/islande/61518c23ade3d8.33861184-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/islande/61518c23ade3d8.33861184-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

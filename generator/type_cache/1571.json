@@ -1,0 +1,117 @@
+{
+  "id": 1571,
+  "url": "https://en.numista.com/1571",
+  "title": "5 Paisa - Birendra Bir Bikram",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "nepal",
+    "name": "Nepal"
+  },
+  "min_year": 1971,
+  "max_year": 1982,
+  "ruler": [
+    {
+      "id": 3964,
+      "name": "Birendra Bir Bikram Shah",
+      "wikidata_id": "Q162306",
+      "group": {
+        "id": 240,
+        "name": "Shah dynasty"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Paisa",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 173,
+      "name": "Rupee",
+      "full_name": "Rupee (1932-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 20.5,
+  "thickness": 1.61,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium (100%)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Trident with sun and moon flanking above Himalayas. Inscription below with year and name of King of Nepal.",
+    "lettering": "नेपाल\r\n२०३०\r\nश्री ५ वीरेन्द्र वीर विक्रम शाहदेव",
+    "lettering_scripts": [
+      {
+        "name": "Devanagari"
+      }
+    ],
+    "lettering_translation": "Nepal\r\n2030\r\nShree Birendra Bir Bikram Shah Dev",
+    "picture": "https://en.numista.com/catalogue/photos/nepal/1127-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nepal/1127-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "reverse": {
+    "description": "Achhami cattle facing left",
+    "lettering": "श्री भवानी\r\n५ पाँच पैसा",
+    "lettering_scripts": [
+      {
+        "name": "Devanagari"
+      }
+    ],
+    "lettering_translation": "Shree Bhavani\r\n5 Five Paisa",
+    "picture": "https://en.numista.com/catalogue/photos/nepal/1128-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nepal/1128-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "comments": "<p><a href=\"https://en.numista.com/catalogue/images/67d19544419e4.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67d19544419e4.jpg\"></a><br>The national breed Achham cattle which falls in the Bos indicus (also the Binomial Name) species is the national animal of Nepal.<br><br>Proof issues were minted by the United States mint in San Francisco.</p>",
+  "related_types": [
+    {
+      "id": 9685,
+      "title": "5 Paisa - Mahendra Bir Bikram",
+      "category": "coin",
+      "country": {
+        "code": "nepal",
+        "name": "Nepal"
+      },
+      "minYear": 1966,
+      "maxYear": 1971
+    }
+  ],
+  "tags": [
+    "Cow or bovine",
+    "Mountain"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "802"
+    }
+  ],
+  "weight": 1.14,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 4344,
+      "name": "Mint Division of the Central Bank of Nepal"
+    },
+    {
+      "id": 12,
+      "name": "United States Mint of San Francisco"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

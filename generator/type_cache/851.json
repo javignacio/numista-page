@@ -1,0 +1,157 @@
+{
+  "id": 851,
+  "url": "https://en.numista.com/851",
+  "title": "5 Reichspfennig",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "allemagne-pre1945",
+    "name": "Germany (1871-1948)"
+  },
+  "min_year": 1924,
+  "max_year": 1936,
+  "ruler": [
+    {
+      "id": 2863,
+      "name": "Weimar Republic",
+      "wikidata_id": "Q41304"
+    }
+  ],
+  "value": {
+    "text": "5 Pfennigs",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 230,
+      "name": "Reichsmark",
+      "full_name": "Reichsmark (1924-1948)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 18,
+  "thickness": 1.42,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Waldemar Raemisch"
+    ],
+    "description": "Face value in a square with 4 oak leaves.",
+    "lettering": "DEUTSCHES REICH\r\n5\r\nREICHSPFENNIG",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "German Empire\r\n5\r\nReichspfennig",
+    "picture": "https://en.numista.com/catalogue/photos/allemagne-pre1945/67b77afde1b384.56910467-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/allemagne-pre1945/67b77afde1b384.56910467-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Waldemar Raemisch"
+    ],
+    "description": "Wheat ears drawing a pyramid.",
+    "lettering": "J\r\n1935",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/allemagne-pre1945/67b77afd837c01.32213658-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/allemagne-pre1945/67b77afd837c01.32213658-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "A 1925F variant found by Ina Huitema<br />\r\n<a href=\"https://en.numista.com/catalogue/images/560d3535882c8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/560d3535882c8.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\nOle",
+  "related_types": [
+    {
+      "id": 1913,
+      "title": "5 Rentenpfennig",
+      "category": "coin",
+      "country": {
+        "code": "allemagne-pre1945",
+        "name": "Germany (1871-1948)"
+      },
+      "minYear": 1923,
+      "maxYear": 1925
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "39"
+    },
+    {
+      "catalogue": {
+        "id": 81,
+        "code": "AKS"
+      },
+      "number": "49"
+    },
+    {
+      "catalogue": {
+        "id": 80,
+        "code": "J"
+      },
+      "number": "316"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "39"
+    }
+  ],
+  "weight": 2.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/allemagne-pre1945/697dd84da56310.04761487-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/allemagne-pre1945/697dd84da56310.04761487-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 5,
+      "name": "Berlin"
+    },
+    {
+      "id": 1,
+      "name": "Munich"
+    },
+    {
+      "id": 1366,
+      "name": "Muldenhütten"
+    },
+    {
+      "id": 2,
+      "name": "Staatliche Münze Baden-Württemberg"
+    },
+    {
+      "id": 3,
+      "name": "Staatliche Münze Baden-Württemberg"
+    },
+    {
+      "id": 4,
+      "name": "Hamburgische Münze"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

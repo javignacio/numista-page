@@ -1,0 +1,120 @@
+{
+  "id": 1073,
+  "url": "https://en.numista.com/1073",
+  "title": "50 Pesos (non-magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "colombie",
+    "name": "Colombia"
+  },
+  "min_year": 1989,
+  "max_year": 2009,
+  "ruler": [
+    {
+      "id": 4088,
+      "name": "Republic",
+      "wikidata_id": "Q739"
+    }
+  ],
+  "value": {
+    "text": "50 Pesos",
+    "numeric_value": 50,
+    "currency": {
+      "id": 147,
+      "name": "Peso decimalized",
+      "full_name": "Peso decimalized (1847-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21.5,
+  "thickness": 1.4,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass (65% Copper, 20% Zinc, 15% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Colombia coat of arms and the motto \"Liberty and Order\"",
+    "lettering": "REPUBLICA DE COLOMBIA \r\nLIBERTAD Y ORDEN\r\n2007",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/colombie/1299-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/1299-180.jpg",
+    "picture_copyright": "Ciscoins.net",
+    "picture_copyright_url": "https://web.archive.org/web/20201116183734/http://ciscoins.net/"
+  },
+  "reverse": {
+    "description": "Value within wreath",
+    "lettering": "50 \r\nPESOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/colombie/1300-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/1300-180.jpg",
+    "picture_copyright": "Ciscoins.net",
+    "picture_copyright_url": "https://web.archive.org/web/20201116183734/http://ciscoins.net/"
+  },
+  "comments": "<p><a href=\"https://en.numista.com/catalogue/images/673c8e805f0b6.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/673c8e805f0b6.jpg\"></a><br><br>There are groups of dies of the type.<br><br><i>Obverse</i><br><br>Obverse bears year and that is why every year at least one new die is used. There are a lot of differences between them in size and position of legend and in interpretation of the coat of arms. The presented groups are of the main changes in the coat of arms.<br><br>Die <strong>1</strong> - comb of condor in one line, leaf to the right of pomegranate is higher then to the left.<br>Die <strong>2</strong> - the only die with leaf to the left of pomegranate higher, than the one to the right.<br>Die <strong>3</strong> - comb of condor in 3 dots, the only die with narrow almost straight Isthmus of Panama.<br>Die <strong>4</strong> - comb of condor in 3 dots, leaf to the right of pomegranate is higher then to the left, realistic Isthmus of Panama.<br><br><a href=\"https://en.numista.com/catalogue/images/5d643cf686ab3.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d643cf686ab3.jpg\" alt=\"\"></a><br><br><i>Reverse</i><br><br>Die <strong>A</strong> - 66 bead around rim, top of the left top leaf to gap, numerals '50' high and set apart.<br>Die <strong>B</strong> - 72 beads, top of the left top leaf to bead, '50' high, the only die with numerals '50' close.<br>Die <strong>C</strong> - 72 beads, top of the left top leaf next to bead, numerals '50' set apart, the only die with '50' low, on the level of inner leaves.<br>Die D - 72 beads, top of the left top leaf to gap, numerals '50' high and set apart. The only die, where all details are thick and tops of leaves are blunt.<br><br><a href=\"https://en.numista.com/catalogue/images/5d643d6284065.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d643d6284065.jpg\" alt=\"\"></a><br><br><i>Combinations</i><br><strong>1</strong>+<strong>A</strong> 1989, 1990, 1992, 1993, 1994<br><strong>1</strong>+<strong>B</strong> 1989<br><strong>1</strong>+<strong>C</strong> 1994<br><strong>2</strong>+<strong>A</strong> 1991<br><strong>2</strong>+<strong>B</strong> 1990<br><strong>3</strong>+<strong>C</strong> 2003, 2004, 2005, 2006, 2007<br><strong>4</strong>+<strong>C</strong> 2008<br><strong>4</strong>+<strong>D</strong> 2008-2012<br><br>Correspondence with Standard Catalog of World Coins:<br>KM#283.1 1+A, 2+A<br>KM#283.2 all the rest combinations.<br><br>The 2008 version can be found with pointy leaves or blunt leaves on the reverse. The distance of the 5 from the leaves can also vary. Both variants have the same amount of beads (72):<br><a href=\"https://en.numista.com/catalogue/images/630e4014013b8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/630e4014013b8.jpg\" alt=\"\"></a><br>@Duberney Osorio</p>",
+  "related_types": [
+    {
+      "id": 47429,
+      "title": "50 Pesos (magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "colombie",
+        "name": "Colombia"
+      },
+      "minYear": 2007,
+      "maxYear": 2012
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Coat of Arms",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "283"
+    },
+    {
+      "catalogue": {
+        "id": 348,
+        "code": "Restrepo"
+      },
+      "number": "442"
+    }
+  ],
+  "weight": 4.35,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/colombie/68efa9864dba05.26531982-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/68efa9864dba05.26531982-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 4172,
+      "name": "Fábrica de Moneda de Ibagué"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

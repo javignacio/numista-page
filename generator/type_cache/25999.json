@@ -1,0 +1,127 @@
+{
+  "id": 25999,
+  "url": "https://en.numista.com/25999",
+  "title": "1 Dollar - Elizabeth II (4th Portrait - Commonwealth Heads of Government Meeting)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "australie",
+    "name": "Australia"
+  },
+  "min_year": 2011,
+  "max_year": 2011,
+  "ruler": [
+    {
+      "id": 1783,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 825,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Dollar",
+    "numeric_value": 1,
+    "currency": {
+      "id": 243,
+      "name": "Dollar",
+      "full_name": "Dollar (1966-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25,
+  "thickness": 2.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze (92% Copper, 6% Aluminium, 2% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Ian Rank-Broadley"
+    ],
+    "description": "4th portrait of Queen Elizabeth II facing right wearing the Girls of Great Britain and Ireland Tiara",
+    "lettering": "ELIZABETH II \r\nAUSTRALIA 2011\r\nIRB",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/australie/6682b6771fe545.12804968-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/australie/6682b6771fe545.12804968-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "Tim Leaversuch"
+    ],
+    "description": "C.H.O.G.M. logo depicting the Globe of the Earth with the Southern Cross Constellation above surrounded by stylised flags in the shape of the state of Western Australia",
+    "lettering": "CHOGM 2011\r\n1 DOLLAR\r\nPERTH AUSTRALIA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/australie/6682b67821a573.18320145-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/australie/6682b67821a573.18320145-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "commemorated_topic": "2011 Commonwealth Heads of Government Meeting (CHOGM)",
+  "comments": "This circulating commemorative $1 coin was released by the RAM to celebrate the Commonwealth Heads of Government Meeting which was held in October 2011 in Perth, Western Australia. The event hosted the largest gathering of world leaders ever in Western Australia which included Queen Elizabeth II and then Australian Prime Minister Julia Gillard.<br /><br />\r\nMint Roll of 20 coins.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5d5c0e8713d7d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d5c0e8713d7d.jpg\" alt=\"\" width=\"200\" height=\"94\" /></a>",
+  "related_types": [
+    {
+      "id": 86121,
+      "title": "5 Dollars - Elizabeth II (4th Portrait - Queen's Visit Commonwealth Heads of Government Meeting)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 2011,
+      "maxYear": 2011
+    }
+  ],
+  "tags": [
+    "Flag",
+    "Globe"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1619"
+    }
+  ],
+  "weight": 9,
+  "orientation": "medal",
+  "edge": {
+    "description": "7 shorter smooth segments between 7 reeded segments (11 grooves each)",
+    "picture": "https://en.numista.com/catalogue/photos/australie/6682b679091d49.51372258-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/australie/6682b679091d49.51372258-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 28,
+      "name": "Royal Australian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

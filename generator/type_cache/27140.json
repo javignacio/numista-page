@@ -1,0 +1,92 @@
+{
+  "id": 27140,
+  "url": "https://en.numista.com/27140",
+  "title": "1 Real - Ferdinand VII (bust of Carlos IV)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "chili",
+    "name": "Chile"
+  },
+  "min_year": 1808,
+  "max_year": 1817,
+  "ruler": [
+    {
+      "id": 11583,
+      "name": "Ferdinand VII",
+      "wikidata_id": "Q186256",
+      "nomisma_id": "ferdinand_vii_of_spain",
+      "group": {
+        "id": 1015,
+        "name": "Viceroyalty of Spain, House of Bourbon"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Real",
+    "numeric_value": 1,
+    "currency": {
+      "id": 1203,
+      "name": "Real",
+      "full_name": "Real (1541-1852)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 21,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.896)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Bust of Charles IV, date below",
+    "lettering": "FERDIN·VII· DEI·GRATIA\r\n1817",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chili/1045-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/1045-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "description": "Crowned arms (Spanish coat of arms) between columns.",
+    "lettering": "·HISPAN·ET IND·REX·Sº·1R·F·J·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chili/1046-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/1046-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "65"
+    }
+  ],
+  "weight": 3.3841,
+  "orientation": "medal",
+  "edge": {
+    "description": "Chained",
+    "picture": "https://en.numista.com/catalogue/photos/chili/69028030dd2f23.26905197-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/69028030dd2f23.26905197-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,148 @@
+{
+  "id": 2972,
+  "url": "https://en.numista.com/2972",
+  "title": "1 Bolívar",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "venezuela",
+    "name": "Venezuela"
+  },
+  "min_year": 1967,
+  "max_year": 1967,
+  "ruler": [
+    {
+      "id": 4706,
+      "name": "Fourth Republic",
+      "wikidata_id": "Q21296156"
+    }
+  ],
+  "value": {
+    "text": "1 Bolivar",
+    "numeric_value": 1,
+    "currency": {
+      "id": 7,
+      "name": "Bolivar",
+      "full_name": "Bolivar (1879-2007)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2011-12-31"
+  },
+  "size": 23,
+  "thickness": 1.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Désiré-Albert Barre"
+    ],
+    "description": "The arms of Venezuela with a legend above and the date to the right of the denomination at the bottom",
+    "lettering": "★REPÚBLICA DE VENEZUELA★\r\nUN BOLÍVAR ★ 1967",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Venezuela\r\nOne Bolivar 1967",
+    "picture": "https://en.numista.com/catalogue/photos/venezuela/464-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/venezuela/464-180.jpg",
+    "picture_copyright": "gef"
+  },
+  "reverse": {
+    "engravers": [
+      "Désiré-Albert Barre"
+    ],
+    "description": "Bust left flanked with a legend with the engraver's name at the bottom",
+    "lettering": "BOLÍVAR LIBERTADOR\r\nBARRE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Bolivar Liberator\r\nBarre",
+    "picture": "https://en.numista.com/catalogue/photos/venezuela/463-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/venezuela/463-180.jpg",
+    "picture_copyright": "gef"
+  },
+  "related_types": [
+    {
+      "id": 1100,
+      "title": "1 Bolívar",
+      "category": "coin",
+      "country": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "minYear": 1977,
+      "maxYear": 1986
+    },
+    {
+      "id": 2973,
+      "title": "1 Bolívar",
+      "category": "coin",
+      "country": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "minYear": 1989,
+      "maxYear": 1990
+    }
+  ],
+  "tags": [
+    "Horse or equine",
+    "Military leader",
+    "Politician",
+    "Coat of Arms",
+    "Cornucopia"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "42"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "52"
+    },
+    {
+      "catalogue": {
+        "id": 2068,
+        "code": "NCV"
+      },
+      "number": "mv1bs-ca"
+    }
+  ],
+  "weight": 5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Milled",
+    "picture": "https://en.numista.com/catalogue/photos/venezuela/65b5c6baa6e549.74131118-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/venezuela/65b5c6baa6e549.74131118-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

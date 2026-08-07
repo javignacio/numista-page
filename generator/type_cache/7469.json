@@ -1,0 +1,126 @@
+{
+  "id": 7469,
+  "url": "https://en.numista.com/7469",
+  "title": "¼ Penny - Elizabeth II (1st portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "afrique_du_sud",
+    "name": "South Africa"
+  },
+  "min_year": 1953,
+  "max_year": 1960,
+  "ruler": [
+    {
+      "id": 633,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 789,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "¼ Penny",
+    "numeric_value": 0.0010416666666666667,
+    "numerator": 1,
+    "denominator": 960,
+    "currency": {
+      "id": 234,
+      "name": "Pound",
+      "full_name": "Pound (1825-1961)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1961-03-31"
+  },
+  "size": 20.2,
+  "thickness": 1.43,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze (95% Cu, 4.5% Zn, 0.5% Sn)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Mary Gillick"
+    ],
+    "description": "Young laureate portrait of Queen Elizabeth II right, engraver's initials in truncation, legend around.",
+    "lettering": "ELIZABETH II REGINA\r\nM·G·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Queen Elizabeth II",
+    "picture": "https://en.numista.com/catalogue/photos/afrique_du_sud/66cafd3a6ca6c2.51055417-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/66cafd3a6ca6c2.51055417-180.jpg",
+    "picture_copyright": "radrick007",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "George Kruger Gray"
+    ],
+    "description": "Cape Sparrows perched on acacia branch within circle, date above and denomination below, legend in English and Afrikaans.",
+    "lettering": "SUID-AFRIKA·1954·SOUTH AFRICA\r\nKG\r\n* 1/4D. *",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/afrique_du_sud/66cafd3abcdb74.43049649-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/66cafd3abcdb74.43049649-180.jpg",
+    "picture_copyright": "radrick007",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "tags": [
+    "Bird",
+    "Monarch",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "44"
+    },
+    {
+      "catalogue": {
+        "id": 146,
+        "code": "Hern"
+      },
+      "number": "S34-41"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "54"
+    }
+  ],
+  "weight": 2.83,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 1872,
+      "name": "Pretoria"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

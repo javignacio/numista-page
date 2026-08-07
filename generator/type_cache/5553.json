@@ -1,0 +1,114 @@
+{
+  "id": 5553,
+  "url": "https://en.numista.com/5553",
+  "title": "200 Shillings (Non-magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "ouganda",
+    "name": "Uganda"
+  },
+  "issuing_entity": {
+    "id": 266,
+    "name": "Bank of Uganda"
+  },
+  "min_year": 1998,
+  "max_year": 2003,
+  "ruler": [
+    {
+      "id": 936,
+      "name": "Republic",
+      "wikidata_id": "Q1036"
+    }
+  ],
+  "value": {
+    "text": "200 Shillings",
+    "numeric_value": 200,
+    "currency": {
+      "id": 180,
+      "name": "New shilling",
+      "full_name": "New shilling (1987-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24.9,
+  "thickness": 2.05,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms of Uganda.",
+    "lettering": "BANK OF UGANDA\r\nFOR GOD AND MY COUNTRY\r\nTWO HUNDRED SHILLINGS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/ouganda/32-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ouganda/32-180.jpg",
+    "picture_copyright": "M@verick"
+  },
+  "reverse": {
+    "engravers": [
+      "Stan Witten"
+    ],
+    "description": "Cichlid (Chiclidae) facing left.",
+    "lettering": "BANK OF UGANDA\r\n200\r\nSHILLINGS\r\n2003",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/ouganda/33-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ouganda/33-180.jpg",
+    "picture_copyright": "M@verick"
+  },
+  "series": "1998 series",
+  "related_types": [
+    {
+      "id": 44643,
+      "title": "200 Shillings (Magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "ouganda",
+        "name": "Uganda"
+      },
+      "minYear": 2007,
+      "maxYear": 2022
+    }
+  ],
+  "tags": [
+    "Fish",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "68"
+    }
+  ],
+  "weight": 8.05,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

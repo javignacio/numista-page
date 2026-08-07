@@ -1,0 +1,142 @@
+{
+  "id": 131213,
+  "url": "https://en.numista.com/131213",
+  "title": "5 Pesos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "argentine",
+    "name": "Argentina"
+  },
+  "min_year": 2017,
+  "max_year": 2020,
+  "ruler": [
+    {
+      "id": 3983,
+      "name": "Federal Republic",
+      "wikidata_id": "Q414"
+    }
+  ],
+  "value": {
+    "text": "5 Pesos",
+    "numeric_value": 5,
+    "currency": {
+      "id": 145,
+      "name": "Peso convertible",
+      "full_name": "Peso convertible (1992-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23,
+  "thickness": 2.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The design presents on the obverse, in the center, the representation of the arrayán. In the upper arch the text \"REPUBLICA ARGENTINA\", and in the lower one, \"ARRAYÁN\".",
+    "lettering": "REPÚBLICA ARGENTINA\r\nARRAYÁN",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/argentine/1430-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/1430-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "description": "On the right, the flower of the arrayán accompanied by the year of coinage \"2017\". In the upper arch, the motto \"EN UNION Y LIBERTAD\". The location of the denomination \"5 PESOS\" indicates the Patagonia, region where this species is more representative.",
+    "lettering": "EN UNIÓN Y LIBERTAD\r\n5 PESOS\r\n2017",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "In unity and freedom",
+    "picture": "https://en.numista.com/catalogue/photos/argentine/1431-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/1431-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "comments": "<span style=\"font-weight:bold;\">The Arrayán</span><br /><br />\r\nLuma apiculata Family of the Myrtaceae. Common names: arrayán, quetri, cuthu.<br />\r\nIt grows in the sub-Antarctic forests, in the provinces of Neuquén, Río Negro and Chubut, near the rivers and on the shores of the lakes. To see it in its natural habitat, visit the Los Arrayanes National Park, south of the province of Neuquén, which has the forest with the highest density of arrayanes in the country.<br /><br />\r\n<span style=\"font-weight:bold;\">Arrayán flower</span><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5a425b08f081e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5a425b08f081e.jpg\" alt=\"\" width=\"200\" height=\"111\" /></a><br /><br />\r\n<span style=\"font-weight:bold;\">Arrayán tree</span><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5a425b13de5d6.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5a425b13de5d6.jpg\" alt=\"\" width=\"200\" height=\"230\" /></a>",
+  "related_types": [
+    {
+      "id": 131212,
+      "title": "1 Peso",
+      "category": "coin",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 2017,
+      "maxYear": 2020
+    },
+    {
+      "id": 155294,
+      "title": "2 Pesos",
+      "category": "coin",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 2018,
+      "maxYear": 2018
+    },
+    {
+      "id": 155297,
+      "title": "10 Pesos",
+      "category": "coin",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 2018,
+      "maxYear": 2020
+    }
+  ],
+  "tags": [
+    "Flower",
+    "Tree"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "187"
+    },
+    {
+      "catalogue": {
+        "id": 160,
+        "code": "CJ"
+      },
+      "number": "8.21"
+    }
+  ],
+  "weight": 7.3,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/argentine/5ee63618c2b870.53830970-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/5ee63618c2b870.53830970-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 1336,
+      "name": "Buenos Aires"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

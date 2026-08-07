@@ -1,0 +1,137 @@
+{
+  "id": 805,
+  "url": "https://en.numista.com/805",
+  "title": "1 Franc - Louis II",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "monaco",
+    "name": "Monaco"
+  },
+  "min_year": 1943,
+  "max_year": 1943,
+  "ruler": [
+    {
+      "id": 3125,
+      "name": "Louis II",
+      "wikidata_id": "Q316543",
+      "group": {
+        "id": 528,
+        "name": "House of Grimaldi"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Franc",
+    "numeric_value": 1,
+    "currency": {
+      "id": 310,
+      "name": "Ancien franc",
+      "full_name": "Ancien franc (1837-1960)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 23,
+  "thickness": 1.4,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Louis Maubert"
+    ],
+    "description": "Bust of Louis II facing left",
+    "lettering": "LOUIS II PRINCE DE MONACO\r\nL. MAUBERT",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Louis II Prince of Monaco\r\nL. Maubert",
+    "picture": "https://en.numista.com/catalogue/photos/monaco/68407ed77ae6e8.35882126-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/monaco/68407ed77ae6e8.35882126-180.jpg",
+    "picture_copyright": "JLHare",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Louis Maubert"
+    ],
+    "description": "Crowned mantled arms flanked by value below",
+    "lettering": "1 FRANC 1\r\nDEO JUVANTE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "1 Franc 1\r\nWith God's Help",
+    "picture": "https://en.numista.com/catalogue/photos/monaco/68407ed8994860.12342269-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/monaco/68407ed8994860.12342269-180.jpg",
+    "picture_copyright": "JLHare",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p>Undated coin minted in 1943 on the initiative of the Vichy government.<br>Copper-aluminum coins were not put into circulation until 1945.</p>",
+  "related_types": [
+    {
+      "id": 2421,
+      "title": "1 Franc - Louis II",
+      "category": "coin",
+      "country": {
+        "code": "monaco",
+        "name": "Monaco"
+      },
+      "minYear": 1943,
+      "maxYear": 1943
+    }
+  ],
+  "tags": [
+    "Monarch",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "120"
+    },
+    {
+      "catalogue": {
+        "id": 109,
+        "code": "Gad 1789"
+      },
+      "number": "MC131"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "8"
+    }
+  ],
+  "weight": 1.3,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

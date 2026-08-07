@@ -1,0 +1,138 @@
+{
+  "id": 688,
+  "url": "https://en.numista.com/688",
+  "title": "100 Francs",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "france",
+    "name": "France"
+  },
+  "min_year": 1954,
+  "max_year": 1959,
+  "ruler": [
+    {
+      "id": 10,
+      "name": "Fourth Republic",
+      "wikidata_id": "Q69829",
+      "group": {
+        "id": 89,
+        "name": "Modern France"
+      }
+    }
+  ],
+  "value": {
+    "text": "100 Francs",
+    "numeric_value": 100,
+    "currency": {
+      "id": 303,
+      "name": "Franc",
+      "full_name": "Franc (1795-1959)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1966-08-03"
+  },
+  "size": 24,
+  "thickness": 1.85,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Robert Cochet"
+    ],
+    "description": "The bust of Liberty holding a torch facing right",
+    "lettering": "REPUBLIQUE\r\nFRANÇAISE\r\nCR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "French Republic",
+    "picture": "https://en.numista.com/catalogue/photos/france/5f9b52f932d1f8.18381770-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/5f9b52f932d1f8.18381770-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "reverse": {
+    "engravers": [
+      "Robert Cochet"
+    ],
+    "description": "Value and date with mintmark on left. Lettering above. Fruit and wheat on right.\r\nNOTE: The letter B (if present) is between the olive branches",
+    "lettering": "LIBERTE EGALITE\r\nFRATERNITE\r\n100\r\nFRANCS\r\n1958\r\nR COCHET",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Liberty Equality\r\nBrotherhood",
+    "picture": "https://en.numista.com/catalogue/photos/france/5f9b52f985fbf2.76878312-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/5f9b52f985fbf2.76878312-180.jpg",
+    "picture_copyright": "Jérémy Pureur"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/60fbd0ecd7e28.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/60fbd0ecd7e28.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/582f6e599fb61.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/582f6e599fb61.jpg\" alt=\"\" width=\"177\" height=\"250\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/582f6e6d097f2.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/582f6e6d097f2.jpg\" alt=\"\" width=\"177\" height=\"250\" /></a><br /><br />\r\nThe shape of the &#039;4&#039; on the 1954 &quot;essai&quot; can be used to identify modern fakes that are extremely common on auction sites and private sales. The fakes have fatter digits and usually thinner planchets weighing as little as 4.5 g.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/6207916fe3ea3.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6207916fe3ea3.jpg\" alt=\"\" width=\"200\" height=\"140\" /></a>",
+  "tags": [
+    "Fruit",
+    "Allegory",
+    "Phrygian cap"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 34,
+        "code": "Franc 2014"
+      },
+      "number": "450"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "224"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "919"
+    },
+    {
+      "catalogue": {
+        "id": 109,
+        "code": "Gad 1789"
+      },
+      "number": "897"
+    }
+  ],
+  "weight": 6,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/france/11590-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/11590-180.jpg",
+    "picture_copyright": "Eagle68",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    },
+    {
+      "id": 72,
+      "name": "Beaumont-le-Roger"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

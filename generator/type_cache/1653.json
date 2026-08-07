@@ -1,0 +1,124 @@
+{
+  "id": 1653,
+  "url": "https://en.numista.com/1653",
+  "title": "50 Won",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "coree_du_sud",
+    "name": "South Korea"
+  },
+  "min_year": 1983,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 3992,
+      "name": "Republic",
+      "wikidata_id": "Q884"
+    }
+  ],
+  "value": {
+    "text": "50 Won",
+    "numeric_value": 50,
+    "currency": {
+      "id": 196,
+      "name": "New won",
+      "full_name": "New won (1962-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1983-01-15"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21.6,
+  "thickness": 1.52,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass (70% Copper, 18% Zinc, 12% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Rice plant and value in Hangul below.",
+    "lettering": "오십원",
+    "lettering_scripts": [
+      {
+        "name": "Hangul"
+      }
+    ],
+    "lettering_translation": "Fifty Won",
+    "picture": "https://en.numista.com/catalogue/photos/coree_du_sud/5e30f32bb1c2f9.91714435-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/5e30f32bb1c2f9.91714435-180.jpg",
+    "picture_copyright": "gdch6ng",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "The denomination in numerals in the center with the issuer name in Hangul below and the date above.",
+    "lettering": "2002\r\n50\r\n한국은행",
+    "lettering_scripts": [
+      {
+        "name": "Hangul"
+      }
+    ],
+    "lettering_translation": "Bank of Korea",
+    "picture": "https://en.numista.com/catalogue/photos/coree_du_sud/5e30f32c5a5bc7.66736018-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/5e30f32c5a5bc7.66736018-180.jpg",
+    "picture_copyright": "gdch6ng",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<span style=\"font-style:italic;\">Obverse</span><br />\r\nDie <span style=\"font-weight:bold;\">1</span> - classic font, horizontal strokes thinner than vertical ones.<br />\r\nDie <span style=\"font-weight:bold;\">2</span> - gothic font, strokes are thicker, in the word 원 (won) horizontal strokes of the same thickness as vertical ones.<br /><br />\r\n<span style=\"font-style:italic;\">Reverse</span><br />\r\nDie <span style=\"font-weight:bold;\">A</span> - numerals in 50 far from each other, the vertical lower right stroke in syllable 국 between beads.<br />\r\nDie <span style=\"font-weight:bold;\">B</span> - numerals in 50 close to each other, the vertical lower right stroke in syllable 국 to a bead.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/614c5b9b13e0b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/614c5b9b13e0b.jpg\" alt=\"\" width=\"192\" height=\"250\" /></a><br /><br />\r\n<span style=\"font-style:italic;\">Combinations</span><br />\r\n<span style=\"font-weight:bold;\">1</span>+<span style=\"font-weight:bold;\">A</span> 1983-1985, 1987-1989.<br />\r\n<span style=\"font-weight:bold;\">1</span>+<span style=\"font-weight:bold;\">B</span> 1990-1997.<br />\r\n<span style=\"font-weight:bold;\">2</span>+<span style=\"font-weight:bold;\">B</span> 1998-2019.",
+  "related_types": [
+    {
+      "id": 2647,
+      "title": "50 Won (FAO)",
+      "category": "coin",
+      "country": {
+        "code": "coree_du_sud",
+        "name": "South Korea"
+      },
+      "minYear": 1972,
+      "maxYear": 1982
+    }
+  ],
+  "tags": [
+    "Agriculture",
+    "FAO"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "34"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "80"
+    }
+  ],
+  "weight": 4.16,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 1299,
+      "name": "Korea Minting and Security Printing Corporation"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

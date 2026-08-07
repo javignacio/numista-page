@@ -1,0 +1,146 @@
+{
+  "id": 8758,
+  "url": "https://en.numista.com/8758",
+  "title": "5 Satang",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "thailande",
+    "name": "Thailand"
+  },
+  "min_year": 1908,
+  "max_year": 1937,
+  "ruler": [
+    {
+      "id": 1901,
+      "name": "Phra Chula Chom Klao (Rama V / Chulalongkorn)",
+      "wikidata_id": "Q158861",
+      "group": {
+        "id": 65,
+        "name": "Chakri dynasty"
+      }
+    },
+    {
+      "id": 1902,
+      "name": "Phra Mongkut Klao (Rama VI / Vajiravudh)",
+      "wikidata_id": "Q161389",
+      "group": {
+        "id": 65,
+        "name": "Chakri dynasty"
+      }
+    },
+    {
+      "id": 1903,
+      "name": "Phra Pok Klao (Rama VII / Prajadhipok)",
+      "wikidata_id": "Q313124",
+      "group": {
+        "id": 65,
+        "name": "Chakri dynasty"
+      }
+    },
+    {
+      "id": 1904,
+      "name": "Ananda Mahidol (Rama VIII)",
+      "wikidata_id": "Q248893",
+      "group": {
+        "id": 65,
+        "name": "Chakri dynasty"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Satangs",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 4,
+      "name": "Baht",
+      "full_name": "Baht (1897-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 17.5,
+  "thickness": 1,
+  "shape": "Round with a round hole (4 millimeters hole)",
+  "composition": {
+    "text": "Nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Unalom around center hole, inscription around.",
+    "lettering": "สยามรัฐ ๕ สตางค์",
+    "lettering_scripts": [
+      {
+        "name": "Thai"
+      }
+    ],
+    "lettering_translation": "Siam, State [of]. 5 Satang.",
+    "picture": "https://en.numista.com/catalogue/photos/thailande/2510-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/thailande/2510-180.jpg",
+    "picture_copyright": "gyoschak",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Chakra with 8 blades, with date inside around center hole.",
+    "lettering": "พ.ศ. ๒๔๘๐",
+    "lettering_scripts": [
+      {
+        "name": "Thai"
+      }
+    ],
+    "lettering_translation": "B.E. 2480",
+    "picture": "https://en.numista.com/catalogue/photos/thailande/2509-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/thailande/2509-180.jpg",
+    "picture_copyright": "gyoschak",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "series": "Unalom - Chakra series",
+  "comments": "Althogh the preceded series of copper-nickel decimal coins were not popular, as people were not familiar about the new monetary system, the government still want to decimalize the currency. They planned by issuing the low denomination coins of 1-5-10 Satang first.<br />\r\nInitially, Brussels Mint was chosen to mint the coins. Although the cost was high compared to other mints, but the quality of coins is more satisfying.<br />\r\nThe coins were monetized on November 11th, RS127/BE2451/AD1907.<br /><br />\r\nDue to WWI, no coins were ordered in BE2461/AD1918 and BE2462/AD1919.<br />\r\nIn BE2463/AD1920, 8_000_000 coins were ordered from Brussels Mint. The mint struck using 2461, 2462 (long tailed ๖), and 2463 dies. Then another 2_185_000 coins were ordered, making the mintage of these dates are only presumption.<br />\r\nAlso, 2_000_000 coins were ordered from Birmingham Mint, struck using 2462 (short tailed ๖) dies.<br />\r\nIn BE2464/AD1921, 5_220_000 coins were ordered from Birmingham Mint.<br />\r\nIn BE2465/AD1922, 7_780_000 coins were ordered from Birmingham Mint, struck using 2464 dies.<br />\r\nIn early yeas of Rama VII, due to economy depression after WWI, the coins are only ordered in BE2469/AD1926 from Brussels Mint.<br />\r\nIn BE2479/AD1936, coins were ordered from Brussels Mint, struck using prepared 2478 dies.<br />\r\nIn BE2480/AD1937, Sitthikan Mint was ready to make coins itself. 20_000_000 blanks were ordered from HENRY WIGGIN &amp; CO., LTD. Using 2480 dies, it is the only date mined in Siam. Design of the obverse was modified, making it more beautiful.<br />\r\nIn BE2482/AD1939, further 20_000_000 blanks were ordered from the same company, but WWII emerged and importation is cancelled.<br /><br />\r\nBrussels Mint used comma in date, while Birmingham Mint used dot.<br /><br />\r\nreferences: book &quot;Coinage of Siam&quot;<br />\r\n________<br /><br />\r\nDifferent obverse design by mint<br />\r\n<img src=\"https://en.numista.com/catalogue/images/615ef0472a966.jpg\" alt=\"\" width=\"1256\" height=\"461\" /><br />\r\n* minor differences between years exist for Brussels type<br /><br />\r\n2462 - Two types of reverse<br />\r\n<a href=\"https://en.numista.com/catalogue/images/56366aa2dbbde.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/56366aa2dbbde.jpg\" alt=\"\" width=\"200\" height=\"200\" /></a><a href=\"https://en.numista.com/catalogue/images/56366a89e2dcb.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/56366a89e2dcb.jpg\" alt=\"\" width=\"200\" height=\"200\" /></a><br />\r\nBrussel Mint　　　　　　　　Birmingham Mint<br />\r\n________<br /><br />\r\nMintage is from the book &quot;Coinage of Siam&quot;, which different from Krause.<br />\r\n＊ shows the year that has different mintage from two sources.<br />\r\nMintage in Krause:<br />\r\nRS127 - 7,000,000 ＊<br />\r\nRS128 - 4,000,000 ＊<br />\r\nRS129 - 4,000,000<br />\r\nRS131 - 2,000,000<br />\r\nBE2456 - 2,000,000<br />\r\nBE2457 - 2,000,000<br />\r\nBE2461 - 2,000,000<br />\r\nBE2462 - 2,000,000<br />\r\nBE2463 - 9,900,000 ＊<br />\r\nBE2464 - 13,000,000<br />\r\nBE2469 - 20,000,000<br />\r\nBE2478 - 10,000,000<br />\r\nBE2480 - 20,000,000",
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "36"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "195"
+    }
+  ],
+  "weight": 2,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain.",
+    "picture": "https://en.numista.com/catalogue/photos/thailande/2508-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/thailande/2508-180.jpg",
+    "picture_copyright": "gyoschak"
+  },
+  "mints": [
+    {
+      "id": 4211,
+      "name": "Bangkok"
+    },
+    {
+      "id": 18,
+      "name": "Heaton and Sons / The Mint Birmingham"
+    },
+    {
+      "id": 1338,
+      "name": "Royal Mint of Belgium"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

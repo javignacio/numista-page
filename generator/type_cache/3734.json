@@ -1,0 +1,126 @@
+{
+  "id": 3734,
+  "url": "https://en.numista.com/3734",
+  "title": "5 Pence - Elizabeth II (Windsurfing; reduced size)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "ile_de_man",
+    "name": "Isle of Man"
+  },
+  "min_year": 1990,
+  "max_year": 1993,
+  "ruler": [
+    {
+      "id": 3222,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 784,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Pence",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 428,
+      "name": "Pound",
+      "full_name": "Pound (decimalized, 1971-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 18,
+  "thickness": 1.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Raphael David Maklouf"
+    ],
+    "description": "Right facing couped bust of Queen Elizabeth II, wearing the George IV State Diadem, legend around, date below",
+    "lettering": "ISLE OF MAN  ELIZABETH II\r\nRDM\r\nPM\r\n1990",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/ile_de_man/57-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ile_de_man/57-180.jpg",
+    "picture_copyright": "M@verick"
+  },
+  "reverse": {
+    "description": "Windsurfer",
+    "lettering": "ellan vannin\r\nAA\r\n5",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Isle of Man\r\n5",
+    "picture": "https://en.numista.com/catalogue/photos/ile_de_man/58-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ile_de_man/58-180.jpg",
+    "picture_copyright": "M@verick"
+  },
+  "series": "1988 series",
+  "comments": "<p><u>The 1991 varietes:</u></p><p><a href=\"https://en.numista.com/catalogue/images/69f89c041a19e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/69f89c041a19e.jpg\"></a></p><p>&nbsp;</p><p><u>The 1993 varietes:</u></p><p>Currently, 4 different variations on the position of the AA mint mark have been recorded by Numista members. &nbsp;Although, more may exist according to 'Coins of the Isle of Man' by MJ Southall (<strong>SKU:</strong> 9780995738720).</p><figure class=\"image\"><img src=\"https://en.numista.com/forum/images/67a12145b138c.jpg\"></figure>",
+  "related_types": [
+    {
+      "id": 20737,
+      "title": "5 Pence - Elizabeth II (Windsurfing)",
+      "category": "coin",
+      "country": {
+        "code": "ile_de_man",
+        "name": "Isle of Man"
+      },
+      "minYear": 1988,
+      "maxYear": 1990
+    }
+  ],
+  "tags": [
+    "Monarch",
+    "Boat or watercraft"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "209.2"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "758"
+    }
+  ],
+  "weight": 3.25,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/ile_de_man/1962-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ile_de_man/1962-180.jpg",
+    "picture_copyright": "oneoftheones"
+  },
+  "mints": [
+    {
+      "id": 26,
+      "name": "Pobjoy Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

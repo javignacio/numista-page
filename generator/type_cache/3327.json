@@ -1,0 +1,126 @@
+{
+  "id": 3327,
+  "url": "https://en.numista.com/3327",
+  "title": "5 New Sheqalim",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "israel",
+    "name": "Israel"
+  },
+  "min_year": 1990,
+  "max_year": 2017,
+  "ruler": [
+    {
+      "id": 4056,
+      "name": "State of Israel",
+      "wikidata_id": "Q801"
+    }
+  ],
+  "value": {
+    "text": "5 New Sheqalim",
+    "numeric_value": 5,
+    "currency": {
+      "id": 183,
+      "name": "New Shekel",
+      "full_name": "New Shekel (1986-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24,
+  "thickness": 2.4,
+  "shape": "Dodecagonal (12-sided)",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Dov Lif"
+    ],
+    "description": "Capital of column; the emblem of the State of Israel; \"pearls\" along the border.",
+    "lettering": "ישראל",
+    "lettering_scripts": [
+      {
+        "name": "Hebrew"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/israel/1978-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/israel/1978-180.jpg",
+    "picture_copyright": "gef"
+  },
+  "reverse": {
+    "engravers": [
+      "Gabi Neumann"
+    ],
+    "description": "The denomination \"5 New Sheqalim\" in Hebrew, Arabic and English; the date in Hebrew; \"Israel\" in Hebrew, Arabic and English; \"pearls\" along the border.",
+    "lettering": "اسرائيل · ISRAEL · התש\"ן · ישראל \r\n5\r\nשקלים\r\nחדשים\r\nNEW SHEQALIM · ٥ شيقل جديد",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      },
+      {
+        "name": "Hebrew"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/israel/1979-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/israel/1979-180.jpg",
+    "picture_copyright": "gef"
+  },
+  "comments": "A few main groups are known, which differ by thickness of all details. Most noticeably differences are visible on reverse, where in addition the type <span style=\"font-weight:bold;\">E</span> has new spelling in Arabic.<br /><br />\r\n<span style=\"font-style:italic;\">Reverse</span><br />\r\nType <span style=\"font-weight:bold;\">A</span> - the first alif &#039;ا&#039; in &#039;إسرائيل&#039; higher than corner.<br />\r\nType <span style=\"font-weight:bold;\">B</span> - the first alif &#039;ا&#039; in &#039;إسرائيل&#039; lower than corner, all details thick.<br />\r\nType <span style=\"font-weight:bold;\">C</span> - the first alif &#039;ا&#039; in &#039;إسرائيل&#039; lower than corner, all details thinner.<br />\r\nType <span style=\"font-weight:bold;\">D</span> - the first alif &#039;ا&#039; in &#039;إسرائيل&#039; to corner.<br />\r\nType <span style=\"font-weight:bold;\">E</span> - the first alif &#039;ا&#039; with hamza &#039;ء&#039; in &#039;إسرائيل&#039; and points to corner.<br />\r\nPicture: © Images courtesy of Alexandr Prokofyev.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/61bf0be721256.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/61bf0be721256.jpg\" alt=\"\" width=\"157\" height=\"250\" /></a><br />\r\n<span style=\"font-style:italic;\">Note</span>. There are many other differences between groups, these are marks for easy attribution.<br /><br />\r\n<span style=\"font-style:italic;\">Combinations</span><br />\r\n<span style=\"font-weight:bold;\">A</span>: 5750.<br />\r\n<span style=\"font-weight:bold;\">B</span>: 5751, 5752, 5754, 5755, 5757-5760.<br />\r\n<span style=\"font-weight:bold;\">B</span> edge rounded: 5762.<br />\r\n<span style=\"font-weight:bold;\">C</span> edge rounded: 5757, 5759.<br />\r\n<span style=\"font-weight:bold;\">D</span>: 5765, 5766, 5768.<br />\r\n<span style=\"font-weight:bold;\">E</span>: 5769-5777.<br /><br />\r\n<span style=\"font-style:italic;\">Note</span>. Dies of Obv. show similar changes in thickness of details, which are considered as non-essential.<br /><br />\r\n<span style=\"font-style:italic;\">5757</span><br />\r\nDie <span style=\"font-weight:bold;\">B</span>, edge 12-sided, mint: Vantaa.<br />\r\nDie <span style=\"font-weight:bold;\">C</span>, edge rounded 12-sided, mint: Utrecht.<br />\r\nPicture: © Images courtesy of Alexandr Prokofyev.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/61cb905d23565.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/61cb905d23565.jpg\" alt=\"\" width=\"200\" height=\"154\" /></a>",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "207"
+    }
+  ],
+  "weight": 8.2,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 1540,
+      "name": "Jerusalem"
+    },
+    {
+      "id": 1299,
+      "name": "Korea Minting and Security Printing Corporation"
+    },
+    {
+      "id": 1334,
+      "name": "Mint of Finland"
+    },
+    {
+      "id": 1888,
+      "name": "Norwegian Mint"
+    },
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    },
+    {
+      "id": 23,
+      "name": "Royal Dutch Mint"
+    },
+    {
+      "id": 2,
+      "name": "State Mint of Stuttgart / State Mints of Baden-Württemberg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

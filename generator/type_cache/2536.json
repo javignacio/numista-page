@@ -1,0 +1,132 @@
+{
+  "id": 2536,
+  "url": "https://en.numista.com/2536",
+  "title": "500 Bolívares",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "venezuela",
+    "name": "Venezuela"
+  },
+  "min_year": 1998,
+  "max_year": 1999,
+  "ruler": [
+    {
+      "id": 4706,
+      "name": "Fourth Republic",
+      "wikidata_id": "Q21296156"
+    }
+  ],
+  "value": {
+    "text": "500 Bolivars",
+    "numeric_value": 500,
+    "currency": {
+      "id": 7,
+      "name": "Bolivar",
+      "full_name": "Bolivar (1879-2007)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2011-12-31"
+  },
+  "size": 28,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "A. Barre"
+    ],
+    "description": "Coat of arms. With legend at top, date and value at bottom.",
+    "lettering": "•REPÚBLICA DE VENEZUELA•\r\n1998 500 BOLÍVARES",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Venezuela Republic\r\n1998 500 Bolivares",
+    "picture": "https://en.numista.com/catalogue/photos/venezuela/10-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/venezuela/10-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Désiré-Albert Barre"
+    ],
+    "description": "Bust left, flanked with legend and engraver's name at base. Inside heptagon.",
+    "lettering": "BOLÍVAR LIBERTADOR\r\nBARRE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Bolivar Liberator",
+    "picture": "https://en.numista.com/catalogue/photos/venezuela/9-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/venezuela/9-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "Y#79.1<br />\r\nObverse:<br />\r\nBig letters,numbers and coat of arms.<a href=\"https://en.numista.com/catalogue/images/5a8037388fe07.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5a8037388fe07.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\nReverse:<br />\r\nBig letters, big bust,no mint mark.<a href=\"https://en.numista.com/catalogue/images/5a8037512cade.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5a8037512cade.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nY#79.2<br />\r\nObverse:<br />\r\nSmall letters,numbers and coat of arms.<a href=\"https://en.numista.com/catalogue/images/5a80377323c5f.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5a80377323c5f.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\nReverse:<br />\r\nSmall letters,small bust,with mint mark.<a href=\"https://en.numista.com/catalogue/images/5a80378c0f556.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5a80378c0f556.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nY# 79.2 was previously Y# 84.",
+  "tags": [
+    "Horse or equine",
+    "Military leader",
+    "Politician",
+    "Coat of Arms",
+    "Cornucopia"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "79"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "89"
+    },
+    {
+      "catalogue": {
+        "id": 2068,
+        "code": "NCV"
+      },
+      "number": "mv500bs-g"
+    }
+  ],
+  "weight": 8.4,
+  "orientation": "coin",
+  "edge": {
+    "description": "5 reeded segments with 22 grooves each"
+  },
+  "mints": [
+    {
+      "id": 4182,
+      "name": "Casa de la Moneda de Venezuela"
+    },
+    {
+      "id": 30,
+      "name": "Czech Mint"
+    },
+    {
+      "id": 1248,
+      "name": "Hungarian mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

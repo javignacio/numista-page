@@ -1,0 +1,130 @@
+{
+  "id": 3268,
+  "url": "https://en.numista.com/3268",
+  "title": "5 Colones",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "costa_rica",
+    "name": "Costa Rica"
+  },
+  "issuing_entity": {
+    "id": 907,
+    "name": "Central Bank of Costa Rica",
+    "wikidata_id": "Q4504273"
+  },
+  "min_year": 2005,
+  "max_year": 2016,
+  "ruler": [
+    {
+      "id": 3834,
+      "name": "Second Republic",
+      "wikidata_id": "Q800"
+    }
+  ],
+  "value": {
+    "text": "5 Colones",
+    "numeric_value": 5,
+    "currency": {
+      "id": 10,
+      "name": "Colón",
+      "full_name": "Colón (1896-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false,
+    "demonetization_date": "2026-07-01"
+  },
+  "size": 21.4,
+  "thickness": 1.14,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The arms of Costa Rica (seven stars representing the seven provinces, three smoking volcanoes for the three mountain ranges, two ships symbolizing the country's geographical situation between the Atlantic and Pacific ocean and sunrise on the left) with the country name above and the date below",
+    "lettering": "REPUBLICA DE COSTA RICA\r\n· 2008 ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Costa Rica",
+    "picture": "https://en.numista.com/catalogue/photos/costa_rica/536-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/costa_rica/536-180.jpg",
+    "picture_copyright": "gef"
+  },
+  "reverse": {
+    "description": "The value with numerals in number and in Braille at the center above coffee branches, abbreviation of the issuer below.",
+    "lettering": "5 \r\nCOLONES\r\n⠑\r\nB.C.C.R.",
+    "lettering_scripts": [
+      {
+        "name": "Braille"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "5\r\nColones\r\n⠑\r\nBanco Central de Costa Rica",
+    "lettering_translation": "5\r\nColones\r\n5\r\nCentral Bank of Costa Rica",
+    "picture": "https://en.numista.com/catalogue/photos/costa_rica/537-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/costa_rica/537-180.jpg",
+    "picture_copyright": "gef"
+  },
+  "comments": "<p>Due to inflation, these coins were no longer issued by the Central Bank starting in January 1st, 2020.</p><p>&nbsp;</p><p>Although these coins have been demonetized, they are still redeemable at the Central Bank of Costa Rica.</p>",
+  "tags": [
+    "Mountain",
+    "Coat of Arms",
+    "Wreath",
+    "Boat or watercraft"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "227b"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "88b"
+    },
+    {
+      "catalogue": {
+        "id": 2898,
+        "code": "Galst/Alfen"
+      },
+      "number": "X.22"
+    }
+  ],
+  "weight": 0.9,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    },
+    {
+      "id": 4816,
+      "name": "Mint of Costa Rica"
+    },
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

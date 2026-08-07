@@ -1,0 +1,113 @@
+{
+  "id": 9931,
+  "url": "https://en.numista.com/9931",
+  "title": "1 Krona - Carl XVI Gustaf (Separation from Finland)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "suede",
+    "name": "Sweden"
+  },
+  "min_year": 2009,
+  "max_year": 2009,
+  "ruler": [
+    {
+      "id": 2366,
+      "name": "Carl XVI Gustaf",
+      "wikidata_id": "Q45068",
+      "group": {
+        "id": 99,
+        "name": "House of Bernadotte"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Krona",
+    "numeric_value": 1,
+    "currency": {
+      "id": 18,
+      "name": "Krona",
+      "full_name": "Krona (1873-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2017-06-30"
+  },
+  "size": 25,
+  "thickness": 1.88,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Ernst Nordin"
+    ],
+    "description": "A portrait of King Carl XVI Gustaf in profile; below the artist's initials.",
+    "lettering": "CARL XVI GUSTAF · SVERIGES KONUNG\r\nEN\r\n2009",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Carl XVI Gustaf · King of Sweden",
+    "picture": "https://en.numista.com/catalogue/photos/suede/62af158b88d905.40490835-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suede/62af158b88d905.40490835-180.jpg",
+    "picture_copyright": "Fandhir"
+  },
+  "reverse": {
+    "engravers": [
+      "Annie Winblad Jakubowski"
+    ],
+    "description": "Many horizontal lines symbolically depicting the sea as a link connecting Sweden and Finland. Outside, along the rim the text with anniversary dates, the value and the letters S SI at right (S is the first letter of the place of issue, Stockholm; and SI are the initials of Stefan Ingves, Governor of the Riksbank).",
+    "lettering": "DEN UNDERBARA SAGAN OM ETT LAND PÅ ANDRA SIDAN HAFVET\r\nAWJ\r\nSVERIGE 1809 s 1KR SI 2009 FINLAND",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "The wonderful story about a country beyond the sea\r\nSweden-1809-1KR-2009-Finland",
+    "picture": "https://en.numista.com/catalogue/photos/suede/62af158ce54c80.36665963-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suede/62af158ce54c80.36665963-180.jpg",
+    "picture_copyright": "Fandhir"
+  },
+  "commemorated_topic": "200th Anniversary of War between Russia and Sweden - Separation from Finland",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "916"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "134"
+    }
+  ],
+  "weight": 7,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/suede/1842-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suede/1842-180.jpg",
+    "picture_copyright": "LindaAF"
+  },
+  "mints": [
+    {
+      "id": 1334,
+      "name": "Mint of Finland"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

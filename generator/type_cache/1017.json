@@ -1,0 +1,148 @@
+{
+  "id": 1017,
+  "url": "https://en.numista.com/1017",
+  "title": "1 Centavo (Patria o Muerte)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "cuba",
+    "name": "Cuba"
+  },
+  "min_year": 1983,
+  "max_year": 2020,
+  "ruler": [
+    {
+      "id": 4118,
+      "name": "Second Republic",
+      "wikidata_id": "Q241"
+    }
+  ],
+  "value": {
+    "text": "1 Centavo",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 148,
+      "name": "Cuban Peso",
+      "full_name": "Cuban Peso (moneda nacional, 1914-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 16.76,
+  "thickness": 1.4,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium (aluminium 97.15%, magnesium 2.5%, manganese 0.35%)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Charles Edward Barber"
+    ],
+    "description": "Cuban coat of arms. Circular legend with country name on top, circular legend with face value in letters. Line of denticles close to rim.",
+    "lettering": "REPUBLICA DE CUBA\r\n• UN CENTAVO •",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Cuba\r\nOne Centavo",
+    "picture": "https://en.numista.com/catalogue/photos/cuba/5fb97d4bada898.73829821-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/cuba/5fb97d4bada898.73829821-180.jpg",
+    "picture_copyright": "ARG Collectibles",
+    "picture_copyright_url": "http://www.argcollectibles.com"
+  },
+  "reverse": {
+    "engravers": [
+      "Charles Edward Barber"
+    ],
+    "description": "Value in Roman numeral within circle over a five-pointed star.\r\nLegend on top. Date on excergue, line of denticles close to rim.",
+    "lettering": "PATRIA O MUERTE\r\nI\r\n• 2010 •",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Fatherland or Death\r\n1 (Roman numeral)\r\n2010",
+    "picture": "https://en.numista.com/catalogue/photos/cuba/5fb97d4c0c4035.58407954-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/cuba/5fb97d4c0c4035.58407954-180.jpg",
+    "picture_copyright": "ARG Collectibles",
+    "picture_copyright_url": "http://www.argcollectibles.com"
+  },
+  "comments": "1982-1988 minted at Leningrado<br />\r\n1998-date minted at La Habana<br /><br />\r\nThis coin page was split from KM# 33.1 cause we understood the change of motto legend makes it more than a variant. On their side, Krause considers them as variants.<br /><br />\r\nMain variant differences:<br />\r\nObverse:<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/58c7e49e7c7f8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/58c7e49e7c7f8.jpg\" alt=\"\" width=\"199\" height=\"100\" /></a><br /><br />\r\nLeft is for 33.1 &amp; 33.2; right is for 33.3<br />\r\nOn newer design branches are shorter and are closer to shield, strip lines on bottom left of shield are more separated, and the plain ones are depressed; less detailed shield and dots between legends are bigger.<br /><br />\r\nReverse:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5b8215671ab27.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5b8215671ab27.jpg\" alt=\"\" width=\"200\" height=\"111\" /></a><a href=\"https://en.numista.com/catalogue/images/5b82157c41323.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5b82157c41323.jpg\" alt=\"\" width=\"200\" height=\"114\" /></a><br />\r\nOn left: 33.1 reads &quot;PATRIA Y LIBERTAD&quot;;<br />\r\nOn right: 33.2 &amp; 33.3 read &quot;PATRIA O MUERTE&quot;<br /><br />\r\nKnown variations on year issues:<br />\r\n2008: smaller date",
+  "related_types": [
+    {
+      "id": 246884,
+      "title": "1 Centavo (Patria y Libertad)",
+      "category": "coin",
+      "country": {
+        "code": "cuba",
+        "name": "Cuba"
+      },
+      "minYear": 1963,
+      "maxYear": 1982
+    }
+  ],
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "33.2"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "33.3"
+    },
+    {
+      "catalogue": {
+        "id": 984,
+        "code": "JMA"
+      },
+      "number": "20-26"
+    },
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "27"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "A31"
+    }
+  ],
+  "weight": 0.75,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 295,
+      "name": "Empresa Cubana de Acuñaciones"
+    },
+    {
+      "id": 7,
+      "name": "Saint Petersburg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,109 @@
+{
+  "id": 1904,
+  "url": "https://en.numista.com/1904",
+  "title": "50 Groschen",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "autriche",
+    "name": "Austria"
+  },
+  "min_year": 1946,
+  "max_year": 1955,
+  "ruler": [
+    {
+      "id": 149,
+      "name": "Second Republic",
+      "wikidata_id": "Q40"
+    }
+  ],
+  "value": {
+    "text": "50 Groschen",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 178,
+      "name": "Second Schilling",
+      "full_name": "Second Schilling (1945-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1961-06-02"
+  },
+  "size": 22,
+  "thickness": 1.65,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium (98.5% Aluminium, 1.5% Magnesium)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Austria coat of arms (an eagle carries the Austrian escutcheon)",
+    "lettering": "· REPUBLIK ·\r\nÖSTERREICH",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Austria",
+    "picture": "https://en.numista.com/catalogue/photos/autriche/66351690cbf314.81934859-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/autriche/66351690cbf314.81934859-180.jpg",
+    "picture_copyright": "Auktionen Frühwald",
+    "picture_copyright_url": "http://www.auktionen-fruehwald.com/"
+  },
+  "reverse": {
+    "description": "Austrian escutcheon and four ears",
+    "lettering": "FÜNFZIG\r\n50\r\n19 47\r\nGROSCHEN",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Fifty Groshen",
+    "picture": "https://en.numista.com/catalogue/photos/autriche/66351692265648.18331932-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/autriche/66351692265648.18331932-180.jpg",
+    "picture_copyright": "Auktionen Frühwald",
+    "picture_copyright_url": "http://www.auktionen-fruehwald.com/"
+  },
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "2870"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "69"
+    }
+  ],
+  "weight": 1.4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/autriche/3099-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/autriche/3099-180.jpg",
+    "picture_copyright": "Idolenz",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 232,
+      "name": "Münze Österreich"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

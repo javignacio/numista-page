@@ -1,0 +1,132 @@
+{
+  "id": 71,
+  "url": "https://en.numista.com/71",
+  "title": "3 Pence - Elizabeth II (1st portrait; without 'BRITT:OMN')",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1954,
+  "max_year": 1970,
+  "ruler": [
+    {
+      "id": 275,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 527,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "3 Pence",
+    "numeric_value": 0.0125,
+    "numerator": 1,
+    "denominator": 80,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1970)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1971-08-31"
+  },
+  "size": 21.74,
+  "thickness": 2.6,
+  "shape": "Dodecagonal (12-sided)",
+  "composition": {
+    "text": "Nickel brass (79% Cu, 20% Zn, 1% Ni)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Mary Gillick"
+    ],
+    "description": "Young laureate portrait of Queen Elizabeth II facing right, legend around.\r\n\r\nNote: without 'BRITT:OMN'",
+    "lettering": "+ ELIZABETH·II·DEI·GRATIA·REGINA·F:D:",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Elizabeth II Dei Gratia Regina Fidei Defensatrix",
+    "lettering_translation": "Elizabeth II by the Grace of God Queen Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/178-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/178-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "William Maving Gardner"
+    ],
+    "description": "A Tudor portcullis and side chains with crown above, dividing value, date below.",
+    "lettering": "W G\r\nTHREE 1967 PENCE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/180-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/180-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "House of Windsor (1917 to date), Elizabeth II (1952-2022), Pre-decimal issues (1953-70).<br /><br />\r\nThe standard weight of these coins was 105 grains.<br /><br />\r\nThe 1970-dated proof strikes were issued as part of the &#039;Last Sterling&#039; mint set which comprised<br />\r\nhalf crown to halfpenny and were produced over the course of several years:<br />\r\n01/04/71-31/03/72 = 69,763<br />\r\n01/04/72-31/03/73 = 586,554<br />\r\n01/04/73-31/03/74 = 74,293<br />\r\n01/04/74-31/03/75 = 19,814",
+  "related_types": [
+    {
+      "id": 6965,
+      "title": "3 Pence - Elizabeth II (1st portrait; with 'BRITT:OMN')",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1953,
+      "maxYear": 1953
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "900"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "4153"
+    }
+  ],
+  "weight": 6.8,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/6362-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/6362-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

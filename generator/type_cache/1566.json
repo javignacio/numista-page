@@ -1,0 +1,206 @@
+{
+  "id": 1566,
+  "url": "https://en.numista.com/1566",
+  "title": "5 Cents - Elizabeth II (4th Portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "australie",
+    "name": "Australia"
+  },
+  "min_year": 1999,
+  "max_year": 2019,
+  "ruler": [
+    {
+      "id": 1783,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 825,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Cents",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 243,
+      "name": "Dollar",
+      "full_name": "Dollar (1966-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 19.41,
+  "thickness": 1.3,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Ian Rank-Broadley"
+    ],
+    "description": "4th portrait of Queen Elizabeth II facing right wearing the Girls of Great Britain and Ireland Tiara",
+    "lettering": "ELIZABETH II \r\nAUSTRALIA 2000\r\nIRB",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/australie/65c4cbb57eb274.30709594-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/australie/65c4cbb57eb274.30709594-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "Stuart Devlin"
+    ],
+    "description": "Short beaked Echidna (Tachyglossus aculeatus) and value",
+    "lettering": "5\r\nSD",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/australie/65c4cbb6bf6869.92288849-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/australie/65c4cbb6bf6869.92288849-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/61751a248af28.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/61751a248af28.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nIn 1999 the RAM updated the standard Echidna (Spiny Anteater) 5 cent coin with the Ian Rank Broadley 4th Portrait of the Queen on the Obverse. The coin has also been issued in Uncirculated &amp; Proof Year Sets, WMF Berlin Money Fair Sets, and various Baby Uncirculated &amp; Proof sets. The last year this coin was released into circulation was 2019. From 2019 the Jody Clark 6th Portrait of Queen Elizabeth II has been used on the 5 cent coin. (Both 4th &amp; 6th Effigies were issued in 2019)<br /><br />\r\nA spectacular error coin was issued into circulation in 2007 when Double Headed coins were accidentally issued. It is not known how many were released but quite a few have been found.<br /><br />\r\nFine Silver (.999) Proof versions of the coin have been released in Fine Silver Proof Sets from 2003",
+  "related_types": [
+    {
+      "id": 70,
+      "title": "5 Cents - Elizabeth II (2nd Portrait)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 1966,
+      "maxYear": 1984
+    },
+    {
+      "id": 1567,
+      "title": "5 Cents - Elizabeth II (3rd Portrait)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 1985,
+      "maxYear": 1998
+    },
+    {
+      "id": 272948,
+      "title": "5 Cents - Elizabeth II (4th Portrait; Gold Proof)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 2001,
+      "maxYear": 2019
+    },
+    {
+      "id": 32195,
+      "title": "5 Cents - Elizabeth II (4th Portrait; Fine Silver Proof)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 2003,
+      "maxYear": 2019
+    },
+    {
+      "id": 168318,
+      "title": "5 Cents - Elizabeth II (1st Portrait)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 2019,
+      "maxYear": 2019
+    },
+    {
+      "id": 175049,
+      "title": "5 Cents - Elizabeth II (6th Portrait)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 2019,
+      "maxYear": 2023
+    },
+    {
+      "id": 410263,
+      "title": "5 Cents - Charles III (1st Portrait)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 2024,
+      "maxYear": 2026
+    }
+  ],
+  "tags": [
+    "Other animal"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "401"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "417"
+    }
+  ],
+  "weight": 2.83,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/australie/698b51aee7d282.32533282-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/australie/698b51aee7d282.32533282-180.jpg",
+    "picture_copyright": "Mike Bentley",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 28,
+      "name": "Royal Australian Mint"
+    },
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    },
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

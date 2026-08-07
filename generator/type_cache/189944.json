@@ -1,0 +1,120 @@
+{
+  "id": 189944,
+  "url": "https://en.numista.com/189944",
+  "title": "25 Pesos Dominicanos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "republique_dominicaine",
+    "name": "Dominican Republic (1844-date)"
+  },
+  "min_year": 2017,
+  "max_year": 2023,
+  "ruler": [
+    {
+      "id": 4033,
+      "name": "Fourth Republic",
+      "wikidata_id": "Q786"
+    }
+  ],
+  "value": {
+    "text": "25 Pesos",
+    "numeric_value": 25,
+    "currency": {
+      "id": 152,
+      "name": "Peso oro",
+      "full_name": "Peso oro (1937-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 29,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat-of-Arms of the Dominican Republic, State name in Spanish, and denomination.",
+    "lettering": "REPÚBLICA DOMINICANA\r\nDIOS PATRIA LIBERTAD\r\n25\r\nREPÚBLICA DOMINICANA\r\nPESOS \r\nDOMINICANOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Dominican Republic (Spanish)",
+    "picture": "https://en.numista.com/catalogue/photos/republique_dominicaine/68d963070158d0.95919926-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/republique_dominicaine/68d963070158d0.95919926-180.jpg",
+    "picture_copyright": "Ponpandi Perumal",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Portrait of Gregorio Luperón (September 8, 1839 - May 21, 1897) facing left.",
+    "lettering": "BANCO CENTRAL DE LA REPÚBLICA DOMINICANA\r\nLUPERÓN \r\nHÉROE DE LA RESTAURACIÓN\r\n2023",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Bank of the Dominican Republic (Spanish)\r\nLuperón, refering to Gregorio Luperon\r\nHero of the Restoration (Spanish)",
+    "picture": "https://en.numista.com/catalogue/photos/republique_dominicaine/68d96308c3ffd6.53018032-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/republique_dominicaine/68d96308c3ffd6.53018032-180.jpg",
+    "picture_copyright": "Ponpandi Perumal",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "related_types": [
+    {
+      "id": 3563,
+      "title": "25 Pesos",
+      "category": "coin",
+      "country": {
+        "code": "republique_dominicaine",
+        "name": "Dominican Republic (1844-date)"
+      },
+      "minYear": 2005,
+      "maxYear": 2017
+    }
+  ],
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "127"
+    }
+  ],
+  "weight": 8.56,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded.",
+    "picture": "https://en.numista.com/catalogue/photos/republique_dominicaine/63610c76585913.89935544-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/republique_dominicaine/63610c76585913.89935544-180.jpg",
+    "picture_copyright": "Rhonan",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 1262,
+      "name": "Kremnica"
+    },
+    {
+      "id": 27,
+      "name": "Mint of Poland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

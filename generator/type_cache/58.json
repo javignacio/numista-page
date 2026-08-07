@@ -1,0 +1,120 @@
+{
+  "id": 58,
+  "url": "https://en.numista.com/58",
+  "title": "2 Euro Cents",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "autriche",
+    "name": "Austria"
+  },
+  "min_year": 2002,
+  "max_year": 2026,
+  "ruler": [
+    {
+      "id": 149,
+      "name": "Second Republic",
+      "wikidata_id": "Q40"
+    }
+  ],
+  "value": {
+    "text": "2 Euro Cents",
+    "numeric_value": 0.02,
+    "currency": {
+      "id": 9002,
+      "name": "Euro",
+      "full_name": "Euro (2002-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2002-01-01"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 18.75,
+  "thickness": 1.67,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Josef Kaiser"
+    ],
+    "description": "An edelweiss, symbolising a duty to the environment, is encircled by the face value, heraldic hatchings representing the Austrian flag and the twelve stars of Europe",
+    "lettering": "ZWEI EURO CENT 2013",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "TWO EURO CENT 2013",
+    "picture": "https://en.numista.com/catalogue/photos/autriche/621339f8972019.30788998-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/autriche/621339f8972019.30788998-180.jpg",
+    "picture_copyright": "Mike Bentley",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Luc Luycx"
+    ],
+    "description": "A globe, next to the face value, shows Europe in relation to Africa and Asia",
+    "lettering": "2 EURO CENT LL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/autriche/621339f98e9cc9.26512080-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/autriche/621339f98e9cc9.26512080-180.jpg",
+    "picture_copyright": "Mike Bentley",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p><a href=\"https://en.numista.com/catalogue/images/686a6025d989f.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686a6025d989f.jpg\"></a><br><br>In 2017 old and new designs circulated together.</p><p>Only the new version circulated from 2018.&nbsp;</p><p><br>Edelweiss Flower Binomial Name: Leontopodium alpinum</p>",
+  "tags": [
+    "Map",
+    "Globe",
+    "Flower"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "3083"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "278"
+    }
+  ],
+  "weight": 3.06,
+  "orientation": "medal",
+  "edge": {
+    "description": "Smooth with a groove running circumferentially around the edge of the coin",
+    "picture": "https://en.numista.com/catalogue/photos/autriche/3268-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/autriche/3268-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 232,
+      "name": "Münze Österreich"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

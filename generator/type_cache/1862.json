@@ -1,0 +1,89 @@
+{
+  "id": 1862,
+  "url": "https://en.numista.com/1862",
+  "title": "5 Ariary (motto B)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "madagascar",
+    "name": "Madagascar"
+  },
+  "min_year": 1994,
+  "max_year": 1996,
+  "ruler": [
+    {
+      "id": 820,
+      "name": "Third Republic",
+      "wikidata_id": "Q7784940"
+    }
+  ],
+  "value": {
+    "text": "5 Ariary",
+    "numeric_value": 5,
+    "currency": {
+      "id": 80,
+      "name": "Franc",
+      "full_name": "Franc (1963-2004)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Star above value within 3/4 wreath",
+    "lettering": "BANKY FOIBEN'I MADAGASIKARA\r\n5 ariary\r\n1996",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/madagascar/31-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/madagascar/31-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Rice plant within circle",
+    "lettering": "ARIARY DIMY\r\nTANINDRAZANA\r\nFAHAFAHANA\r\nFAHAMARINANA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Fatherland-Liberty-Justice",
+    "picture": "https://en.numista.com/catalogue/photos/madagascar/30-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/madagascar/30-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "In the circulating currencies of 5, 10, 20 and 50 Ariary, the coins have been using a different motto according to the years of issue:<br />\r\n<ul><li><span style=\"font-weight:bold;\">MOTTO A</span> is “TANINDRAZANA - TOLOM-PIAVOTANA-FAHAFAHANA”. It means “Homeland-Revolution-Liberty”. This was used on: 10 and 20 Ariary of 1978 and 1983 and 5, 10, 20, and 50 Ariary of 1992.<br />\r\n</li><li><span style=\"font-weight:bold;\">MOTTO B</span> is “TANINDRAZANA-FAHAFAHANA-FAHAMARINANA”. It means “Homeland-Liberty-Justice”. This was used on: 5 and 20 Ariary of 1994 and 5 and 50 Ariary of 1996.<br />\r\n</li><li><span style=\"font-weight:bold;\">MOTTO C</span> is “TANINDRAZANA-FAHAFAHANA-FANDROSOANA”. It means “Homeland-Liberty-Progress”. This has been used on 10 and 20 Ariary of 1999 and 50 Ariary of 2005.<br />\r\n</li><li><span style=\"font-weight:bold;\">MOTTO D</span> is “FITIAVANA-TANINDRAZANA- FANDROSOANA”. It means “Affection-Homeland-Progress”. Up to now this has been used on 10 and 50 Ariary of 2016.<br />\r\n</li></ul><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5b67f6cfb7dab.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5b67f6cfb7dab.jpg\" alt=\"\" width=\"166\" height=\"250\" /></a><br />\r\n© Paul Baker<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5cf6de27b36a0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5cf6de27b36a0.jpg\" alt=\"\" width=\"200\" height=\"80\" /></a>",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "23"
+    }
+  ],
+  "weight": 4.7,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

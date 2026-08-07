@@ -1,0 +1,117 @@
+{
+  "id": 2769,
+  "url": "https://en.numista.com/2769",
+  "title": "1 Krone - Haakon VII",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "norvege",
+    "name": "Norway"
+  },
+  "min_year": 1951,
+  "max_year": 1957,
+  "ruler": [
+    {
+      "id": 449,
+      "name": "Haakon VII",
+      "wikidata_id": "Q154927",
+      "group": {
+        "id": 358,
+        "name": "House of Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Krone",
+    "numeric_value": 1,
+    "currency": {
+      "id": 16,
+      "name": "Krone",
+      "full_name": "Krone (1875-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 25,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% copper, 25% nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Øivind Hansen"
+    ],
+    "description": "Crowned monogram of Haakon VII. Surrounded by inscription. Mintmark below monogram. Beaded ring on the rim.",
+    "lettering": "HAAKON DEN SJUENDE NORGES KONGE\r\nH7\r\n⚒",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Haakon the Seventh, King of Norway",
+    "picture": "https://en.numista.com/catalogue/photos/norvege/64c97f0e5a67f7.15932293-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/64c97f0e5a67f7.15932293-180.jpg",
+    "picture_copyright": "Elvi75"
+  },
+  "reverse": {
+    "designers": [
+      "Øivind Hansen"
+    ],
+    "description": "Crowned shield with a crowned norwegian lion holding a halberd and facing left. Inscription above the crown. Value below the shield. Date divided by shield. Beaded ring on the rim.",
+    "lettering": "NORGE\r\n19 | 55\r\n1 KRONE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Norway",
+    "picture": "https://en.numista.com/catalogue/photos/norvege/64c97f0ff3ea52.00963032-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/64c97f0ff3ea52.00963032-180.jpg",
+    "picture_copyright": "Elvi75"
+  },
+  "comments": "<p>KM#397.1 has thin border dentilations (1951).<br>KM#397.2 has thick border dentilations (1953-1957).</p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/674413f55f8ec.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/674413f55f8ec.jpg\"></a></p>",
+  "tags": [
+    "Crown",
+    "Coat of Arms",
+    "Monogram"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "397"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "55"
+    }
+  ],
+  "weight": 7,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain.",
+    "picture": "https://en.numista.com/catalogue/photos/norvege/67886d9f150bd8.33525559-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/67886d9f150bd8.33525559-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 1888,
+      "name": "Norwegian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,129 @@
+{
+  "id": 7465,
+  "url": "https://en.numista.com/7465",
+  "title": "50 Piastres / Qirsh (non-magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "soudan",
+    "name": "Sudan"
+  },
+  "min_year": 2006,
+  "max_year": 2006,
+  "ruler": [
+    {
+      "id": 4153,
+      "name": "Republic",
+      "wikidata_id": "Q1049"
+    }
+  ],
+  "value": {
+    "text": "50 Piastres",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 470,
+      "name": "Second pound",
+      "full_name": "Second pound (2007-2011)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 24,
+  "thickness": 1.9,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: brass centre in copper-nickel ring"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Dove in flight below the name of the bank",
+    "lettering": "CENTRAL BANK OF SUDAN\r\nبنك السودان المركزي",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/soudan/234-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/soudan/234-180.jpg",
+    "picture_copyright": "coincrazy2009"
+  },
+  "reverse": {
+    "description": "Value",
+    "lettering": "FIFTY PIASTRES\r\n۵۰\r\n2006 ٢٠٠٦\r\nخمسون قرشا",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/soudan/235-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/soudan/235-180.jpg",
+    "picture_copyright": "coincrazy2009"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/5d8a053f7a5d6.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d8a053f7a5d6.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nCoarse reeding edge (found in non-magnetic coins, or magnetic coins; both with Straight top stroke of 6), between two fine reeding edges (found in magnetic coins only - Curved top stroke of 6)<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5648eae22f1c2.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5648eae22f1c2.png\" alt=\"\" width=\"200\" height=\"62\" /></a><br />\r\n© Emad<br /><br />\r\nExtra alloys error:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5b57e7ed968e2.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5b57e7ed968e2.jpg\" alt=\"\" width=\"200\" height=\"215\" /></a><br />\r\n© Akadotour",
+  "related_types": [
+    {
+      "id": 77319,
+      "title": "50 Piastres / Qirsh (magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "soudan",
+        "name": "Sudan"
+      },
+      "minYear": 2006,
+      "maxYear": 2006
+    }
+  ],
+  "tags": [
+    "Bird"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "123"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "105"
+    },
+    {
+      "catalogue": {
+        "id": 308,
+        "code": "CBOS"
+      },
+      "number": "BOS-G-2006-1"
+    }
+  ],
+  "weight": 6,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded (coarse reeding)",
+    "picture": "https://en.numista.com/catalogue/photos/soudan/632-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/soudan/632-180.jpg",
+    "picture_copyright": "Emad"
+  },
+  "mints": [
+    {
+      "id": 1322,
+      "name": "Omdurman"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

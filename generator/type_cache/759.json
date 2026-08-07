@@ -1,0 +1,149 @@
+{
+  "id": 759,
+  "url": "https://en.numista.com/759",
+  "title": "5 Francs (French text)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "belgique",
+    "name": "Belgium"
+  },
+  "min_year": 1948,
+  "max_year": 1981,
+  "ruler": [
+    {
+      "id": 1169,
+      "name": "Baudouin I",
+      "wikidata_id": "Q12976",
+      "group": {
+        "id": 530,
+        "name": "House of Belgium"
+      }
+    },
+    {
+      "id": 1168,
+      "name": "Leopold III",
+      "wikidata_id": "Q12973",
+      "group": {
+        "id": 530,
+        "name": "House of Belgium"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Francs",
+    "numeric_value": 5,
+    "currency": {
+      "id": 72,
+      "name": "Franc",
+      "full_name": "Franc (1832-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1987-12-16"
+  },
+  "size": 24,
+  "thickness": 1.75,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Marcel Rau"
+    ],
+    "description": "Crowned oak branch dividing value, legend in French below.",
+    "lettering": "5 FR\r\n= BELGIQUE =",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Francs",
+    "lettering_translation": "Belgium",
+    "picture": "https://en.numista.com/catalogue/photos/belgique/695a3f2f728b68.83390400-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/belgique/695a3f2f728b68.83390400-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "reverse": {
+    "engravers": [
+      "Marcel Rau"
+    ],
+    "description": "Head of Ceres facing left, date left between two four-pointed stars, cornucopia right, designer below.",
+    "lettering": "* 1977 *\r\nRAU",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/belgique/695a3f319b5453.00089760-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/belgique/695a3f319b5453.00089760-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "comments": "<p>Two main groups of Reverse are known.<br><br><i>Reverse</i><br>Die <strong>A</strong> - first numeral in date '1' with short nose.<br>Die <strong>B</strong> - first numeral in date '1' with long nose.<br><a href=\"https://en.numista.com/catalogue/images/5f6656b296e8b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5f6656b296e8b.jpg\" alt=\"\"></a><br><br><i>Combinations</i><br>Die <strong>A</strong> 1948-1974, 1976-1981.<br>Die <strong>B</strong> 1975.<br><br><i>Note. </i>In 1961, 1971 and 1981 the style of second numeral '1' in date is with long nose, being the first with short one. It is not clear, why the appearance of numeral '1' was not consistent during the emission and the change of '1' happened just for one year in 1975.<br><br>There are different types of edge.<br><a href=\"https://en.numista.com/catalogue/images/6442c482a65cc.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6442c482a65cc.jpg\" alt=\"\"></a><br><br>KM# 134.1 = Coin alignment<br>KM# 134.2 = Medal alignment</p><p>&nbsp;</p><p>It's also common over time for these coins to have lamination errors, where the surface appears to be peeling off. &nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/682c9aafd4d99.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/682c9aafd4d99.jpg\"></a></p>",
+  "related_types": [
+    {
+      "id": 1249,
+      "title": "5 Francs (Dutch text)",
+      "category": "coin",
+      "country": {
+        "code": "belgique",
+        "name": "Belgium"
+      },
+      "minYear": 1948,
+      "maxYear": 1981
+    }
+  ],
+  "tags": [
+    "Mythology",
+    "Crown",
+    "Cornucopia"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "134"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "106"
+    },
+    {
+      "catalogue": {
+        "id": 192,
+        "code": "LA"
+      },
+      "number": "BFM-137"
+    }
+  ],
+  "weight": 6,
+  "orientation": "variable",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/belgique/5fb2285daa28d2.88596984-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/belgique/5fb2285daa28d2.88596984-180.jpg",
+    "picture_copyright": "Fireberg",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 1338,
+      "name": "Royal Mint of Belgium"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

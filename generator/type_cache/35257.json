@@ -1,0 +1,76 @@
+{
+  "id": 35257,
+  "url": "https://en.numista.com/35257",
+  "title": "1 Real (large type)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "chili",
+    "name": "Chile"
+  },
+  "min_year": 1838,
+  "max_year": 1842,
+  "ruler": [
+    {
+      "id": 3299,
+      "name": "Republic",
+      "wikidata_id": "Q298"
+    }
+  ],
+  "value": {
+    "text": "1 Real",
+    "numeric_value": 1,
+    "currency": {
+      "id": 1203,
+      "name": "Real",
+      "full_name": "Real (1541-1852)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 21.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.902)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chili/645-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/645-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chili/648-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/648-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "94"
+    }
+  ],
+  "weight": 3.35,
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

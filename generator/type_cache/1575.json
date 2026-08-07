@@ -1,0 +1,123 @@
+{
+  "id": 1575,
+  "url": "https://en.numista.com/1575",
+  "title": "10 Cents - George VI",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "hong_kong",
+    "name": "Hong Kong"
+  },
+  "min_year": 1948,
+  "max_year": 1951,
+  "ruler": [
+    {
+      "id": 922,
+      "name": "George VI",
+      "wikidata_id": "Q280856",
+      "group": {
+        "id": 791,
+        "name": "British colony"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Cents",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 48,
+      "name": "Dollar",
+      "full_name": "Dollar (1863-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 20.6,
+  "thickness": 1.96,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass (79% copper, 20% zinc, 1% nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Percy Metcalfe"
+    ],
+    "description": "Crowned bust facing left",
+    "lettering": "KING GEORGE THE SIXTH",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/hong_kong/408-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hong_kong/408-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "reverse": {
+    "description": "Chinese value within beaded circle, date lower right",
+    "lettering": "• HONG – KONG •\r\n　香\r\n毫  •  一\r\n　港\r\nTEN CENTS 1950",
+    "lettering_scripts": [
+      {
+        "name": "Chinese"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Hong Kong\nTen Cents",
+    "picture": "https://en.numista.com/catalogue/photos/hong_kong/409-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hong_kong/409-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "related_types": [
+    {
+      "id": 1574,
+      "title": "10 Cents - Elizabeth II (1st portrait; security edge)",
+      "category": "coin",
+      "country": {
+        "code": "hong_kong",
+        "name": "Hong Kong"
+      },
+      "minYear": 1955,
+      "maxYear": 1968
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "25"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "17"
+    }
+  ],
+  "weight": 4.5359,
+  "orientation": "medal",
+  "edge": {
+    "description": "Security edge",
+    "picture": "https://en.numista.com/catalogue/photos/hong_kong/694ad66b6028c1.77069466-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hong_kong/694ad66b6028c1.77069466-180.jpg",
+    "picture_copyright": "ZacUK"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

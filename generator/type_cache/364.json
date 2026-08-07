@@ -1,0 +1,135 @@
+{
+  "id": 364,
+  "url": "https://en.numista.com/364",
+  "title": "25 Cents - Elizabeth II (2nd portrait modified)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "canada",
+    "name": "Canada"
+  },
+  "min_year": 1979,
+  "max_year": 1989,
+  "ruler": [
+    {
+      "id": 2095,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 827,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "25 Cents",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 44,
+      "name": "Dollar",
+      "full_name": "Dollar (1858-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23.88,
+  "thickness": 1.58,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel (99.9% nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Arnold Machin"
+    ],
+    "description": "Bust of Queen Elizabeth II, as at 37 years of age, wearing tiara, facing right.",
+    "lettering": "ELIZABETH II  D·G·REGINA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "ELIZABETH II DEI GRATIA REGINA",
+    "lettering_translation": "Elizabeth II Queen by the grace of God",
+    "picture": "https://en.numista.com/catalogue/photos/canada/5efe08d72c2c63.46987184-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/5efe08d72c2c63.46987184-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Emanuel Otto Hahn"
+    ],
+    "description": "A caribou is accompanied with the face value and surrounded with the inscription \"CANADA\".",
+    "lettering": "CANADA 1989\r\n25\r\nCents\r\nH",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/canada/5efe08d7869b12.86169058-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/5efe08d7869b12.86169058-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p>“Starting with the 1979 issue, and as part of a general standardization of coinage, the portrait of the Queen was reduced. The aim was to make the size of the portrait proportional to the diameter of the coin, whatever the denomination. This obverse is not the same as that used for the 1973 G.R.C. commemoration.” - Standard Charlton Catalogue Volume I</p><p>“As part of the design changes in the early 1980s, the position of the pearls on the obverse has been modified.” - Standard Charlton catalog Volume I&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/6745ed374f105.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6745ed374f105.jpg\"></a></p><p>“In 1981 the Royal Canadian Mint revised its product line, adding a Proof finish to its offerings. Numismatic proofs were issued on standard nickel plates.” - Charlton Standard Catalogue Volume I&nbsp;</p>",
+  "related_types": [
+    {
+      "id": 3863,
+      "title": "25 Cents - Elizabeth II (2nd portrait, Nickel)",
+      "category": "coin",
+      "country": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "minYear": 1968,
+      "maxYear": 1978
+    }
+  ],
+  "tags": [
+    "Deer or cervid"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "74"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "62b.3"
+    }
+  ],
+  "weight": 5.05,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/canada/69a4747813b398.51062575-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/69a4747813b398.51062575-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 19,
+      "name": "Royal Canadian Mint of Ottawa"
+    },
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

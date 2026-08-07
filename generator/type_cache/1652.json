@@ -1,0 +1,121 @@
+{
+  "id": 1652,
+  "url": "https://en.numista.com/1652",
+  "title": "500 Won",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "coree_du_sud",
+    "name": "South Korea"
+  },
+  "issuing_entity": {
+    "id": 687,
+    "name": "Bank of Korea",
+    "wikidata_id": "Q485531"
+  },
+  "min_year": 1982,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 3992,
+      "name": "Republic",
+      "wikidata_id": "Q884"
+    }
+  ],
+  "value": {
+    "text": "500 Won",
+    "numeric_value": 500,
+    "currency": {
+      "id": 196,
+      "name": "New won",
+      "full_name": "New won (1962-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1982-06-12"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 26.5,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Oh Dong-hwan"
+    ],
+    "description": "Flying Manchurian crane and the value below in Korean.",
+    "lettering": "오백원",
+    "lettering_scripts": [
+      {
+        "name": "Hangul"
+      }
+    ],
+    "lettering_translation": "Five hundred won",
+    "picture": "https://en.numista.com/catalogue/photos/coree_du_sud/5e30f43f539af1.02024576-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/5e30f43f539af1.02024576-180.jpg",
+    "picture_copyright": "gdch6ng",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "The value in numerals below the date and above the issuer name, in Korean.",
+    "lettering": "2002\r\n500\r\n한국은행",
+    "lettering_scripts": [
+      {
+        "name": "Hangul"
+      }
+    ],
+    "lettering_translation": "Bank of Korea",
+    "picture": "https://en.numista.com/catalogue/photos/coree_du_sud/5e30f43fdec590.98245203-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/5e30f43fdec590.98245203-180.jpg",
+    "picture_copyright": "gdch6ng",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "The red-crowned crane is also called the Manchurian crane or Japanese crane (Binomial Name: Grus japonensis).",
+  "tags": [
+    "Bird"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "27"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "82"
+    }
+  ],
+  "weight": 7.7,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/coree_du_sud/69b07174e1ffb8.91737549-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/69b07174e1ffb8.91737549-180.jpg",
+    "picture_copyright": "Saber82"
+  },
+  "mints": [
+    {
+      "id": 1299,
+      "name": "Korea Minting and Security Printing Corporation"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

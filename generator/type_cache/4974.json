@@ -1,0 +1,157 @@
+{
+  "id": 4974,
+  "url": "https://en.numista.com/4974",
+  "title": "10 Guaraníes",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "paraguay",
+    "name": "Paraguay"
+  },
+  "issuing_entity": {
+    "id": 935,
+    "name": "Central Bank of Paraguay",
+    "wikidata_id": "Q4504275"
+  },
+  "min_year": 1975,
+  "max_year": 1976,
+  "ruler": [
+    {
+      "id": 4650,
+      "name": "Republic",
+      "wikidata_id": "Q733"
+    }
+  ],
+  "value": {
+    "text": "10 Guaraníes",
+    "numeric_value": 10,
+    "currency": {
+      "id": 87,
+      "name": "Guarani",
+      "full_name": "Guarani (1944-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2014-01-17"
+  },
+  "size": 22,
+  "thickness": 1.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Name of the country, portrait of general Garay",
+    "lettering": "REPUBLICA DEL PARAGUAY\r\nGRAL. GARAY",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Paraguay\r\nGeneral Garay",
+    "picture": "https://en.numista.com/catalogue/photos/paraguay/696d63c5638d23.06458975-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/paraguay/696d63c5638d23.06458975-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "reverse": {
+    "description": "Cow head left and value with year of issue below",
+    "lettering": "10 GUARANIES\r\n1976",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/paraguay/696d63c5ea4290.07885104-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/paraguay/696d63c5ea4290.07885104-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "comments": "<p>These were among some of the first foreign coins minted by the Casa da Moeda do Brasil.</p>",
+  "related_types": [
+    {
+      "id": 172033,
+      "title": "10 Guaraníes (Gold FAO)",
+      "category": "coin",
+      "country": {
+        "code": "paraguay",
+        "name": "Paraguay"
+      },
+      "minYear": 1976,
+      "maxYear": 1976
+    },
+    {
+      "id": 4975,
+      "title": "10 Guaraníes (FAO)",
+      "category": "coin",
+      "country": {
+        "code": "paraguay",
+        "name": "Paraguay"
+      },
+      "minYear": 1978,
+      "maxYear": 1988
+    },
+    {
+      "id": 11619,
+      "title": "10 Guaraníes (FAO)",
+      "category": "coin",
+      "country": {
+        "code": "paraguay",
+        "name": "Paraguay"
+      },
+      "minYear": 1990,
+      "maxYear": 1990
+    },
+    {
+      "id": 5023,
+      "title": "10 Guaraníes (FAO)",
+      "category": "coin",
+      "country": {
+        "code": "paraguay",
+        "name": "Paraguay"
+      },
+      "minYear": 1996,
+      "maxYear": 1996
+    }
+  ],
+  "tags": [
+    "Cow or bovine",
+    "Military leader"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "153"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "172"
+    }
+  ],
+  "weight": 4.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/paraguay/696d620c7430e2.36825454-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/paraguay/696d620c7430e2.36825454-180.jpg",
+    "picture_copyright": "Dieter83"
+  },
+  "mints": [
+    {
+      "id": 1335,
+      "name": "Mint of Brazil"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

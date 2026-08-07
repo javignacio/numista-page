@@ -1,0 +1,118 @@
+{
+  "id": 1791,
+  "url": "https://en.numista.com/1791",
+  "title": "5 Cents (SUID-AFRIKA - SOUTH AFRICA)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "afrique_du_sud",
+    "name": "South Africa"
+  },
+  "min_year": 1970,
+  "max_year": 1989,
+  "ruler": [
+    {
+      "id": 634,
+      "name": "Republic",
+      "wikidata_id": "Q258"
+    }
+  ],
+  "value": {
+    "text": "5 Cents",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 156,
+      "name": "Rand",
+      "full_name": "Rand (1961-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 17.35,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Tommy Sasseen",
+      "Arthur Sutherland"
+    ],
+    "description": "South Africa coat of arms with the motto \"Ex Unitate Vires\"",
+    "lettering": "SOUTH AFRICA · SUID-AFRIKA\r\nEX UNITATE VIRES\r\n1981\r\nT.S.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Power Through Unity",
+    "picture": "https://en.numista.com/catalogue/photos/afrique_du_sud/29-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/29-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Tommy Sasseen"
+    ],
+    "description": "Blue crane",
+    "lettering": "5c\r\nT.S.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/afrique_du_sud/30-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/30-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "Obverse engraver initials varieties exist:<br />\r\n1970-83 - &#039;T.S.&#039; below base of Coat of Arms right hand side (Tommy Sasseen)<br />\r\n1984 - no engraver initials (Arthur Sutherland)<br />\r\n1985-89 - &#039;A.L.S.&#039; below base of Coat of Arms left hand side (Arthur Sutherland)",
+  "tags": [
+    "Bird",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "84"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "123"
+    }
+  ],
+  "weight": 2.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/afrique_du_sud/6978c460b525d3.60852283-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/6978c460b525d3.60852283-180.jpg",
+    "picture_copyright": "CyrusPamelaOne",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 1872,
+      "name": "Pretoria"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

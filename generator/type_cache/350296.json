@@ -1,0 +1,106 @@
+{
+  "id": 350296,
+  "url": "https://en.numista.com/350296",
+  "title": "1000 Soʻm",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "ouzbekistan",
+    "name": "Uzbekistan"
+  },
+  "issuing_entity": {
+    "id": 561,
+    "name": "Central Bank of Uzbekistan",
+    "wikidata_id": "Q4504278"
+  },
+  "min_year": 2022,
+  "max_year": 2022,
+  "ruler": [
+    {
+      "id": 1320,
+      "name": "Republic",
+      "wikidata_id": "Q265"
+    }
+  ],
+  "value": {
+    "text": "1000 Soʻm",
+    "numeric_value": 1000,
+    "currency": {
+      "id": 188,
+      "name": "Second soʻm",
+      "full_name": "Second soʻm (1994-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 26.27,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: brass plated steel centre in nickel ring"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "National Coat of Arms, date below",
+    "lettering": "OʻZBEKISTON MARKAZIY BANKI\r\n• 2022 •",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Bank of Uzbekistan",
+    "picture": "https://en.numista.com/catalogue/photos/ouzbekistan/63c713597fd1d9.00672561-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ouzbekistan/63c713597fd1d9.00672561-180.jpg",
+    "picture_copyright": "Varjat",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Center of Islamic Civilization in Tashkent, denomination below.",
+    "lettering": "ISLOM SIVILIZATSIYASI MARKAZI\r\n\r\n1000\r\nSOʻM",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Center of Islamic Civilization",
+    "picture": "https://en.numista.com/catalogue/photos/ouzbekistan/63c71359f21571.14185433-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ouzbekistan/63c71359f21571.14185433-180.jpg",
+    "picture_copyright": "Varjat",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "tags": [
+    "Bird",
+    "Fantasy animal",
+    "Museum",
+    "Coat of Arms",
+    "Sun"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "40"
+    }
+  ],
+  "weight": 7.3,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/ouzbekistan/68f36cec965b75.70616294-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ouzbekistan/68f36cec965b75.70616294-180.jpg",
+    "picture_copyright": "Vidushi",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

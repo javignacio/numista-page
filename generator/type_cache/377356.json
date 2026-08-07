@@ -1,0 +1,147 @@
+{
+  "id": 377356,
+  "url": "https://en.numista.com/377356",
+  "title": "1 Cent - Elizabeth II (4th portrait; non-magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "canada",
+    "name": "Canada"
+  },
+  "min_year": 2003,
+  "max_year": 2006,
+  "ruler": [
+    {
+      "id": 2095,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 827,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Cent",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 44,
+      "name": "Dollar",
+      "full_name": "Dollar (1858-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 19.05,
+  "thickness": 1.45,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper plated zinc"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Susan Taylor"
+    ],
+    "designers": [
+      "Susanna Blunt"
+    ],
+    "description": "Head of Queen Elizabeth II, as at 77 years of age, bare headed, wearing necklace and earrings, facing right.",
+    "lettering": "ELIZABETH II D·G·REGINA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "ELIZABETH II DEI GRATIA REGINA",
+    "lettering_translation": "Elizabeth II Queen by the grace of God",
+    "picture": "https://en.numista.com/catalogue/photos/canada/6984ce25388922.71585266-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/6984ce25388922.71585266-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "reverse": {
+    "engravers": [
+      "George Kruger Gray"
+    ],
+    "description": "A maple twig is surrounded with the face value and the inscription \"CANADA\".",
+    "lettering": "1 CENT\r\n2006\r\nCANADA\r\nK·G",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/canada/6984ce267608b2.09602020-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/6984ce267608b2.09602020-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "comments": "Non-magnetic (use a magnet to identify them)",
+  "related_types": [
+    {
+      "id": 377353,
+      "title": "1 Cent - Elizabeth II (4th portrait; magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "minYear": 2003,
+      "maxYear": 2006
+    },
+    {
+      "id": 421,
+      "title": "1 Cent - Elizabeth II (4th portrait; non-magnetic with RCM logo)",
+      "category": "coin",
+      "country": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "minYear": 2006,
+      "maxYear": 2012
+    },
+    {
+      "id": 19977,
+      "title": "1 Cent - Elizabeth II (4th portrait; magnetic with RCM logo)",
+      "category": "coin",
+      "country": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "minYear": 2006,
+      "maxYear": 2012
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "490"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "518a"
+    }
+  ],
+  "weight": 2.25,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

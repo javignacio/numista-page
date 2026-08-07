@@ -1,0 +1,113 @@
+{
+  "id": 9619,
+  "url": "https://en.numista.com/9619",
+  "title": "50 Pence - Elizabeth II (Milner's Tower)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "ile_de_man",
+    "name": "Isle of Man"
+  },
+  "min_year": 2004,
+  "max_year": 2016,
+  "ruler": [
+    {
+      "id": 3222,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 784,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "50 Pence",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 428,
+      "name": "Pound",
+      "full_name": "Pound (decimalized, 1971-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 27.3,
+  "thickness": 1.6,
+  "shape": "Equilateral curve heptagon (7-sided)",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Ian Rank-Broadley"
+    ],
+    "description": "Right facing head of Queen Elizabeth II, wearing the \" Girls of Great Britain and Ireland \" Tiara, legend around, date below",
+    "lettering": "ISLE OF MAN\r\nELIZABETH II\r\nIRB\r\n2007",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/ile_de_man/463-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ile_de_man/463-180.jpg",
+    "picture_copyright": "Ma collection de monnaies",
+    "picture_copyright_url": "https://monnaiesetvarietes.numista.com/"
+  },
+  "reverse": {
+    "description": "Milner's Tower.",
+    "lettering": "MILNER'S TOWER\r\n50",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/ile_de_man/464-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ile_de_man/464-180.jpg",
+    "picture_copyright": "Ma collection de monnaies",
+    "picture_copyright_url": "https://monnaiesetvarietes.numista.com/"
+  },
+  "series": "IOM landmarks series",
+  "comments": "<p>The Milner's Tower was built in 1871 by the residents of Port Erin in honuor of William Milner, a Liverpool safemaker. The tower was built in the shape of a lock in honour of Milner wha was a great benefactor of the town. The tower was meant to be built in secret as a surprise, but once Milner found out he donated much of the building cost.</p><p>&nbsp;</p><p>2016 coins has been minted without the PM mintmark even they were still produced by Pobjoy Mint.</p><p>&nbsp;</p><p>2008 coins have two variants of AA die letters.&nbsp;</p><p>On first variant right A is shorter and closer to the line above, distance to rim is bigger:</p><p><a href=\"https://en.numista.com/catalogue/images/68e52e063fb1d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/68e52e063fb1d.jpg\"></a></p><p>On second variant the right A is same size as first one and it's located little lower, shorter distance to rim:</p><p><img src=\"https://en.numista.com/catalogue/images/68e52e2d498a6.jpg\"></p>",
+  "tags": [
+    "Tower"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1258"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "1496"
+    }
+  ],
+  "weight": 8,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/ile_de_man/66715a7b9ffc04.05674236-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ile_de_man/66715a7b9ffc04.05674236-180.jpg",
+    "picture_copyright": "MMowiec"
+  },
+  "mints": [
+    {
+      "id": 26,
+      "name": "Pobjoy Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

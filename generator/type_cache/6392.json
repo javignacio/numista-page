@@ -1,0 +1,88 @@
+{
+  "id": 6392,
+  "url": "https://en.numista.com/6392",
+  "title": "750 000 Lira (FAO)",
+  "object_type": {
+    "id": 3,
+    "name": "Non-circulating coins"
+  },
+  "issuer": {
+    "code": "turquie",
+    "name": "Turkey"
+  },
+  "min_year": 2002,
+  "max_year": 2002,
+  "ruler": [
+    {
+      "id": 2047,
+      "name": "Republic",
+      "wikidata_id": "Q43"
+    }
+  ],
+  "value": {
+    "text": "750 000 Lira",
+    "numeric_value": 750000,
+    "currency": {
+      "id": 124,
+      "name": "Old lira",
+      "full_name": "Old lira (1923-2005)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 23.5,
+  "thickness": 1.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Value and date within sprigs",
+    "lettering": "TÜRKİYE CUMHURİYETİ\r\n750.000\r\nLİRA\r\n2002",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/turquie/2775-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/turquie/2775-180.jpg",
+    "picture_copyright": "Nestor"
+  },
+  "reverse": {
+    "description": "Angora Ram",
+    "lettering": "KİMSENİN AÇ KALMAYACAĞI BİR DÜNYA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/turquie/2776-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/turquie/2776-180.jpg",
+    "picture_copyright": "Nestor"
+  },
+  "commemorated_topic": "FAO",
+  "tags": [
+    "Sheep or ovine",
+    "FAO"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1162"
+    }
+  ],
+  "weight": 6.4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "category": "coin",
+  "type": "Non-circulating coins"
+}

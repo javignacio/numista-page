@@ -1,0 +1,155 @@
+{
+  "id": 2759,
+  "url": "https://en.numista.com/2759",
+  "title": "20 Groszy",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "pologne",
+    "name": "Poland"
+  },
+  "min_year": 1957,
+  "max_year": 1985,
+  "ruler": [
+    {
+      "id": 3738,
+      "name": "Polish People's Republic",
+      "wikidata_id": "Q211274"
+    }
+  ],
+  "value": {
+    "text": "20 Groszys",
+    "numeric_value": 0.2,
+    "currency": {
+      "id": 199,
+      "name": "Third Zloty",
+      "full_name": "Third Zloty (1949-1994)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1995-01-01"
+  },
+  "size": 20,
+  "thickness": 1.4,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Andrej Peter"
+    ],
+    "description": "The White Eagle, national coat of arms of Poland, date below.",
+    "lettering": "POLSKA RZECZPOSPOLITA LUDOWA\r\n·1973·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Polish People's Republic\r\n·1973·",
+    "picture": "https://en.numista.com/catalogue/photos/pologne/5827-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pologne/5827-180.jpg",
+    "picture_copyright": "Comptoir des Monnaies",
+    "picture_copyright_url": "http://www.comptoir-des-monnaies.com"
+  },
+  "reverse": {
+    "engravers": [
+      "Andrej Peter"
+    ],
+    "description": "Denomination above the wreath.",
+    "lettering": "20 \r\nGROSZY",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/pologne/5826-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pologne/5826-180.jpg",
+    "picture_copyright": "Comptoir des Monnaies",
+    "picture_copyright_url": "http://www.comptoir-des-monnaies.com"
+  },
+  "comments": "<p>Coins without mintmark dated 1961-1963 were struck in Warsaw; 1973 and 1974 were struck in Kremnica, Czechoslovakia and denoted (kr) (see the main photo of the article); with mint mark under left leg (to the right for observer) struck in Warsaw and denoted MW.<br><a href=\"https://en.numista.com/catalogue/images/5da0330ae4915.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5da0330ae4915.jpg\" alt=\"\"></a><br><br>A few groups of obverse are known.<br><br><i>Obverse</i><br>Die <strong>I</strong> - details closer to rim, thick script of circular legend.<br>Die<strong> II</strong> - details closer to center, thick script of circular legend.<br>Die <strong>III</strong> - details closer to rim, thin script of circular legend, narrow tail does not touch claw to the right.<br>Picture: © Images courtesy of Alexandr Prokofyev.<br><a href=\"https://en.numista.com/catalogue/images/61c779932bb61.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/61c779932bb61.jpg\" alt=\"\"></a><br><br><u>1957</u><br>Die<strong> I.1</strong> - small date, short nose to '1'.<br>Die <strong>I.2</strong> - large date, long nose to '1', '9' with widely open tail.<br>On the images below the left image for the obverse <strong>I.1</strong>, the right - for the obverse <strong>I.2</strong>.<br><a href=\"https://en.numista.com/catalogue/images/5d9dd14801d9e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d9dd14801d9e.jpg\" alt=\"\"></a><br><br><u>1976</u><br>Die<strong> I.1</strong> - wide numerals, mintmark low.<br>Die<strong> I.2</strong> - narrow high numerals, '9' and '6' with widely open tails, mintmark high.<br>Picture: © Images courtesy of Alexandr Prokofyev.<br><a href=\"https://en.numista.com/catalogue/images/61d01d71313eb.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/61d01d71313eb.jpg\" alt=\"\"></a><br><br><i>Combinations</i><br><strong>I</strong>: 1957 I.1, 1957 I.2, 1963, 1965-1972, 1973(kr), 1976 I.1, 1976 I.2, 1977, 1978, 1979, 1979 PS, 1980, 1980 PS, 1981, 1981 PS, 1983, 1985.<br><strong>II</strong>: 1961, 1962.<br><strong>III</strong>: 1973 MW, 1973 (kr), 1973, 1975.<br><br><i>Abbreviation</i><br>PS - Proof set.</p>",
+  "related_types": [
+    {
+      "id": 7119,
+      "title": "20 Groszy",
+      "category": "coin",
+      "country": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "minYear": 1949,
+      "maxYear": 1949
+    },
+    {
+      "id": 4698,
+      "title": "20 Groszy",
+      "category": "coin",
+      "country": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "minYear": 1949,
+      "maxYear": 1949
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "A47"
+    },
+    {
+      "catalogue": {
+        "id": 165,
+        "code": "ParM"
+      },
+      "number": "208"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "40"
+    },
+    {
+      "catalogue": {
+        "id": 166,
+        "code": "Fischer Po"
+      },
+      "number": "OB033"
+    }
+  ],
+  "weight": 1,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/pologne/6159cc559ef5e4.71774350-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pologne/6159cc559ef5e4.71774350-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 1262,
+      "name": "Kremnica"
+    },
+    {
+      "id": 27,
+      "name": "Mint of Poland"
+    },
+    {
+      "id": 27,
+      "name": "Mint of Poland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

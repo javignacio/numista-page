@@ -1,0 +1,112 @@
+{
+  "id": 5350,
+  "url": "https://en.numista.com/5350",
+  "title": "½ Crown - George VI",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "rhodesie_du_sud",
+    "name": "Southern Rhodesia (1932-1955)"
+  },
+  "min_year": 1947,
+  "max_year": 1947,
+  "ruler": [
+    {
+      "id": 931,
+      "name": "George VI",
+      "wikidata_id": "Q280856",
+      "group": {
+        "id": 794,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "½ Crown",
+    "numeric_value": 0.125,
+    "numerator": 1,
+    "denominator": 8,
+    "currency": {
+      "id": 397,
+      "name": "Pound",
+      "full_name": "Pound (1932-1955)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1965-06-01"
+  },
+  "size": 32.3,
+  "thickness": 2.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Percy Metcalfe"
+    ],
+    "description": "Portrait of George VI, King of the United Kingdom and the British Dominions from 1936 to 1952.",
+    "lettering": "GEORGE VI KING EMPEROR\r\nPM",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/rhodesie_du_sud/88-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/rhodesie_du_sud/88-180.jpg"
+  },
+  "reverse": {
+    "engravers": [
+      "George Kruger Gray"
+    ],
+    "description": "Crowned Shield with pick, denomination below, name at the top",
+    "lettering": "SOUTHERN·19 47·RHODESIA\r\nG VI   R.I\r\nK   G\r\n+ HALF CROWN +",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/rhodesie_du_sud/89-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/rhodesie_du_sud/89-180.jpg"
+  },
+  "tags": [
+    "Monarch",
+    "Crown",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "15b"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "19b"
+    }
+  ],
+  "weight": 14.14,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

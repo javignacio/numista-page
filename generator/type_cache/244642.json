@@ -1,0 +1,123 @@
+{
+  "id": 244642,
+  "url": "https://en.numista.com/244642",
+  "title": "1 Dollar - Elizabeth II (UN Charter; colored)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "canada",
+    "name": "Canada"
+  },
+  "min_year": 2020,
+  "max_year": 2020,
+  "ruler": [
+    {
+      "id": 2095,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 827,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Dollar",
+    "numeric_value": 1,
+    "currency": {
+      "id": 44,
+      "name": "Dollar",
+      "full_name": "Dollar (1858-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 26.5,
+  "thickness": 1.9,
+  "shape": "Hendecagonal (11-sided)",
+  "composition": {
+    "text": "Brass plated steel"
+  },
+  "technique": {
+    "text": "Milled, Coloured"
+  },
+  "obverse": {
+    "engravers": [
+      "Susan Taylor"
+    ],
+    "designers": [
+      "Susanna Blunt"
+    ],
+    "description": "Head of Queen Elizabeth II, as at 77 years of age, bare headed, wearing necklace and earrings, facing right.",
+    "lettering": "ELIZABETH II  D·G·REGINA\r\nDOLLAR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "ELIZABETH II DEI GRATIA REGINA",
+    "lettering_translation": "Elizabeth II Queen by the grace of God",
+    "picture": "https://en.numista.com/catalogue/photos/canada/5fc52ac23db466.40913252-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/5fc52ac23db466.40913252-180.jpg",
+    "picture_copyright": "darcyrmt"
+  },
+  "reverse": {
+    "designers": [
+      "Joel Kimmel"
+    ],
+    "description": "In a nod to the UN logo, a world map within an olive branch wreath is paired with a maple leaf to symbolize Canada's commitment to the UN and its values. In the selectively coloured $1 coin, the maple leaf is clad in red. Both versions (Coloured and Non-Coloured) include a laser mark of a single maple leaf inscribed in a circle.",
+    "lettering": "CANADA\r\n1945 - 2020\r\nUN CHARTER CHARTRE DE L'ONU\r\nJK",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/canada/5fc52ac3730cc0.77881917-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/5fc52ac3730cc0.77881917-180.jpg",
+    "picture_copyright": "darcyrmt"
+  },
+  "commemorated_topic": "75th Anniversary of the Signing Of The United Nations Charter",
+  "comments": "The first coloured circulation $1 coin issued by the Royal Canadian Mint.",
+  "related_types": [
+    {
+      "id": 244641,
+      "title": "1 Dollar - Elizabeth II (UN Charter)",
+      "category": "coin",
+      "country": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "minYear": 2020,
+      "maxYear": 2020
+    }
+  ],
+  "tags": [
+    "Map",
+    "United Nations"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "2909.1"
+    }
+  ],
+  "weight": 6.27,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

@@ -1,0 +1,131 @@
+{
+  "id": 3199,
+  "url": "https://en.numista.com/3199",
+  "title": "500 Līrah / Livres (without latent image)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "liban",
+    "name": "Lebanon"
+  },
+  "min_year": 1995,
+  "max_year": 2009,
+  "ruler": [
+    {
+      "id": 4012,
+      "name": "Republic",
+      "wikidata_id": "Q822"
+    }
+  ],
+  "value": {
+    "text": "500 Livres",
+    "numeric_value": 500,
+    "currency": {
+      "id": 121,
+      "name": "Lebanese pound",
+      "full_name": "Lebanese pound (1939-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24.5,
+  "thickness": 2.06,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel clad steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Cedar tree (symbol of Lebanon)",
+    "lettering": "مصرف لبنان\r\n٥٠٠\r\nليرة\r\n٢٠٠٦",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "Bank of Lebanon\n500 Livres\n2006",
+    "picture": "https://en.numista.com/catalogue/photos/liban/5f8872e0e881f6.99780849-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/liban/5f8872e0e881f6.99780849-180.jpg",
+    "picture_copyright": "Ben-jamin",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "reverse": {
+    "description": "Denomination within broken circle",
+    "lettering": "2006\r\n500\r\nLIVRES\r\nBANQUE DU LIBAN",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "2006\n500 Livres\nBank of Lebanon",
+    "picture": "https://en.numista.com/catalogue/photos/liban/5f8872e1439db4.82574006-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/liban/5f8872e1439db4.82574006-180.jpg",
+    "picture_copyright": "Ben-jamin",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "comments": "<span style=\"font-weight:bold;\">- Font type used for date numerals has changed after 1996:</span><br />\nYears 1995-1996 have date numerals in Sans-serif font type (Royal Canadian Mint)<br />\nYears 2000-2009 have date numerals in Serif font type (Various mints)<br />\n(See images below for comparison)<br /><br />\n<span style=\"font-weight:bold;\">- Circulation Strikes:</span><br />\n1995 (١٩٩٥) - Royal Canadian Mint:<br />\n<a href=\"https://en.numista.com/catalogue/images/59a85b53eefb9.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/59a85b53eefb9.jpg\" alt=\"\" width=\"200\" height=\"101\" /></a><br />\n1996 (١٩٩٦) - Royal Canadian Mint:<br />\n<a href=\"https://en.numista.com/catalogue/images/59a85b5ca9522.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/59a85b5ca9522.jpg\" alt=\"\" width=\"200\" height=\"100\" /></a><br />\n2000 (٢٠٠٠) - Monnaie de Paris:<br />\n<a href=\"https://en.numista.com/catalogue/images/59a85b6539edd.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/59a85b6539edd.jpg\" alt=\"\" width=\"200\" height=\"101\" /></a><br />\n2003 (٢٠٠٣) - Gablonz, Czech Republic:<br />\n<a href=\"https://en.numista.com/catalogue/images/59a85b6c3f4a1.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/59a85b6c3f4a1.jpg\" alt=\"\" width=\"200\" height=\"101\" /></a><br />\n2006 (٢٠٠٦) - Monnaie de Paris:<br />\n<a href=\"https://en.numista.com/catalogue/images/59a85b7259fde.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/59a85b7259fde.jpg\" alt=\"\" width=\"200\" height=\"101\" /></a><br />\n2009 (٢٠٠٩) - Münze Österreich, Austria:<br />\n<a href=\"https://en.numista.com/catalogue/images/59a85b7824262.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/59a85b7824262.jpg\" alt=\"\" width=\"199\" height=\"100\" /></a><br />\n© Images courtesy of Chiefa Coins<br /><br />\n<span style=\"font-weight:bold;\">- Error Year 1995 (1996):</span><br />\n١٩٩٥-1996 (ERROR: Arabic 1995 &amp; English 1996):<br />\n<a href=\"https://en.numista.com/catalogue/images/59a815e5ddf8f.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/59a815e5ddf8f.jpg\" alt=\"\" width=\"200\" height=\"197\" /></a> <a href=\"https://en.numista.com/catalogue/images/59a815eac9707.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/59a815eac9707.jpg\" alt=\"\" width=\"200\" height=\"197\" /></a><br />\n© Alexander Prokofyev<br /><br />\n<span style=\"font-weight:bold;\">- BU &amp; Proof Sets:</span><br />\nProof Set 1995 (KM#PS1) minted by the Royal Canadian Mint:<br />\nIssue Price: 25,000 LBP<br />\n<a href=\"https://en.numista.com/catalogue/images/594dcb7757a90.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/594dcb7757a90.jpg\" alt=\"\" width=\"200\" height=\"117\" /></a> <a href=\"https://en.numista.com/catalogue/images/594dcb7cd39fd.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/594dcb7cd39fd.jpg\" alt=\"\" width=\"200\" height=\"117\" /></a><br />\n© Image courtesy of Banque du Liban<br /><br />\nProof Set 2000 (Unlisted in KM) minted by Monnaie de Paris, and enclosed in a leather box:<br />\nIssue Price: 30,000 LBP<br />\n<a href=\"https://en.numista.com/catalogue/images/594dcc0621e0a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/594dcc0621e0a.jpg\" alt=\"\" width=\"200\" height=\"168\" /></a><br />\n© Image courtesy of Banque du Liban<br /><br />\nBrilliant Uncirculated Set (leather case) issued in 2010:<br />\nIssue Price: 50,000 LBP<br />\n<a href=\"https://en.numista.com/catalogue/images/594dd9a70136d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/594dd9a70136d.jpg\" alt=\"\" width=\"198\" height=\"250\" /></a> <a href=\"https://en.numista.com/catalogue/images/594dd9b4c090e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/594dd9b4c090e.jpg\" alt=\"\" width=\"200\" height=\"174\" /></a><br />\n© Image courtesy of Banque du Liban<br /><br />\nMint Set (postcard) issued in 2010:<br />\nIssue Price: 10,000 LBP<br />\n<a href=\"https://en.numista.com/catalogue/images/594dda10db4a6.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/594dda10db4a6.jpg\" alt=\"\" width=\"200\" height=\"137\" /></a> <a href=\"https://en.numista.com/catalogue/images/594dda174d13f.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/594dda174d13f.jpg\" alt=\"\" width=\"200\" height=\"137\" /></a><br />\n© Image courtesy of Banque du Liban<br /><br />\nMint Set (booklet) issued in 2010:<br />\nIssue Price: 15,000 LBP<br />\n<a href=\"https://en.numista.com/catalogue/images/594dda698f8e6.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/594dda698f8e6.jpg\" alt=\"\" width=\"157\" height=\"250\" /></a> <a href=\"https://en.numista.com/catalogue/images/594dda728c2e5.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/594dda728c2e5.jpg\" alt=\"\" width=\"199\" height=\"100\" /></a><br />\n© Image courtesy of Banque du Liban",
+  "related_types": [
+    {
+      "id": 45553,
+      "title": "500 Līrah / Livres (with latent image)",
+      "category": "coin",
+      "country": {
+        "code": "liban",
+        "name": "Lebanon"
+      },
+      "minYear": 2012,
+      "maxYear": 2017
+    }
+  ],
+  "tags": [
+    "Tree"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "39"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "41.1"
+    }
+  ],
+  "weight": 6,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 30,
+      "name": "Czech Mint"
+    },
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    },
+    {
+      "id": 232,
+      "name": "Münze Österreich"
+    },
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

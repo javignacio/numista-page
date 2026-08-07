@@ -1,0 +1,116 @@
+{
+  "id": 202831,
+  "url": "https://en.numista.com/202831",
+  "title": "5 Escudos (2nd. type; red)",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "chili",
+    "name": "Chile"
+  },
+  "issuing_entity": {
+    "id": 904,
+    "name": "Central Bank of Chile",
+    "wikidata_id": "Q2631674"
+  },
+  "min_year": 1964,
+  "max_year": 1970,
+  "ruler": [
+    {
+      "id": 3299,
+      "name": "Republic",
+      "wikidata_id": "Q298"
+    }
+  ],
+  "value": {
+    "text": "5 Escudos",
+    "numeric_value": 5,
+    "currency": {
+      "id": 236,
+      "name": "Escudo",
+      "full_name": "Escudo (1960-1975)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 145,
+  "size2": 70,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Red and brown-violet on multicolor underprint.\r\nPortrait of Manuel Bulnes Prieto (1799 - 1866), 4th president of Chile.\r\n6 or 7 digits in serial #; Series A-E.",
+    "lettering": "BANCO CENTRAL DE CHILE\r\nCINCO ESCUDOS\r\nCASA DE MONEDA DE CHILE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Bank of Chile\r\nFive Escudos\r\nChile Mint",
+    "picture": "https://en.numista.com/catalogue/photos/chili/5ec2d39aa1a1b6.41345838-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/5ec2d39aa1a1b6.41345838-180.jpg",
+    "picture_copyright": "CGB",
+    "picture_copyright_url": "http://www.cgb.fr"
+  },
+  "reverse": {
+    "description": "Red and brown.\r\nPainting by Pedro Subercaseaux depicting Bernardo O'Higgins ill-fated charge against the Spanish at the Battle of Rancagua.",
+    "lettering": "BANCO CENTRAL DE CHILE\r\nBATALLA DE RANCAGUA\r\nCINCO ESCUDOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central  Bank of Chile\r\nBattle of Rancagua\r\nFive Escudos",
+    "picture": "https://en.numista.com/catalogue/photos/chili/5ec2d39ae8af54.45446941-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/5ec2d39ae8af54.45446941-180.jpg",
+    "picture_copyright": "CGB",
+    "picture_copyright_url": "http://www.cgb.fr"
+  },
+  "series": "1962-1975 ND Issue",
+  "comments": "Reddish brown on multicolor underprint.<br />\r\nSeries A-E.<br />\r\nIncludes signature varieties.",
+  "related_types": [
+    {
+      "id": 290379,
+      "title": "5 Escudos (1st. type; brown)",
+      "category": "banknote",
+      "country": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "minYear": 1962,
+      "maxYear": 1962
+    }
+  ],
+  "tags": [
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "138"
+    }
+  ],
+  "watermark": {
+    "description": "Portrait of Diego Portales",
+    "picture": "https://en.numista.com/catalogue/photos/chili/65bab228c33be1.42094162-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/65bab228c33be1.42094162-180.jpg",
+    "picture_copyright": "vladthiengo",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "printers": [
+    {
+      "id": 18,
+      "name": "Casa de Moneda de Chile"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

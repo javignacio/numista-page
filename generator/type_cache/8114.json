@@ -1,0 +1,107 @@
+{
+  "id": 8114,
+  "url": "https://en.numista.com/8114",
+  "title": "25 Øre - Christian X (German Occupation)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "danemark",
+    "name": "Denmark"
+  },
+  "min_year": 1941,
+  "max_year": 1945,
+  "ruler": [
+    {
+      "id": 2402,
+      "name": "Christian X",
+      "wikidata_id": "Q156617",
+      "group": {
+        "id": 104,
+        "name": "House of Schleswig-Holstein-Sonderburg-Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "25 Øre",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 13,
+      "name": "Krone",
+      "full_name": "Krone (1873-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2008-09-30"
+  },
+  "size": 23,
+  "thickness": 1.64,
+  "shape": "Round with a round hole",
+  "composition": {
+    "text": "Zinc"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Crowned monogram of Christian X (1870-1947).\r\nSmall heart below the hole, minting year. Country name in between small letters.",
+    "lettering": "CX R\r\n‪‪❤︎‬\r\n1945\r\nN DANMARK GJ",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/danemark/2978-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/2978-180.jpg",
+    "picture_copyright": "Tony K"
+  },
+  "reverse": {
+    "description": "Spirals on both sides of the hole, value.",
+    "lettering": "25 \r\nØRE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/danemark/2979-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/2979-180.jpg",
+    "picture_copyright": "Tony K"
+  },
+  "tags": [
+    "Crown",
+    "Monogram"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "823.2a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "39a"
+    }
+  ],
+  "weight": 3.6,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/danemark/61688d3e21c827.06239479-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/61688d3e21c827.06239479-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 5316,
+      "name": "Copenhagen"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

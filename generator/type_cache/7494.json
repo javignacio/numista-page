@@ -1,0 +1,117 @@
+{
+  "id": 7494,
+  "url": "https://en.numista.com/7494",
+  "title": "5 Pennia (with center hole)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "finlande",
+    "name": "Finland"
+  },
+  "min_year": 1941,
+  "max_year": 1943,
+  "ruler": [
+    {
+      "id": 3291,
+      "name": "Republic",
+      "wikidata_id": "Q33"
+    }
+  ],
+  "value": {
+    "text": "5 Pennia",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 1156,
+      "name": "Markka",
+      "full_name": "Markka (1860-1963)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 16,
+  "thickness": 1.18,
+  "shape": "Round with a round hole",
+  "composition": {
+    "text": "Copper"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Rosette above center hole, flanked by leaves dividing date below.",
+    "lettering": "1941",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/finlande/1738-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/1738-180.jpg",
+    "picture_copyright": "Leitwolf 2018"
+  },
+  "reverse": {
+    "engravers": [
+      "Isak Sundell"
+    ],
+    "description": "Center hole divides denomination, two rosettes flanking.",
+    "lettering": "5 PENNIÄ",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/finlande/1739-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/1739-180.jpg",
+    "picture_copyright": "Leitwolf 2018"
+  },
+  "related_types": [
+    {
+      "id": 84475,
+      "title": "5 Pennia (without center hole)",
+      "category": "coin",
+      "country": {
+        "code": "finlande",
+        "name": "Finland"
+      },
+      "minYear": 1941,
+      "maxYear": 1943
+    }
+  ],
+  "tags": [
+    "Flower"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "64.1"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "29"
+    }
+  ],
+  "weight": 1.27,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/finlande/614d995fe84814.38741581-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/614d995fe84814.38741581-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 1333,
+      "name": "Mint of Finland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

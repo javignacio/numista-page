@@ -1,0 +1,130 @@
+{
+  "id": 25833,
+  "url": "https://en.numista.com/25833",
+  "title": "1 Dollar - Elizabeth II (Centenary of Parks Canada)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "canada",
+    "name": "Canada"
+  },
+  "min_year": 2011,
+  "max_year": 2011,
+  "ruler": [
+    {
+      "id": 2095,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 827,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Dollar",
+    "numeric_value": 1,
+    "currency": {
+      "id": 44,
+      "name": "Dollar",
+      "full_name": "Dollar (1858-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 26.5,
+  "thickness": 1.9,
+  "shape": "Hendecagonal (11-sided)",
+  "composition": {
+    "text": "Bronze plated nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Susan Taylor"
+    ],
+    "designers": [
+      "Susanna Blunt"
+    ],
+    "description": "Head of Queen Elizabeth II, as at 77 years of age, bare headed, wearing necklace and earrings, facing right.",
+    "lettering": "ELIZABETH II  D•G•REGINA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "ELIZABETH II DEI GRATIA REGINA",
+    "lettering_translation": "Elizabeth II Queen by the grace of God",
+    "picture": "https://en.numista.com/catalogue/photos/canada/5efe17de78ee16.47873925-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/5efe17de78ee16.47873925-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "William Woodruff"
+    ],
+    "designers": [
+      "Nolin DDBO Montréal"
+    ],
+    "description": "Canada Parks 1911-2011",
+    "lettering": "CANADA\r\nDOLLAR\r\nPARKS CANADA 1911\r\nPARCS CANADA 2011",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/canada/5efe17def03b80.19885861-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/5efe17def03b80.19885861-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "series": "Centenary of Parks Canada.",
+  "commemorated_topic": "Centenary of Parks Canada.",
+  "comments": "In 1911, the Dominion Parks Division, now known as Parks Canada, was born with a mandate to conserve Canada's splendid natural landscapes for the well-being of Canadians.<br /><br />\nBy creating the world's first national park system, Canada was inscribing the conservation of natural sites in our values, and encouraging other countries to protect their own wilderness areas.<br /><br />\nFor a century, Parks Canada has been the dedicated guardian and faithful protector of Canada's immense and magnificent natural treasures, preserving them not only for the enjoyment of Canadians, but for people around the world and for generations to come.",
+  "related_types": [
+    {
+      "id": 26643,
+      "title": "2 Dollars - Elizabeth II (Boreal Forest)",
+      "category": "coin",
+      "country": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "minYear": 2011,
+      "maxYear": 2011
+    }
+  ],
+  "tags": [
+    "Park"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1166"
+    }
+  ],
+  "weight": 7,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

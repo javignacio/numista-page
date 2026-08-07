@@ -1,0 +1,129 @@
+{
+  "id": 1549,
+  "url": "https://en.numista.com/1549",
+  "title": "1 Króna (Magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "islande",
+    "name": "Iceland"
+  },
+  "min_year": 1989,
+  "max_year": 2011,
+  "ruler": [
+    {
+      "id": 1592,
+      "name": "Republic",
+      "wikidata_id": "Q189"
+    }
+  ],
+  "value": {
+    "text": "1 Króna",
+    "numeric_value": 1,
+    "currency": {
+      "id": 15,
+      "name": "New króna",
+      "full_name": "New króna (1980-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21.5,
+  "thickness": 1.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Bergrisi the giant, one of the four traditional protector spirits (\"Landvættir\") of Iceland.",
+    "lettering": "EIN KRÓNA \r\nÍSLAND 2003",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "One Krona\r\nIceland 2003",
+    "picture": "https://en.numista.com/catalogue/photos/islande/23-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/islande/23-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Face value above a Codfish (Gadus morhua).",
+    "lettering": "1 KR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "1 Króna",
+    "picture": "https://en.numista.com/catalogue/photos/islande/24-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/islande/24-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "<p>Iceland mixed date mint set, including KM#24, KM#25, KM#26a, KM#27a, KM#28a, KM#29.1a, KM#31, KM#35</p><p><a href=\"https://en.numista.com/catalogue/images/686e1ae951281.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686e1ae951281.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/686e1aeab4f0e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686e1aeab4f0e.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/686e1ae39c7c7.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686e1ae39c7c7.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/686e1ae47a4e5.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686e1ae47a4e5.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/686e1afc3d6b2.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686e1afc3d6b2.jpg\"></a></p><p>@gdch6ng</p><p>&nbsp;</p><p>2000 mint set, including KM#27a, KM#28a, KM#29.1a, KM#31, KM#35</p><p><a href=\"https://en.numista.com/catalogue/images/686e1b8f36b6d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686e1b8f36b6d.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/686e1b932c484.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686e1b932c484.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/686e1b93c507a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686e1b93c507a.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/686e1b9423357.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686e1b9423357.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/686e1b8ee5506.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686e1b8ee5506.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/686e1b924d348.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686e1b924d348.jpg\"></a></p><p>@gdch6ng</p>",
+  "related_types": [
+    {
+      "id": 3392,
+      "title": "1 Króna (Non-magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "islande",
+        "name": "Iceland"
+      },
+      "minYear": 1981,
+      "maxYear": 1987
+    }
+  ],
+  "tags": [
+    "Fish",
+    "Mythology"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "27a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "30a"
+    },
+    {
+      "catalogue": {
+        "id": 144,
+        "code": "SIEG"
+      },
+      "number": "27.2"
+    }
+  ],
+  "weight": 4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/islande/61518bef211412.19721625-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/islande/61518bef211412.19721625-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

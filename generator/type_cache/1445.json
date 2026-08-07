@@ -1,0 +1,125 @@
+{
+  "id": 1445,
+  "url": "https://en.numista.com/1445",
+  "title": "5 Kroner - Olav V (Type 1)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "norvege",
+    "name": "Norway"
+  },
+  "min_year": 1963,
+  "max_year": 1973,
+  "ruler": [
+    {
+      "id": 451,
+      "name": "Olav V",
+      "wikidata_id": "Q154912",
+      "group": {
+        "id": 358,
+        "name": "House of Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Kroner",
+    "numeric_value": 5,
+    "currency": {
+      "id": 16,
+      "name": "Krone",
+      "full_name": "Krone (1875-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2000-07-09"
+  },
+  "size": 29.5,
+  "thickness": 2.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Cu, 25% Ni)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Øivind Hansen"
+    ],
+    "description": "Bust of king Olav V facing left. Engraver's initials behind back of bust. Surrounded by inscription. Solid ring on the rim.",
+    "lettering": "OLAV V NORGES KONGE\r\nöH\r\nALT FOR NORGE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Olav V, King of Norway\r\nEverything for Norway",
+    "picture": "https://en.numista.com/catalogue/photos/norvege/65b965002aa339.63956390-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/65b965002aa339.63956390-180.jpg",
+    "picture_copyright": "Oslo Myntgalleri",
+    "picture_copyright_url": "http://www.oslomyntgalleri.no"
+  },
+  "reverse": {
+    "engravers": [
+      "Øivind Hansen"
+    ],
+    "description": "Crowned shield with a crowned norwegian lion holding a halberd and facing left. Value and date divided by shield. Solid ring on the rim.",
+    "lettering": "5 KR\r\n19 66",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/norvege/65b96501ccbad5.95795471-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/65b96501ccbad5.95795471-180.jpg",
+    "picture_copyright": "Oslo Myntgalleri",
+    "picture_copyright_url": "http://www.oslomyntgalleri.no"
+  },
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "412"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "63"
+    },
+    {
+      "catalogue": {
+        "id": 201,
+        "code": "Rønning"
+      },
+      "number": "292"
+    }
+  ],
+  "weight": 11.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain with wavy line, alternating with crossed hammers mintmark and letter B.",
+    "lettering": "B",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/norvege/614ceceedff780.53205933-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/614ceceedff780.53205933-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 1888,
+      "name": "Norwegian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

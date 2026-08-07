@@ -1,0 +1,105 @@
+{
+  "id": 667,
+  "url": "https://en.numista.com/667",
+  "title": "1 Yuan",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "chine",
+    "name": "China, People's Republic of"
+  },
+  "min_year": 1991,
+  "max_year": 2000,
+  "ruler": [
+    {
+      "id": 1436,
+      "name": "People's Republic",
+      "wikidata_id": "Q148"
+    }
+  ],
+  "value": {
+    "text": "1 Yuan",
+    "numeric_value": 1,
+    "currency": {
+      "id": 198,
+      "name": "Rénmínbì",
+      "full_name": "Rénmínbì (1955-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1992-06-01"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25,
+  "thickness": 1.85,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "China's emblem: Tian'anmen, \"Gate of Heavenly Peace\", the gate to the forbidden city, 5 stars above it. and the country name below along with the date at the bottom",
+    "lettering": "ZHONGHUA RENMIN GONGHEGUO\r\n中华人民共和国\r\n1997",
+    "lettering_scripts": [
+      {
+        "name": "Chinese"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "People's Republic of China\r\nPeople's Republic of China\r\n1997",
+    "picture": "https://en.numista.com/catalogue/photos/chine/1748-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chine/1748-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "reverse": {
+    "description": "Peony blossom. Value in Chinese and Pinyin",
+    "lettering": "1元\r\nYI YUAN",
+    "lettering_scripts": [
+      {
+        "name": "Chinese"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "1 Yuan\r\n1 Yuan",
+    "picture": "https://en.numista.com/catalogue/photos/chine/1749-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chine/1749-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "337"
+    },
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "330"
+    }
+  ],
+  "weight": 6.05,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/chine/69a5e1cd292cc1.39647975-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chine/69a5e1cd292cc1.39647975-180.jpg",
+    "picture_copyright": "Saber82"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

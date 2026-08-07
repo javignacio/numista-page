@@ -1,0 +1,121 @@
+{
+  "id": 6796,
+  "url": "https://en.numista.com/6796",
+  "title": "1 Penni - Nicholas II",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "finlande",
+    "name": "Finland"
+  },
+  "min_year": 1895,
+  "max_year": 1916,
+  "ruler": [
+    {
+      "id": 3296,
+      "name": "Nicholas II",
+      "wikidata_id": "Q40787",
+      "group": {
+        "id": 276,
+        "name": "Grand Duchy of Finland, House of Romanov"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Penni",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 1156,
+      "name": "Markka",
+      "full_name": "Markka (1860-1963)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 15,
+  "thickness": 1,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Aleksander Fadejev"
+    ],
+    "description": "Crowned monogram of Nikolai II.",
+    "lettering": "N II",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/finlande/6947d890b5a8a6.92196954-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/6947d890b5a8a6.92196954-180.jpg",
+    "picture_copyright": "Zanzibar.Orc.Coins"
+  },
+  "reverse": {
+    "engravers": [
+      "Aleksander Fadejev"
+    ],
+    "description": "Denomination and date.",
+    "lettering": "1\r\nPenni\r\n1916",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/finlande/6947d891b8bf66.75203998-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/6947d891b8bf66.75203998-180.jpg",
+    "picture_copyright": "Zanzibar.Orc.Coins"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/5a3004b4cf9d8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5a3004b4cf9d8.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5a759e36398f4.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5a759e36398f4.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "tags": [
+    "Crown",
+    "Monogram"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "13"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "7"
+    },
+    {
+      "catalogue": {
+        "id": 1015,
+        "code": "Kahnt/Schön"
+      },
+      "number": "20"
+    }
+  ],
+  "weight": 1.28,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/finlande/666b19fddc1370.03161344-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/666b19fddc1370.03161344-180.jpg",
+    "picture_copyright": "Marcin Łysik"
+  },
+  "mints": [
+    {
+      "id": 1333,
+      "name": "Mint of Finland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

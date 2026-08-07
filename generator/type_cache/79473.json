@@ -1,0 +1,360 @@
+{
+  "id": 79473,
+  "url": "https://en.numista.com/79473",
+  "title": "Medalet - Sainsbury's Official England Squad 1998 (David Beckham)",
+  "object_type": {
+    "id": 219,
+    "name": "Collection medallions"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1998,
+  "max_year": 1998,
+  "size": 27.16,
+  "thickness": 2.04,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Football player name, head facing straight ahead, and position. 2 football players, 1 on each side of the player's head",
+    "lettering": "DAVID BECKHAM\r\nMIDFIELD",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/60635ec9eb5ad9.50029586-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/60635ec9eb5ad9.50029586-180.jpg",
+    "picture_copyright": "hernan4950"
+  },
+  "reverse": {
+    "description": "England national football team logo in the center. Date on top, and \"PM\" mint mark at the bottom",
+    "lettering": "1998\r\n®\r\nTHE OFFICIAL ENGLAND SQUAD MEDAL COLLECTION\r\nPM",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/60635ecb176ef0.15419259-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/60635ecb176ef0.15419259-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "series": "The Official England Squad Medal Collection 1998",
+  "comments": "Sainsbury&#039;s is the second largest chain of supermarkets in the United Kingdom.<br />\n<a href=\"https://cartophilic-info-exch.blogspot.com/2014/09/sainsburys-official-england-squad-medal.html\" rel=\"nofollow\">https://cartophilic-info-exch.blogspot.com/2014/09/sainsburys-official-england-squad-medal.html</a>",
+  "related_types": [
+    {
+      "id": 98246,
+      "title": "Medalet - Sainsbury's Official England Squad 1998 (Andy Cole)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1998,
+      "maxYear": 1998
+    },
+    {
+      "id": 98226,
+      "title": "Medalet - Sainsbury's Official England Squad 1998 (Glenn Hoddle)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1998,
+      "maxYear": 1998
+    },
+    {
+      "id": 98236,
+      "title": "Medalet - Sainsbury's Official England Squad 1998 (Tim Flowers)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1998,
+      "maxYear": 1998
+    },
+    {
+      "id": 98233,
+      "title": "Medalet - Sainsbury's Official England Squad 1998 (Philip Neville)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1998,
+      "maxYear": 1998
+    },
+    {
+      "id": 98243,
+      "title": "Medalet - Sainsbury's Official England Squad 1998 (Steve McManaman)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1998,
+      "maxYear": 1998
+    },
+    {
+      "id": 32964,
+      "title": "Medalet - Sainsbury's Official England Squad 1998 (Tony Adams)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1998,
+      "maxYear": 1998
+    },
+    {
+      "id": 98240,
+      "title": "Medalet - Sainsbury's Official England Squad 1998 (Graeme Le Saux)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1998,
+      "maxYear": 1998
+    },
+    {
+      "id": 98230,
+      "title": "Medalet - Sainsbury's Official England Squad 1998 (Michael Owen)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1998,
+      "maxYear": 1998
+    },
+    {
+      "id": 98250,
+      "title": "Medalet - Sainsbury's Official England Squad 1998 (Robert Lee)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1998,
+      "maxYear": 1998
+    },
+    {
+      "id": 98251,
+      "title": "Medalet - Sainsbury's Official England Squad 1998 (Darren Anderton)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1998,
+      "maxYear": 1998
+    },
+    {
+      "id": 98241,
+      "title": "Medalet - Sainsbury's Official England Squad 1998 (Martin Keown)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1998,
+      "maxYear": 1998
+    },
+    {
+      "id": 98231,
+      "title": "Medalet - Sainsbury's Official England Squad 1998 (Paul Ince)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1998,
+      "maxYear": 1998
+    },
+    {
+      "id": 79472,
+      "title": "Medalet - Sainsbury's Official England Squad 1998 (Alan Shearer)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1998,
+      "maxYear": 1998
+    },
+    {
+      "id": 98228,
+      "title": "Medalet - Sainsbury's Official England Squad 1998 (Andy Hinchcliffe)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1998,
+      "maxYear": 1998
+    },
+    {
+      "id": 98244,
+      "title": "Medalet - Sainsbury's Official England Squad 1998 (David Batty)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1998,
+      "maxYear": 1998
+    },
+    {
+      "id": 98237,
+      "title": "Medalet - Sainsbury's Official England Squad 1998 (David Seaman)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1998,
+      "maxYear": 1998
+    },
+    {
+      "id": 98239,
+      "title": "Medalet - Sainsbury's Official England Squad 1998 (Gareth Southgate)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1998,
+      "maxYear": 1998
+    },
+    {
+      "id": 98229,
+      "title": "Medalet - Sainsbury's Official England Squad 1998 (Gary Neville)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1998,
+      "maxYear": 1998
+    },
+    {
+      "id": 98248,
+      "title": "Medalet - Sainsbury's Official England Squad 1998 (Les Ferdinand)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1998,
+      "maxYear": 1998
+    },
+    {
+      "id": 98245,
+      "title": "Medalet - Sainsbury's Official England Squad 1998 (Nicky Butt)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1998,
+      "maxYear": 1998
+    },
+    {
+      "id": 98238,
+      "title": "Medalet - Sainsbury's Official England Squad 1998 (Nigel Martyn)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1998,
+      "maxYear": 1998
+    },
+    {
+      "id": 98242,
+      "title": "Medalet - Sainsbury's Official England Squad 1998 (Paul Gascoigne)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1998,
+      "maxYear": 1998
+    },
+    {
+      "id": 98249,
+      "title": "Medalet - Sainsbury's Official England Squad 1998 (Paul Merson)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1998,
+      "maxYear": 1998
+    },
+    {
+      "id": 98232,
+      "title": "Medalet - Sainsbury's Official England Squad 1998 (Paul Scholes)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1998,
+      "maxYear": 1998
+    },
+    {
+      "id": 98247,
+      "title": "Medalet - Sainsbury's Official England Squad 1998 (Rio Ferdinand)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1998,
+      "maxYear": 1998
+    },
+    {
+      "id": 98234,
+      "title": "Medalet - Sainsbury's Official England Squad 1998 (Sol Campbell)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1998,
+      "maxYear": 1998
+    },
+    {
+      "id": 98235,
+      "title": "Medalet - Sainsbury's Official England Squad 1998 (Teddy Sheringham)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1998,
+      "maxYear": 1998
+    }
+  ],
+  "tags": [
+    "Coat of Arms",
+    "Soccer"
+  ],
+  "weight": 8.2,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "category": "exonumia",
+  "type": "Collection medallions"
+}

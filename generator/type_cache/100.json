@@ -1,0 +1,155 @@
+{
+  "id": 100,
+  "url": "https://en.numista.com/100",
+  "title": "10 Euro Cents (1st map; coarse reeding)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "france",
+    "name": "France"
+  },
+  "min_year": 1999,
+  "max_year": 2006,
+  "ruler": [
+    {
+      "id": 11,
+      "name": "Fifth Republic",
+      "wikidata_id": "Q200686",
+      "group": {
+        "id": 89,
+        "name": "Modern France"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Euro Cents",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 9006,
+      "name": "Euro",
+      "full_name": "Euro (2002-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2002-01-01"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 19.75,
+  "thickness": 1.93,
+  "shape": "Round",
+  "composition": {
+    "text": "Nordic gold (89% Copper, 5% Aluminium, 5% Zinc, 1% Tin)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Laurent Jorio"
+    ],
+    "description": "A modern adaptation of the Sower, initially designed by Oscar Roty, representing \"France, which stays true to itself, whilst integrating into Europe\", is encircled by the twelve stars of Europe",
+    "lettering": "RF 2001 L. JORIO d'ap. O. ROTY",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "République française\r\nLaurent Jorio d'après Oscar Roty",
+    "picture": "https://en.numista.com/catalogue/photos/france/6289eb6f1395f8.91533745-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/6289eb6f1395f8.91533745-180.jpg",
+    "picture_copyright": "Mike Bentley",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Luc Luycx"
+    ],
+    "description": "A map, next to the face value, symbolizes the gathering of the 15 nations of the European Union",
+    "lettering": "10 EURO CENT LL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/france/6289eb6fa421c1.11082254-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/6289eb6fa421c1.11082254-180.jpg",
+    "picture_copyright": "Mike Bentley",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p>Gad# 4 has the description Grande Semeuse (large sower) and the type is coins issued 1999.<br>Gad# 4a has the description Petite Semeuse Iem type (small sower first type) and is coins issued 2000 to 2006.<br><br><u>Different Mint Master Marks</u><br>&nbsp;</p><ul><li><img src=\"https://en.numista.com/catalogue/images/5fa0215c0e68b.jpg\" alt=\"\"> Pierre Rodier, from 1999 to 2000, a mark of a bee<br>&nbsp;</li><li><img src=\"https://en.numista.com/catalogue/images/5fa0212561d01.jpg\" alt=\"\"> Gerard Buquoy, from 2001 to 2002, a mark of a horseshoe<br>&nbsp;</li><li><img src=\"https://en.numista.com/catalogue/images/5fa021a3b37d4.jpg\" alt=\"\"> Serge Levet, in 2003, a mark of a stylised heart with the initials of the mint master (SL)<br>&nbsp;</li><li><img src=\"https://en.numista.com/catalogue/images/5fa02200bd651.jpg\" alt=\"\"> Hubert Lariviere, from 2004 to 2006, a mark of a hunting horn with a wave and a fish<br>&nbsp;</li></ul><p><br><strong><u>BUNC Sets Released</u></strong><br>&nbsp;</p><ul><li>1999 - 35000 Annual Coin Sets<br>&nbsp;</li><li>2000 - 35000 Annual Coin Sets<br>&nbsp;</li><li>2001 - 35000 Annual Coin Sets<br>&nbsp;</li><li>2002 - 145563 Annual Coin Sets + 19727 <i>The Little Prince</i> Coin Sets<br>&nbsp;</li><li>2003 - 109407 Annual Coin Sets + 10094 <i>The Little Prince</i> Coin Sets + 12638 Tourism Coin Sets (Eiffel Tower)<br>&nbsp;</li><li>2004 - 120000 Annual Coin Sets + 5399 <i>The Little Prince</i> Coin Sets + 3704 Tourism Coin Sets (Provence)<br>&nbsp;</li><li>2005 - 69999 Annual Coin Sets + 2611 <i>Moebius </i>Coin Sets + 2541 Tourism Coin Sets (Garonne)<br>&nbsp;</li><li>2006 - 70000 Annual Coin Sets + 20 different illustrated Coin Sets of 500 issues each<br>&nbsp;</li></ul><p><br><strong><u>PROOF Sets Released</u></strong><br>&nbsp;</p><ul><li>From 1999 to 2006 - Annual Coin Sets<br>&nbsp;</li></ul>",
+  "related_types": [
+    {
+      "id": 153954,
+      "title": "10 Euro Cents (1st map; fine reeding)",
+      "category": "coin",
+      "country": {
+        "code": "france",
+        "name": "France"
+      },
+      "minYear": 1999,
+      "maxYear": 1999
+    },
+    {
+      "id": 3510,
+      "title": "10 Euro Cents (2nd map)",
+      "category": "coin",
+      "country": {
+        "code": "france",
+        "name": "France"
+      },
+      "minYear": 2007,
+      "maxYear": 2023
+    }
+  ],
+  "tags": [
+    "Map",
+    "Allegory",
+    "Phrygian cap"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1285"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "654"
+    },
+    {
+      "catalogue": {
+        "id": 109,
+        "code": "Gad 1789"
+      },
+      "number": "4 / 4a (Ed.2019)"
+    }
+  ],
+  "weight": 4.1,
+  "orientation": "medal",
+  "edge": {
+    "description": "Indented",
+    "picture": "https://en.numista.com/catalogue/photos/france/8645-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/8645-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

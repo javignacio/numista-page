@@ -1,0 +1,103 @@
+{
+  "id": 371426,
+  "url": "https://en.numista.com/371426",
+  "title": "1 Córdoba (Stainless steel)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "nicaragua",
+    "name": "Nicaragua"
+  },
+  "issuing_entity": {
+    "id": 863,
+    "name": "Central Bank of Nicaragua",
+    "wikidata_id": "Q4504274"
+  },
+  "min_year": 2022,
+  "max_year": 2024,
+  "ruler": [
+    {
+      "id": 4284,
+      "name": "Republic",
+      "wikidata_id": "Q811"
+    }
+  ],
+  "value": {
+    "text": "1 Córdoba",
+    "numeric_value": 1,
+    "currency": {
+      "id": 3150,
+      "name": "Third Córdoba \"Oro\"",
+      "full_name": "Third Córdoba \"Oro\" (1991-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2023-02-27"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The arms of Nicaragua with the country name above",
+    "lettering": "REPÚBLICA DE NICARAGUA\r\nAMÉRICA CENTRAL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Nicaragua\r\nCentral America",
+    "picture": "https://en.numista.com/catalogue/photos/nicaragua/64e2012a756210.49582987-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nicaragua/64e2012a756210.49582987-180.jpg",
+    "picture_copyright": "ageraldi",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Denomination in a circle with a legend above and the date below flanked by stars",
+    "lettering": "EN DIOS CONFIAMOS\r\n1\r\nCÓRDOBA\r\n2022",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "In God We Trust",
+    "picture": "https://en.numista.com/catalogue/photos/nicaragua/64e2012a0df680.43207471-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nicaragua/64e2012a0df680.43207471-180.jpg",
+    "picture_copyright": "ageraldi",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "tags": [
+    "Coat of Arms"
+  ],
+  "weight": 6.25,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/nicaragua/69ff59870dbdd7.15225134-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nicaragua/69ff59870dbdd7.15225134-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 27,
+      "name": "Mint of Poland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

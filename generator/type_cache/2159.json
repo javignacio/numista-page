@@ -1,0 +1,186 @@
+{
+  "id": 2159,
+  "url": "https://en.numista.com/2159",
+  "title": "1 Dollar - Elizabeth II (3rd Portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "australie",
+    "name": "Australia"
+  },
+  "min_year": 1985,
+  "max_year": 1998,
+  "ruler": [
+    {
+      "id": 1783,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 825,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Dollar",
+    "numeric_value": 1,
+    "currency": {
+      "id": 243,
+      "name": "Dollar",
+      "full_name": "Dollar (1966-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25,
+  "thickness": 2.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze (92% Copper, 6% Aluminium, 2% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Raphael David Maklouf"
+    ],
+    "description": "3rd portrait of Queen Elizabeth II facing right wearing the King George IV State Diadem",
+    "lettering": "ELIZABETH II \r\nAUSTRALIA 1985\r\nRDM",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/australie/65b3ce14d7b236.78386275-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/australie/65b3ce14d7b236.78386275-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "Stuart Devlin"
+    ],
+    "description": "\"Mob of Roos\" Five Kangaroos, denomination",
+    "lettering": "1 DOLLAR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/australie/65b3ce169cefb5.89172175-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/australie/65b3ce169cefb5.89172175-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "One year after the &quot;Mob of Roos&quot; was introduced into circulation to replace the Dollar Note the obverse of the coin was changed from Arnold Machin&#039;s second portrait design to Raphael David Maklouf&#039;s third portrait design. This obverse was in use on the MOR coin from 1985 until 1998. in 1999 the Ian Rank Broadley fourth portrait was introduced to the MOR coin.<br /><br />\r\nIn 1992 a Re-issue of the 1985 coin was released in a five-coin set with four other coins unique to the 25mm $1 coin denomination from 1984 to 1992 all with original dates.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5dd688ccea7e9.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5dd688ccea7e9.jpg\" alt=\"\" width=\"200\" height=\"139\" /></a> <a href=\"https://en.numista.com/catalogue/images/5dd688d730cf6.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5dd688d730cf6.jpg\" alt=\"\" width=\"200\" height=\"139\" /></a><br /><br />\r\nAccording to the RAM Website 8,000 MOR coins were minted in 1992. This is believed to be a mistake.<br />\r\nHowever some were produced as these pictures prove. One member on Numista has this coin.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5e9ed7fe36c52.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e9ed7fe36c52.png\" alt=\"\" width=\"141\" height=\"250\" /></a> <a href=\"https://en.numista.com/catalogue/images/5e9ed8164ffa8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e9ed8164ffa8.jpg\" alt=\"\" width=\"140\" height=\"249\" /></a><br /><br />\r\n&nbsp;This coin type was also issued as a Sterling Silver (.925) version in the 1990 Masterpieces in Silver Proof Sets. (See Link)",
+  "related_types": [
+    {
+      "id": 2288,
+      "title": "1 Dollar - Elizabeth II (2nd Portrait)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 1984,
+      "maxYear": 1984
+    },
+    {
+      "id": 147692,
+      "title": "1 Dollar - Elizabeth II (3rd Portrait - Masterpieces in Silver; Mob of Roos Proof)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 1990,
+      "maxYear": 1991
+    },
+    {
+      "id": 3148,
+      "title": "1 Dollar - Elizabeth II (4th Portrait)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 2000,
+      "maxYear": 2019
+    },
+    {
+      "id": 168314,
+      "title": "1 Dollar - Elizabeth II (5th portrait)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 2019,
+      "maxYear": 2019
+    },
+    {
+      "id": 166235,
+      "title": "1 Dollar - Elizabeth II (6th Portrait)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 2019,
+      "maxYear": 2022
+    },
+    {
+      "id": 381884,
+      "title": "1 Dollar - Charles III (1st Portrait)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 2023,
+      "maxYear": 2026
+    }
+  ],
+  "tags": [
+    "Marsupial"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "84"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "71"
+    }
+  ],
+  "weight": 9,
+  "orientation": "medal",
+  "edge": {
+    "description": "7 shorter smooth segments between 7 reeded segments (11 grooves each)",
+    "picture": "https://en.numista.com/catalogue/photos/australie/8010-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/australie/8010-180.jpg",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 28,
+      "name": "Royal Australian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

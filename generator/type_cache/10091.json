@@ -1,0 +1,164 @@
+{
+  "id": 10091,
+  "url": "https://en.numista.com/10091",
+  "title": "100 Francs CFA - Bokassa I",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "republique_centrafricaine",
+    "name": "Central African Republic"
+  },
+  "issuing_entity": {
+    "id": 699,
+    "name": "Bank of Central African States",
+    "wikidata_id": "Q189972"
+  },
+  "min_year": 1978,
+  "max_year": 1978,
+  "ruler": [
+    {
+      "id": 830,
+      "name": "Empire",
+      "wikidata_id": "Q189988"
+    }
+  ],
+  "value": {
+    "text": "100 Francs CFA",
+    "numeric_value": 100,
+    "currency": {
+      "id": 9043,
+      "name": "CFA Franc",
+      "full_name": "CFA Franc (Bank of Central African States, 1973-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 25.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Lucien Georges Bazor"
+    ],
+    "designers": [
+      "Robert Cochet"
+    ],
+    "description": "Antelopes (3 Giant Elands), also known as Lord Derby Elands (Binomial Name: Taurotragus derbianus) facing left with the issuer name above.",
+    "lettering": "EMPIRE CENTRAFRICAIN\r\nG.B.L.BAZOR\r\nCR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central African Empire\r\nG.B.L.Bazor\r\nCR",
+    "picture": "https://en.numista.com/catalogue/photos/republique_centrafricaine/6985a87e671660.35939446-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/republique_centrafricaine/6985a87e671660.35939446-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "reverse": {
+    "engravers": [
+      "Lucien Georges Bazor"
+    ],
+    "description": "Denomination and date within circle.",
+    "lettering": "BANQUE DES ETATS DE\r\nL'AFRIQUE CENTRALE\r\n100\r\nFRANCS\r\n1978",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Bank of Central\r\nAfrican States\r\n100\r\nFrancs",
+    "picture": "https://en.numista.com/catalogue/photos/republique_centrafricaine/6985a87fe73d68.70867763-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/republique_centrafricaine/6985a87fe73d68.70867763-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "comments": "These were produced during the short-lived reign of dictator Jean-Bedel Bokassa as Emperor, but not released for circulation, though many are now available in the market.",
+  "related_types": [
+    {
+      "id": 1375,
+      "title": "100 Francs CFA",
+      "category": "coin",
+      "country": {
+        "code": "republique_centrafricaine",
+        "name": "Central African Republic"
+      },
+      "minYear": 1971,
+      "maxYear": 1972
+    },
+    {
+      "id": 176152,
+      "title": "100 Francs CFA - Bokassa I (Essai)",
+      "category": "coin",
+      "country": {
+        "code": "republique_centrafricaine",
+        "name": "Central African Republic"
+      },
+      "minYear": 1978,
+      "maxYear": 1978
+    },
+    {
+      "id": 1801,
+      "title": "100 Francs CFA",
+      "category": "coin",
+      "country": {
+        "code": "republique_centrafricaine",
+        "name": "Central African Republic"
+      },
+      "minYear": 1975,
+      "maxYear": 1990
+    },
+    {
+      "id": 1805,
+      "title": "100 Francs CFA",
+      "category": "coin",
+      "country": {
+        "code": "beac",
+        "name": "Central African States"
+      },
+      "minYear": 1992,
+      "maxYear": 2003
+    }
+  ],
+  "tags": [
+    "Cow or bovine"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "8"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "8"
+    }
+  ],
+  "weight": 7,
+  "orientation": "coin",
+  "edge": {
+    "description": "Milled",
+    "picture": "https://en.numista.com/catalogue/photos/republique_centrafricaine/6a12c50081a2e0.93194037-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/republique_centrafricaine/6a12c50081a2e0.93194037-180.jpg",
+    "picture_copyright": "by Ilsesee"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

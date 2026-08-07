@@ -1,0 +1,110 @@
+{
+  "id": 68046,
+  "url": "https://en.numista.com/68046",
+  "title": "1 Real (Olympic Games Rio 2016 - Paratriathlon)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "bresil",
+    "name": "Brazil"
+  },
+  "min_year": 2014,
+  "max_year": 2014,
+  "ruler": [
+    {
+      "id": 2684,
+      "name": "Federative Republic of Brazil",
+      "wikidata_id": "Q155"
+    }
+  ],
+  "value": {
+    "text": "1 Real",
+    "numeric_value": 1,
+    "currency": {
+      "id": 158,
+      "name": "Real",
+      "full_name": "Real (1994-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 27,
+  "thickness": 1.95,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: stainless steel centre in bronze plated steel ring"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Athlete doing a triple jump",
+    "lettering": "RIO 2016\r\nBRASIL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Rio 2016\r\nBrazil",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/1652-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/1652-180.jpg",
+    "picture_copyright": "Dario Silva Collection",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Value and date on flag",
+    "lettering": "1\r\nREAL\r\n2014",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bresil/1653-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/1653-180.jpg",
+    "picture_copyright": "Dario Silva Collection",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "series": "2016 Summer Olympics, Rio",
+  "commemorated_topic": "Paratriathlon",
+  "tags": [
+    "Summer Olympic Games",
+    "Athletics"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "689"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "201"
+    }
+  ],
+  "weight": 7,
+  "orientation": "coin",
+  "edge": {
+    "description": "Mills and smooth section",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/1895-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/1895-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 1335,
+      "name": "Mint of Brazil"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

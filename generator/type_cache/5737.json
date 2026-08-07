@@ -1,0 +1,107 @@
+{
+  "id": 5737,
+  "url": "https://en.numista.com/5737",
+  "title": "2 Rupees - Monarchy/Republic",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "nepal",
+    "name": "Nepal"
+  },
+  "min_year": 2006,
+  "max_year": 2009,
+  "ruler": [
+    {
+      "id": 3965,
+      "name": "Gyanendra Bir Bikram Shah",
+      "wikidata_id": "Q201327",
+      "group": {
+        "id": 240,
+        "name": "Shah dynasty"
+      }
+    },
+    {
+      "id": 3966,
+      "name": "Federal Republic",
+      "wikidata_id": "Q837"
+    }
+  ],
+  "value": {
+    "text": "2 Rupees",
+    "numeric_value": 2,
+    "currency": {
+      "id": 173,
+      "name": "Rupee",
+      "full_name": "Rupee (1932-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24.93,
+  "thickness": 1.58,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Mount Everest and \"Sagarmatha\" (name of Everest in Nepali) as the inscription",
+    "lettering": "सगरमाथा \r\n२०६६",
+    "lettering_scripts": [
+      {
+        "name": "Devanagari"
+      }
+    ],
+    "lettering_translation": "Sagarmatha\r\n2066",
+    "picture": "https://en.numista.com/catalogue/photos/nepal/596-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nepal/596-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "reverse": {
+    "description": "Farmer ploughing with water buffalos",
+    "lettering": "नेपाल NEPAL\r\n२ रुपैयाँ",
+    "lettering_scripts": [
+      {
+        "name": "Devanagari"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Nepal\r\n2 Rupee",
+    "picture": "https://en.numista.com/catalogue/photos/nepal/597-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nepal/597-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "tags": [
+    "Agriculture",
+    "Cow or bovine",
+    "Mountain"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1188"
+    }
+  ],
+  "weight": 5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/nepal/1707-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nepal/1707-180.jpg",
+    "picture_copyright": "CyrusPamelaOne",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

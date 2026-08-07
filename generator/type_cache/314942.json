@@ -1,0 +1,127 @@
+{
+  "id": 314942,
+  "url": "https://en.numista.com/314942",
+  "title": "1 Bolívar",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "venezuela",
+    "name": "Venezuela"
+  },
+  "min_year": 2021,
+  "max_year": 2021,
+  "ruler": [
+    {
+      "id": 4707,
+      "name": "Bolivarian Republic",
+      "wikidata_id": "Q717"
+    }
+  ],
+  "value": {
+    "text": "1 Bolivar",
+    "numeric_value": 1,
+    "currency": {
+      "id": 9640,
+      "name": "Bolivar Digital",
+      "full_name": "Bolivar Digital (2021-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25.4,
+  "thickness": 1.85,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Denomination, republic name, and year of minting.",
+    "lettering": "REPÚBLICA BOLIVARIANA DE VENEZUELA\r\n1 BOLÍVAR\r\n· 2021 ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Bolivarian Republic of Venezuela",
+    "picture": "https://en.numista.com/catalogue/photos/venezuela/676fd0413ddfe0.93392112-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/venezuela/676fd0413ddfe0.93392112-180.jpg",
+    "picture_copyright": "oynbcn"
+  },
+  "reverse": {
+    "description": "Portrait Simón Bolívar within an inner circle with 8 stars (4 on each side) on the outer part of the coin.",
+    "lettering": "BOLÍVAR\r\nLIBERTADOR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Bolívar, Liberator",
+    "picture": "https://en.numista.com/catalogue/photos/venezuela/676fd041894ed0.70190767-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/venezuela/676fd041894ed0.70190767-180.jpg",
+    "picture_copyright": "oynbcn"
+  },
+  "comments": "New 25 céntimos, 50 céntimos and 1 bolivar coins were introduced in 1 October 2021 as a part of the redenomination of the bolivar, removing 6 zeroes in their currency. The value of 1 digital bolivar equals to 1,000,000 sovereign bolivars.",
+  "related_types": [
+    {
+      "id": 320371,
+      "title": "25 Céntimos",
+      "category": "coin",
+      "country": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "minYear": 2021,
+      "maxYear": 2021
+    },
+    {
+      "id": 317489,
+      "title": "50 Céntimos",
+      "category": "coin",
+      "country": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "minYear": 2021,
+      "maxYear": 2021
+    }
+  ],
+  "tags": [
+    "Military leader",
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "111"
+    },
+    {
+      "catalogue": {
+        "id": 2068,
+        "code": "NCV"
+      },
+      "number": "mv1bsd-aa01"
+    }
+  ],
+  "weight": 6.4,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 4182,
+      "name": "Casa de la Moneda de Venezuela"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

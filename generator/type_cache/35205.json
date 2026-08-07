@@ -1,0 +1,91 @@
+{
+  "id": 35205,
+  "url": "https://en.numista.com/35205",
+  "title": "½ Real - Charles IV (bust of Charles IV)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "chili",
+    "name": "Chile"
+  },
+  "min_year": 1792,
+  "max_year": 1808,
+  "ruler": [
+    {
+      "id": 11584,
+      "name": "Charles IV",
+      "wikidata_id": "Q183226",
+      "nomisma_id": "charles_iv_spain",
+      "group": {
+        "id": 1015,
+        "name": "Viceroyalty of Spain, House of Bourbon"
+      }
+    }
+  ],
+  "value": {
+    "text": "½ Real",
+    "numeric_value": 0.5,
+    "numerator": 1,
+    "denominator": 2,
+    "currency": {
+      "id": 1203,
+      "name": "Real",
+      "full_name": "Real (1541-1852)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 17,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.896)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Bust of Charles IV, date below",
+    "lettering": "CAROLUS IIII DEI GRATIA\r\n1806",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chili/596-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/596-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "description": "Crowned arms and pillars",
+    "lettering": "HISPAN ET IND REX\r\nSo\r\nFJ",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chili/597-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/597-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "57"
+    }
+  ],
+  "weight": 1.6917,
+  "orientation": "medal",
+  "edge": {
+    "description": "Chained"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

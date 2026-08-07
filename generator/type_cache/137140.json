@@ -1,0 +1,112 @@
+{
+  "id": 137140,
+  "url": "https://en.numista.com/137140",
+  "title": "50 Céntimos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "venezuela",
+    "name": "Venezuela"
+  },
+  "min_year": 2018,
+  "max_year": 2018,
+  "ruler": [
+    {
+      "id": 4707,
+      "name": "Bolivarian Republic",
+      "wikidata_id": "Q717"
+    }
+  ],
+  "value": {
+    "text": "50 Centimos",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 7373,
+      "name": "Bolivar Soberano",
+      "full_name": "Bolivar Soberano (2018-2021)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 22,
+  "thickness": 1.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Désiré-Albert Barre"
+    ],
+    "description": "In the center on the left the value in numbers, on the right, coat of arms and under the word CENTIMOS. Surrounded by legend and the date.",
+    "lettering": "REPÚBLICA BOLIVARIANA DE VENEZUELA - 50 CÉNTIMOS - 2018",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Bolivarian Republic of Venezuela",
+    "picture": "https://en.numista.com/catalogue/photos/venezuela/802-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/venezuela/802-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "engravers": [
+      "Désiré-Albert Barre"
+    ],
+    "description": "In the center the bust of Simon Bolivar. In legend the words: BOLIVAR (upper part) - LIBERATOR (lower part), separated by four stars on the left and four on the right. Exergo with name of the engraver (Barre) and logo.",
+    "lettering": "BOLÌVAR - LIBERTADOR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/venezuela/801-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/venezuela/801-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "tags": [
+    "Horse or equine",
+    "Military leader",
+    "Politician",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "107"
+    },
+    {
+      "catalogue": {
+        "id": 2068,
+        "code": "NCV"
+      },
+      "number": "mv50ctss-aa01"
+    }
+  ],
+  "weight": 4.3,
+  "orientation": "coin",
+  "edge": {
+    "description": "Striated discontinuous",
+    "picture": "https://en.numista.com/catalogue/photos/venezuela/790-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/venezuela/790-180.jpg",
+    "picture_copyright": "Psylotum"
+  },
+  "mints": [
+    {
+      "id": 4182,
+      "name": "Casa de la Moneda de Venezuela"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

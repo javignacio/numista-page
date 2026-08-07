@@ -1,0 +1,111 @@
+{
+  "id": 2444,
+  "url": "https://en.numista.com/2444",
+  "title": "50 Céntimos (Without braille)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "perou",
+    "name": "Peru"
+  },
+  "issuing_entity": {
+    "id": 936,
+    "name": "Central Reserve Bank of Peru",
+    "wikidata_id": "Q932146"
+  },
+  "min_year": 2001,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 3757,
+      "name": "Republic",
+      "wikidata_id": "Q419"
+    }
+  ],
+  "value": {
+    "text": "50 Centimos",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 184,
+      "name": "Nuevo sol",
+      "full_name": "Nuevo sol (1991-2015) / Sol (2016-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 22,
+  "thickness": 1.65,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass (Copper-nickel-zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms of Peru surrounded by legend.",
+    "lettering": "BANCO CENTRAL DE RESERVA DEL PERÚ\r\n2016",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Reserve Bank of Peru",
+    "picture": "https://en.numista.com/catalogue/photos/perou/1773-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/1773-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "description": "Denomination with wreath to the left and vertical lines to the right.",
+    "lettering": "50 \r\nCÉNTIMOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/perou/1774-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/1774-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "comments": "Reverses with/without braille :<br />\r\n<a href=\"https://en.numista.com/catalogue/images/56965da53d90e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/56965da53d90e.jpg\" alt=\"\" width=\"200\" height=\"199\" /></a><a href=\"https://en.numista.com/catalogue/images/56965df71f86f.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/56965df71f86f.jpg\" alt=\"\" width=\"200\" height=\"199\" /></a><br />\r\nObverse with PERU/ PERÚ<br />\r\n<a href=\"https://en.numista.com/catalogue/images/56966146a6828.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/56966146a6828.jpg\" alt=\"\" width=\"200\" height=\"199\" /></a><a href=\"https://en.numista.com/catalogue/images/5696614f6bbf8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5696614f6bbf8.jpg\" alt=\"\" width=\"200\" height=\"198\" /></a>",
+  "tags": [
+    "Coat of Arms",
+    "Cornucopia",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "307.4"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "106"
+    }
+  ],
+  "weight": 5.52,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded.",
+    "picture": "https://en.numista.com/catalogue/photos/perou/64ab5e7ac52ef1.78495071-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/64ab5e7ac52ef1.78495071-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 297,
+      "name": "Lima"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

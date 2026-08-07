@@ -1,0 +1,109 @@
+{
+  "id": 203822,
+  "url": "https://en.numista.com/203822",
+  "title": "10 000 Australes",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "argentine",
+    "name": "Argentina"
+  },
+  "issuing_entity": {
+    "id": 597,
+    "name": "Central Bank of the Argentine Republic",
+    "wikidata_id": "Q642444"
+  },
+  "min_year": 1989,
+  "max_year": 1991,
+  "ruler": [
+    {
+      "id": 3983,
+      "name": "Federal Republic",
+      "wikidata_id": "Q414"
+    }
+  ],
+  "value": {
+    "text": "10 000 Australes",
+    "numeric_value": 10000,
+    "currency": {
+      "id": 144,
+      "name": "Austral",
+      "full_name": "Austral (1985-1991)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1992-12-31"
+  },
+  "size": 155,
+  "size2": 65,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Portrait of Carlos Pellegrini",
+    "lettering": "BANCO CENTRAL DE LA REPUBLICA ARGENTINA\r\nDiez Mil Australes\r\nCARLOS PELLEGRINI",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Bank of the Argentine Republic\r\nTen thousand Australes\r\nCarlos Pellegrini",
+    "picture": "https://en.numista.com/catalogue/photos/argentine/699f0f0d5fbde3.28227457-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/699f0f0d5fbde3.28227457-180.jpg",
+    "picture_copyright": "BanknoteBiscuit",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Liberty (Progreso) with torch and shield seated at left center",
+    "lettering": "Republica Argentina\r\nDiez Mil Australes",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Argentinian Republic\r\nTen thousand Australes",
+    "picture": "https://en.numista.com/catalogue/photos/argentine/699f0f0e4c2317.54154538-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/699f0f0e4c2317.54154538-180.jpg",
+    "picture_copyright": "BanknoteBiscuit",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "series": "ND (1985-1991) \"Austral\" Issue",
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "334"
+    },
+    {
+      "catalogue": {
+        "id": 1841,
+        "code": "Bottero"
+      },
+      "number": "2878 to 2883"
+    }
+  ],
+  "watermark": {
+    "description": "Portrait of \"Libertad\" (7C)",
+    "picture": "https://en.numista.com/catalogue/photos/argentine/65b944b8b8aab9.95480799-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/65b944b8b8aab9.95480799-180.jpg",
+    "picture_copyright": "vladthiengo",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "printers": [
+    {
+      "id": 11,
+      "name": "Casa de Moneda"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

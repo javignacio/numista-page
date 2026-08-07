@@ -1,0 +1,146 @@
+{
+  "id": 5,
+  "url": "https://en.numista.com/5",
+  "title": "½ Franc (signature \"O. Roty\")",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "france",
+    "name": "France"
+  },
+  "min_year": 1964,
+  "max_year": 2001,
+  "ruler": [
+    {
+      "id": 11,
+      "name": "Fifth Republic",
+      "wikidata_id": "Q200686",
+      "group": {
+        "id": 89,
+        "name": "Modern France"
+      }
+    }
+  ],
+  "value": {
+    "text": "½ Franc",
+    "numeric_value": 0.5,
+    "numerator": 1,
+    "denominator": 2,
+    "currency": {
+      "id": 77,
+      "name": "New franc",
+      "full_name": "New franc (1960-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2002-02-17"
+  },
+  "size": 19.5,
+  "thickness": 1.95,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Louis-Oscar Roty"
+    ],
+    "description": "The Sower, designed by Oscar Roty in 1900: a national emblem of the French Republic",
+    "lettering": "REPUBLIQUE FRANÇAISE\r\nO. Roty",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "French Republic",
+    "picture": "https://en.numista.com/catalogue/photos/france/5607-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/5607-180.jpg",
+    "picture_copyright": "HOOK"
+  },
+  "reverse": {
+    "engravers": [
+      "Louis-Oscar Roty"
+    ],
+    "description": "Underneath the face value, an olive branch is surrounded with the French motto: \"LIBERTE - EGALITE - FRATERNITE\" (liberty, equality, fraternity)",
+    "lettering": "LIBERTE·EGALITE·FRATERNITE\r\n1/2\r\nFRANC\r\n2000",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Liberty, Equality, Fraternity",
+    "picture": "https://en.numista.com/catalogue/photos/france/5608-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/5608-180.jpg"
+  },
+  "series": "½ franc semeuse",
+  "comments": "Different privy marks throughout mintages:<br />\r\nOwl 1958-74 Raymond Joly<br />\r\nDolphin 1974-94 Rousseau<br />\r\nBee 1994- Pierre Rodier<br />\r\nHorseshoe 2000-2002 Gérard Buquoy<br /><br />\r\n&nbsp;The 1993 &#039;No mark&#039; has missing privy marks both sides of denomination ...<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5b61f2641723e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5b61f2641723e.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5cb5b5472d891.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5cb5b5472d891.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5df37ad95b292.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5df37ad95b292.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "related_types": [
+    {
+      "id": 17814,
+      "title": "½ Franc (signature \"D'AP. O.ROTY\")",
+      "category": "coin",
+      "country": {
+        "code": "france",
+        "name": "France"
+      },
+      "minYear": 1991,
+      "maxYear": 2001
+    }
+  ],
+  "tags": [
+    "Allegory",
+    "Phrygian cap"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 34,
+        "code": "Franc 2014"
+      },
+      "number": "198"
+    },
+    {
+      "catalogue": {
+        "id": 109,
+        "code": "Gad 1789"
+      },
+      "number": "429"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "931.1"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "232"
+    }
+  ],
+  "weight": 4.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/france/69516ab8543214.02830198-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/69516ab8543214.02830198-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

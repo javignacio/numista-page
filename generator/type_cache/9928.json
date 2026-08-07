@@ -1,0 +1,157 @@
+{
+  "id": 9928,
+  "url": "https://en.numista.com/9928",
+  "title": "1 Riyal / 100 Halalah - Fahd",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "saudi-arabia-period",
+    "name": "Saudi Arabia (1932-date)"
+  },
+  "min_year": 1999,
+  "max_year": 1999,
+  "ruler": [
+    {
+      "id": 3138,
+      "name": "Fahd bin Abdulaziz",
+      "wikidata_id": "Q183187"
+    }
+  ],
+  "value": {
+    "text": "100 Halalas",
+    "numeric_value": 1,
+    "currency": {
+      "id": 164,
+      "name": "Riyal",
+      "full_name": "Riyal (1960-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23,
+  "thickness": 2.04,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: brass centre in copper-nickel ring"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "National emblem at the center, lettering around",
+    "lettering": "خادم الحرمين الشريفين\r\nالملك فهد بن عبد العزيز آل سعود",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "Custodian of the Two Holy Mosques\r\nKing Fahd bin 'Abd al-'Aziz Al Sa'ud",
+    "picture": "https://en.numista.com/catalogue/photos/saudi-arabia-period/663250f86a33c5.12404694-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/saudi-arabia-period/663250f86a33c5.12404694-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "reverse": {
+    "description": "Denomination",
+    "lettering": "مائة هللة\r\nريال واحد\r\n100 ١٠٠\r\n١٤١٩",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "One Hundred Halalah\r\nOne Riyal\r\n1419",
+    "picture": "https://en.numista.com/catalogue/photos/saudi-arabia-period/663250f8846159.43979105-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/saudi-arabia-period/663250f8846159.43979105-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "related_types": [
+    {
+      "id": 14756,
+      "title": "1 Qirsh / 5 Halalāt - Fahd",
+      "category": "coin",
+      "country": {
+        "code": "saudi-arabia-period",
+        "name": "Saudi Arabia (1932-date)"
+      },
+      "minYear": 1988,
+      "maxYear": 1988
+    },
+    {
+      "id": 9927,
+      "title": "2 Qirsh / 10 Halalāt - Fahd",
+      "category": "coin",
+      "country": {
+        "code": "saudi-arabia-period",
+        "name": "Saudi Arabia (1932-date)"
+      },
+      "minYear": 1988,
+      "maxYear": 2002
+    },
+    {
+      "id": 3143,
+      "title": "¼ Riyal / 25 Halālah - Fahd",
+      "category": "coin",
+      "country": {
+        "code": "saudi-arabia-period",
+        "name": "Saudi Arabia (1932-date)"
+      },
+      "minYear": 1988,
+      "maxYear": 2002
+    },
+    {
+      "id": 7637,
+      "title": "½ Riyal / 50 Halalah - Fahd",
+      "category": "coin",
+      "country": {
+        "code": "saudi-arabia-period",
+        "name": "Saudi Arabia (1932-date)"
+      },
+      "minYear": 1988,
+      "maxYear": 2002
+    },
+    {
+      "id": 7638,
+      "title": "1 Riyal / 100 Halalah - Fahd",
+      "category": "coin",
+      "country": {
+        "code": "saudi-arabia-period",
+        "name": "Saudi Arabia (1932-date)"
+      },
+      "minYear": 1988,
+      "maxYear": 1994
+    }
+  ],
+  "tags": [
+    "Tree",
+    "Coat of Arms",
+    "Cold weapons"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "66"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "48"
+    }
+  ],
+  "weight": 6,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/saudi-arabia-period/6942d87b72e164.07335772-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/saudi-arabia-period/6942d87b72e164.07335772-180.jpg",
+    "picture_copyright": "Dieter83"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

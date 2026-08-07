@@ -1,0 +1,113 @@
+{
+  "id": 5650,
+  "url": "https://en.numista.com/5650",
+  "title": "3 Pence - George V (4th issue)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1927,
+  "max_year": 1936,
+  "ruler": [
+    {
+      "id": 272,
+      "name": "George V",
+      "wikidata_id": "Q269412",
+      "group": {
+        "id": 526,
+        "name": "House of Saxe-Coburg and Gotha"
+      }
+    }
+  ],
+  "value": {
+    "text": "3 Pence",
+    "numeric_value": 0.0125,
+    "numerator": 1,
+    "denominator": 80,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1971)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 16,
+  "thickness": 0.89,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.500)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Edgar Bertram MacKennal"
+    ],
+    "description": "Modified uncrowned portrait of King George V facing left, legend around.",
+    "lettering": "GEORGIVS V D.G.BRITT:OMN:REX F.D.IND:IMP:\r\nBM",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Georgius V Dei Gratia Britanniarum Omnium Rex Fidei Defensor Indiae Imperator",
+    "lettering_translation": "George the Fifth by the Grace of God King of all the Britons Defender of the Faith Emperor of India",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/2513-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/2513-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "engravers": [
+      "George Kruger Gray"
+    ],
+    "description": "Three oak sprigs with three acorns, denomination above, date below.",
+    "lettering": "THREE· ·PENCE·\r\nG\r\n1936",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/2514-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/2514-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "House of Windsor (1917 to date), George V (1910-36), Fourth coinage (1927-36), silver threepence<br />\r\nThe standard weight of this coin was 1/22 troy ounce or 21.8 grains.",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "831"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "4042"
+    }
+  ],
+  "weight": 1.41,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

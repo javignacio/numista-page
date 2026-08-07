@@ -1,0 +1,205 @@
+{
+  "id": 763,
+  "url": "https://en.numista.com/763",
+  "title": "20 Kopecks",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "ancienne_urss",
+    "name": "Soviet Union"
+  },
+  "min_year": 1961,
+  "max_year": 1991,
+  "ruler": [
+    {
+      "id": 1572,
+      "name": "Soviet Union",
+      "wikidata_id": "Q15180"
+    }
+  ],
+  "value": {
+    "text": "20 Kopecks",
+    "numeric_value": 0.2,
+    "currency": {
+      "id": 168,
+      "name": "Sixth Rouble",
+      "full_name": "Sixth Rouble (1961-1991)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1991-00-00"
+  },
+  "size": 21.8,
+  "thickness": 1.4,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Hammer and sickle overlain on globe above sun with rays, all within wreath or sheaf of wheat stalks, star above.\r\n15 ribbons on the wreath, 7 + 1 + 7",
+    "lettering": "СССР",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "USSR",
+    "picture": "https://en.numista.com/catalogue/photos/ancienne_urss/7-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ancienne_urss/7-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Denomination and date within wreath.",
+    "lettering": "20\r\nКОПЕЕК\r\n1985",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "20 \nKopecks\n1985",
+    "picture": "https://en.numista.com/catalogue/photos/ancienne_urss/8-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ancienne_urss/8-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/58077c91a51d0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/58077c91a51d0.jpg\" alt=\"\" width=\"200\" height=\"224\" /></a><br />\nwww.rarecoins.ru<br /><br />\nIn SCWC Krause - Copper-nickel-zinc.<br />\nThe Russian (and Soviet) catalogs list the alloy as Copper-nickel.",
+  "related_types": [
+    {
+      "id": 767,
+      "title": "1 Kopeck",
+      "category": "coin",
+      "country": {
+        "code": "ancienne_urss",
+        "name": "Soviet Union"
+      },
+      "minYear": 1961,
+      "maxYear": 1991
+    },
+    {
+      "id": 2085,
+      "title": "2 Kopecks",
+      "category": "coin",
+      "country": {
+        "code": "ancienne_urss",
+        "name": "Soviet Union"
+      },
+      "minYear": 1961,
+      "maxYear": 1991
+    },
+    {
+      "id": 766,
+      "title": "3 Kopecks",
+      "category": "coin",
+      "country": {
+        "code": "ancienne_urss",
+        "name": "Soviet Union"
+      },
+      "minYear": 1961,
+      "maxYear": 1991
+    },
+    {
+      "id": 765,
+      "title": "5 Kopecks",
+      "category": "coin",
+      "country": {
+        "code": "ancienne_urss",
+        "name": "Soviet Union"
+      },
+      "minYear": 1961,
+      "maxYear": 1991
+    },
+    {
+      "id": 764,
+      "title": "10 Kopecks",
+      "category": "coin",
+      "country": {
+        "code": "ancienne_urss",
+        "name": "Soviet Union"
+      },
+      "minYear": 1961,
+      "maxYear": 1991
+    },
+    {
+      "id": 2084,
+      "title": "15 Kopecks",
+      "category": "coin",
+      "country": {
+        "code": "ancienne_urss",
+        "name": "Soviet Union"
+      },
+      "minYear": 1961,
+      "maxYear": 1991
+    },
+    {
+      "id": 762,
+      "title": "50 Kopecks",
+      "category": "coin",
+      "country": {
+        "code": "ancienne_urss",
+        "name": "Soviet Union"
+      },
+      "minYear": 1961,
+      "maxYear": 1991
+    },
+    {
+      "id": 4656,
+      "title": "1 Rouble",
+      "category": "coin",
+      "country": {
+        "code": "ancienne_urss",
+        "name": "Soviet Union"
+      },
+      "minYear": 1961,
+      "maxYear": 1991
+    }
+  ],
+  "tags": [
+    "Coat of Arms",
+    "Hammer and sickle"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "132"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "81"
+    }
+  ],
+  "weight": 3.4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/ancienne_urss/1123-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ancienne_urss/1123-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 7,
+      "name": "Saint Petersburg"
+    },
+    {
+      "id": 6,
+      "name": "Moscow Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

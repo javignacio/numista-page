@@ -1,0 +1,121 @@
+{
+  "id": 11625,
+  "url": "https://en.numista.com/11625",
+  "title": "1 Peso (Mar del Plata)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "argentine",
+    "name": "Argentina"
+  },
+  "min_year": 2010,
+  "max_year": 2010,
+  "ruler": [
+    {
+      "id": 3983,
+      "name": "Federal Republic",
+      "wikidata_id": "Q414"
+    }
+  ],
+  "value": {
+    "text": "1 Peso",
+    "numeric_value": 1,
+    "currency": {
+      "id": 145,
+      "name": "Peso convertible",
+      "full_name": "Peso convertible (1992-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23,
+  "thickness": 2.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: aluminium bronze centre in copper-nickel ring (Cu 92 Al 6 Ni 2 - Cu 75 Ni 25)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The \" Monumento al Lobo Marino \" (Monument to the Sea Wolf), located in Mar del Plata",
+    "lettering": "REPUBLICA ARGENTINA \r\nMAR DEL PLATA\r\nBICENTENARIO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Argentina\r\nMar del Plata\r\nBicentenary",
+    "picture": "https://en.numista.com/catalogue/photos/argentine/1044-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/1044-180.jpg",
+    "picture_copyright": "Dario Silva Collection",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Stylized radiant sun, denomination and date.",
+    "lettering": "2010 \r\n1 PESO \r\n1810 \r\n2010 \r\nEN UNIÓN Y LIBERTAD",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "2010\r\n1 pESO\r\n1810\r\n2010\r\nin Union and Liberty",
+    "picture": "https://en.numista.com/catalogue/photos/argentine/1045-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/1045-180.jpg",
+    "picture_copyright": "Dario Silva Collection",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "series": "Bicentennial of the May Revolution",
+  "commemorated_topic": "200th Anniversary of Argentina & May Revolution",
+  "tags": [
+    "Sculpture",
+    "Revolution or civil war",
+    "Sea",
+    "Boat or watercraft",
+    "Sun"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "158"
+    },
+    {
+      "catalogue": {
+        "id": 160,
+        "code": "CJ"
+      },
+      "number": "6.19"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "168"
+    }
+  ],
+  "weight": 6.35,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/argentine/6993536c8c2675.52953996-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/6993536c8c2675.52953996-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 1336,
+      "name": "Buenos Aires"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

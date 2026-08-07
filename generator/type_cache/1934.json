@@ -1,0 +1,203 @@
+{
+  "id": 1934,
+  "url": "https://en.numista.com/1934",
+  "title": "2 Deutsche Mark (Kurt Schumacher)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "allemagne",
+    "name": "Germany, Federal Republic of"
+  },
+  "min_year": 1979,
+  "max_year": 1993,
+  "ruler": [
+    {
+      "id": 2860,
+      "name": "Federal Republic",
+      "wikidata_id": "Q183"
+    }
+  ],
+  "value": {
+    "text": "2 Deutsche Mark",
+    "numeric_value": 2,
+    "currency": {
+      "id": 131,
+      "name": "Deutsche Mark",
+      "full_name": "Deutsche Mark (1948-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2001-12-31"
+  },
+  "size": 26.75,
+  "thickness": 1.79,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel clad nickel (Cladding: 75% Copper, 25% Nickel; Core: 100% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "An eagle, the emblem of Germany, with the date above and the denomination at the bottom.",
+    "lettering": "BUNDESREPUBLIK DEUTSCHLAND\r\n1992\r\nG\r\n2 DEUTSCHE MARK",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Federal Republic of Germany\r\n1992\r\nG\r\n2 Deutsche Mark",
+    "picture": "https://en.numista.com/catalogue/photos/allemagne/1965-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/1965-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "reverse": {
+    "engravers": [
+      "Hans-Joachim Dobler"
+    ],
+    "description": "Portrait of Kurt Schumacher (1895-1952), the leader of the Social-Democrat Party from 1945 to 1952",
+    "lettering": "·BUNDESREPUBLIK DEUTSCHLAND· \r\n1949 1979",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Federal Republic of Germany\r\n1949 1979",
+    "picture": "https://en.numista.com/catalogue/photos/allemagne/1966-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/1966-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "commemorated_topic": "Kurt Schumacher - 30 Years of Federal Republic of Germany",
+  "related_types": [
+    {
+      "id": 845,
+      "title": "2 Deutsche Mark (Max Planck)",
+      "category": "coin",
+      "country": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+      },
+      "minYear": 1957,
+      "maxYear": 1971
+    },
+    {
+      "id": 844,
+      "title": "2 Deutsche Mark (Konrad Adenauer)",
+      "category": "coin",
+      "country": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+      },
+      "minYear": 1969,
+      "maxYear": 1987
+    },
+    {
+      "id": 1935,
+      "title": "2 Deutsche Mark (Theodor Heuss)",
+      "category": "coin",
+      "country": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+      },
+      "minYear": 1970,
+      "maxYear": 1987
+    },
+    {
+      "id": 1938,
+      "title": "2 Deutsche Mark (Ludwig Erhard)",
+      "category": "coin",
+      "country": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+      },
+      "minYear": 1988,
+      "maxYear": 2001
+    },
+    {
+      "id": 1931,
+      "title": "2 Deutsche Mark (Franz Josef Strauss)",
+      "category": "coin",
+      "country": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+      },
+      "minYear": 1990,
+      "maxYear": 2001
+    },
+    {
+      "id": 1939,
+      "title": "2 Deutsche Mark (Willy Brandt)",
+      "category": "coin",
+      "country": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+      },
+      "minYear": 1994,
+      "maxYear": 2001
+    }
+  ],
+  "tags": [
+    "Eagle",
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "149"
+    },
+    {
+      "catalogue": {
+        "id": 80,
+        "code": "J"
+      },
+      "number": "424"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "148"
+    }
+  ],
+  "weight": 7,
+  "orientation": "medal",
+  "edge": {
+    "description": "Smooth with the inscription of the German motto",
+    "lettering": "EINIGKEIT UND RECHT UND FREIHEIT",
+    "lettering_translation": "Unity, Justice, and Freedom",
+    "picture": "https://en.numista.com/catalogue/photos/allemagne/697facbfe97256.20977183-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/allemagne/697facbfe97256.20977183-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 5,
+      "name": "Berlin"
+    },
+    {
+      "id": 1,
+      "name": "Munich"
+    },
+    {
+      "id": 2,
+      "name": "Staatliche Münze Baden-Württemberg"
+    },
+    {
+      "id": 3,
+      "name": "Staatliche Münze Baden-Württemberg"
+    },
+    {
+      "id": 4,
+      "name": "Hamburgische Münze"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

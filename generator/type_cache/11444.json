@@ -1,0 +1,104 @@
+{
+  "id": 11444,
+  "url": "https://en.numista.com/11444",
+  "title": "10 Øre - Haakon VII",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "norvege",
+    "name": "Norway"
+  },
+  "min_year": 1909,
+  "max_year": 1919,
+  "ruler": [
+    {
+      "id": 449,
+      "name": "Haakon VII",
+      "wikidata_id": "Q154927",
+      "group": {
+        "id": 358,
+        "name": "House of Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Øre",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 16,
+      "name": "Krone",
+      "full_name": "Krone (1875-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 15,
+  "thickness": 1,
+  "shape": "Round",
+  "composition": {
+    "text": "Billon (.400 silver) (Ag 40%, Cu 60%)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Crowned monogram of Haakon VII. Surrounded by inscription. Beaded ring on the rim.",
+    "lettering": "⸰ALT⸰FOR⸰NORGE⸰\r\nH7",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Everything for Norway",
+    "picture": "https://en.numista.com/catalogue/photos/norvege/65b7ba85055f77.76737557-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/65b7ba85055f77.76737557-180.jpg",
+    "picture_copyright": "Oslo Myntgalleri",
+    "picture_copyright_url": "http://www.oslomyntgalleri.no"
+  },
+  "reverse": {
+    "description": "Value in two lines. Inscription above value. A triskelion on each side of the value. Date divided by mintmark below the value. Beaded ring on the rim.",
+    "lettering": "NORGE\r\n10\r\nØRE\r\n19 ⚒ 17",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Norway",
+    "picture": "https://en.numista.com/catalogue/photos/norvege/65b7ba85baaf84.86727489-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/65b7ba85baaf84.86727489-180.jpg",
+    "picture_copyright": "Oslo Myntgalleri",
+    "picture_copyright_url": "http://www.oslomyntgalleri.no"
+  },
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "372"
+    },
+    {
+      "catalogue": {
+        "id": 201,
+        "code": "Rønning"
+      },
+      "number": "254"
+    }
+  ],
+  "weight": 1.45,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain."
+  },
+  "mints": [
+    {
+      "id": 1888,
+      "name": "Norwegian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

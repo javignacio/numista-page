@@ -1,0 +1,118 @@
+{
+  "id": 1511,
+  "url": "https://en.numista.com/1511",
+  "title": "25 Öre - Gustaf V",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "suede",
+    "name": "Sweden"
+  },
+  "min_year": 1921,
+  "max_year": 1947,
+  "ruler": [
+    {
+      "id": 2364,
+      "name": "Gustaf V",
+      "wikidata_id": "Q52890",
+      "group": {
+        "id": 99,
+        "name": "House of Bernadotte"
+      }
+    }
+  ],
+  "value": {
+    "text": "25 Öre",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 18,
+      "name": "Krona",
+      "full_name": "Krona (1873-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 17,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Crowned King's monogram divides date at sides. Mintmark at lower right.",
+    "lettering": "19  GV   46",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/suede/49-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suede/49-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Large denomination within stylized wheat wreath. Below in wreath knot are the initials of Riksbank Governor.",
+    "lettering": "25 \r\nÖRE \r\nTS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/suede/50-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suede/50-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "<p>1940 25 Öre Low G and High G<br><a href=\"https://en.numista.com/catalogue/images/62466b9f4300d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/62466b9f4300d.jpg\" alt=\"\"></a><br><a href=\"https://en.numista.com/catalogue/images/62466b05b6394.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/62466b05b6394.jpg\" alt=\"\"></a></p><p><a href=\"https://en.numista.com/catalogue/images/5b6de10add36c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5b6de10add36c.jpg\" alt=\"\"></a></p><p><a href=\"https://en.numista.com/catalogue/images/5d36be39f2d4b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d36be39f2d4b.jpg\" alt=\"\"></a></p>",
+  "related_types": [
+    {
+      "id": 1468,
+      "title": "25 Öre - Gustaf V",
+      "category": "coin",
+      "country": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "minYear": 1943,
+      "maxYear": 1950
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "798"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "32"
+    }
+  ],
+  "weight": 2.4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 5989,
+      "name": "Kungliga Myntet"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

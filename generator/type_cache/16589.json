@@ -1,0 +1,118 @@
+{
+  "id": 16589,
+  "url": "https://en.numista.com/16589",
+  "title": "10 Euro Cents (2nd map)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "estonie",
+    "name": "Estonia"
+  },
+  "min_year": 2011,
+  "max_year": 2023,
+  "ruler": [
+    {
+      "id": 2044,
+      "name": "Republic",
+      "wikidata_id": "Q191"
+    }
+  ],
+  "value": {
+    "text": "10 Euro Cents",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 9021,
+      "name": "Euro",
+      "full_name": "Euro (2011-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2011-01-01"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 19.75,
+  "thickness": 1.93,
+  "shape": "Round",
+  "composition": {
+    "text": "Nordic gold (89% Copper, 5% Aluminium, 5% Zinc, 1% Tin)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "L. Lõhmus"
+    ],
+    "description": "A silhouette map of Estonia with the year above and the country name below and twelve five-pointed stars around the rim representing the European Union",
+    "lettering": "2018\r\nEESTI",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "2018\r\nEstonia",
+    "picture": "https://en.numista.com/catalogue/photos/estonie/567-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/estonie/567-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "reverse": {
+    "engravers": [
+      "Luc Luycx"
+    ],
+    "description": "A map, next to the face value, symbolizes the gathering of the fifteen nations of the European Union",
+    "lettering": "10 EURO CENT LL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/estonie/568-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/estonie/568-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "comments": "Coins starting from 2018 have large stars (both BU set and Roll).<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5bd4757bc4aad.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5bd4757bc4aad.jpg\" alt=\"\" width=\"200\" height=\"101\" /></a>",
+  "tags": [
+    "Map"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "64"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "60"
+    }
+  ],
+  "weight": 4.1,
+  "orientation": "medal",
+  "edge": {
+    "description": "Indented",
+    "picture": "https://en.numista.com/catalogue/photos/estonie/448-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/estonie/448-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 1337,
+      "name": "Imprensa Nacional - Casa da Moeda"
+    },
+    {
+      "id": 1334,
+      "name": "Mint of Finland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

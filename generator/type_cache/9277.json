@@ -1,0 +1,100 @@
+{
+  "id": 9277,
+  "url": "https://en.numista.com/9277",
+  "title": "1 Jiao",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "taiwan",
+    "name": "Taiwan"
+  },
+  "min_year": 1949,
+  "max_year": 1949,
+  "ruler": [
+    {
+      "id": 5351,
+      "name": "Republic",
+      "wikidata_id": "Q865"
+    }
+  ],
+  "value": {
+    "text": "1 Jiao ",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 57,
+      "name": "New dollar",
+      "full_name": "New dollar (1949-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 21,
+  "thickness": 1.4,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass (95% Copper, 5% Zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Bust of Sun Yat-sen left, date above",
+    "lettering": "年八十三國民華中",
+    "lettering_scripts": [
+      {
+        "name": "Chinese"
+      }
+    ],
+    "lettering_translation": "Republic of China Year 38",
+    "picture": "https://en.numista.com/catalogue/photos/taiwan/634abf7f026b53.71485562-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/taiwan/634abf7f026b53.71485562-180.jpg",
+    "picture_copyright": "ArsenEverlast",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "reverse": {
+    "description": "Map of Taiwan separating denomination",
+    "lettering": "　　台\r\n角　灣　壹\r\n　　省",
+    "lettering_scripts": [
+      {
+        "name": "Chinese"
+      }
+    ],
+    "lettering_translation": "1 Jiao\r\nTaiwan Province",
+    "picture": "https://en.numista.com/catalogue/photos/taiwan/6692b92de9d772.51467518-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/taiwan/6692b92de9d772.51467518-180.jpg",
+    "picture_copyright": "ArsenEverlast",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "tags": [
+    "Politician",
+    "Map"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "531"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "1"
+    }
+  ],
+  "weight": 4.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

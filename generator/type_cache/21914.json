@@ -1,0 +1,87 @@
+{
+  "id": 21914,
+  "url": "https://en.numista.com/21914",
+  "title": "1 Centavo",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "chili",
+    "name": "Chile"
+  },
+  "min_year": 1871,
+  "max_year": 1877,
+  "ruler": [
+    {
+      "id": 3299,
+      "name": "Republic",
+      "wikidata_id": "Q298"
+    }
+  ],
+  "value": {
+    "text": "1 Centavo",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 237,
+      "name": "Peso",
+      "full_name": "Peso (1835-1959)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 21.3,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Liberty head",
+    "lettering": "REPUBLICA DE CHILE\r\nSo",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chili/1319-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/1319-180.jpg",
+    "picture_copyright": "© Image courtesy of Heritage Auctions"
+  },
+  "reverse": {
+    "description": "Value and the motto",
+    "lettering": "ECONOMIA ES RIQUEZA\r\nUN \r\nCENTAVO\r\n1873",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Economy is wealth\r\nOne Centavo",
+    "picture": "https://en.numista.com/catalogue/photos/chili/1320-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/1320-180.jpg",
+    "picture_copyright": "© Image courtesy of Heritage Auctions"
+  },
+  "tags": [
+    "Allegory",
+    "Phrygian cap"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "146"
+    }
+  ],
+  "weight": 5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

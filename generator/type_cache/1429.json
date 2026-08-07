@@ -1,0 +1,113 @@
+{
+  "id": 1429,
+  "url": "https://en.numista.com/1429",
+  "title": "10 Øre - Olav V",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "norvege",
+    "name": "Norway"
+  },
+  "min_year": 1974,
+  "max_year": 1991,
+  "ruler": [
+    {
+      "id": 451,
+      "name": "Olav V",
+      "wikidata_id": "Q154912",
+      "group": {
+        "id": 358,
+        "name": "House of Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Øre",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 16,
+      "name": "Krone",
+      "full_name": "Krone (1875-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1993-01-23"
+  },
+  "size": 15,
+  "thickness": 1.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Cu, 25% Ni)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Øivind Hansen"
+    ],
+    "description": "Crowned monogram of Olav V, dividing date. Solid ring on the rim.",
+    "lettering": "19 79\r\nOV",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/norvege/832-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/832-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "reverse": {
+    "engravers": [
+      "Øivind Hansen"
+    ],
+    "description": "Value and inscription in three lines. Mintmaster's initial on the left side of the second line. Engraver's initial on the right side of the second line. Mintmark below inscription. Solid ring on the rim.",
+    "lettering": "10\r\nAB ØRE ØH\r\nNORGE\r\n⚒",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Norway",
+    "picture": "https://en.numista.com/catalogue/photos/norvege/833-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/833-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "comments": "<p>For the 1980 with or without star, the star will be placed on the reverse, between ØRE and the mintmark to the left, right under the number 1.<br><br>Schön#67.1 (1974-1987) and Schön#67.2 (1988-1991)</p><p><a href=\"https://en.numista.com/catalogue/images/691f5ef06d0e6.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/691f5ef06d0e6.jpg\"></a></p><p>10 øre 1991 was included in 1991, 1992 and 1993 mint sets.</p>",
+  "tags": [
+    "Crown",
+    "Monogram"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "416"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "67"
+    }
+  ],
+  "weight": 1.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 1888,
+      "name": "Norwegian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

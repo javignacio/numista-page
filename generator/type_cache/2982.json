@@ -1,0 +1,111 @@
+{
+  "id": 2982,
+  "url": "https://en.numista.com/2982",
+  "title": "5 Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "equateur",
+    "name": "Ecuador"
+  },
+  "issuing_entity": {
+    "id": 909,
+    "name": "Central Bank of Ecuador",
+    "wikidata_id": "Q1797646"
+  },
+  "min_year": 2000,
+  "max_year": 2005,
+  "ruler": [
+    {
+      "id": 3758,
+      "name": "Republic",
+      "wikidata_id": "Q736"
+    }
+  ],
+  "value": {
+    "text": "5 Centavos",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 361,
+      "name": "U.S. dollar",
+      "full_name": "U.S. dollar (2000-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21.2,
+  "thickness": 1.9,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Name of the country, national coat of arms, portrait and name of the writer Juan Montalvo",
+    "lettering": "REPUBLICA DEL ECUADOR\r\n**JUAN MONTALVO**",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Ecuador\r\nJuan Montalvo",
+    "picture": "https://en.numista.com/catalogue/photos/equateur/461-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/equateur/461-180.jpg",
+    "picture_copyright": "ciscoins.net",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Denomination in digits, denomination in words, year of issue",
+    "lettering": "BANCO CENTRAL DEL ECUADOR\r\n5\r\nAÑO \r\n2000\r\nCINCO CENTAVOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Bank of Ecuador\r\n5\r\nYear \r\n2000\r\nFive centavos",
+    "picture": "https://en.numista.com/catalogue/photos/equateur/462-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/equateur/462-180.jpg",
+    "picture_copyright": "ciscoins.net",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "Due to rampant inflation in the 1980&#039;s and 1990&#039;s, the government of Ecuador abandoned the Sucre in 2000 and adopted the United States Dollar. These coins where introduced to supplement the circulation of the <a href=\"https://en.numista.com/44\">5 Cent coin</a>.",
+  "tags": [
+    "Literature"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "105"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "101"
+    }
+  ],
+  "weight": 4.95,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 29,
+      "name": "Mexican Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

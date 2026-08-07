@@ -1,0 +1,113 @@
+{
+  "id": 558,
+  "url": "https://en.numista.com/558",
+  "title": "10 Drachmai",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "grece",
+    "name": "Greece"
+  },
+  "min_year": 1973,
+  "max_year": 1973,
+  "ruler": [
+    {
+      "id": 1253,
+      "name": "Regime of the Colonels",
+      "wikidata_id": "Q504081"
+    }
+  ],
+  "value": {
+    "text": "10 Drachmai",
+    "numeric_value": 10,
+    "currency": {
+      "id": 62,
+      "name": "Third modern drachma",
+      "full_name": "Third modern drachma (1954-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 27,
+  "thickness": 1.9,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "I. Stinis"
+    ],
+    "description": "The coat of arms of the Regime of Colonels, a Phoenix rising from its flames is surrounded with the inscription \"ΕΛΛΗΝΙΚΗ ΔΗΜΟΚΡΑΤΙΑ\" (Greek Democracy).",
+    "lettering": "ΕΛΛΗΝΙΚΗ ΔΗΜΟΚΡΑΤΙΑ \r\nΙ. ΣΤΙΝ\r\n1973",
+    "lettering_scripts": [
+      {
+        "name": "Greek"
+      }
+    ],
+    "lettering_translation": "Greek Republic",
+    "picture": "https://en.numista.com/catalogue/photos/grece/63b6fafd577d36.82668985-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/grece/63b6fafd577d36.82668985-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "reverse": {
+    "engravers": [
+      "Nikos Perantinos"
+    ],
+    "description": "Pegasus, the mythological winged horse, is accompanied with the face value.",
+    "lettering": "10 \r\nΔΡΑΧΜΑΙ\r\nΝ. ΠΕΡΑΝΤΙΝΟΣ",
+    "lettering_scripts": [
+      {
+        "name": "Greek"
+      }
+    ],
+    "lettering_translation": "10 Drachmi",
+    "picture": "https://en.numista.com/catalogue/photos/grece/63b6fafdcd54e3.87768386-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/grece/63b6fafdcd54e3.87768386-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "tags": [
+    "Bird",
+    "Fantasy animal",
+    "Horse or equine",
+    "Mythology",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "110"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "54"
+    }
+  ],
+  "weight": 7.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Milled"
+  },
+  "mints": [
+    {
+      "id": 1889,
+      "name": "National Mint of the Bank of Greece"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

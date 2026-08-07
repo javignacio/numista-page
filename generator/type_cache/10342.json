@@ -1,0 +1,182 @@
+{
+  "id": 10342,
+  "url": "https://en.numista.com/10342",
+  "title": "2 Centésimos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "uruguay",
+    "name": "Uruguay"
+  },
+  "issuing_entity": {
+    "id": 29,
+    "name": "Bank of Oriental Republic of Uruguay"
+  },
+  "min_year": 1960,
+  "max_year": 1960,
+  "ruler": [
+    {
+      "id": 3897,
+      "name": "Oriental Republic of Uruguay",
+      "wikidata_id": "Q77"
+    }
+  ],
+  "value": {
+    "text": "2 Centésimos",
+    "numeric_value": 0.02,
+    "currency": {
+      "id": 298,
+      "name": "Peso",
+      "full_name": "Peso (1863-1975)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 16.2,
+  "thickness": 1.33,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Thomas Humphrey Paget"
+    ],
+    "description": "Portrait of José Gervasio Artigas to the right, inscription in a semi-circle above",
+    "lettering": "REPÚBLICA ORIENTAL DEL URUGUAY\r\nHP\r\n• ARTIGAS •\r\n1960",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/1061-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/1061-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "reverse": {
+    "description": "Value within wreath.",
+    "lettering": "2\r\nCENTÉSIMOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/1062-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/1062-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "related_types": [
+    {
+      "id": 8115,
+      "title": "5 Centésimos",
+      "category": "coin",
+      "country": {
+        "code": "uruguay",
+        "name": "Uruguay"
+      },
+      "minYear": 1960,
+      "maxYear": 1960
+    },
+    {
+      "id": 5286,
+      "title": "10 Centésimos",
+      "category": "coin",
+      "country": {
+        "code": "uruguay",
+        "name": "Uruguay"
+      },
+      "minYear": 1960,
+      "maxYear": 1960
+    },
+    {
+      "id": 5287,
+      "title": "25 Centésimos",
+      "category": "coin",
+      "country": {
+        "code": "uruguay",
+        "name": "Uruguay"
+      },
+      "minYear": 1960,
+      "maxYear": 1960
+    },
+    {
+      "id": 1095,
+      "title": "50 Centésimos",
+      "category": "coin",
+      "country": {
+        "code": "uruguay",
+        "name": "Uruguay"
+      },
+      "minYear": 1960,
+      "maxYear": 1960
+    },
+    {
+      "id": 5283,
+      "title": "1 Peso",
+      "category": "coin",
+      "country": {
+        "code": "uruguay",
+        "name": "Uruguay"
+      },
+      "minYear": 1960,
+      "maxYear": 1960
+    }
+  ],
+  "tags": [
+    "Military leader",
+    "Politician",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "37"
+    },
+    {
+      "catalogue": {
+        "id": 709,
+        "code": "SA"
+      },
+      "number": "78"
+    },
+    {
+      "catalogue": {
+        "id": 2069,
+        "code": "CG"
+      },
+      "number": "78"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "21"
+    }
+  ],
+  "weight": 2,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/6518d7d5252c21.62312242-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/6518d7d5252c21.62312242-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

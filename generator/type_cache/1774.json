@@ -1,0 +1,133 @@
+{
+  "id": 1774,
+  "url": "https://en.numista.com/1774",
+  "title": "2 Cents (SUID-AFRIKA - SOUTH AFRICA)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "afrique_du_sud",
+    "name": "South Africa"
+  },
+  "min_year": 1990,
+  "max_year": 1995,
+  "ruler": [
+    {
+      "id": 634,
+      "name": "Republic",
+      "wikidata_id": "Q258"
+    }
+  ],
+  "value": {
+    "text": "2 Cents",
+    "numeric_value": 0.02,
+    "currency": {
+      "id": 156,
+      "name": "Rand",
+      "full_name": "Rand (1961-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 18,
+  "thickness": 1.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze plated steel (Plating: 99% Copper, 1% Tin)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Arthur Sutherland"
+    ],
+    "description": "South Africa coat of arms with the motto \"Ex Unitate Vires\" (Power Through Unity)",
+    "lettering": "SUID-AFRIKA · SOUTH AFRICA  \r\nEX UNITATE VIRES\r\n1993 ALS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/afrique_du_sud/19-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/19-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Arthur Sutherland"
+    ],
+    "description": "Eagle holding a fish with its talons",
+    "lettering": "2c\r\nALS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/afrique_du_sud/20-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/20-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "Legends in the 11 Official Languages of the Republic of South Africa:<br />\r\nAfrikaans: Suid-Afrika<br />\r\nEnglish: South Africa<br />\r\nSesotho and Sepedi: Afrika Borwa<br />\r\nTswana: Aforika Borwa<br />\r\nXhosa: uMzantsi Afrika<br />\r\nZulu: iNingizimu Afrika<br />\r\nNdebele: iSewula frika<br />\r\nVenda: Afurika Tshipembe<br />\r\nsiSwati: Ningizimu Afrika<br />\r\nTsonga: Afrika Dzonga",
+  "related_types": [
+    {
+      "id": 2883,
+      "title": "2 Cents (AFURIKA-TSHIPEMBE)",
+      "category": "coin",
+      "country": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "minYear": 1996,
+      "maxYear": 2000
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Eagle",
+    "Fish",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "133"
+    },
+    {
+      "catalogue": {
+        "id": 146,
+        "code": "Hern"
+      },
+      "number": "Nb1-6"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "170"
+    }
+  ],
+  "weight": 3,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 1872,
+      "name": "Pretoria"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

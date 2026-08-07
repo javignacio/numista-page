@@ -1,0 +1,95 @@
+{
+  "id": 16034,
+  "url": "https://en.numista.com/16034",
+  "title": "5 Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "chili",
+    "name": "Chile"
+  },
+  "min_year": 1899,
+  "max_year": 1907,
+  "ruler": [
+    {
+      "id": 3299,
+      "name": "Republic",
+      "wikidata_id": "Q298"
+    }
+  ],
+  "value": {
+    "text": "5 Centavos",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 237,
+      "name": "Peso",
+      "full_name": "Peso (1835-1959)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 14,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.500)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Louis-Oscar Roty"
+    ],
+    "description": "Andean Condor on rock.\r\nNote: Varieties exist with 0.5, 0.5., 0/5.5., 0,5 or 05. below\r\ncondor.",
+    "lettering": "REPUBLICA DE CHILE \r\n0.5\r\nO.Roty",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chili/6986296124ed34.01777787-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/6986296124ed34.01777787-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "reverse": {
+    "description": "Value within wreath. At the base there are a hammer and sickle",
+    "lettering": "So\r\nCINCO \r\nCENTAVOS \r\n1906",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chili/6986296235cd01.08033334-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/6986296235cd01.08033334-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "tags": [
+    "Bird",
+    "Hammer and sickle"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "155.2"
+    }
+  ],
+  "weight": 1,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,135 @@
+{
+  "id": 7703,
+  "url": "https://en.numista.com/7703",
+  "title": "10 Sucres",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "equateur",
+    "name": "Ecuador"
+  },
+  "min_year": 1988,
+  "max_year": 1991,
+  "ruler": [
+    {
+      "id": 3758,
+      "name": "Republic",
+      "wikidata_id": "Q736"
+    }
+  ],
+  "value": {
+    "text": "10 Sucres",
+    "numeric_value": 10,
+    "currency": {
+      "id": 187,
+      "name": "Sucre",
+      "full_name": "Sucre (1884-2000)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2000-10-09"
+  },
+  "size": 24,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel clad steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Name of the country, coat of arms, year of issue",
+    "lettering": "REPUBLICA DEL ECUADOR\r\n1991",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Ecuador\r\n1991",
+    "picture": "https://en.numista.com/catalogue/photos/equateur/488-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/equateur/488-180.jpg",
+    "picture_copyright": "ciscoins.net",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Denomination in digits, denomination in Braille, an image of a statue of the Valdivia culture (Venus de Valdivia)",
+    "lettering": "10\r\nSUCRES\r\nVENUS DE VALDIVIA",
+    "lettering_scripts": [
+      {
+        "name": "Braille"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "10\r\nSucres\r\nVenus of Valdivia",
+    "picture": "https://en.numista.com/catalogue/photos/equateur/489-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/equateur/489-180.jpg",
+    "picture_copyright": "ciscoins.net",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "92.2"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "86.2"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "92.1"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "86.1"
+    },
+    {
+      "catalogue": {
+        "id": 2898,
+        "code": "Galst/Alfen"
+      },
+      "number": "X.26"
+    }
+  ],
+  "weight": 6.25,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/equateur/615e5a4158cd21.44122394-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/equateur/615e5a4158cd21.44122394-180.jpg",
+    "picture_copyright": "CyrusPamelaOne",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 1339,
+      "name": "Sherritt Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

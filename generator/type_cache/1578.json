@@ -1,0 +1,140 @@
+{
+  "id": 1578,
+  "url": "https://en.numista.com/1578",
+  "title": "50 Cents",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "hong_kong",
+    "name": "Hong Kong"
+  },
+  "min_year": 1993,
+  "max_year": 2017,
+  "ruler": [
+    {
+      "id": 923,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 791,
+        "name": "British colony"
+      }
+    },
+    {
+      "id": 924,
+      "name": "Special Administrative Region",
+      "wikidata_id": "Q8646"
+    }
+  ],
+  "value": {
+    "text": "50 Cents",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 48,
+      "name": "Dollar",
+      "full_name": "Dollar (1863-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1993-10-00"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 22.5,
+  "thickness": 1.81,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Joseph Yam"
+    ],
+    "description": "Bauhinia or Hong Kong orchid flower (Binomial Name: Bauhinia blakeana) above the issuer name",
+    "lettering": "香 港\r\nHONG KONG",
+    "lettering_scripts": [
+      {
+        "name": "Chinese (traditional, regular script)"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Hong Kong",
+    "picture": "https://en.numista.com/catalogue/photos/hong_kong/604-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hong_kong/604-180.jpg",
+    "picture_copyright": "Square Root Lolly"
+  },
+  "reverse": {
+    "engravers": [
+      "Joseph Yam"
+    ],
+    "description": "Face value in numerals above the date, with the denomination in Latin at the bottom",
+    "lettering": "伍 毫\r\n50\r\n2015\r\nFIFTY CENTS",
+    "lettering_scripts": [
+      {
+        "name": "Chinese (traditional, regular script)"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Fifty Cents",
+    "picture": "https://en.numista.com/catalogue/photos/hong_kong/605-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hong_kong/605-180.jpg",
+    "picture_copyright": "Square Root Lolly"
+  },
+  "comments": "This coin was initially struck under the reign of Elizabeth II and continued to be struck during and after the handover to China in 1997.",
+  "related_types": [
+    {
+      "id": 5277,
+      "title": "50 Cents (Special Administration Region)",
+      "category": "coin",
+      "country": {
+        "code": "hong_kong",
+        "name": "Hong Kong"
+      },
+      "minYear": 1997,
+      "maxYear": 1997
+    }
+  ],
+  "tags": [
+    "Flower"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "68"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "52"
+    }
+  ],
+  "weight": 4.86,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

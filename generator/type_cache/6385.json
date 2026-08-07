@@ -1,0 +1,127 @@
+{
+  "id": 6385,
+  "url": "https://en.numista.com/6385",
+  "title": "1 Real (Juscelino Kubitschek)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "bresil",
+    "name": "Brazil"
+  },
+  "issuing_entity": {
+    "id": 900,
+    "name": "Central Bank of Brazil",
+    "wikidata_id": "Q806186"
+  },
+  "min_year": 2002,
+  "max_year": 2002,
+  "ruler": [
+    {
+      "id": 2684,
+      "name": "Federative Republic of Brazil",
+      "wikidata_id": "Q155"
+    }
+  ],
+  "value": {
+    "text": "1 Real",
+    "numeric_value": 1,
+    "currency": {
+      "id": 158,
+      "name": "Real",
+      "full_name": "Real (1994-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 27,
+  "thickness": 1.95,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: stainless steel centre in bronze plated steel ring (plated steel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "ALZIRA DUIM"
+    ],
+    "description": "President Juscelino Kubitschek, border with the sign \"BRASIL\" and Columns of the Alvorada Palace, the official residence of the President of the Republic in Brasília. Couplet \"CENTENARY JUSCELINO KUBITSCHEK\"\r\n\r\nJuscelino Kubitschek was the founder of Brasilia, which is considered his greatest achievement. The differentiated format of the external pillars of the Palácio da Alvorada gave rise to the symbol and emblem of the city and is present in the Coat of Arms of the Federal District.",
+    "lettering": "CENTENÁRIO \r\nJUSCELINO \r\nKUBITSCHEK\r\nBRASIL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "CENTENARY\r\nJUSCELINO \r\nKUBITSCHEK\r\nBRAZIL",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/1595-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/1595-180.jpg",
+    "picture_copyright": "Dario Silva Collection",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "ALZIRA DUIM"
+    ],
+    "description": "On the golden ring, Marajoara indigenous graphics. In the silver core, a sphere superimposed by a band of jubilation, which, with the constellation of the Southern Cross, alludes to the National flag, and the couplets corresponding to the face value and the year of minting",
+    "lettering": "1 \r\nREAL \r\n2002",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bresil/1596-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/1596-180.jpg",
+    "picture_copyright": "Dario Silva Collection",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "commemorated_topic": "100th Anniversary of Birth of Juscelino Kubitschek",
+  "tags": [
+    "Birth anniversary",
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "656"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "164"
+    },
+    {
+      "catalogue": {
+        "id": 1185,
+        "code": "AI Coins"
+      },
+      "number": "VM-525"
+    }
+  ],
+  "weight": 7,
+  "orientation": "coin",
+  "edge": {
+    "description": "Segmented reeding",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/796-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/796-180.jpg",
+    "picture_copyright": "ZacUK"
+  },
+  "mints": [
+    {
+      "id": 1335,
+      "name": "Mint of Brazil"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

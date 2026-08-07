@@ -1,0 +1,107 @@
+{
+  "id": 291218,
+  "url": "https://en.numista.com/291218",
+  "title": "Antoninianus - Aurelianus (RESTITVT ORBIS or RESTITVT OR•BIS)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "rome",
+    "name": "Roman Empire (27 BC - 395 AD)"
+  },
+  "min_year": 270,
+  "max_year": 275,
+  "ruler": [
+    {
+      "id": 107,
+      "name": "Aurelian",
+      "wikidata_id": "Q46780",
+      "nomisma_id": "aurelian",
+      "group": {
+        "id": 323,
+        "name": "Illyrian emperors"
+      }
+    }
+  ],
+  "value": {
+    "text": "Antoninianus",
+    "numeric_value": 1,
+    "currency": {
+      "id": 1615,
+      "name": "Antoninianus, Reform of Caracalla",
+      "full_name": "Antoninianus, Reform of Caracalla (AD 215 – 301)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 22.5,
+  "shape": "Round (irregular)",
+  "composition": {
+    "text": "Silver"
+  },
+  "technique": {
+    "text": "Hammered"
+  },
+  "obverse": {
+    "description": "Bust of Aurelian, radiate, cuirassed, right.",
+    "lettering": "IMP C AVRELIANVS AVG",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Imperator, Caesar, Aurelianus Augustus.\nSupreme commander (Imperator), Caesar, Aurelian, emperor (Augustus).",
+    "picture": "https://en.numista.com/catalogue/photos/rome/60924f03a40736.34514152-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/rome/60924f03a40736.34514152-180.jpg",
+    "picture_copyright": "American Numismatic Society (ANS)",
+    "picture_copyright_url": "http://numismatics.org/search/"
+  },
+  "reverse": {
+    "description": "Woman, draped, standing right, presenting wreath to Aurelian, standing left, holding sceptre or spear.",
+    "lettering": "RESTITVT ORBIS or RESTITVT OR•BIS\n*//KA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Restitutor Orbis.\nRestorer of the city (Rome).",
+    "picture": "https://en.numista.com/catalogue/photos/rome/60924f04d348a5.34865617-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/rome/60924f04d348a5.34865617-180.jpg",
+    "picture_copyright": "American Numismatic Society (ANS)",
+    "picture_copyright_url": "http://numismatics.org/search/"
+  },
+  "comments": "Mass varies: 3.01–4.17 g;<br />\nDiameter varies: 21.125–23.86 mm;<br /><br />\nExample of this type:<br />\n<a href=\"http://numismatics.org/collection/1992.77.100\" rel=\"nofollow\">American Numismatic Society (ANS)</a><br /><br />\nSource:<br />\n<a href=\"http://numismatics.org/ocre/\" rel=\"nofollow\">Online Coins of the Roman Empire (OCRE)</a>",
+  "tags": [
+    "Cold weapons",
+    "Wreath",
+    "Armour"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 454,
+        "code": "RIC V.1"
+      },
+      "number": "389"
+    },
+    {
+      "catalogue": {
+        "id": 1020,
+        "code": "OCRE"
+      },
+      "number": "ric.5.aur.389"
+    }
+  ],
+  "weight": 3.7,
+  "orientation": "variable",
+  "mints": [
+    {
+      "id": 906,
+      "name": "Tripolis"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

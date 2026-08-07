@@ -1,0 +1,95 @@
+{
+  "id": 3494,
+  "url": "https://en.numista.com/3494",
+  "title": "½ Chon (Orangutan)",
+  "object_type": {
+    "id": 3,
+    "name": "Non-circulating coins"
+  },
+  "issuer": {
+    "code": "coree_du_nord",
+    "name": "North Korea"
+  },
+  "min_year": 2002,
+  "max_year": 2002,
+  "ruler": [
+    {
+      "id": 2285,
+      "name": "Democratic People's Republic",
+      "wikidata_id": "Q423"
+    }
+  ],
+  "value": {
+    "text": "½ Chon",
+    "numeric_value": 0.005,
+    "currency": {
+      "id": 195,
+      "name": "Second Won",
+      "full_name": "Second Won (1959-2009)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 27.02,
+  "thickness": 1.9,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "National Coat of Arms, date below",
+    "lettering": "조선민주주의인민공화국중앙은행\r\n2002",
+    "lettering_scripts": [
+      {
+        "name": "Hangul"
+      }
+    ],
+    "lettering_translation": "Central Bank of the Democratic People's Republic of Korea",
+    "picture": "https://en.numista.com/catalogue/photos/coree_du_nord/694425c48efe35.81151094-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/coree_du_nord/694425c48efe35.81151094-180.jpg",
+    "picture_copyright": "Numista"
+  },
+  "reverse": {
+    "description": "Orangutan",
+    "lettering": "½ 전",
+    "lettering_scripts": [
+      {
+        "name": "Hangul"
+      }
+    ],
+    "lettering_translation": "½ Chon",
+    "picture": "https://en.numista.com/catalogue/photos/coree_du_nord/694425c539cd22.07266600-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/coree_du_nord/694425c539cd22.07266600-180.jpg",
+    "picture_copyright": "Numista"
+  },
+  "commemorated_topic": "World of Animals Series - Orangutan",
+  "tags": [
+    "Primate",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "184"
+    }
+  ],
+  "weight": 2.16,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/coree_du_nord/5ee658a81430b9.65943232-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/coree_du_nord/5ee658a81430b9.65943232-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "category": "coin",
+  "type": "Non-circulating coins"
+}

@@ -1,0 +1,157 @@
+{
+  "id": 1346,
+  "url": "https://en.numista.com/1346",
+  "title": "1 Dollar \"Eisenhower Dollar\"",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "etats-unis",
+    "name": "United States"
+  },
+  "min_year": 1971,
+  "max_year": 1978,
+  "ruler": [
+    {
+      "id": 4720,
+      "name": "Federal republic",
+      "wikidata_id": "Q30"
+    }
+  ],
+  "value": {
+    "text": "1 Dollar",
+    "numeric_value": 1,
+    "currency": {
+      "id": 59,
+      "name": "Dollar",
+      "full_name": "Dollar (1785-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 38.1,
+  "thickness": 2.58,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel clad copper"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Frank Gasparro"
+    ],
+    "description": "Dwight D. Eisenhower facing left with the date below",
+    "lettering": "LIBERTY \r\nIN GOD WE \r\nTRUST\r\nS\r\n1978",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/60034772ae9133.61424552-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/60034772ae9133.61424552-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Frank Gasparro"
+    ],
+    "description": "The Apollo 11 Mission Insignia (an eagle holding an olive branch flying above the Moon, with the Earth in the background)",
+    "lettering": "UNITED STATES OF AMERICA\r\nE PLURIBUS \r\nUNUM\r\nFG\r\nONE DOLLAR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Frank Gasparro",
+    "lettering_translation": "United States of America\r\nOut of Many\r\nOne\r\nFG\r\nOne Dollar",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/60034773d94e44.85730998-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/60034773d94e44.85730998-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "The standard weight of these coins was 350 grains.<br /><br />\r\nAll coins of Denver and Philadelphia were stuck for regular circulation. All San Fransisco coins were struck in proof condition for collectors.<br />\r\n1971 face of eagle<br />\r\n<a href=\"https://en.numista.com/catalogue/images/639c795f02c21.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/639c795f02c21.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nThe 1972 coin occurs in three types:<br />\r\nType 1: Has three islands to the right of Florida:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5b0eb5cd1cbe1.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5b0eb5cd1cbe1.jpg\" alt=\"\" width=\"200\" height=\"182\" /></a><br />\r\nType 2: The islands are not shown:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5b0eb6171956a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5b0eb6171956a.jpg\" alt=\"\" width=\"200\" height=\"187\" /></a><br />\r\nType 3: Has three islands beginning to the left of Florida:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5b0eb6693df0a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5b0eb6693df0a.jpg\" alt=\"\" width=\"200\" height=\"187\" /></a><br /><br />\r\nMintage resumed in 1977 as KM#A203.",
+  "related_types": [
+    {
+      "id": 15202,
+      "title": "1 Dollar \"Eisenhower Dollar\" (Silver Collectors' Issue)",
+      "category": "coin",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 1971,
+      "maxYear": 1977
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Eagle",
+    "Military leader",
+    "Politician",
+    "Space",
+    "Moon"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "203"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "A203"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "204"
+    },
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "42"
+    }
+  ],
+  "weight": 22.68,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/5ed3d67f5162b1.61734026-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/5ed3d67f5162b1.61734026-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    },
+    {
+      "id": 10,
+      "name": "United States Mint of Denver"
+    },
+    {
+      "id": 12,
+      "name": "United States Mint of San Francisco"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,145 @@
+{
+  "id": 1643,
+  "url": "https://en.numista.com/1643",
+  "title": "10 Baht - Rama IX",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "thailande",
+    "name": "Thailand"
+  },
+  "min_year": 1988,
+  "max_year": 2008,
+  "ruler": [
+    {
+      "id": 1905,
+      "name": "Bhumibol Adulyadej (Rama IX)",
+      "wikidata_id": "Q855252",
+      "group": {
+        "id": 65,
+        "name": "Chakri dynasty"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Bahts",
+    "numeric_value": 10,
+    "currency": {
+      "id": 4,
+      "name": "Baht",
+      "full_name": "Baht (1897-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 26,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: aluminium bronze centre in copper-nickel ring (Center [92% Copper / 6% Aluminium / 2% Nickel] / Ring [75% Copper / 25% Nickel])"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Eliezer Weishoff"
+    ],
+    "description": "Bust of King Rama IX facing left within circle",
+    "lettering": "ภูมิพลอดุลยเดช รัชกาลที่ ๙",
+    "lettering_scripts": [
+      {
+        "name": "Thai"
+      }
+    ],
+    "lettering_translation": "Bhumibol Adulyadej  Rama IX",
+    "picture": "https://en.numista.com/catalogue/photos/thailande/21-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/thailande/21-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Wat Arun (Temple of the Dawn) with Chao Phraya River in the front, denomination in braille dots on top and denomination inscriptions bottom",
+    "lettering": "ประเทศไทย ⠂⠴ พ.ศ. ๒๕๔๕\r\n๑๐ บาท 10",
+    "lettering_scripts": [
+      {
+        "name": "Braille"
+      },
+      {
+        "name": "Thai"
+      }
+    ],
+    "unabridged_legend": "ประเทศไทย ⠂⠴ พุทธศักราช ๒๕๔๕",
+    "lettering_translation": "Thailand 10 Buddhist Era 2545\r\n10 Baht",
+    "picture": "https://en.numista.com/catalogue/photos/thailande/22-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/thailande/22-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "<p>A lot of counterfeits exist and are made from 2537/1994 (by removing only a little part of the 7)<br><a href=\"https://en.numista.com/catalogue/images/5f2e70bf8ebf8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5f2e70bf8ebf8.jpg\" alt=\"\"></a><br>Differences:<br>&nbsp;</p><ul><li>Inner ring 2533 has bigger bronze than 2537<br>&nbsp;</li><li>Space between 33 and 37<br>&nbsp;</li><li>Shape of 3 and 7<br>&nbsp;</li></ul><p>The 2004 coin fine (small braille dots) / bold date (large braille dots)</p><p><a href=\"https://en.numista.com/catalogue/images/67a75eb37802f.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67a75eb37802f.jpg\"></a><br>&nbsp;</p><p>&nbsp;</p><p>In the early years, the Royal Thai mint cannot prepare enough coins for circulation itself, so they ordered 10M coins from The Italian State Mint.<br>The Royal Thai mint then ordered additional 50M blanks from Olin Brass, United states, but there are enough 10 Baht coins and 10 Baht Banknotes in the circulation, so the 10 baht baht coins minted with 2533 (1990) were made for a coin exhibition in England to promote the fact that the 10 baht coins would now be the only 10 baht denomination. 10 Baht banknotes would not be produced after that. See the attached link from the Bangkok Post.<br><a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.bangkokpost.com/thailand/politics/426162/ony-100-10-baht-coins-issued-in-1990-says-treasury\">https://www.bangkokpost.com/thailand/politics/426162/ony-100-10-baht-coins-issued-in-1990-says-treasury</a><br><br><br>Made-to-order (MTO) coins exist.<br>- Coin struck as double obverse and medal alignment; PCGS <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.pcgs.com/cert/37982050\">#37982050</a>.<br>- Coin dated 2537, struck as double reverse and medal alignment; PCGS <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.pcgs.com/cert/80704776\">#80704776</a>.<br>- Coin dated 2538, struck as double reverse and medal alignment; PCGS <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.pcgs.com/cert/37982051\">#37982051</a>.<br>// for above MTO, about 1300 pairs are believed to be made. (source by siamcoin)<br>- Coin struck as double obverse on 9.5 grams copper planchet; PCGS <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.pcgs.com/cert/34110607\">#34110607</a>.<br>- Coin dated 2537, struck on copper planchet; NGC <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.ngccoin.com/certlookup/4971242-006/64/\">#4971242-006</a>.<br>- Coin dated 2537, struck on 5.48 grams copper-nickel-zinc planchet; PCGS <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.pcgs.com/cert/35676313\">#35676313</a>.<br>- Coins dated 2537, struck as medal alignment; PCGS <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.pcgs.com/cert/80717155\">#80717155</a>. (could be error)<br>- Coin dated 2538, struck on 8.39 grams brass planchet; PCGS <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.pcgs.com/cert/36821777\">#36821777</a>.<br>- Coin dated 2538, struck on 9.18 grams copper-nickel planchet; PCGS <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.pcgs.com/cert/36821779\">#36821779</a>.<br>- Coin dated 2538, struck on 9.0 grams copper planchet; PCGS <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.pcgs.com/cert/35676312\">#35676312</a>.<br>- Coin dated 2538, struck on 5.97 grams silver planchet; PCGS <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.pcgs.com/cert/36821778\">#36821778</a>.<br>- Coin dated 2538, struck on silver planchet; PCGS <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.pcgs.com/cert/43296061\">#43296061</a>.<br>- Coin dated 2538, struck on 16.03 grams gold planchet; PCGS <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.pcgs.com/cert/36837183\">#36837183</a>.<br>- Coin dated 2538, struck on gold planchet; PCGS <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.pcgs.com/cert/43296060\">#43296060</a>.<br>- Coin dated 2538, struck on bimetallic of gold center and copper-nickel ring planchet. PCGS <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.pcgs.com/cert/36837184\">#36837184</a>.<br>- Coin dated 2539, struck on mono-metallic planchet; PCGS <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.pcgs.com/cert/37982040\">#37982040</a>. (set of 2539)<br>- Coin dated 2539, struck on copper planchet; PCGS <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.pcgs.com/cert/37982042\">#37982042</a>. Non-graded coin also exists. (set of 2539)<br>- Coin dated 2539, struck on bronze planchet. Non-graded. (set of 2539)<br>- Coin dated 2539, struck on nickel planchet. Non-graded. (set of 2539)<br>- Coin dated 2539, struck on silver planchet. Non-graded. (set of 2539)<br>- Coin dated 2539, struck on gold planchet. Non-graded. (set of 2539)<br>- Coin dated 2539, struck on bimetallic of gold center and silver ring. Non-graded. (set of 2539)<br>- Coin dated 2539, struck on 8.7 grams 98%-copper planchet; PCGS <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.pcgs.com/cert/36026877\">#36026877</a>.<br>- Coin struck as uniface obverse; PCGS <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.pcgs.com/cert/37982052\">#37982052</a>; NGC <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.ngccoin.com/certlookup/4970235-037/67/\">#4970235-037</a>. (pair of uniface 2546)<br>- Coin dated 2546 struck as uniface reverse; PCGS <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.pcgs.com/cert/37982053\">#37982053</a>; NGC <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.ngccoin.com/certlookup/4970235-038/67/\">#4970235-038</a>. (pair of uniface 2546)<br>- Bimetallic mule: obverse of Y#391, reverse of standard 2546, medal alignment. Non-graded.</p>",
+  "related_types": [
+    {
+      "id": 22038,
+      "title": "10 Baht - Rama IX (Wat Arun; 4th portrait)",
+      "category": "coin",
+      "country": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "minYear": 2008,
+      "maxYear": 2017
+    }
+  ],
+  "tags": [
+    "Religious building",
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "227"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "348"
+    },
+    {
+      "catalogue": {
+        "id": 2898,
+        "code": "Galst/Alfen"
+      },
+      "number": "X.46"
+    }
+  ],
+  "weight": 8.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Segmented reeding, 5 reeds on each section",
+    "picture": "https://en.numista.com/catalogue/photos/thailande/1248-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/thailande/1248-180.jpg",
+    "picture_copyright": "ADRIARTH"
+  },
+  "mints": [
+    {
+      "id": 4211,
+      "name": "Bangkok"
+    },
+    {
+      "id": 22,
+      "name": "Rome"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

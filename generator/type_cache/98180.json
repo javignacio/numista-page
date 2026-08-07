@@ -1,0 +1,109 @@
+{
+  "id": 98180,
+  "url": "https://en.numista.com/98180",
+  "title": "100 Bolívares",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "venezuela",
+    "name": "Venezuela"
+  },
+  "min_year": 2016,
+  "max_year": 2016,
+  "ruler": [
+    {
+      "id": 4707,
+      "name": "Bolivarian Republic",
+      "wikidata_id": "Q717"
+    }
+  ],
+  "value": {
+    "text": "100 Bolivars",
+    "numeric_value": 100,
+    "currency": {
+      "id": 274,
+      "name": "Bolivar Fuerte",
+      "full_name": "Bolivar Fuerte (2008-2018)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2018-12-03"
+  },
+  "size": 25.5,
+  "thickness": 1.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel (steel-nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "It reads around \"Bolivarian Republic of Venezuela\", the date 2016, the national shield in the upper central part, under the shield the word \"bolívares\", above the coin value \"100\"",
+    "lettering": "REPÚBLICA BOLIVARIANA DE VENEZUELA. 2016. BOLÍVARES 100",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Bolivarian Republic of Venezuela. 2016. Bolívares 100",
+    "picture": "https://en.numista.com/catalogue/photos/venezuela/699-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/venezuela/699-180.jpg",
+    "picture_copyright": "Dario Silva Collection",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Profile of Libertador Simón Bolívar (Barre). In the background, lines resembling the national flag (three bands of the tricolor), eight stars of the national flag in the form of an arc, reads \"Bolívar Libertador\" (Bolívar The Liberator), Sign of the Mint of Venezuela",
+    "lettering": "BOLÍVAR LIBERTADOR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Bolívar Liberator",
+    "picture": "https://en.numista.com/catalogue/photos/venezuela/698-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/venezuela/698-180.jpg",
+    "picture_copyright": "Dario Silva Collection",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "tags": [
+    "Horse or equine",
+    "Military leader",
+    "Politician",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "106"
+    },
+    {
+      "catalogue": {
+        "id": 2068,
+        "code": "NCV"
+      },
+      "number": "mv100bsf-aa01"
+    }
+  ],
+  "weight": 6.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Discontinuous grooving"
+  },
+  "mints": [
+    {
+      "id": 305,
+      "name": "Caracas"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,106 @@
+{
+  "id": 723,
+  "url": "https://en.numista.com/723",
+  "title": "100 Lire (FAO)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "italie",
+    "name": "Italy"
+  },
+  "min_year": 1979,
+  "max_year": 1979,
+  "ruler": [
+    {
+      "id": 1164,
+      "name": "Republic",
+      "wikidata_id": "Q38"
+    }
+  ],
+  "value": {
+    "text": "100 Lire",
+    "numeric_value": 100,
+    "currency": {
+      "id": 112,
+      "name": "Lira",
+      "full_name": "Lira (1861-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2002-02-28"
+  },
+  "size": 27.8,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Acmonital"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Sergio Giandomenico"
+    ],
+    "description": "Young female head facing left with a long braid and wheat sprigs on hair (a representation of the Goddess Ceres). Country name above around the rim. Below the head a small flower and the name of the engraver.",
+    "lettering": "REPUBBLICA ITALIANA\r\nGIANDOMENICO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Italian Republic",
+    "picture": "https://en.numista.com/catalogue/photos/italie/5f7da85587bf32.26669360-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/italie/5f7da85587bf32.26669360-180.jpg",
+    "picture_copyright": "whitegandalf"
+  },
+  "reverse": {
+    "engravers": [
+      "Sergio Giandomenico"
+    ],
+    "description": "In the field, cow nursing calf decentralized to the left, to the right the indication of the value on two lines, plus the date. The mintmark is at left of cow, near the rim. In the background depiction of meridians and parallels to symbolize the world.",
+    "lettering": "NUTRIRE IL MONDO\r\n100 \r\nLIRE \r\nR\r\n1979\r\nFAO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Feeding the World\r\n100 Lire\r\nFAO",
+    "picture": "https://en.numista.com/catalogue/photos/italie/5f7da855ce2ff6.46997792-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/italie/5f7da855ce2ff6.46997792-180.jpg",
+    "picture_copyright": "whitegandalf"
+  },
+  "commemorated_topic": "FAO",
+  "tags": [
+    "Cow or bovine",
+    "FAO"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "106"
+    }
+  ],
+  "weight": 8,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/italie/2402-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/italie/2402-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 22,
+      "name": "Rome"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

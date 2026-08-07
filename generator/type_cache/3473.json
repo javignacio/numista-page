@@ -1,0 +1,113 @@
+{
+  "id": 3473,
+  "url": "https://en.numista.com/3473",
+  "title": "5 Dollars",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "guyana",
+    "name": "Guyana"
+  },
+  "issuing_entity": {
+    "id": 526,
+    "name": "Bank of Guyana",
+    "wikidata_id": "Q1812564"
+  },
+  "min_year": 1996,
+  "max_year": 2022,
+  "ruler": [
+    {
+      "id": 3759,
+      "name": "Republic",
+      "wikidata_id": "Q734"
+    }
+  ],
+  "value": {
+    "text": "5 Dollars",
+    "numeric_value": 5,
+    "currency": {
+      "id": 47,
+      "name": "Dollar",
+      "full_name": "Dollar (decimalized, 1965-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 20.5,
+  "thickness": 1.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Helmeted and supported arms",
+    "lettering": "GUYANA\r\nONE PEOPLE ONE NATION ONE DESTINY\r\n2002",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/guyana/36-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/guyana/36-180.jpg",
+    "picture_copyright": "Ginger",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Selwyn Cambridge"
+    ],
+    "description": "Sugar cane",
+    "lettering": "SUGAR CANE \r\n5 \r\nDOLLARS \r\nBANK OF GUYANA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/guyana/37-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/guyana/37-180.jpg",
+    "picture_copyright": "Ginger",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "Sugar cane is a principal agricultural crop in Guyana which contributes significantly to the economy.",
+  "tags": [
+    "Cat or feline",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "51"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "51"
+    }
+  ],
+  "weight": 3.75,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

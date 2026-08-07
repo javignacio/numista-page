@@ -1,0 +1,111 @@
+{
+  "id": 7339,
+  "url": "https://en.numista.com/7339",
+  "title": "2 Pence - Elizabeth II (Hand Working Tools)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "ile_de_man",
+    "name": "Isle of Man"
+  },
+  "min_year": 1988,
+  "max_year": 1995,
+  "ruler": [
+    {
+      "id": 3222,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 784,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "2 Pence",
+    "numeric_value": 0.02,
+    "currency": {
+      "id": 428,
+      "name": "Pound",
+      "full_name": "Pound (decimalized, 1971-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25.91,
+  "thickness": 1.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Raphael David Maklouf"
+    ],
+    "description": "Right facing couped bust of Queen Elizabeth II, wearing the George IV State Diadem, legend around, date below",
+    "lettering": "ISLE OF MAN  ELIZABETH II\r\nRDM\r\nPM\r\n1994",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/ile_de_man/3347-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ile_de_man/3347-180.jpg",
+    "picture_copyright": "Ma collection de monnaies",
+    "picture_copyright_url": "https://monnaiesetvarietes.numista.com/"
+  },
+  "reverse": {
+    "description": "Stone cross with various hand working tools (knitting needles, bobbin or spindle, weaving shuttle, pottery wheel with the finished vessel) and the denomination in numerals below.",
+    "lettering": "ellan vannin\r\nAA\r\n2",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/ile_de_man/3348-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ile_de_man/3348-180.jpg",
+    "picture_copyright": "Ma collection de monnaies",
+    "picture_copyright_url": "https://monnaiesetvarietes.numista.com/"
+  },
+  "series": "1988 series",
+  "comments": "<p>When adding years to coin designs the Isle of Man used one style for the digits until 1989 and another style from 1990 on (with the exception of 20 Pence coins from 1998 on). The difference is most easily noticed in the 9s and 6s in the date. This type exists with both styles.<br><a href=\"https://en.numista.com/catalogue/images/6002060d38d13.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6002060d38d13.jpg\" alt=\"\"></a><br><br>Position of die letters - a few groups are known for year 1991:<br><a href=\"https://en.numista.com/catalogue/images/669f57368865c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/669f57368865c.jpg\"></a></p><p>&nbsp;</p><p>Die <strong>High</strong> - die letters between bottom and central part of the wheel.</p><p>&nbsp;</p><p>For “low position” there are known at least three different variations:<br>Die <strong>Low<sub>1</sub></strong> - die letters under the pottery wheel, both are so close that the first letter with missing right diagonal bar. The first letter lower than the base of wheel.<br>Die <strong>Low<sub>2</sub></strong> - die letters under the pottery wheel, both are so close that the first letter with missing right diagonal bar. The first letter touches the base of wheel.<br>Die <strong>Low<sub>3</sub></strong> - die letters under the pottery wheel and far away from each other, the first letter is written completely.<br>&nbsp;</p>",
+  "tags": [
+    "Handicraft",
+    "Cross"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "208"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "601"
+    }
+  ],
+  "weight": 7.12,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 26,
+      "name": "Pobjoy Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

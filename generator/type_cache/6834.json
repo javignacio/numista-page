@@ -1,0 +1,138 @@
+{
+  "id": 6834,
+  "url": "https://en.numista.com/6834",
+  "title": "20 Colones (Stainless steel)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "costa_rica",
+    "name": "Costa Rica"
+  },
+  "issuing_entity": {
+    "id": 907,
+    "name": "Central Bank of Costa Rica",
+    "wikidata_id": "Q4504273"
+  },
+  "min_year": 1983,
+  "max_year": 1996,
+  "ruler": [
+    {
+      "id": 3834,
+      "name": "Second Republic",
+      "wikidata_id": "Q800"
+    }
+  ],
+  "value": {
+    "text": "20 Colones",
+    "numeric_value": 20,
+    "currency": {
+      "id": 10,
+      "name": "Colón",
+      "full_name": "Colón (1896-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 31.25,
+  "thickness": 1.96,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The arms of Costa Rica (seven stars representing the seven provinces, three extinct volcanoes for the three mountain ranges, two ships symbolizing the country's geographical situation between the Atlantic and Pacific ocean and sunrise on the left), the date below, the country name above, all within a nonagonal rim",
+    "lettering": "COSTA RICA\r\nAMERICA CENTRAL\r\nREPUBLICA DE COSTA RICA\r\n1985",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Costa Rica\r\nCentral America\r\nRepublic of Costa Rica",
+    "picture": "https://en.numista.com/catalogue/photos/costa_rica/927-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/costa_rica/927-180.jpg",
+    "picture_copyright": "ǝRBe"
+  },
+  "reverse": {
+    "description": "The value above coffee branches, ribbon behind value and initials of the \"Banco Central de Costa Rica\" along with the value in Braille, all within a nonagonal rim",
+    "lettering": "20 \r\nCOLONES\r\n⠃⠚\r\nB.C.C.R.",
+    "lettering_scripts": [
+      {
+        "name": "Braille"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "20\r\nColones\r\n⠃⠚\r\nBanco Central de Costa Rica",
+    "lettering_translation": "20\r\nColones\r\n20\r\nCentral Bank of Costa Rica",
+    "picture": "https://en.numista.com/catalogue/photos/costa_rica/928-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/costa_rica/928-180.jpg",
+    "picture_copyright": "ǝRBe"
+  },
+  "comments": "In 1994, 20 colones pieces were struck using both nickel-plated stainless steel and non-nickel-plated stainless steel. The size and space between letters on the obverse and the outer rim of the arms of Costa Rica differ slightly between years.<br /><br />\r\nAlthough these coins have been demonetized, they are still redeemable at the Central Bank of Costa Rica.",
+  "related_types": [
+    {
+      "id": 178736,
+      "title": "20 Colones (Nickel plated stainless steel)",
+      "category": "coin",
+      "country": {
+        "code": "costa_rica",
+        "name": "Costa Rica"
+      },
+      "minYear": 1994,
+      "maxYear": 1994
+    }
+  ],
+  "tags": [
+    "Mountain",
+    "Coat of Arms",
+    "Wreath",
+    "Boat or watercraft"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "216"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "80"
+    },
+    {
+      "catalogue": {
+        "id": 2898,
+        "code": "Galst/Alfen"
+      },
+      "number": "X.11"
+    }
+  ],
+  "weight": 9.7,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 1335,
+      "name": "Mint of Brazil"
+    },
+    {
+      "id": 4157,
+      "name": "VDM Metals / Vereinigte Deutsche Metallwerke"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,130 @@
+{
+  "id": 856,
+  "url": "https://en.numista.com/856",
+  "title": "½ New Penny - Elizabeth II (2nd portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1971,
+  "max_year": 1981,
+  "ruler": [
+    {
+      "id": 275,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 527,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "½ Penny",
+    "numeric_value": 0.005,
+    "currency": {
+      "id": 126,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (decimalized, 1971-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1984-12-31"
+  },
+  "size": 17.14,
+  "thickness": 1.07,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze (97% Cu, 2.5% Zn, 0.5% Sn)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Arnold Machin"
+    ],
+    "description": "Second crowned portrait of Queen Elizabeth II right, wearing the Girls of Great Britain and Ireland tiara, legend around.",
+    "lettering": "ELIZABETH·II D·G·REG·F·D·1971",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Elizabeth II Dei Gratia Regina Fidei Defensatrix",
+    "lettering_translation": "Elizabeth II by the Grace of God Queen Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/692f4268bcba16.97129074-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/692f4268bcba16.97129074-180.jpg",
+    "picture_copyright": "Menu82025",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "Christopher Ironside"
+    ],
+    "description": "Central crown of St. Edward, denomination in letters above and numerals below.",
+    "lettering": "NEW PENNY\r\n½",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/692f42694b0fd7.18215589-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/692f42694b0fd7.18215589-180.jpg",
+    "picture_copyright": "Menu82025",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "comments": "<p>Although these coins were not released until Decimalisation Day on 15th February 1971, HRH Philip, Duke of Edinburgh struck 6 of the new halfpennies at the opening of the new Royal Mint in Llantrisant, Glamorgan on 17th December 1968.</p><p>&nbsp;</p><p>Due to the vast quantity required for the decimal changeover and the fact that the Mint was moving from Tower Hill, London to Llantrisant, Wales some decimal coins were minted at both mints, however this coin was one of the few to only be struck completely at Llantrisant.<br><br>The production of the ½ New Penny was necessary since the old sixpence (with a decimal face value of 2.5p) continued in use up until 1980 and merchants had the ability to charge in nearly as small units as they could previously with the old money.<br><br>The Treasury continued to argue that the halfpenny was important in the fight against inflation until the coin became uneconomical to produce and consequently was demonetised and withdrawn from circulation in December 1984. Banks sent unused stocks back to the Royal Mint to be melted down, therefore less of the original mintage remains.<br><br>Christopher Ironside designed all six new denominations for decimalisation for which he was awarded the OBE in 1971.</p><p>&nbsp;</p><p style=\"margin-left:0px;\">A full set of the new decimal coins were issued in a blue presentation pack, along with an information card for public use.</p><p style=\"margin-left:0px;\">&nbsp;</p><p style=\"margin-left:0px;\"><a href=\"https://en.numista.com/catalogue/images/6798a5c481c40.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6798a5c481c40.jpg\"></a> &nbsp;<a href=\"https://en.numista.com/catalogue/images/6798a5d72bf66.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6798a5d72bf66.jpg\"></a> &nbsp;<a href=\"https://en.numista.com/catalogue/images/6798a5e93566b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6798a5e93566b.jpg\"></a> &nbsp;See: &nbsp;BU (in blue wallet)</p>",
+  "related_types": [
+    {
+      "id": 6899,
+      "title": "½ Penny - Elizabeth II (2nd portrait)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1982,
+      "maxYear": 1984
+    }
+  ],
+  "tags": [
+    "Crown"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "914"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "A1"
+    }
+  ],
+  "weight": 1.78,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

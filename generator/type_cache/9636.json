@@ -1,0 +1,142 @@
+{
+  "id": 9636,
+  "url": "https://en.numista.com/9636",
+  "title": "200 Réis",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bresil",
+    "name": "Brazil"
+  },
+  "min_year": 1938,
+  "max_year": 1942,
+  "ruler": [
+    {
+      "id": 2685,
+      "name": "Republic of the United States of Brazil",
+      "wikidata_id": "Q2414171"
+    }
+  ],
+  "value": {
+    "text": "200 Réis",
+    "numeric_value": 200,
+    "currency": {
+      "id": 210,
+      "name": "Real",
+      "full_name": "Real (1799-1942)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 18.82,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Leopoldo Alvez Campos"
+    ],
+    "description": "Portrait of Getúlio Dornelles Vargas (1882-1954), President of Brazil, first as dictator, from 1930 to 1945, and in a democratically elected term from 1951 until his suicide in 1954.",
+    "lettering": "GETULIO VARGAS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bresil/641668453c9966.76874539-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/641668453c9966.76874539-180.jpg",
+    "picture_copyright": "Rogbert",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Basílio Nunes"
+    ],
+    "description": "Denomination above date encircled by Marajoara decoration collar.",
+    "lettering": "BRASIL\r\n200 \r\nRÉIS \r\n1940",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Brazil\r\n200\r\nRéis\r\n1940",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/64166846029896.37686092-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/64166846029896.37686092-180.jpg",
+    "picture_copyright": "Rogbert",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "The Marajoara or Marajó was a native nation that inhabited the Marajó Island and the Amazon river in the Pre-Columbian era.",
+  "related_types": [
+    {
+      "id": 10242,
+      "title": "100 Réis",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1938,
+      "maxYear": 1942
+    },
+    {
+      "id": 5377,
+      "title": "300 Réis",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1938,
+      "maxYear": 1942
+    },
+    {
+      "id": 2249,
+      "title": "400 Réis",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1938,
+      "maxYear": 1942
+    }
+  ],
+  "tags": [
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "545"
+    }
+  ],
+  "weight": 3.44,
+  "orientation": "coin",
+  "edge": {
+    "description": "Indented",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/696b8417774f97.27842794-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/696b8417774f97.27842794-180.jpg",
+    "picture_copyright": "Dieter83"
+  },
+  "mints": [
+    {
+      "id": 1335,
+      "name": "Mint of Brazil"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

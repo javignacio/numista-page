@@ -1,0 +1,126 @@
+{
+  "id": 314287,
+  "url": "https://en.numista.com/314287",
+  "title": "¼ Dollar \"Washington Quarter\" (Nina Otero-Warren)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "etats-unis",
+    "name": "United States"
+  },
+  "min_year": 2022,
+  "max_year": 2022,
+  "ruler": [
+    {
+      "id": 4720,
+      "name": "Federal republic",
+      "wikidata_id": "Q30"
+    }
+  ],
+  "value": {
+    "text": "¼ Dollar ",
+    "numeric_value": 0.25,
+    "numerator": 1,
+    "denominator": 4,
+    "currency": {
+      "id": 59,
+      "name": "Dollar",
+      "full_name": "Dollar (1785-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24.26,
+  "thickness": 1.75,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel clad copper"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Laura Gardin Fraser"
+    ],
+    "designers": [
+      "Laura Gardin Fraser"
+    ],
+    "description": "Portrait of George Washington, facing right.",
+    "lettering": "LIBERTY\r\nIN GOD\r\nWE\r\nTRUST\r\n2022",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/61c11599417585.37801779-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/61c11599417585.37801779-180.jpg",
+    "picture_copyright": "Image courtesy of the United States Mint"
+  },
+  "reverse": {
+    "engravers": [
+      "Craig Campbell"
+    ],
+    "designers": [
+      "Chris Costello"
+    ],
+    "description": "Nina Otero-Warren on the left, flanked by three individual Yucca flowers – New Mexico’s state flower.",
+    "lettering": "UNITED STATES OF AMERICA\r\nQUARTER DOLLAR\r\nE PLURIBUS UNUM\r\nNINA\r\nOTERO-\r\nWARREN\r\nVOTO\r\nPARA LA\r\nMUJER",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Out of Many, One\r\nVotes for Women",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/61c1159a15b4f4.39683204-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/61c1159a15b4f4.39683204-180.jpg",
+    "picture_copyright": "Image courtesy of the United States Mint"
+  },
+  "series": "American Women Quarter Program",
+  "commemorated_topic": "Nina Otero-Warren",
+  "comments": "The obverse (heads) depicts a portrait of George Washington. The design was originally composed and sculpted by Laura Gardin Fraser as a candidate entry for the 1932 quarter, which honored the bicentennial of George Washington’s birth.<br /><br />\r\nThe Nina Otero-Warren Quarter is the fourth coin in the American Women Quarters™ Program. Nina Otero-Warren was a leader in New Mexico’s suffrage movement and the first female superintendent of Santa Fe public schools.<br /><br />\r\nOtero-Warren emphasized the necessity of using the Spanish language in the suffrage fight in order to reach Hispanic women. She also spearheaded the lobbying effort to ratify the 19th Amendment in New Mexico.<br /><br />\r\nOtero-Warren strove to improve education for all New Mexicans, working especially to advance bicultural education and to preserve cultural practices among the state’s Hispanic and Native American communities.",
+  "tags": [
+    "Military leader",
+    "Politician",
+    "Flower",
+    "Feminism"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "771"
+    }
+  ],
+  "weight": 5.67,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/658988a8712048.64723102-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/658988a8712048.64723102-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 10,
+      "name": "United States Mint of Denver"
+    },
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    },
+    {
+      "id": 12,
+      "name": "United States Mint of San Francisco"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

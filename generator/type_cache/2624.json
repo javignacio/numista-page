@@ -1,0 +1,110 @@
+{
+  "id": 2624,
+  "url": "https://en.numista.com/2624",
+  "title": "2 Cents - Elizabeth II (1st portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "ceylon_period",
+    "name": "Ceylon (1597-1972)"
+  },
+  "min_year": 1955,
+  "max_year": 1957,
+  "ruler": [
+    {
+      "id": 596,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682"
+    }
+  ],
+  "value": {
+    "text": "2 Cents",
+    "numeric_value": 0.02,
+    "currency": {
+      "id": 494,
+      "name": "Rupee",
+      "full_name": "Rupee (1871-1972)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 18,
+  "thickness": 1.59,
+  "shape": "Scalloped (with 8 notches)",
+  "composition": {
+    "text": "Brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Mary Gillick"
+    ],
+    "description": "Laureate bust facing right",
+    "lettering": "+ QUEEN·ELIZABETH·THE·SECOND",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/ceylon_period/6537670f5614e7.44725225-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ceylon_period/6537670f5614e7.44725225-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "reverse": {
+    "description": "Denomination in English, Sinhala and Tamul.",
+    "lettering": "CEYLON\r\n-2-\r\nCENTS\r\n·1955·\r\nශ තදෙක · ௨௪தம்",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      },
+      {
+        "name": "Sinhala"
+      },
+      {
+        "name": "Tamil"
+      }
+    ],
+    "lettering_translation": "Two Cents",
+    "picture": "https://en.numista.com/catalogue/photos/ceylon_period/6537670f5e0924.80902532-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ceylon_period/6537670f5e0924.80902532-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "124"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "30"
+    }
+  ],
+  "weight": 2.54,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 1804,
+      "name": "Mumbai / Bombay"
+    },
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

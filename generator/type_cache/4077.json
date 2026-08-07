@@ -1,0 +1,125 @@
+{
+  "id": 4077,
+  "url": "https://en.numista.com/4077",
+  "title": "20 Roubles (non-magnetic; segmented edge)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "russie",
+    "name": "Russian Federation (1991-date)"
+  },
+  "issuing_entity": {
+    "id": 937,
+    "name": "Central Bank of Russia",
+    "wikidata_id": "Q806651"
+  },
+  "min_year": 1992,
+  "max_year": 1992,
+  "ruler": [
+    {
+      "id": 1573,
+      "name": "Russian Federation",
+      "wikidata_id": "Q159"
+    }
+  ],
+  "value": {
+    "text": "20 Roubles",
+    "numeric_value": 20,
+    "currency": {
+      "id": 221,
+      "name": "Rouble",
+      "full_name": "Rouble (1992-1997)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1998-01-01"
+  },
+  "size": 24,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The Emblem of the Bank of Russia (the two headed eagle).",
+    "lettering": "БАНК РОССИИ",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "Bank of Russia",
+    "picture": "https://en.numista.com/catalogue/photos/russie/5983-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/russie/5983-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "reverse": {
+    "description": "Value, date.",
+    "lettering": "20\r\nРУБЛЕЙ\r\nЛМД\r\n1992",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "Roubles\r\nLMD",
+    "picture": "https://en.numista.com/catalogue/photos/russie/5982-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/russie/5982-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "comments": "ММД Mintmark (Moscow Mint, looks like MMD):<br />\r\n<img src=\"https://en.numista.com/catalogue/images/56f8e0fc6b949.jpg\" alt=\"\" width=\"110\" height=\"105\" /><br /><br />\r\nЛМД Mintmark (Leningrad - St. Petersburg Mint):<br />\r\n<img src=\"https://en.numista.com/catalogue/images/56f8e1049e18f.jpg\" alt=\"\" width=\"130\" height=\"83\" /><br /><br />\r\nTwo different variates of the Obverse (head) ЛМД Mintmark (Leningrad - St. Petersburg Mint) exist:<br />\r\n1. All feathers of the eagle are punching<br />\r\n2. 2 feathers of the eagle are not punched out (on both sides of the body)<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5ead84f906442.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5ead84f906442.jpg\" alt=\"\" width=\"200\" height=\"64\" /></a>",
+  "related_types": [
+    {
+      "id": 15787,
+      "title": "20 Roubles (magnetic; smooth edge)",
+      "category": "coin",
+      "country": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "minYear": 1993,
+      "maxYear": 1993
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "314"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "256"
+    }
+  ],
+  "weight": 5.25,
+  "orientation": "medal",
+  "edge": {
+    "description": "Alternating reeded and smooth segments",
+    "picture": "https://en.numista.com/catalogue/photos/russie/695a2744405d83.25459535-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/russie/695a2744405d83.25459535-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 7,
+      "name": "Saint Petersburg"
+    },
+    {
+      "id": 6,
+      "name": "Moscow Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

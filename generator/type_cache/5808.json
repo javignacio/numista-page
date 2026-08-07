@@ -1,0 +1,136 @@
+{
+  "id": 5808,
+  "url": "https://en.numista.com/5808",
+  "title": "5 Bolívares",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "venezuela",
+    "name": "Venezuela"
+  },
+  "min_year": 1977,
+  "max_year": 1988,
+  "ruler": [
+    {
+      "id": 4706,
+      "name": "Fourth Republic",
+      "wikidata_id": "Q21296156"
+    }
+  ],
+  "value": {
+    "text": "5 Bolivars",
+    "numeric_value": 5,
+    "currency": {
+      "id": 7,
+      "name": "Bolivar",
+      "full_name": "Bolivar (1879-2007)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2011-12-31"
+  },
+  "size": 31,
+  "thickness": 2.67,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "A. Barre"
+    ],
+    "description": "Coat of arms with legend at top. Date and value at bottom.",
+    "lettering": "★ REPÚBLICA DE VENEZUELA ★\r\n1977 5 BOLIVARES",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Venezuela Republic\r\n1977 5 Bolivares",
+    "picture": "https://en.numista.com/catalogue/photos/venezuela/655-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/venezuela/655-180.jpg",
+    "picture_copyright": "Darkcid"
+  },
+  "reverse": {
+    "description": "Portrait of Simón Bolívar facing left, engraver's name below",
+    "lettering": "BOLÍVAR LIBERTADOR\r\nBARRE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Bolivar Liberator",
+    "picture": "https://en.numista.com/catalogue/photos/venezuela/656-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/venezuela/656-180.jpg",
+    "picture_copyright": "Darkcid"
+  },
+  "comments": "Y#53.1 - Six-pointed stars.<br />\r\nY#53.2 - Five-pointed stars.",
+  "related_types": [
+    {
+      "id": 7035,
+      "title": "5 Bolívares",
+      "category": "coin",
+      "country": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "minYear": 1989,
+      "maxYear": 1990
+    }
+  ],
+  "tags": [
+    "Horse or equine",
+    "Military leader",
+    "Politician",
+    "Coat of Arms",
+    "Cornucopia"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "53"
+    },
+    {
+      "catalogue": {
+        "id": 2068,
+        "code": "NCV"
+      },
+      "number": "mv5bs-ca"
+    }
+  ],
+  "weight": 15,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/venezuela/625a8bc39b70b5.19456742-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/venezuela/625a8bc39b70b5.19456742-180.jpg",
+    "picture_copyright": "CyrusPamelaOne",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 305,
+      "name": "Caracas"
+    },
+    {
+      "id": 24,
+      "name": "Royal Mint of Madrid"
+    },
+    {
+      "id": 4157,
+      "name": "VDM Metals / Vereinigte Deutsche Metallwerke"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

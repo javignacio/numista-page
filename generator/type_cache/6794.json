@@ -1,0 +1,195 @@
+{
+  "id": 6794,
+  "url": "https://en.numista.com/6794",
+  "title": "1 Centavo",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bresil",
+    "name": "Brazil"
+  },
+  "min_year": 1967,
+  "max_year": 1975,
+  "ruler": [
+    {
+      "id": 2684,
+      "name": "Federative Republic of Brazil",
+      "wikidata_id": "Q155"
+    }
+  ],
+  "value": {
+    "text": "1 Centavo",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 206,
+      "name": "Cruzeiro novo",
+      "full_name": "Cruzeiro novo (1967-1986)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1980-12-31"
+  },
+  "size": 17,
+  "thickness": 1,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Effigy of the Republic to the left",
+    "lettering": "BRASIL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Brazil",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/695ba68de321f1.33399305-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/695ba68de321f1.33399305-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "reverse": {
+    "description": "Denomination above date.",
+    "lettering": "1\r\nCENTAVO\r\n1975",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bresil/695ba68f3e4cc3.93365187-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/695ba68f3e4cc3.93365187-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "comments": "<span style=\"font-weight:bold;\">KM#575.1</span> (thick planchet 1.7mm; 2.63g):<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5a809537e75ec.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5a809537e75ec.jpg\" alt=\"\" width=\"200\" height=\"198\" /></a><a href=\"https://en.numista.com/catalogue/images/5a80953d8a7de.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5a80953d8a7de.jpg\" alt=\"\" width=\"200\" height=\"195\" /></a><br />\r\n©www.gcoins.net",
+  "related_types": [
+    {
+      "id": 6437,
+      "title": "2 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1967,
+      "maxYear": 1975
+    },
+    {
+      "id": 2821,
+      "title": "5 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1967,
+      "maxYear": 1975
+    },
+    {
+      "id": 2243,
+      "title": "10 Centavos (non magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1967,
+      "maxYear": 1970
+    },
+    {
+      "id": 1016,
+      "title": "20 Centavos (non magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1967,
+      "maxYear": 1970
+    },
+    {
+      "id": 8851,
+      "title": "50 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1967,
+      "maxYear": 1967
+    },
+    {
+      "id": 1050,
+      "title": "50 Centavos (Non-magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1970,
+      "maxYear": 1975
+    },
+    {
+      "id": 2248,
+      "title": "1 Cruzeiro",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1967,
+      "maxYear": 1970
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "575.1"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "575.2"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "80"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "80a"
+    }
+  ],
+  "weight": 1.77,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/651a2a032fd4f1.85067319-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/651a2a032fd4f1.85067319-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 1335,
+      "name": "Mint of Brazil"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

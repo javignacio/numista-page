@@ -1,0 +1,118 @@
+{
+  "id": 2842,
+  "url": "https://en.numista.com/2842",
+  "title": "10 Pesos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "chili",
+    "name": "Chile"
+  },
+  "min_year": 1981,
+  "max_year": 1990,
+  "ruler": [
+    {
+      "id": 3299,
+      "name": "Republic",
+      "wikidata_id": "Q298"
+    }
+  ],
+  "value": {
+    "text": "10 Pesos",
+    "numeric_value": 10,
+    "currency": {
+      "id": 146,
+      "name": "Peso",
+      "full_name": "Peso (1975-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21,
+  "thickness": 1.3,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "\"Chilena\" as a female angel with arms raised wearing broken shackles chains representing the overthrow of the government of Marxist President Salvador Allende.\r\nDate of the military coup in 1973.",
+    "lettering": "REPUBLICA DE CHILE\r\n11-IX\r\nSo\r\nLIBERTAD",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Chile\r\nFreedom",
+    "picture": "https://en.numista.com/catalogue/photos/chili/1661-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/1661-180.jpg",
+    "picture_copyright": "Quodlibet"
+  },
+  "reverse": {
+    "description": "Denomination above date within wreath.",
+    "lettering": "10\r\nPESOS\r\n1986",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chili/1662-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/1662-180.jpg",
+    "picture_copyright": "Quodlibet"
+  },
+  "comments": "1986 Varieties:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/59e7e34c0290f.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/59e7e34c0290f.jpg\" alt=\"\" width=\"200\" height=\"81\" /></a><br /><br />\r\n1988 Varieties:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/59e7e480e12dd.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/59e7e480e12dd.jpg\" alt=\"\" width=\"200\" height=\"107\" /></a>",
+  "related_types": [
+    {
+      "id": 2689,
+      "title": "10 Pesos",
+      "category": "coin",
+      "country": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "minYear": 1976,
+      "maxYear": 1980
+    }
+  ],
+  "tags": [
+    "Allegory",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "218"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "69"
+    }
+  ],
+  "weight": 3.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/chili/6521d16648d410.34355232-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/6521d16648d410.34355232-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

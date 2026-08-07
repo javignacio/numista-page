@@ -1,0 +1,188 @@
+{
+  "id": 5629,
+  "url": "https://en.numista.com/5629",
+  "title": "50 Pence - Elizabeth II (4th portrait; Royal Shield)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 2008,
+  "max_year": 2015,
+  "ruler": [
+    {
+      "id": 275,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 527,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "50 Pence",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 126,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (decimalized, 1971-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 27.3,
+  "thickness": 1.78,
+  "shape": "Equilateral curve heptagon (7-sided)",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Ian Rank-Broadley"
+    ],
+    "description": "Fourth crowned portrait of Queen Elizabeth II right, wearing the Girls of Great Britain and Ireland tiara, legend around.",
+    "lettering": "ELIZABETH·II·D·G REG·F·D·2008\r\nIRB",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Elizabeth II Dei Gratia Regina Fidei Defensatrix",
+    "lettering_translation": "Elizabeth II by the Grace of God Queen Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/5545-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/5545-180.jpg",
+    "picture_copyright": "Monéphil",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Matthew Dent"
+    ],
+    "description": "Lower section of the Royal Shield, denomination to lower segment.",
+    "lettering": "MD\r\nFIFTY PENCE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/5546-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/5546-180.jpg",
+    "picture_copyright": "Monéphil",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p>Introduced in 2008 when the small coinage designs were changed from the Emblems of Britain to the Royal Shield of Arms. The 2008 coin was issued part way through the year and so was not part of the annual coin sets, however it was issued in both a Brilliant Uncirculated set (issue limit: 100,000) and a Proof set (issue limit: 20,000). It was also issued in silver proof, silver piedfort, gold proof and platinum proof.<br><a href=\"https://en.numista.com/catalogue/images/604cde20c856a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/604cde20c856a.jpg\" alt=\"\"></a><a href=\"https://en.numista.com/catalogue/images/604cde29499ea.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/604cde29499ea.jpg\" alt=\"\"></a><br>© The Royal Mint, 2008<br><br>The 2009, 2010, 2011 issues were not struck for circulation and can only be found in Proof and Brilliant Uncirculated sets.<br><br>The 2009 strike as well as being issued in the Annual Proof (35,257 sales) and Brilliant Uncirculated sets was also issued in October 2009 as part of the 16-piece set (1,039 sales) to commemorate the 40th anniversary of the 50 pence denomination. This design was also struck in silver proof, gold proof and gold piedfort. Issue limit: 5,000.<br><a href=\"https://en.numista.com/catalogue/images/602ac53d2bca9.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/602ac53d2bca9.png\" alt=\"\"></a><br>©The Royal Mint, 2009<br><br>The 2015 strike was issued as part of the dual set to commemorate the change from the 4th portrait to the 5th and was also struck in silver proof, gold proof and platinum proof.<br><a href=\"https://en.numista.com/catalogue/images/604cdf03671b2.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/604cdf03671b2.jpg\" alt=\"\"></a><br>©The Royal Mint, 2015</p>",
+  "related_types": [
+    {
+      "id": 278801,
+      "title": "50 Pence - Elizabeth II (4th portrait; Royal Shield, Silver Piedfort)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2008,
+      "maxYear": 2008
+    },
+    {
+      "id": 208027,
+      "title": "50 Pence - Elizabeth II (4th portrait; Royal Shield, Silver Proof)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2008,
+      "maxYear": 2015
+    },
+    {
+      "id": 240892,
+      "title": "50 Pence - Elizabeth II (4th Portrait; Royal Shield, Gold Proof)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2008,
+      "maxYear": 2015
+    },
+    {
+      "id": 241049,
+      "title": "50 Pence - Elizabeth II (4th portrait; Royal Shield, Platinum Proof)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2008,
+      "maxYear": 2015
+    },
+    {
+      "id": 274708,
+      "title": "50 Pence - Elizabeth II (4th portrait; Royal Shield, Gold Piedfort)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2009,
+      "maxYear": 2009
+    },
+    {
+      "id": 207221,
+      "title": "50 Pence - Elizabeth II (4th portrait; Royal Shield, Silver Proof)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2012,
+      "maxYear": 2012
+    }
+  ],
+  "tags": [
+    "Cat or feline",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1112"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "H18"
+    }
+  ],
+  "weight": 8,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/6369-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/6369-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

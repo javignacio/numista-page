@@ -1,0 +1,113 @@
+{
+  "id": 3002,
+  "url": "https://en.numista.com/3002",
+  "title": "10 Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "equateur",
+    "name": "Ecuador"
+  },
+  "issuing_entity": {
+    "id": 909,
+    "name": "Central Bank of Ecuador",
+    "wikidata_id": "Q1797646"
+  },
+  "min_year": 2000,
+  "max_year": 2000,
+  "ruler": [
+    {
+      "id": 3758,
+      "name": "Republic",
+      "wikidata_id": "Q736"
+    }
+  ],
+  "value": {
+    "text": "10 Centavos",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 361,
+      "name": "U.S. dollar",
+      "full_name": "U.S. dollar (2000-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 17.9,
+  "thickness": 1.3,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Name of the country, national coat of arms, portrait, and name of the scientist and politician Eugenio Espejo",
+    "lettering": "REPUBLICA DEL ECUADOR\r\n**EUGENIO ESPEJO**",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Ecuador\r\nEugenio Espejo",
+    "picture": "https://en.numista.com/catalogue/photos/equateur/5fc7c8fa6e50a5.14949255-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/equateur/5fc7c8fa6e50a5.14949255-180.jpg",
+    "picture_copyright": "Ben-jamin",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "reverse": {
+    "description": "Denomination in digits, denomination in words, year of issue",
+    "lettering": "BANCO CENTRAL DEL ECUADOR\r\n10\r\nAÑO \r\n2000\r\nDIEZ CENTAVOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Bank of Ecuador\r\nYear 2000\r\nTen centavos",
+    "picture": "https://en.numista.com/catalogue/photos/equateur/5fc7c8fae5e4f2.19901762-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/equateur/5fc7c8fae5e4f2.19901762-180.jpg",
+    "picture_copyright": "Ben-jamin",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "comments": "Due to rampant inflation in the 1980&#039;s and 1990&#039;s, the government of Ecuador abandoned the Sucre in 2000 and adopted the United States Dollar. These coins where introduced to supplement the circulation of the <a href=\"https://en.numista.com/53\">Dime</a>.",
+  "tags": [
+    "Literature",
+    "Coat of Arms",
+    "Scientist"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "106"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "102"
+    }
+  ],
+  "weight": 2.3,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 29,
+      "name": "Mexican Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

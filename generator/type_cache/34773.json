@@ -1,0 +1,192 @@
+{
+  "id": 34773,
+  "url": "https://en.numista.com/34773",
+  "title": "200 Pesos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "colombie",
+    "name": "Colombia"
+  },
+  "min_year": 2012,
+  "max_year": 2026,
+  "ruler": [
+    {
+      "id": 4088,
+      "name": "Republic",
+      "wikidata_id": "Q739"
+    }
+  ],
+  "value": {
+    "text": "200 Pesos",
+    "numeric_value": 200,
+    "currency": {
+      "id": 147,
+      "name": "Peso decimalized",
+      "full_name": "Peso decimalized (1847-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 22.4,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Central denomination, above name of the country, below the date, surrounded by an undulated motive.",
+    "lettering": "· REPÚBLICA DE COLOMBIA ·\r\n200\r\n·PESOS·\r\n2012",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Colombia\r\n200\r\nPesos",
+    "picture": "https://en.numista.com/catalogue/photos/colombie/6837c3a839c813.00661424-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/6837c3a839c813.00661424-180.jpg",
+    "picture_copyright": "jimmysoda"
+  },
+  "reverse": {
+    "designers": [
+      "Johana Calle"
+    ],
+    "description": "Scarlet macaw (Ara macao) on a tree branch to the left. Local and Latin name on the right. The bird is native to humid forests of Central America and to the North of South America.",
+    "lettering": "GUACAMAYA\r\nBANDERA\r\nara macao",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "GUACAMAYA\r\nFLAG\r\nAra Macao",
+    "picture": "https://en.numista.com/catalogue/photos/colombie/6837c3a8b15270.56278003-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/6837c3a8b15270.56278003-180.jpg",
+    "picture_copyright": "jimmysoda"
+  },
+  "comments": "<p>2023 smooth or embossed macaw difference:</p><p><a href=\"https://en.numista.com/catalogue/images/65a1be0cda07f.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/65a1be0cda07f.jpg\"></a> &nbsp;&nbsp;<a href=\"https://en.numista.com/catalogue/images/65a1bdde838f0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/65a1bdde838f0.jpg\"></a></p><p>&nbsp;</p><p>2023&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/66e46cc76d1d7.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/66e46cc76d1d7.jpg\"></a></p>",
+  "related_types": [
+    {
+      "id": 34771,
+      "title": "50 Pesos",
+      "category": "coin",
+      "country": {
+        "code": "colombie",
+        "name": "Colombia"
+      },
+      "minYear": 2012,
+      "maxYear": 2025
+    },
+    {
+      "id": 34772,
+      "title": "100 Pesos",
+      "category": "coin",
+      "country": {
+        "code": "colombie",
+        "name": "Colombia"
+      },
+      "minYear": 2012,
+      "maxYear": 2025
+    },
+    {
+      "id": 34774,
+      "title": "500 Pesos",
+      "category": "coin",
+      "country": {
+        "code": "colombie",
+        "name": "Colombia"
+      },
+      "minYear": 2012,
+      "maxYear": 2025
+    },
+    {
+      "id": 34775,
+      "title": "1000 Pesos",
+      "category": "coin",
+      "country": {
+        "code": "colombie",
+        "name": "Colombia"
+      },
+      "minYear": 2012,
+      "maxYear": 2024
+    }
+  ],
+  "tags": [
+    "Bird"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "297"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "124"
+    },
+    {
+      "catalogue": {
+        "id": 347,
+        "code": "Hernández"
+      },
+      "number": "654"
+    },
+    {
+      "catalogue": {
+        "id": 348,
+        "code": "Restrepo"
+      },
+      "number": "447"
+    }
+  ],
+  "weight": 4.61,
+  "orientation": "coin",
+  "edge": {
+    "description": "Smooth with inscription",
+    "lettering": "* 200 PESOS * * 200 PESOS *",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/colombie/6596e36c6309b0.32513990-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/6596e36c6309b0.32513990-180.jpg",
+    "picture_copyright": "Julio Vega",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 30,
+      "name": "Czech Mint"
+    },
+    {
+      "id": 4172,
+      "name": "Fábrica de Moneda de Ibagué"
+    },
+    {
+      "id": 1262,
+      "name": "Kremnica"
+    },
+    {
+      "id": 1334,
+      "name": "Mint of Finland"
+    },
+    {
+      "id": 27,
+      "name": "Mint of Poland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

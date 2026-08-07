@@ -1,0 +1,117 @@
+{
+  "id": 1444,
+  "url": "https://en.numista.com/1444",
+  "title": "1 Krone - Harald V",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "norvege",
+    "name": "Norway"
+  },
+  "min_year": 1997,
+  "max_year": 2016,
+  "ruler": [
+    {
+      "id": 452,
+      "name": "Harald V",
+      "wikidata_id": "Q57287",
+      "group": {
+        "id": 358,
+        "name": "House of Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Krone",
+    "numeric_value": 1,
+    "currency": {
+      "id": 16,
+      "name": "Krone",
+      "full_name": "Krone (1875-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21,
+  "thickness": 1.7,
+  "shape": "Round with a round hole (3,2mm hole)",
+  "composition": {
+    "text": "Copper-nickel (Cu 75%, Ni 25%)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Ingrid Austlid Rise"
+    ],
+    "description": "Three crowned monograms of Harald V form cross within circle, around a center hole. Mintmark, inscription and mintmaster's initials on the bottom. Solid ring on the rim.",
+    "lettering": "H5\r\n⚒ NORGE MF",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Norway.",
+    "picture": "https://en.numista.com/catalogue/photos/norvege/698442c24bdda5.11742674-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/698442c24bdda5.11742674-180.jpg",
+    "picture_copyright": "riversxian",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Ingrid Austlid Rise"
+    ],
+    "description": "Stylized bird on a vine above the center hole based on the carving on the portal of Hylestad Stave Church, Setesdal. Engraver's initials in the vines, to the right of the hole. Date below the hole. Value on the bottom. Solid ring on the rim.",
+    "lettering": "IAR\r\n2003\r\n1 KRONE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/norvege/698442c4de18f7.01872011-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/698442c4de18f7.01872011-180.jpg",
+    "picture_copyright": "riversxian",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "<p>Mintmasters' initials are featured on the coin reverse. These initials are not included on coins minted after 2007. There was a short period in 2001 when there was no acting director for the mint. A small part of this year's mintage features a star to the right of the former director's initials.<br><br><i>Reverse</i><br>Two main groups are known:<br>Die <strong>A</strong> - \"1\" in denomination thick, vertical line in 'K\" short, one cut in left top leaf.<br>Die <strong>B</strong> - all details enhanced, \"1\" in denomination thin, vertical line in 'K\" tall, two deep cuts in in left top leaf.<br><a href=\"https://en.numista.com/catalogue/images/619569336b5e2.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/619569336b5e2.jpg\" alt=\"\"></a><br>© Images courtesy of Alexandr Prokofyev<br><br><i>Combinations</i><br><strong>A</strong>: 1997-1999.<br><strong>B</strong>: 2000-2012, 2015, 2016.</p>",
+  "tags": [
+    "Bird",
+    "Crown",
+    "Monogram"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "462"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "108"
+    }
+  ],
+  "weight": 4.3,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain."
+  },
+  "mints": [
+    {
+      "id": 1888,
+      "name": "Norwegian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

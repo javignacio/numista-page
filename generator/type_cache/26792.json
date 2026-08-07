@@ -1,0 +1,104 @@
+{
+  "id": 26792,
+  "url": "https://en.numista.com/26792",
+  "title": "5 Rupees - Birendra Bir Bikram (non-magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "nepal",
+    "name": "Nepal"
+  },
+  "min_year": 1996,
+  "max_year": 1996,
+  "ruler": [
+    {
+      "id": 3964,
+      "name": "Birendra Bir Bikram Shah",
+      "wikidata_id": "Q162306",
+      "group": {
+        "id": 240,
+        "name": "Shah dynasty"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Rupees",
+    "numeric_value": 5,
+    "currency": {
+      "id": 173,
+      "name": "Rupee",
+      "full_name": "Rupee (1932-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Trident within center circle. Nepali characters around, with date below.",
+    "lettering": "श्री श्री \r\nश्री ५ वीरेन्द्र\r\nवीर विक्रम\r\nशाह देव\r\n२०५३",
+    "lettering_scripts": [
+      {
+        "name": "Devanagari"
+      }
+    ],
+    "lettering_translation": "Shree Birendra Bir Bikram Shah Dev\r\n2053",
+    "picture": "https://en.numista.com/catalogue/photos/nepal/950-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nepal/950-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "reverse": {
+    "description": "Pashupatinath temple, Kathmandu",
+    "lettering": "श्री पशुपतिनाथ \r\nनेपाल रुपैयाँ\r\n५",
+    "lettering_scripts": [
+      {
+        "name": "Devanagari"
+      }
+    ],
+    "lettering_translation": "Shree Pashupatinath \r\nNepal\r\n5\r\nRupee",
+    "picture": "https://en.numista.com/catalogue/photos/nepal/951-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nepal/951-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/552b8b04dea35.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/552b8b04dea35.jpg\" alt=\"\" width=\"200\" height=\"184\" /></a><br /><br />\r\nPashupati is an incarnation of Lord Shiva. It translates to &quot;Lord of animals&quot;. Pashupatinath temple is located on the banks of Bagmati River in Kathmandu, Nepal. It is the most important shrine for Hindus. Only Hindus are allowed to enter the temple..",
+  "related_types": [
+    {
+      "id": 6280,
+      "title": "5 Rupees - Birendra Bir Bikram Shah (magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "nepal",
+        "name": "Nepal"
+      },
+      "minYear": 1994,
+      "maxYear": 1994
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1075.2"
+    }
+  ],
+  "weight": 8,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/nepal/1674-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nepal/1674-180.jpg"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

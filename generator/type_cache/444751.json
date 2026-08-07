@@ -1,0 +1,128 @@
+{
+  "id": 444751,
+  "url": "https://en.numista.com/444751",
+  "title": "10 Cents - Elizabeth II (2nd portrait modified)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "canada",
+    "name": "Canada"
+  },
+  "min_year": 1979,
+  "max_year": 1989,
+  "ruler": [
+    {
+      "id": 2095,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 827,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Cents",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 44,
+      "name": "Dollar",
+      "full_name": "Dollar (1858-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 18.03,
+  "thickness": 1.22,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Arnold Machin"
+    ],
+    "description": "Bust of Queen Elizabeth II, as at 37 years of age, wearing tiara, facing right.",
+    "lettering": "ELIZABETH II D·G·REGINA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "ELIZABETH II DEI GRATIA REGINA",
+    "lettering_translation": "Elizabeth II Queen by the grace of God",
+    "picture": "https://en.numista.com/catalogue/photos/canada/69a192c0d7e260.22900453-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/69a192c0d7e260.22900453-180.jpg",
+    "picture_copyright": "Zanzibar.Orc.Coins",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "Emanuel Otto Hahn"
+    ],
+    "description": "The Bluenose under sail, a Canadian schooner from Nova Scotia, a celebrated racing ship and a symbol of the province, surrounded with the face value and the inscription \"CANADA\".",
+    "lettering": "CANADA\r\n1979\r\n10 CENTS\r\nH",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/canada/69a192c1d19155.70011864-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/69a192c1d19155.70011864-180.jpg",
+    "picture_copyright": "Zanzibar.Orc.Coins",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p>“With the 1979 issue, a general standardization of the coinage was launched. The portrait of the Queen was reduced to make it proportional to the diameter of the coin, regardless of denomination.” - Standard Charlton catalog Volume I</p><p><strong>1980 varieties:</strong> As a general rule, the style of the characters was examined and a more refined style was selected. - Standard Charlton catalog Volume I</p><p><a href=\"https://en.numista.com/catalogue/images/67532593a1e22.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67532593a1e22.jpg\"></a></p><p>“In 1981 the Royal Canadian Mint revamped its product line, adding a Proof finish to its offerings. Proof coins were issued on standard nickel plates.” - Charlton Standard Catalogue Volume I</p>",
+  "tags": [
+    "Boat or watercraft"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "61b.3"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "61b.4"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "77.2"
+    }
+  ],
+  "weight": 2.07,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/canada/69a473f98e81e8.66679101-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/69a473f98e81e8.66679101-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,125 @@
+{
+  "id": 10791,
+  "url": "https://en.numista.com/10791",
+  "title": "1000 Lire (European Union; Old West Germany Map)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "italie",
+    "name": "Italy"
+  },
+  "min_year": 1997,
+  "max_year": 1997,
+  "ruler": [
+    {
+      "id": 1164,
+      "name": "Republic",
+      "wikidata_id": "Q38"
+    }
+  ],
+  "value": {
+    "text": "1000 Lire",
+    "numeric_value": 1000,
+    "currency": {
+      "id": 112,
+      "name": "Lira",
+      "full_name": "Lira (1861-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 27,
+  "thickness": 2.1,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: copper-nickel centre in bronzital ring"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Laura Cretara"
+    ],
+    "description": "In the central disc female head with towered crown facing left, hair swathed in fabric. Only the crown is outside the disc. In outer ring the legend and twelve stars (dividing the legend: six above the head and six below the neck) representing the State members of the EU. Name of the author below the neck.",
+    "lettering": "REPVBBLICA ****** ITALIANA ******\r\nL.CRETARA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Italian Republic",
+    "picture": "https://en.numista.com/catalogue/photos/italie/5faad1c24b0a73.58612095-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/italie/5faad1c24b0a73.58612095-180.jpg",
+    "picture_copyright": "Gian Luca Denegri"
+  },
+  "reverse": {
+    "engravers": [
+      "Uliana Pernazza"
+    ],
+    "description": "A portion of the globe centered on Europe with thick meridian and parallels outlined. In the inner disc five folded papers are above the map around the border, creating a window in shape of a five-pointed star above the Europe. In the outer ring are the value below, with name of the author right above it, but in the disc. The date is vertical on the left, while the mintmark is at right.",
+    "lettering": "1\r\n9\r\n9\r\n7 R\r\nPERNAZZA\r\nL.1000",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "1000 Lire\r\n1997\r\nPernazza",
+    "picture": "https://en.numista.com/catalogue/photos/italie/5faad1c2d83312.56135242-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/italie/5faad1c2d83312.56135242-180.jpg",
+    "picture_copyright": "Gian Luca Denegri"
+  },
+  "commemorated_topic": "European Union",
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/5dc83f76ac440.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5dc83f76ac440.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nThis is the first version of the coin, with errors in the geographical and political boundaries of Europe. First of all the boundaries of Germany are those previous to the unification; more Luxembourg and the Netherlands are missing. Despite these errors the coin is very common",
+  "related_types": [
+    {
+      "id": 713,
+      "title": "1000 Lire (European Union; Reunited Germany Map)",
+      "category": "coin",
+      "country": {
+        "code": "italie",
+        "name": "Italy"
+      },
+      "minYear": 1997,
+      "maxYear": 2001
+    }
+  ],
+  "tags": [
+    "Map"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "190"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "193.1"
+    }
+  ],
+  "weight": 8.8,
+  "orientation": "coin",
+  "edge": {
+    "description": "Alternating smooth and milled sections",
+    "picture": "https://en.numista.com/catalogue/photos/italie/1063-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/italie/1063-180.jpg",
+    "picture_copyright": "ZacUK"
+  },
+  "mints": [
+    {
+      "id": 22,
+      "name": "Rome"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

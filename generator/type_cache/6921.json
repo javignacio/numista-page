@@ -1,0 +1,201 @@
+{
+  "id": 6921,
+  "url": "https://en.numista.com/6921",
+  "title": "5 Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "chili",
+    "name": "Chile"
+  },
+  "min_year": 1920,
+  "max_year": 1938,
+  "ruler": [
+    {
+      "id": 3299,
+      "name": "Republic",
+      "wikidata_id": "Q298"
+    }
+  ],
+  "value": {
+    "text": "5 Centavos",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 237,
+      "name": "Peso",
+      "full_name": "Peso (1835-1959)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1960-01-01"
+  },
+  "size": 16.5,
+  "thickness": 1.33,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Louis-Oscar Roty"
+    ],
+    "description": "Defiant Andean Condor on rock left, without designer's name O. ROTY at bottom with wings outstretched on rock",
+    "lettering": "REPUBLICA DE CHILE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Chile",
+    "picture": "https://en.numista.com/catalogue/photos/chili/69891fdfb7de93.50095965-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/69891fdfb7de93.50095965-180.jpg",
+    "picture_copyright": "Verbamint",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Mintmark, value, date within laurel wreath",
+    "lettering": "So\r\n5\r\nCENTAVOS\r\n1938",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chili/69891fe0ea1828.40718363-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/69891fe0ea1828.40718363-180.jpg",
+    "picture_copyright": "Verbamint",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "The general design changes 3 times: first design from 1920-1928, second design 1933, third design 1934-1938.",
+  "related_types": [
+    {
+      "id": 64762,
+      "title": "5 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "minYear": 1896,
+      "maxYear": 1899
+    },
+    {
+      "id": 16034,
+      "title": "5 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "minYear": 1899,
+      "maxYear": 1907
+    },
+    {
+      "id": 9378,
+      "title": "5 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "minYear": 1908,
+      "maxYear": 1919
+    },
+    {
+      "id": 15864,
+      "title": "5 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "minYear": 1915,
+      "maxYear": 1919
+    },
+    {
+      "id": 4054,
+      "title": "10 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "minYear": 1920,
+      "maxYear": 1941
+    },
+    {
+      "id": 6808,
+      "title": "20 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "minYear": 1919,
+      "maxYear": 1941
+    },
+    {
+      "id": 6812,
+      "title": "5 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "minYear": 1975,
+      "maxYear": 1976
+    },
+    {
+      "id": 5999,
+      "title": "5 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "minYear": 1976,
+      "maxYear": 1976
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Hammer and sickle",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "165"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "8"
+    }
+  ],
+  "weight": 2,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

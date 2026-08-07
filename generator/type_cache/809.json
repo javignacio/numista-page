@@ -1,0 +1,133 @@
+{
+  "id": 809,
+  "url": "https://en.numista.com/809",
+  "title": "20 Forint",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "hongrie",
+    "name": "Hungary"
+  },
+  "min_year": 1992,
+  "max_year": 2011,
+  "ruler": [
+    {
+      "id": 1801,
+      "name": "Republic",
+      "wikidata_id": "Q718422"
+    }
+  ],
+  "value": {
+    "text": "20 Forint",
+    "numeric_value": 20,
+    "currency": {
+      "id": 71,
+      "name": "Forint",
+      "full_name": "Forint (1946-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 26.3,
+  "thickness": 1.9,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass (75% Copper, 4% Nickel, 21% Zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "István Kósa"
+    ],
+    "description": "Hungarian iris (Binomial Name: Iris variegata) and the date below",
+    "lettering": "MAGYAR KÖZTÁRSASÁG \r\n· 2009 ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Hungary\r\n2009",
+    "picture": "https://en.numista.com/catalogue/photos/hongrie/62dbe45bc91086.79680719-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hongrie/62dbe45bc91086.79680719-180.jpg",
+    "picture_copyright": "Máté Bikfalvi",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "István Bartos"
+    ],
+    "description": "The denomination above the mintmark",
+    "lettering": "20\r\nFORINT\r\nBP.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/hongrie/62dbe45cc808b6.00763386-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hongrie/62dbe45cc808b6.00763386-180.jpg",
+    "picture_copyright": "Máté Bikfalvi",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "comments": "<p>Differences in beading sharpness and distance from the rim exist.</p><p><a href=\"https://en.numista.com/catalogue/images/6779b08767887.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6779b08767887.jpg\"></a></p>",
+  "related_types": [
+    {
+      "id": 28733,
+      "title": "20 Forint",
+      "category": "coin",
+      "country": {
+        "code": "hongrie",
+        "name": "Hungary"
+      },
+      "minYear": 2012,
+      "maxYear": 2026
+    }
+  ],
+  "tags": [
+    "Flower"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "696"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "201"
+    },
+    {
+      "catalogue": {
+        "id": 360,
+        "code": "Adamo"
+      },
+      "number": "F10.1"
+    }
+  ],
+  "weight": 6.9,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/hongrie/61581d9b3d96e9.68433619-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hongrie/61581d9b3d96e9.68433619-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 1248,
+      "name": "Hungarian mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

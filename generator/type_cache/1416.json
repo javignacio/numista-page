@@ -1,0 +1,115 @@
+{
+  "id": 1416,
+  "url": "https://en.numista.com/1416",
+  "title": "1 Krone - Margrethe II",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "danemark",
+    "name": "Denmark"
+  },
+  "min_year": 1973,
+  "max_year": 1989,
+  "ruler": [
+    {
+      "id": 2404,
+      "name": "Margrethe II",
+      "wikidata_id": "Q102139",
+      "group": {
+        "id": 104,
+        "name": "House of Schleswig-Holstein-Sonderburg-Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Krone",
+    "numeric_value": 1,
+    "currency": {
+      "id": 13,
+      "name": "Krone",
+      "full_name": "Krone (1873-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25.5,
+  "thickness": 1.85,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Frode Bahnsen"
+    ],
+    "description": "Portrait of Margrethe II facing right",
+    "lettering": "MARGRETHE II DANMARKS DRONNING\r\nS ♥ B",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Margrethe II Queen of Denmark\r\nS ♥ B",
+    "picture": "https://en.numista.com/catalogue/photos/danemark/394-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/394-180.jpg"
+  },
+  "reverse": {
+    "engravers": [
+      "Frode Bahnsen"
+    ],
+    "description": "Value, crowned royal coat of arms",
+    "lettering": "19 74\r\n1 KRONE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/danemark/395-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/395-180.jpg"
+  },
+  "comments": "The rims of the 1973 coin<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5e735bdc0eef8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e735bdc0eef8.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\nOle",
+  "tags": [
+    "Monarch",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "862"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "80"
+    }
+  ],
+  "weight": 6.8,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/danemark/5fdfb266698994.60461405-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/5fdfb266698994.60461405-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 260,
+      "name": "Royal Danish Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

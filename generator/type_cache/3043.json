@@ -1,0 +1,106 @@
+{
+  "id": 3043,
+  "url": "https://en.numista.com/3043",
+  "title": "50 Yeni Kuruş",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "turquie",
+    "name": "Turkey"
+  },
+  "min_year": 2005,
+  "max_year": 2009,
+  "ruler": [
+    {
+      "id": 2047,
+      "name": "Republic",
+      "wikidata_id": "Q43"
+    }
+  ],
+  "value": {
+    "text": "50 Kuruş",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 125,
+      "name": "New lira",
+      "full_name": "New lira (2005-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2010-01-01"
+  },
+  "size": 23.8,
+  "thickness": 1.9,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: copper-nickel centre in nickel brass ring (Core: 75% Copper, 15% Nickel, 10% Zinc - Ring: 81% Copper, 4% Nickel, 15% Zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Ahmet Mesrur Durum"
+    ],
+    "description": "A bust facing right with the country name in the outer ring",
+    "lettering": "TÜRKİYE CUMHURİYETİ",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Turkey",
+    "picture": "https://en.numista.com/catalogue/photos/turquie/63badaa1e116e3.48253069-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/turquie/63badaa1e116e3.48253069-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "reverse": {
+    "description": "The value in the center with the Turkish crescent above and the date at the bottom",
+    "lettering": "50\r\nYENİ\r\nKURUŞ\r\n2005",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "50\r\nNEW\r\nKURUŞ\r\n2005",
+    "picture": "https://en.numista.com/catalogue/photos/turquie/63badaa25f50e8.03094117-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/turquie/63badaa25f50e8.03094117-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "tags": [
+    "Military leader",
+    "Politician",
+    "Moon"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1168"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "738"
+    }
+  ],
+  "weight": 7,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/turquie/1923-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/turquie/1923-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

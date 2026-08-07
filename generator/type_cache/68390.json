@@ -1,0 +1,156 @@
+{
+  "id": 68390,
+  "url": "https://en.numista.com/68390",
+  "title": "10 Euro Cents",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "andorre",
+    "name": "Andorra"
+  },
+  "min_year": 2014,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 4700,
+      "name": "Joan Enric Vives i Sicília",
+      "wikidata_id": "Q57473",
+      "group": {
+        "id": 377,
+        "name": "Co-Principality"
+      }
+    },
+    {
+      "id": 13211,
+      "name": "Josep-Lluís Serrano Pentinat",
+      "wikidata_id": "Q93244592",
+      "group": {
+        "id": 377,
+        "name": "Co-Principality"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Euro Cents",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 9024,
+      "name": "Euro",
+      "full_name": "Euro (2014-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 19.75,
+  "thickness": 1.93,
+  "shape": "Round",
+  "composition": {
+    "text": "Nordic gold (89% Copper, 5% Aluminium, 5% Zinc, 1% Tin)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Moles Disseny"
+    ],
+    "description": "Entrance arch, main building and circular bell tower of the Church of Santa Coloma d'Andorra. Around twelve five-pointed stars representing the European Union.",
+    "lettering": "ANDORRA\r\n2014",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/andorre/62be98bdd6fc59.69338031-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/andorre/62be98bdd6fc59.69338031-180.jpg",
+    "picture_copyright": "Mike Bentley",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Luc Luycx"
+    ],
+    "description": "A map, next to the face value, shows the European continent without borders",
+    "lettering": "10 EURO CENT \r\nLL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/andorre/62be98beeb6f52.16712418-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/andorre/62be98beeb6f52.16712418-180.jpg",
+    "picture_copyright": "Mike Bentley",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<span style=\"font-weight:bold;\">Mints:</span> In even years, the coins were minted in Madrid (Spain), in odd years in Pessac (France)<br /><br />\r\nThe <span style=\"font-weight:bold;\">Church of Santa Coloma d&#039;Andorra</span> is a church in Santa Coloma, Andorra la Vella Parish, Andorra, and is Andorra&#039;s oldest church. It is a heritage property registered in the Cultural Heritage of Andorra. It is dedicated to Columba of Sens, patron saint of Andorra. The nave of the church was built in the 8th or 9th century, and the tower in the 12th century. In the church are visible remnants of murals made in the 12th century by the Master of Sant Coloma. Most of the murals were removed in 1933 and were in Berlin until 2007. These murals are now present in the Andorran Government Exhibition Hall.",
+  "related_types": [
+    {
+      "id": 68392,
+      "title": "20 Euro Cents",
+      "category": "coin",
+      "country": {
+        "code": "andorre",
+        "name": "Andorra"
+      },
+      "minYear": 2014,
+      "maxYear": 2025
+    },
+    {
+      "id": 68393,
+      "title": "50 Euro Cents",
+      "category": "coin",
+      "country": {
+        "code": "andorre",
+        "name": "Andorra"
+      },
+      "minYear": 2014,
+      "maxYear": 2025
+    }
+  ],
+  "tags": [
+    "Religious building",
+    "Tower",
+    "Map"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "523"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "504"
+    }
+  ],
+  "weight": 4.1,
+  "orientation": "medal",
+  "edge": {
+    "description": "Indented",
+    "picture": "https://en.numista.com/catalogue/photos/andorre/572-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/andorre/572-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    },
+    {
+      "id": 24,
+      "name": "Royal Mint of Madrid"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

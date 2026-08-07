@@ -1,0 +1,167 @@
+{
+  "id": 1730,
+  "url": "https://en.numista.com/1730",
+  "title": "1 Rouble (straight \"ОДИН РУБЛЬ\" under Eagle)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "russie",
+    "name": "Russian Federation (1991-date)"
+  },
+  "issuing_entity": {
+    "id": 937,
+    "name": "Central Bank of Russia",
+    "wikidata_id": "Q806651"
+  },
+  "min_year": 1997,
+  "max_year": 2001,
+  "ruler": [
+    {
+      "id": 1573,
+      "name": "Russian Federation",
+      "wikidata_id": "Q159"
+    }
+  ],
+  "value": {
+    "text": "1 Rouble",
+    "numeric_value": 1,
+    "currency": {
+      "id": 169,
+      "name": "Rouble",
+      "full_name": "Rouble (1998-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 20.5,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Alexander Vasilyevich Baklanov"
+    ],
+    "designers": [
+      "Alexander Vasilyevich Baklanov"
+    ],
+    "description": "In the centre - the Emblem of the Bank of Russia (the two-headed eagle with wings down), denomination; the year of issue and the mint trade mark.\nNOTE: Mintmark under right claw",
+    "lettering": "БАНК РОССИИ\r\nММД\r\nОДИН РУБЛЬ\r\n1997",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "Bank of Russia\r\nMMD\r\nOne Rouble",
+    "picture": "https://en.numista.com/catalogue/photos/russie/31-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/russie/31-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Alexander Vasilyevich Baklanov"
+    ],
+    "designers": [
+      "Alexander Vasilyevich Baklanov"
+    ],
+    "description": "Denomination.",
+    "lettering": "1 \r\nРУБЛЬ",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "Rouble",
+    "picture": "https://en.numista.com/catalogue/photos/russie/32-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/russie/32-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "Design varieties exist. More details available here:<br />\r\n<a href=\"https://vse-monety.ru/katalog-a-stashkina-1-rubl-1997-2016-gg/\" rel=\"nofollow\">https://vse-monety.ru/katalog-a-stashkina-1-rubl-1997-2016-gg/</a>",
+  "related_types": [
+    {
+      "id": 2088,
+      "title": "1 Rouble (curved \"БАНК РОССИИ\" under Eagle; non-magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "minYear": 2002,
+      "maxYear": 2009
+    },
+    {
+      "id": 24546,
+      "title": "1 Rouble (curved \"БАНК РОССИИ\" under Eagle; magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "minYear": 2009,
+      "maxYear": 2015
+    },
+    {
+      "id": 81297,
+      "title": "1 Rouble",
+      "category": "coin",
+      "country": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "minYear": 2016,
+      "maxYear": 2025
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Double-headed eagle"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "604"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "566"
+    }
+  ],
+  "weight": 3.25,
+  "orientation": "medal",
+  "edge": {
+    "description": "110 corrugations",
+    "picture": "https://en.numista.com/catalogue/photos/russie/5815-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/russie/5815-180.jpg",
+    "picture_copyright": "Bank of Russia",
+    "picture_copyright_url": "http://www.cbr.ru"
+  },
+  "mints": [
+    {
+      "id": 6,
+      "name": "Moscow Mint"
+    },
+    {
+      "id": 7,
+      "name": "Saint Petersburg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

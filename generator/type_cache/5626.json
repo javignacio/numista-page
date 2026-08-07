@@ -1,0 +1,126 @@
+{
+  "id": 5626,
+  "url": "https://en.numista.com/5626",
+  "title": "50 Centavos (1st coat of arms)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "nicaragua",
+    "name": "Nicaragua"
+  },
+  "issuing_entity": {
+    "id": 863,
+    "name": "Central Bank of Nicaragua",
+    "wikidata_id": "Q4504274"
+  },
+  "min_year": 1997,
+  "max_year": 1997,
+  "ruler": [
+    {
+      "id": 4284,
+      "name": "Republic",
+      "wikidata_id": "Q811"
+    }
+  ],
+  "value": {
+    "text": "50 Centavos",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 3150,
+      "name": "Third Córdoba \"Oro\"",
+      "full_name": "Third Córdoba \"Oro\" (1991-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 22,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel clad steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms with legend at top and bottom.",
+    "lettering": "REPUBLICA DE NICARAGUA\r\nAMERICA CENTRAL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Nicaragua\r\nCentral America",
+    "picture": "https://en.numista.com/catalogue/photos/nicaragua/66d44f9c2609a5.71427302-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nicaragua/66d44f9c2609a5.71427302-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "description": "Value above sprigs within circle, motto at top and date at bottom.",
+    "lettering": "EN DIOS CONFIAMOS\r\n50 \r\nCENTAVOS\r\n1997",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "In God we trust",
+    "picture": "https://en.numista.com/catalogue/photos/nicaragua/6015a01b51ea77.20298635-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nicaragua/6015a01b51ea77.20298635-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "series": "1997 Series",
+  "related_types": [
+    {
+      "id": 25720,
+      "title": "50 Centavos (2nd coat of arms; Nickel clad steel)",
+      "category": "coin",
+      "country": {
+        "code": "nicaragua",
+        "name": "Nicaragua"
+      },
+      "minYear": 2007,
+      "maxYear": 2014
+    }
+  ],
+  "tags": [
+    "Coat of Arms",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "88"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "87.1"
+    }
+  ],
+  "weight": 5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Milled",
+    "picture": "https://en.numista.com/catalogue/photos/nicaragua/6330a9ca59ad52.19749235-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nicaragua/6330a9ca59ad52.19749235-180.jpg",
+    "picture_copyright": "Rhonan",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 4175,
+      "name": "Vereinigte Deutsche Nickelwerke"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

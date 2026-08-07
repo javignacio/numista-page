@@ -1,0 +1,152 @@
+{
+  "id": 202203,
+  "url": "https://en.numista.com/202203",
+  "title": "10 Reais (2nd. Family)",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "bresil",
+    "name": "Brazil"
+  },
+  "issuing_entity": {
+    "id": 900,
+    "name": "Central Bank of Brazil",
+    "wikidata_id": "Q806186"
+  },
+  "min_year": 2010,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 2684,
+      "name": "Federative Republic of Brazil",
+      "wikidata_id": "Q155"
+    }
+  ],
+  "value": {
+    "text": "10 Reais",
+    "numeric_value": 10,
+    "currency": {
+      "id": 158,
+      "name": "Real",
+      "full_name": "Real (1994-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2012-07-23"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 135,
+  "size2": 65,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Symbolic effigy of the Republic, interpreted in the form of sculpture.\r\nIn the lower right corner, a tactile mark with two vertical bars, for use by the visually impaired.",
+    "lettering": "REPÚBLICA FEDERATIVA DO BRASIL 10\r\n2010\r\n10\r\nREAIS\r\nREPÚBLICA\r\nDEUS SEJA LOUVADO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Federative Republic of Brazil\r\n10\r\n2010\r\n10\r\nReais\r\nRepublic\r\nGod be praised",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/674b7fc7dc8e70.51208127-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/674b7fc7dc8e70.51208127-180.jpg",
+    "picture_copyright": "vladthiengo",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Green-winged macaw (Ara chlorepterus) among foliage, with an image of two macaws in flight.",
+    "lettering": "BANCO CENTRAL DO BRASIL 10\r\n10\r\nMINISTRO DA FAZENDA\r\nPRESIDENTE DO\r\nBANCO CENTRAL DO BRASIL\r\nARARA\r\nDEZ REAIS\r\nCASA DA MOEDA DO BRASIL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Brazilian Central Bank\r\n10\r\n10\r\nFinance Minister\r\nPresident of the Brazilian Central Bank\r\nMacaw\r\nTen Reais\r\nBrazilian Mint",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/674b7fc96e0442.55556856-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/674b7fc96e0442.55556856-180.jpg",
+    "picture_copyright": "vladthiengo",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "series": "Real - 2nd Family",
+  "comments": "<p><strong>Curiosity</strong><br>(1) <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.wikipedia.org/wiki/Ef%C3%ADgie_da_Rep%C3%BAblica\"><i>Effigy of the Republic</i></a><br><br>(2) <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.wikipedia.org/wiki/Red-and-green_macaw\"><i>Macaw (Arara chloroptera)</i></a><br>---<br><strong>Notes</strong><br><a href=\"https://en.numista.com/catalogue/images/5eb1d428e8152.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5eb1d428e8152.jpg\" alt=\"\"></a><br><i>more...</i> <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.numista.com/numisdoc/brazil-179.html\">Federative Republic of <strong>Brazil</strong></a> and <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.wikipedia.org/wiki/Brazilian_real\">Real (R$)</a><br>---<br><a href=\"https://en.numista.com/catalogue/images/5eb22e2b1e400.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5eb22e2b1e400.jpg\" alt=\"\"></a><br><i><strong>Important:</strong> Date is frozen on 2010 (release of the new banknote series)</i><br>---<br><a href=\"https://en.numista.com/catalogue/images/5eb23d9c95edb.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5eb23d9c95edb.jpg\" alt=\"\"></a><br><i>Tactile mark for the visually impaired</i><br>---<br><a href=\"https://en.numista.com/catalogue/images/5eb23db14461f.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5eb23db14461f.jpg\" alt=\"\"></a><br><a href=\"https://en.numista.com/catalogue/images/5eb23dc20226b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5eb23dc20226b.jpg\" alt=\"\"></a><br><i>Specimen note sample</i><br><br>UV activity:<br><a href=\"https://en.numista.com/catalogue/images/64a040ce32769.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64a040ce32769.png\" alt=\"\"></a><br><a href=\"https://en.numista.com/catalogue/images/64a040e4e6c75.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64a040e4e6c75.png\" alt=\"\"></a><br>© gyoschak</p><p>&nbsp;</p><p>Denomination “10” printed in colour-changing ink, changes colour from emerald green to turquoise when note is tilted:</p><p><a href=\"https://en.numista.com/catalogue/images/6688d5b998c70.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6688d5b998c70.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/6688d5bca055b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6688d5bca055b.jpg\"></a></p><p>© Kiet Tran</p><p>&nbsp;</p><p>There is a security thread present on this banknote, it is only visible under a backlight, inscription “10 REAIS” repeated throughout:\\</p><p><a href=\"https://en.numista.com/catalogue/images/6688d60e1caf2.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6688d60e1caf2.jpg\"></a></p><p>© Kiet Tran</p>",
+  "related_types": [
+    {
+      "id": 205660,
+      "title": "10 Reais (1st. Family; Stamps A/B; Watermark \"Effigy\")",
+      "category": "banknote",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1994,
+      "maxYear": 1996
+    },
+    {
+      "id": 209797,
+      "title": "10 Reais (1st. Family; Stamp C; Watermark \"Flag\")",
+      "category": "banknote",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1997,
+      "maxYear": 2010
+    },
+    {
+      "id": 202403,
+      "title": "10 Reais (Pedro Álvares Cabral; Discovery)",
+      "category": "banknote",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 2000,
+      "maxYear": 2001
+    }
+  ],
+  "tags": [
+    "Allegory",
+    "Bird"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "254"
+    },
+    {
+      "catalogue": {
+        "id": 936,
+        "code": "TBB"
+      },
+      "number": "876"
+    }
+  ],
+  "watermark": {
+    "description": "Green-winged macaw (Ara chlorepterus) and electrotype “10”",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/676395f141e369.83183555-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/676395f141e369.83183555-180.jpg",
+    "picture_copyright": "ajbbarbados",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "printers": [
+    {
+      "id": "12",
+      "name": "Casa da Moeda do Brasil"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

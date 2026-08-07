@@ -1,0 +1,186 @@
+{
+  "id": 3039,
+  "url": "https://en.numista.com/3039",
+  "title": "50 Fils (non-magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "koweit",
+    "name": "Kuwait"
+  },
+  "min_year": 1962,
+  "max_year": 2011,
+  "ruler": [
+    {
+      "id": 2409,
+      "name": "Abdullah III Al-Salim Al-Sabah",
+      "wikidata_id": "Q2183167"
+    },
+    {
+      "id": 2410,
+      "name": "Sabah III Al-Salim Al-Sabah",
+      "wikidata_id": "Q2074907"
+    },
+    {
+      "id": 2411,
+      "name": "Jaber III al-Ahmad al-Sabah",
+      "wikidata_id": "Q217194"
+    },
+    {
+      "id": 2412,
+      "name": "Sabah IV Al-Ahmad Al-Jaber Al-Sabah",
+      "wikidata_id": "Q57555"
+    }
+  ],
+  "value": {
+    "text": "50 Fils",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 27,
+      "name": "Dinar",
+      "full_name": "Dinar (1960-1990 and 1991-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23,
+  "thickness": 1.54,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Cu, 25% Ni)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Value in Arabic within circle. State name in Arabic above, and in English below",
+    "lettering": "الكُوَيت\r\n٥٠\r\nًفَلسا\r\nKUWAIT",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Kuwait\r\n50 \r\nFils\r\nKUWAIT",
+    "picture": "https://en.numista.com/catalogue/photos/koweit/127-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/koweit/127-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "reverse": {
+    "description": "Boom sailing ship, a type of dhow, sailing to the left with a small flag on the right side. Islamic and Gregorian dates in Arabic below",
+    "lettering": "١٤٣١ - ٢٠١٠",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "1431 - 2010",
+    "picture": "https://en.numista.com/catalogue/photos/koweit/126-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/koweit/126-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "comments": "Rulers:<br />\r\n1) Sheikh Abdullah III (1950-1965)<br />\r\n2) Sheikh Sabah III (1965-1977)<br />\r\n3) Sheikh Jaber III (1977-2006)<br />\r\n4) Sheikh Sabah IV (2006-Date)<br /><br />\r\nPossibly an error (or a simply damaged 1995 coin) with dates &quot;١٤١٥ - ١٩٦٥&quot; which is 1415 - 1965, while the normal coin should read 1415 - 1995 instead<br />\r\nSource: <a href=\"https://www.instagram.com/p/BDpp6YswIg1/\" rel=\"nofollow\">https://www.instagram.com/p/BDpp6YswIg1/</a><br /><br />\r\n1399 - 1979 Specimen (Ex King&#039;s Norton Mint Collection):<br />\r\n<a href=\"https://en.numista.com/catalogue/images/59bc366800069.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/59bc366800069.jpg\" alt=\"\" width=\"200\" height=\"130\" /></a><br />\r\n© Image courtesy of Heritage Auctions<br /><br />\r\n1410 -1990 Specimen (Ex King&#039;s Norton Mint Collection):<br />\r\n<a href=\"https://en.numista.com/catalogue/images/59bc36b3d7c19.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/59bc36b3d7c19.jpg\" alt=\"\" width=\"200\" height=\"129\" /></a><br />\r\n© Image courtesy of Heritage Auctions",
+  "related_types": [
+    {
+      "id": 11755,
+      "title": "50 Fils (Emirate of Kuwait)",
+      "category": "coin",
+      "country": {
+        "code": "koweit",
+        "name": "Kuwait"
+      },
+      "minYear": 1961,
+      "maxYear": 1961
+    },
+    {
+      "id": 100831,
+      "title": "50 Fils (Gold)",
+      "category": "coin",
+      "country": {
+        "code": "koweit",
+        "name": "Kuwait"
+      },
+      "minYear": 1987,
+      "maxYear": 1987
+    },
+    {
+      "id": 76628,
+      "title": "50 Fils (Silver)",
+      "category": "coin",
+      "country": {
+        "code": "koweit",
+        "name": "Kuwait"
+      },
+      "minYear": 1987,
+      "maxYear": 2011
+    },
+    {
+      "id": 100840,
+      "title": "50 Fils (Silver Gilt)",
+      "category": "coin",
+      "country": {
+        "code": "koweit",
+        "name": "Kuwait"
+      },
+      "minYear": 2008,
+      "maxYear": 2011
+    },
+    {
+      "id": 84126,
+      "title": "50 Fils (Magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "koweit",
+        "name": "Kuwait"
+      },
+      "minYear": 2012,
+      "maxYear": 2019
+    }
+  ],
+  "tags": [
+    "Boat or watercraft"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "13"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "12"
+    }
+  ],
+  "weight": 4.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/koweit/69eefcd4915f36.46858435-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/koweit/69eefcd4915f36.46858435-180.jpg",
+    "picture_copyright": "Julio Vega",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    },
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

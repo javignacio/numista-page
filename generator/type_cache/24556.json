@@ -1,0 +1,112 @@
+{
+  "id": 24556,
+  "url": "https://en.numista.com/24556",
+  "title": "1 Peso (Santiago)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "chili",
+    "name": "Chile"
+  },
+  "min_year": 1817,
+  "max_year": 1834,
+  "ruler": [
+    {
+      "id": 3299,
+      "name": "Republic",
+      "wikidata_id": "Q298"
+    }
+  ],
+  "value": {
+    "text": "Peso",
+    "numeric_value": 8,
+    "currency": {
+      "id": 1203,
+      "name": "Real",
+      "full_name": "Real (1541-1852)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 39.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.902)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Pillar topped with globe underneath star and ribbon",
+    "lettering": "UNION Y FUERZA F·J\r\nLIBERTAD\r\n· 1817 ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chili/551-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/551-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "description": "Erupting volcano below wreath",
+    "lettering": "CHILE INDEPENDIENTE\r\nUN PESO\r\n·SANTIAGO·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chili/550-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/550-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "<p><a href=\"https://en.numista.com/catalogue/images/656ea6990e859.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/656ea6990e859.png\"></a></p>",
+  "related_types": [
+    {
+      "id": 341033,
+      "title": "8 Reales - Ferdinand VII (Countermark on Chile 1 Peso)",
+      "category": "coin",
+      "country": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "minYear": 1832,
+      "maxYear": 1834
+    },
+    {
+      "id": 21134,
+      "title": "8 Reales - Isabella II (Countermark on Chile 1 Peso)",
+      "category": "coin",
+      "country": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "minYear": 1834,
+      "maxYear": 1837
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "82"
+    }
+  ],
+  "weight": 27,
+  "orientation": "medal",
+  "mints": [
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

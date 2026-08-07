@@ -1,0 +1,105 @@
+{
+  "id": 9793,
+  "url": "https://en.numista.com/9793",
+  "title": "¼ Balboa (Children's Hospital)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "panama",
+    "name": "Panama"
+  },
+  "min_year": 2008,
+  "max_year": 2008,
+  "ruler": [
+    {
+      "id": 4072,
+      "name": "Republic",
+      "wikidata_id": "Q804"
+    }
+  ],
+  "value": {
+    "text": "¼ Balboa",
+    "numeric_value": 0.25,
+    "numerator": 1,
+    "denominator": 4,
+    "currency": {
+      "id": 5,
+      "name": "Balboa",
+      "full_name": "Balboa (1904-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24.26,
+  "thickness": 1.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel clad copper"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Arms of Panama with 9 stars above representing the nine provinces of Panama and the name of the country above, date below.",
+    "lettering": "REPUBLICA DE PANAMA\r\n*********\r\nPRO MUNDI BENEFICIO\r\n2008",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Panama\r\nFor the Benefit of the World",
+    "picture": "https://en.numista.com/catalogue/photos/panama/508-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/panama/508-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "reverse": {
+    "description": "Front of the Children Hospital of Panama City, the value in letters above, motto of the 50th-anniversary campaign, and dates, below.",
+    "lettering": "UN CUARTO DE BALBOA\r\nHOSPITAL DEL NINO\r\n1958 2008\r\nTE QUEREMOS VER CRECER",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "One-Quarter of a Balboa\r\nChildrens Hospital\r\nWe want to see you grow",
+    "picture": "https://en.numista.com/catalogue/photos/panama/507-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/panama/507-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "commemorated_topic": "50th Anniversary of Children's Hospital",
+  "comments": "Since its separation from Colombia in 1903, Panama has used the United States Dollar. These coins have the same specifications as the United States Quarter and circulate alongside it.",
+  "tags": [
+    "Coat of Arms",
+    "Other building",
+    "Health"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "138"
+    }
+  ],
+  "weight": 5.67,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/panama/6a0d5cb625c544.23034854-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/panama/6a0d5cb625c544.23034854-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

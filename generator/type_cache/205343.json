@@ -1,0 +1,105 @@
+{
+  "id": 205343,
+  "url": "https://en.numista.com/205343",
+  "title": "10 Pesos Bolivianos / 10 000 Bolivianos",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "bolivie",
+    "name": "Bolivia"
+  },
+  "issuing_entity": {
+    "id": 899,
+    "name": "Central Bank of Bolivia",
+    "wikidata_id": "Q806180"
+  },
+  "min_year": 1962,
+  "max_year": 1962,
+  "ruler": [
+    {
+      "id": 4379,
+      "name": "Republic",
+      "wikidata_id": "Q750"
+    }
+  ],
+  "value": {
+    "text": "10 Pesos Bolivianos",
+    "numeric_value": 10,
+    "currency": {
+      "id": 322,
+      "name": "Peso boliviano",
+      "full_name": "Peso boliviano (1963-1986)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 155,
+  "size2": 65,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Green and dark-green on multicolor underprint.\r\nAt right, portrait of Germán Busch Becerra, a Bolivian military officer and war hero who served as the 36th President of Bolivia from 1937 to 1939; Coat of arms at left.",
+    "lettering": "BANCO CENTRAL DE BOLIVIA\r\nDIEZ PESOS \r\nBOLIVIANOS\r\nLA PAZ,\r\nLEY DE 13 DE JULIO DE 1962",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Bank of Bolivia\r\nTen Bolivian Pesos\r\nLa Paz, \r\nLaw of July 13th., 1962",
+    "picture": "https://en.numista.com/catalogue/photos/bolivie/6543f77cb7de69.46205212-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bolivie/6543f77cb7de69.46205212-180.jpg",
+    "picture_copyright": "Daniel LeBowsky",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Dark-green and olive print.\r\nScene of the Mountain of Potosi.",
+    "lettering": "BANCO CENTRAL DE BOLIVIA\r\n10\r\nDIEZ PESOS BOLIVIANOS\r\nDIEZ MIL  BOLIVIANOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Bank of Bolivia\r\n10 Bolivian Pesos\r\n10000 Bolivianos",
+    "picture": "https://en.numista.com/catalogue/photos/bolivie/6543f77dca1a69.07232562-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bolivie/6543f77dca1a69.07232562-180.jpg",
+    "picture_copyright": "Daniel LeBowsky",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p>18 signatures varieties.</p><p>&nbsp;</p><p>UV activity:</p><p><a href=\"https://en.numista.com/catalogue/images/65c14f6b2594b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/65c14f6b2594b.jpg\"></a></p><p>© gyoschak</p>",
+  "tags": [
+    "Military leader",
+    "Mountain",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "154"
+    },
+    {
+      "catalogue": {
+        "id": 936,
+        "code": "TBB"
+      },
+      "number": "343"
+    }
+  ],
+  "printers": [
+    {
+      "id": 1,
+      "name": "De La Rue"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

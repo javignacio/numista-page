@@ -1,0 +1,143 @@
+{
+  "id": 917,
+  "url": "https://en.numista.com/917",
+  "title": "25 Cents",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "barbade",
+    "name": "Barbados"
+  },
+  "min_year": 1973,
+  "max_year": 2006,
+  "ruler": [
+    {
+      "id": 3989,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 244,
+        "name": "Commonwealth Realm"
+      }
+    }
+  ],
+  "value": {
+    "text": "25 Cents",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 51,
+      "name": "Dollar",
+      "full_name": "Dollar (1973-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23.6,
+  "thickness": 1.82,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "National Arms of Barbados with the country name below",
+    "lettering": "19 73\r\nPRIDE AND INDUSTRY\r\nBARBADOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/barbade/5f0a007313c232.28522835-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/barbade/5f0a007313c232.28522835-180.jpg",
+    "picture_copyright": "Ponpandi Perumal",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Philip Nathan"
+    ],
+    "description": "Windmill below value.",
+    "lettering": "TWENTY FIVE CENTS\r\nPN",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Philip Nathan",
+    "picture": "https://en.numista.com/catalogue/photos/barbade/5f0a0073cdc195.32131469-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/barbade/5f0a0073cdc195.32131469-180.jpg",
+    "picture_copyright": "Ponpandi Perumal",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p><a href=\"https://en.numista.com/catalogue/images/5e94ec55bf720.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e94ec55bf720.jpg\" alt=\"\"></a><br>Morgan Lewis Windmill, St. Andrew, Barbados | Source: Wikipedia<br>The Morgan Lewis Windmill is one of only two functional windmills in the Caribbean. It was built in 1727 and in operation until 1945, the mill was used to grind sugar cane and could deliver up to 1,500 gallons of cane juice to the boiling house daily.<br><br>After 1945, when the mill stopped operating, it fell into disrepair and was at one time listed among the world's most endangered heritage sites. In 1996, the Barbados National Trust embarked on a restoration project and returned the mill to its original working specifications.<br><br>Grinding is done at Morgan Lewis every second Sunday between the months of January and April, and the mill and its grounds are open for tours.<br>(From Central Bank of Barbados)<br><br>The Royal Mint coins were struck by two groups of dies for Obverse and Reverse.<br><br><i>Obverse</i><br>Die <strong>1</strong> - motto 'PRIDE AND INDUSTRY' bold, all the rest details thin and far from each other, numerals suit trident in width.<br>Die <strong>2</strong> - motto 'PRIDE AND INDUSTRY' thin, all the rest details thick and closer to each other, right numerals wider then trident.<br><a href=\"https://en.numista.com/catalogue/images/5d1f67e105c46.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d1f67e105c46.jpg\" alt=\"\"></a><br><br><i>Reverse</i><br>Die <strong>A</strong> - a legend with the denomination and all details thin and far from the center.<br>Die <strong>B</strong> - a legend with the denomination and all details thick and closer to centre.<br><a href=\"https://en.numista.com/catalogue/images/5d1f67f08e000.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d1f67f08e000.jpg\" alt=\"\"></a><br><br>Combinations:<br>Dies 1+A in 1973-1981.<br>Dies 2+B in 1985-2006 and continued 2007-2011 on Nickel-plated Steel planchets (<a class=\"n-link\" data-mention=\"N#19168\" data-n-number=\"19168\" data-issuer=\"Barbados\" title=\"25 Cents (Magnetic)\" href=\"/19168\">N#19168</a>).</p>",
+  "related_types": [
+    {
+      "id": 19168,
+      "title": "25 Cents (Magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "barbade",
+        "name": "Barbados"
+      },
+      "minYear": 2007,
+      "maxYear": 2022
+    }
+  ],
+  "tags": [
+    "Other building",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "13"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "5"
+    }
+  ],
+  "weight": 5.65,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/barbade/627d854c4ae1d0.60611466-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/barbade/627d854c4ae1d0.60611466-180.jpg",
+    "picture_copyright": "Harryg",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 19,
+      "name": "Royal Canadian Mint of Ottawa"
+    },
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    },
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    },
+    {
+      "id": 1319,
+      "name": "Franklin Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

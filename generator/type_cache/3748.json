@@ -1,0 +1,134 @@
+{
+  "id": 3748,
+  "url": "https://en.numista.com/3748",
+  "title": "1 Piso",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "philippines",
+    "name": "Philippines"
+  },
+  "issuing_entity": {
+    "id": 492,
+    "name": "Central Bank of the Philippines",
+    "wikidata_id": "Q1853468"
+  },
+  "min_year": 1975,
+  "max_year": 1982,
+  "ruler": [
+    {
+      "id": 1639,
+      "name": "Republic",
+      "wikidata_id": "Q928"
+    }
+  ],
+  "value": {
+    "text": "1 Peso",
+    "numeric_value": 1,
+    "currency": {
+      "id": 151,
+      "name": "Piso",
+      "full_name": "Piso (1967-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1998-01-02"
+  },
+  "size": 29,
+  "thickness": 1.9,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Thomas James Ferrell"
+    ],
+    "description": "Coat of arms of the Philippines.",
+    "lettering": "* ANG BAGONG LIPUNAN *\r\n19 82\r\nBANGKO SENTRAL NG PILIPINAS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "The New Society. Central Bank of the Philippines.",
+    "picture": "https://en.numista.com/catalogue/photos/philippines/6513d7ac9f3003.70081431-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/philippines/6513d7ac9f3003.70081431-180.jpg",
+    "picture_copyright": "Coinsberg",
+    "picture_copyright_url": "https://www.coinsberg.com/"
+  },
+  "reverse": {
+    "engravers": [
+      "Thomas James Ferrell"
+    ],
+    "description": "Front-right facing bust of José Rizal.",
+    "lettering": "REPUBLIKA NG PILIPINAS\r\n1\r\nPISO\r\nJOSE RIZAL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of the Philippines.",
+    "picture": "https://en.numista.com/catalogue/photos/philippines/6513d7acdf9580.18239394-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/philippines/6513d7acdf9580.18239394-180.jpg",
+    "picture_copyright": "Coinsberg",
+    "picture_copyright_url": "https://www.coinsberg.com/"
+  },
+  "series": "The New Society Series",
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/5da087402c53c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5da087402c53c.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5da36ae78e0f8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5da36ae78e0f8.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nAccording to Krause, the coins minted in 1975 without a mintmark were either minted in a US mint (30,000,000 pieces) or in Vereinigte Deutsche Metall (10,000,000 pieces). Also according to Krause, the coins minted in 1976 without a mintmark were minted in a US mint. Krause does not say where the mintmark-less pieces from 1977 or 1978 were minted.",
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "209"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "67"
+    }
+  ],
+  "weight": 9.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/philippines/69cc5621d1d148.18951230-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/philippines/69cc5621d1d148.18951230-180.jpg",
+    "picture_copyright": "MatthewM",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 10,
+      "name": "United States Mint of Denver"
+    },
+    {
+      "id": 12,
+      "name": "United States Mint of San Francisco"
+    },
+    {
+      "id": 5198,
+      "name": "BSP Security Plant Complex"
+    },
+    {
+      "id": 1319,
+      "name": "Franklin Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

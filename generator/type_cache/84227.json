@@ -1,0 +1,120 @@
+{
+  "id": 84227,
+  "url": "https://en.numista.com/84227",
+  "title": "1 Kopeck",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bielorussie",
+    "name": "Belarus"
+  },
+  "issuing_entity": {
+    "id": 422,
+    "name": "National Bank of the Republic of Belarus",
+    "wikidata_id": "Q431491"
+  },
+  "min_year": 2009,
+  "max_year": 2009,
+  "ruler": [
+    {
+      "id": 1314,
+      "name": "Republic",
+      "wikidata_id": "Q184"
+    }
+  ],
+  "value": {
+    "text": "1 Kopek",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 3829,
+      "name": "Third Rouble",
+      "full_name": "Third Rouble (2016-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 15,
+  "thickness": 1.25,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Svetlana Nekrasova"
+    ],
+    "description": "National emblem of Belarus, date below",
+    "lettering": "БЕЛАРУСЬ \r\n2009",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "Belarus",
+    "picture": "https://en.numista.com/catalogue/photos/bielorussie/6293c20cc18a30.73246449-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/6293c20cc18a30.73246449-180.jpg",
+    "picture_copyright": "papilio",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "Svetlana Nekrasova"
+    ],
+    "description": "National ornament symbolizing wealth and prosperity to the right of the denomination",
+    "lettering": "1 капейка",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "1 kopeck",
+    "picture": "https://en.numista.com/catalogue/photos/bielorussie/6293c20d1eae87.61797700-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/6293c20d1eae87.61797700-180.jpg",
+    "picture_copyright": "papilio",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "series": "2009 issue",
+  "comments": "<p>Commemorative set \"My Country Belarus\"<br>CJSC \"Lithuanian Mint\", Vilnius, Lithuania.<br><a href=\"https://en.numista.com/catalogue/images/59a7dc0d95d99.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/59a7dc0d95d99.jpg\" alt=\"\"></a><br><br>There are three varieties:</p><p><a href=\"https://en.numista.com/catalogue/images/686ac798696d2.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686ac798696d2.jpg\"></a><br><br>&nbsp;</p>",
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "561"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "499"
+    }
+  ],
+  "weight": 1.55,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/bielorussie/698c242b60ced8.24029380-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/698c242b60ced8.24029380-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 1262,
+      "name": "Kremnica"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

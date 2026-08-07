@@ -1,0 +1,107 @@
+{
+  "id": 5338,
+  "url": "https://en.numista.com/5338",
+  "title": "1 Cent - Elizabeth II",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "ceylon_period",
+    "name": "Ceylon (1597-1972)"
+  },
+  "min_year": 1963,
+  "max_year": 1971,
+  "ruler": [
+    {
+      "id": 596,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682"
+    }
+  ],
+  "value": {
+    "text": "1 Cent",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 494,
+      "name": "Rupee",
+      "full_name": "Rupee (1871-1972)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 16,
+  "thickness": 1.57,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of Arms with \"Ceylon\" in English, Sinhala, and Tamil",
+    "lettering": "இலங்கை ලංකා CEYLON",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      },
+      {
+        "name": "Sinhala"
+      },
+      {
+        "name": "Tamil"
+      }
+    ],
+    "lettering_translation": "Ceylon Lanka Ceylon",
+    "picture": "https://en.numista.com/catalogue/photos/ceylon_period/653767106592f6.24862528-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ceylon_period/653767106592f6.24862528-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "reverse": {
+    "description": "Denomination",
+    "lettering": "ලංකා\r\n1\r\nසතය\r\n௪தம\r\nCENT\r\n1963",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      },
+      {
+        "name": "Sinhala"
+      },
+      {
+        "name": "Tamil"
+      }
+    ],
+    "lettering_translation": "Lanka\r\n1\r\nOne Cent\r\nOne Cent\r\nCent\r\n1963",
+    "picture": "https://en.numista.com/catalogue/photos/ceylon_period/65376710740fe1.73057868-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ceylon_period/65376710740fe1.73057868-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "127"
+    }
+  ],
+  "weight": 0.7,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    },
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

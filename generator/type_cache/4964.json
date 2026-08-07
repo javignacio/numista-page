@@ -1,0 +1,122 @@
+{
+  "id": 4964,
+  "url": "https://en.numista.com/4964",
+  "title": "1 Sen - Shōwa (Heavy type)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "japon",
+    "name": "Japan"
+  },
+  "min_year": 1941,
+  "max_year": 1943,
+  "ruler": [
+    {
+      "id": 335,
+      "name": "Shōwa",
+      "wikidata_id": "Q327567"
+    }
+  ],
+  "value": {
+    "text": "1 Sen",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 197,
+      "name": "Yen",
+      "full_name": "Yen (1871-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1953-12-31"
+  },
+  "size": 16,
+  "thickness": 1.52,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Value in center with authority above and date below.",
+    "lettering": "本 日 大\r\n一\r\n年 八 十 和 昭",
+    "lettering_scripts": [
+      {
+        "name": "Chinese (traditional, clerical script)"
+      },
+      {
+        "name": "Chinese (traditional, regular script)"
+      }
+    ],
+    "lettering_translation": "Great Japan\r\nOne\r\nYear 18 of Shōwa",
+    "picture": "https://en.numista.com/catalogue/photos/japon/1582-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/japon/1582-180.jpg",
+    "picture_copyright": "Ma collection de monnaies",
+    "picture_copyright_url": "https://monnaiesetvarietes.numista.com/"
+  },
+  "reverse": {
+    "description": "Mount Fuji, with Chrysanthemum crest at top. Value below.",
+    "lettering": "錢 一",
+    "lettering_scripts": [
+      {
+        "name": "Chinese (traditional, regular script)"
+      }
+    ],
+    "lettering_translation": "One Sen",
+    "picture": "https://en.numista.com/catalogue/photos/japon/1583-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/japon/1583-180.jpg",
+    "picture_copyright": "Ma collection de monnaies",
+    "picture_copyright_url": "https://monnaiesetvarietes.numista.com/"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/5cb351a9bc633.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5cb351a9bc633.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "related_types": [
+    {
+      "id": 25128,
+      "title": "1 Sen - Shōwa (Light type)",
+      "category": "coin",
+      "country": {
+        "code": "japon",
+        "name": "Japan"
+      },
+      "minYear": 1943,
+      "maxYear": 1943
+    }
+  ],
+  "tags": [
+    "Mountain",
+    "Flower",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "59"
+    },
+    {
+      "catalogue": {
+        "id": 3041,
+        "code": "JNDA"
+      },
+      "number": "01-51"
+    }
+  ],
+  "weight": 0.65,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain.",
+    "picture": "https://en.numista.com/catalogue/photos/japon/1866-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/japon/1866-180.jpg",
+    "picture_copyright": "jasanche",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

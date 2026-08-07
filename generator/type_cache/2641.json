@@ -1,0 +1,118 @@
+{
+  "id": 2641,
+  "url": "https://en.numista.com/2641",
+  "title": "50 Cents (Copper-nickel)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "kenya",
+    "name": "Kenya"
+  },
+  "min_year": 1978,
+  "max_year": 1989,
+  "ruler": [
+    {
+      "id": 937,
+      "name": "Republic",
+      "wikidata_id": "Q114"
+    }
+  ],
+  "value": {
+    "text": "50 Cents",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 179,
+      "name": "Shilling",
+      "full_name": "Shilling (1966-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2011-12-31"
+  },
+  "size": 21,
+  "thickness": 1.54,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms of Kenya dividing date.",
+    "lettering": "REPUBLIC OF KENYA\r\n1989\r\nHARAMBEE\r\n50\r\nFIFTY CENTS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "All pull together.",
+    "picture": "https://en.numista.com/catalogue/photos/kenya/304-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/kenya/304-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "description": "Bust of Daniel Toroitich Arap Moi facing right.",
+    "lettering": "PRESIDENT OF REPUBLIC OF KENYA\r\nDANIEL TOROITICH ARAP MOI",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/kenya/305-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/kenya/305-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "related_types": [
+    {
+      "id": 12173,
+      "title": "50 Cents (Plated steel)",
+      "category": "coin",
+      "country": {
+        "code": "kenya",
+        "name": "Kenya"
+      },
+      "minYear": 1994,
+      "maxYear": 1994
+    }
+  ],
+  "tags": [
+    "Coat of Arms",
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "19"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "19"
+    }
+  ],
+  "weight": 3.91,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/kenya/208-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/kenya/208-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

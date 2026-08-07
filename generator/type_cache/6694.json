@@ -1,0 +1,105 @@
+{
+  "id": 6694,
+  "url": "https://en.numista.com/6694",
+  "title": "10 Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "mexique",
+    "name": "Mexico"
+  },
+  "min_year": 1936,
+  "max_year": 1946,
+  "ruler": [
+    {
+      "id": 4029,
+      "name": "United Mexican States/Mexican Republic",
+      "wikidata_id": "Q96"
+    }
+  ],
+  "value": {
+    "text": "10 Centavos",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 150,
+      "name": "Peso",
+      "full_name": "Peso (1863-1992)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 23.5,
+  "thickness": 1.75,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (80% Copper, 20% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The Mexican coat of arms (a Mexican golden eagle facing left perched on a prickly pear cactus devouring a rattlesnake, and a holm oak (Encina) branch on one side and a laurel branch on the other at the base)",
+    "lettering": "ESTADOS UNIDOS MEXICANOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "United Mexican States",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/67a0e779a0a4b9.79096197-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/67a0e779a0a4b9.79096197-180.jpg",
+    "picture_copyright": "La Caja De Moneda"
+  },
+  "reverse": {
+    "description": "The outer circles of the Mexica, or Aztec/Sun Stone, with the year, the mintmark (M), and the denomination in the center",
+    "lettering": "1936\r\nM\r\n10\r\nCENTAVOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/mexique/67a0e77b2ba611.06286810-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/67a0e77b2ba611.06286810-180.jpg",
+    "picture_copyright": "La Caja De Moneda"
+  },
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "432"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "36"
+    }
+  ],
+  "weight": 5.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/627ea8d4df7ff8.65638561-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/627ea8d4df7ff8.65638561-180.jpg",
+    "picture_copyright": "Harryg",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 29,
+      "name": "Mexican Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

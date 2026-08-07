@@ -1,0 +1,136 @@
+{
+  "id": 155297,
+  "url": "https://en.numista.com/155297",
+  "title": "10 Pesos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "argentine",
+    "name": "Argentina"
+  },
+  "min_year": 2018,
+  "max_year": 2020,
+  "ruler": [
+    {
+      "id": 3983,
+      "name": "Federal Republic",
+      "wikidata_id": "Q414"
+    }
+  ],
+  "value": {
+    "text": "10 Pesos",
+    "numeric_value": 10,
+    "currency": {
+      "id": 145,
+      "name": "Peso convertible",
+      "full_name": "Peso convertible (1992-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24.5,
+  "thickness": 2.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel silver (Cu 70 Zn 24.5 Ni 5.5)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "In the central field, the stylized representation of the caldén, exclusive species of our country and owner of a characteristic broad and rounded glass; in the upper arch, the text \"REPÚBLICA ARGENTINA\" and in the lower one, \"CALDÉN\", common name of the tree.",
+    "lettering": "REPÚBLICA ARGENTINA\r\nCALDÉN",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/argentine/6891e17ee2a094.40617416-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/6891e17ee2a094.40617416-180.jpg",
+    "picture_copyright": "gvaicika",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "On the back, there is a synthesis of the flower and, in small characters, the denomination in numbers continuously, and leaves of the caldén. In the upper arch, the motto \"EN UNIÓN Y LIBERTAD\", and in the lower arch, the year of minting \"2018\". The location of the denomination \"10 PESOS\" symbolizes the section where the tree is original within our country, in this case, the center.",
+    "lettering": "EN UNIÓN Y LIBERTAD\r\n10 PESOS\r\n2018",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/argentine/6891e17f5004a6.10223561-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/6891e17f5004a6.10223561-180.jpg",
+    "picture_copyright": "gvaicika",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<span style=\"font-weight:bold;\">The Caldén</span><br /><br />\r\nProsopis caldenia. Family of the fabaceae or legumes. Common name: caldén.<br />\r\nIt is an endemic prosopis, that is, it only grows in Argentina, in the center of the country, especially in La Pampa where its figure is the provincial shield. It also grows in San Luis, Córdoba, Mendoza, and southwest of Buenos Aires. To see it in its natural habitat, you can visit the Lihué Calel National Park.<br /><br />\r\n<span style=\"font-weight:bold;\">Caldén tree</span><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5c199c3abadc8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5c199c3abadc8.jpg\" alt=\"\" width=\"199\" height=\"133\" /></a>",
+  "related_types": [
+    {
+      "id": 131212,
+      "title": "1 Peso",
+      "category": "coin",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 2017,
+      "maxYear": 2020
+    },
+    {
+      "id": 155294,
+      "title": "2 Pesos",
+      "category": "coin",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 2018,
+      "maxYear": 2018
+    },
+    {
+      "id": 131213,
+      "title": "5 Pesos",
+      "category": "coin",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 2017,
+      "maxYear": 2020
+    }
+  ],
+  "tags": [
+    "Flower",
+    "Tree"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "189"
+    }
+  ],
+  "weight": 9,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/argentine/634b435e5778c3.10172069-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/634b435e5778c3.10172069-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 1336,
+      "name": "Buenos Aires"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

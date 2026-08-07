@@ -1,0 +1,125 @@
+{
+  "id": 31016,
+  "url": "https://en.numista.com/31016",
+  "title": "1 Sente (Magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "lesotho",
+    "name": "Lesotho"
+  },
+  "min_year": 1992,
+  "max_year": 1992,
+  "ruler": [
+    {
+      "id": 3987,
+      "name": "Letsie III",
+      "wikidata_id": "Q57537",
+      "group": {
+        "id": 242,
+        "name": "House of Moshoeshoe"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Sente",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 127,
+      "name": "Loti",
+      "full_name": "Loti (1966-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 16.5,
+  "thickness": 1,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Arms with supporters and date",
+    "lettering": "KINGDOM OF LESOTHO\r\nKHOTSO PULA NALA\r\n1992",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/lesotho/655a0da4c31b76.67162255-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/lesotho/655a0da4c31b76.67162255-180.jpg",
+    "picture_copyright": "jh.simonetto",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Traditional Basotho hat and value",
+    "lettering": "1 \r\nSENTE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/lesotho/655a0da5659019.16417601-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/lesotho/655a0da5659019.16417601-180.jpg",
+    "picture_copyright": "jh.simonetto",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "related_types": [
+    {
+      "id": 4430,
+      "title": "1 Sente - Moshoeshoe II",
+      "category": "coin",
+      "country": {
+        "code": "lesotho",
+        "name": "Lesotho"
+      },
+      "minYear": 1979,
+      "maxYear": 1989
+    },
+    {
+      "id": 2499,
+      "title": "1 Sente - Letsie III (Non-magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "lesotho",
+        "name": "Lesotho"
+      },
+      "minYear": 1992,
+      "maxYear": 1992
+    }
+  ],
+  "tags": [
+    "Monarch",
+    "Hat"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "54a"
+    }
+  ],
+  "weight": 1.4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

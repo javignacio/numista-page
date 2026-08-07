@@ -1,0 +1,111 @@
+{
+  "id": 8964,
+  "url": "https://en.numista.com/8964",
+  "title": "5 Markkaa",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "finlande",
+    "name": "Finland"
+  },
+  "min_year": 1946,
+  "max_year": 1952,
+  "ruler": [
+    {
+      "id": 3291,
+      "name": "Republic",
+      "wikidata_id": "Q33"
+    }
+  ],
+  "value": {
+    "text": "5 Markkaa",
+    "numeric_value": 5,
+    "currency": {
+      "id": 1156,
+      "name": "Markka",
+      "full_name": "Markka (1860-1963)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 23,
+  "thickness": 1.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Isak Gustaf Sundell"
+    ],
+    "lettering": "19 48\r\nL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/finlande/613a661fb8acc2.42422755-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/613a661fb8acc2.42422755-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "reverse": {
+    "engravers": [
+      "Isak Gustaf Sundell"
+    ],
+    "lettering": "SUOMEN TASAVALTA\r\n5\r\n* MARKKAA *",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic Of Finland\r\n5\r\n* MARKKAA *",
+    "picture": "https://en.numista.com/catalogue/photos/finlande/613a66201e0a00.90070840-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/613a66201e0a00.90070840-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "comments": "<p>The mint masters&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/6724ac226d8da.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6724ac226d8da.jpg\"></a></p><p>&nbsp;</p><p>&nbsp;</p><p>The mint mark differences on the 1949 coin:<br><a href=\"https://en.numista.com/catalogue/images/5e749046a0f11.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e749046a0f11.jpg\" alt=\"\"></a><br>&nbsp;</p>",
+  "tags": [
+    "Cat or feline",
+    "Flower",
+    "Coat of Arms",
+    "Wreath",
+    "Cold weapons"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "31a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "24a"
+    }
+  ],
+  "weight": 4.55,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/finlande/614d99972db8a4.92813891-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/614d99972db8a4.92813891-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 1333,
+      "name": "Mint of Finland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

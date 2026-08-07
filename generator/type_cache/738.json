@@ -1,0 +1,124 @@
+{
+  "id": 738,
+  "url": "https://en.numista.com/738",
+  "title": "1 Gulden - Juliana",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "pays-bas",
+    "name": "Netherlands"
+  },
+  "min_year": 1967,
+  "max_year": 1980,
+  "ruler": [
+    {
+      "id": 1302,
+      "name": "Juliana",
+      "wikidata_id": "Q154946",
+      "group": {
+        "id": 750,
+        "name": "House of Orange-Nassau"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Gulden",
+    "numeric_value": 1,
+    "currency": {
+      "id": 70,
+      "name": "Gulden",
+      "full_name": "Gulden (decimalized, 1817-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2002-02-28"
+  },
+  "size": 25,
+  "thickness": 1.81,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Head of Queen Juliana of the Netherlands facing right",
+    "lettering": "JULIANA KONINGIN DER NEDERLANDEN",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Juliana Queen of the Netherlands",
+    "picture": "https://en.numista.com/catalogue/photos/pays-bas/6719e4b8d178c9.40899402-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/6719e4b8d178c9.40899402-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "The crowned Dutch arms divide the date above the denomination and the country name at the bottom, with the privy mark below the denomination",
+    "lettering": "1980\r\n1G\r\nNEDERLAND",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "1 Gulden",
+    "lettering_translation": "Netherlands",
+    "picture": "https://en.numista.com/catalogue/photos/pays-bas/6719e4ba0d5ac1.98011296-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/6719e4ba0d5ac1.98011296-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "Beading varieties:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/56b5c75884560.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/56b5c75884560.jpg\" alt=\"\" width=\"200\" height=\"122\" /></a><a href=\"https://en.numista.com/catalogue/images/56b5c7667cdc3.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/56b5c7667cdc3.jpg\" alt=\"\" width=\"200\" height=\"124\" /></a><br />\r\nbecause the number of beads has changed over the years<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5cb782c043df2.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5cb782c043df2.jpg\" alt=\"\" width=\"200\" height=\"227\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5cb782e1cccb3.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5cb782e1cccb3.jpg\" alt=\"\" width=\"200\" height=\"85\" /></a><br /><br />\r\nSome coins from 1975 have an upside-down coat of arms",
+  "tags": [
+    "Hat",
+    "Crown",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "184a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "68a"
+    }
+  ],
+  "weight": 6,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain with incuse lettering",
+    "lettering": "★ GOD ★ ZIJ ★ MET ★ ONS ★",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "God be With us",
+    "picture": "https://en.numista.com/catalogue/photos/pays-bas/550-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/550-180.jpg",
+    "picture_copyright": "ZacUK"
+  },
+  "mints": [
+    {
+      "id": 23,
+      "name": "Royal Dutch Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

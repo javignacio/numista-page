@@ -1,0 +1,206 @@
+{
+  "id": 3138,
+  "url": "https://en.numista.com/3138",
+  "title": "1000 Pesos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "mexique",
+    "name": "Mexico"
+  },
+  "min_year": 1988,
+  "max_year": 1992,
+  "ruler": [
+    {
+      "id": 4029,
+      "name": "United Mexican States/Mexican Republic",
+      "wikidata_id": "Q96"
+    }
+  ],
+  "value": {
+    "text": "1000 Pesos",
+    "numeric_value": 1000,
+    "currency": {
+      "id": 150,
+      "name": "Peso",
+      "full_name": "Peso (1863-1992)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1995-11-15"
+  },
+  "size": 30.5,
+  "thickness": 2.81,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze (92% Copper, 6% Aluminium, 2% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The national emblem of Mexico (a Mexican golden eagle perched on a prickly pear cactus devouring a snake above a half-wreath of oak and laurel below and the legend forming the upper semicircle)",
+    "lettering": "ESTADOS UNIDOS MEXICANOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "United Mexican States",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/62e2af48388b94.49764129-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/62e2af48388b94.49764129-180.jpg",
+    "picture_copyright": "Numismatica Quetzalcoatl (Gabriel Herrera)",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Portrait of Sor Juana Inés de la Cruz with the denomination to the left and mintmark to the right.",
+    "lettering": "$1000\r\n1989\r\nMo\r\nJUANA DE ASBAJE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "1000 Pesos\r\n1989\r\nMo\r\nJuana De Asbaje",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/62e2af488ad994.68905184-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/62e2af488ad994.68905184-180.jpg",
+    "picture_copyright": "Numismatica Quetzalcoatl (Gabriel Herrera)",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "related_types": [
+    {
+      "id": 447876,
+      "title": "1000 Pesos (Pattern; Juana de Asbaje; Brass)",
+      "category": "coin",
+      "country": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "minYear": 1988,
+      "maxYear": 1988
+    },
+    {
+      "id": 447879,
+      "title": "1000 Pesos (Pattern; Juana de Asbaje; Silver)",
+      "category": "coin",
+      "country": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "minYear": 1989,
+      "maxYear": 1989
+    },
+    {
+      "id": 447880,
+      "title": "1000 Pesos (Pattern; Juana de Asbaje; Nickel)",
+      "category": "coin",
+      "country": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "minYear": 1989,
+      "maxYear": 1989
+    },
+    {
+      "id": 364055,
+      "title": "1000 Pesos (Pattern; Juana de Asbaje; Chromed Steel)",
+      "category": "coin",
+      "country": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "minYear": 1989,
+      "maxYear": 1989
+    },
+    {
+      "id": 378493,
+      "title": "1000 Pesos (Pattern; Juana de Asbaje; Copper-Nickel)",
+      "category": "coin",
+      "country": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "minYear": 1989,
+      "maxYear": 1989
+    },
+    {
+      "id": 328007,
+      "title": "1000 Pesos (Pattern; Juana de Asbaje; Bimetallic)",
+      "category": "coin",
+      "country": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "minYear": 1989,
+      "maxYear": 1989
+    },
+    {
+      "id": 447890,
+      "title": "1000 Pesos (Pattern; Juana de Asbaje; Copper)",
+      "category": "coin",
+      "country": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "minYear": 1990,
+      "maxYear": 1990
+    },
+    {
+      "id": 447893,
+      "title": "1000 Pesos (Pattern; Juana de Asbaje; Aluminium-Bronze)",
+      "category": "coin",
+      "country": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "minYear": 1990,
+      "maxYear": 1990
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Eagle",
+    "Literature",
+    "Philosopher",
+    "Religious figure",
+    "Coat of Arms",
+    "Wreath",
+    "Reptile"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "536"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "89"
+    }
+  ],
+  "weight": 15.17,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/3726-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/3726-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 29,
+      "name": "Mexican Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,148 @@
+{
+  "id": 84,
+  "url": "https://en.numista.com/84",
+  "title": "10 Euro Cents (1st type; 1st map)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "espagne",
+    "name": "Spain"
+  },
+  "min_year": 1999,
+  "max_year": 2006,
+  "ruler": [
+    {
+      "id": 151,
+      "name": "Juan Carlos I",
+      "wikidata_id": "Q19943",
+      "group": {
+        "id": 44,
+        "name": "House of Bourbon"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Euro Cents",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 9004,
+      "name": "Euro",
+      "full_name": "Euro (2002-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2002-01-01"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 19.75,
+  "thickness": 1.93,
+  "shape": "Round",
+  "composition": {
+    "text": "Nordic gold (89% Copper, 5% Aluminium, 5% Zinc, 1% Tin)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Begoña Castellanos García"
+    ],
+    "description": "Head of the Spanish writer Miguel de Cervantes front-facing, a quill and the twelve stars of Europe of whom four are bound by a band.",
+    "lettering": "ESPAÑA \r\nCervantes\r\nM\r\n2002",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Spain",
+    "picture": "https://en.numista.com/catalogue/photos/espagne/62723193439340.67448024-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/62723193439340.67448024-180.jpg",
+    "picture_copyright": "Mike Bentley",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Luc Luycx"
+    ],
+    "description": "First map of Europe symbolizing the gathering of the fifteen nations of the European Union and twelve stars (six above and six below map).",
+    "lettering": "10 EURO CENT \r\nLL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/espagne/62be9c7ab0d005.64602918-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/62be9c7ab0d005.64602918-180.jpg",
+    "picture_copyright": "StanCollects",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p><strong>Miguel de Cervantes Saavedra</strong> (29 September 1547 (assumed) – 22 April 1616 NS) was an Early Modern Spanish writer widely regarded as the greatest writer in the Spanish language and one of the world's pre-eminent novelists. He is best known for his novel Don Quixote, a work considered as the first modern novel. The novel has been labelled by many well-known authors as the “best book of all time” and the \"best and most central work in world literature\".</p>",
+  "related_types": [
+    {
+      "id": 3372,
+      "title": "10 Euro Cents (1st type; 2nd map)",
+      "category": "coin",
+      "country": {
+        "code": "espagne",
+        "name": "Spain"
+      },
+      "minYear": 2007,
+      "maxYear": 2009
+    },
+    {
+      "id": 10858,
+      "title": "10 Euro Cents (2nd type; 2nd map)",
+      "category": "coin",
+      "country": {
+        "code": "espagne",
+        "name": "Spain"
+      },
+      "minYear": 2010,
+      "maxYear": 2026
+    }
+  ],
+  "tags": [
+    "Literature",
+    "Map",
+    "Mustache/Beard"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1043"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "335"
+    }
+  ],
+  "weight": 4.1,
+  "orientation": "medal",
+  "edge": {
+    "description": "Indented",
+    "picture": "https://en.numista.com/catalogue/photos/espagne/4252-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/4252-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 24,
+      "name": "Royal Mint of Madrid"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

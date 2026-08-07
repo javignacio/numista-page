@@ -1,0 +1,124 @@
+{
+  "id": 378,
+  "url": "https://en.numista.com/378",
+  "title": "10 Cents - Elizabeth II (3rd portrait; Year of Volunteers)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "canada",
+    "name": "Canada"
+  },
+  "min_year": 2001,
+  "max_year": 2001,
+  "ruler": [
+    {
+      "id": 2095,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 827,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Cents",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 44,
+      "name": "Dollar",
+      "full_name": "Dollar (1858-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 18.03,
+  "thickness": 1.22,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel (92% steel, 5.5% copper, 2.5% nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Dora De Pédery-Hunt"
+    ],
+    "description": "Head of Queen Elizabeth II, as at 64 years of age, wearing the royal diadem, necklace, and earrings, facing right.",
+    "lettering": "CANADA\r\n10 \r\nCENTS  2001  \r\nELIZABETH II\r\nP",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/canada/8721-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/8721-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "reverse": {
+    "engravers": [
+      "Stan Witten"
+    ],
+    "description": "A symbolic rendition of the marching mothers and the sun's rays, symbolizing the enlightening effect that volunteers have upon our communities, is accompanied with the legend both in English and French \"YEAR OF VOLUNTEERS • ANNÉE DES BÉNÉVOLES\"",
+    "lettering": "YEAR OF VOLUNTEERS • ANNÉE DES BÉNÉVOLES",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/canada/8722-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/8722-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "commemorated_topic": "International Year of the Volunteer",
+  "comments": "In 1997, the United Nations General Assembly declared 2001 to be the International Year of Volunteers.",
+  "related_types": [
+    {
+      "id": 27551,
+      "title": "10 Cents - Elizabeth II (Year of Volunteers)",
+      "category": "coin",
+      "country": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "minYear": 2001,
+      "maxYear": 2001
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "412"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "407"
+    }
+  ],
+  "weight": 1.75,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/canada/5127-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/5127-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

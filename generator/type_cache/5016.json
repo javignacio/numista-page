@@ -1,0 +1,107 @@
+{
+  "id": 5016,
+  "url": "https://en.numista.com/5016",
+  "title": "5 Bututs",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "gambie",
+    "name": "Gambia, The"
+  },
+  "min_year": 1998,
+  "max_year": 1998,
+  "ruler": [
+    {
+      "id": 945,
+      "name": "Republic",
+      "wikidata_id": "Q1005"
+    }
+  ],
+  "value": {
+    "text": "5 Bututs",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 21,
+      "name": "Dalasi",
+      "full_name": "Dalasi (1971-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 20.4,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of Arms",
+    "lettering": "REPUBLIC OF THE GAMBIA\r\nPROGRESS PEACE PROSPERITY\r\n1998",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/gambie/68a5a1f222e439.25931163-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/gambie/68a5a1f222e439.25931163-180.jpg",
+    "picture_copyright": "Numismatica Quetzalcoatl",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Michael Rizzello"
+    ],
+    "description": "Sailboat, denomination at right",
+    "lettering": "BUTUTS\r\n5\r\nبتوت",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/gambie/68a5a1f2c5c9e9.32605266-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/gambie/68a5a1f2c5c9e9.32605266-180.jpg",
+    "picture_copyright": "Numismatica Quetzalcoatl",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "tags": [
+    "Coat of Arms",
+    "Boat or watercraft"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "55"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "64"
+    }
+  ],
+  "weight": 3.2,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

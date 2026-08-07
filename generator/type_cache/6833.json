@@ -1,0 +1,119 @@
+{
+  "id": 6833,
+  "url": "https://en.numista.com/6833",
+  "title": "50 Céntimos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "costa_rica",
+    "name": "Costa Rica"
+  },
+  "issuing_entity": {
+    "id": 907,
+    "name": "Central Bank of Costa Rica",
+    "wikidata_id": "Q4504273"
+  },
+  "min_year": 1982,
+  "max_year": 1990,
+  "ruler": [
+    {
+      "id": 3834,
+      "name": "Second Republic",
+      "wikidata_id": "Q800"
+    }
+  ],
+  "value": {
+    "text": "50 Centimos",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 10,
+      "name": "Colón",
+      "full_name": "Colón (1896-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 19,
+  "thickness": 1.1,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Costa Rica coat of arms. Seven stars represent the seven provinces, three extinct volcanoes for the three mountain ranges, two ships symbolizing the country's geographical situation between atlantic and pacific ocean and sunrise on the left\n\nNOTE: size and space between letters varies in mintages. outer rim of Coat of Arms slightly different. versions with normal and small ship",
+    "lettering": "REPUBLICA DE COSTA RICA \r\nAMERICA CENTRAL\r\nREPUBLICA DE COSTA RICA\r\n1982",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Costa Rica\r\nCentral America\r\nRepublic of Costa Rica",
+    "picture": "https://en.numista.com/catalogue/photos/costa_rica/5eff3805c48ff0.56930639-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/costa_rica/5eff3805c48ff0.56930639-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Value within a laurel wreath and initials of the \"Banco Central de Costa Rica\"\n\nNOTE: versions with thick-leafed and thin-\nleafed wreath in mintages, size of letters varies also",
+    "lettering": "AMERICA CENTRAL\r\n50\r\nCENTIMOS\r\nB.C.C.R.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "America Central\r\n50\r\nCentimos\r\nBanco Central de Costa Rica",
+    "lettering_translation": "Central America\r\n50\r\nCentimos\r\nCentral Bank of Costa Rica",
+    "picture": "https://en.numista.com/catalogue/photos/costa_rica/5eff380631d593.73861072-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/costa_rica/5eff380631d593.73861072-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p>Although these coins have been demonetized, they are still redeemable at the Central Bank of Costa Rica.</p><p>&nbsp;</p><p>KM#209.1: Large ships, letters incuse</p><p>KM#209.2: Small ships, thin wreath, letters in relief</p>",
+  "tags": [
+    "Mountain",
+    "Coat of Arms",
+    "Wreath",
+    "Boat or watercraft"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "209"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "75"
+    }
+  ],
+  "weight": 2.2,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 1335,
+      "name": "Mint of Brazil"
+    },
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

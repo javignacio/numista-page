@@ -1,0 +1,102 @@
+{
+  "id": 10113,
+  "url": "https://en.numista.com/10113",
+  "title": "3 Pence - Elizabeth II (Thin Flan)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "guernesey",
+    "name": "Guernsey"
+  },
+  "min_year": 1956,
+  "max_year": 1956,
+  "ruler": [
+    {
+      "id": 2969,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 782,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "3 Pence",
+    "numeric_value": 0.0125,
+    "numerator": 1,
+    "denominator": 80,
+    "currency": {
+      "id": 285,
+      "name": "Pound",
+      "full_name": "Pound (1808-1971)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 21,
+  "thickness": 1.5,
+  "shape": "Scalloped (with 12 notches)",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of Arms (three lions passant guardant on a shield surmounted by a sprig).",
+    "lettering": "S'BALLIVIE INSULE DEGERNEREVS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/guernesey/884-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/guernesey/884-180.jpg",
+    "picture_copyright": "Tony K"
+  },
+  "reverse": {
+    "engravers": [
+      "Paul Vincze"
+    ],
+    "description": "Guernsey cow",
+    "lettering": "GUERNSEY\r\n1956\r\nTHREE PENCE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/guernesey/885-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/guernesey/885-180.jpg",
+    "picture_copyright": "Tony K"
+  },
+  "comments": "The British Royal Mint Annual Report 1956 Volume No. 87 states 2,100 sets of proof pieces consisting of two coins of each denomination were issued. Thus the total mintage for the proof coin is 4,200.",
+  "tags": [
+    "Cow or bovine"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "17"
+    }
+  ],
+  "weight": 3.6,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

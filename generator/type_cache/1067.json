@@ -1,0 +1,118 @@
+{
+  "id": 1067,
+  "url": "https://en.numista.com/1067",
+  "title": "5 Pounds (Citadel of Aleppo)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "syrie",
+    "name": "Syria"
+  },
+  "min_year": 1996,
+  "max_year": 1996,
+  "ruler": [
+    {
+      "id": 4247,
+      "name": "Arab Republic",
+      "wikidata_id": "Q858",
+      "nomisma_id": "syria"
+    }
+  ],
+  "value": {
+    "text": "5 Pounds",
+    "numeric_value": 5,
+    "currency": {
+      "id": 123,
+      "name": "First Pound",
+      "full_name": "First Pound (1919-2026)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24.4,
+  "thickness": 1.42,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms of Syria inside a pentagon: hawk of Quraish with two stars on the shield holding a scroll with \"Syrian Arab Republic\" in Arabic lettering. Dates (AD left and AH right) in Arabic digits below.",
+    "lettering": "الجمهورية العربية اسورية\r\n١٤١٦ - ١٩٩٦",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "Syrian Arab Republic\r\nAD1996 - AH1416",
+    "picture": "https://en.numista.com/catalogue/photos/syrie/243-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/syrie/243-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "reverse": {
+    "description": "Citadel of Aleppo within pentagon",
+    "lettering": "الجمهورية العربية السورية\r\n٥\r\nخمس ليرات سورية",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "Syrian Arab Republic\r\n5\r\nFive Syrian Pounds",
+    "picture": "https://en.numista.com/catalogue/photos/syrie/244-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/syrie/244-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "comments": "Since the 3rd millennium BC, all the peoples of the region have occupied this strategic location.<br />\nIn the 13th century, Sultan Nour ed Dine made it his palace, then the Mamluks built the imposing fortified entrance (8-arched staircase-bridge) that can be admired on the coin.<br />\nUnfortunately, like the rest of the city (including the famous souks), it has suffered considerable damage.",
+  "related_types": [
+    {
+      "id": 2666,
+      "title": "5 Pounds (with latent image)",
+      "category": "coin",
+      "country": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "minYear": 2003,
+      "maxYear": 2003
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Castle or fortification",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "123"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "59"
+    }
+  ],
+  "weight": 5.01,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,100 @@
+{
+  "id": 40605,
+  "url": "https://en.numista.com/40605",
+  "title": "2 Sucres",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "equateur",
+    "name": "Ecuador"
+  },
+  "min_year": 1973,
+  "max_year": 1973,
+  "ruler": [
+    {
+      "id": 3758,
+      "name": "Republic",
+      "wikidata_id": "Q736"
+    }
+  ],
+  "value": {
+    "text": "2 Sucres",
+    "numeric_value": 2,
+    "currency": {
+      "id": 187,
+      "name": "Sucre",
+      "full_name": "Sucre (1884-2000)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": false
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 29,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Name of the country, coat of arms, year of issue",
+    "lettering": "REPUBLICA DEL ECUADOR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Ecuador",
+    "picture": "https://en.numista.com/catalogue/photos/equateur/366-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/equateur/366-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "description": "Portrait of Antonio José de Sucre, denomination in digits (twice), denomination in words",
+    "lettering": "DOS SUCRES",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Two sucres",
+    "picture": "https://en.numista.com/catalogue/photos/equateur/367-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/equateur/367-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "The recorded mintage is 2 million pcs., but almost all of them were destroyed after the disapproval of the coin type. Supposedly, only 35 coins remained.<br /><br />\r\nThe Central Bank of Ecuador says that these coins were minted by Vereinigte Deutsche Metallwerke (Germany), despite them being listed in the 1975 report of the British Royal Mint.",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "82"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "77"
+    }
+  ],
+  "weight": 8.9,
+  "orientation": "coin",
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

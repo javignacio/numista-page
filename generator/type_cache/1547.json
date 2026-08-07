@@ -1,0 +1,120 @@
+{
+  "id": 1547,
+  "url": "https://en.numista.com/1547",
+  "title": "100 Krónur",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "islande",
+    "name": "Iceland"
+  },
+  "min_year": 1995,
+  "max_year": 2011,
+  "ruler": [
+    {
+      "id": 1592,
+      "name": "Republic",
+      "wikidata_id": "Q189"
+    }
+  ],
+  "value": {
+    "text": "100 Krónur",
+    "numeric_value": 100,
+    "currency": {
+      "id": 15,
+      "name": "New króna",
+      "full_name": "New króna (1980-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25.5,
+  "thickness": 2.25,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass (70% Copper, 24.5% Zinc, 5.5% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The four traditional protector spirits (\"Landvættir\") of Iceland. These are Griðungur the bull, Gammur the eagle, Dreki the dragon, and Bergrisi the giant.",
+    "lettering": "EITT HUNDRAÐ KRÓNUR\r\nÍSLAND 2001",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "One Hundred Krónur\r\nIceland",
+    "picture": "https://en.numista.com/catalogue/photos/islande/19-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/islande/19-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Face value below a Lumpfish (Cyclopterus lumpus).",
+    "lettering": "100 KR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "100 Krónur",
+    "picture": "https://en.numista.com/catalogue/photos/islande/20-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/islande/20-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "<p>Iceland mixed date mint set, including KM#24, KM#25, KM#26a, KM#27a, KM#28a, KM#29.1a, KM#31, KM#35</p><p><a href=\"https://en.numista.com/catalogue/images/686e1ea9c6811.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686e1ea9c6811.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/686e1ead2ba27.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686e1ead2ba27.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/686e1e668a6d9.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686e1e668a6d9.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/686e1e7017eef.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686e1e7017eef.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/686e1ee701785.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686e1ee701785.jpg\"></a></p><p>@gdch6ng</p><p>&nbsp;</p><p>2000 mint set, including KM#27a, KM#28a, KM#29.1a, KM#31, KM#35</p><p><a href=\"https://en.numista.com/catalogue/images/686e1e822ae4d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686e1e822ae4d.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/686e1ec7a4598.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686e1ec7a4598.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/686e1ec814480.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686e1ec814480.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/686e1ec9d45a4.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686e1ec9d45a4.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/686e1e7176669.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686e1e7176669.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/686e1eb69550e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/686e1eb69550e.jpg\"></a></p><p>@gdch6ng</p>",
+  "tags": [
+    "Bird",
+    "Cow or bovine",
+    "Fantasy animal",
+    "Fish",
+    "Mythology"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "35"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "34"
+    },
+    {
+      "catalogue": {
+        "id": 144,
+        "code": "SIEG"
+      },
+      "number": "80"
+    }
+  ],
+  "weight": 8.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Smooth and reeded alternately.",
+    "picture": "https://en.numista.com/catalogue/photos/islande/62a7a432aa6fc7.50146639-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/islande/62a7a432aa6fc7.50146639-180.jpg",
+    "picture_copyright": "felixs"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

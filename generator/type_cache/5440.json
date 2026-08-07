@@ -1,0 +1,122 @@
+{
+  "id": 5440,
+  "url": "https://en.numista.com/5440",
+  "title": "1 Øre (German Occupation Coinage)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "norvege",
+    "name": "Norway"
+  },
+  "min_year": 1941,
+  "max_year": 1945,
+  "ruler": [
+    {
+      "id": 450,
+      "name": "German occupation",
+      "wikidata_id": "Q819274"
+    }
+  ],
+  "value": {
+    "text": "1 Øre",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 16,
+      "name": "Krone",
+      "full_name": "Krone (1875-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 16,
+  "thickness": 1.4,
+  "shape": "Round",
+  "composition": {
+    "text": "Iron (Fe 99.9%, C 0.1%)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Shield with a crowned norwegian lion holding a halberd and facing left. Inscription above the shield. The coat of arms of the Norwegian Church on each side of the shield. Solid ring on the rim.",
+    "lettering": "NORGE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Norway",
+    "picture": "https://en.numista.com/catalogue/photos/norvege/63d98172512150.20702185-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/63d98172512150.20702185-180.jpg",
+    "picture_copyright": "T0r",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Value and date in three lines. A triskelion on each side of the value and below the date. Date divided by mintmark. Solid ring on the rim.",
+    "lettering": "1\r\nØRE\r\n19 ⚒ 42",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/norvege/63d98172dfe1d6.94213954-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/63d98172dfe1d6.94213954-180.jpg",
+    "picture_copyright": "T0r",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p>During the German occupation of Norway the composition was changed from copper-nickel to zinc (for the war efforts), the obverse was also changed to no longer include the Norwegian crown (symbol of the king) and the royal motto (\"Everything for Norway\"), as the king went into exile after denying the German ultimatum.</p>",
+  "related_types": [
+    {
+      "id": 4127,
+      "title": "1 Øre - Haakon VII",
+      "category": "coin",
+      "country": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "minYear": 1908,
+      "maxYear": 1952
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "387"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "40"
+    },
+    {
+      "catalogue": {
+        "id": 201,
+        "code": "Rønning"
+      },
+      "number": "286"
+    }
+  ],
+  "weight": 1.74,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain."
+  },
+  "mints": [
+    {
+      "id": 1888,
+      "name": "Norwegian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

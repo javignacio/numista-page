@@ -1,0 +1,163 @@
+{
+  "id": 1089,
+  "url": "https://en.numista.com/1089",
+  "title": "25 Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "republique_dominicaine",
+    "name": "Dominican Republic (1844-date)"
+  },
+  "min_year": 1989,
+  "max_year": 1991,
+  "ruler": [
+    {
+      "id": 4033,
+      "name": "Fourth Republic",
+      "wikidata_id": "Q786"
+    }
+  ],
+  "value": {
+    "text": "25 Centavos",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 152,
+      "name": "Peso oro",
+      "full_name": "Peso oro (1937-2009)/Peso Dominicano (2011-present)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24.25,
+  "thickness": 1.85,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel clad steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Name of the country, national coat of arms, year of issue",
+    "lettering": "REPUBLICA DOMINICANA\r\nDIOS PATRIA LIBERTAD\r\nREPUBLICA DOMINICANA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Dominican Republic\r\nGod Fatherland Liberty\r\nDominican Republic",
+    "picture": "https://en.numista.com/catalogue/photos/republique_dominicaine/67c780530bf660.38156814-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/republique_dominicaine/67c780530bf660.38156814-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Two oxen pulling cart, denomination above",
+    "lettering": "VEINTICINCO CENTAVOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Twenty five centavos",
+    "picture": "https://en.numista.com/catalogue/photos/republique_dominicaine/67c780538ea268.52826293-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/republique_dominicaine/67c780538ea268.52826293-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "related_types": [
+    {
+      "id": 61040,
+      "title": "1 Centavo (Taino Artifact; Zinc)",
+      "category": "coin",
+      "country": {
+        "code": "republique_dominicaine",
+        "name": "Dominican Republic (1844-date)"
+      },
+      "minYear": 1989,
+      "maxYear": 1989
+    },
+    {
+      "id": 6177,
+      "title": "5 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "republique_dominicaine",
+        "name": "Dominican Republic (1844-date)"
+      },
+      "minYear": 1989,
+      "maxYear": 1989
+    },
+    {
+      "id": 3579,
+      "title": "10 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "republique_dominicaine",
+        "name": "Dominican Republic (1844-date)"
+      },
+      "minYear": 1989,
+      "maxYear": 1991
+    },
+    {
+      "id": 1290,
+      "title": "½ Peso",
+      "category": "coin",
+      "country": {
+        "code": "republique_dominicaine",
+        "name": "Dominican Republic (1844-date)"
+      },
+      "minYear": 1989,
+      "maxYear": 1990
+    }
+  ],
+  "tags": [
+    "Agriculture",
+    "Cow or bovine",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "71.1"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "74"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "71.2"
+    }
+  ],
+  "weight": 5.7,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/republique_dominicaine/69571bff90e701.36828476-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/republique_dominicaine/69571bff90e701.36828476-180.jpg",
+    "picture_copyright": "Dieter83"
+  },
+  "mints": [
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

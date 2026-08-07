@@ -1,0 +1,125 @@
+{
+  "id": 4830,
+  "url": "https://en.numista.com/4830",
+  "title": "1 Rial",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "yemen",
+    "name": "Yemen"
+  },
+  "issuing_entity": {
+    "id": 950,
+    "name": "Central Bank of Yemen",
+    "wikidata_id": "Q1797039"
+  },
+  "min_year": 1993,
+  "max_year": 1993,
+  "ruler": [
+    {
+      "id": 5765,
+      "name": "Republic",
+      "wikidata_id": "Q805"
+    }
+  ],
+  "value": {
+    "text": "1 Rial",
+    "numeric_value": 1,
+    "currency": {
+      "id": 165,
+      "name": "Rial",
+      "full_name": "Rial (1990-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 19.95,
+  "thickness": 1.5,
+  "shape": "Icosihenagonal (21-sided)",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Denomination within circle and dates below",
+    "lettering": "البنك المركزي اليمني\r\n١\r\nريال\r\n١٤١٤-١٩٩٣",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "Central Bank of Yemen\r\n1\r\nRial\r\n1414-1993",
+    "picture": "https://en.numista.com/catalogue/photos/yemen/62ac8eb5dffe91.80393094-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/yemen/62ac8eb5dffe91.80393094-180.jpg",
+    "picture_copyright": "Fandhir"
+  },
+  "reverse": {
+    "description": "National arms",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/yemen/62ac8eb70748f7.86539213-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/yemen/62ac8eb70748f7.86539213-180.jpg",
+    "picture_copyright": "Fandhir"
+  },
+  "related_types": [
+    {
+      "id": 6905,
+      "title": "1 Rial",
+      "category": "coin",
+      "country": {
+        "code": "yemen_nord",
+        "name": "North Yemen"
+      },
+      "minYear": 1976,
+      "maxYear": 1985
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Eagle",
+    "Flag",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "25"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "162"
+    }
+  ],
+  "weight": 2.65,
+  "orientation": "medal",
+  "edge": {
+    "description": "Multi-sided (21-sided)",
+    "picture": "https://en.numista.com/catalogue/photos/yemen/64d4921adddfd3.91430933-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/yemen/64d4921adddfd3.91430933-180.jpg",
+    "picture_copyright": "Edo Timmermans",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

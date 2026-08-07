@@ -1,0 +1,112 @@
+{
+  "id": 140065,
+  "url": "https://en.numista.com/140065",
+  "title": "2 Hryvni",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "ukraine",
+    "name": "Ukraine"
+  },
+  "issuing_entity": {
+    "id": 564,
+    "name": "National Bank of Ukraine",
+    "wikidata_id": "Q1070388"
+  },
+  "min_year": 2018,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 3209,
+      "name": "Republic",
+      "wikidata_id": "Q212"
+    }
+  ],
+  "value": {
+    "text": "2 Hryvni",
+    "numeric_value": 2,
+    "currency": {
+      "id": 88,
+      "name": "Hryvnia",
+      "full_name": "Hryvnia (1996-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 20.2,
+  "thickness": 1.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Roman Chaikovskyi"
+    ],
+    "designers": [
+      "Volodymyr Demianenko",
+      "Roman Chaikovskyi"
+    ],
+    "description": "Ukrainian trident emblem (\"Tryzub\") over large numerical denomination inside decorative wreath",
+    "lettering": "УКРАЇНА\r\n2\r\nГРИВНІ\r\n2018",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "Ukraine\r\n2\r\nHryvni\r\n2018",
+    "picture": "https://en.numista.com/catalogue/photos/ukraine/5f9009f61bb1e4.10523579-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ukraine/5f9009f61bb1e4.10523579-180.jpg",
+    "picture_copyright": "National Bank of Ukraine",
+    "picture_copyright_url": "http://www.bank.gov.ua"
+  },
+  "reverse": {
+    "engravers": [
+      "Roman Chaikovskyi"
+    ],
+    "designers": [
+      "Volodymyr Demianenko",
+      "Roman Chaikovskyi"
+    ],
+    "description": "Face of Yaroslav the Wise facing",
+    "lettering": "ЯРОСЛАВ МУДРИЙ",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "Yaroslav the Wise",
+    "picture": "https://en.numista.com/catalogue/photos/ukraine/5f9009f67296e5.36850488-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ukraine/5f9009f67296e5.36850488-180.jpg",
+    "picture_copyright": "National Bank of Ukraine",
+    "picture_copyright_url": "http://www.bank.gov.ua"
+  },
+  "comments": "<span style=\"font-weight:bold;\">Yaroslav Vladimirovich</span>, known as Yaroslav<span style=\"font-weight:bold;\">I</span> and better known as <span style=\"font-weight:bold;\">Yaroslav the Wise</span>. is a grand prince of the Rus' of Kiev of the Riourikides dynasty (born in 978 and died on February 20, 1054 in Vychgorod), who reigned from 1016 to 1018, then from 1019 to 1024 and finally from 1024 to 1054.<br />\r\nHe was the son of Vladimir I the Great and Rogneda of Polotsk, prince of Rostov from 978 to 1010, and prince of Novgorod from 1010 to 1019.<br />\r\nIt is under his reign that the Rus' of Kiev knows its apogee.",
+  "tags": [
+    "Monarch",
+    "Coat of Arms"
+  ],
+  "weight": 4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/ukraine/5f9009f6d37473.05418013-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ukraine/5f9009f6d37473.05418013-180.jpg",
+    "picture_copyright": "National Bank of Ukraine",
+    "picture_copyright_url": "http://www.bank.gov.ua"
+  },
+  "mints": [
+    {
+      "id": 1330,
+      "name": "National Bank of Ukraine Banknote Printing and Minting Works"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

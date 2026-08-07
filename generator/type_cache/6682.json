@@ -1,0 +1,115 @@
+{
+  "id": 6682,
+  "url": "https://en.numista.com/6682",
+  "title": "5 Qapiks",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "azerbaidjan",
+    "name": "Azerbaijan"
+  },
+  "min_year": 2006,
+  "max_year": 2011,
+  "ruler": [
+    {
+      "id": 4416,
+      "name": "Republic",
+      "wikidata_id": "Q227"
+    }
+  ],
+  "value": {
+    "text": "5 Qapiks",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 129,
+      "name": "Third manat",
+      "full_name": "Third manat (2006-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 19.75,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Robert Kalina"
+    ],
+    "description": "Map of Azerbaijan, denomination below",
+    "lettering": "AZƏRBAYCAN RESPUBLİKASI\r\n5 QƏPİK",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Azerbaijan",
+    "picture": "https://en.numista.com/catalogue/photos/azerbaidjan/96-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/azerbaidjan/96-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "reverse": {
+    "engravers": [
+      "Robert Kalina"
+    ],
+    "description": "The Maiden Tower, denomination below",
+    "lettering": "5 QƏPİK",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/azerbaidjan/97-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/azerbaidjan/97-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "comments": "The Maiden Tower in Baku is the UNESCO World Heritage list since 2001.<br /><br />\r\nThere are two known types. One has a smooth rim, while the other has a wavy rim.<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5fd875b0b3c0e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5fd875b0b3c0e.jpg\" alt=\"\" width=\"200\" height=\"170\" /></a>",
+  "tags": [
+    "Tower",
+    "Map"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "41"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "15"
+    }
+  ],
+  "weight": 4.85,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/azerbaidjan/6989a330224b17.44341447-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/azerbaidjan/6989a330224b17.44341447-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 232,
+      "name": "Austrian Mint"
+    },
+    {
+      "id": 1330,
+      "name": "National Bank of Ukraine Banknote Printing and Minting Works"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

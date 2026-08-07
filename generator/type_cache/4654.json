@@ -1,0 +1,112 @@
+{
+  "id": 4654,
+  "url": "https://en.numista.com/4654",
+  "title": "3 Kopecks (15 Ribbons)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "ancienne_urss",
+    "name": "Soviet Union"
+  },
+  "min_year": 1957,
+  "max_year": 1957,
+  "ruler": [
+    {
+      "id": 1572,
+      "name": "Soviet Union",
+      "wikidata_id": "Q15180"
+    }
+  ],
+  "value": {
+    "text": "3 Kopecks",
+    "numeric_value": 0.03,
+    "currency": {
+      "id": 10859,
+      "name": "Fifth Rouble",
+      "full_name": "Fifth Rouble (1947-1960)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 22,
+  "thickness": 1,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The emblem of the Soviet Union.\r\n15 ribbons on wreath (7 + 1 + 7).",
+    "lettering": "СССР",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "USSR",
+    "picture": "https://en.numista.com/catalogue/photos/ancienne_urss/1671-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ancienne_urss/1671-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "reverse": {
+    "description": "Value and date within wheat sprigs.",
+    "lettering": "3 \r\nКОПЕЙКИ\r\n1957\r\n·",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "3 Kopecks",
+    "picture": "https://en.numista.com/catalogue/photos/ancienne_urss/1672-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ancienne_urss/1672-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "comments": "<p>The ribbons around the wreath on the obverse are equal to the number of republics in the USSR. When the Karelo-Finnish Soviet Socialist Republic became part of the Russian Federal Soviet Socialist Republic in 1956, the state emblem changed to reflect this and the coins were updated to have one less ribbon around the wreath. This is why some 1957 3 kopecks have 16 ribbons and others have 15.</p>",
+  "related_types": [
+    {
+      "id": 4138,
+      "title": "3 Kopecks (16 Ribbons)",
+      "category": "coin",
+      "country": {
+        "code": "ancienne_urss",
+        "name": "Soviet Union"
+      },
+      "minYear": 1946,
+      "maxYear": 1957
+    }
+  ],
+  "tags": [
+    "Hammer and sickle"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "121"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "70"
+    }
+  ],
+  "weight": 3,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/ancienne_urss/1128-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ancienne_urss/1128-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

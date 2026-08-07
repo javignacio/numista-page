@@ -1,0 +1,95 @@
+{
+  "id": 77648,
+  "url": "https://en.numista.com/77648",
+  "title": "5 Rupees",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "pakistan",
+    "name": "Pakistan"
+  },
+  "issuing_entity": {
+    "id": 537,
+    "name": "Government of Pakistan",
+    "wikidata_id": "Q3250182"
+  },
+  "min_year": 2015,
+  "max_year": 2024,
+  "ruler": [
+    {
+      "id": 5238,
+      "name": "Islamic Republic",
+      "wikidata_id": "Q843"
+    }
+  ],
+  "value": {
+    "text": "5 Rupees",
+    "numeric_value": 5,
+    "currency": {
+      "id": 417,
+      "name": "Rupee",
+      "full_name": "Rupee (decimalized, 1961-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 18.6,
+  "thickness": 1.69,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Waxing crescent moon and a five pointed star facing north-west in rising position",
+    "lettering": "اسلامی جمهوریه پاکستان",
+    "lettering_translation": "Islamic Republic of Pakistan",
+    "picture": "https://en.numista.com/catalogue/photos/pakistan/66863f4a6a38f8.71235127-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pakistan/66863f4a6a38f8.71235127-180.jpg",
+    "picture_copyright": "Iftikhar Ahmad"
+  },
+  "reverse": {
+    "description": "Floral wreath all along within the periphery of the coin splitted with the cones of five pointed star in the center",
+    "lettering": "5\r\nروپيه",
+    "lettering_translation": "5 Rupees",
+    "picture": "https://en.numista.com/catalogue/photos/pakistan/66863f4ad52596.16387523-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pakistan/66863f4ad52596.16387523-180.jpg",
+    "picture_copyright": "Iftikhar Ahmad"
+  },
+  "comments": "Collectors in Pakistan reported that some coins dated 2016 have been struck in copper-nickel (less brass content), and can be identified by the different metal color<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5b21750793f9c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5b21750793f9c.jpg\" alt=\"\" width=\"200\" height=\"203\" /></a><a href=\"https://en.numista.com/catalogue/images/5b217517b27c6.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5b217517b27c6.jpg\" alt=\"\" width=\"200\" height=\"199\" /></a><br />\r\n© Arslan Ahmed<br /><br />\r\n2017:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/59a4c799827ee.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/59a4c799827ee.jpg\" alt=\"\" width=\"199\" height=\"99\" /></a><br />\r\n© rparker<br /><br /><br />\r\nAngled Image For better look at the shape and form of coin<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/652a3a8bce8a3.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/652a3a8bce8a3.jpg\" alt=\"\" width=\"200\" height=\"200\" /></a>",
+  "tags": [
+    "Moon"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "75"
+    }
+  ],
+  "weight": 3,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/pakistan/652a3af6475251.28593310-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pakistan/652a3af6475251.28593310-180.jpg",
+    "picture_copyright": "Shahmir Shah",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 1876,
+      "name": "Lahore"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,112 @@
+{
+  "id": 57399,
+  "url": "https://en.numista.com/57399",
+  "title": "200 Francs CFA",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bceao",
+    "name": "Western African States"
+  },
+  "issuing_entity": {
+    "id": 1712,
+    "name": "Central Bank of Western African States"
+  },
+  "min_year": 2003,
+  "max_year": 2018,
+  "value": {
+    "text": "200 Francs CFA",
+    "numeric_value": 200,
+    "currency": {
+      "id": 83,
+      "name": "CFA franc",
+      "full_name": "CFA franc (1958-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24.5,
+  "thickness": 2.1,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: brass centre in copper-nickel ring"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Raymond Joly"
+    ],
+    "description": "Emblem of Central Bank of West African States",
+    "lettering": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Bank of [the] West African States",
+    "picture": "https://en.numista.com/catalogue/photos/bceao/605cbfc37ee573.86402358-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bceao/605cbfc37ee573.86402358-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "reverse": {
+    "engravers": [
+      "Matthew Bonaccorsi"
+    ],
+    "description": "Denomination",
+    "lettering": "200 FCFA\r\nUNION MONÉTAIRE OUEST AFRICAINE\r\n2004",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "West African Monetary Union",
+    "picture": "https://en.numista.com/catalogue/photos/bceao/605cbfc3c7ffd2.12203998-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bceao/605cbfc3c7ffd2.12203998-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "comments": "<p><a href=\"https://en.numista.com/catalogue/images/68275ae2a4a0b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/68275ae2a4a0b.jpg\"></a></p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/68275aefd7714.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/68275aefd7714.jpg\"></a></p>",
+  "tags": [
+    "Fruit"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "14"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "24"
+    }
+  ],
+  "weight": 7,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded and smooth sections",
+    "picture": "https://en.numista.com/catalogue/photos/bceao/69b8fd452c0ed7.14121506-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bceao/69b8fd452c0ed7.14121506-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    },
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

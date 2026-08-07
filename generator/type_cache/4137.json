@@ -1,0 +1,108 @@
+{
+  "id": 4137,
+  "url": "https://en.numista.com/4137",
+  "title": "1 Øre - Oscar II",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "norvege",
+    "name": "Norway"
+  },
+  "min_year": 1876,
+  "max_year": 1902,
+  "ruler": [
+    {
+      "id": 448,
+      "name": "Oscar II",
+      "wikidata_id": "Q52924",
+      "group": {
+        "id": 357,
+        "name": "House of Bernadotte"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Øre",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 16,
+      "name": "Krone",
+      "full_name": "Krone (1875-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 16,
+  "thickness": 1.35,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze (Cu 95%, Sn 4%, Zn 1%)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Crowned rectangular shield with a crowned norwegian lion holding a halberd and facing left with vertical lines in the background, inside the shield. Inscription divided by shield. Solid ring on the rim.",
+    "lettering": "Ocr= II",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Oscar II",
+    "picture": "https://en.numista.com/catalogue/photos/norvege/676dfcc7518414.71850329-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/676dfcc7518414.71850329-180.jpg",
+    "picture_copyright": "Oslo Myntgalleri",
+    "picture_copyright_url": "http://www.oslomyntgalleri.no"
+  },
+  "reverse": {
+    "description": "Value in two lines, surrounded by wreath. Date divided by mintmark below the wreath. Solid ring on the rim.",
+    "lettering": "ØRE\r\n1\r\n18 ⚒ 85",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/norvege/676dfcc7a36478.18183639-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/676dfcc7a36478.18183639-180.jpg",
+    "picture_copyright": "Oslo Myntgalleri",
+    "picture_copyright_url": "http://www.oslomyntgalleri.no"
+  },
+  "comments": "<p><a href=\"https://en.numista.com/catalogue/images/6744bd03d1e9e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6744bd03d1e9e.jpg\"></a></p>",
+  "tags": [
+    "Coat of Arms",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "352"
+    },
+    {
+      "catalogue": {
+        "id": 201,
+        "code": "Rønning"
+      },
+      "number": "243"
+    }
+  ],
+  "weight": 2,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain."
+  },
+  "mints": [
+    {
+      "id": 1888,
+      "name": "Norwegian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

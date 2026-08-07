@@ -1,0 +1,139 @@
+{
+  "id": 5366,
+  "url": "https://en.numista.com/5366",
+  "title": "1 Stotinka (non-magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bulgarie",
+    "name": "Bulgaria"
+  },
+  "min_year": 1999,
+  "max_year": 1999,
+  "ruler": [
+    {
+      "id": 2055,
+      "name": "Republic",
+      "wikidata_id": "Q219"
+    }
+  ],
+  "value": {
+    "text": "1 Stotinka",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 109,
+      "name": "Fourth lev",
+      "full_name": "Fourth lev (1999-2025)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1999-00-00"
+  },
+  "demonetization": {
+    "is_demonetized": false,
+    "demonetization_date": "2027-01-01"
+  },
+  "size": 16,
+  "thickness": 1.43,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Petar Stoikov",
+      "Vladimir Yossifov"
+    ],
+    "description": "Madara Horseman facing right.",
+    "lettering": "БЪЛГАРИЯ",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "Bulgaria",
+    "picture": "https://en.numista.com/catalogue/photos/bulgarie/2074-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bulgarie/2074-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "reverse": {
+    "engravers": [
+      "Petar Stoikov",
+      "Vladimir Yossifov"
+    ],
+    "description": "Denomination above date, half circle of 12 stars across top.",
+    "lettering": "1\r\n1999\r\nСТОТИНКА",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "1 Stotinka",
+    "picture": "https://en.numista.com/catalogue/photos/bulgarie/2075-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bulgarie/2075-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "comments": "KM mentions a non-magnetic 2000 issue that couldn&#039;t be verified to exist.",
+  "related_types": [
+    {
+      "id": 28610,
+      "title": "1 Stotinka (magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "bulgarie",
+        "name": "Bulgaria"
+      },
+      "minYear": 2000,
+      "maxYear": 2002
+    }
+  ],
+  "tags": [
+    "Cat or feline",
+    "Horse or equine"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "237"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "238"
+    },
+    {
+      "catalogue": {
+        "id": 464,
+        "code": "Monev"
+      },
+      "number": "302"
+    }
+  ],
+  "weight": 1.77,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/bulgarie/1511-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bulgarie/1511-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 1329,
+      "name": "Bulgarian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

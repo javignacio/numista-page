@@ -1,0 +1,118 @@
+{
+  "id": 1925,
+  "url": "https://en.numista.com/1925",
+  "title": "10 Pfennigs",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "ddr",
+    "name": "German Democratic Republic"
+  },
+  "min_year": 1963,
+  "max_year": 1990,
+  "ruler": [
+    {
+      "id": 1313,
+      "name": "Democratic Republic",
+      "wikidata_id": "Q16957"
+    }
+  ],
+  "value": {
+    "text": "10 Pfennigs",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 229,
+      "name": "Mark",
+      "full_name": "Mark (1948-1990)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1990-07-01"
+  },
+  "size": 21,
+  "thickness": 2.1,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Rudi Högner"
+    ],
+    "description": "State emblem (hammer and a compass, surrounded by a ring of rye with a ribbon displaying the flag colours: black, red and yellow)",
+    "lettering": "DEUTSCHE DEMOKRATISCHE \r\nREPUBLIK",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "German Democratic \r\nRepublic",
+    "picture": "https://en.numista.com/catalogue/photos/ddr/15-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ddr/15-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Rudi Högner"
+    ],
+    "description": "The value and an oak leaf and the mintmark above, the date at the bottom.",
+    "lettering": "A\r\n10 \r\nPFENNIG\r\n1971",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/ddr/16-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ddr/16-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "Different types of sides are known.<br /><br />\r\n<span style=\"font-style:italic;\">Obverse</span><br />\r\nDie <span style=\"font-weight:bold;\">1</span> - at bottom stalks snuggle to ribbon, 4 left stalks start from right ones, smaller grains in wreath, marked on photo grain has triangle shape.<br />\r\nDie <span style=\"font-weight:bold;\">2</span> - at bottom stalks snuggle to ribbon, 4 left stalks start from right ones, large grains in wreath, marked on photo grain has rhombic shape.<br />\r\nDie <span style=\"font-weight:bold;\">3</span> - at bottom stalks protrude from ribbon, out of left stalks one starts from ribbon and other 3 start from right ones.<br />\r\nDie <span style=\"font-weight:bold;\">4</span> - at bottom stalks protrude from ribbon, out of left stalks 2 start from ribbon and other 2 start from right ones.<br />\r\nPicture: © Images courtesy of Alexandr Prokofyev.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/624a077dcd41d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/624a077dcd41d.jpg\" alt=\"\" width=\"199\" height=\"110\" /></a><br /><br />\r\n<span style=\"font-style:italic;\">Reverse</span><br />\r\nDie <span style=\"font-weight:bold;\">A</span> - details closer to center, wide &quot;A&quot;.<br />\r\nDie <span style=\"font-weight:bold;\">B</span> - details closer to rim, wide &quot;A&quot;.<br />\r\nDie <span style=\"font-weight:bold;\">C</span> - script narrow, especially visible in thickness of letter &quot;I&quot;, numerals &quot;10&quot; short, tall &quot;A&quot;.<br />\r\nPicture: © Images courtesy of Alexandr Prokofyev.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/624a078b21b84.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/624a078b21b84.jpg\" alt=\"\" width=\"200\" height=\"110\" /></a><br /><br />\r\n<span style=\"font-style:italic;\">Combinations</span><br />\r\n<span style=\"font-weight:bold;\">1</span>+<span style=\"font-weight:bold;\">A</span>: 1963, 1965, 1968, 1970, 1971, 1982-1985.<br />\r\n<span style=\"font-weight:bold;\">1</span>+<span style=\"font-weight:bold;\">B</span>: 1967, 1972, 1978-1981.<br />\r\n<span style=\"font-weight:bold;\">2</span>+<span style=\"font-weight:bold;\">B</span>: 1973.<br />\r\n<span style=\"font-weight:bold;\">3</span>+<span style=\"font-weight:bold;\">A</span>: 1986, 1987.<br />\r\n<span style=\"font-weight:bold;\">4</span>+<span style=\"font-weight:bold;\">C</span>: 1988-1990.",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "10"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "10"
+    },
+    {
+      "catalogue": {
+        "id": 80,
+        "code": "J"
+      },
+      "number": "1510"
+    }
+  ],
+  "weight": 1.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/ddr/69799db1d111f0.19127405-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ddr/69799db1d111f0.19127405-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 5,
+      "name": "Berlin"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

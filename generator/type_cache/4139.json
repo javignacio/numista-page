@@ -1,0 +1,105 @@
+{
+  "id": 4139,
+  "url": "https://en.numista.com/4139",
+  "title": "2 Øre - Frederik VIII",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "danemark",
+    "name": "Denmark"
+  },
+  "min_year": 1907,
+  "max_year": 1912,
+  "ruler": [
+    {
+      "id": 2401,
+      "name": "Frederick VIII",
+      "wikidata_id": "Q152756",
+      "group": {
+        "id": 104,
+        "name": "House of Schleswig-Holstein-Sonderburg-Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "2 Øre",
+    "numeric_value": 0.02,
+    "currency": {
+      "id": 13,
+      "name": "Krone",
+      "full_name": "Krone (1873-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1973-03-31"
+  },
+  "size": 21,
+  "thickness": 1.55,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Gunnar Jensen"
+    ],
+    "description": "Frederik VIII monogram, King of Denmark from 1906 to 1912",
+    "lettering": "FF8",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/danemark/1090-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/1090-180.jpg",
+    "picture_copyright": "A. Monge da Silva",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "reverse": {
+    "description": "Value in the inner circle, surrounded by lettering",
+    "lettering": "KONGERIGET DANMARK\r\n2 ØRE\r\n1907 VBP",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/danemark/1091-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/1091-180.jpg",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "805"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "13"
+    },
+    {
+      "catalogue": {
+        "id": 2262,
+        "code": "DNF"
+      },
+      "number": "2.3"
+    }
+  ],
+  "weight": 4,
+  "orientation": "medal",
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

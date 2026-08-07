@@ -1,0 +1,158 @@
+{
+  "id": 1367,
+  "url": "https://en.numista.com/1367",
+  "title": "25 Cents - Wilhelmina",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "pays-bas",
+    "name": "Netherlands"
+  },
+  "min_year": 1948,
+  "max_year": 1948,
+  "ruler": [
+    {
+      "id": 1301,
+      "name": "Wilhelmina",
+      "wikidata_id": "Q150747",
+      "nomisma_id": "queen_wilhelmina",
+      "group": {
+        "id": 750,
+        "name": "House of Orange-Nassau"
+      }
+    }
+  ],
+  "value": {
+    "text": "25 Cents",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 70,
+      "name": "Gulden",
+      "full_name": "Gulden (decimalized, 1817-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2002-01-28"
+  },
+  "size": 19,
+  "thickness": 1.32,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Ludwig Oswald Wenckebach"
+    ],
+    "description": "Head of Queen Wilhelmina facing left",
+    "lettering": "WILHELMINA KONINGIN DER NEDERLANDEN",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Wilhelmina, Queen of the Netherlands",
+    "picture": "https://en.numista.com/catalogue/photos/pays-bas/671a2b8250a7f2.13413589-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/671a2b8250a7f2.13413589-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Denomination, divided date at sides, crown at the top",
+    "lettering": "1948\r\n25\r\nCENT",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/pays-bas/671a2b8332d192.05848091-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/671a2b8332d192.05848091-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "related_types": [
+    {
+      "id": 2550,
+      "title": "25 Cents - German Occupation",
+      "category": "coin",
+      "country": {
+        "code": "pays-bas",
+        "name": "Netherlands"
+      },
+      "minYear": 1941,
+      "maxYear": 1943
+    },
+    {
+      "id": 656,
+      "title": "25 Cents - Juliana",
+      "category": "coin",
+      "country": {
+        "code": "pays-bas",
+        "name": "Netherlands"
+      },
+      "minYear": 1950,
+      "maxYear": 1980
+    },
+    {
+      "id": 731,
+      "title": "25 Cents - Beatrix",
+      "category": "coin",
+      "country": {
+        "code": "pays-bas",
+        "name": "Netherlands"
+      },
+      "minYear": 1982,
+      "maxYear": 2001
+    }
+  ],
+  "tags": [
+    "Crown"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "178"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "63"
+    },
+    {
+      "catalogue": {
+        "id": 118,
+        "code": "Sch"
+      },
+      "number": "1074"
+    }
+  ],
+  "weight": 3,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/pays-bas/66e2405108dd68.99826289-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/66e2405108dd68.99826289-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 23,
+      "name": "Royal Dutch Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

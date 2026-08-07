@@ -1,0 +1,138 @@
+{
+  "id": 4885,
+  "url": "https://en.numista.com/4885",
+  "title": "10 Santeem (Non magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "ethiopie",
+    "name": "Ethiopia"
+  },
+  "min_year": 1977,
+  "max_year": 1977,
+  "ruler": [
+    {
+      "id": 11490,
+      "name": "Provisional Military Administrative Council",
+      "wikidata_id": "Q828005"
+    }
+  ],
+  "value": {
+    "text": "10 Santims",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 6,
+      "name": "Birr",
+      "full_name": "Birr (1976-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23,
+  "thickness": 1.4,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass (79% Copper, 20% Zinc, 1% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Stuart Devlin"
+    ],
+    "description": "Roaring Ethiopian lion's head facing right, with date below",
+    "lettering": "ኢትዮጵያ \r\n፲፱፻፷፱",
+    "lettering_scripts": [
+      {
+        "name": "Ge'ez"
+      }
+    ],
+    "lettering_translation": "Ethiopia\r\n10 9 100 60 9 (meaning (10+9)*100+60+9 = 1969) (Ethiopian calendar)",
+    "picture": "https://en.numista.com/catalogue/photos/ethiopie/5f936092bf30f2.00745168-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ethiopie/5f936092bf30f2.00745168-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Stuart Devlin"
+    ],
+    "description": "Mountain Nyala antelope",
+    "lettering": "10\r\nአሥር:ሳንቲም FM",
+    "lettering_scripts": [
+      {
+        "name": "Ge'ez"
+      }
+    ],
+    "lettering_translation": "10\r\nTen Santeem (āširi sanitīmi) FM (Franklin Mint)",
+    "picture": "https://en.numista.com/catalogue/photos/ethiopie/5f93609346cdb5.92095268-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ethiopie/5f93609346cdb5.92095268-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/55f4a97a2cdcd.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/55f4a97a2cdcd.jpg\" alt=\"\" width=\"1000\" height=\"706\" /></a><br />\r\n<span style=\"font-style:italic;\">Note</span>. The coins KM# 45.2 are non magnetic and were struck in EE1969 only. The coins of EE2000 are magnetic and can not be attributed as KM#45.2 (a typo on the image above).",
+  "related_types": [
+    {
+      "id": 63352,
+      "title": "10 Santeem (Magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "ethiopie",
+        "name": "Ethiopia"
+      },
+      "minYear": 2004,
+      "maxYear": 2012
+    }
+  ],
+  "tags": [
+    "Cat or feline",
+    "Cow or bovine"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "45"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "52"
+    }
+  ],
+  "weight": 4.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 4751,
+      "name": "Addis Ababa"
+    },
+    {
+      "id": 5,
+      "name": "Berlin"
+    },
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    },
+    {
+      "id": 1319,
+      "name": "Franklin Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

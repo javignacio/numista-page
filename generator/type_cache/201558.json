@@ -1,0 +1,165 @@
+{
+  "id": 201558,
+  "url": "https://en.numista.com/201558",
+  "title": "5 Dollars (Federal Reserve Note; colored)",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "etats-unis",
+    "name": "United States"
+  },
+  "issuing_entity": {
+    "id": 4818,
+    "name": "United States Department of the Treasury"
+  },
+  "min_year": 2006,
+  "max_year": 2021,
+  "ruler": [
+    {
+      "id": 4720,
+      "name": "Federal republic",
+      "wikidata_id": "Q30"
+    }
+  ],
+  "value": {
+    "text": "5 Dollars",
+    "numeric_value": 5,
+    "currency": {
+      "id": 59,
+      "name": "Dollar",
+      "full_name": "Dollar (1785-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 156,
+  "size2": 67,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Portrait of Abraham Lincoln at center.\r\nTreasurer's signature and Federal Reserve Seal at left.\r\nSecretary's signature and Treasury Seal to right.\r\nGreat Seal of the United States in background to right.",
+    "lettering": "FEDERAL RESERVE NOTE\r\nTHE UNITED STATES OF AMERICA\r\nTHIS NOTE IS LEGAL TENDER\r\nFOR ALL DEBTS, PUBLIC AND PRIVATE\r\nFIVE DOLLARS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/67957f7880cde8.70320846-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/67957f7880cde8.70320846-180.jpg",
+    "picture_copyright": "Tanman2001"
+  },
+  "reverse": {
+    "description": "Lincoln Memorial at center.",
+    "lettering": "THE UNITED STATES OF AMERICA\r\nIN GOD WE TRUST\r\n\r\nLINCOLN MEMORIAL\r\nFIVE DOLLARS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/67957f79159680.76341011-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/67957f79159680.76341011-180.jpg",
+    "picture_copyright": "Tanman2001"
+  },
+  "comments": "<p>Issued by the Federal Reserve and was unveiled to the American public on September 20, 2007 and was issued into general circulation on March 13, 2008. This note is part of the <i>NextGen</i> series produced by the Bureau of Engraving and Printing and issued through the Federal Reserve System. Each of the five denominations feature <i>Symbols of Freedom</i>, for the $5 Federal Reserve Note, it features the Great Seal of the United States. Although not included when the current series of notes was introduced, this denomination was included as a response to reports that counterfeiters were bleaching $5 Federal Reserve Notes and used the genuine paper to produce counterfeit $100 Federal Reserve Notes.<br><br>Note: Code Letters of the Federal Reserve Branches<br><br>* A/1 - Boston, Massachusetts<br>* B/2 - New York, New York<br>* C/3 - Philadelphia, Pennsylvania<br>* D/4 - Cleveland, Ohio<br>* E/5 - Richmond, Virginia<br>* F/6 - Atlanta, Georgia<br>* G/7 - Chicago, Illinois<br>* H/8 - St. Louis, Missouri<br>* I/9 - Minneapolis, Minnesota<br>* J/10 - Kansas City, Missouri<br>* K/11 - Dallas, Texas<br>* L/12 - San Francisco, California</p><p>&nbsp;</p><p>The Fort Worth (FW) mark is located by the front plate number at the lower right.<br>Replacement notes are indicated by the presence of a star (✩) at the end of their serial number.</p><p>&nbsp;</p><p>UV activity - neon green security thread:</p><p><a href=\"https://en.numista.com/catalogue/images/662d8c284dd8b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/662d8c284dd8b.jpg\"></a></p><p><a href=\"https://en.numista.com/catalogue/images/662d8c2ce93dc.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/662d8c2ce93dc.jpg\"></a></p>",
+  "related_types": [
+    {
+      "id": 201824,
+      "title": "10 Dollars (Federal Reserve Note; colored)",
+      "category": "banknote",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 2004,
+      "maxYear": 2021
+    },
+    {
+      "id": 201837,
+      "title": "20 Dollars (Federal Reserve Note; colored)",
+      "category": "banknote",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 2004,
+      "maxYear": 2021
+    },
+    {
+      "id": 201849,
+      "title": "50 Dollars (Federal Reserve Note; colored)",
+      "category": "banknote",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 2004,
+      "maxYear": 2021
+    },
+    {
+      "id": 201734,
+      "title": "100 Dollars (Federal Reserve Note; colored)",
+      "category": "banknote",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 2009,
+      "maxYear": 2021
+    }
+  ],
+  "tags": [
+    "Memorial",
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "524"
+    },
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "531"
+    },
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "539"
+    },
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "W545A"
+    }
+  ],
+  "watermark": {
+    "description": "A large numeral \"5\" to the right of the portrait of Lincoln and a column of three small \"5\"s placed to the left of the portrait.",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/60db6925abe289.19142611-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/60db6925abe289.19142611-180.jpg",
+    "picture_copyright": "oXide3030",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "printers": [
+    {
+      "id": 51,
+      "name": "Bureau of Engraving and Printing"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

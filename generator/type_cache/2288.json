@@ -1,0 +1,186 @@
+{
+  "id": 2288,
+  "url": "https://en.numista.com/2288",
+  "title": "1 Dollar - Elizabeth II (2nd Portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "australie",
+    "name": "Australia"
+  },
+  "min_year": 1984,
+  "max_year": 1984,
+  "ruler": [
+    {
+      "id": 1783,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 825,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Dollar",
+    "numeric_value": 1,
+    "currency": {
+      "id": 243,
+      "name": "Dollar",
+      "full_name": "Dollar (1966-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25,
+  "thickness": 2.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze (92% Copper, 6% Aluminium, 2% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Arnold Machin"
+    ],
+    "description": "2nd portrait of Queen Elizabeth II facing right wearing the Girls of Great Britain and Ireland Tiara",
+    "lettering": "ELIZABETH II \r\nAUSTRALIA 1984",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/australie/65b3cccc9b08a6.29032072-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/australie/65b3cccc9b08a6.29032072-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "Stuart Devlin"
+    ],
+    "description": "\"Mob of Roos\" Five kangaroos, denomination",
+    "lettering": "1 DOLLAR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/australie/65b3ccce4d07f2.64988280-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/australie/65b3ccce4d07f2.64988280-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "This MOR (Mob of Roo&#039;s) coin was introduced by the RAM in May 1984 to replace the $1 Note. It is the only circulation version of the $1 coin to have the Arnold Machin effigy of the Queen, as the 1985 version switched to the Raphael David Maklouf effigy.<br /><br />\r\nThe Uncirculated and Proof sets for 1984 interestingly did not feature a MOR dollar coin.<br />\r\nAn uncirculated version of the MOR was released separately by the RAM in a square red bubble coincard.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5d676549775b8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d676549775b8.jpg\" alt=\"\" width=\"200\" height=\"202\" /></a><br /><br />\r\nA Proof version of the 1984 MOR was released separately by the RAM in a blue/grey plush velvet box.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5d67655964b47.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d67655964b47.jpg\" alt=\"\" width=\"200\" height=\"209\" /></a><br /><br />\r\nIn 1992 a Re-issue of the coin was released in a five coin set with four other coins unique to the 25mm $1 coin denomination from 1984 to 1992 all with original dates.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5dd688ccea7e9.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5dd688ccea7e9.jpg\" alt=\"\" width=\"200\" height=\"139\" /></a> <a href=\"https://en.numista.com/catalogue/images/5dd688d730cf6.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5dd688d730cf6.jpg\" alt=\"\" width=\"200\" height=\"139\" /></a><br /><br />\r\nAn Uncirculated version was also released in a Green Plastic Case Mintage unknown.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5dda087f2c2fd.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5dda087f2c2fd.jpg\" alt=\"\" width=\"200\" height=\"200\" /></a> <a href=\"https://en.numista.com/catalogue/images/5dda0889c8898.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5dda0889c8898.jpg\" alt=\"\" width=\"200\" height=\"195\" /></a><br /><br />\r\nIn 2006 The RAM released a Retro Silver Proof version of this coin as part of a 50 Years of Decimal Currency set.",
+  "related_types": [
+    {
+      "id": 2159,
+      "title": "1 Dollar - Elizabeth II (3rd Portrait)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 1985,
+      "maxYear": 1998
+    },
+    {
+      "id": 3148,
+      "title": "1 Dollar - Elizabeth II (4th Portrait)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 2000,
+      "maxYear": 2019
+    },
+    {
+      "id": 166369,
+      "title": "1 Dollar - Elizabeth II (2nd Portrait; Fine Silver Proof)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 2006,
+      "maxYear": 2006
+    },
+    {
+      "id": 168314,
+      "title": "1 Dollar - Elizabeth II (5th portrait)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 2019,
+      "maxYear": 2019
+    },
+    {
+      "id": 166235,
+      "title": "1 Dollar - Elizabeth II (6th Portrait)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 2019,
+      "maxYear": 2022
+    },
+    {
+      "id": 381884,
+      "title": "1 Dollar - Charles III (1st Portrait)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 2023,
+      "maxYear": 2026
+    }
+  ],
+  "tags": [
+    "Marsupial"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "77"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "56"
+    }
+  ],
+  "weight": 9,
+  "orientation": "medal",
+  "edge": {
+    "description": "7 shorter smooth segments between 7 reeded segments (11 grooves each)",
+    "picture": "https://en.numista.com/catalogue/photos/australie/698dae12b97a92.37598652-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/australie/698dae12b97a92.37598652-180.jpg",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 28,
+      "name": "Royal Australian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

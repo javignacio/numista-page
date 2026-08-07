@@ -1,0 +1,115 @@
+{
+  "id": 5231,
+  "url": "https://en.numista.com/5231",
+  "title": "10 Pesos (Admiral G. Brown)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "argentine",
+    "name": "Argentina"
+  },
+  "min_year": 1977,
+  "max_year": 1977,
+  "ruler": [
+    {
+      "id": 3983,
+      "name": "Federal Republic",
+      "wikidata_id": "Q414"
+    }
+  ],
+  "value": {
+    "text": "10 Pesos",
+    "numeric_value": 10,
+    "currency": {
+      "id": 260,
+      "name": "Peso ley",
+      "full_name": "Peso ley (1970-1983)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1984-03-30"
+  },
+  "size": 25,
+  "thickness": 1.855,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze (Cu 92 Al 8)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The bust of Admiral William Brown facing right dividing the dates 1777 and 1977.",
+    "lettering": "REPUBLICA ARGENTINA\r\n1777 1977\r\nBICENTENARIO DEL ALMIRANTE G. BROWN",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Argentina\r\n1777 1977\r\nBicentennial of Admiral G. Brown",
+    "picture": "https://en.numista.com/catalogue/photos/argentine/5f466e052e6e47.03474096-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/5f466e052e6e47.03474096-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "The value above the date, all to the right of a laurel branch",
+    "lettering": "10 \r\nPESOS \r\n1977",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/argentine/5f466e057dac64.43530451-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/5f466e057dac64.43530451-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "commemorated_topic": "200th Anniversary of Admiral G. Brown",
+  "comments": "<p><a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.m.wikipedia.org/wiki/William_Brown_(admiral)\">https://en.m.wikipedia.org/wiki/William_Brown_(admiral)</a></p><p>Irish-born William (Guillermo) Brown is considered the father of the Argentine Navy for his success in the war for independence.&nbsp;</p>",
+  "tags": [
+    "Birth anniversary",
+    "Military leader"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "74"
+    },
+    {
+      "catalogue": {
+        "id": 160,
+        "code": "CJ"
+      },
+      "number": "322"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "74"
+    }
+  ],
+  "weight": 6.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Milled"
+  },
+  "mints": [
+    {
+      "id": 1336,
+      "name": "Buenos Aires"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

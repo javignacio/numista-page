@@ -1,0 +1,104 @@
+{
+  "id": 19050,
+  "url": "https://en.numista.com/19050",
+  "title": "10 Francs",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "comores",
+    "name": "Comoros"
+  },
+  "issuing_entity": {
+    "id": 906,
+    "name": "Central Bank of the Comoros",
+    "wikidata_id": "Q2604274"
+  },
+  "min_year": 2001,
+  "max_year": 2017,
+  "ruler": [
+    {
+      "id": 3900,
+      "name": "Union of the Comoros",
+      "wikidata_id": "Q970",
+      "group": {
+        "id": 239,
+        "name": "Republic"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Francs",
+    "numeric_value": 10,
+    "currency": {
+      "id": 74,
+      "name": "Franc",
+      "full_name": "Franc (1976-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 17,
+  "thickness": 1.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Crescent with 4 stars",
+    "lettering": "بنك قمور",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "Comoros Bank",
+    "picture": "https://en.numista.com/catalogue/photos/comores/6986307c9e4b64.26626898-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/comores/6986307c9e4b64.26626898-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "reverse": {
+    "description": "On the left of the year, the different cornucopia\r\nOn the right of the year, the different horseshoe",
+    "lettering": "BANQUE CENTRALE DES COMORES\r\n10\r\nFRANCS\r\n2001",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Bank of the Comoros\r\n10\r\nFrancs\r\n2001",
+    "picture": "https://en.numista.com/catalogue/photos/comores/6986307dc005b3.57306794-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/comores/6986307dc005b3.57306794-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "comments": "NOTE: Not used by population - demonetized in effect.",
+  "tags": [
+    "Moon"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "19"
+    }
+  ],
+  "weight": 2.4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

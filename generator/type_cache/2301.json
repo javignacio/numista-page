@@ -1,0 +1,90 @@
+{
+  "id": 2301,
+  "url": "https://en.numista.com/2301",
+  "title": "1 Peso (\"LIBERTADOR B. O'HIGGINS\")",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "chili",
+    "name": "Chile"
+  },
+  "min_year": 1976,
+  "max_year": 1977,
+  "ruler": [
+    {
+      "id": 3299,
+      "name": "Republic",
+      "wikidata_id": "Q298"
+    }
+  ],
+  "value": {
+    "text": "1 Peso",
+    "numeric_value": 1,
+    "currency": {
+      "id": 146,
+      "name": "Peso",
+      "full_name": "Peso (1975-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24,
+  "thickness": 1.24,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass (70% Copper; 15% Nickel; 15% Zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Portrait of Bernardo O'Higgins facing right",
+    "lettering": "REPUBLICA DE CHILE \r\nSo\r\nLIBERTADOR \r\nB. O'HIGGINS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Chile\r\nSo\r\nLiberator \r\nB. O´Higgins",
+    "picture": "https://en.numista.com/catalogue/photos/chili/1005-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/1005-180.jpg",
+    "picture_copyright": "Quodlibet"
+  },
+  "reverse": {
+    "description": "The value within a laurel wreath",
+    "lettering": "1 \r\nPESO \r\n1976",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chili/1006-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/1006-180.jpg",
+    "picture_copyright": "Quodlibet"
+  },
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "208"
+    }
+  ],
+  "weight": 5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

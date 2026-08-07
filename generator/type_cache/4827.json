@@ -1,0 +1,163 @@
+{
+  "id": 4827,
+  "url": "https://en.numista.com/4827",
+  "title": "5 Dirhams",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "qatar",
+    "name": "Qatar"
+  },
+  "min_year": 1973,
+  "max_year": 1978,
+  "ruler": [
+    {
+      "id": 1506,
+      "name": "Khalifa bin Hamad Al Thani",
+      "wikidata_id": "Q2072385"
+    }
+  ],
+  "value": {
+    "text": "5 Dirhams",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 161,
+      "name": "Riyal",
+      "full_name": "Riyal (1973-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 22,
+  "thickness": 1.37,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze (97.05% copper, 2.3% zinc, 0.55% tin)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Norman Sillman"
+    ],
+    "description": "Dates on top. Old emblem of Qatar consisting of a sailing ship (dhow) sailing on waves beside an island with two palm trees.",
+    "lettering": "١٣٩٨ ·  ١٩٧٨\r\nدولَة قطَر",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "1978 · 1398  \nState of Qatar",
+    "picture": "https://en.numista.com/catalogue/photos/qatar/111-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/qatar/111-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "reverse": {
+    "engravers": [
+      "Norman Sillman"
+    ],
+    "description": "Denomination",
+    "lettering": "٥\r\nدراهمـ\r\nSTATE OF QATAR",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "5 Dirhams\nState of Qatar",
+    "picture": "https://en.numista.com/catalogue/photos/qatar/112-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/qatar/112-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "related_types": [
+    {
+      "id": 18845,
+      "title": "5 Dirhams (Non-magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "qatar",
+        "name": "Qatar"
+      },
+      "minYear": 2006,
+      "maxYear": 2006
+    },
+    {
+      "id": 46253,
+      "title": "5 Dirhams (Magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "qatar",
+        "name": "Qatar"
+      },
+      "minYear": 2012,
+      "maxYear": 2012
+    },
+    {
+      "id": 86298,
+      "title": "5 Dirhams",
+      "category": "coin",
+      "country": {
+        "code": "qatar",
+        "name": "Qatar"
+      },
+      "minYear": 2016,
+      "maxYear": 2020
+    },
+    {
+      "id": 1071,
+      "title": "5 Dirhams",
+      "category": "coin",
+      "country": {
+        "code": "qatar-et-dubai",
+        "name": "Qatar and Dubai"
+      },
+      "minYear": 1966,
+      "maxYear": 1969
+    }
+  ],
+  "tags": [
+    "Boat or watercraft",
+    "Tree",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "3"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "2"
+    }
+  ],
+  "weight": 3.75,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/qatar/658b7bfc67c269.19777823-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/qatar/658b7bfc67c269.19777823-180.jpg",
+    "picture_copyright": "Julio Vega",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,147 @@
+{
+  "id": 43,
+  "url": "https://en.numista.com/43",
+  "title": "1 Cent \"Lincoln Memorial Cent\" (copper plated zinc)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "etats-unis",
+    "name": "United States"
+  },
+  "min_year": 1982,
+  "max_year": 2008,
+  "ruler": [
+    {
+      "id": 4720,
+      "name": "Federal republic",
+      "wikidata_id": "Q30"
+    }
+  ],
+  "value": {
+    "text": "1 Cent",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 59,
+      "name": "Dollar",
+      "full_name": "Dollar (1785-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 19.05,
+  "thickness": 1.3,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper plated zinc"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Victor David Brenner"
+    ],
+    "description": "The portrait in right profile of Abraham Lincoln, the 16th President of the United States from 1861 to 1865, is accompanied with the lettering \"LIBERTY\" and the motto \"IN GOD WE TRUST\".",
+    "lettering": "IN GOD WE TRUST\r\nLIBERTY\r\n1983\r\nVDB",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/690b674b7d2415.05493043-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/690b674b7d2415.05493043-180.jpg",
+    "picture_copyright": "Menu82025",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Frank Gasparro"
+    ],
+    "description": "The Lincoln Memorial is surrounded with the face value in full, the lettering : \"UNITED STATES oF AMERICA\" and the motto : \"E • PLURIBUS • UNUM •\".",
+    "lettering": "UNITED STATES oF AMERICA\r\nE • PLURIBUS\r\n• UNUM •\r\nFG\r\nONE CENT",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Out of Many, One",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/68ff7d1a0b0034.34312644-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/68ff7d1a0b0034.34312644-180.jpg",
+    "picture_copyright": "Menu82025",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "comments": "<p>KM#201a is for coins dated 1982, whereas KM#201b is for all coins dated afterward.<br><br>From 1974 through 1986, a number of these coins were minted in the United States Bullion Depository, West Point. These coins lacked a mintmark and are indistinguishable from the Philadelphia issue.<br><br>FG engraver's signature<br><a href=\"https://en.numista.com/catalogue/images/602029c311c80.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/602029c311c80.jpg\" alt=\"\"></a><br><br>1982 is a transition year: the earliest coins were struck in 95% copper, and the latest coins were struck in copper-plated zinc. One of the most noticeable differences between the two is the weights (3.11 grams versus 2.50 grams).<br><a href=\"https://en.numista.com/catalogue/images/5e33872a67dce.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e33872a67dce.jpg\" alt=\"\"></a><br><br><i>Reverse</i><br>Die<strong> 005</strong> - G in FG tall, AM to AMERICA widely spread, narrow script.<br><a href=\"https://en.numista.com/catalogue/images/6159febb63c69.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6159febb63c69.jpg\" alt=\"\"></a><br>Die <strong>006</strong> - G in FG flared, AM to AMERICA widely spread, bolder script. See on the first photo above by Heligal for year 1992.<br><br><i>Combinations</i><br>Die <strong>005</strong>: 1986, 1987, 1988 all issues.<br>Die <strong>006</strong>: 1988, 1988 D, 1989-1992 all issues, 1994-2008 S (Proof), 1998, 1999, 2000.<br><br>In the American numismatics the business strike of 1988 with die 006 is named 'transitional'.<br><br>In 1992, all coins were meant to have a wide \"AM\" of \"AMERICA\"; however, some were struck using 1993 dies resulting in some having a close \"AM\" of \"AMERICA\".</p><p><br>In 1998, 1999, and 2000, there were two different intended designs: those meant for regular circulating coins and those meant for proof coins. The design of the circulating coins was meant to have a close \"AM\" of \"AMERICA\" whereas the design of the proof coins was meant to have a wide \"AM\" of \"AMERICA\". &nbsp;Even so, some regular circulating coins were struck with the reverse proof design (wide \"AM\") and some proof coins were struck with the circulating design (close \"AM\").<br><br>KM#201a 1982<br><a href=\"https://en.numista.com/catalogue/images/666afc2713d45.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/666afc2713d45.jpg\"></a><br>km201b<br>1983<br><a href=\"https://en.numista.com/catalogue/images/6377c4036cb8f.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6377c4036cb8f.jpg\" alt=\"\"></a><br>1984<br><a href=\"https://en.numista.com/catalogue/images/676ece429d6d2.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/676ece429d6d2.jpg\"></a><br>1992<br><a href=\"https://en.numista.com/catalogue/images/6377c42868c40.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6377c42868c40.jpg\" alt=\"\"></a><br>1995<br><a href=\"https://en.numista.com/catalogue/images/6377c438bfd0c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6377c438bfd0c.jpg\" alt=\"\"></a><br>1996<br><a href=\"https://en.numista.com/catalogue/images/666afc8297b97.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/666afc8297b97.jpg\"></a><br>1998<br><a href=\"https://en.numista.com/catalogue/images/6377c457ed898.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6377c457ed898.jpg\" alt=\"\"></a><br>1999<br><a href=\"https://en.numista.com/catalogue/images/6377c468c9b3f.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6377c468c9b3f.jpg\" alt=\"\"></a><br>2000<br><a href=\"https://en.numista.com/catalogue/images/6377c476af5d7.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6377c476af5d7.jpg\" alt=\"\"></a><br><br>The lowercase \"o\" in the the reverse lettering \"THE UNITED STATES oF AMERICA\" is not an error. According to the final report of the Lincoln sesquicentennial commission, it was a choice of the artist Frank Gasparro, who said that the small \"o\" was not done in error but rather had been done deliberately to give design appeal to the lettering on the penny. Citing precedents for the lowercase letter, such as the Franklin Half Dollar, the Liberty Walking Half Dollar, the Peace Dollar, and several commemoratives, he said, \"I did it to break up the pattern.\"</p>",
+  "related_types": [
+    {
+      "id": 42,
+      "title": "1 Cent \"Lincoln Memorial Cent\" (Bronze)",
+      "category": "coin",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 1959,
+      "maxYear": 1982
+    }
+  ],
+  "tags": [
+    "Memorial",
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "201a"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "201b"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "202a"
+    }
+  ],
+  "weight": 2.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/3151-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/3151-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    },
+    {
+      "id": 13,
+      "name": "United States Mint of West Point"
+    },
+    {
+      "id": 10,
+      "name": "United States Mint of Denver"
+    },
+    {
+      "id": 12,
+      "name": "United States Mint of San Francisco"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

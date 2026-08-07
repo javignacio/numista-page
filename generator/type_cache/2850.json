@@ -1,0 +1,128 @@
+{
+  "id": 2850,
+  "url": "https://en.numista.com/2850",
+  "title": "1 Centésimo",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "panama",
+    "name": "Panama"
+  },
+  "min_year": 1996,
+  "max_year": 2019,
+  "ruler": [
+    {
+      "id": 4072,
+      "name": "Republic",
+      "wikidata_id": "Q804"
+    }
+  ],
+  "value": {
+    "text": "1 Centesimo",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 5,
+      "name": "Balboa",
+      "full_name": "Balboa (1904-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 19.05,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper plated zinc (97.5% Zinc, 2.5% Copper)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Written denomination with country name above",
+    "lettering": "REPÚBLICA DE PANAMÁ\r\nUN\r\nCENTÉSIMO\r\nDE\r\nBALBOA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Panama\r\nOne\r\nCentésimo\r\nOf a\r\nBalboa",
+    "picture": "https://en.numista.com/catalogue/photos/panama/755-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/panama/755-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "description": "Head of chief Urraca, an Indian chief from the Province of Veraguas, who fought the Spaniards in Panamá between 1520 and 1531, facing left with the date below",
+    "lettering": "URRACÁ\r\n2017",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/panama/754-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/panama/754-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "comments": "Since its separation from Colombia in 1903, Panama has used the United States Dollar. These coins have the same specifications as the United States 1 Cent and circulate alongside it.<br /><br />\r\nTwo types of legends are known:<br />\r\nType I - legends on both sides without diacritical marks<br />\r\nType II - legends on both sides with diacritical marks<br />\r\n<a href=\"https://en.numista.com/catalogue/images/6089c8fa1462a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6089c8fa1462a.jpg\" alt=\"\" width=\"200\" height=\"102\" /></a>",
+  "related_types": [
+    {
+      "id": 43,
+      "title": "1 Cent \"Lincoln Memorial Cent\" (copper plated zinc)",
+      "category": "coin",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 1982,
+      "maxYear": 2008
+    },
+    {
+      "id": 10969,
+      "title": "1 Cent \"Lincoln Cent - Shield Reverse\"",
+      "category": "coin",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 2010,
+      "maxYear": 2025
+    }
+  ],
+  "tags": [
+    "Military leader"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "125"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "107"
+    }
+  ],
+  "weight": 2.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/panama/66eae395d036f7.04225378-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/panama/66eae395d036f7.04225378-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

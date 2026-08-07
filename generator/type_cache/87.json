@@ -1,0 +1,145 @@
+{
+  "id": 87,
+  "url": "https://en.numista.com/87",
+  "title": "1 Euro - Juan Carlos I (1st type; 1st map)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "espagne",
+    "name": "Spain"
+  },
+  "min_year": 1999,
+  "max_year": 2006,
+  "ruler": [
+    {
+      "id": 151,
+      "name": "Juan Carlos I",
+      "wikidata_id": "Q19943",
+      "group": {
+        "id": 44,
+        "name": "House of Bourbon"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Euro",
+    "numeric_value": 1,
+    "currency": {
+      "id": 9004,
+      "name": "Euro",
+      "full_name": "Euro (2002-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2002-01-01"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23.25,
+  "thickness": 2.33,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: copper-nickel clad nickel centre in nickel brass ring"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Luis Jose Díaz Salas"
+    ],
+    "description": "Bust of King Juan Carlos I facing left and the twelve stars of Europe of which four are bound by a band.",
+    "lettering": "ESPAÑA\r\nM\r\n2002",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Spain",
+    "picture": "https://en.numista.com/catalogue/photos/espagne/62ca7f8bb8fad9.06479156-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/62ca7f8bb8fad9.06479156-180.jpg",
+    "picture_copyright": "Mike Bentley",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Luc Luycx"
+    ],
+    "description": "First map of Europe symbolizing the gathering of the fifteen nations of the European Union and twelve stars (six above and six below map).",
+    "lettering": "1 EURO \r\nLL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/espagne/62ca7f8d0c5817.50385635-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/62ca7f8d0c5817.50385635-180.jpg",
+    "picture_copyright": "Mike Bentley",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "related_types": [
+    {
+      "id": 6363,
+      "title": "1 Euro - Juan Carlos I (1st type; 2nd map)",
+      "category": "coin",
+      "country": {
+        "code": "espagne",
+        "name": "Spain"
+      },
+      "minYear": 2007,
+      "maxYear": 2009
+    },
+    {
+      "id": 10861,
+      "title": "1 Euro - Juan Carlos I (2nd type; 2nd map)",
+      "category": "coin",
+      "country": {
+        "code": "espagne",
+        "name": "Spain"
+      },
+      "minYear": 2010,
+      "maxYear": 2014
+    }
+  ],
+  "tags": [
+    "Map"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1046"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "338"
+    }
+  ],
+  "weight": 7.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Segmented reeding",
+    "picture": "https://en.numista.com/catalogue/photos/espagne/3363-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/3363-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 24,
+      "name": "Royal Mint of Madrid"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

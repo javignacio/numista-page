@@ -1,0 +1,103 @@
+{
+  "id": 12907,
+  "url": "https://en.numista.com/12907",
+  "title": "1 Farthing - Charles II",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "england",
+    "name": "England"
+  },
+  "min_year": 1672,
+  "max_year": 1679,
+  "ruler": [
+    {
+      "id": 515,
+      "name": "Charles II",
+      "wikidata_id": "Q122553",
+      "group": {
+        "id": 28,
+        "name": "House of Stuart Restored (1660-1714)"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Farthing",
+    "numeric_value": 0.0010416666666666667,
+    "numerator": 1,
+    "denominator": 960,
+    "currency": {
+      "id": 9077,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1970)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1869-12-31"
+  },
+  "size": 22.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Laureate and cuirassed bust of King Charles II facing left, legend around.",
+    "lettering": "CAROLVS·A· CAROLO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Charles son of Charles",
+    "picture": "https://en.numista.com/catalogue/photos/england/333-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/england/333-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "description": "Seated figure of Britannia facing left, holding spear in left hand, olive branch in raised right hand, shield with Union flag resting at left, legend around, date in exergue.",
+    "lettering": "BRITANNIA·\r\n1675",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/england/334-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/england/334-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "<p>The original standard weight for these pieces was 80 to the pound avoirdupois (1/5 ounce or 87.5 grains each).<br><br>Following is an excerpt from the Department of Special Collections at the University of Notre Dame Libraries:<br><br>\"Charles II (1660-1685) first produced copper halfpence and farthings in 1672. Minting began on August 5th with the production of farthings on four presses. Interestingly, Charles displayed a bust right (that is, a right profile) on all his gold and silver coins but used a bust left on his coppers. He produced copper halfpence dated 1672, 1673 and 1675 and copper farthings dated 1672-1675 and 1679. In order to produce these coins the mint needed blank planchets of the proper size and weight. However, they did not have the capability of producing the rolled sheets of copper from which the blanks would be cut out. Therefore the mint was forced to import finished planchets, which they contracted with Abraham Cronstrom of Stockholm, Sweden. The initial run of coppers was produced at 40 halfpence to the pound (175 grains), with farthings proportional. However, Cronstrom had contracted to provide the copper metal at 14.5d per pound but he discovered there was a Swedish export tarrif of 2.5d per pound, raising the price to 17d a pound. The Mint would not revise the contracted price for the first shipment but they did agree to pay the increase for subsequent shipments. To offset this added cost the weight of the coins was reduced slightly during this first year of production (1672) so that halfpence were made at 44 to the pound avoirdupois or about 159.1 grains each.\"</p>",
+  "tags": [
+    "Armour"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "3394"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "436.1"
+    }
+  ],
+  "weight": 5.6,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

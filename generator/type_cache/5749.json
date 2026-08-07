@@ -1,0 +1,168 @@
+{
+  "id": 5749,
+  "url": "https://en.numista.com/5749",
+  "title": "5 Shillings - Elizabeth II (Coronation)",
+  "object_type": {
+    "id": 3,
+    "name": "Non-circulating coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1953,
+  "max_year": 1953,
+  "ruler": [
+    {
+      "id": 275,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 527,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Shillings",
+    "numeric_value": 0.25,
+    "numerator": 5,
+    "denominator": 20,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1971)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 38.61,
+  "thickness": 3,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Cu, 25% Ni)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Gilbert Ledward"
+    ],
+    "description": "A portrait of Queen Elizabeth II mounted on her horse Winston, dressed in her uniform as Colonel-in-Chief of the Grenadier Guards and as worn by The Queen during the ceremony of Trooping the Colour.",
+    "lettering": "ELIZABETH·II·DEI·GRATIA·BRITT OMN·REGINA·FIDEI·DEFENSOR\r\nEIIR EIIR\r\nGL\r\nFIVE SHILLINGS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Elizabeth II Dei Gratia Britanniarum Omnium Regina Fidei Defensor",
+    "lettering_translation": "Elizabeth II by the Grace of God Queen of all the Britains Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/9511-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/9511-180.jpg",
+    "picture_copyright": "radrick007",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Edgar Fuller",
+      "Cecil Thomas"
+    ],
+    "description": "The four quarterings of the Royal Arms each contained in a shield and arranged in saltire with, in the intervening spaces, a rose, a thistle, a sprig of shamrock and a leek; in the centre the Crown and in the base the date.",
+    "lettering": "19 53\r\nEF CT",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/9512-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/9512-180.jpg",
+    "picture_copyright": "radrick007",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "commemorated_topic": "Coronation of Queen Elizabeth II, 1953",
+  "comments": "House of Windsor (1917 to date), Elizabeth II (1952-2022), Pre-decimal issues (1953-70).<br /><br />\r\nIssued to commemorate the coronation of Queen Elizabeth II, the coin was also included in the 10-coin boxed proof set.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5f8cacc3d653c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5f8cacc3d653c.jpg\" alt=\"\" width=\"200\" height=\"156\" /></a><br /><br />\r\nThe standard weight of these coins was 10/11 troy ounce (436.4 grains). Under the Coinage Act of 1946, the crown composition changed from .500 silver to .750 copper/.250 nickel, but the weight remained unchanged.<br /><br />\r\nThis coin was not included in demonetization legislation when decimalization was introduced in 1971. It has been confirmed by The Royal Mint that the coin remains legal tender, having been remonetized with a decimal value of 25 pence.<br /><br />\r\n<span style=\"font-style:italic;\">Obverse die varieties:</span><br /><br />\r\n<span style=\"font-weight:bold;\">Obv 1</span> I of GRATIA points at large border bead;<br />\r\n<span style=\"font-weight:bold;\">Obv 2</span> I of GRATIA points at smaller border bead;<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5cc1cc31196ad.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5cc1cc31196ad.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\nImage above is reproduced with kind permission of Declan Magee and Numista member Sjoelund.<br /><br />\r\n<span style=\"font-style:italic;\">Reported edge error:</span><br /><br />\r\nKnown as the &#039;Hip Hop&#039; error, the U on YOU is missing on some currency strikes. Unknown number minted.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/61ec8a3d4f833.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/61ec8a3d4f833.jpg\" alt=\"\" width=\"200\" height=\"32\" /></a><br /><br />\r\nThe reverse design was reused in 1960 to celebrate the British Exhibition in New York, in 2014 to celebrate the first birthday of Prince George of Cambridge and in 2022 as one of the first designs for the new King Charles III coinage.",
+  "related_types": [
+    {
+      "id": 5759,
+      "title": "5 Shillings - Elizabeth II (British Exhibition)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1960,
+      "maxYear": 1960
+    },
+    {
+      "id": 61627,
+      "title": "5 Pounds - Elizabeth II (Royal Birthday; Silver Proof)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2014,
+      "maxYear": 2014
+    },
+    {
+      "id": 341998,
+      "title": "50 Pence - Charles III (Life and legacy of the Queen)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2022,
+      "maxYear": 2022
+    }
+  ],
+  "tags": [
+    "Horse or equine",
+    "Coat of Arms",
+    "Hat",
+    "Coronation",
+    "Flower"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "894"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "4136"
+    }
+  ],
+  "weight": 28.28,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain with incuse lettering.",
+    "lettering": "FAITH AND TRUTH I WILL BEAR UNTO YOU +",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/9513-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/9513-180.jpg",
+    "picture_copyright": "Waqar Ul Arfeen ®"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Non-circulating coins"
+}

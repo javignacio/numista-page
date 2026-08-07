@@ -1,0 +1,107 @@
+{
+  "id": 5007,
+  "url": "https://en.numista.com/5007",
+  "title": "10 Tyiyn",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "kirghizistan",
+    "name": "Kyrgyzstan"
+  },
+  "min_year": 2008,
+  "max_year": 2008,
+  "ruler": [
+    {
+      "id": 1317,
+      "name": "Republic",
+      "wikidata_id": "Q813"
+    }
+  ],
+  "value": {
+    "text": "10 Tyiyn",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 185,
+      "name": "Som",
+      "full_name": "Som (1993-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 15,
+  "thickness": 1.15,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of Arms of the Kyrgyz Republic and the year when the coin was issued",
+    "lettering": "КЫРГЫЗ\r\nРЕСПУБИКАСЫ\r\n2008",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "Kyrgyz Republic",
+    "picture": "https://en.numista.com/catalogue/photos/kirghizistan/68c0708193f8d1.05168730-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/kirghizistan/68c0708193f8d1.05168730-180.jpg",
+    "picture_copyright": "Menu82025",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "\"Gul\" flower, which is one of the most well-known and beautiful symbols used in Kyrgyz ornamental art since the ancient time and denomination",
+    "lettering": "10 \r\nТЫЙЫН",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "10 Tıyın",
+    "picture": "https://en.numista.com/catalogue/photos/kirghizistan/68c07081ebc951.45070743-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/kirghizistan/68c07081ebc951.45070743-180.jpg",
+    "picture_copyright": "Menu82025",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "12"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "16"
+    }
+  ],
+  "weight": 1.3,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/kirghizistan/6571c990efdad8.37344275-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/kirghizistan/6571c990efdad8.37344275-180.jpg",
+    "picture_copyright": "khufu",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 9,
+      "name": "Kazakhstan Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

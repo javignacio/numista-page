@@ -1,0 +1,135 @@
+{
+  "id": 428,
+  "url": "https://en.numista.com/428",
+  "title": "25 Pesetas - Juan Carlos I (With mintmark)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "espagne",
+    "name": "Spain"
+  },
+  "min_year": 1982,
+  "max_year": 1984,
+  "ruler": [
+    {
+      "id": 151,
+      "name": "Juan Carlos I",
+      "wikidata_id": "Q19943",
+      "group": {
+        "id": 44,
+        "name": "House of Bourbon"
+      }
+    }
+  ],
+  "value": {
+    "text": "25 Pesetas",
+    "numeric_value": 25,
+    "currency": {
+      "id": 142,
+      "name": "Peseta",
+      "full_name": "Peseta (1868-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1997-01-01"
+  },
+  "size": 26.5,
+  "thickness": 1.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% copper, 25% nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Manuel Marín Jimeno"
+    ],
+    "description": "Head of King Juan Carlos I facing left.",
+    "lettering": "JUAN CARLOS I REY DE ESPAÑA\r\n· 1983 ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Juan Carlos I King of Spain",
+    "picture": "https://en.numista.com/catalogue/photos/espagne/189-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/189-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Francisco Martínez Tornero"
+    ],
+    "description": "Spanish Royal crown.",
+    "lettering": "25 PTAS\r\nM",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "25 Pesetas",
+    "picture": "https://en.numista.com/catalogue/photos/espagne/190-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/190-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "<p>In 1983, there are 2 varieties:&nbsp;</p><p>Bold Letters and Thin Letters.</p><p><a href=\"https://en.numista.com/catalogue/images/67a5cf6356356.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67a5cf6356356.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/67a5cf62dad08.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67a5cf62dad08.jpg\"></a></p>",
+  "related_types": [
+    {
+      "id": 2736,
+      "title": "25 Pesetas - Juan Carlos I",
+      "category": "coin",
+      "country": {
+        "code": "espagne",
+        "name": "Spain"
+      },
+      "minYear": 1976,
+      "maxYear": 1980
+    }
+  ],
+  "tags": [
+    "Crown"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "824"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "55"
+    }
+  ],
+  "weight": 8.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/espagne/5f0b7ff1c5b096.97863607-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/5f0b7ff1c5b096.97863607-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 24,
+      "name": "Royal Mint of Madrid"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

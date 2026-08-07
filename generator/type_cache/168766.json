@@ -1,0 +1,72 @@
+{
+  "id": 168766,
+  "url": "https://en.numista.com/168766",
+  "title": "Token - Naruto (Uzumaki Naruto)",
+  "object_type": {
+    "id": 18,
+    "name": "Play money"
+  },
+  "issuer": {
+    "code": "japon",
+    "name": "Japan"
+  },
+  "min_year": 2002,
+  "max_year": 2002,
+  "size": 28,
+  "shape": "Round",
+  "composition": {
+    "text": "Steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Ninja Weapon.",
+    "lettering": "NARUTO CCG Ⓒ2002 MASASHI KISHIMOTO",
+    "picture": "https://en.numista.com/catalogue/photos/japon/6062cedaafa9b8.15917259-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/japon/6062cedaafa9b8.15917259-180.jpg",
+    "picture_copyright": "bbybugs",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Naruto cartoon character - Uzumaki Naruto",
+    "picture": "https://en.numista.com/catalogue/photos/japon/6062cedbbb8481.61968108-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/japon/6062cedbbb8481.61968108-180.jpg",
+    "picture_copyright": "bbybugs",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "Naruto is a Japanese manga series written and illustrated by Masashi Kishimoto.",
+  "related_types": [
+    {
+      "id": 168764,
+      "title": "Token - Naruto (Sabakuno Gaara)",
+      "category": "exonumia",
+      "country": {
+        "code": "japon",
+        "name": "Japan"
+      },
+      "minYear": 2002,
+      "maxYear": 2002
+    },
+    {
+      "id": 168765,
+      "title": "Token - Naruto (Hatake Kakashi)",
+      "category": "exonumia",
+      "country": {
+        "code": "japon",
+        "name": "Japan"
+      },
+      "minYear": 2002,
+      "maxYear": 2002
+    }
+  ],
+  "weight": 7.06,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "category": "exonumia",
+  "type": "Play money"
+}

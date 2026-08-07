@@ -1,0 +1,110 @@
+{
+  "id": 3532,
+  "url": "https://en.numista.com/3532",
+  "title": "2 Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "honduras",
+    "name": "Honduras"
+  },
+  "min_year": 1939,
+  "max_year": 1956,
+  "ruler": [
+    {
+      "id": 4001,
+      "name": "Republic",
+      "wikidata_id": "Q783"
+    }
+  ],
+  "value": {
+    "text": "2 Centavos",
+    "numeric_value": 0.02,
+    "currency": {
+      "id": 101,
+      "name": "Lempira",
+      "full_name": "Lempira (1931-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 19.97,
+  "thickness": 1.32,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze (95% Copper, 4% Zinc, 1% Tin)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of Arms (pyramid without clouds), date below\r\nLegend on coat of arms:\" Republica de Honduras Libre Soberana E Independiente\"",
+    "lettering": "REPUBLICA DE HONDURAS\r\nREP CA DE · HONDURAS · LIBRE · SOBERANA · INDEPENDIENTE\r\n· 15 SEPT BRE 1821 ·\r\n1956",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Honduras\r\nRepublic of Honduras, Free, Sovereign and Independent\r\n15th September, 1821",
+    "picture": "https://en.numista.com/catalogue/photos/honduras/481-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/honduras/481-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "reverse": {
+    "description": "Value within laurel wreath",
+    "lettering": "DOS\r\n2\r\nCENTAVOS\r\nDE\r\nLEMPIRA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Two\r\n2\r\nCentavos\r\nof a\r\nLempira",
+    "picture": "https://en.numista.com/catalogue/photos/honduras/482-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/honduras/482-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "comments": "<p>Here is the reverse image of a 1954 coin with font size differences from the 1956 shown above. Most noticeable is the \"LEMPIRA\" is smaller and further away from the ring around the lettering. I found a dozen coin images and the font size seems consistent for 1954 and for 1956.<br><br><a href=\"https://en.numista.com/catalogue/images/5df18fae5f91e.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5df18fae5f91e.png\" alt=\"\"></a><br><br><br>Of the 1956-dated coins, 7,664,000 were minted in 1956 and 12,336,000 in 1957. The 1956 and 1957 issues are indistinguishable from each other.<br><br>1. Lempira, the present currency of Honduras, was introduced in 1931 replacing the Peso. The Lempira is divided into 100 Centavos.<br><br>The currency is named after Lempira, a chieftain of the indigenous Lenca people, who waged war against the Spanish occupation of the country during the 16th century. He is revered as a national hero.<br><br>2. Sept. 15, 1821, within the Coat of Arms commemorates the day when 5 Central American countries including Honduras gained independence from Spanish rule. 15th Sept is celebrated as the National Day of Honduras.</p>",
+  "tags": [
+    "Coat of Arms",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "78"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "24"
+    }
+  ],
+  "weight": 3,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/honduras/69cd31ec03aa93.15056158-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/honduras/69cd31ec03aa93.15056158-180.jpg",
+    "picture_copyright": "Bulgaria1999"
+  },
+  "mints": [
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    },
+    {
+      "id": 4157,
+      "name": "VDM Metals / Vereinigte Deutsche Metallwerke"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

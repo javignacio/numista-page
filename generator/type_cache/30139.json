@@ -1,0 +1,183 @@
+{
+  "id": 30139,
+  "url": "https://en.numista.com/30139",
+  "title": "2 Dollars - Elizabeth II (Polar bear, date on top)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "canada",
+    "name": "Canada"
+  },
+  "min_year": 2006,
+  "max_year": 2012,
+  "ruler": [
+    {
+      "id": 2095,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 827,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "2 Dollars",
+    "numeric_value": 2,
+    "currency": {
+      "id": 44,
+      "name": "Dollar",
+      "full_name": "Dollar (1858-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 28,
+  "thickness": 1.75,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: aluminium bronze centre in nickel ring"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Susan Taylor"
+    ],
+    "designers": [
+      "Susanna Blunt"
+    ],
+    "description": "Head of Queen Elizabeth II, as at 77 years of age, bare headed, wearing necklace and earrings, facing right.",
+    "lettering": "ELIZABETH II 2012 D·G·REGINA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "ELIZABETH II DEI GRATIA REGINA",
+    "lettering_translation": "Elizabeth II Queen by the grace of God",
+    "picture": "https://en.numista.com/catalogue/photos/canada/3226-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/3226-180.jpg",
+    "picture_copyright": "Monéphil",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "Brent Townsend"
+    ],
+    "description": "Polar bear facing right",
+    "lettering": "CANADA\r\n2 DOLLARS\r\nBT",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/canada/3227-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/3227-180.jpg",
+    "picture_copyright": "Monéphil",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/5c9a993754a1c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5c9a993754a1c.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\n2010 has 2 distinct edge varieties 14 ridges 15 grooves and 16 ridges 17 grooves. These 2 varieties are pictured in the comment section of the listing and need to be listed separately for year 2010 because they normally have different values.",
+  "related_types": [
+    {
+      "id": 479,
+      "title": "2 Dollars - Elizabeth II (4th portrait; Maple leaf logo)",
+      "category": "coin",
+      "country": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "minYear": 2003,
+      "maxYear": 2006
+    },
+    {
+      "id": 50006,
+      "title": "2 Dollars - Elizabeth II (Polar Bear)",
+      "category": "coin",
+      "country": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "minYear": 2006,
+      "maxYear": 2006
+    },
+    {
+      "id": 3451,
+      "title": "2 Dollars - Elizabeth II (Churchill)",
+      "category": "coin",
+      "country": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "minYear": 2006,
+      "maxYear": 2006
+    },
+    {
+      "id": 37534,
+      "title": "2 Dollars - Elizabeth II (Test pattern token set)",
+      "category": "coin",
+      "country": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "minYear": 2011,
+      "maxYear": 2011
+    },
+    {
+      "id": 32192,
+      "title": "2 Dollars - Elizabeth II (Polar bear, with security features)",
+      "category": "coin",
+      "country": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "minYear": 2012,
+      "maxYear": 2022
+    }
+  ],
+  "tags": [
+    "Bear"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "837"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "525"
+    }
+  ],
+  "weight": 7.3,
+  "orientation": "medal",
+  "edge": {
+    "description": "Interrupted reeding (5 smooth and 5 reeded sections)",
+    "picture": "https://en.numista.com/catalogue/photos/canada/694ad47dafa3a9.13668858-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/694ad47dafa3a9.13668858-180.jpg",
+    "picture_copyright": "ZacUK"
+  },
+  "mints": [
+    {
+      "id": 19,
+      "name": "Royal Canadian Mint of Ottawa"
+    },
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

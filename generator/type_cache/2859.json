@@ -1,0 +1,123 @@
+{
+  "id": 2859,
+  "url": "https://en.numista.com/2859",
+  "title": "20 Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "cuba",
+    "name": "Cuba"
+  },
+  "min_year": 1969,
+  "max_year": 2021,
+  "ruler": [
+    {
+      "id": 4118,
+      "name": "Second Republic",
+      "wikidata_id": "Q241"
+    }
+  ],
+  "value": {
+    "text": "20 Centavos",
+    "numeric_value": 0.2,
+    "currency": {
+      "id": 148,
+      "name": "Cuban Peso",
+      "full_name": "Cuban Peso (moneda nacional, 1914-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24,
+  "thickness": 2.15,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium (aluminium 97.15%, magnesium 2.5%, manganese 0.35%)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Charles Edward Barber"
+    ],
+    "description": "Cuban coat of arms, country name as a curved legend on top, face value in letters as a curved legend on bottom, line of denticles close to rim",
+    "lettering": "REPUBLICA DE CUBA\r\n• VEINTE CENTAVOS •",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Cuba\r\nTwenty Centavos",
+    "picture": "https://en.numista.com/catalogue/photos/cuba/41-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/cuba/41-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Charles Edward Barber"
+    ],
+    "description": "Value in Roman numerals in circle over a five-pointed star, motto \"Fatherland or Death\" as curved legend on top, date on excergue`, line of denticles close to rim.",
+    "lettering": "PATRIA O MUERTE \r\nXX\r\n• 2006 •",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Fatherland or Death\r\nXX (20)\r\n2006",
+    "picture": "https://en.numista.com/catalogue/photos/cuba/42-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/cuba/42-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "KM# 35.1 was minted ad Kremnica<br />\r\nKM# 35.2 was minted at Havana<br />\r\nN/D KM# 35.2 was minted at Havana<br /><br />\r\n<span style=\"font-weight:bold;\">NOTE:</span> N/D Issue is believed to be minted from a dies trial, by mistake, a certain quantity of coins was added to bags sent to circulation, but it is not known the year when it happened, nor the quantity of circulating coins.<br />\r\nData given on Krause catalog is wrong, cause this series of coins (KM# 35.2) started being minted at Havana minthouse on 2002. Krause gives minting year of N/D coin as 1980; it does not make sense to mint a trial 22 years before of first issue.<br />\r\nAlso on last edition of Krause are listed KM# 35.1 issues 2002, 2003, 2005, 2006, 2007, which is wrong, cause these years only were minted at Havana; KM# 35.1 variant was only minted at Kremnica (new dies were produced to mint at Havana, with differences that caused the variant KM# 35.2); please note the picture shown at Krause is the 1969 issue.<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5d2f31cb974f4.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d2f31cb974f4.jpg\" alt=\"\" width=\"200\" height=\"201\" /></a> <a href=\"https://en.numista.com/catalogue/images/5d2f31f2ee7bd.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d2f31f2ee7bd.jpg\" alt=\"\" width=\"200\" height=\"199\" /></a> <a href=\"https://en.numista.com/catalogue/images/5d2f320721b15.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d2f320721b15.jpg\" alt=\"\" width=\"200\" height=\"199\" /></a><br />\r\nImages show KM# 35.1, minted at Kremnica, KM# 35.2(N/D), minted at Havana, and KM# 35.2, minted at Havana (dated issue). Design differences are easy to notice, specially the height and width of &quot;XX&quot; on center.<br /><br />\r\nKnown variations on year issues:<br />\r\n2010: another font type of date numerals, thin and wide date",
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "35"
+    },
+    {
+      "catalogue": {
+        "id": 984,
+        "code": "JMA"
+      },
+      "number": "62-64"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "33"
+    }
+  ],
+  "weight": 2,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 295,
+      "name": "Empresa Cubana de Acuñaciones"
+    },
+    {
+      "id": 1262,
+      "name": "Kremnica"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

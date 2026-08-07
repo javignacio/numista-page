@@ -1,0 +1,95 @@
+{
+  "id": 6165,
+  "url": "https://en.numista.com/6165",
+  "title": "10 Kuruş",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "turquie",
+    "name": "Turkey"
+  },
+  "min_year": 2009,
+  "max_year": 2022,
+  "ruler": [
+    {
+      "id": 2047,
+      "name": "Republic",
+      "wikidata_id": "Q43"
+    }
+  ],
+  "value": {
+    "text": "10 Kuruş",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 125,
+      "name": "New lira",
+      "full_name": "New lira (2005-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 18.5,
+  "thickness": 1.55,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass (65% Copper, 6% Nickel, 29% Zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Mustafa Kemal Atatürk facing left within a center circle",
+    "lettering": "TÜRKİYE CUMHURİYETİ",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Turkey",
+    "picture": "https://en.numista.com/catalogue/photos/turquie/2933-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/turquie/2933-180.jpg",
+    "picture_copyright": "AvrAlex (Belgorod, Russia)"
+  },
+  "reverse": {
+    "description": "Crescent and Star (National Emblem) above the value with a Rumi motif, the arabesques and geometric patterns of Islamic art, in the background and the date at the bottom",
+    "lettering": "10\r\nKURUŞ\r\n2009",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/turquie/2934-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/turquie/2934-180.jpg",
+    "picture_copyright": "AvrAlex (Belgorod, Russia)"
+  },
+  "comments": "Two types of year 2012: normal and bold",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1241"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "805"
+    }
+  ],
+  "weight": 3.15,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/turquie/2935-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/turquie/2935-180.jpg",
+    "picture_copyright": "AvrAlex (Belgorod, Russia)"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,122 @@
+{
+  "id": 552,
+  "url": "https://en.numista.com/552",
+  "title": "5 Drachmai - Constantine II (Regime of the Colonels)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "grece",
+    "name": "Greece"
+  },
+  "min_year": 1971,
+  "max_year": 1973,
+  "ruler": [
+    {
+      "id": 1261,
+      "name": "Constantine II",
+      "wikidata_id": "Q151773",
+      "group": {
+        "id": 471,
+        "name": "Kingdom of Greece • House of Schleswig-Holstein-Sonderburg-Glücksburg"
+      }
+    },
+    {
+      "id": 1253,
+      "name": "Regime of the Colonels",
+      "wikidata_id": "Q504081"
+    }
+  ],
+  "value": {
+    "text": "5 Drachmai",
+    "numeric_value": 5,
+    "currency": {
+      "id": 62,
+      "name": "Third modern drachma",
+      "full_name": "Third modern drachma (1954-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 28,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Vasos Falireas"
+    ],
+    "description": "The portrait of young Constantine II left, engraver's signature under it, date below.",
+    "lettering": "ΚωΝCΤaΝΤΙΝΟC ΒaCΙλΕΥC ΤωΝ ΕλλΗΝωΝ\r\nΒ. ΦaλΗΡΕaC\r\n·1973·",
+    "lettering_scripts": [
+      {
+        "name": "Greek"
+      }
+    ],
+    "lettering_translation": "Constantine King of the Greeks\r\nV. FALIREAS\r\n·1973·",
+    "picture": "https://en.numista.com/catalogue/photos/grece/832-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/grece/832-180.jpg",
+    "picture_copyright": "Ma collection de monnaies",
+    "picture_copyright_url": "https://monnaiesetvarietes.numista.com/"
+  },
+  "reverse": {
+    "engravers": [
+      "Vasos Falireas"
+    ],
+    "description": "Soldier in front of a phoenix (the emblem of the Junta), anniversary date and denomination below.",
+    "lettering": "ΒaCΙλΕΙΟΝ ΤΗC ΕλλaΔΟC\r\n21 aΠΡΙλΙΟΥ 1967\r\n5\r\n •  ΔΡaΧΜaΙ •",
+    "lettering_scripts": [
+      {
+        "name": "Greek"
+      }
+    ],
+    "lettering_translation": "Kingdom of Greece\r\nApril 21, 1967\r\n5 \r\nDrachmai",
+    "picture": "https://en.numista.com/catalogue/photos/grece/833-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/grece/833-180.jpg",
+    "picture_copyright": "Ma collection de monnaies",
+    "picture_copyright_url": "https://monnaiesetvarietes.numista.com/"
+  },
+  "commemorated_topic": "The Regime of the Colonels of 21 April 1967",
+  "comments": "1973<br />\r\n<span style=\"font-style:italic;\">Obverse</span><br />\r\nDie <span style=\"font-weight:bold;\">1</span> - narrow grave ` to Υ of ΒaCΙλΕΥC, large rough ῾ to Ε of ΕλλΗΝωΝ, short narrow grave ` to Η of ΕλλΗΝωΝ; no grave to E of ΦaλΗΡΕaC.<br />\r\nPicture: © Images courtesy of Alexandr Prokofyev.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/6240bc83581ff.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6240bc83581ff.jpg\" alt=\"\" width=\"200\" height=\"66\" /></a><br /><br />\r\nDie <span style=\"font-weight:bold;\">2</span> - wide grave ` to Υ of ΒaCΙλΕΥC, small rough ῾ to Ε of ΕλλΗΝωΝ, round grave ` to Η of ΕλλΗΝωΝ, grave to E of ΦaλΗΡΕaC.",
+  "tags": [
+    "Bird",
+    "Fantasy animal",
+    "Monarch"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "100"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "45"
+    }
+  ],
+  "weight": 9,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 1889,
+      "name": "National Mint of the Bank of Greece"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

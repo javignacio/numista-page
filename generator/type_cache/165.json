@@ -1,0 +1,155 @@
+{
+  "id": 165,
+  "url": "https://en.numista.com/165",
+  "title": "2 Rappen (Wreath; zinc)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "suisse",
+    "name": "Switzerland (1848-date)"
+  },
+  "min_year": 1942,
+  "max_year": 1946,
+  "ruler": [
+    {
+      "id": 2857,
+      "name": "Federal State",
+      "wikidata_id": "Q355857"
+    }
+  ],
+  "value": {
+    "text": "2 Rappen",
+    "numeric_value": 0.02,
+    "currency": {
+      "id": 82,
+      "name": "Franc",
+      "full_name": "Franc (1850-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1952-02-01"
+  },
+  "size": 20,
+  "thickness": 1.4,
+  "shape": "Round",
+  "composition": {
+    "text": "Zinc"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Alexander Hutter"
+    ],
+    "description": "Coat of arms of Switzerland on ornate shield. Oak branch to the right. Laurel branch to the left. Hat with feather above.",
+    "lettering": "HELVETIA \r\n1945",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Switzerland.",
+    "picture": "https://en.numista.com/catalogue/photos/suisse/60052173217e68.81229166-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suisse/60052173217e68.81229166-180.jpg",
+    "picture_copyright": "V.L. Nummus",
+    "picture_copyright_url": "http://www.vl-nummus.com/"
+  },
+  "reverse": {
+    "designers": [
+      "Alexander Hutter"
+    ],
+    "description": "Wreath formed of two laurel branches tied with a ribbon below.",
+    "lettering": "2\r\nB",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/suisse/60052173afbad9.15538151-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suisse/60052173afbad9.15538151-180.jpg",
+    "picture_copyright": "V.L. Nummus",
+    "picture_copyright_url": "http://www.vl-nummus.com/"
+  },
+  "series": "Coat of arms series",
+  "related_types": [
+    {
+      "id": 164,
+      "title": "2 Rappen (Wreath; bronze; light type)",
+      "category": "coin",
+      "country": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "minYear": 1850,
+      "maxYear": 1931
+    },
+    {
+      "id": 277863,
+      "title": "2 Rappen (Wreath; bronze; heavy type)",
+      "category": "coin",
+      "country": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "minYear": 1932,
+      "maxYear": 1941
+    }
+  ],
+  "tags": [
+    "Cross"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 1253,
+        "code": "HMZ 2"
+      },
+      "number": "1213"
+    },
+    {
+      "catalogue": {
+        "id": 962,
+        "code": "Divo/Tob19"
+      },
+      "number": "324"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "4.2b"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "16a"
+    },
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "19a"
+    }
+  ],
+  "weight": 2.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain."
+  },
+  "mints": [
+    {
+      "id": 247,
+      "name": "Bern"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

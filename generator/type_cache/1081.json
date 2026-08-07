@@ -1,0 +1,161 @@
+{
+  "id": 1081,
+  "url": "https://en.numista.com/1081",
+  "title": "20 Pesos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "mexique",
+    "name": "Mexico"
+  },
+  "min_year": 1985,
+  "max_year": 1990,
+  "ruler": [
+    {
+      "id": 4029,
+      "name": "United Mexican States/Mexican Republic",
+      "wikidata_id": "Q96"
+    }
+  ],
+  "value": {
+    "text": "20 Pesos",
+    "numeric_value": 20,
+    "currency": {
+      "id": 150,
+      "name": "Peso",
+      "full_name": "Peso (1863-1992)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1995-11-15"
+  },
+  "size": 21,
+  "thickness": 2.48,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The national coat of arms of Mexico (a Mexican golden eagle perched on a prickly pear cactus devouring a snake above a half-wreath of oak and laurel below and the legend forming the upper semicircle)",
+    "lettering": "ESTADOS UNIDOS MEXICANOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "United Mexican States",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/61afa37ec55f28.15799529-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/61afa37ec55f28.15799529-180.jpg",
+    "picture_copyright": "PCGS",
+    "picture_copyright_url": "https://www.pcgs.com/"
+  },
+  "reverse": {
+    "description": "Guadalupe Victoria (1st Mexican President) facing 3/4 forward and 5 points above (20 in Braille). Value and year to the left, mintmark to the right.",
+    "lettering": "⠃⠚\r\n$20\r\nMo\r\n1985\r\nG VICTORIA",
+    "lettering_scripts": [
+      {
+        "name": "Braille"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "20 Pesos\r\nGuadalupe Victoria",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/61afa3804aee43.34030044-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/61afa3804aee43.34030044-180.jpg",
+    "picture_copyright": "PCGS",
+    "picture_copyright_url": "https://www.pcgs.com/"
+  },
+  "comments": "There are 1985 coins with a short date (far from pearls, left on picture) and long date (near to pearls, right) serif &#039;1&#039; in 1985.<br />\r\nIn both the coins shown on the picture from erdvilla there is no period following the G in G VICTORIA and the G is touching the pearls.<br /><br />\r\nIn the third variety (picture from TMS) the G in G. VICTORIA is followed by a period, it is separated from the pearls and the 5 has a coiled tail.<br /><br />\r\nThe first and second varieties, with &#039;G&#039; touching the pearls:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/55ad63db28188.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/55ad63db28188.jpg\" alt=\"\" width=\"200\" height=\"103\" /></a> <a href=\"https://en.numista.com/catalogue/images/650815b835603.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/650815b835603.jpg\" alt=\"\" width=\"200\" height=\"100\" /></a><br />\r\n©erdvilla<br /><br />\r\nThe third variety, with &quot;G.&quot; separated from the pearls and with a period after the &quot;G&quot;:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/62ddb1be24845.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/62ddb1be24845.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\n©TMS",
+  "related_types": [
+    {
+      "id": 436496,
+      "title": "20 Pesos (Pattern; Guadalupe Victoria; Aluminium Bronze)",
+      "category": "coin",
+      "country": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "minYear": 1984,
+      "maxYear": 1984
+    },
+    {
+      "id": 436492,
+      "title": "20 Pesos (Pattern; Guadalupe Victoria; Silver)",
+      "category": "coin",
+      "country": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "minYear": 1986,
+      "maxYear": 1986
+    },
+    {
+      "id": 436488,
+      "title": "20 Pesos (Pattern; Guadalupe Victoria; Copper)",
+      "category": "coin",
+      "country": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "minYear": 1990,
+      "maxYear": 1990
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Eagle",
+    "Military leader",
+    "Politician",
+    "Coat of Arms",
+    "Wreath",
+    "Reptile"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "508"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "84"
+    },
+    {
+      "catalogue": {
+        "id": 2898,
+        "code": "Galst/Alfen"
+      },
+      "number": "X.32"
+    }
+  ],
+  "weight": 5.85,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/5ec04c818f5228.45013423-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/5ec04c818f5228.45013423-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 29,
+      "name": "Mexican Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

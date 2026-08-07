@@ -1,0 +1,130 @@
+{
+  "id": 3476,
+  "url": "https://en.numista.com/3476",
+  "title": "2 Nuevos Pesos (FAO)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "uruguay",
+    "name": "Uruguay"
+  },
+  "min_year": 1981,
+  "max_year": 1981,
+  "ruler": [
+    {
+      "id": 3897,
+      "name": "Oriental Republic of Uruguay",
+      "wikidata_id": "Q77"
+    }
+  ],
+  "value": {
+    "text": "2 Nuevos Pesos",
+    "numeric_value": 2,
+    "currency": {
+      "id": 297,
+      "name": "Nuevo peso",
+      "full_name": "Nuevo peso (1975-1993)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1991-11-30"
+  },
+  "size": 25.04,
+  "thickness": 1.95,
+  "shape": "Dodecagonal (12-sided)",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Five ears of wheat, date and short name of the country on bottom.\r\nThis coin was minted to adhere to Numismatic Program of FAO; it's part of the World Food Day set.",
+    "lettering": "1981 URUGUAY",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/5f05fe9e3aba42.11144698-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/5f05fe9e3aba42.11144698-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Value on center, around inscription for the event, and date of World Food Day",
+    "lettering": "DIA MUNDIAL DE LA ALIMENTACION\r\n2 N$\r\n16 DE OCTUBRE DE 1981",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/5f05fe9ecfd405.97166407-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/5f05fe9ecfd405.97166407-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "commemorated_topic": "World Food Day",
+  "comments": "Extra alloy at the &quot;2&quot; bottom:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5cfd4c10a155d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5cfd4c10a155d.jpg\" alt=\"\" width=\"200\" height=\"203\" /></a><br />\r\n© Akadotour<br />\r\nOther similar examples have been reported.",
+  "tags": [
+    "FAO"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "77"
+    },
+    {
+      "catalogue": {
+        "id": 709,
+        "code": "SA"
+      },
+      "number": "126"
+    },
+    {
+      "catalogue": {
+        "id": 2069,
+        "code": "CG"
+      },
+      "number": "124"
+    },
+    {
+      "catalogue": {
+        "id": 3175,
+        "code": "GL"
+      },
+      "number": "124.1.1"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "58"
+    }
+  ],
+  "weight": 7.1,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/6518cce521ef04.22082998-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/6518cce521ef04.22082998-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 1335,
+      "name": "Mint of Brazil"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

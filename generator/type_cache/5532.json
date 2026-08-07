@@ -1,0 +1,107 @@
+{
+  "id": 5532,
+  "url": "https://en.numista.com/5532",
+  "title": "50 Att",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "laos",
+    "name": "Laos"
+  },
+  "min_year": 1980,
+  "max_year": 1980,
+  "ruler": [
+    {
+      "id": 5457,
+      "name": "People’s Democratic Republic",
+      "wikidata_id": "Q819"
+    }
+  ],
+  "value": {
+    "text": "50 Att",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 90,
+      "name": "Lao PDR Kip",
+      "full_name": "Lao PDR Kip (1979-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 26,
+  "thickness": 1.95,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms of Laos (1975-1991 version)",
+    "lettering": "ສາທາລະນະລັດ ປະຊາທິປະໄຕ ປະຊາຊົນລາວ",
+    "lettering_scripts": [
+      {
+        "name": "Lao"
+      }
+    ],
+    "lettering_translation": "Lao People's Democratic Republic",
+    "picture": "https://en.numista.com/catalogue/photos/laos/25-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/laos/25-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Denomination in Arabic and Lao numbers.\r\nTilapia fish and date flanked by palm trees.",
+    "lettering": "50\r\nຫ້າສິບອັດ\r\n1980",
+    "lettering_scripts": [
+      {
+        "name": "Lao"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "50 (symbols 5 (ຫ້າ) and 10 (ສິບ)) att (ອັດ)",
+    "picture": "https://en.numista.com/catalogue/photos/laos/26-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/laos/26-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "tags": [
+    "Fish",
+    "Coat of Arms",
+    "Hammer and sickle"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "24"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "21"
+    }
+  ],
+  "weight": 2.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Milled",
+    "picture": "https://en.numista.com/catalogue/photos/laos/61166d31b1f970.81938886-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/laos/61166d31b1f970.81938886-180.jpg",
+    "picture_copyright": "Jabin2001"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

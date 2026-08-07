@@ -1,0 +1,102 @@
+{
+  "id": 189757,
+  "url": "https://en.numista.com/189757",
+  "title": "½ Crown - Edward VIII (Pattern)",
+  "object_type": {
+    "id": 6,
+    "name": "Patterns"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1937,
+  "max_year": 1937,
+  "ruler": [
+    {
+      "id": 273,
+      "name": "Edward VIII",
+      "wikidata_id": "Q590227",
+      "group": {
+        "id": 527,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "½ Crown",
+    "numeric_value": 0.125,
+    "numerator": 1,
+    "denominator": 8,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1971)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 32,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.500)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Thomas Humphrey Paget"
+    ],
+    "description": "Uncrowned portrait of King Edward VIII left, legend around.",
+    "lettering": "EDWARDVS VIII D : G : BR : OMN : REX\r\nHP",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Edward the Eighth by the Grace of God King of All the Britains",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/10739-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/10739-180.jpg",
+    "picture_copyright": "Royal Mint Museum",
+    "picture_copyright_url": "http://www.royalmintmuseum.org.uk/"
+  },
+  "reverse": {
+    "engravers": [
+      "George Kruger Gray"
+    ],
+    "description": "Quartered standard depicting the royal arms, flanked by crowned royal cypher, legend around, date and denomination below.",
+    "lettering": "FID : DEF : IND : IMP\r\n·K·G·\r\nHALF · CROWN · 1937",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Defender of the Faith, Emperor of India",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/10740-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/10740-180.jpg",
+    "picture_copyright": "Royal Mint Museum",
+    "picture_copyright_url": "http://www.royalmintmuseum.org.uk/"
+  },
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "Pn130"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "4063"
+    }
+  ],
+  "weight": 14.12,
+  "orientation": "medal",
+  "category": "coin",
+  "type": "Patterns"
+}

@@ -1,0 +1,140 @@
+{
+  "id": 875,
+  "url": "https://en.numista.com/875",
+  "title": "5 Pence - Elizabeth II (3rd portrait; small type)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1990,
+  "max_year": 1997,
+  "ruler": [
+    {
+      "id": 275,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 527,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Pence",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 126,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (decimalized, 1971-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 18,
+  "thickness": 1.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Cu, 25% Ni)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Raphael David Maklouf"
+    ],
+    "description": "Third crowned portrait of Queen Elizabeth II right, wearing the George IV State Diadem, legend around.",
+    "lettering": "ELIZABETH II D·G·REG·F·D·1992\r\nRDM",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Elizabeth II Dei Gratia Regina Fidei Defensatrix",
+    "lettering_translation": "Elizabeth II by the Grace of God Queen Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/7600-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/7600-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Christopher Ironside"
+    ],
+    "description": "The Badge of Scotland, a thistle royally crowned, legend above, denomination below.",
+    "lettering": "FIVE PENCE\r\n5",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/208-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/208-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "There were no business strikes issued for circulation in 1993; coins bearing this date were available in BU and Proof sets only.<br /><br />\r\n<span style=\"font-style:italic;\">Obverse die varieties:</span><br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/6217b4e9e0aff.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6217b4e9e0aff.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\n<span style=\"font-weight:bold;\">Obverse A</span> <span style=\"font-style:italic;\">(1990)</span> 92 pearls, last I in II at a pearl, E in REG at a pearl;<br />\r\n<span style=\"font-weight:bold;\">Obverse B</span> <span style=\"font-style:italic;\">(1991, 1994-97)</span> 91 pearls, last I in II at a pearl, E in REG between pearls;<br />\r\n<span style=\"font-weight:bold;\">Obverse C</span> <span style=\"font-style:italic;\">(1992 &amp; 1997)</span> 92 pearls, last I in II between pearls, E in REG at a pearl;<br /><br />\r\nInformation has been received to suggest that 1990-97 BU and Proof sets were struck with Obverse C but this is yet to be confirmed.<br /><br />\r\n<span style=\"font-style:italic;\">Rounded/square edge varieties</span><br /><br />\r\nReports have been received regarding rounded/wire edge and squared/flat edge varieties for the 1992 issues. The existence of this variation is common knowledge for the <a href=\"https://en.numista.com/879\">10 pence</a> but is less well documented for this type.<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5c692b3ebbe75.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5c692b3ebbe75.jpg\" alt=\"\" width=\"200\" height=\"78\" /></a><br />\r\n© Amer Salmeh",
+  "related_types": [
+    {
+      "id": 79145,
+      "title": "5 Pence - Elizabeth II (3rd portrait; small type, Silver Piedfort)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1990,
+      "maxYear": 1990
+    },
+    {
+      "id": 43787,
+      "title": "5 Pence - Elizabeth II (3rd portrait; small type, Silver Proof)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1990,
+      "maxYear": 1996
+    }
+  ],
+  "tags": [
+    "Crown"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "937b"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "D4"
+    }
+  ],
+  "weight": 3.25,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

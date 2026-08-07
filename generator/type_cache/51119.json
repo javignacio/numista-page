@@ -1,0 +1,91 @@
+{
+  "id": 51119,
+  "url": "https://en.numista.com/51119",
+  "title": "1 Dram (Wolf)",
+  "object_type": {
+    "id": 8,
+    "name": "Fantasy coins"
+  },
+  "issuer": {
+    "code": "haut-karabagh",
+    "name": "Artsakh"
+  },
+  "min_year": 2013,
+  "max_year": 2013,
+  "ruler": [
+    {
+      "id": 2050,
+      "name": "Republic",
+      "wikidata_id": "Q244165"
+    }
+  ],
+  "value": {
+    "text": "1 Dram",
+    "numeric_value": 1,
+    "currency": {
+      "id": 9494,
+      "name": "Dram",
+      "full_name": "Dram (2003-2023)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21.7,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "National Coat of arms of the Nagorno-Karabakh Republic.",
+    "lettering": "NAGORNO-KARABAKH \r\nԼԵՌՆԱՅԻՆ ՂԱՐԱԲԱՂԻ ՀԱՆՐԱՊԵՏՈՒԹՅՈՒՆ\r\nԱՐՑԱԽ\r\nREPUBLIC",
+    "lettering_scripts": [
+      {
+        "name": "Armenian"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Nagorno-Karabakh Republic\r\nArtsakh",
+    "picture": "https://en.numista.com/catalogue/photos/haut-karabagh/6724dcea0cd9a5.53527998-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/haut-karabagh/6724dcea0cd9a5.53527998-180.jpg",
+    "picture_copyright": "Heinz-Uwe"
+  },
+  "reverse": {
+    "description": "Wolf to the right.",
+    "lettering": "1 DRAM\r\n2013",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/haut-karabagh/6724dcea858f11.75944092-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/haut-karabagh/6724dcea858f11.75944092-180.jpg",
+    "picture_copyright": "Heinz-Uwe"
+  },
+  "tags": [
+    "Dog or canid",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "28"
+    }
+  ],
+  "weight": 1.13,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "category": "exonumia",
+  "type": "Fantasy coins"
+}

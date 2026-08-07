@@ -1,0 +1,152 @@
+{
+  "id": 686,
+  "url": "https://en.numista.com/686",
+  "title": "20 Francs (signature \"G GUIRAUD\")",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "france",
+    "name": "France"
+  },
+  "min_year": 1950,
+  "max_year": 1954,
+  "ruler": [
+    {
+      "id": 10,
+      "name": "Fourth Republic",
+      "wikidata_id": "Q69829",
+      "group": {
+        "id": 89,
+        "name": "Modern France"
+      }
+    }
+  ],
+  "value": {
+    "text": "20 Francs",
+    "numeric_value": 20,
+    "currency": {
+      "id": 303,
+      "name": "Franc",
+      "full_name": "Franc (1795-1959)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1970-06-30"
+  },
+  "size": 23.5,
+  "thickness": 1.66,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-aluminium (91% Copper, 9% Aluminium)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Georges Guiraud"
+    ],
+    "description": "Portrait of Marianne facing left, designer, legend",
+    "lettering": "REPUBLIQUE FRANÇAISE\r\nG GUIRAUD",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "French Republic",
+    "picture": "https://en.numista.com/catalogue/photos/france/10519-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/10519-180.jpg",
+    "picture_copyright": "Subli37",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Georges Guiraud"
+    ],
+    "description": "Rooster facing right, laurel branch, value, year of production, pattern around edge.\r\nNOTE: If there is a B mintmark it is below date\r\nNOTE: To see which feathers you have to count, look at the six horizontal tail feathers of the rooster. If all six horizontal feathers are visible, there are three curved feathers before them - if they are not all visible, there are four curved feathers.",
+    "lettering": "20\r\nFRANCS\r\n1952\r\nLIBERTE EGALITE FRATERNITE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Liberty Equality Brotherhood",
+    "picture": "https://en.numista.com/catalogue/photos/france/10520-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/10520-180.jpg",
+    "picture_copyright": "Subli37",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "series": "Francs Guiraud",
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/5902a3113508a.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5902a3113508a.png\" alt=\"\" width=\"200\" height=\"200\" /></a><br /><br />\r\nNOTE: Signature shortened (compare KM#916; in full length)",
+  "related_types": [
+    {
+      "id": 7917,
+      "title": "20 Francs (signature \"GEORGES GUIRAUD\")",
+      "category": "coin",
+      "country": {
+        "code": "france",
+        "name": "France"
+      },
+      "minYear": 1950,
+      "maxYear": 1950
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Allegory"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 34,
+        "code": "Franc 2014"
+      },
+      "number": "402"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "917"
+    },
+    {
+      "catalogue": {
+        "id": 109,
+        "code": "Gad 1789"
+      },
+      "number": "865"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "222"
+    }
+  ],
+  "weight": 4,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/france/61576809def4b6.40328708-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/61576809def4b6.40328708-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    },
+    {
+      "id": 72,
+      "name": "Beaumont-le-Roger"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

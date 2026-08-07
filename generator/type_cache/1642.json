@@ -1,0 +1,112 @@
+{
+  "id": 1642,
+  "url": "https://en.numista.com/1642",
+  "title": "25 Satang - Rama IX",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "thailande",
+    "name": "Thailand"
+  },
+  "min_year": 1987,
+  "max_year": 2008,
+  "ruler": [
+    {
+      "id": 1905,
+      "name": "Bhumibol Adulyadej (Rama IX)",
+      "wikidata_id": "Q855252",
+      "group": {
+        "id": 65,
+        "name": "Chakri dynasty"
+      }
+    }
+  ],
+  "value": {
+    "text": "25 Satangs",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 4,
+      "name": "Baht",
+      "full_name": "Baht (1897-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 16,
+  "thickness": 1.34,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze (92% Copper, 6% Aluminium, 2% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Wuthichai Saengngoen"
+    ],
+    "description": "Bhumibol Adulyadej (Rama IX) facing left",
+    "lettering": "ภูมิพลอดุลยเดช  รัชกาลที่๙",
+    "lettering_scripts": [
+      {
+        "name": "Thai"
+      }
+    ],
+    "lettering_translation": "Bhumibol Adulyadej Rama IX",
+    "picture": "https://en.numista.com/catalogue/photos/thailande/132-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/thailande/132-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Stupa of Wat Phra Mahathat Vihon and the denomination below",
+    "lettering": "ประเทศไทย พ.ศ.๒๕๔๗\r\n๒๕ สตางค์ 25",
+    "lettering_scripts": [
+      {
+        "name": "Thai"
+      }
+    ],
+    "unabridged_legend": "ประเทศไทย พุทธศักราช ๒๕๔๗",
+    "lettering_translation": "Thailand Buddhistic Era 2004\r\n25 Satang 25",
+    "picture": "https://en.numista.com/catalogue/photos/thailande/133-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/thailande/133-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "MTO coins exist:<br />\r\n- 2542 MTO sets of copper-silver-gold, 16~18 sets believed to be made. (set of copper-silver-gold 1 Satang to 5 Baht series)<br />\r\n- Coins dated 2540 struck on Aluminium planchet exist; PCGS <a href=\"https://www.pcgs.com/cert/80717148\" rel=\"nofollow\">#80717148</a>, PCGS <a href=\"https://www.pcgs.com/cert/80717148\" rel=\"nofollow\">#80763607</a>, PCGS <a href=\"https://www.pcgs.com/cert/37982047\" rel=\"nofollow\">#37982047</a>. (set of aluminium 25-50 Satang 2540)<br />\r\n- Coins struck as double obverse; PCGS <a href=\"https://www.pcgs.com/cert/80717153\" rel=\"nofollow\">#80717153</a>, NGC <a href=\"https://www.ngccoin.com/certlookup/4623208-001/64/\" rel=\"nofollow\">#4623208-001</a>. (set of double obverse and double reverse 25-50 Satang 2532)<br />\r\n- Coins dated 2532 struck as double reverse; PCGS <a href=\"https://www.pcgs.com/cert/80717154\" rel=\"nofollow\">#80717154</a>. (set of double obverse and double reverse 25-50 Satang 2532)<br />\r\n- Coin dated 2532 struck as medal alignment; PCGS <a href=\"https://www.pcgs.com/cert/80717159\" rel=\"nofollow\">#80717159</a>. (set of medal alignment 25 Satang to 5 Baht 2532)",
+  "tags": [
+    "Religious building",
+    "Monarch"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "187"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "152"
+    }
+  ],
+  "weight": 1.9,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/thailande/69303cd01e2684.97026431-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/thailande/69303cd01e2684.97026431-180.jpg",
+    "picture_copyright": "Dieter83"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

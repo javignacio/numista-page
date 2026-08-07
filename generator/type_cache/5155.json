@@ -1,0 +1,139 @@
+{
+  "id": 5155,
+  "url": "https://en.numista.com/5155",
+  "title": "5 Guaraníes (FAO)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "paraguay",
+    "name": "Paraguay"
+  },
+  "issuing_entity": {
+    "id": 935,
+    "name": "Central Bank of Paraguay",
+    "wikidata_id": "Q4504275"
+  },
+  "min_year": 1992,
+  "max_year": 1992,
+  "ruler": [
+    {
+      "id": 4650,
+      "name": "Republic",
+      "wikidata_id": "Q733"
+    }
+  ],
+  "value": {
+    "text": "5 Guaraníes",
+    "numeric_value": 5,
+    "currency": {
+      "id": 87,
+      "name": "Guarani",
+      "full_name": "Guarani (1944-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2014-01-17"
+  },
+  "size": 17,
+  "thickness": 1.25,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass (Nickel bronze)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Name of the country, half-length woman's figure with jug looking right",
+    "lettering": "REPUBLICA DEL PARAGUAY\r\nMUJER PARAGUAYA\r\n1992",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Paraguay\r\nParaguayan woman",
+    "picture": "https://en.numista.com/catalogue/photos/paraguay/605ab56b89a585.50549232-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/paraguay/605ab56b89a585.50549232-180.jpg",
+    "picture_copyright": "CGB",
+    "picture_copyright_url": "http://www.cgb.fr"
+  },
+  "reverse": {
+    "description": "Cotton plant, value and year of issue below",
+    "lettering": "ALIMENTOS PARA EL MUNDO\r\n5 GUARANIES",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Food for the world\r\n5 guaraníes",
+    "picture": "https://en.numista.com/catalogue/photos/paraguay/605ab4c0370a03.22949023-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/paraguay/605ab4c0370a03.22949023-180.jpg",
+    "picture_copyright": "CGB",
+    "picture_copyright_url": "http://www.cgb.fr"
+  },
+  "related_types": [
+    {
+      "id": 5154,
+      "title": "5 Guaraníes",
+      "category": "coin",
+      "country": {
+        "code": "paraguay",
+        "name": "Paraguay"
+      },
+      "minYear": 1975,
+      "maxYear": 1975
+    },
+    {
+      "id": 4973,
+      "title": "5 Guaraníes (FAO)",
+      "category": "coin",
+      "country": {
+        "code": "paraguay",
+        "name": "Paraguay"
+      },
+      "minYear": 1978,
+      "maxYear": 1986
+    }
+  ],
+  "tags": [
+    "Agriculture",
+    "FAO"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "166a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "191"
+    }
+  ],
+  "weight": 2,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/paraguay/6117fe73882e01.57025417-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/paraguay/6117fe73882e01.57025417-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

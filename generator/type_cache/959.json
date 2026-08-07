@@ -1,0 +1,135 @@
+{
+  "id": 959,
+  "url": "https://en.numista.com/959",
+  "title": "20 Centavos (Type 2 National Emblem)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "mexique",
+    "name": "Mexico"
+  },
+  "min_year": 1955,
+  "max_year": 1971,
+  "ruler": [
+    {
+      "id": 4029,
+      "name": "United Mexican States/Mexican Republic",
+      "wikidata_id": "Q96"
+    }
+  ],
+  "value": {
+    "text": "20 Centavos",
+    "numeric_value": 0.2,
+    "currency": {
+      "id": 150,
+      "name": "Peso",
+      "full_name": "Peso (1863-1992)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 28.5,
+  "thickness": 2.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass (95% Copper, 5% Zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The Mexican coat of arms with the bigger emblem at the top, supported at the bottom by a wreath and an eagle facing left",
+    "lettering": "ESTADOS UNIDOS MEXICANOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "United Mexican States",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/4397-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/4397-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "description": "The value is at the top with the radiant Liberty cap in between, and the mintmark underneath. The pyramid in the center motive of the landscape along with volcanoes and flora is under the sun which divides the denomination and is above the mintmark. The location of the pyramid, Teotihuacán, is written at the pyramid's base. The volcanoes Ixtaccihuatl and Popocatepetl are in the background.",
+    "lettering": "2 LIBERTAD 0 \r\nMo\r\nTEOTIHUACÁN\r\nCENTAVOS\r\n1960",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "20 Centavos",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/4398-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/4398-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/5dbc88a2871b7.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5dbc88a2871b7.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "related_types": [
+    {
+      "id": 3933,
+      "title": "20 Centavos (Type 1 National Emblem)",
+      "category": "coin",
+      "country": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "minYear": 1943,
+      "maxYear": 1955
+    },
+    {
+      "id": 3471,
+      "title": "20 Centavos (Type 3 National Emblem)",
+      "category": "coin",
+      "country": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "minYear": 1971,
+      "maxYear": 1974
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Eagle",
+    "Desert",
+    "Mountain",
+    "Phrygian cap"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "440"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "51"
+    }
+  ],
+  "weight": 10,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/627eaef1cb5d05.12303406-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/627eaef1cb5d05.12303406-180.jpg",
+    "picture_copyright": "Harryg",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 29,
+      "name": "Mexican Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

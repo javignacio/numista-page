@@ -1,0 +1,131 @@
+{
+  "id": 1231,
+  "url": "https://en.numista.com/1231",
+  "title": "10 Agorot",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "israel",
+    "name": "Israel"
+  },
+  "min_year": 1960,
+  "max_year": 1977,
+  "ruler": [
+    {
+      "id": 4056,
+      "name": "State of Israel",
+      "wikidata_id": "Q801"
+    }
+  ],
+  "value": {
+    "text": "10 Agorot",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 9318,
+      "name": "Pound",
+      "full_name": "Pound (1960-1980)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 21.5,
+  "thickness": 1.73,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze (92% Copper, 6% Aluminium, 2% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Date palm tree",
+    "lettering": "ישראל اسرائيل",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      },
+      {
+        "name": "Hebrew"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/israel/2266-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/israel/2266-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "reverse": {
+    "engravers": [
+      "Gabriel Shamir",
+      "Maxim Shamir"
+    ],
+    "description": "Value",
+    "lettering": "10\r\nאגורות\r\nתשל\"א",
+    "lettering_scripts": [
+      {
+        "name": "Hebrew"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/israel/2267-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/israel/2267-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "comments": "Date of Issue: 6th May, 1960<br /><br />\r\nHow to understand if 1961 is with “Fatha” in Arabic legend: small line over letter ra (ر‎) in “Israel”:<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5dcb203c6b82f.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5dcb203c6b82f.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\n1974 bold and fine:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/63f28d0fbe808.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/63f28d0fbe808.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5ef9dc5df1307.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5ef9dc5df1307.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nOf the coins dated 5721 (1961) without &quot;Fatha,&quot; 95,000 were minted by the Bern mint, 5,000,000 were minted by the Kings Norton Mint, and 7,726,000 were minted by the Jerusalem Mint.<br />\r\nOf the coins dated 5732 (1972), 1,260,000 were minted by the Jerusalem Mint and 18,393,112 were minted by the Bern Mint.<br />\r\nOf the coins dated 5733 (1973), 5,625,000 were minted by the Jerusalem Mint and 10,580,000 were minted by the Ottawa Mint.<br />\r\nOf the coins dated 5734 (1974), 3,880,000 were minted by the Jerusalem Mint and 18,160,000 were minted by the Ottawa Mint.<br />\r\nOf the coins dated 5736 (1976), 34,870,000 were minted by the Jerusalem Mint and 20,000,000 were minted by the Ottawa Mint.",
+  "related_types": [
+    {
+      "id": 20723,
+      "title": "10 Agorot (Year set issue; With Star of David)",
+      "category": "coin",
+      "country": {
+        "code": "israel",
+        "name": "Israel"
+      },
+      "minYear": 1971,
+      "maxYear": 1972
+    }
+  ],
+  "tags": [
+    "Tree"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "26"
+    }
+  ],
+  "weight": 4.34,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/israel/614e0a8365b3b1.95312263-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/israel/614e0a8365b3b1.95312263-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 247,
+      "name": "Bern"
+    },
+    {
+      "id": 4358,
+      "name": "Government Printer - Israel Mint"
+    },
+    {
+      "id": 1540,
+      "name": "Jerusalem"
+    },
+    {
+      "id": 31,
+      "name": "Kings Norton Metal Company"
+    },
+    {
+      "id": 19,
+      "name": "Royal Canadian Mint of Ottawa"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

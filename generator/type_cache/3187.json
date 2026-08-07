@@ -1,0 +1,115 @@
+{
+  "id": 3187,
+  "url": "https://en.numista.com/3187",
+  "title": "5 Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "honduras",
+    "name": "Honduras"
+  },
+  "min_year": 1975,
+  "max_year": 1989,
+  "ruler": [
+    {
+      "id": 4001,
+      "name": "Republic",
+      "wikidata_id": "Q783"
+    }
+  ],
+  "value": {
+    "text": "5 Centavos",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 101,
+      "name": "Lempira",
+      "full_name": "Lempira (1931-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21,
+  "thickness": 1.68,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass (70% Copper, 30% Zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of Arms\r\n\r\nNOTE: size of letters",
+    "lettering": "REPUBLICA DE HONDURAS\r\nREPªDE·HONDURAS·LIBRE·SOBERANA·INDEPENDIENTE\r\n·15 SEPTBRE 1821·\r\n1989",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Honduras \r\nRepublic of Honduras, Free, Sovereign and Independent\r\n15th September, 1821",
+    "picture": "https://en.numista.com/catalogue/photos/honduras/577-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/honduras/577-180.jpg",
+    "picture_copyright": "Edo Timmermans",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Value within laurel wreath",
+    "lettering": "CINCO\r\n5\r\nCENTAVOS\r\nDE\r\nLEMPIRA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Five\r\n5\r\nCentavos\r\nof a\r\nLempira",
+    "picture": "https://en.numista.com/catalogue/photos/honduras/578-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/honduras/578-180.jpg",
+    "picture_copyright": "Edo Timmermans",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p>1. Lempira, the present currency of Honduras, was introduced in 1931 replacing the Peso. The Lempira is divided into 100 Centavos.<br><br>The currency is named after Lempira, a chieftain of the indigenous Lenca people, who waged war against Spanish occupation of the country during the 16th century. He is revered as a national hero.<br><br>2. Sept. 15, 1821, within the Coat of Arms commemorates the day when 5 Central American countries including Honduras gained independence from Spanish rule. 15th Sept is celebrated as the National Day of Honduras.</p>",
+  "tags": [
+    "Coat of Arms",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "72.2a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "36"
+    }
+  ],
+  "weight": 3.2,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    },
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    },
+    {
+      "id": 4157,
+      "name": "VDM Metals / Vereinigte Deutsche Metallwerke"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,118 @@
+{
+  "id": 5310,
+  "url": "https://en.numista.com/5310",
+  "title": "½ Sol de Oro",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "perou",
+    "name": "Peru"
+  },
+  "issuing_entity": {
+    "id": 936,
+    "name": "Central Reserve Bank of Peru",
+    "wikidata_id": "Q932146"
+  },
+  "min_year": 1935,
+  "max_year": 1965,
+  "ruler": [
+    {
+      "id": 3757,
+      "name": "Republic",
+      "wikidata_id": "Q419"
+    }
+  ],
+  "value": {
+    "text": "½ Sol",
+    "numeric_value": 0.5,
+    "numerator": 1,
+    "denominator": 2,
+    "currency": {
+      "id": 218,
+      "name": "Sol",
+      "full_name": "Sol (1863-1930) / Sol de Oro (1931-1985)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 27,
+  "thickness": 1.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass (See alloys in comments section)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The arms of Peru",
+    "picture": "https://en.numista.com/catalogue/photos/perou/1205-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/1205-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "reverse": {
+    "description": "The value in the centre circle and the date below",
+    "lettering": ".EL BANCO  CENTRAL  DE RESERVA  DEL PERU.\r\nPAGARA AL PORTADOR\r\n1/2 SOL DE ORO\r\n1962",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Reserve Bank of Peru\r\nWill Pay the Carrier\r\n1/2 Sol de Oro\r\n1962",
+    "picture": "https://en.numista.com/catalogue/photos/perou/1206-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/1206-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "comments": "KM Sub# from 1935 to 1965 with definitions<br />\r\n<a href=\"https://en.numista.com/catalogue/images/634ff50ac577d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/634ff50ac577d.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\n1942 Long top 2<br />\r\n<a href=\"https://en.numista.com/catalogue/images/6340112a9516d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6340112a9516d.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\n1961 narrow &amp; wide dates<br />\r\n<a href=\"https://en.numista.com/catalogue/images/634014c0e3116.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/634014c0e3116.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nReference numbers:<br />\r\nKM#220.3: The coins struck in Philadelphia and San Francisco have a serif on the “4” of the date; the Lima and London coins do not.<br />\r\nKM#220.4: Dates 1941-44 have thick flat-top &quot;4&quot; without serifs. 1945 has narrow 4 like KM#220.5.<br />\r\nKM#220.5: 1942, 1944 AP, and all 1945-49 have narrow 4 without serif on the crossbar. 1944 without AP has flattop &quot;4&quot; like KM#220.4. Engraver&#039;s initials AP appear on wreath stems of some 1944-45, all 1946 and some 1947 coins. Varieties exist, including narrow and wide dates for 1956 and 1961 issues.",
+  "tags": [
+    "Coat of Arms",
+    "Cornucopia"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "220"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "23"
+    }
+  ],
+  "weight": 7.4,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/perou/64a09967614416.13552313-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/64a09967614416.13552313-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 297,
+      "name": "Lima"
+    },
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    },
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    },
+    {
+      "id": 12,
+      "name": "United States Mint of San Francisco"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

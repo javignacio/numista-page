@@ -1,0 +1,107 @@
+{
+  "id": 1326,
+  "url": "https://en.numista.com/1326",
+  "title": "10 000 Lira",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "turquie",
+    "name": "Turkey"
+  },
+  "min_year": 1994,
+  "max_year": 2001,
+  "ruler": [
+    {
+      "id": 2047,
+      "name": "Republic",
+      "wikidata_id": "Q43"
+    }
+  ],
+  "value": {
+    "text": "10 000 Lira",
+    "numeric_value": 10000,
+    "currency": {
+      "id": 124,
+      "name": "Old lira",
+      "full_name": "Old lira (1923-2005)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2005-12-31"
+  },
+  "size": 23.5,
+  "thickness": 2.92,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass (69.5% Copper, 18% Zinc, 12% Nickel, 0.5% Manganese)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Portrait of Mustafa Kemal Atatürk facing left",
+    "lettering": "TÜRKİYE CUMHURİYETİ",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Turkey",
+    "picture": "https://en.numista.com/catalogue/photos/turquie/630693bf4204f4.55575680-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/turquie/630693bf4204f4.55575680-180.jpg",
+    "picture_copyright": "gyoschak",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Denomination with a Carnation flower (Dianthus caryophyllus),\r\nCrescent moon and star above, date below",
+    "lettering": "10 BİN\r\nLİRA\r\n1994",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "10 Thousand Lira",
+    "picture": "https://en.numista.com/catalogue/photos/turquie/630693bf79d172.89609609-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/turquie/630693bf79d172.89609609-180.jpg",
+    "picture_copyright": "gyoschak",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "thick flan = 2.85 - 2.95 mm / 9.70 - 9.95 g<br />\r\nthin flan = 2.10 - 2.15 mm / 6.75 - 6.83 g<br /><br />\r\nReeded with inscription &quot;T.C.&quot;:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/56bf642535a50.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/56bf642535a50.jpg\" alt=\"\" width=\"200\" height=\"21\" /></a><br />\r\n©Cyrillius<br /><br />\r\nT.C. edge can be found in either orientation: obverse up or obverse down while reading the edge lettering. 1997 specimens have been found with obverse up, 1999 specimens have been found with obverse down.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5ffa3ea7712fc.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5ffa3ea7712fc.jpg\" alt=\"\" width=\"200\" height=\"134\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5ffa3ec90cc36.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5ffa3ec90cc36.jpg\" alt=\"\" width=\"200\" height=\"116\" /></a>",
+  "tags": [
+    "Flower",
+    "Moon"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1027"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "559"
+    }
+  ],
+  "weight": 9.75,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded with inscription, \"TURKIYE CUMHURIYETI\" or \"T.C.\"",
+    "lettering": "TURKIYE CUMHURIYETI or T.C.",
+    "lettering_translation": "Republic of Turkey",
+    "picture": "https://en.numista.com/catalogue/photos/turquie/695d42a9e0ebb1.35056491-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/turquie/695d42a9e0ebb1.35056491-180.jpg",
+    "picture_copyright": "ZacUK"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,105 @@
+{
+  "id": 583,
+  "url": "https://en.numista.com/583",
+  "title": "50 Centavos (large type)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "mexique",
+    "name": "Mexico"
+  },
+  "min_year": 1992,
+  "max_year": 2009,
+  "ruler": [
+    {
+      "id": 4029,
+      "name": "United Mexican States/Mexican Republic",
+      "wikidata_id": "Q96"
+    }
+  ],
+  "value": {
+    "text": "50 Centavos",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 271,
+      "name": "New Peso",
+      "full_name": "New Peso (1992-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 22,
+  "thickness": 1.78,
+  "shape": "Scalloped (with 12 notches)",
+  "composition": {
+    "text": "Aluminium bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "National emblem of Mexico (a Mexican golden eagle perched on a prickly pear cactus devouring a snake above a half-wreath of oak and laurel below and the legend forming the upper semicircle)",
+    "lettering": "ESTADOS UNIDOS MEXICANOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "United Mexican States",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/4301-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/4301-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "description": "Denominationin in center with date above, mint mark below and a partial border of the stylized designs from the Ring of Acceptance (Anillo de la Aceptación; a representation of the god’s acceptance of sacrifice) on the Aztec calendar stone (Piedra del Sol) around the bottom",
+    "lettering": "2008\r\n50¢\r\nMo",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/mexique/4302-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/4302-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/599ffb7033235.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/599ffb7033235.jpg\" alt=\"\" width=\"200\" height=\"171\" /></a>",
+  "tags": [
+    "Bird",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "549"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "145"
+    }
+  ],
+  "weight": 4.39,
+  "orientation": "coin",
+  "edge": {
+    "description": "Smooth (with 12 notches)",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/1904-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/1904-180.jpg",
+    "picture_copyright": "ZacUK"
+  },
+  "mints": [
+    {
+      "id": 29,
+      "name": "Mexican Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,166 @@
+{
+  "id": 46289,
+  "url": "https://en.numista.com/46289",
+  "title": "1 Diram",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "tadjikistan",
+    "name": "Tajikistan"
+  },
+  "min_year": 2011,
+  "max_year": 2011,
+  "ruler": [
+    {
+      "id": 1318,
+      "name": "Republic",
+      "wikidata_id": "Q863"
+    }
+  ],
+  "value": {
+    "text": "1 Diram",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 186,
+      "name": "Somoni",
+      "full_name": "Somoni (2000-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 14.5,
+  "thickness": 1,
+  "shape": "Round",
+  "composition": {
+    "text": "Plated steel (brass and copper plated)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "National Coat of Arms of Tajikistan, date below",
+    "lettering": "• ҶУМҲУРИИ ТОҶИКИСТОН •\r\n2011",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "Republic of Tajikistan",
+    "picture": "https://en.numista.com/catalogue/photos/tadjikistan/119-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/tadjikistan/119-180.jpg",
+    "picture_copyright": "atupr"
+  },
+  "reverse": {
+    "description": "Ornaments, denomination right",
+    "lettering": "1\r\nДИРАМ",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "1 Diram",
+    "picture": "https://en.numista.com/catalogue/photos/tadjikistan/120-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/tadjikistan/120-180.jpg",
+    "picture_copyright": "atupr"
+  },
+  "related_types": [
+    {
+      "id": 46290,
+      "title": "2 Diram",
+      "category": "coin",
+      "country": {
+        "code": "tadjikistan",
+        "name": "Tajikistan"
+      },
+      "minYear": 2011,
+      "maxYear": 2011
+    },
+    {
+      "id": 37461,
+      "title": "5 Diram",
+      "category": "coin",
+      "country": {
+        "code": "tadjikistan",
+        "name": "Tajikistan"
+      },
+      "minYear": 2011,
+      "maxYear": 2017
+    },
+    {
+      "id": 37462,
+      "title": "10 Diram",
+      "category": "coin",
+      "country": {
+        "code": "tadjikistan",
+        "name": "Tajikistan"
+      },
+      "minYear": 2011,
+      "maxYear": 2018
+    },
+    {
+      "id": 37463,
+      "title": "20 Diram",
+      "category": "coin",
+      "country": {
+        "code": "tadjikistan",
+        "name": "Tajikistan"
+      },
+      "minYear": 2011,
+      "maxYear": 2018
+    },
+    {
+      "id": 37464,
+      "title": "50 Diram",
+      "category": "coin",
+      "country": {
+        "code": "tadjikistan",
+        "name": "Tajikistan"
+      },
+      "minYear": 2011,
+      "maxYear": 2018
+    },
+    {
+      "id": 36789,
+      "title": "1 Somoni",
+      "category": "coin",
+      "country": {
+        "code": "tadjikistan",
+        "name": "Tajikistan"
+      },
+      "minYear": 2011,
+      "maxYear": 2017
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "35"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "27"
+    }
+  ],
+  "weight": 1.3,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 9,
+      "name": "Kazakhstan Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

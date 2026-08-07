@@ -1,0 +1,149 @@
+{
+  "id": 178,
+  "url": "https://en.numista.com/178",
+  "title": "20 Rappen (Libertas; copper-nickel)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "suisse",
+    "name": "Switzerland (1848-date)"
+  },
+  "min_year": 1939,
+  "max_year": 2026,
+  "ruler": [
+    {
+      "id": 2857,
+      "name": "Federal State",
+      "wikidata_id": "Q355857"
+    }
+  ],
+  "value": {
+    "text": "20 Rappen",
+    "numeric_value": 0.2,
+    "currency": {
+      "id": 82,
+      "name": "Franc",
+      "full_name": "Franc (1850-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21.05,
+  "thickness": 1.65,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% copper, 25% nickel; non-magnetic)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Karl Schwenzer"
+    ],
+    "description": "Head of Libertas (Roman goddess of liberty) facing right, with braided hair tied with ribbon and wearing tiara.",
+    "lettering": "CONFŒDERATIO HELVETICA \r\nLIBERTAS\r\n⸭ 1955 ⸭",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Swiss Confederation",
+    "picture": "https://en.numista.com/catalogue/photos/suisse/67b24fbbef4627.13859508-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suisse/67b24fbbef4627.13859508-180.jpg",
+    "picture_copyright": "NGC",
+    "picture_copyright_url": "https://www.ngccoin.com/"
+  },
+  "reverse": {
+    "designers": [
+      "Carl Friedrich Voigt"
+    ],
+    "description": "Wreath formed of two alpine rose springs with flowers tied with a ribbon below.",
+    "lettering": "20\r\nB",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/suisse/67b2514a4c4c87.04547702-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suisse/67b2514a4c4c87.04547702-180.jpg",
+    "picture_copyright": "NGC",
+    "picture_copyright_url": "https://www.ngccoin.com/"
+  },
+  "series": "Libertas series",
+  "related_types": [
+    {
+      "id": 177,
+      "title": "20 Rappen (Libertas; nickel)",
+      "category": "coin",
+      "country": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "minYear": 1881,
+      "maxYear": 1938
+    }
+  ],
+  "tags": [
+    "Mythology",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 1253,
+        "code": "HMZ 2"
+      },
+      "number": "1208"
+    },
+    {
+      "catalogue": {
+        "id": 962,
+        "code": "Divo/Tob19"
+      },
+      "number": "312"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "29a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "26a"
+    },
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "25"
+    }
+  ],
+  "weight": 4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/suisse/1534-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suisse/1534-180.jpg",
+    "picture_copyright": "CyrusPamelaOne",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 247,
+      "name": "Bern"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

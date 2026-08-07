@@ -1,0 +1,125 @@
+{
+  "id": 314278,
+  "url": "https://en.numista.com/314278",
+  "title": "¼ Dollar \"Washington Quarter\" (Maya Angelou)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "etats-unis",
+    "name": "United States"
+  },
+  "min_year": 2022,
+  "max_year": 2022,
+  "ruler": [
+    {
+      "id": 4720,
+      "name": "Federal republic",
+      "wikidata_id": "Q30"
+    }
+  ],
+  "value": {
+    "text": "¼ Dollar ",
+    "numeric_value": 0.25,
+    "numerator": 1,
+    "denominator": 4,
+    "currency": {
+      "id": 59,
+      "name": "Dollar",
+      "full_name": "Dollar (1785-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24.26,
+  "thickness": 1.75,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel clad copper"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Laura Gardin Fraser"
+    ],
+    "designers": [
+      "Laura Gardin Fraser"
+    ],
+    "description": "Portrait of George Washington, facing right.",
+    "lettering": "LIBERTY\r\nIN GOD\r\nWE\r\nTRUST\r\n2022",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/61c101e0c2b090.87283459-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/61c101e0c2b090.87283459-180.jpg",
+    "picture_copyright": "Image courtesy of the United States Mint"
+  },
+  "reverse": {
+    "engravers": [
+      "Craig Campbell"
+    ],
+    "designers": [
+      "Emily S. Damstra"
+    ],
+    "description": "Maya Angelou with her arms uplifted. Behind her are a bird in flight and a rising sun, images inspired by her poetry and symbolic of the way she lived.",
+    "lettering": "UNITED STATES OF AMERICA\r\nMAYA ANGELOU\r\nE PLURIBUS UNUM\r\nQUARTER DOLLAR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/61c101e1c4ea13.53910878-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/61c101e1c4ea13.53910878-180.jpg",
+    "picture_copyright": "Image courtesy of the United States Mint"
+  },
+  "series": "American Women Quarter Program",
+  "commemorated_topic": "Maya Angelou",
+  "comments": "The obverse (heads) depicts a portrait of George Washington, originally composed and sculpted by Laura Gardin Fraser to mark George Washington’s 200th birthday. A recommended design for the 1932 quarter, then-Treasury Secretary Mellon ultimately selected the familiar John Flannigan design.<br /><br />\r\nThe Maya Angelou Quarter is the first coin in the American Women Quarters™ Program. Maya Angelou was a celebrated writer, performer, and social activist. She rose to international prominence as an author after the publication of her groundbreaking autobiography “I Know Why the Caged Bird Sings.” Angelou’s published works of verse, non-fiction, and fiction include more than 30 bestselling titles.<br /><br />\r\nAngelou’s remarkable career encompasses dance, theater, journalism, and social activism. She appeared in Broadway and off-Broadway plays, including “Cabaret for Freedom,” which she wrote with Godfrey Cambridge. At the request of Dr. Martin Luther King, Jr., she served as northern coordinator of the Southern Christian Leadership Conference. In 1978, she was a National Book Award judge for biography and autobiography.<br /><br />\r\nAngelou read “On the Pulse of Morning” at the 1992 inauguration of President Clinton. Angelou’s reading marked the first time an African American woman wrote and presented a poem at a presidential inauguration. She was also only the second poet in history to do so, following Robert Frost, who recited a poem at President Kennedy’s inauguration in 1961.<br /><br />\r\nAngelou received more than 30 honorary degrees and was inducted into the Wake Forest University Hall of Fame for Writers. In 2010, President Obama awarded her the Presidential Medal of Freedom. She was also the 2013 recipient of the Literarian Award, an honorary National Book Award for contributions to the literary community.",
+  "tags": [
+    "Bird",
+    "Literature",
+    "Military leader",
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "766"
+    }
+  ],
+  "weight": 5.67,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/65d27ece38cb43.47469270-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/65d27ece38cb43.47469270-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 10,
+      "name": "United States Mint of Denver"
+    },
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    },
+    {
+      "id": 12,
+      "name": "United States Mint of San Francisco"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

@@ -1,0 +1,107 @@
+{
+  "id": 4843,
+  "url": "https://en.numista.com/4843",
+  "title": "10 Céntimos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "perou",
+    "name": "Peru"
+  },
+  "issuing_entity": {
+    "id": 936,
+    "name": "Central Reserve Bank of Peru",
+    "wikidata_id": "Q932146"
+  },
+  "min_year": 1985,
+  "max_year": 1987,
+  "ruler": [
+    {
+      "id": 3757,
+      "name": "Republic",
+      "wikidata_id": "Q419"
+    }
+  ],
+  "value": {
+    "text": "10 Centimos",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 219,
+      "name": "Inti",
+      "full_name": "Inti (1985-1991)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1985-02-01"
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1991-07-01"
+  },
+  "size": 19,
+  "thickness": 1,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Value within circle",
+    "lettering": "10 CENTIMOS LIMA\r\n1986\r\nBANCO CENTRAL DE RESERVA DEL PERU",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/perou/1248-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/1248-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "reverse": {
+    "description": "Head of Admiral Grau 1/4 right",
+    "lettering": "GRAN ALMIRANTE MIGUEL GRAU",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/perou/1247-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/1247-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "comments": "<p>The Inti was introduced on February 1, 1985 to replace the Sol de Oro, which was suffering from high inflation. One inti had a value of 1000 soles.</p><p></p><p>The term \"Inti\" comes from the Quechua language, and refers to the Inca solar deity, thus establishing a symbolic link with the country's culture, but also with the ancient currency, the Sol (Sol meaning \"Sun\" in Spanish). Although the term \"sol\" in its monetary context actually comes from the Latin word solidus, which gave rise to \"sol\" and \"sou\" in French).</p><p>It was the parliamentary representatives of the department of Cuzco who suggested this name.</p><p></p><p>Coins in the new currency unit were put into circulation in 1985, followed by banknotes in December of the same year. However, the Inti was replaced by the new sol in 1991, after a period of economic instability.<br></p>",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "293"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "94"
+    }
+  ],
+  "weight": 2.9,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 297,
+      "name": "Lima"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

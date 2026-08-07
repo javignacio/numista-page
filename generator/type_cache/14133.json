@@ -1,0 +1,123 @@
+{
+  "id": 14133,
+  "url": "https://en.numista.com/14133",
+  "title": "500 Lire - John Paul II (Land Work)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "vatican",
+    "name": "Vatican City"
+  },
+  "min_year": 1989,
+  "max_year": 1989,
+  "ruler": [
+    {
+      "id": 1522,
+      "name": "John Paul II",
+      "wikidata_id": "Q989"
+    }
+  ],
+  "value": {
+    "text": "500 Lire",
+    "numeric_value": 500,
+    "currency": {
+      "id": 114,
+      "name": "Lira",
+      "full_name": "Lira (1929-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2002-03-01"
+  },
+  "size": 25.8,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: bronzital centre in acmonital ring"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Enrico Manfrini"
+    ],
+    "description": "Bust right",
+    "lettering": "IONNES PAVLVS II P.M.AN.XI.MCMLXXXIX",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "IOANNES PAVLVS II PONTIFEX MAXIMVS ANNVS XI MCMLXXXIX",
+    "lettering_translation": "Ioannes Paulus II Supreme Pontiff Year 11 1989",
+    "picture": "https://en.numista.com/catalogue/photos/vatican/5f482ae7b0f182.02909019-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/vatican/5f482ae7b0f182.02909019-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Enrico Manfrini"
+    ],
+    "description": "Grapevine symboling the land work, source of food for humanity",
+    "lettering": "CITTA' DEL VATICANO\r\nR L.500",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Vatican City",
+    "picture": "https://en.numista.com/catalogue/photos/vatican/5f482ae81713c8.63039457-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/vatican/5f482ae81713c8.63039457-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "commemorated_topic": "Lay Missions in the World",
+  "tags": [
+    "Religious figure",
+    "Fruit",
+    "Religious implements"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "218"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "215"
+    },
+    {
+      "catalogue": {
+        "id": 300,
+        "code": "Berman"
+      },
+      "number": "3566"
+    }
+  ],
+  "weight": 6.8,
+  "orientation": "coin",
+  "edge": {
+    "description": "Segmented reeding"
+  },
+  "mints": [
+    {
+      "id": 22,
+      "name": "Rome"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

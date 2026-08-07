@@ -1,0 +1,103 @@
+{
+  "id": 12789,
+  "url": "https://en.numista.com/12789",
+  "title": "200 Lire (F.A.O.)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "saint-marin",
+    "name": "San Marino"
+  },
+  "min_year": 1981,
+  "max_year": 1981,
+  "ruler": [
+    {
+      "id": 1430,
+      "name": "Republic",
+      "wikidata_id": "Q238"
+    }
+  ],
+  "value": {
+    "text": "200 Lire",
+    "numeric_value": 200,
+    "currency": {
+      "id": 113,
+      "name": "Lira",
+      "full_name": "Lira (1864-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2002-03-01"
+  },
+  "size": 24,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Angelo Grilli"
+    ],
+    "description": "Crowned arms of San Marino within sprigs.",
+    "lettering": "REPUBBLICA DI SAN MARINO\r\nLIBERTAS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/saint-marin/2280-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2280-180.jpg",
+    "picture_copyright": "Comptoir des Monnaies",
+    "picture_copyright_url": "http://www.comptoir-des-monnaies.com"
+  },
+  "reverse": {
+    "designers": [
+      "Angelo Grilli"
+    ],
+    "description": "Bull facing right divides date and value.\r\nF A O (Dairy Development)",
+    "lettering": "1981\r\nL 200\r\nF A O",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/saint-marin/2281-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2281-180.jpg",
+    "picture_copyright": "Comptoir des Monnaies",
+    "picture_copyright_url": "http://www.comptoir-des-monnaies.com"
+  },
+  "commemorated_topic": "FAO",
+  "comments": "<p>The bull stands out with its massive figure to draw humanity's attention to respect for nature and care for the environment, an essential act to prepare for future generations a world in which to live and progress peacefully. The initials F.A.O. as the coin is dedicated to the Food and Agriculture Organization and constitutes San Marino's act of participation in the fight that men are fighting against hunger in the world.<br><br><a href=\"https://en.numista.com/catalogue/images/5bd189ab8a05f.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5bd189ab8a05f.jpg\" alt=\"\"></a></p>",
+  "tags": [
+    "Cow or bovine",
+    "FAO"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "123"
+    }
+  ],
+  "weight": 5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 22,
+      "name": "Rome"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

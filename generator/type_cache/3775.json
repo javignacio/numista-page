@@ -1,0 +1,86 @@
+{
+  "id": 3775,
+  "url": "https://en.numista.com/3775",
+  "title": "25 Paisa - Birendra Bir Bikram (small type)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "nepal",
+    "name": "Nepal"
+  },
+  "min_year": 1994,
+  "max_year": 2000,
+  "ruler": [
+    {
+      "id": 3964,
+      "name": "Birendra Bir Bikram Shah",
+      "wikidata_id": "Q162306",
+      "group": {
+        "id": 240,
+        "name": "Shah dynasty"
+      }
+    }
+  ],
+  "value": {
+    "text": "25 Paisa",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 173,
+      "name": "Rupee",
+      "full_name": "Rupee (1932-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 20,
+  "thickness": 1.54,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Crown",
+    "lettering": "श्री ५ वीरेन्द्र वीर विक्रम शाहदेव\r\nनेपाल २०५१",
+    "lettering_scripts": [
+      {
+        "name": "Devanagari"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/nepal/901-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nepal/901-180.jpg"
+  },
+  "reverse": {
+    "description": "Value flanked by grain ears",
+    "lettering": "श्री भवानी\r\n२५\r\nपैसा",
+    "lettering_scripts": [
+      {
+        "name": "Devanagari"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/nepal/902-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nepal/902-180.jpg"
+  },
+  "comments": "differences in design:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5849f3f19477e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5849f3f19477e.jpg\" alt=\"\" width=\"200\" height=\"231\" /></a>",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1015.2"
+    }
+  ],
+  "weight": 1,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,88 @@
+{
+  "id": 26791,
+  "url": "https://en.numista.com/26791",
+  "title": "2 Rupees - Gyanendra Bir Bikram (magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "nepal",
+    "name": "Nepal"
+  },
+  "min_year": 2003,
+  "max_year": 2003,
+  "ruler": [
+    {
+      "id": 3965,
+      "name": "Gyanendra Bir Bikram Shah",
+      "wikidata_id": "Q201327",
+      "group": {
+        "id": 240,
+        "name": "Shah dynasty"
+      }
+    }
+  ],
+  "value": {
+    "text": "2 Rupees",
+    "numeric_value": 2,
+    "currency": {
+      "id": 173,
+      "name": "Rupee",
+      "full_name": "Rupee (1932-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Central Circle: Trident Inside the Square: King's Name (Gyanendra Bir Bikram Shah Dev) Outside the Square: Hinduism Icons; Clockwise from Top Left : Chakra (Wheel), Shank (Conch), Gadha (Mace) & Padma (Lotus) Top of the square: Crescent, Symbol Sri (श्री), Sun. Bottom of the Square: Year",
+    "picture": "https://en.numista.com/catalogue/photos/nepal/956-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nepal/956-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "reverse": {
+    "description": "Janaki or Sita Mandir or Temple",
+    "picture": "https://en.numista.com/catalogue/photos/nepal/957-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nepal/957-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "related_types": [
+    {
+      "id": 5668,
+      "title": "2 Rupees - Gyanendra Bir Bikram (non-magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "nepal",
+        "name": "Nepal"
+      },
+      "minYear": 2001,
+      "maxYear": 2003
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1151.1"
+    }
+  ],
+  "weight": 5.07,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

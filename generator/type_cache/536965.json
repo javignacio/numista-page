@@ -1,0 +1,70 @@
+{
+  "id": 536965,
+  "url": "https://en.numista.com/536965",
+  "title": "Æ30 - Marcus Aurelius (ΚΟΙΝΟΝ ΘΕϹϹΑΛωΝ)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "thessaly_rom_prov",
+    "name": "Thessaly, Koinon of"
+  },
+  "min_year": 161,
+  "max_year": 180,
+  "ruler": [
+    {
+      "id": 9304,
+      "name": "Marcus Aurelius",
+      "wikidata_id": "Q1430",
+      "nomisma_id": "marcus_aurelius",
+      "group": {
+        "id": 319,
+        "name": "Nerva–Antonine dynasty"
+      }
+    }
+  ],
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 30,
+  "shape": "Round (irregular)",
+  "composition": {
+    "text": "Bronze"
+  },
+  "technique": {
+    "text": "Hammered"
+  },
+  "obverse": {
+    "description": "Laureate-headed bust of Marcus Aurelius wearing cuirass and paludamentum, right",
+    "lettering": "ΑΥΤ Μ ΑΥΡ ΑΝΤωΝΕΙΝΟϹ",
+    "unabridged_legend": "Αὐτοκράτωρ Μᾶρκος Αὐρήλιος Ἀντωνεῖνος",
+    "lettering_translation": "Emperor Marcus Aurelius Antoninus",
+    "picture": "https://en.numista.com/catalogue/photos/thessaly_rom_prov/69e0bbc68a0a47.20363274-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/thessaly_rom_prov/69e0bbc68a0a47.20363274-180.jpg",
+    "picture_copyright": "Bibliothèque nationale de France / Gallica",
+    "picture_copyright_url": "https://gallica.bnf.fr/"
+  },
+  "reverse": {
+    "description": "Athena advancing, right, brandishing spear, holding shield",
+    "lettering": "ΚΟΙΝΟΝ ΘΕϹϹΑΛωΝ",
+    "lettering_translation": "Koinon of the Thessalians",
+    "picture": "https://en.numista.com/catalogue/photos/thessaly_rom_prov/69e0bbc8ced747.24006027-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/thessaly_rom_prov/69e0bbc8ced747.24006027-180.jpg",
+    "picture_copyright": "Bibliothèque nationale de France / Gallica",
+    "picture_copyright_url": "https://gallica.bnf.fr/"
+  },
+  "comments": "<p>Rogers 94(1)</p>",
+  "references": [
+    {
+      "catalogue": {
+        "id": 1098,
+        "code": "RPC Online IV.1"
+      },
+      "number": "4564"
+    }
+  ],
+  "weight": 20.67,
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

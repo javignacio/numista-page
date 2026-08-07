@@ -1,0 +1,105 @@
+{
+  "id": 24328,
+  "url": "https://en.numista.com/24328",
+  "title": "½ Dirham - Mohammed VI",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "maroc",
+    "name": "Morocco"
+  },
+  "min_year": 2011,
+  "max_year": 2023,
+  "ruler": [
+    {
+      "id": 3831,
+      "name": "Mohammed VI",
+      "wikidata_id": "Q57553",
+      "group": {
+        "id": 223,
+        "name": "Alaouite Kings"
+      }
+    }
+  ],
+  "value": {
+    "text": "½ Dirham",
+    "numeric_value": 0.5,
+    "numerator": 1,
+    "denominator": 2,
+    "currency": {
+      "id": 36,
+      "name": "Dirham",
+      "full_name": "Dirham (1960-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 20.97,
+  "thickness": 1.69,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Crowned arms with supporters",
+    "lettering": "المملكة المغربية",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/maroc/1358-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/maroc/1358-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "description": "Fish beside denomination and date",
+    "lettering": "1/2\r\n2012-1433\r\nنصف درهم",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/maroc/1359-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/maroc/1359-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "comments": "Error Date 1635 (2014):<br />\r\n<a href=\"https://en.numista.com/catalogue/images/58f76bce200b3.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/58f76bce200b3.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "tags": [
+    "Fish",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "138"
+    }
+  ],
+  "weight": 3.95,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/maroc/69f619b2220031.83908252-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/maroc/69f619b2220031.83908252-180.jpg",
+    "picture_copyright": "billsmr",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 4878,
+      "name": "Dar As-Sikkah"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

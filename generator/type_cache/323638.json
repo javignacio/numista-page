@@ -1,0 +1,108 @@
+{
+  "id": 323638,
+  "url": "https://en.numista.com/323638",
+  "title": "25 Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "argentine",
+    "name": "Argentina"
+  },
+  "min_year": 2013,
+  "max_year": 2013,
+  "ruler": [
+    {
+      "id": 3983,
+      "name": "Federal Republic",
+      "wikidata_id": "Q414"
+    }
+  ],
+  "value": {
+    "text": "25 Centavos",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 145,
+      "name": "Peso convertible",
+      "full_name": "Peso convertible (1992-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": false
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 19.5,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Steel plated copper-nickel (Cu 75 Ni 25)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The Cabildo building in the center with the country name above around the rim with a point at the beginning and end and the inscription \"EN UNION Y LIBERTAD\" at the bottom of milled edge points",
+    "lettering": "REPUBLICA ARGENTINA · EN UNION Y LIBERTAD ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Argentina · In Union and Liberty",
+    "picture": "https://en.numista.com/catalogue/photos/argentine/62377ae0a4d2c1.77653967-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/62377ae0a4d2c1.77653967-180.jpg",
+    "picture_copyright": "gvaicika",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "The denomination in the center and the date below and points or granas around the rim",
+    "lettering": "25\r\ncentavos\r\n2013",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/argentine/62377b251f21f3.77025327-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/62377b251f21f3.77025327-180.jpg",
+    "picture_copyright": "gvaicika",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "This coin did not come into circulation due to the poor quality of the blanks.",
+  "tags": [
+    "Government building",
+    "Museum",
+    "Tower"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 160,
+        "code": "CJ"
+      },
+      "number": "4.7"
+    }
+  ],
+  "weight": 3.1,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/argentine/69904231ee8b30.19681337-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/69904231ee8b30.19681337-180.jpg",
+    "picture_copyright": "gvaicika",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 1336,
+      "name": "Buenos Aires"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,115 @@
+{
+  "id": 4387,
+  "url": "https://en.numista.com/4387",
+  "title": "1 Franc",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "burundi",
+    "name": "Burundi"
+  },
+  "issuing_entity": {
+    "id": 727,
+    "name": "Bank of the Republic of Burundi",
+    "wikidata_id": "Q806937"
+  },
+  "min_year": 1976,
+  "max_year": 2022,
+  "ruler": [
+    {
+      "id": 1005,
+      "name": "Republic",
+      "wikidata_id": "Q967"
+    }
+  ],
+  "value": {
+    "text": "1 Franc",
+    "numeric_value": 1,
+    "currency": {
+      "id": 73,
+      "name": "Franc",
+      "full_name": "Franc (1962-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 19,
+  "thickness": 1.4,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "National arms, date below",
+    "lettering": "UBUMWE-IBIKORWA-AMAJAMBERE\r\nUNITE-TRAVAIL-PROGRES\r\n1980",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/burundi/5f87a976495c04.99212553-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/burundi/5f87a976495c04.99212553-180.jpg",
+    "picture_copyright": "Ben-jamin",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "reverse": {
+    "description": "Denomination",
+    "lettering": "BANQUE DE LA REPUBLIQUE DU BURUNDI\r\n1F\r\nBRB",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/burundi/5f87a976f19bf2.10186070-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/burundi/5f87a976f19bf2.10186070-180.jpg",
+    "picture_copyright": "Ben-jamin",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "comments": "Documentation of the differences of the rim / edges between the 1993 and 2003 coins<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5603f3650df97.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5603f3650df97.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\nOle<br />\r\nOther differences in rim + coat of arms + thickness of coins:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/56411409e6be5.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/56411409e6be5.jpg\" alt=\"\" width=\"166\" height=\"200\" /></a>1993 coins<br />\r\nPlease check also differences between both photos: different rims and edges and small/weak inner ring",
+  "tags": [
+    "Cat or feline",
+    "Coat of Arms",
+    "Cold weapons"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "19"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "29"
+    }
+  ],
+  "weight": 0.87,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 4157,
+      "name": "VDM Metals / Vereinigte Deutsche Metallwerke"
+    },
+    {
+      "id": 26,
+      "name": "Pobjoy Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,171 @@
+{
+  "id": 34774,
+  "url": "https://en.numista.com/34774",
+  "title": "500 Pesos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "colombie",
+    "name": "Colombia"
+  },
+  "min_year": 2012,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 4088,
+      "name": "Republic",
+      "wikidata_id": "Q739"
+    }
+  ],
+  "value": {
+    "text": "500 Pesos",
+    "numeric_value": 500,
+    "currency": {
+      "id": 147,
+      "name": "Peso decimalized",
+      "full_name": "Peso decimalized (1847-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23.7,
+  "thickness": 2.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: aluminium bronze centre in nickel brass ring"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Johana Calle"
+    ],
+    "description": "The country name above the value in the center with the date below",
+    "lettering": "·REPÚBLICA DE COLOMBIA·\r\n500\r\n·PESOS·\r\n2018",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Colombia\r\n500\r\nPesos\r\n2018",
+    "picture": "https://en.numista.com/catalogue/photos/colombie/1369-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/1369-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "designers": [
+      "Johana Calle"
+    ],
+    "description": "Glass frog (Hyalinobatrachium pellucidum) inside a heptagon",
+    "lettering": "Rana de Cristal\r\nANURA CENTROLENIDAE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Crystal Frog\r\nAnura Centrolenidae",
+    "picture": "https://en.numista.com/catalogue/photos/colombie/1368-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/1368-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "comments": "<p>Different rim varieties (obverse side) for 2018</p><p><a href=\"https://en.numista.com/catalogue/images/676ea3d614cae.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/676ea3d614cae.jpg\"></a></p><p>&nbsp;</p><p>for the 2019 date, different lettering thicknesses, as well as spacing and distance from edge have been reported. On some, the frog's toes touch the waves:<br><a href=\"https://en.numista.com/catalogue/images/5fbd790c2a911.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5fbd790c2a911.jpg\" alt=\"\"></a><br><a href=\"https://en.numista.com/catalogue/images/5fbd791fab9ea.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5fbd791fab9ea.jpg\" alt=\"\"></a><br>@Duberney Osorio</p>",
+  "related_types": [
+    {
+      "id": 34771,
+      "title": "50 Pesos",
+      "category": "coin",
+      "country": {
+        "code": "colombie",
+        "name": "Colombia"
+      },
+      "minYear": 2012,
+      "maxYear": 2025
+    },
+    {
+      "id": 34772,
+      "title": "100 Pesos",
+      "category": "coin",
+      "country": {
+        "code": "colombie",
+        "name": "Colombia"
+      },
+      "minYear": 2012,
+      "maxYear": 2025
+    },
+    {
+      "id": 34773,
+      "title": "200 Pesos",
+      "category": "coin",
+      "country": {
+        "code": "colombie",
+        "name": "Colombia"
+      },
+      "minYear": 2012,
+      "maxYear": 2026
+    },
+    {
+      "id": 34775,
+      "title": "1000 Pesos",
+      "category": "coin",
+      "country": {
+        "code": "colombie",
+        "name": "Colombia"
+      },
+      "minYear": 2012,
+      "maxYear": 2024
+    }
+  ],
+  "tags": [
+    "Amphibian"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "298"
+    },
+    {
+      "catalogue": {
+        "id": 348,
+        "code": "Restrepo"
+      },
+      "number": "448A"
+    }
+  ],
+  "weight": 7.14,
+  "orientation": "coin",
+  "edge": {
+    "description": "Segmented reeding",
+    "picture": "https://en.numista.com/catalogue/photos/colombie/1218-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/1218-180.jpg",
+    "picture_copyright": "500 pesos km298 side 3 (& 1)",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 1262,
+      "name": "Kremnica"
+    },
+    {
+      "id": 27,
+      "name": "Mint of Poland"
+    },
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    },
+    {
+      "id": 19,
+      "name": "Royal Canadian Mint of Ottawa"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

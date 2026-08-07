@@ -1,0 +1,107 @@
+{
+  "id": 6096,
+  "url": "https://en.numista.com/6096",
+  "title": "10 Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "nicaragua",
+    "name": "Nicaragua"
+  },
+  "issuing_entity": {
+    "id": 863,
+    "name": "Central Bank of Nicaragua",
+    "wikidata_id": "Q4504274"
+  },
+  "min_year": 2002,
+  "max_year": 2002,
+  "ruler": [
+    {
+      "id": 4284,
+      "name": "Republic",
+      "wikidata_id": "Q811"
+    }
+  ],
+  "value": {
+    "text": "10 Centavos",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 3150,
+      "name": "Third Córdoba \"Oro\"",
+      "full_name": "Third Córdoba \"Oro\" (1991-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 20.5,
+  "thickness": 1.81,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms with legend around.",
+    "lettering": "REPÚBLICA DE NICARAGUA\r\nAMÉRICA CENTRAL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Nicaragua\r\nCentral America",
+    "picture": "https://en.numista.com/catalogue/photos/nicaragua/60194f2837b728.47724004-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nicaragua/60194f2837b728.47724004-180.jpg",
+    "picture_copyright": "Nestor"
+  },
+  "reverse": {
+    "description": "Value at center, with motto at top and date at bottom.",
+    "lettering": "EN DIOS CONFIAMOS\r\n10 \r\nCENTAVOS\r\n2002",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "In God we trust",
+    "picture": "https://en.numista.com/catalogue/photos/nicaragua/60194f2895b115.26380060-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nicaragua/60194f2895b115.26380060-180.jpg",
+    "picture_copyright": "Nestor"
+  },
+  "series": "2002 Series",
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "98"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "95"
+    }
+  ],
+  "weight": 4,
+  "orientation": "coin",
+  "edge": {
+    "description": "Alternate plain and reeded."
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

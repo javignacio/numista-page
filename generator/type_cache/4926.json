@@ -1,0 +1,111 @@
+{
+  "id": 4926,
+  "url": "https://en.numista.com/4926",
+  "title": "2 Kroner - Christian X",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "danemark",
+    "name": "Denmark"
+  },
+  "min_year": 1924,
+  "max_year": 1941,
+  "ruler": [
+    {
+      "id": 2402,
+      "name": "Christian X",
+      "wikidata_id": "Q156617",
+      "group": {
+        "id": 104,
+        "name": "House of Schleswig-Holstein-Sonderburg-Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "2 Kroner",
+    "numeric_value": 2,
+    "currency": {
+      "id": 13,
+      "name": "Krone",
+      "full_name": "Krone (1873-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 31,
+  "thickness": 2.45,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Crowned CXC monogram dividing the date with the mintmark and initials of mint official and moneyer below.",
+    "lettering": ".KONGE AF DANMARK.\r\nHCN GJ",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "King of Denmark\r\nHCN GJ",
+    "picture": "https://en.numista.com/catalogue/photos/danemark/698e07b121bba9.84644282-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/698e07b121bba9.84644282-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "reverse": {
+    "description": "Denomination above large crown, country name below.",
+    "lettering": "2 KRONER\r\nDANMARK",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "2 Kroner\r\nDenmark",
+    "picture": "https://en.numista.com/catalogue/photos/danemark/698e07b323f3a6.00928947-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/698e07b323f3a6.00928947-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "tags": [
+    "Crown",
+    "Monogram"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "825"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "42"
+    }
+  ],
+  "weight": 13,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/danemark/6709739b2c88a1.75316560-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/6709739b2c88a1.75316560-180.jpg",
+    "picture_copyright": "Thomas W. - germancollects",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 260,
+      "name": "Royal Danish Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

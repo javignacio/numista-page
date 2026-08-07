@@ -1,0 +1,115 @@
+{
+  "id": 581,
+  "url": "https://en.numista.com/581",
+  "title": "10 Centavos (large type)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "mexique",
+    "name": "Mexico"
+  },
+  "min_year": 1992,
+  "max_year": 2009,
+  "ruler": [
+    {
+      "id": 4029,
+      "name": "United Mexican States/Mexican Republic",
+      "wikidata_id": "Q96"
+    }
+  ],
+  "value": {
+    "text": "10 Centavos",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 271,
+      "name": "New Peso",
+      "full_name": "New Peso (1992-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 17,
+  "thickness": 1.33,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The national emblem of Mexico depicting a Mexican golden eagle perched on a prickly pear cactus devouring a snake above a half-wreath of oak and laurel below and the legend “ESTADOS UNIDOS MEXICANOS” forming the upper semicircle.",
+    "lettering": "ESTADOS UNIDOS MEXICANOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "United Mexican States",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/2908-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/2908-180.jpg",
+    "picture_copyright": "montana2011",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "On a six-sided field, at center, the denomination 10¢ with the date above and the mint mark Ṁ below. To the right and below, a partial border of stylized solar rays of the Ring on the Sacrifice (Anillo del Sacrificio) on the Aztec calendar stone (Piedra del Sol).",
+    "lettering": "2003\r\n10¢\r\nMo",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/mexique/2909-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/2909-180.jpg",
+    "picture_copyright": "montana2011",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/599ffb1d1f7e4.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/599ffb1d1f7e4.jpg\" alt=\"\" width=\"200\" height=\"171\" /></a>",
+  "related_types": [
+    {
+      "id": 18094,
+      "title": "10 Centavos (small type)",
+      "category": "coin",
+      "country": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "minYear": 2009,
+      "maxYear": 2019
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "547"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "143"
+    }
+  ],
+  "weight": 2.08,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 29,
+      "name": "Mexican Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

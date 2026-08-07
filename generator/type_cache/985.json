@@ -1,0 +1,106 @@
+{
+  "id": 985,
+  "url": "https://en.numista.com/985",
+  "title": "1 Sol de Oro (large Type; no mintmark)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "perou",
+    "name": "Peru"
+  },
+  "min_year": 1975,
+  "max_year": 1976,
+  "ruler": [
+    {
+      "id": 3757,
+      "name": "Republic",
+      "wikidata_id": "Q419"
+    }
+  ],
+  "value": {
+    "text": "1 Sol",
+    "numeric_value": 1,
+    "currency": {
+      "id": 218,
+      "name": "Sol",
+      "full_name": "Sol (1863-1930) / Sol de Oro (1931-1985)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 21,
+  "thickness": 1.35,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass (70% Copper, 30% Zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "National arms within circle",
+    "lettering": "BANCO CENTRAL DE RESERVA DEL PERU\r\n1976",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Reserve Bank of Peru",
+    "picture": "https://en.numista.com/catalogue/photos/perou/1231-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/1231-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "reverse": {
+    "description": "Value",
+    "lettering": "UN\r\nSOL DE ORO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "One Gold Sol",
+    "picture": "https://en.numista.com/catalogue/photos/perou/1232-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/1232-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "comments": "Of the coins dated 1975, 309,697,810 were minted by the United States Mint in Philadelphia.<br />\r\nOf the coins dates 1976, 112,560,000 were minted in 1976 and 2,100,000 were minted in 1977, all of which were minted by the United States Mint in Philadelphia.",
+  "tags": [
+    "Coat of Arms",
+    "Cornucopia"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "266.1"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "66"
+    }
+  ],
+  "weight": 3.24,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/perou/64f52baed668d1.26576456-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/64f52baed668d1.26576456-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,142 @@
+{
+  "id": 130400,
+  "url": "https://en.numista.com/130400",
+  "title": "10 Cêntimos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "sao_tome-et-principe",
+    "name": "São Tomé and Príncipe"
+  },
+  "min_year": 2017,
+  "max_year": 2017,
+  "ruler": [
+    {
+      "id": 4338,
+      "name": "Democratic Republic",
+      "wikidata_id": "Q1039"
+    }
+  ],
+  "value": {
+    "text": "10 Centimos",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 7046,
+      "name": "Second Dobra",
+      "full_name": "Second Dobra (2018-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2018-01-01"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 18,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of Arms (consists of a falcon and a parrot holding a shield- etched with a palm tree and is surmounted by a star.\r\nTwo bands or ribbon (at top & bottom of the shield) having the country's name & National motto on it.\r\nDate.",
+    "lettering": "REPÚBLICA DEMOCRÁTICA DE S. TOMÉ E PRÍNCIPE\r\n2017",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Democratic Republic of São Tomé and Príncipe",
+    "picture": "https://en.numista.com/catalogue/photos/sao_tome-et-principe/63b45040c67561.84548971-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/sao_tome-et-principe/63b45040c67561.84548971-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "reverse": {
+    "description": "Kingfisher right,Portuguese lettering\r\nValue.",
+    "lettering": "DEZ CÊNTIMOS \r\n10\r\nCONÔBIA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Ten centimos\r\nKingfisher",
+    "picture": "https://en.numista.com/catalogue/photos/sao_tome-et-principe/63b450416b05f4.69090020-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/sao_tome-et-principe/63b450416b05f4.69090020-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "comments": "São Tomé and Príncipe&#039;s currency, the Dobra, has suffered devaluation (3 zeros lost) and a new coin family will enter circulation on january 1st 2018. Five new coins, minted in England",
+  "related_types": [
+    {
+      "id": 130401,
+      "title": "20 Cêntimos",
+      "category": "coin",
+      "country": {
+        "code": "sao_tome-et-principe",
+        "name": "São Tomé and Príncipe"
+      },
+      "minYear": 2017,
+      "maxYear": 2017
+    },
+    {
+      "id": 130402,
+      "title": "50 Cêntimos",
+      "category": "coin",
+      "country": {
+        "code": "sao_tome-et-principe",
+        "name": "São Tomé and Príncipe"
+      },
+      "minYear": 2017,
+      "maxYear": 2017
+    },
+    {
+      "id": 130403,
+      "title": "1 Dobra",
+      "category": "coin",
+      "country": {
+        "code": "sao_tome-et-principe",
+        "name": "São Tomé and Príncipe"
+      },
+      "minYear": 2017,
+      "maxYear": 2017
+    },
+    {
+      "id": 130404,
+      "title": "2 Dobras",
+      "category": "coin",
+      "country": {
+        "code": "sao_tome-et-principe",
+        "name": "São Tomé and Príncipe"
+      },
+      "minYear": 2017,
+      "maxYear": 2017
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Coat of Arms"
+  ],
+  "weight": 2.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/sao_tome-et-principe/517-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/sao_tome-et-principe/517-180.jpg",
+    "picture_copyright": "David Mikeladze"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

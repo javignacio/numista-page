@@ -1,0 +1,126 @@
+{
+  "id": 1504,
+  "url": "https://en.numista.com/1504",
+  "title": "10 Öre - Gustaf VI Adolf",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "suede",
+    "name": "Sweden"
+  },
+  "min_year": 1962,
+  "max_year": 1973,
+  "ruler": [
+    {
+      "id": 2365,
+      "name": "Gustaf VI Adolf",
+      "wikidata_id": "Q52878",
+      "group": {
+        "id": 99,
+        "name": "House of Bernadotte"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Öre",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 18,
+      "name": "Krona",
+      "full_name": "Krona (1873-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1992-09-30"
+  },
+  "size": 15,
+  "thickness": 1.06,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Crowned monogram of King Gustaf VI Adolf divides date at sides.",
+    "lettering": "19 73\r\nGA VI",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/suede/2018-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suede/2018-180.jpg",
+    "picture_copyright": "whitegandalf"
+  },
+  "reverse": {
+    "description": "Value of the coins above the text SVERIGE Below there is the mintmark at left, while at right there is the first letter in the surname of the Governor of the Riksbank.",
+    "lettering": "10 \r\nÖRE \r\nSVERIGE \r\nu",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Sweden.",
+    "picture": "https://en.numista.com/catalogue/photos/suede/2019-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suede/2019-180.jpg",
+    "picture_copyright": "whitegandalf"
+  },
+  "related_types": [
+    {
+      "id": 1503,
+      "title": "25 Öre - Gustaf VI Adolf",
+      "category": "coin",
+      "country": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "minYear": 1962,
+      "maxYear": 1973
+    },
+    {
+      "id": 1502,
+      "title": "50 Öre - Gustaf VI Adolf",
+      "category": "coin",
+      "country": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "minYear": 1962,
+      "maxYear": 1973
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "835"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "61"
+    }
+  ],
+  "weight": 1.4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 5989,
+      "name": "Kungliga Myntet"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,115 @@
+{
+  "id": 1415,
+  "url": "https://en.numista.com/1415",
+  "title": "50 Øre",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "danemark",
+    "name": "Denmark"
+  },
+  "min_year": 1989,
+  "max_year": 2023,
+  "ruler": [
+    {
+      "id": 2404,
+      "name": "Margrethe II",
+      "wikidata_id": "Q102139",
+      "group": {
+        "id": 104,
+        "name": "House of Schleswig-Holstein-Sonderburg-Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "50 Øre",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 13,
+      "name": "Krone",
+      "full_name": "Krone (1873-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1989-07-03"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21.5,
+  "thickness": 1.55,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze (97% Copper, 2.5% Zinc, 0.5% Tin)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The crown of Christian V (1646-1699) dividing the date above.",
+    "lettering": "1993\r\nDANMARK",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Denmark",
+    "picture": "https://en.numista.com/catalogue/photos/danemark/2976-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/2976-180.jpg",
+    "picture_copyright": "gef"
+  },
+  "reverse": {
+    "description": "The face value with the heart of the Royal Mint above.",
+    "lettering": "LG♥JP\r\n50\r\nØRE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/danemark/2977-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/2977-180.jpg",
+    "picture_copyright": "gef"
+  },
+  "comments": "<p>From 1996 to 1998, the words “DANMARK” and “ØRE” have raised edges.</p><p>&nbsp;</p><p>These coins were minted by the Mint of Finland from 2017-2024.</p>",
+  "tags": [
+    "Crown"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "866"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "85"
+    }
+  ],
+  "weight": 4.3,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/danemark/61790a8451d365.37300698-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/61790a8451d365.37300698-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 1334,
+      "name": "Mint of Finland"
+    },
+    {
+      "id": 260,
+      "name": "Royal Danish Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

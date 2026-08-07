@@ -1,0 +1,121 @@
+{
+  "id": 4468,
+  "url": "https://en.numista.com/4468",
+  "title": "10 Pesos Uruguayos (José Artigas)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "uruguay",
+    "name": "Uruguay"
+  },
+  "min_year": 2000,
+  "max_year": 2000,
+  "ruler": [
+    {
+      "id": 3897,
+      "name": "Oriental Republic of Uruguay",
+      "wikidata_id": "Q77"
+    }
+  ],
+  "value": {
+    "text": "10 Pesos Uruguayos",
+    "numeric_value": 10,
+    "currency": {
+      "id": 153,
+      "name": "Peso uruguayo",
+      "full_name": "Peso uruguayo (1993-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 28,
+  "thickness": 2.45,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: copper-aluminium-nickel centre in stainless steel ring (Core: 92% Copper, 6% Aluminium, 2% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Jorge Nicastro"
+    ],
+    "description": "Portrait of José Gervasio Artigas (national hero) facing right; short name of the country on top (\"URUGUAY\" instead of the usual \"REPUBLICA ORIENTAL DEL URUGUAY\"), dates of birth and death of Artigas.",
+    "lettering": "URUGUAY \r\n1764 JOSE ARTIGAS 1850",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Uruguay\r\n1764 José Artigas 1850",
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/1041-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/1041-180.jpg",
+    "picture_copyright": "Dario Silva Collection",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Jorge Nicastro"
+    ],
+    "description": "Denomination on center, surrounded by one of Artigas' phrase: \"SEAN LOS ORIENTALES TAN ILUSTRADOS COMO VALIENTES\" (=\"be Orientals - one of names given to Uruguayan people - so enlightened as braves\") Signature of Artigas, date on exergue.",
+    "lettering": "\"SEAN LOS ORIENTALES TAN ILUSTRADOS COMO VALIENTES\"\r\n10 \r\nPESOS URUGUAYOS\r\nJosé Artigas\r\n2000",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Be the Orientals as enlighted as braves\r\n10\r\nPesos Uruguayos\r\nJosé Artigas\r\n2000",
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/1042-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/1042-180.jpg",
+    "picture_copyright": "Dario Silva Collection",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "commemorated_topic": "150th. anniversary of Artigas' death.",
+  "comments": "The Artigas motto &quot;Be the Orientals as enlighted as braves&quot; was proclaimed the day the first Public Library was opened at Montevideo. Orientals is other name given to Uruguayans, and comes from the country name Republica Oriental del Uruguay, making refference the country is placed towards East (Orient) from Uruguay river.<br /><br />\r\nIn spite all coins show date 2000, there were 2 different stikes; the first one was minted at Buenos Aires on 2004, and the second on 2006 at Canadian Mint.<br /><br />\r\nThe design is the same, and the only difference is on date, where Canadian version have a 5-pointed star on each side of the date, while there are not on the Buenos Aires coins.<br /><br />\r\n<img src=\"https://en.numista.com/catalogue/images/54ffb903c5de6.jpg\" alt=\"\" width=\"200\" height=\"50\" />",
+  "tags": [
+    "Military leader",
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "121"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "94"
+    }
+  ],
+  "weight": 10.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/6518b7655cd146.03602090-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/6518b7655cd146.03602090-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 1336,
+      "name": "Buenos Aires"
+    },
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

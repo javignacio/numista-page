@@ -1,0 +1,138 @@
+{
+  "id": 6417,
+  "url": "https://en.numista.com/6417",
+  "title": "10 Euro Cents - Henri I (2nd map)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "luxembourg",
+    "name": "Luxembourg"
+  },
+  "issuing_entity": {
+    "id": 5328,
+    "name": "Central Bank of Luxembourg"
+  },
+  "min_year": 2007,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 1575,
+      "name": "Henry",
+      "wikidata_id": "Q16004",
+      "group": {
+        "id": 129,
+        "name": "Grand Duchy of Luxembourg"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Euro Cents",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 9011,
+      "name": "Euro",
+      "full_name": "Euro (2002-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 19.75,
+  "thickness": 1.93,
+  "shape": "Round",
+  "composition": {
+    "text": "Nordic gold"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Yvette Gastauer-Claire"
+    ],
+    "description": "A geometrical portrait of His Royal Highness Grand Duke Henri is encircled by the country name and the 12 stars of Europe around the rim",
+    "lettering": "LËTZEBUERG 2008 GC F",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Luxembourg 2008 GC F",
+    "picture": "https://en.numista.com/catalogue/photos/luxembourg/651-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/luxembourg/651-180.jpg",
+    "picture_copyright": "CGB",
+    "picture_copyright_url": "http://www.cgb.fr"
+  },
+  "reverse": {
+    "engravers": [
+      "Luc Luycx"
+    ],
+    "description": "A map, next to the face value, symbolizes the gathering of the fifteen nations of the European Union",
+    "lettering": "10 EURO CENT LL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/luxembourg/652-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/luxembourg/652-180.jpg",
+    "picture_copyright": "CGB",
+    "picture_copyright_url": "http://www.cgb.fr"
+  },
+  "comments": "<p>This piece was engraved by several countries and by several engravers according to the following periods :<br>&nbsp;</p><ul><li>2007 - 2008 France: horn of plenty and \"F\" in star - Mark: hunting horn - Hubert Lariviere<br>&nbsp;</li><li>2009 - 2015 Netherlands: caduceus - Mark: Sails - Maarten Brouwer (holder)<br>&nbsp;</li><li>2016 - 2017 Netherlands: caduceus - Mark: Sails and star - Kees Bruinsma (interim)<br>&nbsp;</li><li>2018 (In sets only) Netherlands: caduceus - Mark: Bridge - Stephan Satijn (holder)<br>&nbsp;</li></ul><p><br>Since 2018, Luxembourg using lion mark.<br>2018 (normal): caduceus and lion<br>2018 (Proof): Lion and bridge - Stephan Satijn (holder)</p>",
+  "related_types": [
+    {
+      "id": 140,
+      "title": "10 Euro Cents - Henri I (1st map)",
+      "category": "coin",
+      "country": {
+        "code": "luxembourg",
+        "name": "Luxembourg"
+      },
+      "minYear": 2002,
+      "maxYear": 2006
+    }
+  ],
+  "tags": [
+    "Map",
+    "Monarch"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "89"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "86"
+    }
+  ],
+  "weight": 4.1,
+  "orientation": "medal",
+  "edge": {
+    "description": "Indented",
+    "picture": "https://en.numista.com/catalogue/photos/luxembourg/1776-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/luxembourg/1776-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 23,
+      "name": "Royal Dutch Mint"
+    },
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,142 @@
+{
+  "id": 166,
+  "url": "https://en.numista.com/166",
+  "title": "2 Rappen (wheat spike)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "suisse",
+    "name": "Switzerland (1848-date)"
+  },
+  "min_year": 1948,
+  "max_year": 1974,
+  "ruler": [
+    {
+      "id": 2857,
+      "name": "Federal State",
+      "wikidata_id": "Q355857"
+    }
+  ],
+  "value": {
+    "text": "2 Rappen",
+    "numeric_value": 0.02,
+    "currency": {
+      "id": 82,
+      "name": "Franc",
+      "full_name": "Franc (1850-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1978-01-01"
+  },
+  "size": 20,
+  "thickness": 1.25,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze (95% copper, 4% tin, 1% zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Josef Tannheimer"
+    ],
+    "description": "The Swiss cross surrounded by the inscription: \"HELVETIA\".",
+    "lettering": "HELVETIA \r\n• 1974 •",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Switzerland",
+    "picture": "https://en.numista.com/catalogue/photos/suisse/642948ffe4d1b8.77271458-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suisse/642948ffe4d1b8.77271458-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "reverse": {
+    "designers": [
+      "Josef Tannheimer"
+    ],
+    "description": "Spike of wheat with one leaf.",
+    "lettering": "2",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/suisse/6429491b89ebd9.89887693-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suisse/6429491b89ebd9.89887693-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "series": "Wheat spike series",
+  "comments": "<p>In 1969, the coins were minted in London. All other coins were minted in Bern.</p>",
+  "tags": [
+    "Cross"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 1253,
+        "code": "HMZ 2"
+      },
+      "number": "1214"
+    },
+    {
+      "catalogue": {
+        "id": 962,
+        "code": "Divo/Tob19"
+      },
+      "number": "325"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "47"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "42"
+    },
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "55"
+    }
+  ],
+  "weight": 3,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/suisse/614f0d162cd439.40335368-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suisse/614f0d162cd439.40335368-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 247,
+      "name": "Bern"
+    },
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    },
+    {
+      "id": 247,
+      "name": "Bern"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

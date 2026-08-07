@@ -1,0 +1,216 @@
+{
+  "id": 2415,
+  "url": "https://en.numista.com/2415",
+  "title": "2 Dinara",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "yougoslavie",
+    "name": "Yugoslavia"
+  },
+  "issuing_entity": {
+    "id": 690,
+    "name": "National Bank of Yugoslavia",
+    "wikidata_id": "Q1194664"
+  },
+  "min_year": 1971,
+  "max_year": 1981,
+  "ruler": [
+    {
+      "id": 2378,
+      "name": "Socialist Federal Republic",
+      "wikidata_id": "Q83286"
+    }
+  ],
+  "value": {
+    "text": "2 Dinars",
+    "numeric_value": 2,
+    "currency": {
+      "id": 33,
+      "name": "Hard dinar",
+      "full_name": "Hard dinar (1966-1989)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1971-03-05"
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1988-09-30"
+  },
+  "size": 24.5,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass (70% Copper, 18% Zinc, 12% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Dragomir Mileusnić"
+    ],
+    "description": "State emblem of Yugoslavia",
+    "lettering": "СФР ЈУГОСЛАВИЈА\r\n29·XI·1943\r\nSFR JUGOSLAVIJA",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Социјалистичка Федеративна Република Југославија\r\nSocijalistička Federativna Republika Jugoslavija",
+    "lettering_translation": "Socialist Federal Republic of Yugoslavia",
+    "picture": "https://en.numista.com/catalogue/photos/yougoslavie/63ada4d17b0580.04557959-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/yougoslavie/63ada4d17b0580.04557959-180.jpg",
+    "picture_copyright": "mikimaus",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "Dragomir Mileusnić"
+    ],
+    "description": "Numerical denomination with six stars and wreath",
+    "lettering": "ДИНАРА · DINARA · DINARJA · ДИНАРИ\r\n2\r\n· 1981 ·",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/yougoslavie/63ada4d1be7412.84521625-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/yougoslavie/63ada4d1be7412.84521625-180.jpg",
+    "picture_copyright": "mikimaus",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p>Varieties exist.<br><br><i>Obverse</i><br>Die <strong>1</strong> - the date 29 · XI · 1943 on ribbon is situated in center.<br>Die <strong>2</strong> - the date 29 · XI · 1943 has double impression: the first one is at the lower part of the ribbon, the second is situated in center, being the first impression clearly visible. As the result the interpuncts look like colons.<br><a href=\"https://en.numista.com/catalogue/images/5ed7fbada8b24.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5ed7fbada8b24.jpg\" alt=\"\"></a><br><br><i>Combinations</i><br>Die <strong>1</strong>: 1971-1981.<br>Die <strong>2</strong>: 1979,1980</p>",
+  "related_types": [
+    {
+      "id": 4026,
+      "title": "2 Dinara",
+      "category": "coin",
+      "country": {
+        "code": "yougoslavie",
+        "name": "Yugoslavia"
+      },
+      "minYear": 1945,
+      "maxYear": 1945
+    },
+    {
+      "id": 945,
+      "title": "2 Dinara (FNR legend)",
+      "category": "coin",
+      "country": {
+        "code": "yougoslavie",
+        "name": "Yugoslavia"
+      },
+      "minYear": 1953,
+      "maxYear": 1953
+    },
+    {
+      "id": 4870,
+      "title": "2 Dinara (SFR legend)",
+      "category": "coin",
+      "country": {
+        "code": "yougoslavie",
+        "name": "Yugoslavia"
+      },
+      "minYear": 1963,
+      "maxYear": 1963
+    },
+    {
+      "id": 4874,
+      "title": "2 Dinara (FAO)",
+      "category": "coin",
+      "country": {
+        "code": "yougoslavie",
+        "name": "Yugoslavia"
+      },
+      "minYear": 1970,
+      "maxYear": 1970
+    },
+    {
+      "id": 2010,
+      "title": "2 Dinara",
+      "category": "coin",
+      "country": {
+        "code": "yougoslavie",
+        "name": "Yugoslavia"
+      },
+      "minYear": 1982,
+      "maxYear": 1986
+    },
+    {
+      "id": 5873,
+      "title": "2 Dinara",
+      "category": "coin",
+      "country": {
+        "code": "yougoslavie",
+        "name": "Yugoslavia"
+      },
+      "minYear": 1990,
+      "maxYear": 1992
+    }
+  ],
+  "tags": [
+    "Coat of Arms",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "57"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "55"
+    },
+    {
+      "catalogue": {
+        "id": 355,
+        "code": "Viscevic"
+      },
+      "number": "52"
+    },
+    {
+      "catalogue": {
+        "id": 3099,
+        "code": "Mandic"
+      },
+      "number": "46"
+    }
+  ],
+  "weight": 5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/yougoslavie/60d8a1ba42fa95.41560682-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/yougoslavie/60d8a1ba42fa95.41560682-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 1365,
+      "name": "Belgrade"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

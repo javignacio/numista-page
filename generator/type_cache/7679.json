@@ -1,0 +1,88 @@
+{
+  "id": 7679,
+  "url": "https://en.numista.com/7679",
+  "title": "25 Centimes (Weasel)",
+  "object_type": {
+    "id": 3,
+    "name": "Non-circulating coins"
+  },
+  "issuer": {
+    "code": "democratic_republic_congo_period",
+    "name": "Democratic Republic of the Congo (1997-date)"
+  },
+  "min_year": 2002,
+  "max_year": 2002,
+  "ruler": [
+    {
+      "id": 5166,
+      "name": "Democratic Republic",
+      "wikidata_id": "Q974"
+    }
+  ],
+  "value": {
+    "text": "25 Centimes",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 75,
+      "name": "Franc",
+      "full_name": "Franc (1998-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 19.9,
+  "thickness": 1.35,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Lion to the left, name of the country above, date below",
+    "lettering": "REPUBLIQUE DEMOCRATIQUE DU CONGO\r\n2002",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/democratic_republic_congo_period/653ab96d5798f3.86438795-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/democratic_republic_congo_period/653ab96d5798f3.86438795-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "description": "African striped weasel (Poecilogale albinucha) to the right, denomination above, date below. This small weasel is native to sub saharan Africa.",
+    "lettering": "25 CENTIMES\r\n2002",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/democratic_republic_congo_period/653ab96d624608.00484215-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/democratic_republic_congo_period/653ab96d624608.00484215-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "series": "Animal Series",
+  "commemorated_topic": "Animal series",
+  "tags": [
+    "Cat or feline"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "76"
+    }
+  ],
+  "weight": 0.88,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "category": "coin",
+  "type": "Non-circulating coins"
+}

@@ -1,0 +1,132 @@
+{
+  "id": 831,
+  "url": "https://en.numista.com/831",
+  "title": "1 Rand (SOUTH AFRICA - SUID-AFRIKA)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "afrique_du_sud",
+    "name": "South Africa"
+  },
+  "min_year": 1991,
+  "max_year": 1995,
+  "ruler": [
+    {
+      "id": 634,
+      "name": "Republic",
+      "wikidata_id": "Q258"
+    }
+  ],
+  "value": {
+    "text": "1 Rand",
+    "numeric_value": 1,
+    "currency": {
+      "id": 156,
+      "name": "Rand",
+      "full_name": "Rand (1961-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 20,
+  "thickness": 1.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated copper"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Arthur Sutherland"
+    ],
+    "description": "The arms of South Africa with the motto \"Ex Unitate Vires\" (Power Through Unity) and the country name in English to the left and Afrikaans to the right",
+    "lettering": "SOUTH AFRICA\r\nSUID-AFRIKA\r\nEX UNITATE VIRES\r\nALS 1994",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "SOUTH AFRICA\r\nUNION IS STRENGTH",
+    "picture": "https://en.numista.com/catalogue/photos/afrique_du_sud/1138-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/1138-180.jpg",
+    "picture_copyright": "Tony K"
+  },
+  "reverse": {
+    "engravers": [
+      "Linda Lotriet"
+    ],
+    "description": "Springbok\r\n\"Soli Deo gloria\" is one of the Reformers' five basic beliefs during the Protestant Reformation. It means \"Glory to God alone\".",
+    "lettering": "1 RAND\r\nSOLI DEO GLORIA\r\nLL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "GLORY TO GOD ALONE",
+    "picture": "https://en.numista.com/catalogue/photos/afrique_du_sud/1139-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/1139-180.jpg",
+    "picture_copyright": "Tony K"
+  },
+  "comments": "Legends in the 11 Official Languages of the Republic of South Africa:<br />\r\nAfrikaans: Suid-Afrika<br />\r\nEnglish: South Africa<br />\r\nSesotho and Sepedi: Afrika Borwa<br />\r\nTswana: Aforika Borwa<br />\r\nXhosa: uMzantsi Afrika<br />\r\nZulu: iNingizimu Afrika<br />\r\nNdebele: iSewula frika<br />\r\nVenda: Afurika Tshipembe<br />\r\nsiSwati: Ningizimu Afrika<br />\r\nTsonga: Afrika Dzonga",
+  "related_types": [
+    {
+      "id": 2233,
+      "title": "1 Rand (SUID-AFRIKA)",
+      "category": "coin",
+      "country": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "minYear": 1996,
+      "maxYear": 2000
+    }
+  ],
+  "tags": [
+    "Other animal",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "138"
+    },
+    {
+      "catalogue": {
+        "id": 146,
+        "code": "Hern"
+      },
+      "number": "Ng2-6"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "175"
+    }
+  ],
+  "weight": 4,
+  "orientation": "medal",
+  "edge": {
+    "description": "5 smooth and 5 reeded sections",
+    "picture": "https://en.numista.com/catalogue/photos/afrique_du_sud/697b9b0f83e592.01166210-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/697b9b0f83e592.01166210-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 1300,
+      "name": "South African Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

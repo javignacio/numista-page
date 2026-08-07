@@ -1,0 +1,124 @@
+{
+  "id": 1734,
+  "url": "https://en.numista.com/1734",
+  "title": "10 Qirsh / Piastres - Hussein",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "jordanie",
+    "name": "Jordan"
+  },
+  "min_year": 1992,
+  "max_year": 1996,
+  "ruler": [
+    {
+      "id": 2907,
+      "name": "Hussein bin Talal",
+      "wikidata_id": "Q146906"
+    }
+  ],
+  "value": {
+    "text": "10 Piastres",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 26,
+      "name": "Dinar",
+      "full_name": "Dinar (1949-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 28,
+  "thickness": 1.9,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Hussein Ibn Talal facing left with an inscription divided on both sides",
+    "lettering": "الحسين بن طلال\r\nملك مملكة الأردنية الهاشمية",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "Hussein Ibn Talal\r\nKing of the Hashemite Kingdom of Jordan",
+    "picture": "https://en.numista.com/catalogue/photos/jordanie/3-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/jordanie/3-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "The denomination in Arabic numerals in a grid to the left of the denomination in words, and the country name at the top around the rim above the dates",
+    "lettering": "THE HASHEMITE KINGDOM OF JORDAN\r\n١٩٩٢-١٤١٢\r\n١٠ TEN PIASTRES\r\nعشرة  قروش",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "The Hashemite Kingdom of Jordan\r\n1992-1412\r\n10 Ten Piastres\r\nTen Piastres",
+    "picture": "https://en.numista.com/catalogue/photos/jordanie/4-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/jordanie/4-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "<p>Mint Set (KM#MS3):<br><img src=\"https://en.numista.com/catalogue/images/596728a025dbe.jpg\" alt=\"\"> <img src=\"https://en.numista.com/catalogue/images/596728a8f20b4.jpg\" alt=\"\"><br>© Images courtesy of Central Bank of Jordan</p>",
+  "tags": [
+    "Monarch",
+    "Mustache/Beard"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "55"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "55"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "MS3"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "PS13"
+    }
+  ],
+  "weight": 8,
+  "orientation": "medal",
+  "edge": {
+    "description": "Milled"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

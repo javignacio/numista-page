@@ -1,0 +1,137 @@
+{
+  "id": 5094,
+  "url": "https://en.numista.com/5094",
+  "title": "10 Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "colombie",
+    "name": "Colombia"
+  },
+  "min_year": 1952,
+  "max_year": 1966,
+  "ruler": [
+    {
+      "id": 4088,
+      "name": "Republic",
+      "wikidata_id": "Q739"
+    }
+  ],
+  "value": {
+    "text": "10 Centavos",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 147,
+      "name": "Peso decimalized",
+      "full_name": "Peso decimalized (1847-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 18.5,
+  "thickness": 1.31,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Luis Alberto Acuña Tapias"
+    ],
+    "description": "Arms of Colombia with the country name above around the rim and the date below",
+    "lettering": "REPUBLICA DE COLOMBIA\r\n1956",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Colombia",
+    "picture": "https://en.numista.com/catalogue/photos/colombie/669-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/669-180.jpg",
+    "picture_copyright": "KennyG"
+  },
+  "reverse": {
+    "engravers": [
+      "Luis Alberto Acuña Tapias"
+    ],
+    "description": "Value, the portrait of Indio Chief Calarcá facing right",
+    "lettering": "DIEZ CENTAVOS\r\nCALARCÁ",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Ten Centavos",
+    "picture": "https://en.numista.com/catalogue/photos/colombie/670-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/670-180.jpg",
+    "picture_copyright": "KennyG"
+  },
+  "comments": "<span style=\"font-weight:bold;\">Chief Calarcá</span> was a native American leader and war chief. This indigenous chief was the leader of the <span style=\"font-style:italic;\">Pijaos Tribe</span>, who lived in the actual Calarcá (municipality in the eastern part of the department of Quindío, Colombia). According to the legends, Chief Calarcá died in a fight with Baltazar Maldonado, an indigenous converted into the Catholicism, to keep the power of the territory, in a fight placed on Peñas Blancas, a characteristic mountain of the actual city of Calarcá.",
+  "related_types": [
+    {
+      "id": 30952,
+      "title": "10 Centavos (Independence)",
+      "category": "coin",
+      "country": {
+        "code": "colombie",
+        "name": "Colombia"
+      },
+      "minYear": 1960,
+      "maxYear": 1960
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Military leader",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "212.1"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "212.2"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "31"
+    },
+    {
+      "catalogue": {
+        "id": 348,
+        "code": "Restrepo"
+      },
+      "number": "380"
+    }
+  ],
+  "weight": 2.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 280,
+      "name": "Bogota Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,108 @@
+{
+  "id": 4235,
+  "url": "https://en.numista.com/4235",
+  "title": "50 Teňňe",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "turkmenistan",
+    "name": "Turkmenistan"
+  },
+  "min_year": 1993,
+  "max_year": 1993,
+  "ruler": [
+    {
+      "id": 1319,
+      "name": "Republic",
+      "wikidata_id": "Q874"
+    }
+  ],
+  "value": {
+    "text": "50 Teňňe",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 130,
+      "name": "Manat",
+      "full_name": "Manat (1993-2009)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2009-12-31"
+  },
+  "size": 24,
+  "thickness": 1.65,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The left profile of President Saparmurat Niyazov (1991-2006).",
+    "lettering": "TÜRKMENISTANYÑ PREZIDENTI\r\nSAPARMYRAT NYҰAZOW",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Turkmenistan President \r\nSaparmurat Niyazov",
+    "picture": "https://en.numista.com/catalogue/photos/turkmenistan/634bfcadac0b90.99314881-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/turkmenistan/634bfcadac0b90.99314881-180.jpg",
+    "picture_copyright": "gyoschak",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Value above a Rhyton",
+    "lettering": "TÜRKMENISTANYÑ TEÑÑESI\r\n50\r\n1993",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Turkmenistan  tenge",
+    "picture": "https://en.numista.com/catalogue/photos/turkmenistan/634bfcae4fc103.97321116-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/turkmenistan/634bfcae4fc103.97321116-180.jpg",
+    "picture_copyright": "gyoschak",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "Cornucopia is an ornamental container shaped like a goat&#039;s horn and has a decorative end piece",
+  "tags": [
+    "Politician",
+    "Container or tableware"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "5"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "6"
+    }
+  ],
+  "weight": 4.92,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

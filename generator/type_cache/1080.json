@@ -1,0 +1,116 @@
+{
+  "id": 1080,
+  "url": "https://en.numista.com/1080",
+  "title": "5 Pesos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "mexique",
+    "name": "Mexico"
+  },
+  "min_year": 1971,
+  "max_year": 1978,
+  "ruler": [
+    {
+      "id": 4029,
+      "name": "United Mexican States/Mexican Republic",
+      "wikidata_id": "Q96"
+    }
+  ],
+  "value": {
+    "text": "5 Pesos",
+    "numeric_value": 5,
+    "currency": {
+      "id": 150,
+      "name": "Peso",
+      "full_name": "Peso (1863-1992)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1995-11-15"
+  },
+  "size": 33,
+  "thickness": 2.22,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "National Arms (Eagle on cactus facing left with a snake in beak above wreath), with the country name forming a semicircle above",
+    "lettering": "ESTADOS UNIDOS MEXICANOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "United Mexican States",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/2523-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/2523-180.jpg",
+    "picture_copyright": "KennyG"
+  },
+  "reverse": {
+    "description": "Portrait of Vicente Guerrero facing right with the date to the left and the value above",
+    "lettering": "CINCO PESOS\r\n1973\r\nMo",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Five Pesos",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/2524-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/2524-180.jpg",
+    "picture_copyright": "KennyG"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/5932e0de76980.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5932e0de76980.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "tags": [
+    "Bird",
+    "Reptile",
+    "Military leader",
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "472"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "71"
+    }
+  ],
+  "weight": 14,
+  "orientation": "coin",
+  "edge": {
+    "description": "Smooth with inscription",
+    "lettering": "INDEPENDENCIA Y LIBERTAD",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Independence and Liberty",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/3719-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/3719-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 29,
+      "name": "Mexican Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

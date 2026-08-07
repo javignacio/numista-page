@@ -1,0 +1,116 @@
+{
+  "id": 1283,
+  "url": "https://en.numista.com/1283",
+  "title": "5 Gulden - Beatrix",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "pays-bas",
+    "name": "Netherlands"
+  },
+  "min_year": 1987,
+  "max_year": 2001,
+  "ruler": [
+    {
+      "id": 1303,
+      "name": "Beatrix",
+      "wikidata_id": "Q29574",
+      "group": {
+        "id": 750,
+        "name": "House of Orange-Nassau"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Gulden",
+    "numeric_value": 5,
+    "currency": {
+      "id": 70,
+      "name": "Gulden",
+      "full_name": "Gulden (decimalized, 1817-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2002-02-28"
+  },
+  "size": 23.5,
+  "thickness": 2.76,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze plated nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Bruno Ninaber van Eyben"
+    ],
+    "description": "Portrait in left profile of Beatrix of the Netherlands, vertical inscription at right.",
+    "lettering": "BEATRIX \r\nKONINGIN DER \r\nNEDERLANDEN",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Queen of the Netherlands",
+    "picture": "https://en.numista.com/catalogue/photos/pays-bas/671a4705abcb30.34118644-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/671a4705abcb30.34118644-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Bruno Ninaber van Eyben"
+    ],
+    "description": "Value above date, denomination, grid in the background.",
+    "lettering": "5 G \r\n1989",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "5 Gulden",
+    "picture": "https://en.numista.com/catalogue/photos/pays-bas/671a47070dd120.84260805-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/671a47070dd120.84260805-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "210"
+    }
+  ],
+  "weight": 9.25,
+  "orientation": "nine",
+  "edge": {
+    "description": "Reeded and inscripted.",
+    "lettering": "GOD ★ ZIJ ★ MET ★ ONS ★",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "God be with us",
+    "picture": "https://en.numista.com/catalogue/photos/pays-bas/668-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/668-180.jpg",
+    "picture_copyright": "ZacUK"
+  },
+  "mints": [
+    {
+      "id": 23,
+      "name": "Royal Dutch Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,176 @@
+{
+  "id": 6918,
+  "url": "https://en.numista.com/6918",
+  "title": "½ Dollar \"Kennedy Half Dollar\"",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "etats-unis",
+    "name": "United States"
+  },
+  "min_year": 1971,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 4720,
+      "name": "Federal republic",
+      "wikidata_id": "Q30"
+    }
+  ],
+  "value": {
+    "text": "½ Dollar ",
+    "numeric_value": 0.5,
+    "numerator": 1,
+    "denominator": 2,
+    "currency": {
+      "id": 59,
+      "name": "Dollar",
+      "full_name": "Dollar (1785-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 30.61,
+  "thickness": 2.15,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel clad copper (91.67% Copper, 8.33% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Gilroy Roberts"
+    ],
+    "designers": [
+      "Gilroy Roberts"
+    ],
+    "description": "Portrait of John F. Kennedy to the left and the date below",
+    "lettering": "LIBERTY\r\nGR\r\nIN GOD WE TRUST\r\nD\r\n2023",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/65d3659822e655.38791181-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/65d3659822e655.38791181-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Frank Gasparro"
+    ],
+    "designers": [
+      "Frank Gasparro"
+    ],
+    "description": "Modified presidential seal of the United States of America, a shield with vertical stripes on the chest of an American bald eagle. The eagle holds an olive branch in its right talon and a bundle of thirteen arrows in its left talon and a scroll with \"E PLURIBUS UNUM\" in its beak. A circle of 50 stars surrounds the eagle.",
+    "lettering": "UNITED STATES OF AMERICA\r\nE PLURIBUS UNUM\r\nFG\r\nHALF DOLLAR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Out of Many, One",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/65d36599b31038.25939913-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/65d36599b31038.25939913-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p>The reverse design of 1974 was resumed in 1977.<br><br>Gilroy Roberts monogram, which some confuse for a hammer and sickle, appears on the truncation.<br><img src=\"https://en.numista.com/catalogue/images/5acb6f49cdd73.jpg\" alt=\"\"><br><br>Type II Proofs have clearer mint marks than Type I Proofs.</p><p>&nbsp;</p><p>With/Without FG</p><p><a href=\"https://en.numista.com/catalogue/images/68dde5107871d.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/68dde5107871d.png\"></a><br><br>1979S Types<br><a href=\"https://en.numista.com/catalogue/images/639741c8e93ca.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/639741c8e93ca.jpg\" alt=\"\"></a><br><br>1981S types<br><a href=\"https://en.numista.com/catalogue/images/639308620cc57.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/639308620cc57.jpg\" alt=\"\"></a><br><br>2014D reliefs<br><a href=\"https://en.numista.com/catalogue/images/63930884e9402.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/63930884e9402.jpg\" alt=\"\"></a><br><br>Because of low demand, no Half Dollars were struck for general circulation in 1987 and again from 2002 to 2020. During this period the coin could be found in mint sets or purchased from the Mint in rolls and bags, at a premium above face value. Starting in 2021, the Federal Reserve resumed ordering these coins for general circulation.</p>",
+  "related_types": [
+    {
+      "id": 943,
+      "title": "½ Dollar \"Kennedy Half Dollar\" (90% Silver)",
+      "category": "coin",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 1964,
+      "maxYear": 1964
+    },
+    {
+      "id": 10865,
+      "title": "½ Dollar \"Kennedy Half Dollar\" (40% Silver)",
+      "category": "coin",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 1965,
+      "maxYear": 1970
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Eagle",
+    "Politician",
+    "Coat of Arms",
+    "Cold weapons"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "202b"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "A202b"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "A202b.1"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "203b"
+    }
+  ],
+  "weight": 11.34,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/3106-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/3106-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    },
+    {
+      "id": 10,
+      "name": "United States Mint of Denver"
+    },
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    },
+    {
+      "id": 12,
+      "name": "United States Mint of San Francisco"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

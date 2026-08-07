@@ -1,0 +1,130 @@
+{
+  "id": 5237,
+  "url": "https://en.numista.com/5237",
+  "title": "100 Pesos (non-magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "argentine",
+    "name": "Argentina"
+  },
+  "min_year": 1978,
+  "max_year": 1980,
+  "ruler": [
+    {
+      "id": 3983,
+      "name": "Federal Republic",
+      "wikidata_id": "Q414"
+    }
+  ],
+  "value": {
+    "text": "100 Pesos",
+    "numeric_value": 100,
+    "currency": {
+      "id": 260,
+      "name": "Peso ley",
+      "full_name": "Peso ley (1970-1983)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1984-03-30"
+  },
+  "size": 27,
+  "thickness": 1.97,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze (Cu 92 Al 8)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Value at center, small mark at top, date at bottom",
+    "lettering": "REPUBLICA ARGENTINA \r\n100 \r\nPESOS\r\n* 1979 *",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "ARGENTINIAN REPUBLIC\r\n100\r\nPESOS\r\n* 1979 *",
+    "picture": "https://en.numista.com/catalogue/photos/argentine/1263-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/1263-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "reverse": {
+    "description": "Jose de San Martín portrait left",
+    "lettering": "GENERAL JOSE DE SAN MARTIN",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/argentine/1262-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/1262-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "comments": "<p>KM#85a shares 1980 and 1981 mintages but with different metal used<br><br>Previously KM#60</p><p>&nbsp;</p><p>CJ# 305.3 corresponds to a mint error produced after confusing the reverse die of 1979 with the obverse of the previous year, thus causing it to have the laurels instead of the date of the bicentenary of the death of General San Martin.<br>&nbsp;</p>",
+  "related_types": [
+    {
+      "id": 5234,
+      "title": "100 Pesos (José de San Martín)",
+      "category": "coin",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 1978,
+      "maxYear": 1979
+    },
+    {
+      "id": 8117,
+      "title": "100 Pesos (magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "argentine",
+        "name": "Argentina"
+      },
+      "minYear": 1980,
+      "maxYear": 1981
+    }
+  ],
+  "tags": [
+    "Military leader",
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "85"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "86"
+    }
+  ],
+  "weight": 8,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/argentine/699041545b1784.75128037-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/699041545b1784.75128037-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 1336,
+      "name": "Buenos Aires"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

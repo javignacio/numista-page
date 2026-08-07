@@ -1,0 +1,177 @@
+{
+  "id": 2619,
+  "url": "https://en.numista.com/2619",
+  "title": "20 Cents - Elizabeth II (4th portrait; Magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "nouvelle-zelande",
+    "name": "New Zealand"
+  },
+  "min_year": 2006,
+  "max_year": 2022,
+  "ruler": [
+    {
+      "id": 629,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 788,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "20 Cents",
+    "numeric_value": 0.2,
+    "currency": {
+      "id": 54,
+      "name": "Dollar",
+      "full_name": "Dollar (1967-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21.75,
+  "thickness": 1.56,
+  "shape": "Spanish flower",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Ian Rank-Broadley"
+    ],
+    "description": "Fourth crowned portrait of Queen Elizabeth II facing right, wearing the Girls of Great Britain and Ireland Tiara, legend around, date below.",
+    "lettering": "NEW ZEALAND ELIZABETH II\r\nIRB\r\n2015",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/nouvelle-zelande/66f24b22d9a147.56039446-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/66f24b22d9a147.56039446-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "Robert Maurice Conly"
+    ],
+    "description": "Maori carving depicting Pukaki, a chief of the Ngāti Whakaue iwi (tribe) of Te Arawa.",
+    "lettering": "20",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/nouvelle-zelande/66f24b240a5101.14852245-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/66f24b240a5101.14852245-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p>The reverse is a reproduction of a remarkable Māori carving representing the 18th century Māori warrior leader called Pukaki, who was a Rangatira (Chief) of the Ngati Whakaue iwi of Te Arawa in the Rotorua district. The original carving was made in 1836 and today it can be viewed in the entrance of the Rotorua Museum. The figure is flanked by Māori motifs.</p><p>&nbsp;</p><p>This coin was first issued into circulation in 2006. It was replacing the old larger heavier copper-nickel version of the 20 cent coin first issued in 1967. The Reserve Bank of NZ &amp; the NZ Post Office issued a Limited Edition special set of coins called <strong>\"Small Change Smaller Change\"</strong> to celebrate the redesign of this coin and the 10 &amp; 50 cent coins and the removal of the 5 cent coin.<br><br><a href=\"https://en.numista.com/catalogue/images/601a316cd6c77.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/601a316cd6c77.jpg\" alt=\"\"></a> <a href=\"https://en.numista.com/catalogue/images/601a317c818b9.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/601a317c818b9.jpg\" alt=\"\"></a> <a href=\"https://en.numista.com/catalogue/images/601a318cb9b0e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/601a318cb9b0e.jpg\" alt=\"\"></a><br><br><a href=\"https://en.numista.com/catalogue/images/601a31a27c39e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/601a31a27c39e.jpg\" alt=\"\"></a> <a href=\"https://en.numista.com/catalogue/images/601a31b227d9e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/601a31b227d9e.jpg\" alt=\"\"></a> <a href=\"https://en.numista.com/catalogue/images/601a31c4c9f65.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/601a31c4c9f65.jpg\" alt=\"\"></a><br><br><i>The 2014 coin had Obverse die varieties:</i><br><a href=\"https://en.numista.com/catalogue/images/6287a9dbaed65.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6287a9dbaed65.jpg\" alt=\"\"></a></p>",
+  "related_types": [
+    {
+      "id": 2331,
+      "title": "20 Cents - Elizabeth II (2nd portrait)",
+      "category": "coin",
+      "country": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "minYear": 1967,
+      "maxYear": 1985
+    },
+    {
+      "id": 3914,
+      "title": "20 Cents - Elizabeth II (3rd portrait; Kiwi)",
+      "category": "coin",
+      "country": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "minYear": 1986,
+      "maxYear": 1989
+    },
+    {
+      "id": 3913,
+      "title": "20 Cents - Elizabeth II (3rd portrait; Pukaki)",
+      "category": "coin",
+      "country": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "minYear": 1990,
+      "maxYear": 1998
+    },
+    {
+      "id": 2721,
+      "title": "20 Cents - Elizabeth II (4th portrait; Pukaki, Non-Magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "minYear": 1999,
+      "maxYear": 2006
+    }
+  ],
+  "tags": [
+    "Sculpture"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "118a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "198"
+    }
+  ],
+  "weight": 4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain with seven indentations ('Spanish flower')",
+    "picture": "https://en.numista.com/catalogue/photos/nouvelle-zelande/66f24b25151129.94508787-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/66f24b25151129.94508787-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 21,
+      "name": "Perth Mint"
+    },
+    {
+      "id": 28,
+      "name": "Royal Australian Mint"
+    },
+    {
+      "id": 19,
+      "name": "Royal Canadian Mint of Ottawa"
+    },
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

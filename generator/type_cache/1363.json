@@ -1,0 +1,127 @@
+{
+  "id": 1363,
+  "url": "https://en.numista.com/1363",
+  "title": "5 Centavos (Phrygian Cap)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "colombie",
+    "name": "Colombia"
+  },
+  "min_year": 1942,
+  "max_year": 1966,
+  "ruler": [
+    {
+      "id": 4088,
+      "name": "Republic",
+      "wikidata_id": "Q739"
+    }
+  ],
+  "value": {
+    "text": "5 Centavos",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 147,
+      "name": "Peso decimalized",
+      "full_name": "Peso decimalized (1847-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21,
+  "thickness": 1.45,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (95% Copper, 5% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Jacobin liberty cap within bay leaf wreath, symbolizing the won freedom.",
+    "lettering": "REPUBLICA DE COLOMBIA\r\nLIBERTAD\r\n1954",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Colombia",
+    "picture": "https://en.numista.com/catalogue/photos/colombie/5f53f092198dd6.41382575-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/5f53f092198dd6.41382575-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "description": "Coffee bean sprigs flank denomination, cornucopia above.",
+    "lettering": "V \r\nB\r\nCENTAVOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/colombie/5f53f09271d4f0.64413152-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/5f53f09271d4f0.64413152-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/5c473b2e2afa0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5c473b2e2afa0.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "tags": [
+    "Cornucopia",
+    "Phrygian cap",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "206"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "27"
+    },
+    {
+      "catalogue": {
+        "id": 347,
+        "code": "Hernández"
+      },
+      "number": "377-382"
+    },
+    {
+      "catalogue": {
+        "id": 348,
+        "code": "Restrepo"
+      },
+      "number": "370"
+    }
+  ],
+  "weight": 3.95,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 280,
+      "name": "Bogota Mint"
+    },
+    {
+      "id": 281,
+      "name": "Casa de Moneda de Colombia"
+    },
+    {
+      "id": 280,
+      "name": "Bogota Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

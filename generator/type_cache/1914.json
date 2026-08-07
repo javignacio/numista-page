@@ -1,0 +1,156 @@
+{
+  "id": 1914,
+  "url": "https://en.numista.com/1914",
+  "title": "1 Reichspfennig",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "allemagne-pre1945",
+    "name": "Germany (1871-1948)"
+  },
+  "min_year": 1924,
+  "max_year": 1936,
+  "ruler": [
+    {
+      "id": 2863,
+      "name": "Weimar Republic",
+      "wikidata_id": "Q41304"
+    },
+    {
+      "id": 3581,
+      "name": "Third Reich",
+      "wikidata_id": "Q7318"
+    }
+  ],
+  "value": {
+    "text": "1 Pfennig",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 230,
+      "name": "Reichsmark",
+      "full_name": "Reichsmark (1924-1948)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 17.5,
+  "thickness": 1,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Value in circle",
+    "lettering": "DEUTSCHES REICH\r\n1 REICHSPFENNIG",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "German Empire\r\n1 Reichspfennig",
+    "picture": "https://en.numista.com/catalogue/photos/allemagne-pre1945/67e5b22e56cf62.20788429-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/allemagne-pre1945/67e5b22e56cf62.20788429-180.jpg",
+    "picture_copyright": "Janusik",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "A wheatsheaf between date and the mintmark at the bottom.",
+    "lettering": "1934\r\nA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/allemagne-pre1945/67e5b22ebd9562.41354812-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/allemagne-pre1945/67e5b22ebd9562.41354812-180.jpg",
+    "picture_copyright": "Janusik",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "A = Berlin<br />\r\nD = München<br />\r\nE = Muldenhütten<br />\r\nF = Stuttgart<br />\r\nG = Karlsruhe<br />\r\nJ = Hamburg",
+  "related_types": [
+    {
+      "id": 7157,
+      "title": "1 Rentenpfennig",
+      "category": "coin",
+      "country": {
+        "code": "allemagne-pre1945",
+        "name": "Germany (1871-1948)"
+      },
+      "minYear": 1923,
+      "maxYear": 1929
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "37"
+    },
+    {
+      "catalogue": {
+        "id": 81,
+        "code": "AKS"
+      },
+      "number": "57"
+    },
+    {
+      "catalogue": {
+        "id": 80,
+        "code": "J"
+      },
+      "number": "313"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "36"
+    }
+  ],
+  "weight": 2,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/allemagne-pre1945/697dd831385495.10910774-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/allemagne-pre1945/697dd831385495.10910774-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 5,
+      "name": "Berlin"
+    },
+    {
+      "id": 1,
+      "name": "Munich"
+    },
+    {
+      "id": 1366,
+      "name": "Muldenhütten"
+    },
+    {
+      "id": 2,
+      "name": "State Mint of Stuttgart / State Mints of Baden-Württemberg"
+    },
+    {
+      "id": 3,
+      "name": "State Mint of Karlsruhe / State Mints of Baden-Württemberg"
+    },
+    {
+      "id": 4,
+      "name": "Hamburg Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

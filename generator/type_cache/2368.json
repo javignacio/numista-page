@@ -1,0 +1,156 @@
+{
+  "id": 2368,
+  "url": "https://en.numista.com/2368",
+  "title": "20 Fillér",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "hongrie",
+    "name": "Hungary"
+  },
+  "min_year": 1967,
+  "max_year": 1989,
+  "ruler": [
+    {
+      "id": 1800,
+      "name": "People's Republic",
+      "wikidata_id": "Q16410"
+    }
+  ],
+  "value": {
+    "text": "20 Fillér",
+    "numeric_value": 0.2,
+    "currency": {
+      "id": 71,
+      "name": "Forint",
+      "full_name": "Forint (1946-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1996-09-30"
+  },
+  "size": 20.4,
+  "thickness": 1.4,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium (Aluminium 97%, Magnesium 3%)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Reményi József"
+    ],
+    "description": "Three wheat stalks divide year",
+    "lettering": "MAGYAR · NÉPKÖZTÁRSASÁG ·\r\n19 83",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Hungarian People's Republic\r\n1983",
+    "picture": "https://en.numista.com/catalogue/photos/hongrie/5fcf61c988c791.87068588-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hongrie/5fcf61c988c791.87068588-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Value, underlined with three lines and the mintmark at the bottom",
+    "lettering": "20\r\nFILLÉR\r\nBP.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/hongrie/5fcf61ca007021.42315273-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hongrie/5fcf61ca007021.42315273-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p><strong><u>Varieties:</u></strong></p><p>&nbsp;</p><p>The numeral “1” is engraved in several versions during the life of this type, sometimes in the early years strongly resembling the numeral “7”:</p><p>&nbsp;</p><p><strong><u>“7977” variety in 1971:</u></strong></p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/5deb70f8a7e2b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5deb70f8a7e2b.jpg\" alt=\"\"></a><br><br><a href=\"https://en.numista.com/catalogue/images/5dd2a46d57461.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5dd2a46d57461.png\" alt=\"\"></a><br><br>Variants of 1975 coins:<br>The upper one is rarer and more valuable.<br><br>NOTE: There are slightly larger date letters for issues of the 80s.</p>",
+  "related_types": [
+    {
+      "id": 1993,
+      "title": "20 Fillér",
+      "category": "coin",
+      "country": {
+        "code": "hongrie",
+        "name": "Hungary"
+      },
+      "minYear": 1953,
+      "maxYear": 1966
+    },
+    {
+      "id": 6324,
+      "title": "20 Fillér",
+      "category": "coin",
+      "country": {
+        "code": "hongrie",
+        "name": "Hungary"
+      },
+      "minYear": 1990,
+      "maxYear": 1996
+    }
+  ],
+  "tags": [
+    "Agriculture"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "573"
+    },
+    {
+      "catalogue": {
+        "id": 14,
+        "code": "ÉH"
+      },
+      "number": "1593"
+    },
+    {
+      "catalogue": {
+        "id": 16,
+        "code": "H"
+      },
+      "number": "2333"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "52a"
+    },
+    {
+      "catalogue": {
+        "id": 360,
+        "code": "Adamo"
+      },
+      "number": "F4.2"
+    }
+  ],
+  "weight": 0.9,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/hongrie/69dbb4fc6c9421.24073532-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hongrie/69dbb4fc6c9421.24073532-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 1248,
+      "name": "Hungarian mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

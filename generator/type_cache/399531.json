@@ -1,0 +1,99 @@
+{
+  "id": 399531,
+  "url": "https://en.numista.com/399531",
+  "title": "Nummus - Constantinus I (SOLI INVICTO COMITI, T-F, PTR, Treveri)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "rome",
+    "name": "Roman Empire (27 BC - 395 AD)"
+  },
+  "min_year": 313,
+  "max_year": 315,
+  "ruler": [
+    {
+      "id": 119,
+      "name": "Constantine I",
+      "wikidata_id": "Q8413",
+      "nomisma_id": "constantine_i",
+      "group": {
+        "id": 324,
+        "name": "Tetrarchy and Constantinian dynasty"
+      }
+    }
+  ],
+  "value": {
+    "text": "Nummus / Follis",
+    "numeric_value": 0.005555555555555556,
+    "numerator": 1,
+    "denominator": 180,
+    "currency": {
+      "id": 1619,
+      "name": "Solidus, Reform of Constantine",
+      "full_name": "Solidus, Reform of Constantine (AD 310/324 – 395)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 22,
+  "shape": "Round (irregular)",
+  "composition": {
+    "text": "Bronze"
+  },
+  "technique": {
+    "text": "Hammered"
+  },
+  "obverse": {
+    "description": "Bust of Constantine I, laureate, draped, cuirassed, right.",
+    "lettering": "CONSTANTINVS P F AVG",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Constantinus Pius Felix Augustus.",
+    "lettering_translation": "Constantine pious happy emperor."
+  },
+  "reverse": {
+    "description": "Sol, radiate, chlamys draped across left shoulder and spread, standing right, head left, raising right hand and holding globe in left hand.\r\nLetters across fields.\r\nOfficina and mintmark in exergue.",
+    "lettering": "SOLI INVIC-TO COMITI\r\nT - F",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ]
+  },
+  "tags": [
+    "Armour",
+    "Globe"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 459,
+        "code": "RIC VII"
+      },
+      "number": "41"
+    },
+    {
+      "catalogue": {
+        "id": 1020,
+        "code": "OCRE"
+      },
+      "number": "ric.7.tri.46"
+    }
+  ],
+  "weight": 3.41,
+  "orientation": "variable",
+  "mints": [
+    {
+      "id": 67,
+      "name": "Augusta Treverorum / Treveri"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

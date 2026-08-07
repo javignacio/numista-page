@@ -1,0 +1,128 @@
+{
+  "id": 2621,
+  "url": "https://en.numista.com/2621",
+  "title": "½ Balboa",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "panama",
+    "name": "Panama"
+  },
+  "min_year": 1973,
+  "max_year": 1993,
+  "ruler": [
+    {
+      "id": 4072,
+      "name": "Republic",
+      "wikidata_id": "Q804"
+    }
+  ],
+  "value": {
+    "text": "½ Balboa",
+    "numeric_value": 0.5,
+    "numerator": 1,
+    "denominator": 2,
+    "currency": {
+      "id": 5,
+      "name": "Balboa",
+      "full_name": "Balboa (1904-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 30.61,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel clad copper (Cladding: 75% Copper, 25% Nickel; Core: 100% Copper)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms with 9 stars above. Name of the country above, wreath and date below.",
+    "lettering": "REPVBLICA DE PANAMA\r\n*********\r\nPRO MUNDI BENEFICIO\r\n1975",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Panama\r\nFor the Benefit of the World",
+    "picture": "https://en.numista.com/catalogue/photos/panama/792-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/panama/792-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "description": "Armoured bust with helmet of Vasco Núñez de Balboa facing left surrounded by value in letters and wreath. The bust touches the rim below.",
+    "lettering": "· MEDIO · BALBOA ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Half Balboa",
+    "picture": "https://en.numista.com/catalogue/photos/panama/791-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/panama/791-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "comments": "Balboa was a Spaniard, first European who crossed the Isthmus, reached the Pacific by land and discovered the Perlas Archipelago (1513). The 9 stars represent the 9 provinces of the country at that time (there are now 10).<br /><br />\r\nSince its separation from Colombia in 1903, Panama has used the United States Dollar. These coins have the same specifications as the <a href=\"https://en.numista.com/6918\">United States Half Dollar</a> and circulated alongside it.",
+  "related_types": [
+    {
+      "id": 7526,
+      "title": "½ Balboa",
+      "category": "coin",
+      "country": {
+        "code": "panama",
+        "name": "Panama"
+      },
+      "minYear": 1966,
+      "maxYear": 1993
+    }
+  ],
+  "tags": [
+    "Coat of Arms",
+    "Explorer"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "12b"
+    }
+  ],
+  "weight": 11.34,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/panama/63305b4e928c10.23218966-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/panama/63305b4e928c10.23218966-180.jpg",
+    "picture_copyright": "Rhonan",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    },
+    {
+      "id": 10,
+      "name": "United States Mint of Denver"
+    },
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    },
+    {
+      "id": 12,
+      "name": "United States Mint of San Francisco"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

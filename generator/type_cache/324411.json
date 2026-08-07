@@ -1,0 +1,128 @@
+{
+  "id": 324411,
+  "url": "https://en.numista.com/324411",
+  "title": "10 Céntimos (With Braille)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "perou",
+    "name": "Peru"
+  },
+  "min_year": 1991,
+  "max_year": 2000,
+  "ruler": [
+    {
+      "id": 3757,
+      "name": "Republic",
+      "wikidata_id": "Q419"
+    }
+  ],
+  "value": {
+    "text": "10 Centimos",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 184,
+      "name": "Nuevo sol",
+      "full_name": "Nuevo sol (1991-2015) / Sol (2016-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 20.5,
+  "thickness": 1.4,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms of Peru surrounded by legend, date on bottom.",
+    "lettering": "BANCO CENTRAL DE RESERVA DEL PERU\r\n1995",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Reserve Bank of Peru",
+    "picture": "https://en.numista.com/catalogue/photos/perou/6350b0ec6321a1.04972627-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/6350b0ec6321a1.04972627-180.jpg",
+    "picture_copyright": "ciscoins",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Denomination flanked by Chimu designs from city of Chan Chan, all with Braille code above.",
+    "lettering": "⠌⠬\r\n10 \r\nCENTIMOS\r\nLIMA",
+    "lettering_scripts": [
+      {
+        "name": "Braille"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/perou/6350b0ec95a191.80506144-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/6350b0ec95a191.80506144-180.jpg",
+    "picture_copyright": "ciscoins",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p><strong><u>VARIANTS:</u></strong><br><br><a href=\"https://en.numista.com/catalogue/images/5f1cc66302e18.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5f1cc66302e18.png\" alt=\"\"></a><br>Wide Braille code/narrow Braille code (narrow only detected on some 1991 and 1992 issues).<br><br><a href=\"https://en.numista.com/catalogue/images/5da1caa96c547.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5da1caa96c547.jpg\" alt=\"\"></a><br>With Chavez signature variant, only detected on some 1993 issues.<br><br><a href=\"https://en.numista.com/catalogue/images/569663f970e56.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/569663f970e56.jpg\" alt=\"\"></a><a href=\"https://en.numista.com/catalogue/images/569664027a50a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/569664027a50a.jpg\" alt=\"\"></a><br>Reverse : with Braille KM# 305.1, KM# 305.2 and KM# 305.3/without Braille (KM# 305.4, listed separately)<br><br><a href=\"https://en.numista.com/catalogue/images/5696643456086.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5696643456086.jpg\" alt=\"\"></a><a href=\"https://en.numista.com/catalogue/images/5696643e2922b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5696643e2922b.jpg\" alt=\"\"></a><br>Obverse : PERU/PERÚ<br>All KM# 305.1 and KM# 305.2 have \"PERU\" on obverse and \"CENTIMOS\" on reverse, both without accent; all KM# 305.3 have \"PERÚ\" and \"CÉNTIMOS\" with accent.<br><br><a href=\"https://en.numista.com/catalogue/images/5a9225b85e86a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5a9225b85e86a.jpg\" alt=\"\"></a><br>Obverse : different shape of wreath over the coat of arms<br>All KM# 305.1 have round wreath; all KM# 305.2 and KM# 305.3 have oval wreath.</p>",
+  "related_types": [
+    {
+      "id": 2446,
+      "title": "10 Céntimos (Without braille)",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 2001,
+      "maxYear": 2025
+    }
+  ],
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "305"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "104"
+    },
+    {
+      "catalogue": {
+        "id": 2898,
+        "code": "Galst/Alfen"
+      },
+      "number": "X.37"
+    }
+  ],
+  "weight": 3.43,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 297,
+      "name": "Lima"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

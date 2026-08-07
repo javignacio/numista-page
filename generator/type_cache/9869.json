@@ -1,0 +1,105 @@
+{
+  "id": 9869,
+  "url": "https://en.numista.com/9869",
+  "title": "20 Lire (Hands)",
+  "object_type": {
+    "id": 3,
+    "name": "Non-circulating coins"
+  },
+  "issuer": {
+    "code": "saint-marin",
+    "name": "San Marino"
+  },
+  "min_year": 1976,
+  "max_year": 1976,
+  "ruler": [
+    {
+      "id": 1430,
+      "name": "Republic",
+      "wikidata_id": "Q238"
+    }
+  ],
+  "value": {
+    "text": "20 Lire",
+    "numeric_value": 20,
+    "currency": {
+      "id": 113,
+      "name": "Lira",
+      "full_name": "Lira (1864-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2002-03-01"
+  },
+  "size": 21.25,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Mario Molteni",
+      "Franco Pioli"
+    ],
+    "description": "Arms of San Marino.",
+    "lettering": "REPUBBLICA · DI · SAN MARINO · \r\n1976",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/saint-marin/2252-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2252-180.jpg",
+    "picture_copyright": "Comptoir des Monnaies",
+    "picture_copyright_url": "http://www.comptoir-des-monnaies.com"
+  },
+  "reverse": {
+    "engravers": [
+      "Mario Molteni",
+      "Franco Pioli"
+    ],
+    "description": "Two hands divided by a stone structure.",
+    "lettering": "L20",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/saint-marin/2253-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/saint-marin/2253-180.jpg",
+    "picture_copyright": "Comptoir des Monnaies",
+    "picture_copyright_url": "http://www.comptoir-des-monnaies.com"
+  },
+  "series": "Family",
+  "comments": "Two hands in action to indicate the work, the industriousness of the San Marino people. The brick wall, a pillar, becomes synonymous with erecting, pulling up. Worker&#039;s hand, light hand of the musician: the hands become characters and the sense of the pattern is devised so as not to see them cropped against the specular background and to highlight their plastic value. The geometric base dear to the Molteni sculptor serves to make him stand the symbolic pillar, material and intellectual at the same time.<br /><br />\r\nSan Marino&#039;s 1976 Mint Set<br />\r\nKM #MS8<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5bd1836dacb6b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5bd1836dacb6b.jpg\" alt=\"\" width=\"200\" height=\"201\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5bd1837994b41.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5bd1837994b41.jpg\" alt=\"\" width=\"200\" height=\"201\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5bd18385824da.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5bd18385824da.jpg\" alt=\"\" width=\"200\" height=\"208\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5bd183926ed2a.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5bd183926ed2a.jpg\" alt=\"\" width=\"200\" height=\"205\" /></a>",
+  "tags": [
+    "Tower",
+    "Hand"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "55"
+    }
+  ],
+  "weight": 3.6,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 22,
+      "name": "Rome"
+    }
+  ],
+  "category": "coin",
+  "type": "Non-circulating coins"
+}

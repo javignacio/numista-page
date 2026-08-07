@@ -1,0 +1,123 @@
+{
+  "id": 952,
+  "url": "https://en.numista.com/952",
+  "title": "2 Pence (non-magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "irlande",
+    "name": "Ireland"
+  },
+  "min_year": 1971,
+  "max_year": 1988,
+  "ruler": [
+    {
+      "id": 2858,
+      "name": "Republic",
+      "wikidata_id": "Q27"
+    }
+  ],
+  "value": {
+    "text": "2 Pence",
+    "numeric_value": 0.02,
+    "currency": {
+      "id": 120,
+      "name": "Pound / Irish Pound",
+      "full_name": "Pound / Irish Pound (decimalized, 1971-2001)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1971-02-15"
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2002-02-09"
+  },
+  "size": 25.9,
+  "thickness": 1.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Irish harp with the country name to the left and the year to the right",
+    "lettering": "éire 1985",
+    "lettering_scripts": [
+      {
+        "name": "Latin (Gaelic)"
+      }
+    ],
+    "lettering_translation": "Ireland 1985",
+    "picture": "https://en.numista.com/catalogue/photos/irlande/191-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/irlande/191-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Gabriel Hayes"
+    ],
+    "description": "Decorative initial \"U\" resembling a bird, out of the \"Book of Kells\" with the abbreviated denomination '2P\" above.",
+    "lettering": "2P",
+    "lettering_scripts": [
+      {
+        "name": "Latin (Gaelic)"
+      }
+    ],
+    "unabridged_legend": "2 Pingine",
+    "lettering_translation": "2 Pence",
+    "picture": "https://en.numista.com/catalogue/photos/irlande/192-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/irlande/192-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "<p>Of the coins dated 1979, 12,000,000 were struck by Royal Mint with the remainder by the Irish Mint.</p>",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "21"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "6708"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "20"
+    }
+  ],
+  "weight": 7.1,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 1318,
+      "name": "Irish Mint"
+    },
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

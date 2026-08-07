@@ -1,0 +1,106 @@
+{
+  "id": 5387,
+  "url": "https://en.numista.com/5387",
+  "title": "1 Centavo",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bresil",
+    "name": "Brazil"
+  },
+  "min_year": 1986,
+  "max_year": 1988,
+  "ruler": [
+    {
+      "id": 2684,
+      "name": "Federative Republic of Brazil",
+      "wikidata_id": "Q155"
+    }
+  ],
+  "value": {
+    "text": "1 Centavo",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 207,
+      "name": "Cruzado",
+      "full_name": "Cruzado (1986-1989)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1989-00-00"
+  },
+  "size": 15,
+  "thickness": 1.45,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "State emblem of Brazil (Star with a circle within, surrounded by 27 small stars. Southern cross inside a circle flanked by tobacco and coffee plant)",
+    "lettering": "REPUBLICA FEDERATIVA DO BRASIL\r\n15 de Novembro de 1889",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Federative Republic of Brazil\r\nNovember 15th.,, 1889",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/6978fa6ec94a12.00620607-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/6978fa6ec94a12.00620607-180.jpg",
+    "picture_copyright": "Sonic_off",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Denomination in number and letters, country name on top, Issuing year below.",
+    "lettering": "BRASIL \r\n1 \r\nCENTAVO \r\n1986",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Brazil\r\n1 Cent.",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/6978fa70649024.84590989-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/6978fa70649024.84590989-180.jpg",
+    "picture_copyright": "Sonic_off",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "600"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "109"
+    }
+  ],
+  "weight": 1.6,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 1335,
+      "name": "Mint of Brazil"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,131 @@
+{
+  "id": 2847,
+  "url": "https://en.numista.com/2847",
+  "title": "20 Pesos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "colombie",
+    "name": "Colombia"
+  },
+  "min_year": 1989,
+  "max_year": 2003,
+  "ruler": [
+    {
+      "id": 4088,
+      "name": "Republic",
+      "wikidata_id": "Q739"
+    }
+  ],
+  "value": {
+    "text": "20 Pesos",
+    "numeric_value": 20,
+    "currency": {
+      "id": 147,
+      "name": "Peso decimalized",
+      "full_name": "Peso decimalized (1847-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 20.25,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze (92% Copper, 6% Aluminium, 2% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Arms of Colombia containing the motto \"Libertad Y Orden\" and the date at the bottom",
+    "lettering": "REPUBLICA DE COLOMBIA\r\nLIBERTAD Y ORDEN\r\n1994",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Colombia\r\nLiberty and Order",
+    "picture": "https://en.numista.com/catalogue/photos/colombie/1307-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/1307-180.jpg",
+    "picture_copyright": "ken6528"
+  },
+  "reverse": {
+    "description": "Value in a wreath",
+    "lettering": "20\r\nPESOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/colombie/1308-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/1308-180.jpg",
+    "picture_copyright": "ken6528"
+  },
+  "comments": "Design varieties exist:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/64c6db64c3509.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64c6db64c3509.png\" alt=\"\" width=\"200\" height=\"200\" /></a><br /><br />\r\n1994 has multiple variants:<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5903a40bd8d08.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5903a40bd8d08.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nCredit for the following photos and descriptions: Carlos Andres Zumino, Duberney Osorio, and Bernardo Gonzalez White.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/64fe0cd510db7.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64fe0cd510db7.jpg\" alt=\"\" width=\"200\" height=\"101\" /></a><br />\r\n1: Large date. Condor wings to the middle of the U and middle of the M. 72 pearls on obverse and 72 pearls on reverse.<br /><br />\r\n2: this variety is believed to exist but has not been found. Large date. Condor wings to the middle of the U and middle of the M. 72 pearls on obverse and 68 pearls on reverse.<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/64fe0d48c706d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64fe0d48c706d.jpg\" alt=\"\" width=\"200\" height=\"103\" /></a><br />\r\n3: Large date. Condor wings to the middle of the U and beginning of the M. 72 pearls on obverse and 72 pearls on reverse.<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/64fe0dc6d4206.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64fe0dc6d4206.jpg\" alt=\"\" width=\"199\" height=\"100\" /></a><br />\r\n4: Large date. Condor wings to the middle of the U and beginning of the M. 72 pearls on obverse and 68 pearls on reverse.<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/64fe0e1fc1392.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64fe0e1fc1392.jpg\" alt=\"\" width=\"199\" height=\"99\" /></a><br />\r\n5: Small date. Condor wings to the beginning of the U and end of the M. 68 pearls on obverse and 72 pearls on reverse.<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/64fe0ec454f58.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64fe0ec454f58.jpg\" alt=\"\" width=\"199\" height=\"97\" /></a><br />\r\n6: Small date. Condor wings to the beginning of the U and end of the M. 68 pearls on obverse and 68 pearls on reverse.<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/64fe0f02b3310.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64fe0f02b3310.jpg\" alt=\"\" width=\"199\" height=\"100\" /></a><br />\r\n7: Small date. Condor wings to the middle of the P and end of the M. 68 pearls on obverse and 72 pearls on reverse.<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/64fe0f3970ff5.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64fe0f3970ff5.jpg\" alt=\"\" width=\"200\" height=\"104\" /></a><br />\r\n8: Small date. Condor wings to the middle of the P and end of the M. 68 pearls on obverse and 68 pearls on reverse.<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/64fe0f7241ad8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64fe0f7241ad8.jpg\" alt=\"\" width=\"199\" height=\"98\" /></a><br />\r\n9: Large date. Condor wings to the middle of the U and end of the M. 72 pearls on obverse and 72 pearls on reverse. This may be a mule, with the 1989-1993 obverse and the 1994-2003 reverse.<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/64fe1011d412f.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64fe1011d412f.jpg\" alt=\"\" width=\"200\" height=\"98\" /></a><br />\r\n10: Large date. Condor wings to the middle of the U and beginning of the M. 72 pearls on obverse and 72 pearls on reverse. This may be a mule, with the 1994-2003 obverse and 1989-1993 reverse.<br /><br />\r\nObverse<br />\r\n<a href=\"https://en.numista.com/catalogue/images/64fe10960bf8f.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64fe10960bf8f.jpg\" alt=\"\" width=\"200\" height=\"162\" /></a><br />\r\nLarge Date with 72 pearls (numbers 1, 2, and 3).<br />\r\nSmall Date with 68 pearls (numbers 4, 5, and 6).<br /><br />\r\nReverse<br />\r\n<a href=\"https://en.numista.com/catalogue/images/64fe10cac21a3.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64fe10cac21a3.jpg\" alt=\"\" width=\"200\" height=\"169\" /></a><br />\r\n72 pearls (numbers 1, 2, 4, and 5).<br />\r\n68 pearls (numbers 3 and 6).",
+  "tags": [
+    "Bird",
+    "Coat of Arms",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "282"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "282.1"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "282.2"
+    },
+    {
+      "catalogue": {
+        "id": 348,
+        "code": "Restrepo"
+      },
+      "number": "439"
+    },
+    {
+      "catalogue": {
+        "id": 347,
+        "code": "Hernández"
+      },
+      "number": "639-640"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "110"
+    }
+  ],
+  "weight": 3.6,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 4172,
+      "name": "Fábrica de Moneda de Ibagué"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

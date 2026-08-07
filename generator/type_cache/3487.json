@@ -1,0 +1,109 @@
+{
+  "id": 3487,
+  "url": "https://en.numista.com/3487",
+  "title": "50 Cents - Elizabeth II (3rd portrait; non-magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "iles_salomon",
+    "name": "Solomon Islands"
+  },
+  "min_year": 1990,
+  "max_year": 2005,
+  "ruler": [
+    {
+      "id": 1084,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 805,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "50 Cents",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 49,
+      "name": "Dollar",
+      "full_name": "Dollar (1977-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 29.5,
+  "thickness": 1.9,
+  "shape": "Dodecagonal (12-sided)",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Raphael David Maklouf"
+    ],
+    "description": "Crowned queen Elizabeth II facing right, engraver's initials in truncation.",
+    "lettering": "ELIZABETH II SOLOMON ISLANDS\r\nRDM\r\n2005",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/iles_salomon/68e36cad99f6a7.29073936-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/iles_salomon/68e36cad99f6a7.29073936-180.jpg",
+    "picture_copyright": "riversxian",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Coat of arms with supporters above value.",
+    "lettering": "TO LEAD IS TO SERVE\r\n50 CENTS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/iles_salomon/68e36cb0d1e073.45401578-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/iles_salomon/68e36cb0d1e073.45401578-180.jpg",
+    "picture_copyright": "riversxian",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "tags": [
+    "Fish",
+    "Reptile",
+    "Monarch",
+    "Crown",
+    "Coat of Arms",
+    "Sun"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "29"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "30"
+    }
+  ],
+  "weight": 10,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

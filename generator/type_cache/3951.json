@@ -1,0 +1,121 @@
+{
+  "id": 3951,
+  "url": "https://en.numista.com/3951",
+  "title": "50 Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "mexique",
+    "name": "Mexico"
+  },
+  "min_year": 1970,
+  "max_year": 1983,
+  "ruler": [
+    {
+      "id": 4029,
+      "name": "United Mexican States/Mexican Republic",
+      "wikidata_id": "Q96"
+    }
+  ],
+  "value": {
+    "text": "50 Centavos",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 150,
+      "name": "Peso",
+      "full_name": "Peso (1863-1992)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1995-11-15"
+  },
+  "size": 25,
+  "thickness": 1.9,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Revised National Arms (Eagle on cactus facing left with snake in beak above wreath), with the inscription forming a semicircle above it.",
+    "lettering": "ESTADOS UNIDOS MEXICANOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "United Mexican States",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/3743-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/3743-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "reverse": {
+    "description": "Portrait of Cuauhtémoc facing left, with feather crown. Value around the top half. Monogram 'Mo' of the Mexico City Mint is in the feather crown with 'o' atop of the mintmark and under the bust with 'o' to the right of 'M' next to the date.",
+    "lettering": "· CINCUENTA CENTAVOS ·\r\nMo\r\nMo 1970",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "· Fifty cents ·\r\nMo\r\nMo 1970",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/3744-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/3744-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "comments": "In 1970, the United States Mint in Denver manufactured 119,871,043 blank planchets to used in the minting of this coin.<br /><br />\r\nExamples and comparisons of the different varieties:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/56715f350298d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/56715f350298d.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><a href=\"https://en.numista.com/catalogue/images/56715f88778e4.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/56715f88778e4.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><a href=\"https://en.numista.com/catalogue/images/56715fa9356ee.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/56715fa9356ee.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><a href=\"https://en.numista.com/catalogue/images/56715fbcc5492.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/56715fbcc5492.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "related_types": [
+    {
+      "id": 1030,
+      "title": "50 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "minYear": 1964,
+      "maxYear": 1969
+    }
+  ],
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "452"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "69"
+    }
+  ],
+  "weight": 6.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded.",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/627eb938051409.51724782-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/627eb938051409.51724782-180.jpg",
+    "picture_copyright": "Harryg",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 29,
+      "name": "Mexican Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

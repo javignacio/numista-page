@@ -1,0 +1,108 @@
+{
+  "id": 3505,
+  "url": "https://en.numista.com/3505",
+  "title": "5 New Dollars",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "taiwan",
+    "name": "Taiwan"
+  },
+  "min_year": 1981,
+  "max_year": 2024,
+  "ruler": [
+    {
+      "id": 5351,
+      "name": "Republic",
+      "wikidata_id": "Q865"
+    }
+  ],
+  "value": {
+    "text": "5 Yuan",
+    "numeric_value": 5,
+    "currency": {
+      "id": 57,
+      "name": "New dollar",
+      "full_name": "New dollar (1949-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 22,
+  "thickness": 1.49,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Bust of Chiang Kai-shek left",
+    "lettering": "年三十七國民華中",
+    "lettering_scripts": [
+      {
+        "name": "Chinese (traditional, regular script)"
+      }
+    ],
+    "lettering_translation": "Republic of China, year 73",
+    "picture": "https://en.numista.com/catalogue/photos/taiwan/6820083d3ce020.91537635-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/taiwan/6820083d3ce020.91537635-180.jpg",
+    "picture_copyright": "ajbbarbados",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Chinese symbols in center, 5 below",
+    "lettering": "圓伍\r\n5",
+    "lettering_scripts": [
+      {
+        "name": "Chinese (traditional, regular script)"
+      }
+    ],
+    "lettering_translation": "Five Dollars",
+    "picture": "https://en.numista.com/catalogue/photos/taiwan/6820083db7f942.00688897-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/taiwan/6820083db7f942.00688897-180.jpg",
+    "picture_copyright": "ajbbarbados",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "tags": [
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "552"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "22"
+    }
+  ],
+  "weight": 4.4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/taiwan/315-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/taiwan/315-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 4724,
+      "name": "Central Mint of Taiwan"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

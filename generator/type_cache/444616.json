@@ -1,0 +1,113 @@
+{
+  "id": 444616,
+  "url": "https://en.numista.com/444616",
+  "title": "5 Cents - Elizabeth II (2nd portrait modified)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "canada",
+    "name": "Canada"
+  },
+  "min_year": 1979,
+  "max_year": 1981,
+  "ruler": [
+    {
+      "id": 2095,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 827,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Cents",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 44,
+      "name": "Dollar",
+      "full_name": "Dollar (1858-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21.21,
+  "thickness": 1.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Arnold Machin"
+    ],
+    "description": "Bust of Queen Elizabeth II, as at 37 years of age, wearing tiara, facing right.",
+    "lettering": "ELIZABETH II  D·G·REGINA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "ELIZABETH II DEI GRATIA REGINA",
+    "lettering_translation": "Elizabeth II Queen by the grace of God",
+    "picture": "https://en.numista.com/catalogue/photos/canada/6751b6df383820.52381626-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/6751b6df383820.52381626-180.jpg"
+  },
+  "reverse": {
+    "engravers": [
+      "Thomas Shingles"
+    ],
+    "designers": [
+      "George Kruger Gray"
+    ],
+    "description": "A North American Beaver (Binomial Name: Castor canadensis), above the country name, surrounded with the face value, flanked on both sides by a maple leaf",
+    "lettering": "5 CENTS\r\nCANADA\r\n1979\r\nK·G",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/canada/6751b6df8f56b5.30307097-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/6751b6df8f56b5.30307097-180.jpg"
+  },
+  "comments": "<p>“Starting with the 1979 coinage, and as part of a general standardization of the coinage, the portrait of the Queen was reduced. The aim was to make the size of the portrait proportional to the diameter of the coin, whatever the denomination.” - Standard Charlton catalog Volume I</p><p>\"The reorganization of numismatic products in 1980 saw the inclusion of Proof coins in the sets offered by the Royal Canadian Mint.\" - Standard Charlton Catalogue Volume I</p>",
+  "tags": [
+    "Rodent"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "60.2"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "60"
+    }
+  ],
+  "weight": 4.54,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

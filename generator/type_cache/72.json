@@ -1,0 +1,114 @@
+{
+  "id": 72,
+  "url": "https://en.numista.com/72",
+  "title": "1 Cent - Elizabeth II (1st portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "oeco",
+    "name": "Eastern Caribbean States"
+  },
+  "min_year": 1955,
+  "max_year": 1965,
+  "ruler": [
+    {
+      "id": 1089,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 810,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Cent",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 262,
+      "name": "British West Indies dollar",
+      "full_name": "British West Indies dollar (1935-1965)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 26,
+  "thickness": 1.51,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Cecil Thomas"
+    ],
+    "description": "Portrait of Queen Elizabeth II facing right",
+    "lettering": "QUEEN ELIZABETH THE SECOND\r\nCT",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/oeco/17-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/oeco/17-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Thomas Humphrey Paget"
+    ],
+    "description": "Value flanked by palm tree fronds",
+    "lettering": "BRITISH CARIBBEAN TERRITORIES\r\n1\r\nCENT\r\n1965\r\n·EASTERN GROUP·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/oeco/19-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/oeco/19-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "Until 1959 this type was minted with 95.5% Copper, 3% Tin, and 1.5% Zinc. After 1959 they were minted with 97% Copper, 2.5% Zinc, and 0.5% Tin.",
+  "tags": [
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "2"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "2"
+    }
+  ],
+  "weight": 5.67,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

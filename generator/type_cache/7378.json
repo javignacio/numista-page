@@ -1,0 +1,117 @@
+{
+  "id": 7378,
+  "url": "https://en.numista.com/7378",
+  "title": "1 Dollar - Elizabeth II (4th Portrait - APEC Australia)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "australie",
+    "name": "Australia"
+  },
+  "min_year": 2007,
+  "max_year": 2007,
+  "ruler": [
+    {
+      "id": 1783,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 825,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Dollar",
+    "numeric_value": 1,
+    "currency": {
+      "id": 243,
+      "name": "Dollar",
+      "full_name": "Dollar (1966-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25,
+  "thickness": 2.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze (92% Copper, 6% Aluminium, 2% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Ian Rank-Broadley"
+    ],
+    "description": "4th portrait of Queen Elizabeth II facing right wearing the Girls of Great Britain and Ireland Tiara",
+    "lettering": "ELIZABETH II \r\nAUSTRALIA 2007\r\nIRB",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/australie/6674574269b861.05056830-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/australie/6674574269b861.05056830-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "Vladimir Gottwald"
+    ],
+    "description": "Logo/Symbol of the Asia-Pacific Economic Cooperation (APEC) forum made up of a 7 pointed star itself made from 21 boomerangs",
+    "lettering": "APEC AUSTRALIA 2007\r\nONE DOLLAR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/australie/667457436826f2.78937076-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/australie/667457436826f2.78937076-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "commemorated_topic": "APEC Australia",
+  "comments": "<p>The Asia Pacific Economic Cooperation (APEC) is a group of 21 nations from around Asia and the Pacific who are working towards economic growth and liberalization in the region. Formed in 1989 at the urging of Australia, APEC meets in one of the member nations to hold discussions and forums each year. These meetings are attended by the leaders of each member nation (except Taiwan) and are major security and media events wherever they happen to be held.<br><br>In 2007 the APEC meeting was held in Sydney, Australia and to mark the event the RAM decided to commemorate the event with this circulating commemorative coin for 2007.<br>Delegates to the conference were provided with a Gem-quality coin in a capsule in a VIP Case. And here we have one!<br><a href=\"https://en.numista.com/catalogue/images/5d528b45df7c2.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d528b45df7c2.jpg\" alt=\"\"></a><br><br>Coins were also released in special RAM Rolls<br><a href=\"https://en.numista.com/catalogue/images/5d4277790c50d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d4277790c50d.jpg\" alt=\"\"></a><br><br>Some coins were issued in special non-official coin cards<br><a href=\"https://en.numista.com/catalogue/images/5d4277f1368ee.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d4277f1368ee.jpg\" alt=\"\"></a><br><br>An Australia Post PNC was also available (4,000 copies)<br><a href=\"https://en.numista.com/catalogue/images/5d42780d635b4.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d42780d635b4.jpg\" alt=\"\"></a></p>",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1040"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "1045"
+    }
+  ],
+  "weight": 9,
+  "orientation": "medal",
+  "edge": {
+    "description": "7 shorter smooth segments between 7 reeded segments (11 grooves each)",
+    "picture": "https://en.numista.com/catalogue/photos/australie/667457446e0ac0.61856609-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/australie/667457446e0ac0.61856609-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 28,
+      "name": "Royal Australian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

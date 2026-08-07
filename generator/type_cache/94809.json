@@ -1,0 +1,121 @@
+{
+  "id": 94809,
+  "url": "https://en.numista.com/94809",
+  "title": "5 Soles",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "perou",
+    "name": "Peru"
+  },
+  "min_year": 2016,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 3757,
+      "name": "Republic",
+      "wikidata_id": "Q419"
+    }
+  ],
+  "value": {
+    "text": "5 Soles",
+    "numeric_value": 5,
+    "currency": {
+      "id": 184,
+      "name": "Nuevo sol",
+      "full_name": "Nuevo sol (1991-2015) / Sol (2016-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24.38,
+  "thickness": 2.1,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: brass centre in stainless steel ring"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms",
+    "lettering": "BANCO CENTRAL DE RESERVA DEL PERÚ\r\n2018",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/perou/1751-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/1751-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "description": "Nazca Lines Condor",
+    "lettering": "PERÚ PERÚ PERÚ PERÚ PERÚ PERÚ PERÚ PERÚ\r\n5 SOLES\r\nLIMA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/perou/1752-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/1752-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "related_types": [
+    {
+      "id": 4092,
+      "title": "5 Nuevos Soles (1st type)",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 1994,
+      "maxYear": 2009
+    },
+    {
+      "id": 17669,
+      "title": "5 Nuevos Soles (2nd type)",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 2010,
+      "maxYear": 2015
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Coat of Arms",
+    "Cornucopia"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "402"
+    }
+  ],
+  "weight": 6.67,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/perou/64af56476a9490.30404725-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/64af56476a9490.30404725-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 297,
+      "name": "Lima"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

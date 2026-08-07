@@ -1,0 +1,154 @@
+{
+  "id": 879,
+  "url": "https://en.numista.com/879",
+  "title": "10 Pence - Elizabeth II (3rd portrait; small type)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1992,
+  "max_year": 1997,
+  "ruler": [
+    {
+      "id": 275,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 527,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Pence",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 126,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (decimalized, 1971-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24.5,
+  "thickness": 1.85,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Cu, 25% Ni)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Raphael David Maklouf"
+    ],
+    "description": "Third crowned portrait of Queen Elizabeth II right, wearing the George IV State Diadem, legend around.",
+    "lettering": "ELIZABETH II D·G·REG·F·D·1997\r\nRDM",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Elizabeth II Dei Gratia Regina Fidei Defensatrix",
+    "lettering_translation": "Elizabeth II by the Grace of God Queen Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/68f0641b2fe130.84037640-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/68f0641b2fe130.84037640-180.jpg",
+    "picture_copyright": "riversxian",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Christopher Ironside"
+    ],
+    "description": "Part of the crest of England, a lion passant guardant royally crowned, legend above, denomination below.",
+    "lettering": "TEN PENCE\r\n10",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/68f0641d43e9f2.66741803-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/68f0641d43e9f2.66741803-180.jpg",
+    "picture_copyright": "riversxian",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "In 1992 the ten pence was reduced in size to begin the process of demonetising the larger 10p which, alongside pre-decimal florins, were finally taken out of circulation in 1993.<br /><br />\r\n<span style=\"font-style:italic;\">1992 dated 10 pence issues</span><br /><br />\r\n<span style=\"font-weight:bold;\">KM# 938, Sp# F3</span> Copper-nickel • 11.3 g • ⌀ 28.5 mm - issued in RM sets only (BU and Proof);<br />\r\n<span style=\"font-weight:bold;\">KM# 938b, Sp# F4</span> Copper-nickel • 6.5 g • ⌀ 24.5 mm - issued in RM sets and over 1.4bn struck for circulation.<br /><br />\r\n<span style=\"font-style:italic;\">Obverse die varieties:</span><br /><br />\r\n<span style=\"font-weight:bold;\">Type 1:</span> L, I and A in ELIZABETH point to space between dots<br />\r\n<span style=\"font-weight:bold;\">Type 2:</span> L, I and A in ELIZABETH point directly at dots<br /><br />\r\n<span style=\"font-style:italic;\">Reverse die varieties:</span><br /><br />\r\n<span style=\"font-weight:bold;\">Type A:</span> 1 in 10 aligned to dot, four tufts under chest, lowest hair of mane detached from back of lion.<br />\r\n<span style=\"font-weight:bold;\">Type B:</span> 1 in 10 aligned between dots, five tufts under chest, lowest hair of mane attached to back of lion.<br /><br />\r\n<span style=\"font-style:italic;\">Edge varieties:</span><br /><br />\r\n<span style=\"font-weight:bold;\">Rounded (wire edge):</span> looking thinner, tapers to a narrow reeding (1992 only);<br />\r\n<span style=\"font-weight:bold;\">Squared (flat edge):</span> wider reeding across full coin thickness;<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5e8ef80420ee9.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e8ef80420ee9.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\n© Sjoelund<br /><br />\r\nFor further information and images please visit <a href=\"http://coins-of-the-uk.co.uk\" rel=\"nofollow\">Tony Clayton&#039;s website</a><br />\r\nFollowing are a couple of specific links for the 10p varieties pages:<br /><br />\r\n<a href=\"http://www.coins-of-the-uk.co.uk/dec10.html\" rel=\"nofollow\">10p die varieties details</a> (scroll down)<br />\r\n<a href=\"http://www.coins-of-the-uk.co.uk/pics/dec10.html\" rel=\"nofollow\">10p die varieties pics</a> (scroll down)",
+  "related_types": [
+    {
+      "id": 17902,
+      "title": "10 Pence - Elizabeth II (3rd portrait; large type, set issue)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1985,
+      "maxYear": 1992
+    },
+    {
+      "id": 102723,
+      "title": "10 Pence - Elizabeth II (3rd portrait; small type, Silver Piedfort)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1992,
+      "maxYear": 1992
+    },
+    {
+      "id": 44725,
+      "title": "10 Pence - Elizabeth II (3rd portrait; small type, Silver Proof)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1992,
+      "maxYear": 1996
+    }
+  ],
+  "tags": [
+    "Cat or feline",
+    "Crown"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "938b"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "F4"
+    }
+  ],
+  "weight": 6.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/695a26a6d5db68.63762434-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/695a26a6d5db68.63762434-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

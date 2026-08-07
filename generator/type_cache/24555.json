@@ -1,0 +1,81 @@
+{
+  "id": 24555,
+  "url": "https://en.numista.com/24555",
+  "title": "1 Peso (Coquimbo)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "chili",
+    "name": "Chile"
+  },
+  "min_year": 1828,
+  "max_year": 1828,
+  "ruler": [
+    {
+      "id": 3299,
+      "name": "Republic",
+      "wikidata_id": "Q298"
+    }
+  ],
+  "value": {
+    "text": "Peso",
+    "numeric_value": 8,
+    "currency": {
+      "id": 1203,
+      "name": "Real",
+      "full_name": "Real (1541-1852)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 39.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.902)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Volcano",
+    "lettering": "CHILE INDEPENDIENTE\r\nUN PESO\r\nCOQUIMBO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chili/548-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/548-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "description": "Pillar",
+    "lettering": "UNION Y FUERZA T. H.\r\nLIBERTAD\r\n1828",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chili/549-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/549-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "88"
+    }
+  ],
+  "weight": 27,
+  "orientation": "medal",
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

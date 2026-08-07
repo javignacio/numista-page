@@ -1,0 +1,140 @@
+{
+  "id": 359142,
+  "url": "https://en.numista.com/359142",
+  "title": "5 Centavos (Mule Coin)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bresil",
+    "name": "Brazil"
+  },
+  "min_year": 1994,
+  "max_year": 1997,
+  "ruler": [
+    {
+      "id": 2684,
+      "name": "Federative Republic of Brazil",
+      "wikidata_id": "Q155"
+    }
+  ],
+  "value": {
+    "text": "5 Centavos",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 158,
+      "name": "Real",
+      "full_name": "Real (1994-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Effigy of the Republic, surrounded by the stylish representation of laurel leaves, but mule coin, with observe of 1 cent coin.",
+    "lettering": "BRASIL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Brazil",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/641321207df978.79959646-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/641321207df978.79959646-180.jpg",
+    "picture_copyright": "Rogbert",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Denomination flanked by laurel leaves behind diagonal stripes, and year of issue.",
+    "lettering": "5 \r\nCENTAVOS \r\n1994",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bresil/64132124bb10c4.91953013-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/64132124bb10c4.91953013-180.jpg",
+    "picture_copyright": "Rogbert",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "This coin is engraved with Effigy of the Republic of a 1 cent coin with the value of 5 cents, on 3 known dates.<br />\r\nThe most common date from 1994, the rarest from 1997.<br />\r\nThese coins are known as 5 cents &quot;cabecinha&quot; (small head).<br />\r\n<a href=\"https://en.numista.com/catalogue/images/64131f9b4175b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64131f9b4175b.jpg\" alt=\"\" width=\"200\" height=\"136\" /></a><br />\r\nComparison of coins 1 cent end 5 cents",
+  "related_types": [
+    {
+      "id": 2822,
+      "title": "10 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1994,
+      "maxYear": 1997
+    },
+    {
+      "id": 2242,
+      "title": "25 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1994,
+      "maxYear": 1995
+    },
+    {
+      "id": 2823,
+      "title": "50 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1994,
+      "maxYear": 1995
+    },
+    {
+      "id": 3198,
+      "title": "1 Real",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1994,
+      "maxYear": 1994
+    }
+  ],
+  "tags": [
+    "Allegory"
+  ],
+  "weight": 3.27,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/64132127de1259.33222470-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/64132127de1259.33222470-180.jpg",
+    "picture_copyright": "Rogbert",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 1335,
+      "name": "Mint of Brazil"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

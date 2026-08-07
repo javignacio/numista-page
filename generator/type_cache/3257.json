@@ -1,0 +1,117 @@
+{
+  "id": 3257,
+  "url": "https://en.numista.com/3257",
+  "title": "50 Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "argentine",
+    "name": "Argentina"
+  },
+  "min_year": 1941,
+  "max_year": 1941,
+  "ruler": [
+    {
+      "id": 3983,
+      "name": "Federal Republic",
+      "wikidata_id": "Q414"
+    }
+  ],
+  "value": {
+    "text": "50 Centavos",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 261,
+      "name": "Peso moneda nacional",
+      "full_name": "Peso moneda nacional (1881-1969)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1943-01-01"
+  },
+  "size": 24,
+  "thickness": 1.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Eugène-André Oudiné"
+    ],
+    "description": "Freedom head Oudine, wearing a Phrygian cap to the left, year and lettering.",
+    "lettering": "REPUBLICA ARGENTINA\r\n* 1941 *",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Argentina\r\n1941",
+    "picture": "https://en.numista.com/catalogue/photos/argentine/6943cd3d002508.96148997-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/6943cd3d002508.96148997-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "reverse": {
+    "engravers": [
+      "Eugène-André Oudiné"
+    ],
+    "description": "Value within wreath",
+    "lettering": "50\r\nCENTAVOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/argentine/6943cd3e2c7807.55412159-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/argentine/6943cd3e2c7807.55412159-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "comments": "<p><a href=\"https://en.numista.com/catalogue/images/5666d436e86d5.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5666d436e86d5.jpg\" alt=\"\"></a> <a href=\"https://en.numista.com/catalogue/images/6743c1b8d70a3.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6743c1b8d70a3.jpg\"></a><br><br>Previously KM#14</p>",
+  "tags": [
+    "Allegory",
+    "Phrygian cap",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "39"
+    },
+    {
+      "catalogue": {
+        "id": 160,
+        "code": "CJ"
+      },
+      "number": "173"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "40"
+    }
+  ],
+  "weight": 6,
+  "orientation": "coin",
+  "edge": {
+    "description": "Milled"
+  },
+  "mints": [
+    {
+      "id": 1336,
+      "name": "Buenos Aires"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

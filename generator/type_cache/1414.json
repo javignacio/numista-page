@@ -1,0 +1,119 @@
+{
+  "id": 1414,
+  "url": "https://en.numista.com/1414",
+  "title": "1 Krone - Frederik IX",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "danemark",
+    "name": "Denmark"
+  },
+  "min_year": 1947,
+  "max_year": 1960,
+  "ruler": [
+    {
+      "id": 2403,
+      "name": "Frederick IX",
+      "wikidata_id": "Q151312",
+      "group": {
+        "id": 104,
+        "name": "House of Schleswig-Holstein-Sonderburg-Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Krone",
+    "numeric_value": 1,
+    "currency": {
+      "id": 13,
+      "name": "Krone",
+      "full_name": "Krone (1873-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25.5,
+  "thickness": 1.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze (92% Copper, 6% Aluminium, 2% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "H. Salomon"
+    ],
+    "description": "Frederik IX portrait, looking right",
+    "lettering": "FREDERIK IX KONGE AF DANMARK\r\nC♥S",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/danemark/392-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/392-180.jpg"
+  },
+  "reverse": {
+    "engravers": [
+      "H. Salomon"
+    ],
+    "description": "Denmark small coat of arms",
+    "lettering": "1 KRONE \r\n19 57",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/danemark/393-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/393-180.jpg"
+  },
+  "related_types": [
+    {
+      "id": 4927,
+      "title": "1 Krone - Christian X",
+      "category": "coin",
+      "country": {
+        "code": "danemark",
+        "name": "Denmark"
+      },
+      "minYear": 1942,
+      "maxYear": 1947
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "837"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "60"
+    }
+  ],
+  "weight": 6.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/danemark/61688cd2cd65c5.26706560-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/61688cd2cd65c5.26706560-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 260,
+      "name": "Royal Danish Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

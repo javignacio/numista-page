@@ -1,0 +1,120 @@
+{
+  "id": 724,
+  "url": "https://en.numista.com/724",
+  "title": "50 Lire (large type)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "italie",
+    "name": "Italy"
+  },
+  "min_year": 1954,
+  "max_year": 1989,
+  "ruler": [
+    {
+      "id": 1164,
+      "name": "Republic",
+      "wikidata_id": "Q38"
+    }
+  ],
+  "value": {
+    "text": "50 Lire",
+    "numeric_value": 50,
+    "currency": {
+      "id": 112,
+      "name": "Lira",
+      "full_name": "Lira (1861-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2002-02-28"
+  },
+  "size": 24.8,
+  "thickness": 1.95,
+  "shape": "Round",
+  "composition": {
+    "text": "Acmonital (81.75% Iron, 18.25% Chromium)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Giuseppe Romagnoli"
+    ],
+    "designers": [
+      "Pietro Giampaoli"
+    ],
+    "description": "Woman head with oak wreath in hair facing right. Designer and engraver names below.",
+    "lettering": "REPVBBLICA·ITALIANA· \r\nROMAGNOLI \r\nGIAMPAOLI-INC.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Italy",
+    "picture": "https://en.numista.com/catalogue/photos/italie/5fa6b687a60a24.76983707-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/italie/5fa6b687a60a24.76983707-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Giuseppe Romagnoli"
+    ],
+    "designers": [
+      "Pietro Giampaoli"
+    ],
+    "description": "Representation of the god Vulcan beating iron on an anvil. Date left, denomination right, mint mark below.",
+    "lettering": "1981\r\nL.50\r\nR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Lire",
+    "picture": "https://en.numista.com/catalogue/photos/italie/5fa6b6880c48b0.18612707-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/italie/5fa6b6880c48b0.18612707-180.jpg",
+    "picture_copyright": "Harrybo"
+  },
+  "comments": "<p><a href=\"https://en.numista.com/catalogue/images/5dc697cfd4535.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5dc697cfd4535.jpg\" alt=\"\"></a><br><br><br>Varieties for <strong>1975</strong> and <strong>1980</strong>:<br><br><a href=\"https://en.numista.com/catalogue/images/5921c9e2c8957.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5921c9e2c8957.jpg\" alt=\"\"></a><br><a href=\"https://en.numista.com/catalogue/images/5921c9ff179f8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5921c9ff179f8.jpg\" alt=\"\"></a><br><a href=\"https://en.numista.com/catalogue/images/5974a666e2ccb.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5974a666e2ccb.jpg\" alt=\"\"></a><br>Small (1954) and big (1986) design of Vulcan.<br><a href=\"https://en.numista.com/catalogue/images/5a254f077a47d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5a254f077a47d.jpg\" alt=\"\"></a><br>intenns<br><br>1987<br><a href=\"https://en.numista.com/catalogue/images/5dc877afae8a3.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5dc877afae8a3.jpg\" alt=\"\"></a><br><br>1988<br><a href=\"https://en.numista.com/catalogue/images/5dc877c8a5ba9.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5dc877c8a5ba9.jpg\" alt=\"\"></a></p>",
+  "tags": [
+    "Mythology"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "95.1"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "95"
+    }
+  ],
+  "weight": 6.25,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/italie/2662-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/italie/2662-180.jpg",
+    "picture_copyright": "Italiancoincollector"
+  },
+  "mints": [
+    {
+      "id": 22,
+      "name": "Rome"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

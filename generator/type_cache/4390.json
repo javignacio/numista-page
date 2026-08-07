@@ -1,0 +1,108 @@
+{
+  "id": 4390,
+  "url": "https://en.numista.com/4390",
+  "title": "50 Pennia",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "finlande",
+    "name": "Finland"
+  },
+  "min_year": 1990,
+  "max_year": 2001,
+  "ruler": [
+    {
+      "id": 3291,
+      "name": "Republic",
+      "wikidata_id": "Q33"
+    }
+  ],
+  "value": {
+    "text": "50 Pennia",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 133,
+      "name": "New Markka",
+      "full_name": "New Markka (1963-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2002-02-28"
+  },
+  "size": 19.7,
+  "thickness": 1.57,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Brown bear (Ursus arctos arctos) standing, looking outwards",
+    "lettering": "SUOMI\r\nFINLAND\r\n2001",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Finland",
+    "picture": "https://en.numista.com/catalogue/photos/finlande/6953a90e6e2c52.35536233-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/6953a90e6e2c52.35536233-180.jpg",
+    "picture_copyright": "DominusDeus",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Common haircap Moss (Binomial Name: Polytrichum commune)",
+    "lettering": "50 \r\nPENNIÄ\r\nPENNI\r\nM",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/finlande/6953a90fe45f39.56426017-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/6953a90fe45f39.56426017-180.jpg",
+    "picture_copyright": "DominusDeus",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/5e6cbf3ad93c7.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e6cbf3ad93c7.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "tags": [
+    "Bear"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "66"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "74"
+    }
+  ],
+  "weight": 3.3,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/finlande/614da24a4eaf71.33543384-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/614da24a4eaf71.33543384-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 1334,
+      "name": "Mint of Finland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

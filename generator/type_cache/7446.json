@@ -1,0 +1,185 @@
+{
+  "id": 7446,
+  "url": "https://en.numista.com/7446",
+  "title": "1 Teňňe",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "turkmenistan",
+    "name": "Turkmenistan"
+  },
+  "min_year": 2009,
+  "max_year": 2009,
+  "ruler": [
+    {
+      "id": 1319,
+      "name": "Republic",
+      "wikidata_id": "Q874"
+    }
+  ],
+  "value": {
+    "text": "1 Tenge",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 523,
+      "name": "New manat",
+      "full_name": "New manat (2009-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 16,
+  "thickness": 1.45,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Monument of Independence superimposed on the map of Turkmenistan, the name of the national anthem.",
+    "lettering": "GARAŞSYZ BITARAP TÜRKMENISTAN",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Independent Neutral Turkmenistan",
+    "picture": "https://en.numista.com/catalogue/photos/turkmenistan/219-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/turkmenistan/219-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "reverse": {
+    "description": "Denomination and date",
+    "lettering": "TÜRKMENISTANYŇ MERKEZI BANKY\r\n1 \r\nteňňe\r\n2009",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Bank of Turkmenistan\r\n1 tenge",
+    "picture": "https://en.numista.com/catalogue/photos/turkmenistan/220-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/turkmenistan/220-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "comments": "As the n caron (ň) exists in only a few languages, the word teňňe is often transformed into tenge.",
+  "related_types": [
+    {
+      "id": 7447,
+      "title": "2 Teňňe",
+      "category": "coin",
+      "country": {
+        "code": "turkmenistan",
+        "name": "Turkmenistan"
+      },
+      "minYear": 2009,
+      "maxYear": 2009
+    },
+    {
+      "id": 7448,
+      "title": "5 Teňňe",
+      "category": "coin",
+      "country": {
+        "code": "turkmenistan",
+        "name": "Turkmenistan"
+      },
+      "minYear": 2009,
+      "maxYear": 2009
+    },
+    {
+      "id": 7449,
+      "title": "10 Teňňe",
+      "category": "coin",
+      "country": {
+        "code": "turkmenistan",
+        "name": "Turkmenistan"
+      },
+      "minYear": 2009,
+      "maxYear": 2009
+    },
+    {
+      "id": 7450,
+      "title": "20 Teňňe",
+      "category": "coin",
+      "country": {
+        "code": "turkmenistan",
+        "name": "Turkmenistan"
+      },
+      "minYear": 2009,
+      "maxYear": 2009
+    },
+    {
+      "id": 7451,
+      "title": "50 Teňňe",
+      "category": "coin",
+      "country": {
+        "code": "turkmenistan",
+        "name": "Turkmenistan"
+      },
+      "minYear": 2009,
+      "maxYear": 2009
+    },
+    {
+      "id": 10688,
+      "title": "1 Manat",
+      "category": "coin",
+      "country": {
+        "code": "turkmenistan",
+        "name": "Turkmenistan"
+      },
+      "minYear": 2010,
+      "maxYear": 2010
+    },
+    {
+      "id": 10689,
+      "title": "2 Manat",
+      "category": "coin",
+      "country": {
+        "code": "turkmenistan",
+        "name": "Turkmenistan"
+      },
+      "minYear": 2010,
+      "maxYear": 2010
+    }
+  ],
+  "tags": [
+    "Other building",
+    "Map"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "95"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "91"
+    }
+  ],
+  "weight": 2,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/turkmenistan/221-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/turkmenistan/221-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

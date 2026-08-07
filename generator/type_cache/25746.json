@@ -1,0 +1,168 @@
+{
+  "id": 25746,
+  "url": "https://en.numista.com/25746",
+  "title": "10 Pence - Elizabeth II (4th portrait; Royal Shield, magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 2011,
+  "max_year": 2015,
+  "ruler": [
+    {
+      "id": 275,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 527,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Pence",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 126,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (decimalized, 1971-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24.5,
+  "thickness": 1.85,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Ian Rank-Broadley"
+    ],
+    "description": "Fourth crowned portrait of Queen Elizabeth II right, wearing the Girls of Great Britain and Ireland tiara, legend around.",
+    "lettering": "ELIZABETH·II·D·G REG·F·D·2011\r\nIRB",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Elizabeth II Dei Gratia Regina Fidei Defensatrix",
+    "lettering_translation": "Elizabeth II by the Grace of God Queen Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/5541-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/5541-180.jpg",
+    "picture_copyright": "Monéphil",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Matthew Dent"
+    ],
+    "description": "Upper left section of the Royal Shield of Arms, denomination to upper segment.",
+    "lettering": "TEN PENCE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/5542-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/5542-180.jpg",
+    "picture_copyright": "Monéphil",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "Introduced in 2008 when the small coinage designs were changed from the Emblems of Britain to the Royal Shield of Arms.<br /><br />\r\nInformation received from the Royal Mint circulating coin team:<br /><br />\r\n<span style=\"font-style:italic;\">‘The issue date for nickel-plated steel 5 and 10 pence pieces was originally intended to be January 2011, however this was deferred to January 2012 to allow additional time for automatic vending machines to be updated to accept the coins. As a result, the 2011 dated 5 and 10 pence pieces were issued into circulation in 2012 instead.’</span>",
+  "related_types": [
+    {
+      "id": 2236,
+      "title": "10 Pence - Elizabeth II (4th portrait; Crowned Lion)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1998,
+      "maxYear": 2008
+    },
+    {
+      "id": 7350,
+      "title": "10 Pence - Elizabeth II (4th portrait; Royal Shield, non-magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2008,
+      "maxYear": 2010
+    },
+    {
+      "id": 208018,
+      "title": "10 Pence - Elizabeth II (4th portrait; Royal Shield, Silver Proof)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2008,
+      "maxYear": 2015
+    },
+    {
+      "id": 206861,
+      "title": "10 Pence - Elizabeth II (4th portrait; Royal Shield, Silver Proof)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2012,
+      "maxYear": 2012
+    }
+  ],
+  "tags": [
+    "Cat or feline",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1110d"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "F7"
+    }
+  ],
+  "weight": 6.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/10221-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/10221-180.jpg",
+    "picture_copyright": "CyrusPamelaOne",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,97 @@
+{
+  "id": 3669,
+  "url": "https://en.numista.com/3669",
+  "title": "1 Cent - Elizabeth II (James Cook)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "iles_cook",
+    "name": "Cook Islands"
+  },
+  "min_year": 2003,
+  "max_year": 2003,
+  "ruler": [
+    {
+      "id": 1088,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 809,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Cent",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 317,
+      "name": "Dollar",
+      "full_name": "Dollar (1972-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2016-05-01"
+  },
+  "size": 21.9,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Ian Rank-Broadley"
+    ],
+    "description": "Head with tiara right, date below.",
+    "lettering": "ELIZABETH II COOK ISLANDS\r\n2003",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/iles_cook/90-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/iles_cook/90-180.jpg",
+    "picture_copyright": "Ma collection de monnaies",
+    "picture_copyright_url": "https://monnaiesetvarietes.numista.com/"
+  },
+  "reverse": {
+    "description": "Bust of Captain James Cook right, denomination below.",
+    "lettering": "CAPTAIN JAMES COOK 1728 - 1779\r\nONE CENT",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/iles_cook/91-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/iles_cook/91-180.jpg",
+    "picture_copyright": "Ma collection de monnaies",
+    "picture_copyright_url": "https://monnaiesetvarietes.numista.com/"
+  },
+  "commemorated_topic": "275th Anniversary of the Birth of James Cook",
+  "tags": [
+    "Birth anniversary",
+    "Explorer"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "419"
+    }
+  ],
+  "weight": 1.44,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

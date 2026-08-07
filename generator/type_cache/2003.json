@@ -1,0 +1,139 @@
+{
+  "id": 2003,
+  "url": "https://en.numista.com/2003",
+  "title": "1 Dinar (FNR legend)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "yougoslavie",
+    "name": "Yugoslavia"
+  },
+  "issuing_entity": {
+    "id": 690,
+    "name": "National Bank of Yugoslavia",
+    "wikidata_id": "Q1194664"
+  },
+  "min_year": 1953,
+  "max_year": 1953,
+  "ruler": [
+    {
+      "id": 2377,
+      "name": "Federal People's Republic of Yugoslavia",
+      "wikidata_id": "Q1290149"
+    }
+  ],
+  "value": {
+    "text": "1 Dinar",
+    "numeric_value": 1,
+    "currency": {
+      "id": 224,
+      "name": "Federation Dinar",
+      "full_name": "Federation Dinar (1944-1965)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1954-09-01"
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1968-05-31"
+  },
+  "size": 19.8,
+  "thickness": 1.27,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium (99 % Al)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The name of the country above the old arms of Yugoslavi (1943 - 1963 version; five torches).",
+    "lettering": "ФЕДЕРАТИВHА НАРОДНА РЕПУБЛИКА JУГОСЛАВИJА\r\n29·XI·1943",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "Federal People's Republic of Yugoslavia\r\n29 · XI · 1943",
+    "picture": "https://en.numista.com/catalogue/photos/yougoslavie/914-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/yougoslavie/914-180.jpg",
+    "picture_copyright": "ken6528"
+  },
+  "reverse": {
+    "description": "Seven stars above value, the date on the left and right sides.",
+    "lettering": "1 DINAR 1953",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/yougoslavie/915-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/yougoslavie/915-180.jpg",
+    "picture_copyright": "ken6528"
+  },
+  "related_types": [
+    {
+      "id": 1097,
+      "title": "1 Dinar (SFR legend)",
+      "category": "coin",
+      "country": {
+        "code": "yougoslavie",
+        "name": "Yugoslavia"
+      },
+      "minYear": 1963,
+      "maxYear": 1963
+    }
+  ],
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "30"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "25"
+    },
+    {
+      "catalogue": {
+        "id": 355,
+        "code": "Viscevic"
+      },
+      "number": "28"
+    },
+    {
+      "catalogue": {
+        "id": 3099,
+        "code": "Mandic"
+      },
+      "number": "25"
+    }
+  ],
+  "weight": 0.9,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/yougoslavie/616178f5952da4.29946183-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/yougoslavie/616178f5952da4.29946183-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 1365,
+      "name": "Belgrade"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

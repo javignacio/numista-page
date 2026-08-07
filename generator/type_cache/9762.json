@@ -1,0 +1,117 @@
+{
+  "id": 9762,
+  "url": "https://en.numista.com/9762",
+  "title": "1000 Guaraníes",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "paraguay",
+    "name": "Paraguay"
+  },
+  "issuing_entity": {
+    "id": 935,
+    "name": "Central Bank of Paraguay",
+    "wikidata_id": "Q4504275"
+  },
+  "min_year": 2006,
+  "max_year": 2022,
+  "ruler": [
+    {
+      "id": 4650,
+      "name": "Republic",
+      "wikidata_id": "Q733"
+    }
+  ],
+  "value": {
+    "text": "1000 Guaraníes",
+    "numeric_value": 1000,
+    "currency": {
+      "id": 87,
+      "name": "Guarani",
+      "full_name": "Guarani (1944-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25,
+  "thickness": 1.85,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel-steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Name of the country with bust of Marshal General Francisco Solano Lopez facing with year of issue and denomination in Guarani language (\"SU GUARANI\") below",
+    "lettering": "REPUBLICA DEL PARAGUAY\r\nMCAL. FRANCISCO SOLANO LÓPEZ 2018\r\nSU GUARANI",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Paraguay\r\nMarshal Francisco Solano López 2008\r\nThousand guaraníes (in Guarani language)",
+    "picture": "https://en.numista.com/catalogue/photos/paraguay/61e2e99f693535.72920102-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/paraguay/61e2e99f693535.72920102-180.jpg",
+    "picture_copyright": "Ponpandi Perumal",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Denomination in digits and words (in Spanish), National Heroes Pantheon",
+    "lettering": "BANCO CENTRAL DEL PARAGUAY\r\nPANTEON NACIONAL DE LOS HEROES\r\n1 MIL GUARANIES",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Bank of Paraguay\r\nNational Pantheon of Heroes\r\n1 thousand guaraníes",
+    "picture": "https://en.numista.com/catalogue/photos/paraguay/61e2e9a0684753.20391095-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/paraguay/61e2e9a0684753.20391095-180.jpg",
+    "picture_copyright": "Ponpandi Perumal",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "Francisco Solano López Carrillo (24 July 1827 – 1 March 1870) was President of Paraguay from 1862 until his death in 1870. He was the eldest son of Juana Pabla Carrillo and the president Carlos Antonio López.<br /><br />\r\nHe is one of the most controversial figures in South American history, particularly because of the Paraguayan War, known in the Plate Basin as &quot;Guerra de la Triple Alianza&quot;.<br /><br />\r\nFrom one perspective, his ambitions were the main reason for the outbreak of the war while other arguments maintain he was a fierce champion of the independence of South American nations against foreign rule and interests. He resisted until the very end and was killed in action during the Battle of Cerro Corá, which marked the end of the war.",
+  "tags": [
+    "Religious building",
+    "Military leader",
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "198"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "209"
+    }
+  ],
+  "weight": 6.07,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 27,
+      "name": "Mint of Poland"
+    },
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,136 @@
+{
+  "id": 871,
+  "url": "https://en.numista.com/871",
+  "title": "½ Penny - George V (1st portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1911,
+  "max_year": 1925,
+  "ruler": [
+    {
+      "id": 272,
+      "name": "George V",
+      "wikidata_id": "Q269412",
+      "group": {
+        "id": 526,
+        "name": "House of Saxe-Coburg and Gotha"
+      }
+    }
+  ],
+  "value": {
+    "text": "½ Penny",
+    "numeric_value": 0.0020833333333333333,
+    "numerator": 1,
+    "denominator": 480,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1971)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1969-08-01"
+  },
+  "size": 25.5,
+  "thickness": 1.28,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze (.950 Cu, .040 Sn, .015 Zn)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Edgar Bertram MacKennal"
+    ],
+    "description": "Uncrowned portrait of King George V left, legend around.",
+    "lettering": "GEORGIVS V DEI GRA:BRITT:OMN:REX FID:DEF:IND:IMP",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Georgius V Dei Gratia Britanniae Omniae Rex Fidei Defensor Indiae Imperator",
+    "lettering_translation": "George the Fifth by the Grace of God King of all the Britains Defender of the Faith Emperor of India",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/193-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/193-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Leonard Charles Wyon"
+    ],
+    "description": "Seated figure of Britannia right, trident in left hand, shield bearing the Union flag in right, denomination around, date in exergue, sea behind.",
+    "lettering": "HALF PENNY\r\n1917",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/194-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/194-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "<p>The standard weight of these pieces was 80 to the pound avoirdupois (1/5 ounce or 87½ grains).</p><p>&nbsp;</p><p>We are indebted to Declan Magee Coins and Numista member Sjoelund for the images below indicating variety differences.<br><br><i>1911 die varieties:</i><br><br><strong>Obverse 1</strong> flat neck, D of DEI points between beads;<br><strong>Obverse 1*</strong> hollow neck, D of DEI points at a bead;<br><strong>Reverse A</strong> date close to exergue line, small beads with gap to rim;<br><strong>Reverse A*</strong> gap between date and exergue line, large beads with no gap to rim;<br><br><a href=\"https://en.numista.com/catalogue/images/5a9ad19da0dfb.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5a9ad19da0dfb.jpg\" alt=\"\"></a><br><br><i>1925 die varieties:</i><br><br><strong>KM#809, Sp#4056</strong> 1st portrait<br><strong>KM#824, Sp#4057</strong> Modified effigy<br><br><a href=\"https://en.numista.com/catalogue/images/622856317f994.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/622856317f994.jpg\" alt=\"\"></a></p>",
+  "related_types": [
+    {
+      "id": 7173,
+      "title": "½ Penny - George V (modified effigy)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1925,
+      "maxYear": 1927
+    }
+  ],
+  "tags": [
+    "Armour",
+    "Sea"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "809"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "4056"
+    }
+  ],
+  "weight": 5.67,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/6956f55b4c3173.56129230-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/6956f55b4c3173.56129230-180.jpg",
+    "picture_copyright": "Dieter83"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

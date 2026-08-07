@@ -1,0 +1,122 @@
+{
+  "id": 15635,
+  "url": "https://en.numista.com/15635",
+  "title": "2 Øre - Haakon VII",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "norvege",
+    "name": "Norway"
+  },
+  "min_year": 1917,
+  "max_year": 1920,
+  "ruler": [
+    {
+      "id": 449,
+      "name": "Haakon VII",
+      "wikidata_id": "Q154927",
+      "group": {
+        "id": 358,
+        "name": "House of Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "2 Øre",
+    "numeric_value": 0.02,
+    "currency": {
+      "id": 16,
+      "name": "Krone",
+      "full_name": "Krone (1875-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 21,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Iron (Fe 99.9%, C 0.1%)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Crowned monogram of Haakon VII, in a solid ring. Surrounded by inscription. Solid ring on the rim.",
+    "lettering": "⸰KONGERIKET⸰NORGE⸰\r\nH7",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Kingdom of Norway",
+    "picture": "https://en.numista.com/catalogue/photos/norvege/804-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/804-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "reverse": {
+    "description": "Value and date in three lines. A triskelion on each side of the value and below the date. Date divided by mintmark. Solid ring on the rim.",
+    "lettering": "2\r\nØRE\r\n19 ⚒ 19",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/norvege/805-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/805-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "comments": "<p><a href=\"https://en.numista.com/catalogue/images/5da85b5008e64.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5da85b5008e64.jpg\" alt=\"\"></a></p><p><a href=\"https://en.numista.com/catalogue/images/67456280b8a3d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67456280b8a3d.jpg\"></a></p><p><a href=\"https://en.numista.com/catalogue/images/6745628a756a9.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6745628a756a9.jpg\"></a></p>",
+  "related_types": [
+    {
+      "id": 1433,
+      "title": "2 Øre - Haakon VII",
+      "category": "coin",
+      "country": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "minYear": 1909,
+      "maxYear": 1952
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "371a"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "29"
+    },
+    {
+      "catalogue": {
+        "id": 201,
+        "code": "Rønning"
+      },
+      "number": "261"
+    }
+  ],
+  "weight": 3.48,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain."
+  },
+  "mints": [
+    {
+      "id": 1888,
+      "name": "Norwegian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

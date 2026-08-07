@@ -1,0 +1,119 @@
+{
+  "id": 3536,
+  "url": "https://en.numista.com/3536",
+  "title": "10 Sengi",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "congo_leopoldville_period",
+    "name": "Republic of the Congo (Léopoldville) (1960-1971)"
+  },
+  "issuing_entity": {
+    "id": 704,
+    "name": "National Bank of the Congo",
+    "wikidata_id": "Q2882989"
+  },
+  "min_year": 1967,
+  "max_year": 1967,
+  "ruler": [
+    {
+      "id": 5168,
+      "name": "Democratic Republic",
+      "wikidata_id": "Q618399"
+    }
+  ],
+  "value": {
+    "text": "10 Sengis",
+    "numeric_value": 0.001,
+    "currency": {
+      "id": 288,
+      "name": "Zaire",
+      "full_name": "Zaire (1967-1993)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 16.99,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium (Aluminium 97%, Magnesium 3%)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Michael Rizzello"
+    ],
+    "description": "Denomination within circle, name of issuer around.",
+    "lettering": "BANQUE NATIONALE \r\n10S\r\nDU CONGO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "BANQUE NATIONALE \r\n10 Sengi\r\nDU CONGO",
+    "lettering_translation": "NATIONAL BANK\r\n10 Sengi\r\nOF CONGO",
+    "picture": "https://en.numista.com/catalogue/photos/congo_leopoldville_period/653aba3c392282.98670324-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/congo_leopoldville_period/653aba3c392282.98670324-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "engravers": [
+      "Michael Rizzello"
+    ],
+    "description": "Leopard crouching on branch, date below.",
+    "lettering": "DIX SENGI \r\n1967",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "TEN SENGI\r\n1967",
+    "picture": "https://en.numista.com/catalogue/photos/congo_leopoldville_period/653aba3c4ee4b7.13257578-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/congo_leopoldville_period/653aba3c4ee4b7.13257578-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "comments": "The Royal Mint U.K. won the contract for the 1967 coins but the project was sub-contracted in total to M.B.L. (The Mint, Birmingham, Limited, the official name for Heaton&#039;s Mint) for the 10 sengi coins and to I.MI. (Imperial Metal Industries Limited, where King&#039;s Norton is part of) for the 1 Likuta and 5 Makuta coins.<br /><br />\r\nOf the total mintage, 6,000,000 were minted in 1966, 84,996,000 were minted in 1967.",
+  "tags": [
+    "Cat or feline"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "7"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "40"
+    }
+  ],
+  "weight": 0.7,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/congo_leopoldville_period/653aba3c5cf347.95725539-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/congo_leopoldville_period/653aba3c5cf347.95725539-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 18,
+      "name": "Heaton and Sons / The Mint Birmingham"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

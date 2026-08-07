@@ -1,0 +1,114 @@
+{
+  "id": 2434,
+  "url": "https://en.numista.com/2434",
+  "title": "10 Centavos (divided legend)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "colombie",
+    "name": "Colombia"
+  },
+  "min_year": 1969,
+  "max_year": 1971,
+  "ruler": [
+    {
+      "id": 4088,
+      "name": "Republic",
+      "wikidata_id": "Q739"
+    }
+  ],
+  "value": {
+    "text": "10 Centavos",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 147,
+      "name": "Peso decimalized",
+      "full_name": "Peso decimalized (1847-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 18.3,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel clad steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Portrait of Francisco de Paula Santander to the right. Hero of the Colombia independence with Simon Bolivar.",
+    "lettering": "REPUBLICA DE COLOMBIA\r\n1970",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Colombia",
+    "picture": "https://en.numista.com/catalogue/photos/colombie/69862f99d37a99.10090698-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/69862f99d37a99.10090698-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "reverse": {
+    "description": "Value within laurel wreath",
+    "lettering": "10 CENTAVOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/colombie/69862f9ad16607.08630710-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/69862f9ad16607.08630710-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "comments": "Legend divided after &quot;REPUBLICA DE&quot;",
+  "related_types": [
+    {
+      "id": 1399,
+      "title": "10 Centavos (continuous legend; small letters)",
+      "category": "coin",
+      "country": {
+        "code": "colombie",
+        "name": "Colombia"
+      },
+      "minYear": 1972,
+      "maxYear": 1978
+    }
+  ],
+  "tags": [
+    "Military leader",
+    "Politician",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "236"
+    },
+    {
+      "catalogue": {
+        "id": 348,
+        "code": "Restrepo"
+      },
+      "number": "383"
+    }
+  ],
+  "weight": 2.52,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/colombie/68069a3cf126b4.94326301-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/68069a3cf126b4.94326301-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

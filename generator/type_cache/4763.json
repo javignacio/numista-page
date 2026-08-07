@@ -1,0 +1,151 @@
+{
+  "id": 4763,
+  "url": "https://en.numista.com/4763",
+  "title": "1 Cent",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "guyana",
+    "name": "Guyana"
+  },
+  "issuing_entity": {
+    "id": 526,
+    "name": "Bank of Guyana",
+    "wikidata_id": "Q1812564"
+  },
+  "min_year": 1967,
+  "max_year": 1992,
+  "ruler": [
+    {
+      "id": 8460,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682"
+    },
+    {
+      "id": 3759,
+      "name": "Republic",
+      "wikidata_id": "Q734"
+    }
+  ],
+  "value": {
+    "text": "1 Cent",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 47,
+      "name": "Dollar",
+      "full_name": "Dollar (decimalized, 1965-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1992-00-00"
+  },
+  "size": 16,
+  "thickness": 1.1,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass (79% Copper, 20% Zinc, 1% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Denomination within a circle with legend above. The date below is surrounded by 2 birds facing left and right. The birds are Guyana’s National Bird, the Hoatzin (Opisthocomus hoazin), also known as the Hoactzin, Stinkbird, or Canje Pheasant. Present in the Amazon-Orenoque basin, they are related to the extinct Archeopteryx, youngs have wing claws, and they digest cellulose with bacterial systems as cows do (thus the smell).",
+    "lettering": "BANK OF GUYANA\r\nONE\r\n1 \r\nCENT\r\n1992",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/guyana/149-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/guyana/149-180.jpg",
+    "picture_copyright": "HOOK"
+  },
+  "reverse": {
+    "description": "Stylized Victoria Regia (Victoria amazonica) flowers, Guyana's national flower",
+    "picture": "https://en.numista.com/catalogue/photos/guyana/148-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/guyana/148-180.jpg",
+    "picture_copyright": "HOOK"
+  },
+  "related_types": [
+    {
+      "id": 1280,
+      "title": "5 Cents",
+      "category": "coin",
+      "country": {
+        "code": "guyana",
+        "name": "Guyana"
+      },
+      "minYear": 1967,
+      "maxYear": 1992
+    },
+    {
+      "id": 3472,
+      "title": "10 Cents",
+      "category": "coin",
+      "country": {
+        "code": "guyana",
+        "name": "Guyana"
+      },
+      "minYear": 1967,
+      "maxYear": 1992
+    },
+    {
+      "id": 2566,
+      "title": "25 Cents",
+      "category": "coin",
+      "country": {
+        "code": "guyana",
+        "name": "Guyana"
+      },
+      "minYear": 1967,
+      "maxYear": 1992
+    },
+    {
+      "id": 5797,
+      "title": "50 Cents",
+      "category": "coin",
+      "country": {
+        "code": "guyana",
+        "name": "Guyana"
+      },
+      "minYear": 1967,
+      "maxYear": 1967
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Flower"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "31"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "31"
+    }
+  ],
+  "weight": 1.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,117 @@
+{
+  "id": 7455,
+  "url": "https://en.numista.com/7455",
+  "title": "5 Pennia - Nicholas II",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "finlande",
+    "name": "Finland"
+  },
+  "min_year": 1896,
+  "max_year": 1917,
+  "ruler": [
+    {
+      "id": 3296,
+      "name": "Nicholas II",
+      "wikidata_id": "Q40787",
+      "group": {
+        "id": 276,
+        "name": "Grand Duchy of Finland, House of Romanov"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Pennia",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 1156,
+      "name": "Markka",
+      "full_name": "Markka (1860-1963)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 25,
+  "thickness": 1.82,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Aleksander Fadejev"
+    ],
+    "description": "Crowned monogram of Nikolai II.",
+    "lettering": "N II",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/finlande/6947d7cbc43380.36454082-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/6947d7cbc43380.36454082-180.jpg",
+    "picture_copyright": "gef"
+  },
+  "reverse": {
+    "engravers": [
+      "Aleksander Fadejev"
+    ],
+    "description": "Denomination above the date",
+    "lettering": "5 \r\nPENNIÄ\r\n1915",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/finlande/6947d7ccae0944.43584141-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/6947d7ccae0944.43584141-180.jpg",
+    "picture_copyright": "gef"
+  },
+  "tags": [
+    "Crown",
+    "Monogram"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "15"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "8"
+    },
+    {
+      "catalogue": {
+        "id": 1015,
+        "code": "Kahnt/Schön"
+      },
+      "number": "21"
+    }
+  ],
+  "weight": 6.4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 1333,
+      "name": "Mint of Finland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

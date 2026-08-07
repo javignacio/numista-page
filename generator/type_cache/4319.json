@@ -1,0 +1,105 @@
+{
+  "id": 4319,
+  "url": "https://en.numista.com/4319",
+  "title": "20 Att",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "laos",
+    "name": "Laos"
+  },
+  "min_year": 1980,
+  "max_year": 1980,
+  "ruler": [
+    {
+      "id": 5457,
+      "name": "People’s Democratic Republic",
+      "wikidata_id": "Q819"
+    }
+  ],
+  "value": {
+    "text": "20 Att",
+    "numeric_value": 0.2,
+    "currency": {
+      "id": 90,
+      "name": "Lao PDR Kip",
+      "full_name": "Lao PDR Kip (1979-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23,
+  "thickness": 1.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of Arms of Laos \r\n (1975-1991 version)",
+    "lettering": "\"ສາທາລະນະລັດ ປະຊາທິປະໄຕ ປະຊາຊົນລາວ\"",
+    "lettering_scripts": [
+      {
+        "name": "Lao"
+      }
+    ],
+    "lettering_translation": "Lao People's Democratic Republic",
+    "picture": "https://en.numista.com/catalogue/photos/laos/23-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/laos/23-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Denomination in Arabic and Lao numbers.\r\nMan ploughing with Ox and date.",
+    "lettering": "20\r\nຊາວອັດ\r\n1980",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "20 (ຊາວ) att (ອັດ)",
+    "picture": "https://en.numista.com/catalogue/photos/laos/24-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/laos/24-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "tags": [
+    "Agriculture",
+    "Cow or bovine",
+    "Coat of Arms",
+    "Hammer and sickle"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "23"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "20"
+    }
+  ],
+  "weight": 1.55,
+  "orientation": "medal",
+  "edge": {
+    "description": "Milled",
+    "picture": "https://en.numista.com/catalogue/photos/laos/61166cc6ba91c2.97588127-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/laos/61166cc6ba91c2.97588127-180.jpg",
+    "picture_copyright": "Jabin2001"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

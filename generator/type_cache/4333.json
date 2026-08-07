@@ -1,0 +1,134 @@
+{
+  "id": 4333,
+  "url": "https://en.numista.com/4333",
+  "title": "100 Réis (Liberty)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bresil",
+    "name": "Brazil"
+  },
+  "min_year": 1901,
+  "max_year": 1901,
+  "ruler": [
+    {
+      "id": 2685,
+      "name": "Republic of the United States of Brazil",
+      "wikidata_id": "Q2414171"
+    }
+  ],
+  "value": {
+    "text": "100 Réis",
+    "numeric_value": 100,
+    "currency": {
+      "id": 210,
+      "name": "Real",
+      "full_name": "Real (1799-1942)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 21,
+  "thickness": 1.75,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Ernest Paulin Tasset"
+    ],
+    "designers": [
+      "Rodolfo Bernardelli"
+    ],
+    "description": "Star with circle on it on pole with sprigs and stalks to left.\r\nDate: MCMI",
+    "lettering": "REPUBLICA DOS ESTADOS UNIDOS DO\r\n100\r\nRÉIS\r\nBRASIL\r\n15 DE NOVEMBRO DE 1889\r\nMCMI\r\n· BRASIL ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of the United States of\r\n100\r\nRéis\r\nBrazil\r\nNovember 15, 1889\r\n1901\r\nBrazil",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/2010-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/2010-180.jpg",
+    "picture_copyright": "Rafael Augusto de Mattos Ferreira"
+  },
+  "reverse": {
+    "engravers": [
+      "Ernest Paulin Tasset"
+    ],
+    "designers": [
+      "Rodolfo Bernardelli"
+    ],
+    "description": "Bust of Liberty facing right, border of stars around.",
+    "lettering": "LIBERT",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bresil/2009-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/2009-180.jpg",
+    "picture_copyright": "Rafael Augusto de Mattos Ferreira"
+  },
+  "comments": "<p>Date in <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.wikipedia.org/wiki/Roman_numerals\">Roman Numerals</a>.</p><p>&nbsp;</p><p>There are at least six variants of the Paulin Tasset engraver brand.</p><p><a href=\"https://en.numista.com/catalogue/images/6796916876f47.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6796916876f47.png\"></a></p><p><a href=\"https://en.numista.com/catalogue/images/6796915d3fcc5.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6796915d3fcc5.png\"></a></p><p style=\"margin-left:0cm;\">© Jairo Luiz Corso (for Collectgram)</p>",
+  "related_types": [
+    {
+      "id": 6440,
+      "title": "200 Réis (Liberty)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1901,
+      "maxYear": 1901
+    },
+    {
+      "id": 6773,
+      "title": "400 Réis (Liberty)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1901,
+      "maxYear": 1901
+    }
+  ],
+  "tags": [
+    "Allegory",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "503"
+    }
+  ],
+  "weight": 5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/68edafa5458e56.07536539-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/68edafa5458e56.07536539-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 1335,
+      "name": "Mint of Brazil"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

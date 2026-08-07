@@ -1,0 +1,112 @@
+{
+  "id": 716,
+  "url": "https://en.numista.com/716",
+  "title": "500 Lire (Bank of Italy Centennial)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "italie",
+    "name": "Italy"
+  },
+  "min_year": 1993,
+  "max_year": 1993,
+  "ruler": [
+    {
+      "id": 1164,
+      "name": "Republic",
+      "wikidata_id": "Q38"
+    }
+  ],
+  "value": {
+    "text": "500 Lire",
+    "numeric_value": 500,
+    "currency": {
+      "id": 112,
+      "name": "Lira",
+      "full_name": "Lira (1861-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2002-02-28"
+  },
+  "size": 26,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: bronzital centre in acmonital ring"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Laura Cretara"
+    ],
+    "description": "Female head facing left. The woman symbolizes the Italian Republic with feathered wings coming from temples (symbols of intelligence and freedom). Engraver's name below the neck-cut.",
+    "lettering": "REPVBBLICA ITALIANA\r\nCRETARA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "ITALIAN REPUBLIC",
+    "picture": "https://en.numista.com/catalogue/photos/italie/5f9422be1b74f0.30608261-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/italie/5f9422be1b74f0.30608261-180.jpg",
+    "picture_copyright": "whitegandalf"
+  },
+  "reverse": {
+    "engravers": [
+      "Sergio Grossi"
+    ],
+    "description": "In center the monogram of the Bank of Italy divides the dates of the anniversary on both sides. Name of the author below. In outer ring the value is in the legend.",
+    "lettering": "CENTENARIO DELLA BANCA D'ITALIA\r\n1893 1993\r\nR\r\nGROSSI\r\nL.500",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "CENTENARY OF THE BANK OF ITALY\r\n1893 1993\r\nGROSSI\r\n500 LIRE",
+    "picture": "https://en.numista.com/catalogue/photos/italie/5f9422be8dc974.71849498-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/italie/5f9422be8dc974.71849498-180.jpg",
+    "picture_copyright": "whitegandalf"
+  },
+  "commemorated_topic": "Centenary of the Bank of Italy",
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/5dc837e30c972.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5dc837e30c972.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "160"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "159"
+    }
+  ],
+  "weight": 6.8,
+  "orientation": "coin",
+  "edge": {
+    "description": "Alternating smooth and reeded segments",
+    "picture": "https://en.numista.com/catalogue/photos/italie/603a4f7e061ac0.29358130-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/italie/603a4f7e061ac0.29358130-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 22,
+      "name": "Rome"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

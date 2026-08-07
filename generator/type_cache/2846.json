@@ -1,0 +1,122 @@
+{
+  "id": 2846,
+  "url": "https://en.numista.com/2846",
+  "title": "5 Pesos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "colombie",
+    "name": "Colombia"
+  },
+  "min_year": 1989,
+  "max_year": 1993,
+  "ruler": [
+    {
+      "id": 4088,
+      "name": "Republic",
+      "wikidata_id": "Q739"
+    }
+  ],
+  "value": {
+    "text": "5 Pesos",
+    "numeric_value": 5,
+    "currency": {
+      "id": 147,
+      "name": "Peso decimalized",
+      "full_name": "Peso decimalized (1847-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 17,
+  "thickness": 1.55,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium bronze (92% Copper, 6% Aluminium, 2% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Arms of Colombia with the motto \"Libertad Y Orden\" and the date at the bottom.",
+    "lettering": "REPUBLICA DE COLOMBIA \r\nLIBERTAD Y ORDEN\r\n1989",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Colombia\r\nLiberty and Order\r\n1989",
+    "picture": "https://en.numista.com/catalogue/photos/colombie/69862f6c8b9203.20892497-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/69862f6c8b9203.20892497-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "reverse": {
+    "description": "Value in a wreath",
+    "lettering": "5 \r\nPESOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/colombie/69862f6e6afa63.67139275-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/69862f6e6afa63.67139275-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "comments": "Some coins in 1989 have 72 beads, while others have 66 beads.",
+  "tags": [
+    "Bird",
+    "Coat of Arms",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "280"
+    },
+    {
+      "catalogue": {
+        "id": 348,
+        "code": "Restrepo"
+      },
+      "number": "433"
+    },
+    {
+      "catalogue": {
+        "id": 347,
+        "code": "Hernández"
+      },
+      "number": "624-627"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "108"
+    }
+  ],
+  "weight": 2.6,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/colombie/68f3aa5b16e008.45357552-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/68f3aa5b16e008.45357552-180.jpg",
+    "picture_copyright": "Vidushi",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 4172,
+      "name": "Fábrica de Moneda de Ibagué"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,199 @@
+{
+  "id": 2076,
+  "url": "https://en.numista.com/2076",
+  "title": "10 Zlotys (Adam Mickiewicz)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "pologne",
+    "name": "Poland"
+  },
+  "min_year": 1975,
+  "max_year": 1977,
+  "ruler": [
+    {
+      "id": 3738,
+      "name": "Polish People's Republic",
+      "wikidata_id": "Q211274"
+    }
+  ],
+  "value": {
+    "text": "10 Zlotys",
+    "numeric_value": 10,
+    "currency": {
+      "id": 199,
+      "name": "Third Zloty",
+      "full_name": "Third Zloty (1949-1994)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1975-01-24"
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1995-01-01"
+  },
+  "size": 25,
+  "thickness": 1.98,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Anna Jarnuszkiewicz"
+    ],
+    "description": "A white eagle, the national arms of Poland, dividing the date on both sides with the value below and the country name above around the rim.",
+    "lettering": "POLSKA RZECZPOSPOLITA LUDOWA \r\n19 75\r\nmw \r\n·ZŁ 10 ZŁ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Polish People's Republic",
+    "picture": "https://en.numista.com/catalogue/photos/pologne/50-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pologne/50-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "Anna Jarnuszkiewicz"
+    ],
+    "description": "The bust of Adam Mickiewicz facing left.",
+    "lettering": "ADAM MICKIEWICZ",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/pologne/49-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pologne/49-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "related_types": [
+    {
+      "id": 42929,
+      "title": "1 Rouble (Adam Mickiewicz)",
+      "category": "coin",
+      "country": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "minYear": 1998,
+      "maxYear": 1998
+    },
+    {
+      "id": 128129,
+      "title": "10 Roubles (Adam Mickiewicz)",
+      "category": "coin",
+      "country": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "minYear": 1998,
+      "maxYear": 1998
+    },
+    {
+      "id": 56123,
+      "title": "50 Litų (Adam Mickiewicz)",
+      "category": "coin",
+      "country": {
+        "code": "lituanie",
+        "name": "Lithuania"
+      },
+      "minYear": 1998,
+      "maxYear": 1998
+    },
+    {
+      "id": 72576,
+      "title": "100 Zlotys (Adam Mickiewicz)",
+      "category": "coin",
+      "country": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "minYear": 1978,
+      "maxYear": 1978
+    },
+    {
+      "id": 15170,
+      "title": "2 Zlotys (Adam Mickiewicz)",
+      "category": "coin",
+      "country": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "minYear": 1998,
+      "maxYear": 1998
+    },
+    {
+      "id": 88938,
+      "title": "200 Zlotys (Adam Mickiewicz)",
+      "category": "coin",
+      "country": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "minYear": 1998,
+      "maxYear": 1998
+    }
+  ],
+  "tags": [
+    "Literature"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "74"
+    },
+    {
+      "catalogue": {
+        "id": 166,
+        "code": "Fischer Po"
+      },
+      "number": "OB066"
+    },
+    {
+      "catalogue": {
+        "id": 165,
+        "code": "ParM"
+      },
+      "number": "241"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "69"
+    }
+  ],
+  "weight": 7.7,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/pologne/6159d0b62ea945.59315155-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pologne/6159d0b62ea945.59315155-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 27,
+      "name": "Mint of Poland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

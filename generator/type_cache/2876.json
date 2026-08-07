@@ -1,0 +1,118 @@
+{
+  "id": 2876,
+  "url": "https://en.numista.com/2876",
+  "title": "50 Lekë",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "albanie",
+    "name": "Albania"
+  },
+  "min_year": 1996,
+  "max_year": 2020,
+  "ruler": [
+    {
+      "id": 583,
+      "name": "Fourth Republic",
+      "wikidata_id": "Q222"
+    }
+  ],
+  "value": {
+    "text": "50 Lekë",
+    "numeric_value": 50,
+    "currency": {
+      "id": 311,
+      "name": "New lek",
+      "full_name": "New lek (1965-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1997-01-01"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24.25,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Namik Prizëreni"
+    ],
+    "description": "King Genthios on horseback",
+    "lettering": "·REPUBLIKA E SHQIPERISE·\r\n1996 \r\nGENTI\r\nMBRETI ILIR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Albania\r\nKing Genthios of Illyria",
+    "picture": "https://en.numista.com/catalogue/photos/albanie/5eb334f32be0b0.11857306-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/albanie/5eb334f32be0b0.11857306-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "reverse": {
+    "engravers": [
+      "Namik Prizëreni"
+    ],
+    "description": "Denomination",
+    "lettering": "50\r\nLEKE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/albanie/5eb334f3346c09.50322015-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/albanie/5eb334f3346c09.50322015-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/56daab5dc3af2.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/56daab5dc3af2.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\nStarting in 2016 Albania added umlauts to coin designs:<br />\r\nThe lettering for 1996 and 2000 is “LEKE” and “SHQIPERISE”.(without umlaut on &quot;E&quot;)<br />\r\nThe lettering for 2020 is “LEKË” and “SHQIPËRISË”.(with umlaut on &quot;E&quot;)",
+  "tags": [
+    "Horse or equine",
+    "Monarch",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "79"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "78"
+    }
+  ],
+  "weight": 5.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/albanie/697780e0bf6892.91934309-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/albanie/697780e0bf6892.91934309-180.jpg",
+    "picture_copyright": "billsmr",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

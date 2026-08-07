@@ -1,0 +1,163 @@
+{
+  "id": 8278,
+  "url": "https://en.numista.com/8278",
+  "title": "25 Centavos (Juan Pablo Duarte)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "republique_dominicaine",
+    "name": "Dominican Republic (1844-date)"
+  },
+  "min_year": 1976,
+  "max_year": 1976,
+  "ruler": [
+    {
+      "id": 4033,
+      "name": "Fourth Republic",
+      "wikidata_id": "Q786"
+    }
+  ],
+  "value": {
+    "text": "25 Centavos",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 152,
+      "name": "Peso oro",
+      "full_name": "Peso oro (1937-2009)/Peso Dominicano (2011-present)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24.3,
+  "thickness": 1.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Casimiro Nemesio de Moya"
+    ],
+    "description": "National coat of arms",
+    "lettering": "PRIMER CENTENARIO DE LA MUERTE DE DUARTE\r\nDIOS PATRIA LIBERTAD\r\nREPUBLICA DOMINICANA\r\n1876-1976",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "100th anniversary of the death of Duarte\r\nGod Fatherland Liberty\r\nDominican Republic",
+    "picture": "https://en.numista.com/catalogue/photos/republique_dominicaine/5f4bc2e8c8c8f3.04758793-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/republique_dominicaine/5f4bc2e8c8c8f3.04758793-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Denomination, weight, year of issue, portrait of one of the founding fathers of the Dominican Republic - Juan Pablo Duarte",
+    "lettering": "* 25 CENTAVOS *\r\n* 6¼ GRAMOS *\r\n1976",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "25 centavos\r\n6.25 grams (weight)",
+    "picture": "https://en.numista.com/catalogue/photos/republique_dominicaine/5f4bc2e94f0103.58568138-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/republique_dominicaine/5f4bc2e94f0103.58568138-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "commemorated_topic": "Centennial - Death of Juan Pablo Duarte",
+  "related_types": [
+    {
+      "id": 14466,
+      "title": "1 Centavo (Juan Pablo Duarte)",
+      "category": "coin",
+      "country": {
+        "code": "republique_dominicaine",
+        "name": "Dominican Republic (1844-date)"
+      },
+      "minYear": 1976,
+      "maxYear": 1976
+    },
+    {
+      "id": 3581,
+      "title": "5 Centavos (Juan Pablo Duarte)",
+      "category": "coin",
+      "country": {
+        "code": "republique_dominicaine",
+        "name": "Dominican Republic (1844-date)"
+      },
+      "minYear": 1976,
+      "maxYear": 1976
+    },
+    {
+      "id": 26663,
+      "title": "10 Centavos (Juan Pablo Duarte)",
+      "category": "coin",
+      "country": {
+        "code": "republique_dominicaine",
+        "name": "Dominican Republic (1844-date)"
+      },
+      "minYear": 1976,
+      "maxYear": 1976
+    },
+    {
+      "id": 30969,
+      "title": "½ Peso (Juan Pablo Duarte)",
+      "category": "coin",
+      "country": {
+        "code": "republique_dominicaine",
+        "name": "Dominican Republic (1844-date)"
+      },
+      "minYear": 1976,
+      "maxYear": 1976
+    },
+    {
+      "id": 35714,
+      "title": "1 Peso (Juan Pablo Duarte)",
+      "category": "coin",
+      "country": {
+        "code": "republique_dominicaine",
+        "name": "Dominican Republic (1844-date)"
+      },
+      "minYear": 1976,
+      "maxYear": 1976
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "43"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "31"
+    }
+  ],
+  "weight": 6.25,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 4157,
+      "name": "VDM Metals / Vereinigte Deutsche Metallwerke"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

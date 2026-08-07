@@ -1,0 +1,124 @@
+{
+  "id": 2504,
+  "url": "https://en.numista.com/2504",
+  "title": "5 Pesos (magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "republique_dominicaine",
+    "name": "Dominican Republic (1844-date)"
+  },
+  "min_year": 2002,
+  "max_year": 2020,
+  "ruler": [
+    {
+      "id": 4033,
+      "name": "Fourth Republic",
+      "wikidata_id": "Q786"
+    }
+  ],
+  "value": {
+    "text": "5 Pesos",
+    "numeric_value": 5,
+    "currency": {
+      "id": 152,
+      "name": "Peso oro",
+      "full_name": "Peso oro (1937-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23,
+  "thickness": 2.15,
+  "shape": "Round",
+  "composition": {
+    "text": "Bimetallic: stainless steel centre in brass ring"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The country name and year of issue on outer ring and the coat of arms of the Dominican Republic and denomination in the inner ring.",
+    "lettering": "· REPUBLICA DOMINICANA ·\r\nDIOS PATRIA LIBERTAD\r\n5\r\nREPUBLICA DOMINICANA\r\nPESOS\r\n· 2008 ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Dominican Republic\r\nGod Fatherland Liberty\r\nDominican Republic\r\n5 Pesos",
+    "picture": "https://en.numista.com/catalogue/photos/republique_dominicaine/598-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/republique_dominicaine/598-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "description": "Portrait and name of one of the founding fathers of the Dominican Republic - Francisco del Rosario Sánchez, with the issuer name above and the date below",
+    "lettering": "BANCO CENTRAL DE REPUBLICA DOMINICANA\r\nSANCHEZ\r\n· 2008 ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Bank of the Dominican Republic\r\nSánchez\r\n2008",
+    "picture": "https://en.numista.com/catalogue/photos/republique_dominicaine/597-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/republique_dominicaine/597-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "comments": "<p>For the 2008 non-magnetic center , see <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"/220030\">N#220030</a><br><br>Differences between the 2008 magnetic and 2008 non-magnetic in case you don't have a magnet. All differences are on the reverse. Different coloured arrows within a picture are always equal.<br><br><a href=\"https://en.numista.com/catalogue/images/5eeb366ce861f.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5eeb366ce861f.jpg\" alt=\"\"></a><br>© Essor Prof<br><br>1. Different fonts for \"PESOS\". The magnetic coin has a bigger hole in the \"P\", longer legs for the \"E\", more curled \"S's\" and an oval \"O\".<br><br><a href=\"https://en.numista.com/catalogue/images/5eeb3836cb388.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5eeb3836cb388.jpg\" alt=\"\"></a><br>© Essor Prof<br><br>2. The dots beside the lettering \"REPUBLICA DOMINICANA\" are closer to this lettering and the lettering itself is closer to the inner ring on the magnetic coin.<br><br><a href=\"https://en.numista.com/catalogue/images/5eeb398884474.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5eeb398884474.jpg\" alt=\"\"></a><br>© Essor Prof<br><br>3. The date on the magnetic coin is wider and closer to the rim.<br><br><a href=\"https://en.numista.com/catalogue/images/5eeb39ff78950.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5eeb39ff78950.jpg\" alt=\"\"></a><br>© Essor Prof<br><br>4. Many differences on the coat of arms. On the magnetic coin:<br>- The upper banner is very close to the outer ring.<br>- Shorter shield.<br>- Less and wider horizontal and vertical bars on the shield.<br>- Bigger arrow heads on the flag poles.<br>- Smaller cross.<br>- Different flag drapes.<br>- More leaves touching the lower banner at left.<br>- The knot under the lower banner is flatter.</p>",
+  "related_types": [
+    {
+      "id": 157317,
+      "title": "5 Pesos Dominicanos",
+      "category": "coin",
+      "country": {
+        "code": "republique_dominicaine",
+        "name": "Dominican Republic (1844-date)"
+      },
+      "minYear": 2017,
+      "maxYear": 2024
+    }
+  ],
+  "tags": [
+    "Coat of Arms",
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "89"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "149"
+    }
+  ],
+  "weight": 6,
+  "orientation": "coin",
+  "edge": {
+    "description": "5 reeded segments"
+  },
+  "mints": [
+    {
+      "id": 27,
+      "name": "Mint of Poland"
+    },
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    },
+    {
+      "id": 24,
+      "name": "Royal Mint of Madrid"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

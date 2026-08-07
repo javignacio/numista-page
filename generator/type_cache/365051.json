@@ -1,0 +1,117 @@
+{
+  "id": 365051,
+  "url": "https://en.numista.com/365051",
+  "title": "50 Pence - Charles III (Coronation)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 2023,
+  "max_year": 2023,
+  "ruler": [
+    {
+      "id": 6814,
+      "name": "Charles III",
+      "wikidata_id": "Q43274",
+      "group": {
+        "id": 527,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "50 Pence",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 126,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (decimalized, 1971-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2023-08-10"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 27.3,
+  "shape": "Equilateral curve heptagon (7-sided)",
+  "composition": {
+    "text": "Copper-nickel (75% Cu, 25% Ni)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Martin Jennings"
+    ],
+    "description": "Uncrowned portrait of King Charles III left, legend around.",
+    "lettering": "CHARLES III·D·G·REX·F·D·50 PENCE· 2023·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Charles III Dei Gratia Rex Fidei Defensor",
+    "lettering_translation": "Charles III by the Grace of God King Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/645ac4666feea9.88288541-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/645ac4666feea9.88288541-180.jpg",
+    "picture_copyright": "The Royal Mint, 2023"
+  },
+  "reverse": {
+    "designers": [
+      "Natasha Jenkins"
+    ],
+    "description": "Crowned royal cypher set against a depiction of a section of the exterior of Westminster Abbey.",
+    "lettering": "C R III\r\nNJ",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Carolus Rex III",
+    "lettering_translation": "King Charles III",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/645ac466ec6140.12885721-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/645ac466ec6140.12885721-180.jpg",
+    "picture_copyright": "The Royal Mint, 2023"
+  },
+  "series": "Coronation",
+  "commemorated_topic": "Coronation of King Charles III",
+  "comments": "<p>Issued to celebrate the coronation of King Charles III at Westminster Abbey on 6th May 2023, this circulation coin had an uncrowned effigy of His Majesty The King on the obverse. Compared to the strike that was issued as Brilliant Uncirculated in individual packs which was crowned.</p>",
+  "related_types": [
+    {
+      "id": 362188,
+      "title": "50 Pence - Charles III (Coronation)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2023,
+      "maxYear": 2023
+    }
+  ],
+  "tags": [
+    "Coronation",
+    "Monogram"
+  ],
+  "weight": 8,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

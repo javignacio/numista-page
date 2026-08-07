@@ -1,0 +1,124 @@
+{
+  "id": 18097,
+  "url": "https://en.numista.com/18097",
+  "title": "50 Centavos (small type)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "mexique",
+    "name": "Mexico"
+  },
+  "min_year": 2009,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 4029,
+      "name": "United Mexican States/Mexican Republic",
+      "wikidata_id": "Q96"
+    }
+  ],
+  "value": {
+    "text": "50 Centavos",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 271,
+      "name": "New Peso",
+      "full_name": "New Peso (1992-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 17,
+  "thickness": 2.15,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The national emblem of Mexico (a Mexican golden eagle perched on a prickly pear cactus devouring a snake above a half-wreath of oak and laurel below and the country name in a semicircle above)",
+    "lettering": "ESTADOS UNIDOS MEXICANOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "United Mexican States",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/2916-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/2916-180.jpg",
+    "picture_copyright": "montana2011",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "The denomination in the center with the date above and the mintmark below and a partial border of the stylized designs from the Ring of Acceptance (Anillo de la Aceptación; a representation of the god’s acceptance of sacrifice) on the Aztec calendar stone (Piedra del Sol) from the upper left from the upper right",
+    "lettering": "2012\r\n50¢\r\nMo",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/mexique/2917-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/2917-180.jpg",
+    "picture_copyright": "montana2011",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "50 Centavos coins are minted over the punched out cores of the rings used to make the 5 Peso coins (KM#605), which was the main reason for the change in size and material (to use the cores instead of remelting them).",
+  "related_types": [
+    {
+      "id": 583,
+      "title": "50 Centavos (large type)",
+      "category": "coin",
+      "country": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "minYear": 1992,
+      "maxYear": 2009
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "936"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "462"
+    }
+  ],
+  "weight": 3.103,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/627ebcc7d9b3f7.72980913-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/627ebcc7d9b3f7.72980913-180.jpg",
+    "picture_copyright": "Harryg",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 29,
+      "name": "Mexican Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

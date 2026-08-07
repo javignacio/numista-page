@@ -1,0 +1,103 @@
+{
+  "id": 5648,
+  "url": "https://en.numista.com/5648",
+  "title": "1 Jiao",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "taiwan",
+    "name": "Taiwan"
+  },
+  "min_year": 1955,
+  "max_year": 1955,
+  "ruler": [
+    {
+      "id": 5351,
+      "name": "Republic",
+      "wikidata_id": "Q865"
+    }
+  ],
+  "value": {
+    "text": "1 Jiao ",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 57,
+      "name": "New dollar",
+      "full_name": "New dollar (1949-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 19,
+  "thickness": 1.89,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium (99% Aluminium, 1% Magnesium)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Bust of Sun Yat-sen left, date above.",
+    "lettering": "年四十四國民華中",
+    "lettering_scripts": [
+      {
+        "name": "Chinese"
+      }
+    ],
+    "lettering_translation": "Republic of China Year 44",
+    "picture": "https://en.numista.com/catalogue/photos/taiwan/359-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/taiwan/359-180.jpg",
+    "picture_copyright": "Ringgy",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Map of Taiwan separating denomination.",
+    "lettering": "　　臺\r\n角　灣　壹\r\n　　省",
+    "lettering_scripts": [
+      {
+        "name": "Chinese"
+      }
+    ],
+    "lettering_translation": "One Jiao\r\nTaiwan Province",
+    "picture": "https://en.numista.com/catalogue/photos/taiwan/360-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/taiwan/360-180.jpg",
+    "picture_copyright": "Ringgy",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "tags": [
+    "Politician",
+    "Map"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "533"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "3"
+    }
+  ],
+  "weight": 1.15,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/taiwan/691e2c6242e954.49448110-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/taiwan/691e2c6242e954.49448110-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

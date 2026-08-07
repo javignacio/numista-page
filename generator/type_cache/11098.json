@@ -1,0 +1,112 @@
+{
+  "id": 11098,
+  "url": "https://en.numista.com/11098",
+  "title": "2 Florins - Victoria (2nd portrait; 'Double Florin')",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1887,
+  "max_year": 1890,
+  "ruler": [
+    {
+      "id": 270,
+      "name": "Victoria",
+      "wikidata_id": "Q9439",
+      "nomisma_id": "queen_victoria",
+      "group": {
+        "id": 525,
+        "name": "House of Hanover"
+      }
+    }
+  ],
+  "value": {
+    "text": "2 Florins",
+    "numeric_value": 0.2,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1971)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 36,
+  "thickness": 2.45,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.925)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Joseph Edgar Boehm"
+    ],
+    "description": "Crowned and veiled bust ('Jubilee Head') of Queen Victoria left, legend around.",
+    "lettering": "VICTORIA DEI GRATIA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Victoria by the Grace of God",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/2545-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/2545-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "engravers": [
+      "Leonard Charles Wyon"
+    ],
+    "description": "Crowned cruciform shields around central Garter star, sceptres with national emblems in angles, divided date above, legend around.",
+    "lettering": "BRITT: REG: 1887 FID: DEF :",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Britanniarum Regina Fidei Defensatrix",
+    "lettering_translation": "Queen of the Britains Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/2546-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/2546-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "The standard weight of these coins was 8/11 troy ounce (349.1 grains).<br /><br />\r\nThis particular coin was not included in demonetization legislation when decimalisation was introduced in 1971. It has been confirmed by the Royal Mint that the coin remains legal tender, having been remonetized with a value of 20 pence.<br /><br />\r\n<span style=\"font-style:italic;\">Reverse die varieties:</span><br />\r\n<span style=\"font-weight:bold;\">Sp#3922</span> <span style=\"font-style:italic;\">(1887 only)</span> Roman I in date;<br />\r\n<span style=\"font-weight:bold;\">Sp#3923</span> <span style=\"font-style:italic;\">(1887-90)</span> Arabic 1 in date;<br /><br />\r\nThe 1887 mintage data includes both die varieties.",
+  "tags": [
+    "Cat or feline",
+    "Crown",
+    "Coat of Arms",
+    "Cross"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "763"
+    }
+  ],
+  "weight": 22.62,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

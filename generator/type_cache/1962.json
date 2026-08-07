@@ -1,0 +1,117 @@
+{
+  "id": 1962,
+  "url": "https://en.numista.com/1962",
+  "title": "10 Senti",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "tanzanie",
+    "name": "Tanzania"
+  },
+  "min_year": 1977,
+  "max_year": 1984,
+  "ruler": [
+    {
+      "id": 947,
+      "name": "Republic",
+      "wikidata_id": "Q924"
+    }
+  ],
+  "value": {
+    "text": "10 Senti",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 182,
+      "name": "Shilling",
+      "full_name": "Shilling (1966-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25,
+  "thickness": 1.49,
+  "shape": "Scalloped (with 10 notches)",
+  "composition": {
+    "text": "Nickel brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Christopher Ironside"
+    ],
+    "description": "Julius Nyerere facing left",
+    "lettering": "TANZANIA 1981\r\nRAIS WA KWANZA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "The First President",
+    "picture": "https://en.numista.com/catalogue/photos/tanzanie/5-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/tanzanie/5-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Christopher Ironside"
+    ],
+    "description": "Prancing zebra facing right.\r\nBinomial name: Equus quagga",
+    "lettering": "10 SENTI\r\nKUMI",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Kumi means Ten",
+    "picture": "https://en.numista.com/catalogue/photos/tanzanie/4-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/tanzanie/4-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "The<span style=\"font-weight:bold;\"> plains zebra</span> (Equus quagga), is also known as the common zebra or Burchell&#039;s zebra.<br /><br />\r\n<span style=\"font-weight:bold;\">Julius Nyerere</span>: Tanzanian politician, founding father of Tanzania, President of Tanzania from the date of the country&#039;s foundation, in 1964, until his retirement, in 1985. He is considered one of the greatest historical figures of the Twentieth Century and one of the two most important personalities of modern Africa together with Nelson Mandela.",
+  "tags": [
+    "Horse or equine"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "11"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "2"
+    }
+  ],
+  "weight": 5.03,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/tanzanie/5fb98ef97a6440.42189769-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/tanzanie/5fb98ef97a6440.42189769-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

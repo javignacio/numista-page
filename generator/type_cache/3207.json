@@ -1,0 +1,132 @@
+{
+  "id": 3207,
+  "url": "https://en.numista.com/3207",
+  "title": "1 Cent - Elizabeth II (Aluminium)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "belize",
+    "name": "Belize (1973-date)"
+  },
+  "min_year": 1976,
+  "max_year": 2021,
+  "ruler": [
+    {
+      "id": 1090,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 1182,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Cent",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 40,
+      "name": "Dollar",
+      "full_name": "Dollar (1973-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 19.51,
+  "thickness": 1.3,
+  "shape": "Scalloped (with 12 notches)",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Cecil Thomas"
+    ],
+    "description": "Crowned portrait of Elizabeth II facing right.",
+    "lettering": "QUEEN ELIZABETH THE SECOND",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/belize/698dd0ec0bbd49.31035317-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/belize/698dd0ec0bbd49.31035317-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "reverse": {
+    "description": "Denomination within scalloped circle of leaves.",
+    "lettering": "· BELIZE ·\r\n1\r\n· ONE CENT 1991 ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/belize/698dd0ec91a2d4.53839560-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/belize/698dd0ec91a2d4.53839560-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "comments": "<p>NOTE:&nbsp;</p><p>Newer Issues (1992 to date) are in earlier Krause editions referred to as KM#114, but in the latest editions and at Numismaster KM# 114 doesn't exist anymore.</p>",
+  "related_types": [
+    {
+      "id": 6414,
+      "title": "1 Cent - Elizabeth II",
+      "category": "coin",
+      "country": {
+        "code": "british_honduras_period",
+        "name": "British Honduras (1862-1973)"
+      },
+      "minYear": 1956,
+      "maxYear": 1973
+    },
+    {
+      "id": 9360,
+      "title": "1 Cent - Elizabeth II (Bronze)",
+      "category": "coin",
+      "country": {
+        "code": "belize",
+        "name": "Belize (1973-date)"
+      },
+      "minYear": 1973,
+      "maxYear": 1976
+    }
+  ],
+  "tags": [
+    "Monarch",
+    "Crown"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "33a"
+    }
+  ],
+  "weight": 0.79,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/belize/698dd0ed094d14.03323291-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/belize/698dd0ed094d14.03323291-180.jpg",
+    "picture_copyright": "Julio Vega",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

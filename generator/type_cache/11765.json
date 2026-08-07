@@ -1,0 +1,167 @@
+{
+  "id": 11765,
+  "url": "https://en.numista.com/11765",
+  "title": "10 Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "inde_portugaise",
+    "name": "India, Portuguese"
+  },
+  "min_year": 1958,
+  "max_year": 1961,
+  "ruler": [
+    {
+      "id": 4984,
+      "name": "Republic",
+      "wikidata_id": "Q323904"
+    }
+  ],
+  "value": {
+    "text": "10 Centavos",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 543,
+      "name": "Escudo",
+      "full_name": "Escudo (1958-1961)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1962-05-15"
+  },
+  "size": 18,
+  "thickness": 1.1,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze (95% Copper, 3% Zinc, 2% Tin)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Arms",
+    "lettering": "ESTADO·DA·INDIA\r\n1958",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/inde_portugaise/67b595bc87e4d0.56701729-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/inde_portugaise/67b595bc87e4d0.56701729-180.jpg",
+    "picture_copyright": "Monge",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "reverse": {
+    "lettering": "REPUBLICA · PORTUGUESA\r\n10\r\nCENTAVOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/inde_portugaise/67b595bd0c7875.89016906-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/inde_portugaise/67b595bd0c7875.89016906-180.jpg",
+    "picture_copyright": "Monge",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "related_types": [
+    {
+      "id": 11766,
+      "title": "30 Centavos - Republic",
+      "category": "coin",
+      "country": {
+        "code": "inde_portugaise",
+        "name": "India, Portuguese"
+      },
+      "minYear": 1958,
+      "maxYear": 1959
+    },
+    {
+      "id": 11767,
+      "title": "60 Centavos - Republic",
+      "category": "coin",
+      "country": {
+        "code": "inde_portugaise",
+        "name": "India, Portuguese"
+      },
+      "minYear": 1958,
+      "maxYear": 1959
+    },
+    {
+      "id": 11768,
+      "title": "1 Escudo - Republic",
+      "category": "coin",
+      "country": {
+        "code": "inde_portugaise",
+        "name": "India, Portuguese"
+      },
+      "minYear": 1958,
+      "maxYear": 1959
+    },
+    {
+      "id": 11769,
+      "title": "3 Escudos - Republic",
+      "category": "coin",
+      "country": {
+        "code": "inde_portugaise",
+        "name": "India, Portuguese"
+      },
+      "minYear": 1958,
+      "maxYear": 1959
+    },
+    {
+      "id": 11770,
+      "title": "6 Escudos - Republic",
+      "category": "coin",
+      "country": {
+        "code": "inde_portugaise",
+        "name": "India, Portuguese"
+      },
+      "minYear": 1959,
+      "maxYear": 1959
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "30"
+    },
+    {
+      "catalogue": {
+        "id": 108,
+        "code": "Gomes"
+      },
+      "number": "R 13"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "18"
+    }
+  ],
+  "weight": 2,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/inde_portugaise/6924b83fa85263.91678964-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/inde_portugaise/6924b83fa85263.91678964-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 1337,
+      "name": "Imprensa Nacional - Casa da Moeda"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

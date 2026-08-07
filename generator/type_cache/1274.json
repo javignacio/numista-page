@@ -1,0 +1,117 @@
+{
+  "id": 1274,
+  "url": "https://en.numista.com/1274",
+  "title": "1 New Dollar",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "taiwan",
+    "name": "Taiwan"
+  },
+  "min_year": 1960,
+  "max_year": 1980,
+  "ruler": [
+    {
+      "id": 5351,
+      "name": "Republic",
+      "wikidata_id": "Q865"
+    }
+  ],
+  "value": {
+    "text": "1 Yuan",
+    "numeric_value": 1,
+    "currency": {
+      "id": 57,
+      "name": "New dollar",
+      "full_name": "New dollar (1949-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25,
+  "thickness": 1.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass (55% Copper, 27% Nickel,18% Zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Plum blossom (Prunus mume), date above, bank name below",
+    "lettering": "年九十五國民華中\r\n行銀灣臺",
+    "lettering_scripts": [
+      {
+        "name": "Chinese"
+      },
+      {
+        "name": "Chinese (traditional, regular script)"
+      }
+    ],
+    "lettering_translation": "Republic of China year 59\r\nTaiwan Bank",
+    "picture": "https://en.numista.com/catalogue/photos/taiwan/252-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/taiwan/252-180.jpg",
+    "picture_copyright": "KennyG"
+  },
+  "reverse": {
+    "description": "Orchid and denomination",
+    "lettering": "壹\r\n圓",
+    "lettering_scripts": [
+      {
+        "name": "Chinese"
+      },
+      {
+        "name": "Chinese (traditional, regular script)"
+      }
+    ],
+    "lettering_translation": "One Dollar",
+    "picture": "https://en.numista.com/catalogue/photos/taiwan/253-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/taiwan/253-180.jpg",
+    "picture_copyright": "KennyG"
+  },
+  "comments": "64,684,000 of the 1973 issue and 132,316,000 of the 1974 issue were minted at the United States Mint in Denver.",
+  "tags": [
+    "Flower"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "536"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "6"
+    }
+  ],
+  "weight": 6,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/taiwan/600e7d410e1614.29005909-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/taiwan/600e7d410e1614.29005909-180.jpg",
+    "picture_copyright": "Griffin S",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 4724,
+      "name": "Central Mint of Taiwan"
+    },
+    {
+      "id": 10,
+      "name": "United States Mint of Denver"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

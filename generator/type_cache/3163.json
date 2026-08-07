@@ -1,0 +1,134 @@
+{
+  "id": 3163,
+  "url": "https://en.numista.com/3163",
+  "title": "50 Fils - Hamad (1st type)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bahrein",
+    "name": "Bahrain"
+  },
+  "min_year": 2002,
+  "max_year": 2008,
+  "ruler": [
+    {
+      "id": 1510,
+      "name": "Hamad bin Isa Al Khalifa",
+      "wikidata_id": "Q57352",
+      "group": {
+        "id": 740,
+        "name": "House of Khalifa"
+      }
+    }
+  ],
+  "value": {
+    "text": "50 Fils",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 24,
+      "name": "Dinar",
+      "full_name": "Dinar (1965-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 22,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Stylized dhow (sailing boat) in a central circle. State name in Arabic and English. Islamic and Gregorian dates in English.",
+    "lettering": "مملكة البحرين\r\n1426 2005\r\nKINGDOM OF BAHRAIN",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bahrein/63b55b26785a97.00365805-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bahrein/63b55b26785a97.00365805-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "reverse": {
+    "description": "Numeric denomination back of boxed denomination within circle. Chain border.",
+    "lettering": "50\r\nفلس",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "50 Fils",
+    "picture": "https://en.numista.com/catalogue/photos/bahrein/63b55b26df3961.07463144-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bahrein/63b55b26df3961.07463144-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "comments": "Type 1 (this coin): &quot;فلس&quot; = Fils, inside box in reverse<br />\r\nType 2: &quot;فلساً&quot; = Filsan, inside box in reverse",
+  "related_types": [
+    {
+      "id": 5373,
+      "title": "50 Fils - Isa / Hamad",
+      "category": "coin",
+      "country": {
+        "code": "bahrein",
+        "name": "Bahrain"
+      },
+      "minYear": 1992,
+      "maxYear": 2000
+    },
+    {
+      "id": 42553,
+      "title": "50 Fils - Hamad (2nd type)",
+      "category": "coin",
+      "country": {
+        "code": "bahrein",
+        "name": "Bahrain"
+      },
+      "minYear": 2009,
+      "maxYear": 2018
+    }
+  ],
+  "tags": [
+    "Boat or watercraft"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "25.1"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "24"
+    }
+  ],
+  "weight": 4.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

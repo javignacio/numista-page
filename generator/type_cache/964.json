@@ -1,0 +1,151 @@
+{
+  "id": 964,
+  "url": "https://en.numista.com/964",
+  "title": "2 Qirsh / 10 Halalāt - Fayṣal",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "saudi-arabia-period",
+    "name": "Saudi Arabia (1932-date)"
+  },
+  "min_year": 1972,
+  "max_year": 1972,
+  "ruler": [
+    {
+      "id": 3136,
+      "name": "Faisal bin Abdulaziz",
+      "wikidata_id": "Q217167"
+    }
+  ],
+  "value": {
+    "text": "10 Halalas",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 164,
+      "name": "Riyal",
+      "full_name": "Riyal (1960-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21,
+  "thickness": 1.58,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Crossed swords and palm tree at center, legend above and below",
+    "lettering": "فيصل بن عبد العزيز آل سعود\r\nملك المملكة العربية السعودية",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "Faisal bin 'Abd Al-'Aziz Al Saud\r\nKing of the Kingdom of Saudi Arabia",
+    "picture": "https://en.numista.com/catalogue/photos/saudi-arabia-period/663250ed730529.43917816-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/saudi-arabia-period/663250ed730529.43917816-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "description": "Value\r\nDate",
+    "lettering": "عشر هللات\r\nقرشان\r\n10 ١٠\r\n١٣٩٢هـ",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "Ten Halalah\r\nTwo Qirsh\r\n10 10\r\n1392",
+    "picture": "https://en.numista.com/catalogue/photos/saudi-arabia-period/663250eda88172.66918349-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/saudi-arabia-period/663250eda88172.66918349-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "related_types": [
+    {
+      "id": 3139,
+      "title": "1 Qirsh / 5 Halalas - Fayṣal",
+      "category": "coin",
+      "country": {
+        "code": "saudi-arabia-period",
+        "name": "Saudi Arabia (1932-date)"
+      },
+      "minYear": 1972,
+      "maxYear": 1972
+    },
+    {
+      "id": 20732,
+      "title": "¼ Riyal / 25 Halālah - Fayṣal (feminine nominal; Error)",
+      "category": "coin",
+      "country": {
+        "code": "saudi-arabia-period",
+        "name": "Saudi Arabia (1932-date)"
+      },
+      "minYear": 1972,
+      "maxYear": 1972
+    },
+    {
+      "id": 2574,
+      "title": "¼ Riyal / 25 Halālas - Fayṣal (masculine nominal)",
+      "category": "coin",
+      "country": {
+        "code": "saudi-arabia-period",
+        "name": "Saudi Arabia (1932-date)"
+      },
+      "minYear": 1972,
+      "maxYear": 1972
+    },
+    {
+      "id": 9925,
+      "title": "½ Riyal / 50 Halalas - Fayṣal",
+      "category": "coin",
+      "country": {
+        "code": "saudi-arabia-period",
+        "name": "Saudi Arabia (1932-date)"
+      },
+      "minYear": 1972,
+      "maxYear": 1972
+    }
+  ],
+  "tags": [
+    "Tree",
+    "Coat of Arms",
+    "Cold weapons"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "46"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "32"
+    }
+  ],
+  "weight": 4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 1876,
+      "name": "Lahore"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

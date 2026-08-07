@@ -1,0 +1,116 @@
+{
+  "id": 818,
+  "url": "https://en.numista.com/818",
+  "title": "5 Pesos",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "mexique",
+    "name": "Mexico"
+  },
+  "min_year": 1980,
+  "max_year": 1985,
+  "ruler": [
+    {
+      "id": 4029,
+      "name": "United Mexican States/Mexican Republic",
+      "wikidata_id": "Q96"
+    }
+  ],
+  "value": {
+    "text": "5 Pesos",
+    "numeric_value": 5,
+    "currency": {
+      "id": 150,
+      "name": "Peso",
+      "full_name": "Peso (1863-1992)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1995-11-15"
+  },
+  "size": 27.24,
+  "thickness": 2.21,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The national arms of Mexico with an eagle facing left",
+    "lettering": "ESTADOS UNIDOS MEXICANOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "United Mexican States",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/1462-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/1462-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "description": "Aztec sculpture of feathered serpent god Quetzalcoatl to lower right of value and peso sign, date below.",
+    "lettering": "Mo\r\n5\r\n$\r\nQUETZALCOATL\r\n1983",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/mexique/1463-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/1463-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "series": "Mesoamerican cultures",
+  "comments": "<p>Quetzalcoatl is a major deity of Mesoamerican mythology, particularly revered by the Aztecs and Mayans. He is often depicted as a feathered serpent, symbolizing fertility, wisdom and creation. Quetzalcoatl is also associated with the wind, the morning star (Venus) and knowledge. According to some legends, he is said to have brought humans important knowledge such as agriculture, the calendar and writing.</p>",
+  "tags": [
+    "Sculpture",
+    "Mythology"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "485"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "77"
+    }
+  ],
+  "weight": 10.25,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain with inscription",
+    "lettering": "INDEPENDENCIA Y LIBERTAD",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Independence and Liberty",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/932-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/932-180.jpg",
+    "picture_copyright": "ZacUK"
+  },
+  "mints": [
+    {
+      "id": 29,
+      "name": "Mexican Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

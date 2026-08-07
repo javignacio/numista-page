@@ -1,0 +1,110 @@
+{
+  "id": 1684,
+  "url": "https://en.numista.com/1684",
+  "title": "5 Sentimo",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "philippines",
+    "name": "Philippines"
+  },
+  "issuing_entity": {
+    "id": 492,
+    "name": "Central Bank of the Philippines",
+    "wikidata_id": "Q1853468"
+  },
+  "min_year": 1995,
+  "max_year": 2017,
+  "ruler": [
+    {
+      "id": 1639,
+      "name": "Republic",
+      "wikidata_id": "Q928"
+    }
+  ],
+  "value": {
+    "text": "5 Sentimos",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 151,
+      "name": "Piso",
+      "full_name": "Piso (1967-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 15.5,
+  "thickness": 1.52,
+  "shape": "Round with a round hole",
+  "composition": {
+    "text": "Copper plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Legend surrounding denomination with centered hole.",
+    "lettering": "REPUBLIKA NG PILIPINAS\r\n5\r\nSENTIMO\r\n2009\r\nBSP",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of the Philippines.",
+    "picture": "https://en.numista.com/catalogue/photos/philippines/621-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/philippines/621-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "reverse": {
+    "description": "Legend around the rim with the denomination around and below the center hole and 1993 (date the Central Bank was established) at the bottom.",
+    "lettering": "BANGKO SENTRAL NG PILIPINAS\r\n1993",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Bank of the Philippines.",
+    "picture": "https://en.numista.com/catalogue/photos/philippines/620-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/philippines/620-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "series": "New Design Series",
+  "comments": "<p style=\"margin-left:0.0px;\">ALL denominations of the BSP series (1995-2017) have three main varieties (combination of obverse and reverse), see photo below for illustration:</p><p style=\"margin-left:0.0px;\">&nbsp;</p><p style=\"margin-left:0.0px;\">1. Small Text Variety, FP#1 (small text on both obverse and reverse). For the 5-sentimo, the Small Text Variety ran from 1995-2007.</p><p style=\"margin-left:0.0px;\">&nbsp;</p><p style=\"margin-left:0.0px;\">2. Transition Variety, FP#2 (mix of small and large on obverse/reverse). Only the 5-sentimo has a Reverse Transition Variety (2007), which has these characteristics: small text on obverse, large text on reverse (FP#2.1). The Obverse Transition Variety for the 5-sentimo appeared in 2008, with these characteristics: large text on obverse, small text on reverse&nbsp; (FP#2.2). There are hybrids, still part of the Transition Variety.&nbsp;</p><p style=\"margin-left:0.0px;\">&nbsp;</p><p style=\"margin-left:0.0px;\">3. Large Text Variety, FP#3 (large text on both obverse and reverse). For the 5-sentimo, the Large Text Variety ran from 2008-2017.</p><p style=\"margin-left:0.0px;\">&nbsp;</p><p style=\"margin-left:0.0px;\">Characteristics of SMALL text on reverse: wedge serif and narrow date. Visually, the text is SMALLER, and can easily be identified because the words (on the legend) are FAR apart (both obverse and reverse).&nbsp;</p><p style=\"margin-left:0.0px;\">&nbsp;</p><p style=\"margin-left:0.0px;\">Characteristics of LARGE text on reverse: slab serif and wide date. Visually, the text is LARGER, and can easily be identified because the words (on the legend) are CLOSE together (both obverse and reverse).&nbsp;</p><p style=\"margin-left:0.0px;\">&nbsp;</p><p style=\"margin-left:0.0px;\">There are sub-varieties, but let’s leave this for another day.&nbsp;</p><p style=\"margin-left:0.0px;\">&nbsp;</p><p style=\"margin-left:0.0px;\"><a href=\"https://en.numista.com/catalogue/images/6732e72e027b6.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6732e72e027b6.png\"></a></p><p style=\"margin-left:0.0px;\">&nbsp;</p><p>There appear to be <strong>three distinct die varieties</strong> of the 2006 5-sentimo coin, identifiable by differences in the numeral “6”. <i>These variations are distinguishable by the angle from the tip of the “6” to the base, the shape and completeness of the numeral, and its relative position to the surrounding text.</i></p><p>&nbsp;</p><p><strong>Variety Type 1 “2006” (Circulation strike)</strong><br><i>Obverse:</i><br>– <i>Angle of “6”:</i> ~62° from tip to base edge<br>– <i>Shape: </i>The base is a complete circle.<br>– <i>Interior:</i> Hole of the “6” is not fully oval.<br>– <i>Base thickness:</i> Thicker connector between base and arc.<br>– <i>Position:</i> Edge of “6” &nbsp;goes past the “M” in \"SENTIMO\"<br>– <i>Tip:</i> Pointed.</p><p><strong>Variety Type 2 “2006” (Circulation strike)</strong><br><i>Obverse:</i><br>– <i>Angle of “6”:</i> ~76°<br>– <i>Shape:</i> Almost complete circle.<br>– <i>Interior:</i> Hole is nearly circular.<br>– <i>Position:</i> Edge ends just before the “M” in \"SENTIMO\"<br>– <i>Tip:</i> Flat</p><p><strong>Variety Type 3 “2006” (Brilliant Uncirculated)</strong><br><i>Obverse:</i><br>– <i>Angle of “6”:</i> ~74°<br>– <i>Shape:</i> The base is not a complete circle.<br>– <i>Interior:</i> Hole of “6” is a complete oval.<br>– <i>Base thickness:</i> Thinner connector.<br>– <i>Position:</i> Ends before the “M”<br>– <i>Tip:</i> Slightly slanted down.</p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/6821980199b50.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6821980199b50.png\"></a></p>",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "268"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "116"
+    }
+  ],
+  "weight": 1.9,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/philippines/1176-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/philippines/1176-180.jpg",
+    "picture_copyright": "CyrusPamelaOne",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 5198,
+      "name": "BSP Security Plant Complex"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

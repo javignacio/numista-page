@@ -1,0 +1,113 @@
+{
+  "id": 5417,
+  "url": "https://en.numista.com/5417",
+  "title": "10 Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "perou",
+    "name": "Peru"
+  },
+  "min_year": 1945,
+  "max_year": 1965,
+  "ruler": [
+    {
+      "id": 3757,
+      "name": "Republic",
+      "wikidata_id": "Q419"
+    }
+  ],
+  "value": {
+    "text": "10 Centavos",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 218,
+      "name": "Sol",
+      "full_name": "Sol (1863-1930) / Sol de Oro (1931-1985)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 20,
+  "thickness": 1.31,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass (70% Copper, 30% Zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Bust of Ceres right, wearing wheat headdress and earring; \r\nlegend “REPÚBLICA PERUANA”, date below\r\n\r\nNOTE: some mintages with \"AFP\" mark, thin",
+    "lettering": "·REPUBLICA PERUANA·\r\n1957",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/perou/67c88b33553562.25856623-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/67c88b33553562.25856623-180.jpg",
+    "picture_copyright": "Rhonan",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Value to right of sprig",
+    "lettering": "10 \r\nCENTAVOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/perou/67c88b33a6f931.34905927-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/67c88b33a6f931.34905927-180.jpg",
+    "picture_copyright": "Rhonan",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/62a3683f5ccab.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/62a3683f5ccab.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nDate varieties exist:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/6351fcc748f83.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6351fcc748f83.jpg\" alt=\"\" width=\"200\" height=\"147\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/6351fccf958ff.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6351fccf958ff.jpg\" alt=\"\" width=\"200\" height=\"147\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/6351fcd8e59b3.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6351fcd8e59b3.jpg\" alt=\"\" width=\"200\" height=\"147\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/6351fce3a75eb.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6351fce3a75eb.jpg\" alt=\"\" width=\"200\" height=\"147\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/6351fcee4f23b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6351fcee4f23b.jpg\" alt=\"\" width=\"200\" height=\"147\" /></a>",
+  "related_types": [
+    {
+      "id": 1022,
+      "title": "5 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 1945,
+      "maxYear": 1965
+    }
+  ],
+  "tags": [
+    "Allegory"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "224"
+    }
+  ],
+  "weight": 2.7,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/perou/68f0e8166113b8.15770168-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/68f0e8166113b8.15770168-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 297,
+      "name": "Lima"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

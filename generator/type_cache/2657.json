@@ -1,0 +1,104 @@
+{
+  "id": 2657,
+  "url": "https://en.numista.com/2657",
+  "title": "100 Francs",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "tchad",
+    "name": "Chad"
+  },
+  "min_year": 1975,
+  "max_year": 1991,
+  "ruler": [
+    {
+      "id": 832,
+      "name": "Republic",
+      "wikidata_id": "Q657"
+    }
+  ],
+  "value": {
+    "text": "100 Francs CFA",
+    "numeric_value": 100,
+    "currency": {
+      "id": 9036,
+      "name": "CFA franc",
+      "full_name": "CFA franc (Bank of Central African States, 1973-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Lucien Georges Bazor"
+    ],
+    "description": "Three Giant Eland facing left",
+    "lettering": "REPUBLIQUE DU TCHAD\r\nG.B.L.BAZOR\r\nCR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of the Chad",
+    "picture": "https://en.numista.com/catalogue/photos/tchad/698628b5e46188.18605630-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/tchad/698628b5e46188.18605630-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "reverse": {
+    "description": "Denomination and date within circle",
+    "lettering": "BANQUE DES ETATS DE\r\nL'AFRIQUE CENTRALE\r\n100\r\nFRANCS\r\n1982",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Bank of the Central\r\nAfrican States\r\n100\r\nFrancs\r\n1978",
+    "picture": "https://en.numista.com/catalogue/photos/tchad/698628b7657259.79271383-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/tchad/698628b7657259.79271383-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "comments": "The giant eland is also known as the Lord Derby eland<br />\r\nBinomial Name: Taurotragus derbianus",
+  "tags": [
+    "Cow or bovine"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "3"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "14"
+    }
+  ],
+  "weight": 7,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

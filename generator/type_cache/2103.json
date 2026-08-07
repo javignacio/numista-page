@@ -1,0 +1,110 @@
+{
+  "id": 2103,
+  "url": "https://en.numista.com/2103",
+  "title": "500 Đồng",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "viet_nam",
+    "name": "Vietnam"
+  },
+  "issuing_entity": {
+    "id": 757,
+    "name": "State Bank of Vietnam"
+  },
+  "min_year": 2003,
+  "max_year": 2003,
+  "ruler": [
+    {
+      "id": 4991,
+      "name": "Socialist Republic",
+      "wikidata_id": "Q881"
+    }
+  ],
+  "value": {
+    "text": "500 Đồng",
+    "numeric_value": 500,
+    "currency": {
+      "id": 61,
+      "name": "Second new đồng",
+      "full_name": "Second new đồng (1985-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2004-04-01"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 22,
+  "thickness": 1.75,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms, surrounded by text, date below",
+    "lettering": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\r\nVIỆT NAM\r\n2003",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Socialist Republic of Vietnam\r\nVietnam\r\n2003",
+    "picture": "https://en.numista.com/catalogue/photos/viet_nam/602-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/602-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "reverse": {
+    "description": "Denomination with flower",
+    "lettering": "NGÂN HÀNG NHÀ NƯỚC VIỆT NAM\r\n500\r\nÐỒNG",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "State Bank of Vietnam\r\n500\r\nDong",
+    "picture": "https://en.numista.com/catalogue/photos/viet_nam/603-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/603-180.jpg",
+    "picture_copyright": "nalaberong"
+  },
+  "comments": "Struck by Vantaa",
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "74"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "143"
+    }
+  ],
+  "weight": 4.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Segmented reeding"
+  },
+  "mints": [
+    {
+      "id": 1334,
+      "name": "Mint of Finland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

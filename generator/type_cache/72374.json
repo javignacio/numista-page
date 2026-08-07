@@ -1,0 +1,94 @@
+{
+  "id": 72374,
+  "url": "https://en.numista.com/72374",
+  "title": "25 Centavos (2nd coat of arms)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "nicaragua",
+    "name": "Nicaragua"
+  },
+  "issuing_entity": {
+    "id": 863,
+    "name": "Central Bank of Nicaragua",
+    "wikidata_id": "Q4504274"
+  },
+  "min_year": 2007,
+  "max_year": 2014,
+  "ruler": [
+    {
+      "id": 4284,
+      "name": "Republic",
+      "wikidata_id": "Q811"
+    }
+  ],
+  "value": {
+    "text": "25 Centavos",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 3150,
+      "name": "Third Córdoba \"Oro\"",
+      "full_name": "Third Córdoba \"Oro\" (1991-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23.25,
+  "thickness": 1.9,
+  "shape": "Round",
+  "composition": {
+    "text": "Brass plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms with legend around.",
+    "lettering": "REPÚBLICA DE NICARAGUA\r\nAMÉRICA CENTRAL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Nicaragua\r\nCentral America",
+    "picture": "https://en.numista.com/catalogue/photos/nicaragua/60159f70798143.51411394-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nicaragua/60159f70798143.51411394-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "description": "Value at center, with motto at top and date at bottom.",
+    "lettering": "EN DIOS CONFIAMOS\r\n25 \r\nCENTAVOS\r\n2007",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "In God we trust",
+    "picture": "https://en.numista.com/catalogue/photos/nicaragua/60159f70dfd9b8.18257788-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nicaragua/60159f70dfd9b8.18257788-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "comments": "Due to inflation caused by the Covid-19 pandemic, these coins were discontinued in favor of an <a href=\"https://en.numista.com/371422\">aluminium variety</a> in mid-2023 to cut costs. These coins are currently circulated alongside the aluminium coinage.",
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "104"
+    }
+  ],
+  "weight": 5.1,
+  "orientation": "coin",
+  "edge": {
+    "description": "Segmented reeding in 4 segments."
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

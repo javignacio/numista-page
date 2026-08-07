@@ -1,0 +1,104 @@
+{
+  "id": 226269,
+  "url": "https://en.numista.com/226269",
+  "title": "Medalet - Edward VII and Alexandra (Coronation; Barratt and Co.)",
+  "object_type": {
+    "id": 22,
+    "name": "Advertising medallions"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1902,
+  "max_year": 1902,
+  "ruler": [
+    {
+      "id": 271,
+      "name": "Edward VII",
+      "wikidata_id": "Q20875",
+      "group": {
+        "id": 526,
+        "name": "House of Saxe-Coburg and Gotha"
+      }
+    }
+  ],
+  "size": 22,
+  "thickness": 1,
+  "shape": "Round with a loop",
+  "composition": {
+    "text": "Brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Imperial Crown of India with busts of their Majesties inside, and the date below.",
+    "lettering": "CORONATION\r\n1902\r\nMADE IN GERMANY",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/60634c9c25f588.05901579-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/60634c9c25f588.05901579-180.jpg",
+    "picture_copyright": "Albator",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Two globes.",
+    "lettering": "BARRATT & Co'S\r\nBRITISH EMPIRE\r\nSWEETS ARE PURE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/60634c9d387081.48093420-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/60634c9d387081.48093420-180.jpg",
+    "picture_copyright": "Albator",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "series": "Edward VII and Alexandra",
+  "commemorated_topic": "Coronation of Edward VII and Alexandra",
+  "related_types": [
+    {
+      "id": 152565,
+      "title": "Medalet - Victoria (Diamond Jubilee; Barratt and Co.)",
+      "category": "exonumia",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1897,
+      "maxYear": 1897
+    }
+  ],
+  "tags": [
+    "Coronation",
+    "Map"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 2479,
+        "code": "W&E"
+      },
+      "number": "4789"
+    }
+  ],
+  "weight": 2.8,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 2893,
+      "name": "L. Chr. Lauer Mint"
+    }
+  ],
+  "category": "exonumia",
+  "type": "Advertising medallions"
+}

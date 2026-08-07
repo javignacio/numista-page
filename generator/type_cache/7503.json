@@ -1,0 +1,106 @@
+{
+  "id": 7503,
+  "url": "https://en.numista.com/7503",
+  "title": "1 Gourde",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "haiti",
+    "name": "Haiti (1804-date)"
+  },
+  "min_year": 1995,
+  "max_year": 2018,
+  "ruler": [
+    {
+      "id": 726,
+      "name": "Third Republic",
+      "wikidata_id": "Q790"
+    }
+  ],
+  "value": {
+    "text": "1 Gourde",
+    "numeric_value": 1,
+    "currency": {
+      "id": 86,
+      "name": "Third gourde",
+      "full_name": "Third gourde (1872-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23.1,
+  "thickness": 2.2,
+  "shape": "Equilateral curve heptagon (7-sided)",
+  "composition": {
+    "text": "Brass plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Image of the Citadelle Laferrière",
+    "lettering": "RÉPUBLIQUE D'HAÏTI\r\n2016",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Haiti",
+    "picture": "https://en.numista.com/catalogue/photos/haiti/650b506f6acbb6.70569917-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/haiti/650b506f6acbb6.70569917-180.jpg",
+    "picture_copyright": "gyoschak",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Coat of Arms",
+    "lettering": "LIBERTÉ.ÉGALITÉ.FRATERNITÉ\r\n1\r\nGOURDE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Liberty Equality Brotherhood",
+    "picture": "https://en.numista.com/catalogue/photos/haiti/650b506febcd90.38418643-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/haiti/650b506febcd90.38418643-180.jpg",
+    "picture_copyright": "gyoschak",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "tags": [
+    "Coat of Arms",
+    "Castle or fortification"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "155"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "109"
+    }
+  ],
+  "weight": 6.3,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,148 @@
+{
+  "id": 4907,
+  "url": "https://en.numista.com/4907",
+  "title": "10 Cents (South Africa)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "afrique_du_sud",
+    "name": "South Africa"
+  },
+  "min_year": 2003,
+  "max_year": 2003,
+  "ruler": [
+    {
+      "id": 634,
+      "name": "Republic",
+      "wikidata_id": "Q258"
+    }
+  ],
+  "value": {
+    "text": "10 Cents",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 156,
+      "name": "Rand",
+      "full_name": "Rand (1961-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 16,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Arthur Sutherland"
+    ],
+    "description": "The arms of South Africa with the date above, all in a nonagonal border",
+    "lettering": "South Africa 2003\r\nǃKE E: ǀXARRA ǁKE\r\nALS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/afrique_du_sud/62e63acd7957a1.69516624-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/62e63acd7957a1.69516624-180.jpg",
+    "picture_copyright": "PLH28",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Robert Campbell McFarlane"
+    ],
+    "description": "Arum lilies, flowers native to South Africam and the value to the right",
+    "lettering": "10c\r\nRCM",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/afrique_du_sud/62e63acde112c1.88184623-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/62e63acde112c1.88184623-180.jpg",
+    "picture_copyright": "PLH28",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p>Legends in the 11 Official Languages of the Republic of South Africa:<br>Afrikaans: Suid-Afrika<br>English: South Africa<br>Sesotho and Sepedi: Afrika Borwa<br>Tswana: Aforika Borwa<br>Xhosa: uMzantsi Afrika<br>Zulu: iNingizimu Afrika<br>Ndebele: iSewula frika<br>Venda: Afurika Tshipembe<br>siSwati: Ningizimu Afrika<br>Tsonga: Afrika Dzonga</p><p>&nbsp;</p><p>Variations on the obverse exist with both smaller and larger lettering, as well as the spacing between the numbers of the date. &nbsp;</p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/66edf647299f2.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/66edf647299f2.jpg\"></a></p><p>LDC63</p><p>&nbsp;</p><p>There is also a 90<sup>o</sup> rotation error of the reverse.</p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/66edf5c8bb18d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/66edf5c8bb18d.jpg\"></a></p><p>LDC63</p>",
+  "related_types": [
+    {
+      "id": 2891,
+      "title": "10 Cents (SOUTH AFRICA)",
+      "category": "coin",
+      "country": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "minYear": 2000,
+      "maxYear": 2001
+    },
+    {
+      "id": 105367,
+      "title": "10 Cents (South Africa)",
+      "category": "coin",
+      "country": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "minYear": 2016,
+      "maxYear": 2016
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Flower",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "347"
+    },
+    {
+      "catalogue": {
+        "id": 146,
+        "code": "Hern"
+      },
+      "number": "Nd15"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "334"
+    }
+  ],
+  "weight": 2,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/afrique_du_sud/62e63ace456dd1.72614409-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/62e63ace456dd1.72614409-180.jpg",
+    "picture_copyright": "PLH28",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 1300,
+      "name": "South African Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

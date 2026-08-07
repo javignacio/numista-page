@@ -1,0 +1,220 @@
+{
+  "id": 4825,
+  "url": "https://en.numista.com/4825",
+  "title": "10 Milliemes - Farouk",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "egypte",
+    "name": "Egypt"
+  },
+  "min_year": 1938,
+  "max_year": 1941,
+  "ruler": [
+    {
+      "id": 2901,
+      "name": "Farouk I",
+      "wikidata_id": "Q213001",
+      "nomisma_id": "faruq",
+      "group": {
+        "id": 164,
+        "name": "Kingdom of Egypt"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Milliemes",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 117,
+      "name": "Pound",
+      "full_name": "Pound (1916-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 23,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Percy Metcalfe"
+    ],
+    "description": "Portrait of King Farouk facing left, wearing hat",
+    "lettering": "فاروق الأوّل\r\nملك مصر",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "Farouk I\r\nKing of Egypt",
+    "picture": "https://en.numista.com/catalogue/photos/egypte/69a40cda9ed9f6.61763827-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/egypte/69a40cda9ed9f6.61763827-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "reverse": {
+    "description": "Denomination and dates",
+    "lettering": "المملكة\r\n١٠\r\nمليمات\r\n١٣٦٠  ١٩٤١\r\nالمصرية",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "Egyptian Kingdom\r\n10 \r\nMillimes\r\n1941 1360",
+    "picture": "https://en.numista.com/catalogue/photos/egypte/69a40cdca692d3.30036256-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/egypte/69a40cdca692d3.30036256-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "comments": "<p>According to “A Numismatic History of the Birmingham Mint”</p><p>For 10 milliemes AH 1357/1938 coin: “Minted in 1938 (252,000) and 1939 (3,248,000).” However apparently the date was freezed to year 1938.</p><p>For 10 milliemes AH 1360/1941 coin: “Minted in 1941 (644,000) and 1942 (3,676,000), and 1943 (1,002,000).” However apparently the date was freezed to year 1941.</p>",
+  "related_types": [
+    {
+      "id": 10269,
+      "title": "½ Millieme - Farouk",
+      "category": "coin",
+      "country": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "minYear": 1938,
+      "maxYear": 1938
+    },
+    {
+      "id": 21532,
+      "title": "1 Millieme - Farouk (With Hole)",
+      "category": "coin",
+      "country": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "minYear": 1938,
+      "maxYear": 1938
+    },
+    {
+      "id": 9317,
+      "title": "1 Millieme - Farouk",
+      "category": "coin",
+      "country": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "minYear": 1938,
+      "maxYear": 1950
+    },
+    {
+      "id": 10270,
+      "title": "2 Milliemes - Farouk",
+      "category": "coin",
+      "country": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "minYear": 1938,
+      "maxYear": 1938
+    },
+    {
+      "id": 5961,
+      "title": "5 Milliemes - Farouk",
+      "category": "coin",
+      "country": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "minYear": 1938,
+      "maxYear": 1941
+    },
+    {
+      "id": 8864,
+      "title": "2 Qirsh - Farouk",
+      "category": "coin",
+      "country": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "minYear": 1937,
+      "maxYear": 1942
+    },
+    {
+      "id": 8678,
+      "title": "5 Qirsh - Farouk",
+      "category": "coin",
+      "country": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "minYear": 1937,
+      "maxYear": 1939
+    },
+    {
+      "id": 10614,
+      "title": "10 Qirsh - Farouk",
+      "category": "coin",
+      "country": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "minYear": 1937,
+      "maxYear": 1939
+    },
+    {
+      "id": 34276,
+      "title": "20 Qirsh - Farouk",
+      "category": "coin",
+      "country": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "minYear": 1937,
+      "maxYear": 1939
+    }
+  ],
+  "tags": [
+    "Monarch"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "364"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "69"
+    },
+    {
+      "catalogue": {
+        "id": 2245,
+        "code": "MHC"
+      },
+      "number": "254"
+    }
+  ],
+  "weight": 5.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/egypte/69b5b6b81bb4f9.89114880-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/egypte/69b5b6b81bb4f9.89114880-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 18,
+      "name": "Heaton and Sons / The Mint Birmingham"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

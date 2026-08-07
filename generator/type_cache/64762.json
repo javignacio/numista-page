@@ -1,0 +1,86 @@
+{
+  "id": 64762,
+  "url": "https://en.numista.com/64762",
+  "title": "5 Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "chili",
+    "name": "Chile"
+  },
+  "min_year": 1896,
+  "max_year": 1899,
+  "ruler": [
+    {
+      "id": 3299,
+      "name": "Republic",
+      "wikidata_id": "Q298"
+    }
+  ],
+  "value": {
+    "text": "5 Centavos",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 237,
+      "name": "Peso",
+      "full_name": "Peso (1835-1959)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 14.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.835)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Andean Condor on rock",
+    "lettering": "REPUBLICA DE CHILE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chili/1335-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/1335-180.jpg",
+    "picture_copyright": "Image courtesy of Heritage Auctions"
+  },
+  "reverse": {
+    "description": "Value within wreath.\r\nAt the base there are a hammer and sickle",
+    "lettering": "So\r\nCINCO \r\nCENTAVOS \r\n1896",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chili/1336-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chili/1336-180.jpg",
+    "picture_copyright": "Image courtesy of Heritage Auctions"
+  },
+  "tags": [
+    "Bird",
+    "Hammer and sickle"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "155.1"
+    }
+  ],
+  "weight": 1,
+  "orientation": "coin",
+  "edge": {
+    "description": "Milled"
+  },
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

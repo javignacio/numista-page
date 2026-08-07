@@ -1,0 +1,125 @@
+{
+  "id": 5384,
+  "url": "https://en.numista.com/5384",
+  "title": "2 Centavos (FAO)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "bresil",
+    "name": "Brazil"
+  },
+  "min_year": 1975,
+  "max_year": 1978,
+  "ruler": [
+    {
+      "id": 2684,
+      "name": "Federative Republic of Brazil",
+      "wikidata_id": "Q155"
+    }
+  ],
+  "value": {
+    "text": "2 Centavos",
+    "numeric_value": 0.02,
+    "currency": {
+      "id": 206,
+      "name": "Cruzeiro novo",
+      "full_name": "Cruzeiro novo (1967-1986)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 19,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Effigy of Republic and the country name to the left",
+    "lettering": "* BRASIL *",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Brazil",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/5e35fa41416ef8.09766138-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/5e35fa41416ef8.09766138-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "reverse": {
+    "description": "Soy Bean Plant and the value to the right",
+    "lettering": "ALIMENTOS PARA O MUNDO\r\n2\r\ncentavos\r\nsoja\r\n1975",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Food for the World\r\n2\r\nCentavos\r\nSoy\r\n1975",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/5e35fa42309707.29385451-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/5e35fa42309707.29385451-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "commemorated_topic": "F.A.O.",
+  "related_types": [
+    {
+      "id": 5383,
+      "title": "1 Centavo (FAO)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1975,
+      "maxYear": 1978
+    },
+    {
+      "id": 3816,
+      "title": "5 Centavos (FAO)",
+      "category": "coin",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1975,
+      "maxYear": 1978
+    }
+  ],
+  "tags": [
+    "FAO"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "586"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "92"
+    }
+  ],
+  "weight": 2.21,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 1335,
+      "name": "Mint of Brazil"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

@@ -1,0 +1,113 @@
+{
+  "id": 1115,
+  "url": "https://en.numista.com/1115",
+  "title": "5 Francs Maliens",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "mali_period",
+    "name": "Mali (1960-date)"
+  },
+  "min_year": 1961,
+  "max_year": 1961,
+  "ruler": [
+    {
+      "id": 851,
+      "name": "Republic",
+      "wikidata_id": "Q912"
+    }
+  ],
+  "value": {
+    "text": "5 Francs",
+    "numeric_value": 5,
+    "currency": {
+      "id": 216,
+      "name": "Franc",
+      "full_name": "Franc (1962-1984)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 20,
+  "thickness": 1.45,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Hippopotamus facing, date below",
+    "lettering": "REPUBLIQUE DU MALI\r\n1961",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Mali",
+    "picture": "https://en.numista.com/catalogue/photos/mali_period/6543c01cc9d911.43216704-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mali_period/6543c01cc9d911.43216704-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "reverse": {
+    "description": "Denominaion above crossed leaves",
+    "lettering": "5\r\nFRANCS MALIENS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "5 Malian Francs",
+    "picture": "https://en.numista.com/catalogue/photos/mali_period/6543c01cd885e5.11209036-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mali_period/6543c01cd885e5.11209036-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "tags": [
+    "Other animal"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "2"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "2"
+    },
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "1"
+    }
+  ],
+  "weight": 1,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/mali_period/69f5a7babf6bd6.86660238-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mali_period/69f5a7babf6bd6.86660238-180.jpg",
+    "picture_copyright": "Rhonan",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 1262,
+      "name": "Kremnica"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

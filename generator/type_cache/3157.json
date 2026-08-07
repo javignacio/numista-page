@@ -1,0 +1,105 @@
+{
+  "id": 3157,
+  "url": "https://en.numista.com/3157",
+  "title": "10 Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "mexique",
+    "name": "Mexico"
+  },
+  "min_year": 1974,
+  "max_year": 1980,
+  "ruler": [
+    {
+      "id": 4029,
+      "name": "United Mexican States/Mexican Republic",
+      "wikidata_id": "Q96"
+    }
+  ],
+  "value": {
+    "text": "10 Centavos",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 150,
+      "name": "Peso",
+      "full_name": "Peso (1863-1992)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1995-11-15"
+  },
+  "size": 15,
+  "thickness": 1.16,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% Copper, 25% Nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "National arms, eagle left",
+    "lettering": "ESTADOS UNIDOS MEXICANOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/mexique/4399-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/4399-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "description": "Upright ear of corn, numeral and date on left",
+    "lettering": "10 CS.\r\n1978\r\nMo",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/mexique/4400-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/4400-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "comments": "<p>When looking for the different variants here are some of the most prominent details to look for:<br><br>\"Sharp stem and Wide date\". \"9\" and \"7\" are noticeably apart, stem ends in a fine point, \"10\" in value is thinner, and corncob has 5 grain rows.<br><br>\"Blunt stem and Narrow date\". The whole date is packed together and the numbers are slightly thicker, stem is \"bluntly\" cut, \"10\" in value is thicker, and corncob has 6 grain rows.<br><br>Most of these details carry over to other dates and variant combinations; except for the grain rows that sometimes can be the same for both variants, or are the same for 2 out of 3 variants when a year has those many variants, but it is one of the easiest ways to identify them if the coin has some use and the stems are no longer pristine.</p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/65e2ad849ba88.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/65e2ad849ba88.jpg\"></a></p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/5669460be285c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5669460be285c.jpg\" alt=\"\"></a></p>",
+  "tags": [
+    "Eagle",
+    "Reptile"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "434"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "66"
+    }
+  ],
+  "weight": 1.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Milled - in pairs",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/1069-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/1069-180.jpg",
+    "picture_copyright": "ZacUK"
+  },
+  "mints": [
+    {
+      "id": 29,
+      "name": "Mexican Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

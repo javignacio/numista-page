@@ -1,0 +1,102 @@
+{
+  "id": 52295,
+  "url": "https://en.numista.com/52295",
+  "title": "Double Tournois - Louis XIII (Lyon; 11th type)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "france",
+    "name": "France"
+  },
+  "min_year": 1637,
+  "max_year": 1637,
+  "ruler": [
+    {
+      "id": 1156,
+      "name": "Louis XIII",
+      "wikidata_id": "Q737533",
+      "group": {
+        "id": 31,
+        "name": "House of Bourbon"
+      }
+    }
+  ],
+  "value": {
+    "text": "2 Deniers",
+    "numeric_value": 0.008333333333333333,
+    "numerator": 1,
+    "denominator": 120,
+    "currency": {
+      "id": 305,
+      "name": "Livre tournois",
+      "full_name": "Livre tournois (1204-1795)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 20,
+  "thickness": 1,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper"
+  },
+  "obverse": {
+    "description": "Bust of Louis XIII on the right, laureate and draped.",
+    "lettering": ".LOYS.XIII.R.D.FRAN.ET.NAV. (a)\r\nLOVIS.XIII.R.D.FR.ET.NAV (b)\r\nLOVIS.XIII.R.D.FR.ET.NA (c)\r\n.LOVIS.XIII.R.D.FR.ET.NA. (d)\r\n.LOYS.XIII.R.DE.FRAN.ET.N. (e)",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Louis XIII, king of France and Navarre.",
+    "picture": "https://en.numista.com/catalogue/photos/france/5ea1b7cc91f756.32592049-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/5ea1b7cc91f756.32592049-180.jpg",
+    "picture_copyright": "CGB",
+    "picture_copyright_url": "http://www.cgb.fr"
+  },
+  "reverse": {
+    "description": "Three lilies placed 2 and 1.",
+    "lettering": "+ DOVBLE.TOVRNOIS.(millésime) (1)\r\n+ DOVBLE.TOVRNOIS.(millésime).D (2)",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/france/5ea1b7cc950eb6.09986740-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/5ea1b7cc950eb6.09986740-180.jpg",
+    "picture_copyright": "CGB",
+    "picture_copyright_url": "http://www.cgb.fr"
+  },
+  "references": [
+    {
+      "catalogue": {
+        "id": 20,
+        "code": "CGKL"
+      },
+      "number": "358"
+    },
+    {
+      "catalogue": {
+        "id": 17,
+        "code": "Dy royales"
+      },
+      "number": "1372"
+    }
+  ],
+  "weight": 2.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 75,
+      "name": "Lyon"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

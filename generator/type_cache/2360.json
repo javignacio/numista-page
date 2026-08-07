@@ -1,0 +1,191 @@
+{
+  "id": 2360,
+  "url": "https://en.numista.com/2360",
+  "title": "1 Kreuzer",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "autriche-habsbourg",
+    "name": "Austrian Empire"
+  },
+  "min_year": 1858,
+  "max_year": 1881,
+  "ruler": [
+    {
+      "id": 754,
+      "name": "Francis Joseph I",
+      "wikidata_id": "Q51056",
+      "nomisma_id": "franz_joseph",
+      "group": {
+        "id": 66,
+        "name": "House of Habsburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Kreuzer",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 295,
+      "name": "Gulden",
+      "full_name": "Gulden (decimalized, 1857-1892)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1898-06-30"
+  },
+  "size": 19.25,
+  "thickness": 1.25,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Franz Gaul"
+    ],
+    "description": "Imperial eagle with Habsburg-Lorraine and Austria arms, surrounded by legend",
+    "lettering": "K·K·OESTERREICHISCHE SCHEIDEMÜNZE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Kaiserlich und Königlich Österreichische Scheidemünze",
+    "lettering_translation": "Imperial and Royal Austrian small money",
+    "picture": "https://en.numista.com/catalogue/photos/autriche-habsbourg/667f1f49b24af0.05685248-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/autriche-habsbourg/667f1f49b24af0.05685248-180.jpg",
+    "picture_copyright": "Coins.ee",
+    "picture_copyright_url": "https://coins.ee/"
+  },
+  "reverse": {
+    "engravers": [
+      "Johann Weiss"
+    ],
+    "description": "Face value with date and when present, mintmark below, surrounded by oak wreath.",
+    "lettering": "1\r\n1881",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/autriche-habsbourg/667f1f4a2e1da0.81012439-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/autriche-habsbourg/667f1f4a2e1da0.81012439-180.jpg",
+    "picture_copyright": "Coins.ee",
+    "picture_copyright_url": "https://coins.ee/"
+  },
+  "comments": "Years 1878, 1879 and 1881 were minted in Vienna, but without mintmark.<br />\r\n1873 A was minted between 1871-1873.<br />\r\n1881 was minted between 1881-1883.",
+  "related_types": [
+    {
+      "id": 1268,
+      "title": "1 Kreuzer (Larger eagle)",
+      "category": "coin",
+      "country": {
+        "code": "autriche-habsbourg",
+        "name": "Austrian Empire"
+      },
+      "minYear": 1885,
+      "maxYear": 1891
+    },
+    {
+      "id": 6709,
+      "title": "1 Kreuzer - Francis Joseph I",
+      "category": "coin",
+      "country": {
+        "code": "hongrie",
+        "name": "Hungary"
+      },
+      "minYear": 1868,
+      "maxYear": 1873
+    },
+    {
+      "id": 33834,
+      "title": "1 Kreuzer - Francis Joseph I (Mule)",
+      "category": "coin",
+      "country": {
+        "code": "hongrie",
+        "name": "Hungary"
+      },
+      "minYear": 1878,
+      "maxYear": 1878
+    },
+    {
+      "id": 7206,
+      "title": "1 Kreuzer - Francis Joseph I",
+      "category": "coin",
+      "country": {
+        "code": "hongrie",
+        "name": "Hungary"
+      },
+      "minYear": 1878,
+      "maxYear": 1888
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Eagle",
+    "Crown",
+    "Coat of Arms",
+    "Double-headed eagle",
+    "Globus cruciger",
+    "Wreath",
+    "Cold weapons"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "2186"
+    },
+    {
+      "catalogue": {
+        "id": 360,
+        "code": "Adamo"
+      },
+      "number": "M4"
+    }
+  ],
+  "weight": 3.15,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/autriche-habsbourg/6991aeb1e782d3.11620204-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/autriche-habsbourg/6991aeb1e782d3.11620204-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 232,
+      "name": "Austrian Mint"
+    },
+    {
+      "id": 232,
+      "name": "Austrian Mint"
+    },
+    {
+      "id": 1262,
+      "name": "Kremnica"
+    },
+    {
+      "id": 1255,
+      "name": "Alba Iulia"
+    },
+    {
+      "id": 1558,
+      "name": "Milan"
+    },
+    {
+      "id": 1629,
+      "name": "Venice"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,125 @@
+{
+  "id": 1435,
+  "url": "https://en.numista.com/1435",
+  "title": "10 Øre - Haakon VII",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "norvege",
+    "name": "Norway"
+  },
+  "min_year": 1951,
+  "max_year": 1957,
+  "ruler": [
+    {
+      "id": 449,
+      "name": "Haakon VII",
+      "wikidata_id": "Q154927",
+      "group": {
+        "id": 358,
+        "name": "House of Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Øre",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 16,
+      "name": "Krone",
+      "full_name": "Krone (1875-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 15,
+  "thickness": 1.1,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel (75% copper, 25% nickel)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Øivind Hansen"
+    ],
+    "description": "Crowned monogram of Haakon VII. Date divided by monogram. Beaded ring on the rim.",
+    "lettering": "19 | 54\r\nH7",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/norvege/824-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/824-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "reverse": {
+    "designers": [
+      "Øivind Hansen"
+    ],
+    "description": "Value in two lines. Inscription above value. A triskelion on each side of the value. Mintmark below the value. Beaded ring on the rim.",
+    "lettering": "NORGE\r\n10\r\nØRE\r\n⚒",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Norway",
+    "picture": "https://en.numista.com/catalogue/photos/norvege/825-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/825-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "comments": "<p>The variants mintmark on plate and mintmark on coin are reported to exist in every year, but apart from 1951 the rarities of each variant is not known. 1951 mintmark on coin is considered extremely rare.</p><p><a href=\"https://en.numista.com/catalogue/images/676eee8a63475.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/676eee8a63475.jpg\"></a></p>",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "396"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "52"
+    },
+    {
+      "catalogue": {
+        "id": 201,
+        "code": "Rønning"
+      },
+      "number": "274"
+    },
+    {
+      "catalogue": {
+        "id": 201,
+        "code": "Rønning"
+      },
+      "number": "274a"
+    }
+  ],
+  "weight": 1.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain.",
+    "picture": "https://en.numista.com/catalogue/photos/norvege/67886c1f240d42.65557192-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/norvege/67886c1f240d42.65557192-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 1888,
+      "name": "Norwegian Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

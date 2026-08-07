@@ -1,0 +1,173 @@
+{
+  "id": 201805,
+  "url": "https://en.numista.com/201805",
+  "title": "1 Dollar (Federal Reserve Note)",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "etats-unis",
+    "name": "United States"
+  },
+  "issuing_entity": {
+    "id": 4818,
+    "name": "United States Department of the Treasury"
+  },
+  "min_year": 1963,
+  "max_year": 2021,
+  "ruler": [
+    {
+      "id": 4720,
+      "name": "Federal republic",
+      "wikidata_id": "Q30"
+    }
+  ],
+  "value": {
+    "text": "1 Dollar",
+    "numeric_value": 1,
+    "currency": {
+      "id": 59,
+      "name": "Dollar",
+      "full_name": "Dollar (1785-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 156,
+  "size2": 67,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper (75% cotton, 25% linen)"
+  },
+  "technique": {
+    "text": "Intaglio"
+  },
+  "obverse": {
+    "description": "Portrait of George Washington at center.\r\nTreasurer's Signature and Federal Reserve Bank Seal at left.\r\nSecretary's Signature and Treasury Seal at right.",
+    "lettering": "FEDERAL RESERVE NOTE\r\nTHE UNITED STATES OF AMERICA\r\n\r\nTHIS NOTE IS LEGAL TENDER\r\nFOR ALL DEBTS, PUBLIC AND PRIVATE\r\n\r\nWASHINGTON\r\nONE DOLLAR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/63e49d43684fa6.47761200-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/63e49d43684fa6.47761200-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Great Seal of the United States around ONE.",
+    "lettering": "THE UNITED STATES OF AMERICA\r\nIN GOD WE TRUST\r\nONE\r\n\r\nANNUIT CŒPTIS \r\nMDCCLXXVI\r\nTHE GREAT SEAL \r\n\r\nE PLURIBUS UNUM\r\nOF THE UNITED STATES\r\n\r\nONE DOLLAR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/63e49d44023ff2.51688991-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/63e49d44023ff2.51688991-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p>On the obverse side of the $1 banknote a letter in circle identifies the Federal Reserve bank branch, serial number of the note also starts with the same letter – Letters identifying FRB branches are as below.<br><br>A - Boston<br>B - New York<br>C - Philadelphia<br>D - Cleveland<br>E - Richmond<br>F - Atlanta<br>G - Chicago<br>H - St. Louis<br>I - Minneapolis<br>J - Kansas City<br>K - Dallas<br>L - San Francisco<br><br><strong>Notes printed at Fort Worth (since Series 1988A)</strong><br>\"FW\" before the lower right plate number indicates note was printed at the Bureau of Engraving and Printing's satellite facility in Fort Worth, Texas.<br><a href=\"https://en.numista.com/catalogue/images/5eb00b30559d0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5eb00b30559d0.jpg\" alt=\"\"></a><br><br>Below is an example of a note without \"FW\" (printed at Washington, D.C.)<br><a href=\"https://en.numista.com/catalogue/images/5eb00c077a875.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5eb00c077a875.jpg\" alt=\"\"></a><br><br><strong>Web notes (Series 1988A/1993/1995)</strong><br>Notes from experimental \"web-printing production\" can be distinguished from conventional sheet-fed notes by plate number positions.<br>In these two photos, the web note is shown above the classic sheet-fed note.<br><a href=\"https://en.numista.com/catalogue/images/5eb5d55884283.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5eb5d55884283.jpg\" alt=\"\"></a> <a href=\"https://en.numista.com/catalogue/images/5eb5d560117d1.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5eb5d560117d1.jpg\" alt=\"\"></a><br><br><strong>COPE (Series 1969B-Series 2009) &amp; LEPE (Series 2009-present)</strong><br>COPE (Currency Overprinting and Processing Equipment) &amp; LEPE (Large Examining and Printing Equipment) are two methods of note overprinting used by the Bureau of Engraving and Printing. COPE notes are only printed in sheets of 32 and have a classic plate letter with a number of smaller size; LEPE notes are printed in both 32-subject and 50-subject sheets, the latter of which features a flatter plate letter with a closer-spaced number of the same size.<br><br>32-subject note:<br><img src=\"https://en.numista.com/forum/images/5eb534eb1c354.jpg\" alt=\"\"><br>50-subject note:<br><img src=\"https://en.numista.com/catalogue/images/5eb534fa0eccc.jpg\" alt=\"\"><br><br><strong>Replacement notes (☆)</strong><br>The presence of a star at the end of serial number indicates a replacement note.<br><a href=\"https://en.numista.com/catalogue/images/5fd190a456ca8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5fd190a456ca8.jpg\" alt=\"\"></a></p><p>&nbsp;</p><p>Here is a Series 2009 - H - In Lucky Money Folder</p><p><a href=\"https://en.numista.com/catalogue/images/675457efde76d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/675457efde76d.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/675457f0adfdf.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/675457f0adfdf.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/675457f0432a8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/675457f0432a8.jpg\"></a></p>",
+  "related_types": [
+    {
+      "id": 201812,
+      "title": "2 Dollars (Federal Reserve Note)",
+      "category": "banknote",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 1976,
+      "maxYear": 2017
+    }
+  ],
+  "tags": [
+    "Military leader",
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "443"
+    },
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "449"
+    },
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "455"
+    },
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "462"
+    },
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "468"
+    },
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "474"
+    },
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "480"
+    },
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "490"
+    },
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "496"
+    },
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "504"
+    }
+  ],
+  "printers": [
+    {
+      "id": 51,
+      "name": "Bureau of Engraving and Printing"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

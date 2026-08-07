@@ -1,0 +1,108 @@
+{
+  "id": 1237,
+  "url": "https://en.numista.com/1237",
+  "title": "20 Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "portugal",
+    "name": "Portugal"
+  },
+  "min_year": 1942,
+  "max_year": 1969,
+  "ruler": [
+    {
+      "id": 1294,
+      "name": "Second Republic",
+      "wikidata_id": "Q17748736"
+    }
+  ],
+  "value": {
+    "text": "20 Centavos",
+    "numeric_value": 0.2,
+    "currency": {
+      "id": 65,
+      "name": "Escudo",
+      "full_name": "Escudo (1911-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2002-02-28"
+  },
+  "size": 20.2,
+  "thickness": 1.17,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze (95% copper, 3% tin, 2% zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Marcelino Norte de Almeida"
+    ],
+    "description": "The Portuguese shield (five escutcheons forming a cross and a dot within each square) along with the date below",
+    "lettering": "REPVBLICA · PORTVGVESA\r\n1968",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Portuguese Republic",
+    "picture": "https://en.numista.com/catalogue/photos/portugal/62b0b916aedac1.66511229-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/portugal/62b0b916aedac1.66511229-180.jpg",
+    "picture_copyright": "The_Seismologist"
+  },
+  "reverse": {
+    "engravers": [
+      "Marcelino Norte de Almeida"
+    ],
+    "description": "Branches of the olive tree (Binomial name: Olea europaea) underneath the face value in Roman numerals",
+    "lettering": "XX \r\nCENTAVOS\r\nM NORTE.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/portugal/62b0b916d5c2e7.13981359-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/portugal/62b0b916d5c2e7.13981359-180.jpg",
+    "picture_copyright": "The_Seismologist"
+  },
+  "series": "System 1927-1968",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "584"
+    },
+    {
+      "catalogue": {
+        "id": 108,
+        "code": "Gomes"
+      },
+      "number": "R 16"
+    }
+  ],
+  "weight": 3,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/portugal/614c7a98c2f269.83493094-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/portugal/614c7a98c2f269.83493094-180.jpg",
+    "picture_copyright": "Walter_Scott"
+  },
+  "mints": [
+    {
+      "id": 1337,
+      "name": "Imprensa Nacional - Casa da Moeda"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

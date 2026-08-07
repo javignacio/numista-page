@@ -1,0 +1,142 @@
+{
+  "id": 98,
+  "url": "https://en.numista.com/98",
+  "title": "2 Euro Cents",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "france",
+    "name": "France"
+  },
+  "min_year": 1999,
+  "max_year": 2026,
+  "ruler": [
+    {
+      "id": 11,
+      "name": "Fifth Republic",
+      "wikidata_id": "Q200686",
+      "group": {
+        "id": 89,
+        "name": "Modern France"
+      }
+    }
+  ],
+  "value": {
+    "text": "2 Euro Cents",
+    "numeric_value": 0.02,
+    "currency": {
+      "id": 9006,
+      "name": "Euro",
+      "full_name": "Euro (2002-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2002-01-01"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 18.75,
+  "thickness": 1.67,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Fabienne Courtiade"
+    ],
+    "description": "A young, feminine Marianne with determined features that embody the desire for a sound and lasting Europe. Around twelve five-pointed stars representing the European Union.",
+    "lettering": "RF 2006 F. COURTIADE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/france/3929-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/3929-180.jpg",
+    "picture_copyright": "Florino28",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Luc Luycx"
+    ],
+    "description": "A globe, next to the face value, shows Europe in relation to Africa and Asia.",
+    "lettering": "2 EURO CENT LL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/france/3930-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/3930-180.jpg",
+    "picture_copyright": "Florino28",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p>Two types of the 2001 coin:</p><p><a href=\"https://en.numista.com/catalogue/images/694a6e68a515c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/694a6e68a515c.jpg\"></a></p><p>&nbsp;</p><p>The two types in 2018, it's the only year with the new type, all other years are still (2025) the old type?</p><p><a href=\"https://en.numista.com/catalogue/images/687def36a2638.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/687def36a2638.jpg\"></a></p><p>&nbsp;</p><p><strong><u>BUNC Sets Released</u></strong><br>&nbsp;</p><ul><li>1999 - 35000 Annual Coin Sets<br>&nbsp;</li><li>2000 - 35000 Annual Coin Sets<br>&nbsp;</li><li>2001 - 35000 Annual Coin Sets<br>&nbsp;</li><li>2002 - 145563 Annual Coin Sets + 19727 <i>The Little Prince</i> Coin Sets<br>&nbsp;</li><li>2003 - 109407 Annual Coin Sets + 10094 <i>The Little Prince</i> Coin Sets + 12638 Tourism Coin Sets (Eiffel Tower)<br>&nbsp;</li><li>2004 - 120000 Annual Coin Sets + 5399 <i>The Little Prince</i> Coin Sets + 3704 Tourism Coin Sets (Provence)<br>&nbsp;</li><li>2005 - 69999 Annual Coin Sets + 2611 <i>Moebius </i>Coin Sets + 2541 Tourism Coin Sets (Garonne)<br>&nbsp;</li><li>2006 - 70000 Annual Coin Sets + 20 different illustrated Coin Sets of 500 issues each<br>&nbsp;</li><li>2007 - 50000 Annual Coin Sets + 20 different illustrated Coin Sets of 500 issues each<br>&nbsp;</li><li>2008 - 50000 Annual Coin Sets + 20 different illustrated Coin Sets of 500 issues each<br>&nbsp;</li><li>2009 - 50000 Annual Coin Sets + 3 different illustrated Coin Sets of 500 or 1000 issues each<br>&nbsp;</li><li>2010 - 50000 Annual Coin Sets + 9 different illustrated Coin Sets of 500 issues each + 1000 Coin Sets <i>Jour de la Monnaie (Guest Of Honour)</i><br>&nbsp;</li><li>2011 - 40000 Annual Coin Sets + 5 different illustrated Coin Sets of 500 issues each<br>&nbsp;</li><li>2012 - 40000 Annual Coin Sets + 6 different illustrated Coin Sets of 500 issues each<br>&nbsp;</li><li>2013 - 25000 Annual Coin Sets + 7 different illustrated Coin Sets of 500 issues each<br>&nbsp;</li><li>2014 - 25000 Annual Coin Sets + 7 different illustrated Coin Sets of 500 issues each<br>&nbsp;</li><li>2015 - 25000 Annual Coin Sets + 7 different illustrated Coin Sets of 500 issues each<br>&nbsp;</li><li>2016 - 25000 Annual Coin Sets + 7 different illustrated Coin Sets of 500 issues each<br>&nbsp;</li><li>2017 - 25000 Annual Coin Sets + 5 different illustrated Coin Sets of 500 issues each<br>&nbsp;</li><li>2018 - 25000 Annual Coin Sets + 7 different illustrated Coin Sets of 500 issues each<br>&nbsp;</li><li>2019 - 15000 Annual Coin Sets + 2 different illustrated Coin Sets of 500 issues each<br>&nbsp;</li><li>2020 - 15000 Annual Coin Sets + 5 different illustrated Coin Sets of 500 issues each + 2 different illustrated Coin Sets of 500 issues each with the 2€ 2020 <i>Charles De Gaulle</i> commemorative coin instead of the regular 2€ coin<br>&nbsp;2024 - BU, Disney - Lion King 30thMiniset&nbsp;-&nbsp;Brilliant Uncirculated quality yeardate 2024, 500 issues.</li></ul><p style=\"margin-left:0cm;\">&nbsp;</p><ul><li>2024 - BU, Set 8 french circulating denominations&nbsp;-&nbsp;Brilliant Uncirculated quality yeardate 2024, 15000 issues.</li></ul><p style=\"margin-left:0cm;\">&nbsp;</p><ul><li>2024 - BU, Disney - &nbsp;Little Mermaid 35thMiniset&nbsp;-&nbsp;Brilliant Uncirculated quality yeardate 2024, 500 issues.<br>&nbsp;</li><li>2024 - BU, Asterix 65thAnniversary Miniset&nbsp;-&nbsp;Brilliant Unciculated yeardate 2024, 1000 Issues.&nbsp;</li></ul><p><br><strong><u>PROOF Sets Released</u></strong><br>&nbsp;</p><ul><li>From 1999 to 2012 - Annual Coin Sets<br>&nbsp;</li><li>2013 - Annual Coin Sets + Annual Coin Sets <i>Prestige </i>with the 100€ gold coin of <i>The Sower - Pessac Site</i><br>&nbsp;</li><li>From 2014 to the present - Annual Coin Sets<br>&nbsp;</li></ul>",
+  "related_types": [
+    {
+      "id": 44506,
+      "title": "100 Euros (Pessac Site)",
+      "category": "coin",
+      "country": {
+        "code": "france",
+        "name": "France"
+      },
+      "minYear": 2013,
+      "maxYear": 2013
+    }
+  ],
+  "tags": [
+    "Map",
+    "Globe"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1283"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "652"
+    },
+    {
+      "catalogue": {
+        "id": 109,
+        "code": "Gad 1789"
+      },
+      "number": "2 (Ed.2019)"
+    }
+  ],
+  "weight": 3.06,
+  "orientation": "medal",
+  "edge": {
+    "description": "Smooth with a groove running circumferentially around the edge of the coin",
+    "picture": "https://en.numista.com/catalogue/photos/france/8643-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/8643-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

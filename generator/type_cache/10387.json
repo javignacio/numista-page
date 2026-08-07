@@ -1,0 +1,114 @@
+{
+  "id": 10387,
+  "url": "https://en.numista.com/10387",
+  "title": "10 Pennia - Nicholas II",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "finlande",
+    "name": "Finland"
+  },
+  "min_year": 1895,
+  "max_year": 1917,
+  "ruler": [
+    {
+      "id": 3296,
+      "name": "Nicholas II",
+      "wikidata_id": "Q40787",
+      "group": {
+        "id": 276,
+        "name": "Grand Duchy of Finland, House of Romanov"
+      }
+    }
+  ],
+  "value": {
+    "text": "10 Pennia",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 1156,
+      "name": "Markka",
+      "full_name": "Markka (1860-1963)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 30,
+  "thickness": 2.4,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Crowned monogram of Nikolai II.",
+    "lettering": "N II",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/finlande/741-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/741-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "description": "Denomination and date within wreath.",
+    "lettering": "10\r\nPENNIÄ\r\n1912",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/finlande/742-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/742-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "tags": [
+    "Crown",
+    "Monogram",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "14"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "9"
+    },
+    {
+      "catalogue": {
+        "id": 1015,
+        "code": "Kahnt/Schön"
+      },
+      "number": "22"
+    }
+  ],
+  "weight": 12.8,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 1333,
+      "name": "Mint of Finland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

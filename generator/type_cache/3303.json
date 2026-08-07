@@ -1,0 +1,128 @@
+{
+  "id": 3303,
+  "url": "https://en.numista.com/3303",
+  "title": "1 Kopiika",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "ukraine",
+    "name": "Ukraine"
+  },
+  "issuing_entity": {
+    "id": 564,
+    "name": "National Bank of Ukraine",
+    "wikidata_id": "Q1070388"
+  },
+  "min_year": 1992,
+  "max_year": 2018,
+  "ruler": [
+    {
+      "id": 3209,
+      "name": "Republic",
+      "wikidata_id": "Q212"
+    }
+  ],
+  "value": {
+    "text": "1 Kopiika",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 88,
+      "name": "Hryvnia",
+      "full_name": "Hryvnia (1996-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2019-10-01"
+  },
+  "size": 16,
+  "thickness": 1.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Vasyl Lopata"
+    ],
+    "description": "The national arms of Ukraine and the date below",
+    "lettering": "Україна\r\n2011",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "Ukraine\r\n2011",
+    "picture": "https://en.numista.com/catalogue/photos/ukraine/5f90948e9f4d51.48503243-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ukraine/5f90948e9f4d51.48503243-180.jpg",
+    "picture_copyright": "National Bank of Ukraine",
+    "picture_copyright_url": "http://www.bank.gov.ua"
+  },
+  "reverse": {
+    "engravers": [
+      "Vasyl Lopata"
+    ],
+    "description": "Value within wreath",
+    "lettering": "1\r\nкопійка",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "1  Kopiika",
+    "picture": "https://en.numista.com/catalogue/photos/ukraine/5f90948f9cfdf8.65097298-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ukraine/5f90948f9cfdf8.65097298-180.jpg",
+    "picture_copyright": "National Bank of Ukraine",
+    "picture_copyright_url": "http://www.bank.gov.ua"
+  },
+  "comments": "1. If there is mintmark it is to the right of the date on Obv.:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/56e6bafd08a27.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/56e6bafd08a27.jpg\" alt=\"\" width=\"200\" height=\"103\" /></a><br />\r\n2. a) Coins 1992-1996 were produced:<br />\r\nin Rome, Italy - Obv. die <span style=\"font-weight:bold;\">I</span> - wide central blade of trident.<br />\r\nin Luhansk, Ukraine - Obv. die <span style=\"font-weight:bold;\">II</span> - narrow central blade of trident.<br />\r\n&nbsp;b) Coins 2000-2018 were produced in Kyiv, Ukraine - Obv. die <span style=\"font-weight:bold;\">III</span>:<br />\r\nwithout mintmark - 2000<br />\r\nwith mintmark - 2001-2018.",
+  "tags": [
+    "Coat of Arms",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "6"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "22"
+    }
+  ],
+  "weight": 1.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/ukraine/1910-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ukraine/1910-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 4652,
+      "name": "Luhansk Cartridge Factory"
+    },
+    {
+      "id": 1330,
+      "name": "National Bank of Ukraine Banknote Printing and Minting Works"
+    },
+    {
+      "id": 22,
+      "name": "Rome"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

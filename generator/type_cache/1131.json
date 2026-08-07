@@ -1,0 +1,120 @@
+{
+  "id": 1131,
+  "url": "https://en.numista.com/1131",
+  "title": "1 Öre - Oscar II (Extra large letters)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "suede",
+    "name": "Sweden"
+  },
+  "min_year": 1879,
+  "max_year": 1905,
+  "ruler": [
+    {
+      "id": 2363,
+      "name": "Oscar II",
+      "wikidata_id": "Q52924",
+      "group": {
+        "id": 99,
+        "name": "House of Bernadotte"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Öre",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 18,
+      "name": "Krona",
+      "full_name": "Krona (1873-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 16,
+  "thickness": 1.35,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Crowned King's monogram. King's motto above (larger than that of KM# 734 and KM# 745), and Stockholm mintmark below, near rim.",
+    "lettering": "BRÖDRAFOLKENS VÄL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "The Welfare of the Brother People.",
+    "picture": "https://en.numista.com/catalogue/photos/suede/970-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suede/970-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "description": "Value and date together with the Three Crowns, symbol of Sweden.",
+    "lettering": "1 \r\nÖRE\r\n1899",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/suede/971-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suede/971-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "related_types": [
+    {
+      "id": 16506,
+      "title": "1 Öre - Oscar II (Small letters)",
+      "category": "coin",
+      "country": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "minYear": 1874,
+      "maxYear": 1877
+    },
+    {
+      "id": 37764,
+      "title": "1 Öre - Oscar II (Large letters)",
+      "category": "coin",
+      "country": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "minYear": 1877,
+      "maxYear": 1880
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "750"
+    }
+  ],
+  "weight": 2,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 5989,
+      "name": "Kungliga Myntet"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

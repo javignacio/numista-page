@@ -1,0 +1,106 @@
+{
+  "id": 2112,
+  "url": "https://en.numista.com/2112",
+  "title": "1 Shilling",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "ouganda",
+    "name": "Uganda"
+  },
+  "issuing_entity": {
+    "id": 266,
+    "name": "Bank of Uganda"
+  },
+  "min_year": 1987,
+  "max_year": 1987,
+  "ruler": [
+    {
+      "id": 936,
+      "name": "Republic",
+      "wikidata_id": "Q1036"
+    }
+  ],
+  "value": {
+    "text": "1 Shilling",
+    "numeric_value": 1,
+    "currency": {
+      "id": 180,
+      "name": "New shilling",
+      "full_name": "New shilling (1987-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 19.85,
+  "thickness": 2.05,
+  "shape": "Dodecagonal (12-sided)",
+  "composition": {
+    "text": "Copper plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms of Uganda.",
+    "lettering": "· BANK OF UGANDA ·\r\nONE SHILLING\r\nFOR GOD AND MY COUNTRY",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/ouganda/63b47a5722c4e6.93933714-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ouganda/63b47a5722c4e6.93933714-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "reverse": {
+    "description": "Cotton (Gossypium spp.) sprigs around value in circle. Sack with nuts at bottom.",
+    "lettering": "BANK OF UGANDA\r\n1\r\n1987",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/ouganda/63b47a57b332c5.22384602-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ouganda/63b47a57b332c5.22384602-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "series": "1987 series",
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "27"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "26"
+    }
+  ],
+  "weight": 4.3,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

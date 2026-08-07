@@ -1,0 +1,119 @@
+{
+  "id": 2938,
+  "url": "https://en.numista.com/2938",
+  "title": "1 Gulden - Beatrix",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "antilles_neerlandaises",
+    "name": "Netherlands Antilles"
+  },
+  "min_year": 1989,
+  "max_year": 2013,
+  "ruler": [
+    {
+      "id": 4126,
+      "name": "Beatrix",
+      "wikidata_id": "Q29574",
+      "group": {
+        "id": 277,
+        "name": "House of Orange-Nassau"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Gulden",
+    "numeric_value": 1,
+    "currency": {
+      "id": 68,
+      "name": "Gulden",
+      "full_name": "Gulden (1828-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2025-03-31"
+  },
+  "size": 24,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze plated steel (Aureate Bonded Steel (ABS))"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Head of Queen Beatrix facing left",
+    "lettering": "BEATRIX KONINGIN DER NEDERLANDEN",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Beatrix Queen of the Netherlands",
+    "picture": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/557-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/557-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "reverse": {
+    "description": "Crowned coat of arms of the Netherlands Antilles divides value above date and ribbon.\r\nNOTE: different privy marks.",
+    "lettering": "DE NEDERLANDSE ANTILLEN\r\n1 G\r\nLIBERTATE UNANIMUS\r\n1993",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "1 Gulden",
+    "lettering_translation": "Netherlands Antilles\r\nUnified by Freedom",
+    "picture": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/558-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/558-180.jpg",
+    "picture_copyright": "Ulmo"
+  },
+  "comments": "<a href=\"https://en.numista.com/catalogue/images/5b220f32b8029.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5b220f32b8029.jpg\" alt=\"\" width=\"200\" height=\"147\" /></a><br />\r\n© DGC",
+  "tags": [
+    "Crown",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "37"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "77"
+    }
+  ],
+  "weight": 6,
+  "orientation": "coin",
+  "edge": {
+    "description": "Smooth with inscription",
+    "lettering": "★ GOD ★ ZIJ ★ MET ★ ONS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "God be with us",
+    "picture": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/329-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/329-180.jpg",
+    "picture_copyright": "ZacUK"
+  },
+  "mints": [
+    {
+      "id": 23,
+      "name": "Royal Dutch Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,183 @@
+{
+  "id": 3923,
+  "url": "https://en.numista.com/3923",
+  "title": "3 Pence - Elizabeth II (1st portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "nouvelle-zelande",
+    "name": "New Zealand"
+  },
+  "min_year": 1953,
+  "max_year": 1965,
+  "ruler": [
+    {
+      "id": 629,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 788,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "3 Pence",
+    "numeric_value": 0.0125,
+    "numerator": 1,
+    "denominator": 80,
+    "currency": {
+      "id": 217,
+      "name": "Pound",
+      "full_name": "Pound (1840-1967)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1967-00-00"
+  },
+  "size": 16.3,
+  "thickness": 0.96,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Mary Gillick"
+    ],
+    "description": "Young laureate bust of Queen Elizabeth II right, legend around.\r\n\r\nNote: with or without shoulder strap (see below)",
+    "lettering": "QUEEN·ELIZABETH·THE·SECOND +\r\nM·G·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/nouvelle-zelande/67aacebebad640.17760470-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/67aacebebad640.17760470-180.jpg",
+    "picture_copyright": "PCGS",
+    "picture_copyright_url": "https://www.pcgs.com/"
+  },
+  "reverse": {
+    "engravers": [
+      "George Kruger Gray"
+    ],
+    "description": "Two carved patu (Māori short-handled clubs) with legend and denomination above, date below.",
+    "lettering": "NEW·ZEALAND\r\n3d\r\nK·G\r\n·1962·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/nouvelle-zelande/67aacebf3312d1.45157062-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/67aacebf3312d1.45157062-180.jpg",
+    "picture_copyright": "PCGS",
+    "picture_copyright_url": "https://www.pcgs.com/"
+  },
+  "comments": "The BU Uncirculated Sets issued in 1965, which was the last year of minting of the pre-decimal coins, came in three different versions.<br /><br />\r\nThe<span style=\"font-weight:bold;\"> Pink Label Set</span> included just ordinary circulation coins that had not gone into circulation.<br />\r\nThe <span style=\"font-weight:bold;\">Green Label Set</span> included selected circulation coins that had not gone into circulation.<br />\r\nTogether the Pink &amp; Green Label sets had a mintage figure of 175,000 in total.<br /><br />\r\nThe <span style=\"font-weight:bold;\">Blue Label Set</span> included special selected and polished uncirculated coins. Sometimes described as &quot;Prooflike&quot;.<br />\r\nThe Blue Label set had a mintage of 25,000 in total.<br /><br />\r\n<span style=\"font-style:italic;\">Series obverse die varieties:</span><br /><br />\r\n<span style=\"font-weight:bold;\">KM#25.1</span> <span style=\"font-style:italic;\">(1953-56)</span> Without shoulder strap, 88 beads, + pointing at bead;<br />\r\n<a href=\"https://en.numista.com/catalogue/images/59cbe3d68feb3.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/59cbe3d68feb3.jpg\" alt=\"\" width=\"200\" height=\"101\" /></a><br />\r\n<span style=\"font-weight:bold;\">KM#25.2</span> <span style=\"font-style:italic;\">(1956-65)</span> With shoulder strap, 86 beads, + pointing between beads;<br />\r\n<a href=\"https://en.numista.com/catalogue/images/59cbe3cb33096.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/59cbe3cb33096.jpg\" alt=\"\" width=\"200\" height=\"101\" /></a><br /><br />\r\n<span style=\"font-style:italic;\">1956 die varieties:</span><br />\r\n<a href=\"https://en.numista.com/catalogue/images/6061d91def8e6.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6061d91def8e6.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\n<span style=\"font-style:italic;\">1957 obverse die varieties:</span><br /><br />\r\n<span style=\"font-weight:bold;\">86 beads</span> Right side of N pointing between pearls, pearls not touching border;<br />\r\n<span style=\"font-weight:bold;\">87 beads</span> Right side of N pointing at a pearl, pearls touching border.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5dab08221f888.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5dab08221f888.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "related_types": [
+    {
+      "id": 3922,
+      "title": "½ Penny - Elizabeth II (1st portrait)",
+      "category": "coin",
+      "country": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "minYear": 1953,
+      "maxYear": 1965
+    },
+    {
+      "id": 1591,
+      "title": "1 Penny - Elizabeth II (1st portrait)",
+      "category": "coin",
+      "country": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "minYear": 1953,
+      "maxYear": 1965
+    },
+    {
+      "id": 4017,
+      "title": "6 Pence - Elizabeth II (1st portrait)",
+      "category": "coin",
+      "country": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "minYear": 1953,
+      "maxYear": 1965
+    },
+    {
+      "id": 837,
+      "title": "1 Shilling - Elizabeth II (1st portrait)",
+      "category": "coin",
+      "country": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "minYear": 1953,
+      "maxYear": 1965
+    },
+    {
+      "id": 6081,
+      "title": "1 Florin - Elizabeth II (1st Portrait)",
+      "category": "coin",
+      "country": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "minYear": 1953,
+      "maxYear": 1965
+    },
+    {
+      "id": 12403,
+      "title": "½ Crown - Elizabeth II (1st portrait)",
+      "category": "coin",
+      "country": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "minYear": 1953,
+      "maxYear": 1965
+    }
+  ],
+  "tags": [
+    "Cold weapons"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "25.1"
+    },
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "25.2"
+    }
+  ],
+  "weight": 1.4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

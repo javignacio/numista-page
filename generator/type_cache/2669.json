@@ -1,0 +1,194 @@
+{
+  "id": 2669,
+  "url": "https://en.numista.com/2669",
+  "title": "10 Centésimos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "uruguay",
+    "name": "Uruguay"
+  },
+  "min_year": 1976,
+  "max_year": 1981,
+  "ruler": [
+    {
+      "id": 3897,
+      "name": "Oriental Republic of Uruguay",
+      "wikidata_id": "Q77"
+    }
+  ],
+  "value": {
+    "text": "10 Centésimos",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 297,
+      "name": "Nuevo peso",
+      "full_name": "Nuevo peso (1975-1993)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1991-11-30"
+  },
+  "size": 19,
+  "thickness": 1.8,
+  "shape": "Dodecagonal (12-sided)",
+  "composition": {
+    "text": "Aluminium bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Horse left, short name of the country on top, date below. The horse is one of the symbols of the national coat of arms, showing on the lower left quarter, and symbolizes the liberty.",
+    "lettering": "URUGUAY\r\nSo\r\n1978",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/62c00939756853.78415118-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/62c00939756853.78415118-180.jpg",
+    "picture_copyright": "Worldwide collection",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Value flanked by Olive sprigs",
+    "lettering": "10\r\nCENTESIMOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/uruguay/62c00939a81fb3.81935833-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/uruguay/62c00939a81fb3.81935833-180.jpg",
+    "picture_copyright": "Worldwide collection",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p>Normal alignment is medal, but on 1976 issues also exist coin rotation variety, known as “Caballito invertido” (inverted horse\"), as well as Proof finish&nbsp;</p>",
+  "related_types": [
+    {
+      "id": 5298,
+      "title": "1 Centésimo",
+      "category": "coin",
+      "country": {
+        "code": "uruguay",
+        "name": "Uruguay"
+      },
+      "minYear": 1977,
+      "maxYear": 1977
+    },
+    {
+      "id": 5299,
+      "title": "2 Centésimos",
+      "category": "coin",
+      "country": {
+        "code": "uruguay",
+        "name": "Uruguay"
+      },
+      "minYear": 1977,
+      "maxYear": 1978
+    },
+    {
+      "id": 5300,
+      "title": "5 Centésimos",
+      "category": "coin",
+      "country": {
+        "code": "uruguay",
+        "name": "Uruguay"
+      },
+      "minYear": 1977,
+      "maxYear": 1978
+    },
+    {
+      "id": 5297,
+      "title": "20 Centésimos",
+      "category": "coin",
+      "country": {
+        "code": "uruguay",
+        "name": "Uruguay"
+      },
+      "minYear": 1976,
+      "maxYear": 1981
+    },
+    {
+      "id": 2637,
+      "title": "50 Centésimos",
+      "category": "coin",
+      "country": {
+        "code": "uruguay",
+        "name": "Uruguay"
+      },
+      "minYear": 1976,
+      "maxYear": 1981
+    },
+    {
+      "id": 4264,
+      "title": "1 Nuevo Peso",
+      "category": "coin",
+      "country": {
+        "code": "uruguay",
+        "name": "Uruguay"
+      },
+      "minYear": 1976,
+      "maxYear": 1978
+    }
+  ],
+  "tags": [
+    "Horse or equine"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "66"
+    },
+    {
+      "catalogue": {
+        "id": 709,
+        "code": "SA"
+      },
+      "number": "102, 110, 116, 121"
+    },
+    {
+      "catalogue": {
+        "id": 2069,
+        "code": "CG"
+      },
+      "number": "102, 110, 116, 121"
+    },
+    {
+      "catalogue": {
+        "id": 3175,
+        "code": "GL"
+      },
+      "number": "102, 110, 116, 121"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "48"
+    }
+  ],
+  "weight": 3,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

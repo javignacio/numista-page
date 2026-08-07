@@ -1,0 +1,163 @@
+{
+  "id": 3416,
+  "url": "https://en.numista.com/3416",
+  "title": "2 Reichsmark (Paul von Hindenburg)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "allemagne-pre1945",
+    "name": "Germany (1871-1948)"
+  },
+  "min_year": 1936,
+  "max_year": 1939,
+  "ruler": [
+    {
+      "id": 3581,
+      "name": "Third Reich",
+      "wikidata_id": "Q7318"
+    }
+  ],
+  "value": {
+    "text": "2 Marks",
+    "numeric_value": 2,
+    "currency": {
+      "id": 230,
+      "name": "Reichsmark",
+      "full_name": "Reichsmark (1924-1948)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 25,
+  "thickness": 2.15,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.625)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "F. Krischker"
+    ],
+    "description": "An eagle holding a wreath of oak leaves above the swastika in the middle of the wreath, denomination on the sides.",
+    "lettering": "2 Reichs \r\nMark \r\nDeutsches Reich 1939",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "German Reich.",
+    "picture": "https://en.numista.com/catalogue/photos/allemagne-pre1945/6008365156fcb9.33909536-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/allemagne-pre1945/6008365156fcb9.33909536-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "A. Vocke"
+    ],
+    "description": "A large portrait of Paul von Hindenburg facing right with the mintmark between Hindenburg's neck and '1847', legend around.",
+    "lettering": "1847-1934\r\nD\r\nPaul von Hindenburg",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/allemagne-pre1945/60083651efa370.30837805-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/allemagne-pre1945/60083651efa370.30837805-180.jpg",
+    "picture_copyright": "tolnomur",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "(fr) <span style=\"text-decoration:underline;\">Ateliers monétaires:</span><br />\r\nA = Berlin<br />\r\nB = Wien<br />\r\nD = München<br />\r\nE = Muldenhütten<br />\r\nF = Stuttgart<br />\r\nG = Karlsruhe<br />\r\nJ = Hamburg<br /><br />\r\nHinderburg était un maréchal et homme d&#039;état allemand, Paul von Hindenburg fut élu Président de la République. C&#039;est lui qui nomma Adolf Hitler à la fonction de Chancelier.",
+  "tags": [
+    "Bird",
+    "Eagle",
+    "Politician",
+    "Coat of Arms",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "93"
+    },
+    {
+      "catalogue": {
+        "id": 81,
+        "code": "AKS"
+      },
+      "number": "33"
+    },
+    {
+      "catalogue": {
+        "id": 80,
+        "code": "J"
+      },
+      "number": "366"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "90"
+    }
+  ],
+  "weight": 8,
+  "orientation": "medal",
+  "edge": {
+    "description": "Smooth with inscription. End and beginning of legend separate by floral design.",
+    "lettering": "Gemeinnutz geht vor Eigennutz",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Common Good Takes Priority over Self-interest.",
+    "picture": "https://en.numista.com/catalogue/photos/allemagne-pre1945/697dd97e176f12.91753431-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/allemagne-pre1945/697dd97e176f12.91753431-180.jpg",
+    "picture_copyright": "Archie52"
+  },
+  "mints": [
+    {
+      "id": 5,
+      "name": "Berlin"
+    },
+    {
+      "id": 232,
+      "name": "Münze Österreich"
+    },
+    {
+      "id": 1,
+      "name": "Munich"
+    },
+    {
+      "id": 1366,
+      "name": "Muldenhütten"
+    },
+    {
+      "id": 2,
+      "name": "Staatliche Münze Baden-Württemberg"
+    },
+    {
+      "id": 3,
+      "name": "Staatliche Münze Baden-Württemberg"
+    },
+    {
+      "id": 4,
+      "name": "Hamburgische Münze"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,129 @@
+{
+  "id": 3963,
+  "url": "https://en.numista.com/3963",
+  "title": "100 Bolívares",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "venezuela",
+    "name": "Venezuela"
+  },
+  "min_year": 1998,
+  "max_year": 1999,
+  "ruler": [
+    {
+      "id": 4706,
+      "name": "Fourth Republic",
+      "wikidata_id": "Q21296156"
+    }
+  ],
+  "value": {
+    "text": "100 Bolivars",
+    "numeric_value": 100,
+    "currency": {
+      "id": 7,
+      "name": "Bolivar",
+      "full_name": "Bolivar (1879-2007)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 25,
+  "thickness": 2.1,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel clad steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "A. Barre"
+    ],
+    "description": "Coat of arms. With legend at top. Date and value below.",
+    "lettering": "•REPÚBLICA DE VENEZUELA•\r\n1998 100 BOLÍVARES",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Venezuela",
+    "picture": "https://en.numista.com/catalogue/photos/venezuela/63b5a747509412.98661867-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/venezuela/63b5a747509412.98661867-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "reverse": {
+    "engravers": [
+      "Désiré-Albert Barre"
+    ],
+    "description": "Bust left, flanked with legend and engraver's name at base. Inside heptagon.",
+    "lettering": "BOLÍVAR LIBERTADOR\r\nBARRE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Bolivar Liberator",
+    "picture": "https://en.numista.com/catalogue/photos/venezuela/63b5a747cc7205.52832160-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/venezuela/63b5a747cc7205.52832160-180.jpg",
+    "picture_copyright": "NumisCorner",
+    "picture_copyright_url": "https://www.numiscorner.com/"
+  },
+  "comments": "Y#78.1<br />\r\nObverse:<br />\r\nBig letters,numbers and coat of arms.<a href=\"https://en.numista.com/catalogue/images/5a8035b5e5108.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5a8035b5e5108.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\nReverse:<br />\r\nBig letters, big bust,no mint mark.<a href=\"https://en.numista.com/catalogue/images/5a80360969b48.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5a80360969b48.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nY#78.2<br />\r\nObverse:<br />\r\nSmall letters,numbers and coat of arms.<a href=\"https://en.numista.com/catalogue/images/5a803672f1031.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5a803672f1031.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\nReverse:<br />\r\nSmall letters,small bust,with mint mark.<a href=\"https://en.numista.com/catalogue/images/5a803692d70bc.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5a803692d70bc.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "tags": [
+    "Horse or equine",
+    "Military leader",
+    "Politician",
+    "Coat of Arms",
+    "Cornucopia"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "78"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "88"
+    },
+    {
+      "catalogue": {
+        "id": 2068,
+        "code": "NCV"
+      },
+      "number": "mv100bs-f"
+    }
+  ],
+  "weight": 6.8,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 4182,
+      "name": "Casa de la Moneda de Venezuela"
+    },
+    {
+      "id": 30,
+      "name": "Czech Mint"
+    },
+    {
+      "id": 1248,
+      "name": "Hungarian mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

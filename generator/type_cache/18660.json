@@ -1,0 +1,126 @@
+{
+  "id": 18660,
+  "url": "https://en.numista.com/18660",
+  "title": "5 Paise (without Devanagari legend)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "inde",
+    "name": "India"
+  },
+  "min_year": 1972,
+  "max_year": 1984,
+  "ruler": [
+    {
+      "id": 2943,
+      "name": "Republic",
+      "wikidata_id": "Q668"
+    }
+  ],
+  "value": {
+    "text": "5 Paise",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 171,
+      "name": "Rupee",
+      "full_name": "Rupee (decimalized, 1957-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 22,
+  "thickness": 2.35,
+  "shape": "Square with rounded corners",
+  "composition": {
+    "text": "Aluminium (96.5-96% Aluminium, 3.5-4% Magnesium)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Ashoka Lion Capitol\r\n\r\nNOTE: Different National Emblem Types.\r\nType 1: Side lions toothless with 2 to 3 fur rows, short squat D in INDIA.\r\nType 2: Asoka lion pedestal more imposing. Side lions with 3 or 4 fur rows, more elegant D in INDIA. The shape of the D in INDIA is the easiest way to distinguish this obverse.",
+    "lettering": "भारत INDIA",
+    "lettering_scripts": [
+      {
+        "name": "Devanagari"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/inde/2369-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/inde/2369-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "reverse": {
+    "description": "Denomination, date below\r\n\r\nNOTE: different types of Reverse, KM#18.1 - KM#18.3 = with Devanagari legend above value (similar to KM#17); KM#18.4 - KM#18.6 without legend at the top and with larger denomination numeral.",
+    "lettering": "पैसे  PAISE\r\n5\r\n1974\r\nB",
+    "lettering_scripts": [
+      {
+        "name": "Devanagari"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/inde/3090-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/inde/3090-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "comments": "KM#18.4 (Type 1 Ashoka lion on obverse; 11mm &quot;5&quot;- Denomination Numeral)<br />\r\nKM#18.5 (Type 1 Ashoka lion on obverse; 11mm &quot;5&quot;- Denomination Numeral)<br />\r\nKM#18.6 (Type 2 Ashoka lion on obverse; 11mm &quot;5&quot;- Denomination Numeral)<br /><br />\r\nBombay - Different mint mark types:<br />\r\n♦ (small dot/diamond) = Circulation strikes<br />\r\nB (letter &quot;B&quot;) = Proof Issues",
+  "related_types": [
+    {
+      "id": 3990,
+      "title": "5 Paise (with Devanagari legend)",
+      "category": "coin",
+      "country": {
+        "code": "inde",
+        "name": "India"
+      },
+      "minYear": 1967,
+      "maxYear": 1971
+    }
+  ],
+  "tags": [
+    "Cat or feline",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "18"
+    }
+  ],
+  "weight": 1.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/inde/66441bf4199703.74043397-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/inde/66441bf4199703.74043397-180.jpg",
+    "picture_copyright": "Julio Vega",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 1803,
+      "name": "Kolkata / Calcutta / Murshidabad"
+    },
+    {
+      "id": 1806,
+      "name": "Hyderabad"
+    },
+    {
+      "id": 1804,
+      "name": "Mumbai / Bombay"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

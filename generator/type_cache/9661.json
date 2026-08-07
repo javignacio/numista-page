@@ -1,0 +1,158 @@
+{
+  "id": 9661,
+  "url": "https://en.numista.com/9661",
+  "title": "50 Milliemes",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "libye",
+    "name": "Libya"
+  },
+  "min_year": 1965,
+  "max_year": 1965,
+  "ruler": [
+    {
+      "id": 2237,
+      "name": "Idris I",
+      "wikidata_id": "Q116430"
+    }
+  ],
+  "value": {
+    "text": "50 Milliemes",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 335,
+      "name": "Pound",
+      "full_name": "Pound (1951-1971)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 26,
+  "thickness": 1.9,
+  "shape": "Scalloped (with 12 notches)",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Crowned Libyan coat of arms with Arabic legend above and Arabic date below (in both the Hejira and Christian eras)",
+    "lettering": "المملكة الليبية \r\n١٣٨٥ - ١٩٦٥",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "Kingdom of Libya\r\n1965 - 1385",
+    "picture": "https://en.numista.com/catalogue/photos/libye/218-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/libye/218-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "reverse": {
+    "description": "Denomination within wreath of palm fronds, denomination in English below.",
+    "lettering": "٥٠ \r\nمليما\r\nFIFTY MILLIEMES",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/libye/219-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/libye/219-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "comments": "The original plan of restriking the 1952 coin series was overruled by King Idris. A self-effacing devout Muslim, Idris (1889-1983, King of Libya from 1951 to 1969) refused to allow his portrait to be featured on Libyan currency, so the Senussi crest came to replace his portrait on coins and notes.",
+  "related_types": [
+    {
+      "id": 4819,
+      "title": "1 Millieme",
+      "category": "coin",
+      "country": {
+        "code": "libye",
+        "name": "Libya"
+      },
+      "minYear": 1965,
+      "maxYear": 1965
+    },
+    {
+      "id": 6907,
+      "title": "5 Milliemes",
+      "category": "coin",
+      "country": {
+        "code": "libye",
+        "name": "Libya"
+      },
+      "minYear": 1965,
+      "maxYear": 1965
+    },
+    {
+      "id": 5936,
+      "title": "10 Milliemes",
+      "category": "coin",
+      "country": {
+        "code": "libye",
+        "name": "Libya"
+      },
+      "minYear": 1965,
+      "maxYear": 1965
+    },
+    {
+      "id": 8806,
+      "title": "20 Milliemes",
+      "category": "coin",
+      "country": {
+        "code": "libye",
+        "name": "Libya"
+      },
+      "minYear": 1965,
+      "maxYear": 1965
+    },
+    {
+      "id": 4818,
+      "title": "100 Milliemes",
+      "category": "coin",
+      "country": {
+        "code": "libye",
+        "name": "Libya"
+      },
+      "minYear": 1965,
+      "maxYear": 1965
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "10"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "10"
+    }
+  ],
+  "weight": 7,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

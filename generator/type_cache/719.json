@@ -1,0 +1,112 @@
+{
+  "id": 719,
+  "url": "https://en.numista.com/719",
+  "title": "200 Lire (Arm of Carabinieri)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "italie",
+    "name": "Italy"
+  },
+  "min_year": 1994,
+  "max_year": 1994,
+  "ruler": [
+    {
+      "id": 1164,
+      "name": "Republic",
+      "wikidata_id": "Q38"
+    }
+  ],
+  "value": {
+    "text": "200 Lire",
+    "numeric_value": 200,
+    "currency": {
+      "id": 112,
+      "name": "Lira",
+      "full_name": "Lira (1861-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2002-02-28"
+  },
+  "size": 24,
+  "thickness": 1.65,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronzital"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Mario Vallucci"
+    ],
+    "description": "Woman head with long curly hair facing right. Below the neck cut a big dot and the name of the engraver.",
+    "lettering": "REPVBBLICA ITALIANA ·\r\nM.VALLUCCI",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Italian Republic",
+    "picture": "https://en.numista.com/catalogue/photos/italie/2139-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/italie/2139-180.jpg",
+    "picture_copyright": "Darkcid"
+  },
+  "reverse": {
+    "engravers": [
+      "Sergio Grossi"
+    ],
+    "designers": [
+      "Luciano Zanelli"
+    ],
+    "description": "Symbol of the Arm of the Carabinieri (a grenade with a thirteen-pointed flame) with below the years of the anniversary in roman number and a banner with a script. Below the banner the value between stars and the dates of the anniversary.",
+    "lettering": "ARMA DEI CARABINIERI \r\nR \r\nIR \r\nCLXXX\r\nNEI SECOLI FEDELE\r\n1814 * L.200 * 1994\r\nZANELLI MOD. GROSSI INC.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Arm of the Carabinieri\r\n180\r\nForever Faithful",
+    "picture": "https://en.numista.com/catalogue/photos/italie/2140-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/italie/2140-180.jpg",
+    "picture_copyright": "Darkcid"
+  },
+  "commemorated_topic": "180th Anniversary of the foundation of the Arm of Carabinieri",
+  "comments": "The Carabinieri (formally Arma dei Carabinieri, &quot;Carabinieri Force&quot;) is the fourth Italian military force charged with police duties under the authority of the Ministry of Defense. Carabinieri is the national gendarmerie of Italy, policing both military and civilian populations. &quot;NEI SECOLI FEDELE&quot; is the motto of the Carabinieri.",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "164"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "169"
+    }
+  ],
+  "weight": 5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/italie/615838cea653b7.14718848-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/italie/615838cea653b7.14718848-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 22,
+      "name": "Rome"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

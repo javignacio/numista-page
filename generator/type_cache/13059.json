@@ -1,0 +1,101 @@
+{
+  "id": 13059,
+  "url": "https://en.numista.com/13059",
+  "title": "4 Pence - Anne (incl. Maundy)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1703,
+  "max_year": 1713,
+  "ruler": [
+    {
+      "id": 264,
+      "name": "Anne",
+      "wikidata_id": "Q119702",
+      "group": {
+        "id": 524,
+        "name": "House of Stuart"
+      }
+    }
+  ],
+  "value": {
+    "text": "4 Pence",
+    "numeric_value": 0.016666666666666666,
+    "numerator": 1,
+    "denominator": 60,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1971)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 19,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.925)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "John Croker"
+    ],
+    "description": "Uncrowned draped bust of Queen Anne left, legend around.",
+    "lettering": "ANNA·DEI· GRATIA·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Anne by the Grace of God",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/2793-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/2793-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "description": "Central denomination below crown dividing date, legend around.",
+    "lettering": "MAG·BRI·FR·ET·HIB·REG·17 10·\r\n4",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Magnae Britanniae Franciae et Hiberniae Regina",
+    "lettering_translation": "Queen of Great Britain France and Ireland",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/2794-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/2794-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "The standard weight of this coin was 2/31 troy ounce or 31 grains.<br /><br />\r\n<span style=\"font-style:italic;\">Obverse and reverse die varieties exist:</span><br /><br />\r\n<span style=\"font-weight:bold;\">Sp#3595</span> <span style=\"font-style:italic;\">(1703-04)</span> First draped bust, small face, curls at back of head point downwards, small crown;<br />\r\n<span style=\"font-weight:bold;\">Sp#3595A</span> <span style=\"font-style:italic;\">(1705-10)</span> Second draped bust, larger face, curls at back of head point upwards;<br />\r\n<span style=\"font-weight:bold;\">Sp#3595B</span> <span style=\"font-style:italic;\">(1710-13)</span> Similar bust, large crown with pearls on arch, larger serifs on figure 4;<br />\r\n<span style=\"font-weight:bold;\">Sp#3595C</span> <span style=\"font-style:italic;\">(1710-13)</span> Similar bust but with re-engraved hair;<br /><br />\r\nBefore the Great Recoinage of 1817, there is no known evidence to suggest that separate &#039;prooflike&#039; strikes were issued for the Maundy ceremony, suggesting that the money handed out was identical to the circulating coinage at that time.<br /><br />\r\n<span style=\"font-weight:bold;\">Sp#3599</span> <span style=\"font-style:italic;\">Maundy money sets listed with their KM# ref:</span><br /><br />\r\n1703 MDS34 1708 MDS37 1710 MDS39<br />\r\n1705 MDS35 1709 MDS38 1713 MDS40<br />\r\n1706 MDS36",
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "515"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "3595"
+    }
+  ],
+  "weight": 2,
+  "orientation": "coin",
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

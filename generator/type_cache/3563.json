@@ -1,0 +1,125 @@
+{
+  "id": 3563,
+  "url": "https://en.numista.com/3563",
+  "title": "25 Pesos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "republique_dominicaine",
+    "name": "Dominican Republic (1844-date)"
+  },
+  "issuing_entity": {
+    "id": 908,
+    "name": "Central Bank of the Dominican Republic",
+    "wikidata_id": "Q1800406"
+  },
+  "min_year": 2005,
+  "max_year": 2017,
+  "ruler": [
+    {
+      "id": 4033,
+      "name": "Fourth Republic",
+      "wikidata_id": "Q786"
+    }
+  ],
+  "value": {
+    "text": "25 Pesos",
+    "numeric_value": 25,
+    "currency": {
+      "id": 152,
+      "name": "Peso oro",
+      "full_name": "Peso oro (1937-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 29,
+  "thickness": 1.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The arms of the Dominican Republic, the country name in Spanish to the right, and the denomination to the left and below",
+    "lettering": "REPUBLICA DOMINICANA\r\nDIOS PATRIA LIBERTAD\r\n25\r\nREPUBLICA DOMINICANA\r\nPESOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Dominican Republic\r\nGod Homeland Liberty\r\n25\r\nDominican Republic\r\nPesos",
+    "picture": "https://en.numista.com/catalogue/photos/republique_dominicaine/5e6cd73fe7f060.17122936-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/republique_dominicaine/5e6cd73fe7f060.17122936-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "description": "Portrait of Gregorio Luperón (September 8, 1839 - May 21, 1897) facing left with the date below",
+    "lettering": "BANCO CENTRAL DE LA REPUBLICA DOMINICANA\r\nLUPERON\r\nHEROE DE LA RESTAURACION\r\n2016",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Bank of the Dominican Republic\r\nLuperon\r\nHero of the Restoration\r\n2016",
+    "picture": "https://en.numista.com/catalogue/photos/republique_dominicaine/5e6cd73f55cc27.44426172-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/republique_dominicaine/5e6cd73f55cc27.44426172-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "tags": [
+    "Independence",
+    "Military leader",
+    "Politician",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "107"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "151"
+    }
+  ],
+  "weight": 8.56,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    },
+    {
+      "id": 27,
+      "name": "Mint of Poland"
+    },
+    {
+      "id": 14,
+      "name": "Monnaie de Paris"
+    },
+    {
+      "id": 20,
+      "name": "Royal Canadian Mint of Winnipeg"
+    },
+    {
+      "id": 24,
+      "name": "Royal Mint of Madrid"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

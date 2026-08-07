@@ -1,0 +1,118 @@
+{
+  "id": 15940,
+  "url": "https://en.numista.com/15940",
+  "title": "50 Paise (National Integration)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "inde",
+    "name": "India"
+  },
+  "min_year": 1982,
+  "max_year": 1982,
+  "ruler": [
+    {
+      "id": 2943,
+      "name": "Republic",
+      "wikidata_id": "Q668"
+    }
+  ],
+  "value": {
+    "text": "50 Paise",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 171,
+      "name": "Rupee",
+      "full_name": "Rupee (decimalized, 1957-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24,
+  "thickness": 1.65,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Asoka lion pedestal, denomination below",
+    "lettering": "भारत INDIA\r\nपैसे 50 PAISE",
+    "lettering_scripts": [
+      {
+        "name": "Devanagari"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/inde/2247-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/inde/2247-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "reverse": {
+    "description": "Flag on India map\r\n\r\nNOTE: Different mintmarks\r\n♦ (small dot/diamond) = Mumbai\r\nB (letter \"B\") = Mumbai Proof Issues\r\n (no mintmark) = Calcutta",
+    "lettering": "राष्ट्रीय एकता \r\nNATIONAL INTEGRATION\r\n1982",
+    "lettering_scripts": [
+      {
+        "name": "Devanagari"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/inde/3135-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/inde/3135-180.jpg",
+    "picture_copyright": "Joseph Kunnappally"
+  },
+  "series": "NATIONAL INTEGRATION",
+  "commemorated_topic": "National Integration",
+  "tags": [
+    "Cat or feline",
+    "Map",
+    "Coat of Arms",
+    "Flag"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "64"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "126"
+    }
+  ],
+  "weight": 5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Security"
+  },
+  "mints": [
+    {
+      "id": 1803,
+      "name": "Kolkata / Calcutta / Murshidabad"
+    },
+    {
+      "id": 1804,
+      "name": "Mumbai / Bombay"
+    },
+    {
+      "id": 1804,
+      "name": "Mumbai / Bombay"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

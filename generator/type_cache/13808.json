@@ -1,0 +1,162 @@
+{
+  "id": 13808,
+  "url": "https://en.numista.com/13808",
+  "title": "1 Fils - Isa",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bahrein",
+    "name": "Bahrain"
+  },
+  "min_year": 1965,
+  "max_year": 1966,
+  "ruler": [
+    {
+      "id": 1509,
+      "name": "Isa bin Salman Al Khalifa",
+      "wikidata_id": "Q309650",
+      "group": {
+        "id": 740,
+        "name": "House of Khalifa"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Fils",
+    "numeric_value": 0.001,
+    "currency": {
+      "id": 24,
+      "name": "Dinar",
+      "full_name": "Dinar (1965-date)"
+    }
+  },
+  "size": 15,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze (97.5% Copper, 0.5% Tin, 2% Zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Palm tree within inner circle. State name in Arabic at the top, and both Islamic and Gregorian dates in Arabic at the bottom.",
+    "lettering": "حُكُومَة البَحرَين\r\n١٣٨٥ - ١٩٦٥",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "Government of Bahrain\r\n1965 - 1385",
+    "picture": "https://en.numista.com/catalogue/photos/bahrein/325-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bahrein/325-180.jpg",
+    "picture_copyright": "DNO 14"
+  },
+  "reverse": {
+    "description": "Denomination in Arabic, and state name in English below.",
+    "lettering": "١\r\nفلس \r\nBAHRAIN",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "1 Fils\r\nBahrain",
+    "picture": "https://en.numista.com/catalogue/photos/bahrein/326-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bahrein/326-180.jpg",
+    "picture_copyright": "DNO 14"
+  },
+  "comments": "Proof Set (KM#PS2):<br />\r\n<a href=\"https://en.numista.com/catalogue/images/597247ab6a04e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/597247ab6a04e.jpg\" alt=\"\" width=\"196\" height=\"250\" /></a><br />\r\n© Zameer Abubakar<br /><br />\r\nOf the coins dated 1385 (1965): 1,000,000 were minted in 1965 and 500,000 were minted in 1966.<br /><br />\r\nNote: Krause is very confusing about the mintage and sets of the 1965 proof issues:<br />\r\n- They list the mintage of the proof issues as 12,000 and the same mintage number for KM#PS1.<br />\r\n- They also list the same coins in another set KM#PS2 with mintage of 20,000; so the mintage doesn&#039;t match.<br />\r\n- Also, it&#039;s mentioned that KM#PS1 includes KM#1-6 &amp; 8 and is dated 1965 although KM#8 is dated 1968.<br />\r\n- KM#PS2 has been mentioned in Krause up to its 2016 edition, but not mentioned in the latest 2017 edition (unknown if it&#039;s done purposely or by mistake)<br />\r\n- KM#PS2 is found commonly online, however, no single picture can be found of KM#PS1.<br />\r\n- Only the 2nd set is listed below (with the mintage associated with it on Krause) until further information can be found about the total mintage and the existence of the 1st set.<br />\r\nTo confuse matters more, some of the 8-coin proof sets,have the 1 fils dated 1386-1966, rather than 1385-1965.",
+  "related_types": [
+    {
+      "id": 5371,
+      "title": "5 Fils",
+      "category": "coin",
+      "country": {
+        "code": "bahrein",
+        "name": "Bahrain"
+      },
+      "minYear": 1965,
+      "maxYear": 1976
+    },
+    {
+      "id": 3162,
+      "title": "10 Fils - Isa",
+      "category": "coin",
+      "country": {
+        "code": "bahrein",
+        "name": "Bahrain"
+      },
+      "minYear": 1965,
+      "maxYear": 1976
+    },
+    {
+      "id": 979,
+      "title": "25 Fils - Isa",
+      "category": "coin",
+      "country": {
+        "code": "bahrein",
+        "name": "Bahrain"
+      },
+      "minYear": 1965,
+      "maxYear": 1976
+    },
+    {
+      "id": 3319,
+      "title": "50 Fils",
+      "category": "coin",
+      "country": {
+        "code": "bahrein",
+        "name": "Bahrain"
+      },
+      "minYear": 1965,
+      "maxYear": 1976
+    },
+    {
+      "id": 911,
+      "title": "100 Fils - Isa",
+      "category": "coin",
+      "country": {
+        "code": "bahrein",
+        "name": "Bahrain"
+      },
+      "minYear": 1965,
+      "maxYear": 1965
+    }
+  ],
+  "tags": [
+    "Tree"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "1"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "1"
+    }
+  ],
+  "weight": 1.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

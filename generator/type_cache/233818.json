@@ -1,0 +1,137 @@
+{
+  "id": 233818,
+  "url": "https://en.numista.com/233818",
+  "title": "1 Zloty (Magnetic)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "pologne",
+    "name": "Poland"
+  },
+  "min_year": 2019,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 3739,
+      "name": "Third Republic",
+      "wikidata_id": "Q1259201"
+    }
+  ],
+  "value": {
+    "text": "1 Zloty",
+    "numeric_value": 1,
+    "currency": {
+      "id": 200,
+      "name": "Fourth Zloty",
+      "full_name": "Fourth Zloty (1995-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2020-01-02"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Sebastian Mikołajczak"
+    ],
+    "description": "Polish coat of arms: Crowned eagle",
+    "lettering": "mw\r\nRZECZPOSPOLITA POLSKA\r\n2022",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/pologne/6479934c69f9f3.47366358-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pologne/6479934c69f9f3.47366358-180.jpg",
+    "picture_copyright": "Polette",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "Ewa Tyc-Karpińska"
+    ],
+    "description": "Plant crown",
+    "lettering": "1 \r\nZŁOTY",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/pologne/6479934d19fc46.09705527-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pologne/6479934d19fc46.09705527-180.jpg",
+    "picture_copyright": "Polette",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p>2019 including 1,000,000 pcs. from the pilot batch, marked with the year of production 2019, which are put into circulation from September 1, 2021<br>***** issue for this year according to NBP is <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"tel:61 700 000\">61 700 000</a> pcs but 1 000 000 of this mintage were pilot- non magnetic they are placed here <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"/102873\">N#102873</a></p>",
+  "related_types": [
+    {
+      "id": 520,
+      "title": "1 Zloty",
+      "category": "coin",
+      "country": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "minYear": 1990,
+      "maxYear": 2016
+    },
+    {
+      "id": 102873,
+      "title": "1 Zloty (non magnetic)",
+      "category": "coin",
+      "country": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "minYear": 2017,
+      "maxYear": 2019
+    }
+  ],
+  "tags": [
+    "Eagle",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "974c"
+    }
+  ],
+  "weight": 5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Alternating segments of reeded and smooth parts",
+    "picture": "https://en.numista.com/catalogue/photos/pologne/6479934d9040e1.96544498-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pologne/6479934d9040e1.96544498-180.jpg",
+    "picture_copyright": "Polette",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 27,
+      "name": "Mint of Poland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

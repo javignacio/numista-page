@@ -1,0 +1,133 @@
+{
+  "id": 1109,
+  "url": "https://en.numista.com/1109",
+  "title": "5 Cents \"Buffalo Nickel\" (flat ground)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "etats-unis",
+    "name": "United States"
+  },
+  "min_year": 1913,
+  "max_year": 1938,
+  "ruler": [
+    {
+      "id": 4720,
+      "name": "Federal republic",
+      "wikidata_id": "Q30"
+    }
+  ],
+  "value": {
+    "text": "5 Cents",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 59,
+      "name": "Dollar",
+      "full_name": "Dollar (1785-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21.2,
+  "thickness": 1.95,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "James Earle Fraser"
+    ],
+    "description": "The composite profile of Iron Tail, an Oglala Sioux chief, Two Moons, a Cheyenne chief, and Big Tree, a Kiowa chief",
+    "lettering": "LIBERTY \r\n1936\r\nF",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/1586-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/1586-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "engravers": [
+      "James Earle Fraser"
+    ],
+    "description": "A standing American bison facing left with the country name above and the denomination below",
+    "lettering": "UNITED·STATES·OF·AMERICA\r\nE \r\nPLURIBUS \r\nUNUM\r\nFIVE CENTS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Out of Many, One",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/1587-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/1587-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "There is some uncertainty about the 1914/3 overdate variety, as some claim it might have been caused by a damaged die.<br /><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5d7790dddc534.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d7790dddc534.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br /><br />\r\nAccording to the legend, the bison used as a model for this coin was &quot;Black Diamond&quot; (1893-1915), a famous bison at the Central Park zoo in New York City.<br />\r\nIf there is a mintmark, it is below E C of FIVE CENTS.<br /><br />\r\n1914<br />\r\n<a href=\"https://en.numista.com/catalogue/images/637fa73be77c5.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/637fa73be77c5.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\n1916<br />\r\n<a href=\"https://en.numista.com/catalogue/images/637fa774035a5.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/637fa774035a5.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\n1918<br />\r\n<a href=\"https://en.numista.com/catalogue/images/637fa78fee480.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/637fa78fee480.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\n1934<br />\r\n<a href=\"https://en.numista.com/catalogue/images/637fa7acc6b59.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/637fa7acc6b59.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\n1935<br />\r\n<a href=\"https://en.numista.com/catalogue/images/637fa7c557b5b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/637fa7c557b5b.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\n1936<br />\r\n<a href=\"https://en.numista.com/catalogue/images/637fa7d2e5130.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/637fa7d2e5130.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\n1937<br />\r\n<a href=\"https://en.numista.com/catalogue/images/637fa7dfb929c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/637fa7dfb929c.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a><br />\r\n1938<br />\r\n<a href=\"https://en.numista.com/catalogue/images/637fa7ebe6cb3.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/637fa7ebe6cb3.jpg\" alt=\"\" width=\"200\" height=\"150\" /></a>",
+  "related_types": [
+    {
+      "id": 4728,
+      "title": "5 Cents \"Buffalo Nickel\" (raised ground)",
+      "category": "coin",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 1913,
+      "maxYear": 1913
+    }
+  ],
+  "tags": [
+    "Cow or bovine"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "134"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "132"
+    }
+  ],
+  "weight": 5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/69bda2d0a45ac6.53688587-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/69bda2d0a45ac6.53688587-180.jpg",
+    "picture_copyright": "Cyrillius"
+  },
+  "mints": [
+    {
+      "id": 11,
+      "name": "United States Mint of Philadelphia"
+    },
+    {
+      "id": 10,
+      "name": "United States Mint of Denver"
+    },
+    {
+      "id": 12,
+      "name": "United States Mint of San Francisco"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

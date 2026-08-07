@@ -1,0 +1,151 @@
+{
+  "id": 4250,
+  "url": "https://en.numista.com/4250",
+  "title": "2 Centesimi - Victor Emmanuel II",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "italie",
+    "name": "Italy"
+  },
+  "min_year": 1861,
+  "max_year": 1867,
+  "ruler": [
+    {
+      "id": 1160,
+      "name": "Vittorio Emanuele II",
+      "wikidata_id": "Q168691",
+      "nomisma_id": "victor_emmanuel_ii",
+      "group": {
+        "id": 741,
+        "name": "House of Savoy"
+      }
+    }
+  ],
+  "value": {
+    "text": "2 Centesimi",
+    "numeric_value": 0.02,
+    "currency": {
+      "id": 112,
+      "name": "Lira",
+      "full_name": "Lira (1861-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 20,
+  "thickness": 0.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze (Cu 96%, Sn 4%)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Giuseppe Ferraris"
+    ],
+    "description": "Head of King Vittorio Emanuele II left.\r\nBelow the neck the initial F of the engraver.",
+    "lettering": "VITTORIO EMANUELE II RE D'ITALIA\r\nF.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/italie/1930-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/italie/1930-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "engravers": [
+      "Giuseppe Ferraris"
+    ],
+    "description": "Value and date within two branches, one of laurel and the other of oak. Above the Italy star and below the sign of the mint\r\n\r\nMint marks:\r\nM for Milan (km# 2.1)\r\nN for Naples (km# 2.2)\r\nT for Turin (km# 2.3)",
+    "lettering": "2 CENTESIMI\r\n1861\r\nM",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/italie/1931-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/italie/1931-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "related_types": [
+    {
+      "id": 5955,
+      "title": "2 Centesimi - Umberto I",
+      "category": "coin",
+      "country": {
+        "code": "italie",
+        "name": "Italy"
+      },
+      "minYear": 1895,
+      "maxYear": 1900
+    },
+    {
+      "id": 10874,
+      "title": "2 Centesimi - Victor Emmanuel III",
+      "category": "coin",
+      "country": {
+        "code": "italie",
+        "name": "Italy"
+      },
+      "minYear": 1903,
+      "maxYear": 1908
+    }
+  ],
+  "tags": [
+    "Monarch",
+    "Mustache / Beard",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "2"
+    },
+    {
+      "catalogue": {
+        "id": 51,
+        "code": "MIR"
+      },
+      "number": "1094"
+    }
+  ],
+  "weight": 2,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/italie/69e391de9acb70.75097510-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/italie/69e391de9acb70.75097510-180.jpg",
+    "picture_copyright": "Julio Vega",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 1558,
+      "name": "Milan"
+    },
+    {
+      "id": 1568,
+      "name": "Naples"
+    },
+    {
+      "id": 90,
+      "name": "Turin"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

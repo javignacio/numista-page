@@ -1,0 +1,132 @@
+{
+  "id": 789,
+  "url": "https://en.numista.com/789",
+  "title": "1 Peseta - Juan Carlos I",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "espagne",
+    "name": "Spain"
+  },
+  "min_year": 1982,
+  "max_year": 1989,
+  "ruler": [
+    {
+      "id": 151,
+      "name": "Juan Carlos I",
+      "wikidata_id": "Q19943",
+      "group": {
+        "id": 44,
+        "name": "House of Bourbon"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Peseta",
+    "numeric_value": 1,
+    "currency": {
+      "id": 142,
+      "name": "Peseta",
+      "full_name": "Peseta (1868-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1997-01-01"
+  },
+  "size": 21,
+  "thickness": 1.3,
+  "shape": "Round",
+  "composition": {
+    "text": "Aluminium (96% aluminium, 3.5% magnesium, 0.5% manganese)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Manuel Marín Jimeno"
+    ],
+    "description": "Head of King Juan Carlos I facing left.",
+    "lettering": "JUAN CARLOS I REY DE ESPAÑA\r\n✠ 1988 ✠",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Juan Carlos I King of Spain",
+    "picture": "https://en.numista.com/catalogue/photos/espagne/157-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/157-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Manuel Martínez Tornero"
+    ],
+    "description": "Crowned coat of arms of Spain with Pillars of Hercules.",
+    "lettering": "1 PESETA\r\nPLVS VLTRA\r\nM",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "1 Peseta\r\nFurther Beyond",
+    "picture": "https://en.numista.com/catalogue/photos/espagne/158-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/158-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "related_types": [
+    {
+      "id": 51876,
+      "title": "1 Peseta - Juan Carlos I (E-87)",
+      "category": "coin",
+      "country": {
+        "code": "espagne",
+        "name": "Spain"
+      },
+      "minYear": 1987,
+      "maxYear": 1987
+    }
+  ],
+  "tags": [
+    "Mythology",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "821"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "51.1"
+    }
+  ],
+  "weight": 1.2,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/espagne/615d6ebadf95d7.48930299-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/espagne/615d6ebadf95d7.48930299-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 24,
+      "name": "Royal Mint of Madrid"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,152 @@
+{
+  "id": 922,
+  "url": "https://en.numista.com/922",
+  "title": "10 Yen - Shōwa (Smooth edge)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "japon",
+    "name": "Japan"
+  },
+  "min_year": 1959,
+  "max_year": 1989,
+  "ruler": [
+    {
+      "id": 335,
+      "name": "Shōwa",
+      "wikidata_id": "Q327567"
+    }
+  ],
+  "value": {
+    "text": "10 Yen",
+    "numeric_value": 10,
+    "currency": {
+      "id": 197,
+      "name": "Yen",
+      "full_name": "Yen (1871-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23.5,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze (95% Copper, 4-3% Zinc, 1-2% Tin)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Phoenix Hall (Hōōdō Temple, Byōdō-in) in center with country name on top and value below.",
+    "lettering": "日 本 国\r\n十 円",
+    "lettering_scripts": [
+      {
+        "name": "Chinese"
+      }
+    ],
+    "lettering_translation": "State of Japan\r\n10 yen",
+    "picture": "https://en.numista.com/catalogue/photos/japon/21-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/japon/21-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Value and date within wreath.",
+    "lettering": "10\r\n昭和四十九年",
+    "lettering_scripts": [
+      {
+        "name": "Chinese"
+      }
+    ],
+    "lettering_translation": "Year 49 of Shōwa",
+    "picture": "https://en.numista.com/catalogue/photos/japon/22-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/japon/22-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "In <span style=\"font-weight:bold;\">Shōwa 61</span> (1986) a new die design was introduced with various changes to the details of the Phoenix Hall.<br />\r\nThree main differences as referred to in the JNDA catalog:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5c8a8dd99fccf.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5c8a8dd99fccf.jpg\" alt=\"\" width=\"200\" height=\"151\" /></a><br />\r\n<span style=\"font-style:italic;\">10 yen S63</span><br /><br />\r\nMacro images of locations <span style=\"font-weight:bold;\">A</span> -<span style=\"font-weight:bold;\">C</span><br />\r\n<a href=\"https://en.numista.com/catalogue/images/5c8a8faf8216f.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5c8a8faf8216f.jpg\" alt=\"\" width=\"200\" height=\"154\" /></a><br />\r\n<span style=\"font-style:italic;\">Examples from S56 and S63</span> | ©Idolenz",
+  "related_types": [
+    {
+      "id": 7515,
+      "title": "10 Yen - Shōwa (Reeded edge)",
+      "category": "coin",
+      "country": {
+        "code": "japon",
+        "name": "Japan"
+      },
+      "minYear": 1951,
+      "maxYear": 1958
+    },
+    {
+      "id": 3047,
+      "title": "10 Yen - Heisei",
+      "category": "coin",
+      "country": {
+        "code": "japon",
+        "name": "Japan"
+      },
+      "minYear": 1989,
+      "maxYear": 2019
+    },
+    {
+      "id": 182976,
+      "title": "10 Yen - Reiwa",
+      "category": "coin",
+      "country": {
+        "code": "japon",
+        "name": "Japan"
+      },
+      "minYear": 2019,
+      "maxYear": 2026
+    }
+  ],
+  "tags": [
+    "Religious building",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "73a"
+    },
+    {
+      "catalogue": {
+        "id": 3041,
+        "code": "JNDA"
+      },
+      "number": "02-9"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "A53"
+    }
+  ],
+  "weight": 4.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/japon/6958ed3105a705.75561687-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/japon/6958ed3105a705.75561687-180.jpg",
+    "picture_copyright": "Saber82"
+  },
+  "mints": [
+    {
+      "id": 41,
+      "name": "Japan Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

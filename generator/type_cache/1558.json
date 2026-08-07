@@ -1,0 +1,166 @@
+{
+  "id": 1558,
+  "url": "https://en.numista.com/1558",
+  "title": "2 Cents - Elizabeth II (2nd Portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "australie",
+    "name": "Australia"
+  },
+  "min_year": 1966,
+  "max_year": 1984,
+  "ruler": [
+    {
+      "id": 1783,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 825,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "2 Cents",
+    "numeric_value": 0.02,
+    "currency": {
+      "id": 243,
+      "name": "Dollar",
+      "full_name": "Dollar (1966-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21.59,
+  "thickness": 1.86,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze (97% Copper, 2.5% Zinc, 0.5% Tin)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "designers": [
+      "Arnold Machin"
+    ],
+    "description": "2nd portrait of Queen Elizabeth II facing right wearing the Girls of Great Britain and Ireland Tiara",
+    "lettering": "ELIZABETH II \r\nAUSTRALIA 1975",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/australie/65f5b80c7eef99.11829504-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/australie/65f5b80c7eef99.11829504-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "Stuart Devlin"
+    ],
+    "description": "Frill-necked Lizard (Chlamydosaurus kingii), also known as the Frilled Dragon, endemic to Australia and south New Guinea.",
+    "lettering": "2\r\nSD",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/australie/65f5b80dd57a70.11485864-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/australie/65f5b80dd57a70.11485864-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p>Introduced in 1966 at the commencement of Decimal Currency in Australia the Two cent coin was struck in Bronze. This version of the coin with the Arnold Machin 2nd portrait of the Queen ran until 1984 when it was replaced in 1985 with the Raphael D. Makleouf 3rd Portrait.<br><br>Here is the coin in one of the rare Green Uncirculated 2 coin Cards that included a 1 cent and 2 cent coin.<br><a href=\"https://en.numista.com/catalogue/images/5d5e8e2ad260d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5d5e8e2ad260d.jpg\" alt=\"\"></a><br><br>NOTE: the 1966 issue comes from three different mints, the coins are distinguishable by tiny differences at the claws of the lizard:<br>Perth mint: the first finger at the left hand (from viewer's point of view) has a blunted claw<br>Melbourne mint: the second finger at the right hand has a blunted claw<br>Canberra mint: both fingers have claws<br>&nbsp;<br>Mintmarks for the Three Mints (Canberra, Perth &amp; Melbourne) only appear on the 1966 coins (<a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"http://www.australian-threepence.com/blog/2010/03/australian-1966-2c-mint-marks.html\">http://www.australian-threepence.com/blog/2010/03/australian-1966-2c-mint-marks.html</a>)</p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/6594248275cb1.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6594248275cb1.jpg\"></a><br><a href=\"https://en.numista.com/catalogue/images/560bf565cd696.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/560bf565cd696.jpg\" alt=\"\"></a><br><a href=\"https://en.numista.com/catalogue/images/5ab7aa36c2646.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5ab7aa36c2646.jpg\" alt=\"\"></a></p><p><br><a href=\"https://en.numista.com/catalogue/images/61f908d549e04.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/61f908d549e04.jpg\" alt=\"\"></a></p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/663f2056a51f7.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/663f2056a51f7.jpg\"></a><br>Ole<br><br>However more than one Mint was involved in issuing coins in later years except for the 1967 and 1968 which were only produced by the Perth Mint.</p><p>&nbsp;</p><p>1973 Canberra and Perth Coins can be identified by the Sharp Claws on the Canberra coin and the Blunt Claws on the Perth coin.</p><p>&nbsp;</p><p style=\"margin-left:0px;\">The 1981 Coins minted in Wales can be identified by the text on the obverse side of the coin being closer to the rim than the ones minted in Canberra or Perth.</p><p style=\"margin-left:0px;\">&nbsp;</p><p style=\"margin-left:0px;\">1981 Canberra and Perth Coins are not able to be distinguished from each other.</p><p style=\"margin-left:0px;\"><br>Normal circulating 1 and 2 cent coins were removed from circulation in February 1992 and the coins were melted down to make bronze medals for the 2000 Summer Olympics in Sydney, Australia.<br><br>The Fine Silver Proof Set of 2006 included a re-issued version of this coin, with the IRB obverse.</p>",
+  "related_types": [
+    {
+      "id": 5211,
+      "title": "2 Cents - Elizabeth II (3rd Portrait)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 1985,
+      "maxYear": 1991
+    },
+    {
+      "id": 167591,
+      "title": "2 Cents - Elizabeth II (2nd Portrait; Fine Silver Proof)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 2006,
+      "maxYear": 2006
+    },
+    {
+      "id": 22105,
+      "title": "2 Cents - Elizabeth II (4th Portrait)",
+      "category": "coin",
+      "country": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "minYear": 2006,
+      "maxYear": 2016
+    }
+  ],
+  "tags": [
+    "Reptile"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "63"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "50"
+    }
+  ],
+  "weight": 5.18,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/australie/6989be7b2e94d8.59376439-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/australie/6989be7b2e94d8.59376439-180.jpg",
+    "picture_copyright": "brismike",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 21,
+      "name": "Perth Mint"
+    },
+    {
+      "id": 28,
+      "name": "Royal Australian Mint"
+    },
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    },
+    {
+      "id": 1802,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

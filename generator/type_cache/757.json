@@ -1,0 +1,139 @@
+{
+  "id": 757,
+  "url": "https://en.numista.com/757",
+  "title": "5 Francs - Baudouin I (French text)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "belgique",
+    "name": "Belgium"
+  },
+  "min_year": 1986,
+  "max_year": 1993,
+  "ruler": [
+    {
+      "id": 1169,
+      "name": "Baudouin I",
+      "wikidata_id": "Q12976",
+      "group": {
+        "id": 530,
+        "name": "House of Belgium"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Francs",
+    "numeric_value": 5,
+    "currency": {
+      "id": 72,
+      "name": "Franc",
+      "full_name": "Franc (1832-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2002-02-28"
+  },
+  "size": 24,
+  "thickness": 1.72,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-aluminium-nickel (Copper 92%, Aluminium 6%, Nickel 2%)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Jean-Paul Laenen"
+    ],
+    "description": "Stylized portrait of Baudouin I, designer below.",
+    "lettering": "J-P.L",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/belgique/2134-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/belgique/2134-180.jpg",
+    "picture_copyright": "moi4992",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Jean-Paul Laenen"
+    ],
+    "description": "Denomination in centre, legend in French below. Year at bottom flanked by privy and mint mark.",
+    "lettering": "5F\r\nBELGIQUE\r\n1991",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Francs",
+    "lettering_translation": "Belgium",
+    "picture": "https://en.numista.com/catalogue/photos/belgique/2135-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/belgique/2135-180.jpg",
+    "picture_copyright": "moi4992",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "How the &quot;first letter &quot;E&quot; in &quot;BELGIQUE&quot; without central horizontal line&quot; for 1986 looks:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5881e22b90c42.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5881e22b90c42.jpg\" alt=\"\" width=\"200\" height=\"64\" /></a><br /><br />\r\nMint mark: Head of Archangel Michael, Koninklijke Munt van België - Monnaie Royal de Belgique, Brussels, Belgium<br /><br />\r\n<span style=\"font-weight:bold;\">Three main groups of Obverse are known</span><br />\r\n<span style=\"font-style:italic;\">Obverse</span><br />\r\nDie <span style=\"font-weight:bold;\">I</span> - earlobe with curved outline.<br />\r\nDie <span style=\"font-weight:bold;\">II</span> - earlobe with angled outline in fine line.<br />\r\nDie <span style=\"font-weight:bold;\">III</span> - smaller earlobe with angled outline in thick line.<br />\r\nTogether with these features there are many more, some of which are marked by arrows in the following images.<br /><br />\r\n<span style=\"font-style:italic;\">Combinations</span><br />\r\n1986: <span style=\"font-weight:bold;\">I</span>, <span style=\"font-weight:bold;\">II</span>, <span style=\"font-weight:bold;\">III</span>.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/5f78c82a9a3e2.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5f78c82a9a3e2.jpg\" alt=\"\" width=\"200\" height=\"198\" /></a><br /><br />\r\n1987: <span style=\"font-weight:bold;\">II</span>, <span style=\"font-weight:bold;\">III</span>.<br />\r\n<a href=\"https://en.numista.com/catalogue/images/6002065555350.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6002065555350.jpg\" alt=\"\" width=\"179\" height=\"249\" /></a>",
+  "related_types": [
+    {
+      "id": 1250,
+      "title": "5 Francs - Baudouin I (Dutch text)",
+      "category": "coin",
+      "country": {
+        "code": "belgique",
+        "name": "Belgium"
+      },
+      "minYear": 1986,
+      "maxYear": 1993
+    }
+  ],
+  "tags": [
+    "Monarch"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "163"
+    },
+    {
+      "catalogue": {
+        "id": 192,
+        "code": "LA"
+      },
+      "number": "BFM-139"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "136"
+    }
+  ],
+  "weight": 5.5,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/belgique/699498d3de4c76.65061727-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/belgique/699498d3de4c76.65061727-180.jpg"
+  },
+  "mints": [
+    {
+      "id": 1338,
+      "name": "Royal Mint of Belgium"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

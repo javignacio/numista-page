@@ -1,0 +1,97 @@
+{
+  "id": 2114,
+  "url": "https://en.numista.com/2114",
+  "title": "5 Shillings",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "ouganda",
+    "name": "Uganda"
+  },
+  "issuing_entity": {
+    "id": 266,
+    "name": "Bank of Uganda"
+  },
+  "min_year": 1987,
+  "max_year": 1987,
+  "ruler": [
+    {
+      "id": 936,
+      "name": "Republic",
+      "wikidata_id": "Q1036"
+    }
+  ],
+  "value": {
+    "text": "5 Shillings",
+    "numeric_value": 5,
+    "currency": {
+      "id": 180,
+      "name": "New shilling",
+      "full_name": "New shilling (1987-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 22,
+  "thickness": 1.2,
+  "shape": "Equilateral curve heptagon (7-sided)",
+  "composition": {
+    "text": "Nickel plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms of Uganda.",
+    "lettering": "· BANK OF UGANDA ·\r\nFIVE SHILLINGS\r\nFOR GOD AND MY COUNTRY",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/ouganda/407-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ouganda/407-180.jpg",
+    "picture_copyright": "HOOK"
+  },
+  "reverse": {
+    "description": "Coffee (Coffea spp.) plants around value in circle. Bowl with coffee beans at bottom.",
+    "lettering": "BANK OF UGANDA\r\n5\r\n1987",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/ouganda/408-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ouganda/408-180.jpg",
+    "picture_copyright": "HOOK"
+  },
+  "series": "1987 series",
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "29"
+    }
+  ],
+  "weight": 3.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

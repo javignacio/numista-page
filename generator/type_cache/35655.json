@@ -1,0 +1,66 @@
+{
+  "id": 35655,
+  "url": "https://en.numista.com/35655",
+  "title": "Mint Token - Bicencennial of Independence of Cartagena",
+  "object_type": {
+    "id": 150,
+    "name": "Tokens"
+  },
+  "issuer": {
+    "code": "colombie",
+    "name": "Colombia"
+  },
+  "min_year": 2011,
+  "max_year": 2011,
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23.2,
+  "thickness": 1.5,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "lettering": "BICENTENARIO INDEPENDENCIA DE CARTAGENA\r\n200 años\r\n1811·COLECCIÓN NUMISMÁTICA·2011",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/colombie/60623ff8070f27.60846252-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/60623ff8070f27.60846252-180.jpg",
+    "picture_copyright": "Wilson Roberto Vasques Nunes"
+  },
+  "reverse": {
+    "lettering": "CASA DE MONEDA\r\nBANCO DE LA REPUBLICA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/colombie/60623ff91f6df5.72940642-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/60623ff91f6df5.72940642-180.jpg",
+    "picture_copyright": "Wilson Roberto Vasques Nunes"
+  },
+  "tags": [
+    "Bird",
+    "Tree"
+  ],
+  "weight": 4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 279,
+      "name": "Casa de Moneda de Colombia"
+    }
+  ],
+  "category": "exonumia",
+  "type": "Tokens"
+}

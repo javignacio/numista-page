@@ -1,0 +1,122 @@
+{
+  "id": 1714,
+  "url": "https://en.numista.com/1714",
+  "title": "1 Dirham - Hassan II (3rd portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "maroc",
+    "name": "Morocco"
+  },
+  "min_year": 1987,
+  "max_year": 1987,
+  "ruler": [
+    {
+      "id": 3830,
+      "name": "Hassan II",
+      "wikidata_id": "Q69103",
+      "group": {
+        "id": 223,
+        "name": "Alaouite Kings"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Dirham",
+    "numeric_value": 1,
+    "currency": {
+      "id": 36,
+      "name": "Dirham",
+      "full_name": "Dirham (1960-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 23.82,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "David Wynne"
+    ],
+    "description": "King Hassan II",
+    "lettering": "المملكة المغربية\r\nالحسن الثاني",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "The Moroccan Kingdom\r\nHassan II",
+    "picture": "https://en.numista.com/catalogue/photos/maroc/39-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/maroc/39-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "David Wynne"
+    ],
+    "description": "Coat of Arms",
+    "lettering": "1987 1407\r\nدرهم 1 واحد",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "One Dirham",
+    "picture": "https://en.numista.com/catalogue/photos/maroc/40-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/maroc/40-180.jpg",
+    "picture_copyright": "Numista",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "<p>There is a difference in the legend characters which can be large or small<a href=\"https://en.numista.com/catalogue/images/67e689c0f1e93.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67e689c0f1e93.jpg\"></a></p>",
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "88"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "93"
+    }
+  ],
+  "weight": 6,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/maroc/67885e10a206f2.13571027-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/maroc/67885e10a206f2.13571027-180.jpg",
+    "picture_copyright": "DMK Collection"
+  },
+  "mints": [
+    {
+      "id": 4878,
+      "name": "Dar As-Sikkah"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

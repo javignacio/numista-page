@@ -1,0 +1,111 @@
+{
+  "id": 13064,
+  "url": "https://en.numista.com/13064",
+  "title": "6 Pence - Anne (Normal bust)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1707,
+  "max_year": 1711,
+  "ruler": [
+    {
+      "id": 264,
+      "name": "Anne",
+      "wikidata_id": "Q119702",
+      "group": {
+        "id": 524,
+        "name": "House of Stuart"
+      }
+    }
+  ],
+  "value": {
+    "text": "6 Pence",
+    "numeric_value": 0.025,
+    "numerator": 1,
+    "denominator": 40,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1971)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 21,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.925)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "John Croker"
+    ],
+    "description": "Normal draped bust of Queen Anne left, legend around.\r\n\r\nNOTE: with or without E / E* below bust",
+    "lettering": "ANNA·DEI· GRATIA·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Anne by the Grace of God",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/2785-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/2785-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "description": "Crowned cruciform shields around central Garter star, divided date above, legend around.\r\n\r\nNote: halved English/Scottish shields, plain angles",
+    "lettering": "MAG· BRI·FR· ET·HIB· REG·17 07·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Queen of Great Britain France and Ireland",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/2786-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/2786-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "The standard weight of these coins was 3/31 troy ounce (46.5 grains). New halved shields were added to the reverse following the Acts of Union with Scotland, 1707. The E and E* mintmarks indicate that the coin was minted in Edinburgh, Scotland.",
+  "tags": [
+    "Cat or feline",
+    "Coat of Arms",
+    "Sun"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "522"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "3619-21"
+    }
+  ],
+  "weight": 3,
+  "orientation": "coin",
+  "mints": [
+    {
+      "id": 1834,
+      "name": "Edinburgh"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

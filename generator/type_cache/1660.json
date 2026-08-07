@@ -1,0 +1,108 @@
+{
+  "id": 1660,
+  "url": "https://en.numista.com/1660",
+  "title": "1 Vatu",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "vanuatu_period",
+    "name": "Vanuatu (1980-date)"
+  },
+  "min_year": 1983,
+  "max_year": 2002,
+  "ruler": [
+    {
+      "id": 1426,
+      "name": "Republic",
+      "wikidata_id": "Q686"
+    }
+  ],
+  "value": {
+    "text": "1 Vatu",
+    "numeric_value": 1,
+    "currency": {
+      "id": 194,
+      "name": "Vatu",
+      "full_name": "Vatu (1982-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2016-02-28"
+  },
+  "size": 16.95,
+  "thickness": 1.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The arms of Vanuatu featuring a Melanesian warrior standing in front of a curved boar's tooth above a scroll reading \"LONG GOD YUMI STANAP\" and the date above.",
+    "lettering": "RIPABLIK 1983 BLONG\r\nLONG GOD YUMI STANAP\r\nVANUATU",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Vanuatu\nIn God we stand",
+    "picture": "https://en.numista.com/catalogue/photos/vanuatu_period/653ac1b0c5b0c2.77489062-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/vanuatu_period/653ac1b0c5b0c2.77489062-180.jpg",
+    "picture_copyright": "Ben-jamin",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "reverse": {
+    "description": "Charonia tritonis, or Triton, very large shell that predates upon sea stars, particularly the invading Acanthaster, locally responsible for the destruction of corals.\nHere holed as it was used as trumpet.",
+    "lettering": "1 \r\nVATU",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/vanuatu_period/653ac1b0d0c906.67241573-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/vanuatu_period/653ac1b0d0c906.67241573-180.jpg",
+    "picture_copyright": "Ben-jamin",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "comments": "Main feature of the Coat of Arms: A Melanesian (native warrior) armed with a spear, standing before a mountain; behind him a boar&#039;s tusk and two leaves of the namele (coconut palm).<br /><br />\nPhotos of BU set<br />\n<a href=\"https://en.numista.com/catalogue/images/5e2fedb091d93.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e2fedb091d93.jpg\" alt=\"\" width=\"200\" height=\"194\" /></a><br />\n<a href=\"https://en.numista.com/catalogue/images/5e2fedbb48854.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e2fedbb48854.jpg\" alt=\"\" width=\"200\" height=\"188\" /></a>",
+  "tags": [
+    "Marine invertebrate",
+    "Shell",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "3"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "16"
+    }
+  ],
+  "weight": 1.99,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

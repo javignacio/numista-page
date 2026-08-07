@@ -1,0 +1,46 @@
+{
+  "id": 90058,
+  "url": "https://en.numista.com/90058",
+  "title": "Token - Incredible",
+  "object_type": {
+    "id": 150,
+    "name": "Tokens"
+  },
+  "issuer": {
+    "code": "chine",
+    "name": "China, People's Republic of"
+  },
+  "size": 22,
+  "shape": "Round with a round hole",
+  "composition": {
+    "text": "Steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "lettering": "不可思議",
+    "lettering_translation": "Incredible",
+    "picture": "https://en.numista.com/catalogue/photos/chine/606233041a6890.96580905-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chine/606233041a6890.96580905-180.jpg",
+    "picture_copyright": "bbybugs",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "lettering": "不可思議",
+    "lettering_translation": "Incredible",
+    "picture": "https://en.numista.com/catalogue/photos/chine/606233053bb786.51073129-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chine/606233053bb786.51073129-180.jpg",
+    "picture_copyright": "bbybugs",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "weight": 4.64,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "category": "exonumia",
+  "type": "Tokens"
+}

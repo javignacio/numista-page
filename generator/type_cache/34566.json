@@ -1,0 +1,103 @@
+{
+  "id": 34566,
+  "url": "https://en.numista.com/34566",
+  "title": "5 Pennia (Civil War Coinage)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "finlande",
+    "name": "Finland"
+  },
+  "min_year": 1918,
+  "max_year": 1918,
+  "ruler": [
+    {
+      "id": 5057,
+      "name": "Provisional Government",
+      "wikidata_id": "Q27916528"
+    }
+  ],
+  "value": {
+    "text": "5 Pennia",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 1156,
+      "name": "Markka",
+      "full_name": "Markka (1860-1963)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 17.9,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Flag and 3 trumpets within wreath, legend surrounding, date at bottom.",
+    "lettering": "KANSAN TYÖ, KANSAN VALTA\r\n· SUOMI 1918 FINLAND ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "People's work, people's power\r\nFinland 1918 Finland",
+    "picture": "https://en.numista.com/catalogue/photos/finlande/1763-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/1763-180.jpg",
+    "picture_copyright": "Grinya",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Large value flanked by flower heads.",
+    "lettering": "5\r\nPENNIÄ",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/finlande/1764-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/1764-180.jpg",
+    "picture_copyright": "Grinya",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p>Differences between the genuine and counterfeit 1918 coin:</p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/67604e09d2e50.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67604e09d2e50.jpg\"></a></p>",
+  "tags": [
+    "Music",
+    "Flag",
+    "Flower",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "21"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "15"
+    }
+  ],
+  "weight": 2.5,
+  "mints": [
+    {
+      "id": 1333,
+      "name": "Mint of Finland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

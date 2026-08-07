@@ -1,0 +1,128 @@
+{
+  "id": 133880,
+  "url": "https://en.numista.com/133880",
+  "title": "2 Taka",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bangladesh",
+    "name": "Bangladesh"
+  },
+  "min_year": 2013,
+  "max_year": 2013,
+  "ruler": [
+    {
+      "id": 4415,
+      "name": "People's Republic",
+      "wikidata_id": "Q902"
+    }
+  ],
+  "value": {
+    "text": "2 Taka",
+    "numeric_value": 2,
+    "currency": {
+      "id": 189,
+      "name": "Taka",
+      "full_name": "Taka (1972-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24,
+  "thickness": 1.8,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Face value with the National Emblem of Bangladesh: a water lily bordered on two sides by rice sheaves. Above are a three-leaf clover of tea leaves and four stars representing the four principles of the first constitution of Bangladesh in 1972: nationalism, secularism, socialism, and democracy.",
+    "lettering": "TWO TAKA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bangladesh/62c974f5daf705.57565351-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bangladesh/62c974f5daf705.57565351-180.jpg",
+    "picture_copyright": "mikimaus",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "At the top is the name of the issuing authority in Bengali. In center is a portrait of Father of the Nation Sheikh Mujibur Rahman. In both sides numerical value of the coin is written in Bangla & English. In bottom part value in words, year of issue and name of country is written.",
+    "lettering": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\r\n২ 2\r\nদুই টাকা 2013 BANGLADESH",
+    "lettering_scripts": [
+      {
+        "name": "Bengali"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Government of People's Republic of Bangladesh\r\n2 2\r\nTwo Taka 2013 Bangladesh",
+    "picture": "https://en.numista.com/catalogue/photos/bangladesh/62c974f6363640.27650706-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bangladesh/62c974f6363640.27650706-180.jpg",
+    "picture_copyright": "mikimaus",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p>KM#31.1; Outlined stars, water lilly and bust<br>KM#31.2; Plain stars, water lilly and bust<br><br><a href=\"https://en.numista.com/catalogue/images/5a742b357b75e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5a742b357b75e.jpg\" alt=\"\"></a></p><p>&nbsp;</p><p>These were the first foreign circulation coins minted by Japan since World War II.</p>",
+  "related_types": [
+    {
+      "id": 22455,
+      "title": "2 Taka",
+      "category": "coin",
+      "country": {
+        "code": "bangladesh",
+        "name": "Bangladesh"
+      },
+      "minYear": 2010,
+      "maxYear": 2010
+    }
+  ],
+  "tags": [
+    "Politician",
+    "Flower",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "31.2"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "32"
+    }
+  ],
+  "weight": 5.5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/bangladesh/692152038bcdb2.86213790-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bangladesh/692152038bcdb2.86213790-180.jpg",
+    "picture_copyright": "Vidushi",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 41,
+      "name": "Japan Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

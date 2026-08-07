@@ -1,0 +1,119 @@
+{
+  "id": 15738,
+  "url": "https://en.numista.com/15738",
+  "title": "25 Cents",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "sri_lanka_period",
+    "name": "Sri Lanka (1972-date)"
+  },
+  "min_year": 1975,
+  "max_year": 1994,
+  "ruler": [
+    {
+      "id": 10576,
+      "name": "Republic"
+    },
+    {
+      "id": 589,
+      "name": "Democratic Socialist Republic",
+      "wikidata_id": "Q854"
+    }
+  ],
+  "value": {
+    "text": "25 Cents",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 176,
+      "name": "Rupee",
+      "full_name": "Rupee (1972-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 18,
+  "thickness": 1.7,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Emblem",
+    "picture": "https://en.numista.com/catalogue/photos/sri_lanka_period/6537668211d822.05376920-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/sri_lanka_period/6537668211d822.05376920-180.jpg",
+    "picture_copyright": "Ma collection de monnaies",
+    "picture_copyright_url": "https://monnaiesetvarietes.numista.com/"
+  },
+  "reverse": {
+    "description": "Denomination",
+    "lettering": "ශ්‍රී ලංකා\r\n25\r\nසත චිසිපහ\r\nஇருபத்தைந்து சதம்\r\nTWENTY FIVE CENTS\r\n1975",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      },
+      {
+        "name": "Sinhala"
+      },
+      {
+        "name": "Tamil"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/sri_lanka_period/6537668215c3c3.09660969-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/sri_lanka_period/6537668215c3c3.09660969-180.jpg",
+    "picture_copyright": "Ma collection de monnaies",
+    "picture_copyright_url": "https://monnaiesetvarietes.numista.com/"
+  },
+  "related_types": [
+    {
+      "id": 1600,
+      "title": "25 Cents",
+      "category": "coin",
+      "country": {
+        "code": "sri_lanka_period",
+        "name": "Sri Lanka (1972-date)"
+      },
+      "minYear": 1996,
+      "maxYear": 2004
+    },
+    {
+      "id": 5666,
+      "title": "25 Cents",
+      "category": "coin",
+      "country": {
+        "code": "sri_lanka_period",
+        "name": "Sri Lanka (1972-date)"
+      },
+      "minYear": 2005,
+      "maxYear": 2009
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "141"
+    }
+  ],
+  "weight": 3.24,
+  "orientation": "medal",
+  "edge": {
+    "description": "Security or reeded edge"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

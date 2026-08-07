@@ -1,0 +1,116 @@
+{
+  "id": 203332,
+  "url": "https://en.numista.com/203332",
+  "title": "500 Escudos (Banco de Moçambique overprint)",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "mozambique",
+    "name": "Mozambique"
+  },
+  "issuing_entity": {
+    "id": 927,
+    "name": "Bank of Mozambique",
+    "wikidata_id": "Q3363703"
+  },
+  "min_year": 1967,
+  "max_year": 1976,
+  "ruler": [
+    {
+      "id": 4697,
+      "name": "People's Republic",
+      "wikidata_id": "Q617078"
+    }
+  ],
+  "value": {
+    "text": "500 Escudos",
+    "numeric_value": 500,
+    "currency": {
+      "id": 255,
+      "name": "Escudo",
+      "full_name": "Escudo (1911-1974)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 170,
+  "size2": 90,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "technique": {
+    "text": "Overprinted"
+  },
+  "obverse": {
+    "description": "Coat of arms; Caldas Xavier",
+    "lettering": "BANCO NACIONAL ULTRAMARINO\r\nMOÇAMBIQUE\r\nPROVÍNCIA PORTUGUESA \r\nDECRETO LEI Nº 39.221\r\n\r\nBANCO DE MOÇAMBIQUE\r\nQUINHENTOS\r\nESCUDOS\r\n\r\nLISBOA, 22 DE MARÇO DE 1967.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/mozambique/5ea4932902dff8.95502296-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mozambique/5ea4932902dff8.95502296-180.jpg",
+    "picture_copyright": "James Castillo",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "BNU seal with ship; coat of arms",
+    "lettering": "PAGÁVEL NA PROVÍNCIA DE MOÇAMBIQUE\r\n500                                                                       500\r\n500 BANCO NACIONAL ULTRAMARINO 500",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/mozambique/5ea49329bde029.40837815-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mozambique/5ea49329bde029.40837815-180.jpg",
+    "picture_copyright": "James Castillo",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "series": "\"Banco de Moçambique\" Overprint",
+  "comments": "Overprint on MOZAMBIQUE P-110.<br /><br />\r\nUV activity:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/64e2212c1d215.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64e2212c1d215.png\" alt=\"\" width=\"200\" height=\"107\" /></a><br />\r\n© gyoschak<br /><br />\r\n<span style=\"font-weight:bold;\">Alfredo Augusto Caldas Xavier</span> was a Portuguese military, engineer, explorer and colonial administrator who distinguished himself in the so-called &quot;Pacification and Occupation Campaigns of Mozambique&quot;, in the last decades of the 19th century.",
+  "related_types": [
+    {
+      "id": 277858,
+      "title": "500 Escudos",
+      "category": "banknote",
+      "country": {
+        "code": "mozambique",
+        "name": "Mozambique"
+      },
+      "minYear": 1953,
+      "maxYear": 1967
+    }
+  ],
+  "tags": [
+    "Boat or watercraft"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "118"
+    }
+  ],
+  "watermark": {
+    "picture": "https://en.numista.com/catalogue/photos/mozambique/602bd6fb0bb950.89021183-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mozambique/602bd6fb0bb950.89021183-180.jpg",
+    "picture_copyright": "italianumismatics"
+  },
+  "printers": [
+    {
+      "id": 9,
+      "name": "Bradbury Wilkinson and Company"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

@@ -1,0 +1,100 @@
+{
+  "id": 10386,
+  "url": "https://en.numista.com/10386",
+  "title": "5 Pennia (Civil War Coinage)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "finlande",
+    "name": "Finland"
+  },
+  "min_year": 1917,
+  "max_year": 1917,
+  "ruler": [
+    {
+      "id": 3296,
+      "name": "Nicholas II",
+      "wikidata_id": "Q40787",
+      "group": {
+        "id": 276,
+        "name": "Grand Duchy of Finland, House of Romanov"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Pennia",
+    "numeric_value": 0.05,
+    "currency": {
+      "id": 1156,
+      "name": "Markka",
+      "full_name": "Markka (1860-1963)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 25,
+  "thickness": 1.82,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Within circle: imperial double eagle with shield on breast holding royal orb and scepter.",
+    "picture": "https://en.numista.com/catalogue/photos/finlande/467-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/467-180.jpg",
+    "picture_copyright": "Pisike"
+  },
+  "reverse": {
+    "description": "Denomination and date.",
+    "lettering": "5\r\nPENNIÄ\r\n1917",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/finlande/468-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/finlande/468-180.jpg",
+    "picture_copyright": "Pisike"
+  },
+  "tags": [
+    "Bird",
+    "Coat of Arms",
+    "Double-headed eagle",
+    "Globus cruciger"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "17"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "11"
+    }
+  ],
+  "weight": 6.4,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 1333,
+      "name": "Mint of Finland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

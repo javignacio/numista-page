@@ -1,0 +1,233 @@
+{
+  "id": 9317,
+  "url": "https://en.numista.com/9317",
+  "title": "1 Millieme - Farouk",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "egypte",
+    "name": "Egypt"
+  },
+  "min_year": 1938,
+  "max_year": 1950,
+  "ruler": [
+    {
+      "id": 2901,
+      "name": "Farouk I",
+      "wikidata_id": "Q213001",
+      "nomisma_id": "faruq",
+      "group": {
+        "id": 164,
+        "name": "Kingdom of Egypt"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Millieme",
+    "numeric_value": 0.001,
+    "currency": {
+      "id": 117,
+      "name": "Pound",
+      "full_name": "Pound (1916-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 22.8,
+  "thickness": 1.3,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Percy Metcalfe"
+    ],
+    "description": "Portrait of King Farouk facing left, wearing fez.",
+    "lettering": "فاروق الأوّل\r\nملك مصر\r\nPM",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "Farouk I\r\nKing of Egypt\r\nPM",
+    "picture": "https://en.numista.com/catalogue/photos/egypte/1434-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/egypte/1434-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "reverse": {
+    "description": "Denomination and dates.",
+    "lettering": "المملكة المصرية\r\n١\r\nمليم\r\n١٣٥٧ - ١٩٣٨",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "Egyptian Kingdom\r\n1 \r\nMillieme \r\n1938 - 1357",
+    "picture": "https://en.numista.com/catalogue/photos/egypte/1435-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/egypte/1435-180.jpg",
+    "picture_copyright": "Heritage Auctions",
+    "picture_copyright_url": "http://www.ha.com"
+  },
+  "comments": "<p><strong><u>Notes</u></strong></p><ul><li>According to <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.numista.com/literature/volume.php?id=9827\"><i><u>“A Numismatic History of the Birmingham Mint”</u></i></a><i> , </i>for 1 millieme AH 1357/1938 coin: “Minted in 1938 (820,000), 1939 (9,180,000), 1942 (12,400,000) and 1943 (3,840,000)” However apparently the date was freezed.</li><li>Although 3 Mints produced this coin, No mint mark was provided for any. &nbsp;</li></ul><p>&nbsp;</p><p><strong><u>Varieties:</u></strong></p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>1938 (١٩٣٨-١٣٥٧) has 2 varieties:<br><a href=\"https://en.numista.com/catalogue/images/64e67fe7ee3db.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64e67fe7ee3db.jpg\" alt=\"\"></a><br>Variant 1: With small tails.<br>Variant 2: With large tails.</p>",
+  "related_types": [
+    {
+      "id": 10269,
+      "title": "½ Millieme - Farouk",
+      "category": "coin",
+      "country": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "minYear": 1938,
+      "maxYear": 1938
+    },
+    {
+      "id": 21532,
+      "title": "1 Millieme - Farouk (With Hole)",
+      "category": "coin",
+      "country": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "minYear": 1938,
+      "maxYear": 1938
+    },
+    {
+      "id": 10270,
+      "title": "2 Milliemes - Farouk",
+      "category": "coin",
+      "country": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "minYear": 1938,
+      "maxYear": 1938
+    },
+    {
+      "id": 5961,
+      "title": "5 Milliemes - Farouk",
+      "category": "coin",
+      "country": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "minYear": 1938,
+      "maxYear": 1941
+    },
+    {
+      "id": 4825,
+      "title": "10 Milliemes - Farouk",
+      "category": "coin",
+      "country": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "minYear": 1938,
+      "maxYear": 1941
+    },
+    {
+      "id": 8864,
+      "title": "2 Qirsh - Farouk",
+      "category": "coin",
+      "country": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "minYear": 1937,
+      "maxYear": 1942
+    },
+    {
+      "id": 8678,
+      "title": "5 Qirsh - Farouk",
+      "category": "coin",
+      "country": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "minYear": 1937,
+      "maxYear": 1939
+    },
+    {
+      "id": 10614,
+      "title": "10 Qirsh - Farouk",
+      "category": "coin",
+      "country": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "minYear": 1937,
+      "maxYear": 1939
+    },
+    {
+      "id": 34276,
+      "title": "20 Qirsh - Farouk",
+      "category": "coin",
+      "country": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "minYear": 1937,
+      "maxYear": 1939
+    }
+  ],
+  "tags": [
+    "Monarch"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "358"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "65"
+    },
+    {
+      "catalogue": {
+        "id": 2245,
+        "code": "MHC"
+      },
+      "number": "250"
+    }
+  ],
+  "weight": 4.3,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/egypte/65f617c2516c66.31077424-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/egypte/65f617c2516c66.31077424-180.jpg",
+    "picture_copyright": "Dr_Teek",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 18,
+      "name": "Heaton and Sons / The Mint Birmingham"
+    },
+    {
+      "id": 1804,
+      "name": "Mumbai / Bombay"
+    },
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

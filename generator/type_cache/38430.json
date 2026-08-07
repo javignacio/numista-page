@@ -1,0 +1,198 @@
+{
+  "id": 38430,
+  "url": "https://en.numista.com/38430",
+  "title": "1 Fare - New York City Transit Authority (magnetic)",
+  "object_type": {
+    "id": 14,
+    "name": "Public transportation tokens"
+  },
+  "issuer": {
+    "code": "etats-unis",
+    "name": "United States"
+  },
+  "min_year": 1995,
+  "max_year": 2003,
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2003-04-13"
+  },
+  "size": 20,
+  "thickness": 1.2,
+  "shape": "Round with cutouts",
+  "composition": {
+    "text": "Brass plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Inscription GOOD FOR in half circle above the hole. Inscription ONE FARE in half circle below the hole.",
+    "lettering": "NEW YORK CITY TRANSIT AUTHORITY",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/676f28bbf22399.07423134-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/676f28bbf22399.07423134-180.jpg",
+    "picture_copyright": "G.C"
+  },
+  "reverse": {
+    "description": "NEW YORK CITY TRANSIT AUTHORITY signage in the round around the hole.",
+    "lettering": "GOOD FOR\r\nONE FARE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/etats-unis/676f28bc6a7ef5.47772540-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/etats-unis/676f28bc6a7ef5.47772540-180.jpg",
+    "picture_copyright": "G.C"
+  },
+  "related_types": [
+    {
+      "id": 89648,
+      "title": "1 Fare - New York City Transit Authority (New York, New York)",
+      "category": "exonumia",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 1953,
+      "maxYear": 1953
+    },
+    {
+      "id": 89649,
+      "title": "1 Fare - New York City Transit Authority",
+      "category": "exonumia",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 1953,
+      "maxYear": 1973
+    },
+    {
+      "id": 97170,
+      "title": "1 Fare - New York City Transit Authority (28 mm)",
+      "category": "exonumia",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 1966,
+      "maxYear": 1966
+    },
+    {
+      "id": 75406,
+      "title": "1 Fare - New York City Transit Authority (23 mm)",
+      "category": "exonumia",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 1970,
+      "maxYear": 1980
+    },
+    {
+      "id": 89619,
+      "title": "1 Fare - New York City Transit Authority (22 mm)",
+      "category": "exonumia",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 1975,
+      "maxYear": 1986
+    },
+    {
+      "id": 89618,
+      "title": "Metro Token - New York City (Diamond Jubilee)",
+      "category": "exonumia",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 1979,
+      "maxYear": 1980
+    },
+    {
+      "id": 89620,
+      "title": "Special Fare - New York City Transit Authority",
+      "category": "exonumia",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 1980,
+      "maxYear": 1980
+    },
+    {
+      "id": 89621,
+      "title": "1 Fare - New York City Transit Authority (SJD)",
+      "category": "exonumia",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 1986,
+      "maxYear": 1989
+    },
+    {
+      "id": 89623,
+      "title": "1 Fare - New York City Transit Authority",
+      "category": "exonumia",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 1989,
+      "maxYear": 1995
+    },
+    {
+      "id": 89622,
+      "title": "Metro Token - New York City Transit Authority (Archer Avenue Extension)",
+      "category": "exonumia",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 1990,
+      "maxYear": 1992
+    },
+    {
+      "id": 89624,
+      "title": "1 Fare - New York City Transit Authority (Manhattan, New York)",
+      "category": "exonumia",
+      "country": {
+        "code": "etats-unis",
+        "name": "United States"
+      },
+      "minYear": 1995,
+      "maxYear": 2003
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 26,
+        "code": "AC"
+      },
+      "number": "NY 630 BJ"
+    },
+    {
+      "catalogue": {
+        "id": 204,
+        "code": "TC"
+      },
+      "number": "109008"
+    }
+  ],
+  "weight": 3.2,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "category": "exonumia",
+  "type": "Public transportation tokens"
+}

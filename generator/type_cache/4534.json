@@ -1,0 +1,123 @@
+{
+  "id": 4534,
+  "url": "https://en.numista.com/4534",
+  "title": "1 Céntimo",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "venezuela",
+    "name": "Venezuela"
+  },
+  "min_year": 2007,
+  "max_year": 2009,
+  "ruler": [
+    {
+      "id": 4707,
+      "name": "Bolivarian Republic",
+      "wikidata_id": "Q717"
+    }
+  ],
+  "value": {
+    "text": "1 Centimo",
+    "numeric_value": 0.01,
+    "currency": {
+      "id": 274,
+      "name": "Bolivar Fuerte",
+      "full_name": "Bolivar Fuerte (2008-2018)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2018-12-03"
+  },
+  "size": 15,
+  "thickness": 1.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper plated steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coat of arms with legend and date on outer circle.",
+    "lettering": "• REPÚBLICA BOLIVARIANA DE VENEZUELA •\r\n2007",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Bolivarian Republic of Venezuela",
+    "picture": "https://en.numista.com/catalogue/photos/venezuela/634b0b7adc5f20.84174512-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/venezuela/634b0b7adc5f20.84174512-180.jpg",
+    "picture_copyright": "gyoschak",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Value at right with diagonal waves crossing the coin. Eight stars and mint mark at right.",
+    "lettering": "★★★★★★★★\r\n1\r\nCÉNTIMO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "1 Centime",
+    "picture": "https://en.numista.com/catalogue/photos/venezuela/634b0b7b4744e5.61459711-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/venezuela/634b0b7b4744e5.61459711-180.jpg",
+    "picture_copyright": "gyoschak",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "tags": [
+    "Horse or equine",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 9,
+        "code": "Y"
+      },
+      "number": "87"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "100"
+    },
+    {
+      "catalogue": {
+        "id": 2068,
+        "code": "NCV"
+      },
+      "number": "mv1ctsf-aa"
+    }
+  ],
+  "weight": 1.36,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/venezuela/5fcb90d8c7e909.51717234-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5fcb90d8c7e909.51717234-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 4182,
+      "name": "Casa de la Moneda de Venezuela"
+    },
+    {
+      "id": 27,
+      "name": "Mint of Poland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,121 @@
+{
+  "id": 18096,
+  "url": "https://en.numista.com/18096",
+  "title": "20 Centavos (small type)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "mexique",
+    "name": "Mexico"
+  },
+  "min_year": 2009,
+  "max_year": 2019,
+  "ruler": [
+    {
+      "id": 4029,
+      "name": "United Mexican States/Mexican Republic",
+      "wikidata_id": "Q96"
+    }
+  ],
+  "value": {
+    "text": "20 Centavos",
+    "numeric_value": 0.2,
+    "currency": {
+      "id": 271,
+      "name": "New Peso",
+      "full_name": "New Peso (1992-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 15.3,
+  "thickness": 1.85,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "The national emblem of Mexico depicting a Mexican golden eagle perched on a prickly pear cactus devouring a snake above a half-wreath of oak and laurel below and the legend “ESTADOS UNIDOS MEXICANOS” forming the upper semicircle.",
+    "lettering": "ESTADOS UNIDOS MEXICANOS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "United Mexican States",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/630009dd69ff03.89087421-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/630009dd69ff03.89087421-180.jpg",
+    "picture_copyright": "Numismatica Quetzalcoatl (Gabriel Herrera)",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "At center, the denomination 20¢ with the date above and the mint mark Ṁ below. From upper left to lower right, a partial boarder of the stylized designs from Reed (Acatl), the 13th day on the Aztec calendar stone (Piedra del Sol).",
+    "lettering": "2019\r\n20¢\r\nMo",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/mexique/630009ddae02a4.19780010-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/630009ddae02a4.19780010-180.jpg",
+    "picture_copyright": "Numismatica Quetzalcoatl (Gabriel Herrera)",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "20 Centavos coins are minted over the punched out cores of the rings used to make the 2 Peso coins (KM#604), which was the main reason for the change in size and material (to use the cores instead of remelting them).",
+  "related_types": [
+    {
+      "id": 582,
+      "title": "20 Centavos (large type)",
+      "category": "coin",
+      "country": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "minYear": 1992,
+      "maxYear": 2009
+    }
+  ],
+  "tags": [
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "935"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "474"
+    }
+  ],
+  "weight": 2.258,
+  "orientation": "coin",
+  "edge": {
+    "description": "Alternating plain and reeded.",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/920-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/920-180.jpg",
+    "picture_copyright": "Banco de Mexico"
+  },
+  "mints": [
+    {
+      "id": 29,
+      "name": "Mexican Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

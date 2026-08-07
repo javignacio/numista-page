@@ -1,0 +1,102 @@
+{
+  "id": 16637,
+  "url": "https://en.numista.com/16637",
+  "title": "5 Cruzeiros (FAO)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "bresil",
+    "name": "Brazil"
+  },
+  "min_year": 1985,
+  "max_year": 1985,
+  "ruler": [
+    {
+      "id": 2684,
+      "name": "Federative Republic of Brazil",
+      "wikidata_id": "Q155"
+    }
+  ],
+  "value": {
+    "text": "5 Cruzeiros",
+    "numeric_value": 5,
+    "currency": {
+      "id": 206,
+      "name": "Cruzeiro novo",
+      "full_name": "Cruzeiro novo (1967-1986)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 22,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Coffee Plant",
+    "lettering": "BRASIL\r\nALIMENTOS PARA O MUNDO\r\nCafé",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Food for the World\r\nCoffee",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/695ba8fb5d2431.63225914-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/695ba8fb5d2431.63225914-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "reverse": {
+    "description": "Denomination above date, linear design.",
+    "lettering": "5 \r\nCRUZEIROS\r\n1985",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bresil/695ba8fcc8e0e4.08060945-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/695ba8fcc8e0e4.08060945-180.jpg",
+    "picture_copyright": "mvm"
+  },
+  "commemorated_topic": "F.A.O.",
+  "tags": [
+    "FAO"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "599"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "108"
+    },
+    {
+      "catalogue": {
+        "id": 1678,
+        "code": "Bentes"
+      },
+      "number": "728"
+    }
+  ],
+  "weight": 4.7,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain"
+  },
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

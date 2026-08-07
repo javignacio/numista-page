@@ -1,0 +1,131 @@
+{
+  "id": 3773,
+  "url": "https://en.numista.com/3773",
+  "title": "3 Pence - Elizabeth II (1st portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "rhodesie_et_nyassaland",
+    "name": "Rhodesia and Nyasaland"
+  },
+  "min_year": 1955,
+  "max_year": 1964,
+  "ruler": [
+    {
+      "id": 926,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 792,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "3 Pence",
+    "numeric_value": 0.0125,
+    "numerator": 1,
+    "denominator": 80,
+    "currency": {
+      "id": 400,
+      "name": "Pound",
+      "full_name": "Pound (1955-1964)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1965-06-01"
+  },
+  "size": 16.3,
+  "thickness": 0.92,
+  "shape": "Round",
+  "composition": {
+    "text": "Copper-nickel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Mary Gillick"
+    ],
+    "description": "Young laureate bust of Queen Elizabeth II right, legend around",
+    "lettering": "+ QUEEN·ELIZABETH·THE·SECOND\r\nM·G·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/rhodesie_et_nyassaland/6a40ef8993a578.15522156-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/rhodesie_et_nyassaland/6a40ef8993a578.15522156-180.jpg",
+    "picture_copyright": "Zanzibar.Orc.Coins",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Paul Vincze"
+    ],
+    "description": "Flame Lily dividing date, legend above, denomination below",
+    "lettering": "RHODESIA AND NYASALAND\r\n19 64\r\nP.V.\r\n· THREE PENCE ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/rhodesie_et_nyassaland/6a40ef8ab947d9.71416424-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/rhodesie_et_nyassaland/6a40ef8ab947d9.71416424-180.jpg",
+    "picture_copyright": "Zanzibar.Orc.Coins",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "related_types": [
+    {
+      "id": 7152,
+      "title": "3 Pence - Elizabeth II (2nd portrait)",
+      "category": "coin",
+      "country": {
+        "code": "rhodesie",
+        "name": "Rhodesia (1964-1979)"
+      },
+      "minYear": 1968,
+      "maxYear": 1968
+    }
+  ],
+  "tags": [
+    "Monarch",
+    "Flower",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "3"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "34"
+    }
+  ],
+  "weight": 1.41,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

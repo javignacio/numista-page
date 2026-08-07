@@ -1,0 +1,145 @@
+{
+  "id": 858,
+  "url": "https://en.numista.com/858",
+  "title": "1 Penny - Elizabeth II (1st portrait; without 'BRITT:OMN')",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1954,
+  "max_year": 1970,
+  "ruler": [
+    {
+      "id": 275,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 527,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Penny",
+    "numeric_value": 0.004166666666666667,
+    "numerator": 1,
+    "denominator": 240,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1970)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1971-08-31"
+  },
+  "size": 30.8,
+  "thickness": 1.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Bronze"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Mary Gillick"
+    ],
+    "description": "Young laureate portrait of Queen Elizabeth II facing right, legend around.",
+    "lettering": "+ ELIZABETH·II·DEI·GRATIA·REGINA·F:D:\r\nM · G ·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Elizabeth II Dei Gratia Regina Fidei Defensatrix",
+    "lettering_translation": "Elizabeth II by the Grace of God Queen Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/68d9dd301ab7a0.78453367-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/68d9dd301ab7a0.78453367-180.jpg",
+    "picture_copyright": "Menu82025",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Charles Walter Coombes"
+    ],
+    "description": "Seated figure of Britannia right, with trident in left hand and shield bearing the Union flag in right, sea behind with lighthouse to left, denomination above and date in exergue.",
+    "lettering": "ONE PENNY\r\n1967",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/68d9dd30df0dc8.97083980-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/68d9dd30df0dc8.97083980-180.jpg",
+    "picture_copyright": "Menu82025",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "comments": "<p>1954 was the first year for coinage where the \"BRITT: OMN\" part of the legend was omitted but no pennies were issued for circulation, though dies had been prepared and a few trial strikes produced to test them. As no pennies were required for circulation the dies and the trial strikes were subsequently defaced and destroyed. A single coin seems to be the sole survivor from those few test strikes and was in fact retrieved from circulation sometime in the mid-1950s and sold to Spink &amp; Son who later sold it to C. W. Peck.</p><p><img src=\"https://auctions.sovr.co.uk/catalogue_images/auction/xlarge/sra392-39_0.jpg\" alt=\"Image 1 of 1\"></p><p>© Sovereign Rarities, 2024</p><p><br>The standard weight of these pieces was 48 to the pound or one third ounce avoirdupois (145.8 grains).</p><p>&nbsp;</p><p>In 1970 there were 7,353,600 coins dated 1967 minted in South Wales at Llantrisant. (<a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://library.royalmintmuseum.org.uk/archive/royal-mint-annual-reports/royal-mint-annual-report-1968-volume-no99/1799482\">Royal Mint Annual Report 1968 Volume No.99 Image 36 - The Royal Mint Museum</a>)<br><br>The 1970-dated proof strikes were issued as part of the 'Last Sterling' mint set which comprised<br>half-crown to halfpenny and were produced over the course of several years:<br>01/04/71-31/03/72 = 69,763<br>01/04/72-31/03/73 = 586,554<br>01/04/73-31/03/74 = 74,293<br>01/04/74-31/03/75 = 19,814</p>",
+  "related_types": [
+    {
+      "id": 6347,
+      "title": "1 Penny - Elizabeth II (1st portrait; with 'BRITT:OMN')",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1953,
+      "maxYear": 1953
+    }
+  ],
+  "tags": [
+    "Armour",
+    "Lighthouse",
+    "Sea",
+    "Allegory",
+    "Cold weapons"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "897"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "4157"
+    }
+  ],
+  "weight": 9.45,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/68aebf88625398.36021793-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/68aebf88625398.36021793-180.jpg",
+    "picture_copyright": "billsmr",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    },
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

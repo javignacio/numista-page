@@ -1,0 +1,170 @@
+{
+  "id": 865,
+  "url": "https://en.numista.com/865",
+  "title": "20 Pence - Elizabeth II (2nd portrait)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1982,
+  "max_year": 1984,
+  "ruler": [
+    {
+      "id": 275,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 527,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "20 Pence",
+    "numeric_value": 0.2,
+    "currency": {
+      "id": 126,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (decimalized, 1971-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 21.4,
+  "thickness": 1.7,
+  "shape": "Equilateral curve heptagon (7-sided)",
+  "composition": {
+    "text": "Copper-nickel (84% Cu, 16% Ni)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Arnold Machin"
+    ],
+    "description": "Second crowned portrait of Queen Elizabeth II right, wearing the Girls of Great Britain and Ireland tiara, legend around.",
+    "lettering": "ELIZABETH II\r\nD·G·REG·F·D·",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "unabridged_legend": "Elizabeth II Dei Gratia Regina Fidei Defensatrix",
+    "lettering_translation": "Elizabeth II by the Grace of God Queen Defender of the Faith",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/10769-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/10769-180.jpg",
+    "picture_copyright": "Tony K"
+  },
+  "reverse": {
+    "engravers": [
+      "William Maving Gardner"
+    ],
+    "description": "Crowned Tudor rose dividing date and legend, denomination below.",
+    "lettering": "TWENTY PENCE\r\n1982\r\nW G\r\n20",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/10770-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/10770-180.jpg",
+    "picture_copyright": "Tony K"
+  },
+  "comments": "(former Spink ref. 4230)",
+  "related_types": [
+    {
+      "id": 56364,
+      "title": "20 Pence - Elizabeth II (2nd portrait; Silver Piedfort)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1982,
+      "maxYear": 1982
+    },
+    {
+      "id": 1376,
+      "title": "20 Pence - Elizabeth II (3rd portrait)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1985,
+      "maxYear": 1997
+    },
+    {
+      "id": 573,
+      "title": "20 Pence - Elizabeth II (4th portrait; Tudor Rose)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 1998,
+      "maxYear": 2008
+    },
+    {
+      "id": 5628,
+      "title": "20 Pence - Elizabeth II (4th portrait; Royal Shield)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2008,
+      "maxYear": 2015
+    },
+    {
+      "id": 70551,
+      "title": "20 Pence - Elizabeth II (5th portrait; Royal Shield)",
+      "category": "coin",
+      "country": {
+        "code": "royaume-uni",
+        "name": "United Kingdom"
+      },
+      "minYear": 2015,
+      "maxYear": 2022
+    }
+  ],
+  "tags": [
+    "Crown",
+    "Flower"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "931"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "G1"
+    }
+  ],
+  "weight": 5,
+  "orientation": "medal",
+  "edge": {
+    "description": "Plain"
+  },
+  "mints": [
+    {
+      "id": 16,
+      "name": "Royal Mint"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

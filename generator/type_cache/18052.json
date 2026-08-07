@@ -1,0 +1,170 @@
+{
+  "id": 18052,
+  "url": "https://en.numista.com/18052",
+  "title": "50 Centavos",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "bolivie",
+    "name": "Bolivia"
+  },
+  "min_year": 2010,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 4380,
+      "name": "Plurinational State",
+      "wikidata_id": "Q750"
+    }
+  ],
+  "value": {
+    "text": "50 Centavos",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 8,
+      "name": "Second boliviano",
+      "full_name": "Second boliviano (1986-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 24,
+  "thickness": 1.2,
+  "shape": "Round",
+  "composition": {
+    "text": "Stainless steel"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "National arms, circular legend with new country name, star on bottom.",
+    "lettering": "ESTADO PLURINACIONAL DE BOLIVIA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Plurinational State of Bolivia",
+    "picture": "https://en.numista.com/catalogue/photos/bolivie/1040-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bolivie/1040-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "reverse": {
+    "description": "Face value within inner circle, motto between beaded outer circle and inner circle, date below.",
+    "lettering": "LA UNION ES LA FUERZA\r\n50 \r\nCENTAVOS \r\n2012",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Unity is strength",
+    "picture": "https://en.numista.com/catalogue/photos/bolivie/1041-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bolivie/1041-180.jpg",
+    "picture_copyright": "Essor Prof"
+  },
+  "related_types": [
+    {
+      "id": 18050,
+      "title": "10 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "bolivie",
+        "name": "Bolivia"
+      },
+      "minYear": 2010,
+      "maxYear": 2012
+    },
+    {
+      "id": 18051,
+      "title": "20 Centavos",
+      "category": "coin",
+      "country": {
+        "code": "bolivie",
+        "name": "Bolivia"
+      },
+      "minYear": 2010,
+      "maxYear": 2016
+    },
+    {
+      "id": 18053,
+      "title": "1 Boliviano",
+      "category": "coin",
+      "country": {
+        "code": "bolivie",
+        "name": "Bolivia"
+      },
+      "minYear": 2010,
+      "maxYear": 2025
+    },
+    {
+      "id": 18054,
+      "title": "2 Bolivianos",
+      "category": "coin",
+      "country": {
+        "code": "bolivie",
+        "name": "Bolivia"
+      },
+      "minYear": 2010,
+      "maxYear": 2017
+    },
+    {
+      "id": 18055,
+      "title": "5 Bolivianos",
+      "category": "coin",
+      "country": {
+        "code": "bolivie",
+        "name": "Bolivia"
+      },
+      "minYear": 2010,
+      "maxYear": 2012
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Flag",
+    "Coat of Arms",
+    "Firearms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "216"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "48"
+    }
+  ],
+  "weight": 3.75,
+  "orientation": "coin",
+  "edge": {
+    "description": "Plain",
+    "picture": "https://en.numista.com/catalogue/photos/bolivie/66662def0564e2.50094240-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bolivie/66662def0564e2.50094240-180.jpg",
+    "picture_copyright": "Julio Vega",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 294,
+      "name": "Casa de Moneda de Chile"
+    },
+    {
+      "id": 27,
+      "name": "Mint of Poland"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

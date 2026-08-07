@@ -1,0 +1,117 @@
+{
+  "id": 4840,
+  "url": "https://en.numista.com/4840",
+  "title": "1 Florin - Victoria (1st portrait; 'Gothic' type)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "royaume-uni",
+    "name": "United Kingdom"
+  },
+  "min_year": 1851,
+  "max_year": 1887,
+  "ruler": [
+    {
+      "id": 270,
+      "name": "Victoria",
+      "wikidata_id": "Q9439",
+      "nomisma_id": "queen_victoria",
+      "group": {
+        "id": 525,
+        "name": "House of Hanover"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Florin",
+    "numeric_value": 0.1,
+    "currency": {
+      "id": 222,
+      "name": "Pound sterling",
+      "full_name": "Pound sterling (1158-1971)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1993-06-30"
+  },
+  "size": 30,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Silver (.925)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "William Wyon"
+    ],
+    "description": "Crowned bust of Queen Victoria left, legend and date around.",
+    "lettering": "Victoria d:g:britt: reg:f:d:mdccclxxvii",
+    "lettering_scripts": [
+      {
+        "name": "Latin (Fraktur blackletter)"
+      }
+    ],
+    "unabridged_legend": "Victoria Dei Gratia Britanniarum Regina Fidei Defensatrix mdccclxxvii",
+    "lettering_translation": "Victoria by the Grace of God Queen of the Britains Defender of the Faith 1877",
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/6241e359a5a669.18670077-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/6241e359a5a669.18670077-180.jpg",
+    "picture_copyright": "Rowe Collection"
+  },
+  "reverse": {
+    "engravers": [
+      "William Dyce"
+    ],
+    "description": "Crowned cruciform shields of England, Scotland and Ireland, national flower emblems in angles, legend around.",
+    "lettering": "One florin\r\none tenth of a pound",
+    "lettering_scripts": [
+      {
+        "name": "Latin (Fraktur blackletter)"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/royaume-uni/6241e35ca3d587.97893132-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/royaume-uni/6241e35ca3d587.97893132-180.jpg",
+    "picture_copyright": "Rowe Collection"
+  },
+  "comments": "The standard weight of these coins was 4/11 troy ounce (174.5 grains).<br /><br />\r\n<span style=\"font-style:italic;\">Obverse die varieties:</span><br /><br />\r\n<span style=\"font-weight:bold;\">KM#746.1, Sp#3891</span> <span style=\"font-style:italic;\">(1851-63)</span> Type B1 - reads &#039;brit:&#039;, WW below bust, no die number;<br />\r\n<span style=\"font-weight:bold;\">KM#746.3, Sp#3892</span> <span style=\"font-style:italic;\">(1864-67)</span> Type B2 - similar as last but die number below bust;<br />\r\n<span style=\"font-weight:bold;\">KM#746.2, Sp#3893</span> <span style=\"font-style:italic;\">(1868-79)</span> Type B3 - similar as last but reads &#039;britt:&#039; ;<br />\r\n<span style=\"font-weight:bold;\">KM#746.2, Sp#3894</span> <span style=\"font-style:italic;\">(1877 only)</span> Type B4 - similar as last but border of 48 arcs, no WW below bust;<br />\r\n<span style=\"font-weight:bold;\">KM#746.2, Sp#3895</span> <span style=\"font-style:italic;\">(1877-78)</span> Type B5 - similar as last but border of 42 arcs;<br />\r\n<span style=\"font-weight:bold;\">KM#746.4, Sp#3897</span> <span style=\"font-style:italic;\">(1877-79)</span> Type B6 - similar reads &#039;britt:&#039;, WW, no die number, border of 48 arcs;<br />\r\n<span style=\"font-weight:bold;\">KM#746.4, Sp#3898</span> <span style=\"font-style:italic;\">(1879 only)</span> Type B7 - similar as last but no WW, border of 38 arcs;<br />\r\n<span style=\"font-weight:bold;\">KM#746.4, Sp#3900</span> <span style=\"font-style:italic;\">(1880-87)</span> Type B8 - similar as last but younger portrait, border of 34 arcs;<br />\r\n<span style=\"font-weight:bold;\">KM#746.4, Sp#3901</span> <span style=\"font-style:italic;\">(1887 only)</span> Type B9 - similar as last but border of 46 arcs;",
+  "tags": [
+    "Cat or feline",
+    "Crown",
+    "Flower",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "746"
+    },
+    {
+      "catalogue": {
+        "id": 13,
+        "code": "Sp"
+      },
+      "number": "3891-3901"
+    }
+  ],
+  "weight": 11.31,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 17,
+      "name": "Royal Mint (Tower Hill)"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

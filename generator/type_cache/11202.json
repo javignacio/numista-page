@@ -1,0 +1,121 @@
+{
+  "id": 11202,
+  "url": "https://en.numista.com/11202",
+  "title": "20 Centesimi - Victor Emmanuel III (non-magnetic; reeded edge)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "italie",
+    "name": "Italy"
+  },
+  "min_year": 1939,
+  "max_year": 1940,
+  "ruler": [
+    {
+      "id": 1162,
+      "name": "Vittorio Emanuele III",
+      "wikidata_id": "Q150642",
+      "nomisma_id": "victor_emmanuel_iii",
+      "group": {
+        "id": 741,
+        "name": "House of Savoy"
+      }
+    }
+  ],
+  "value": {
+    "text": "20 Centesimi",
+    "numeric_value": 0.2,
+    "currency": {
+      "id": 112,
+      "name": "Lira",
+      "full_name": "Lira (1861-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 21.7,
+  "thickness": 1.65,
+  "shape": "Round",
+  "composition": {
+    "text": "Acmonital (austenitic)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Giuseppe Romagnoli"
+    ],
+    "description": "Head of King Vittorio Emanuele III facing left and the name of the engraver below the neck",
+    "lettering": "VITT·EM·III· RE·E·IMP·\r\nG.ROMAGNOLI",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Vittorio Emanuele III King and Emperor (of Italy)\r\nG. Romagnoli",
+    "picture": "https://en.numista.com/catalogue/photos/italie/5fa16a12ef0c65.54154400-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/italie/5fa16a12ef0c65.54154400-180.jpg"
+  },
+  "reverse": {
+    "engravers": [
+      "Giuseppe Romagnoli"
+    ],
+    "description": "Head of a woman (representing Italy) with a fasces at left, in front of her hairs. Fasces is adorned with the Savoy shield and with an axe at left and the value below between dates and mintmark",
+    "lettering": "ITALIA\r\nR\r\nXVIII\r\n1939\r\nC.20",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Italy\r\nR\r\nXVIII\r\n1939\r\n20 Centesimi",
+    "picture": "https://en.numista.com/catalogue/photos/italie/5fa16a1325cee3.14848091-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/italie/5fa16a1325cee3.14848091-180.jpg"
+  },
+  "comments": "Km# 75d has changed its catalog number to Km# 75a in the 2020 Krause Standard Catalog of World Coins 47th Edition.",
+  "related_types": [
+    {
+      "id": 1959,
+      "title": "20 Centesimi - Victor Emmanuel III (magnetic; reeded edge)",
+      "category": "coin",
+      "country": {
+        "code": "italie",
+        "name": "Italy"
+      },
+      "minYear": 1939,
+      "maxYear": 1943
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "75d"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "76a"
+    }
+  ],
+  "weight": 4.03,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 22,
+      "name": "Rome"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}

@@ -1,0 +1,164 @@
+{
+  "id": 3684,
+  "url": "https://en.numista.com/3684",
+  "title": "1 Ringgit - Agong IX (Type 1 denomination)",
+  "object_type": {
+    "id": 1,
+    "name": "Standard circulation coins"
+  },
+  "issuer": {
+    "code": "malaisie",
+    "name": "Malaysia"
+  },
+  "min_year": 1989,
+  "max_year": 1993,
+  "ruler": [
+    {
+      "id": 905,
+      "name": "Federal elective constitutional monarchy",
+      "wikidata_id": "Q833"
+    }
+  ],
+  "value": {
+    "text": "1 Ringgit",
+    "numeric_value": 1,
+    "currency": {
+      "id": 163,
+      "name": "Ringgit",
+      "full_name": "Ringgit (1967-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2005-07-12"
+  },
+  "size": 24.5,
+  "thickness": 2.6,
+  "shape": "Round",
+  "composition": {
+    "text": "Tin brass (84% Copper, 12% Zinc, 4% Tin)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "description": "Hibiscus flower blossom above, denomination dividing date below.",
+    "lettering": "BANK NEGARA MALAYSIA\r\n19 $1 92",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/malaisie/67c843a485afd2.41744714-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/malaisie/67c843a485afd2.41744714-180.jpg",
+    "picture_copyright": "Cuthwellis"
+  },
+  "reverse": {
+    "description": "Kris (traditional Malay dagger) with its sheath, traditional brocade fabric in background.",
+    "picture": "https://en.numista.com/catalogue/photos/malaisie/67c843a59799f6.13419961-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/malaisie/67c843a59799f6.13419961-180.jpg",
+    "picture_copyright": "Cuthwellis"
+  },
+  "comments": "Varying degrees of filled die variations exist.<br /><br />\r\nThe hibiscus (Hibiscus rosa-sinensis) is the National Flower of Malaysia.",
+  "related_types": [
+    {
+      "id": 931,
+      "title": "1 Sen",
+      "category": "coin",
+      "country": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "minYear": 1989,
+      "maxYear": 2008
+    },
+    {
+      "id": 1659,
+      "title": "5 Sen",
+      "category": "coin",
+      "country": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "minYear": 1989,
+      "maxYear": 2011
+    },
+    {
+      "id": 1656,
+      "title": "10 Sen",
+      "category": "coin",
+      "country": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "minYear": 1989,
+      "maxYear": 2011
+    },
+    {
+      "id": 1658,
+      "title": "20 Sen",
+      "category": "coin",
+      "country": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "minYear": 1989,
+      "maxYear": 2011
+    },
+    {
+      "id": 1655,
+      "title": "50 Sen",
+      "category": "coin",
+      "country": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "minYear": 1989,
+      "maxYear": 2011
+    },
+    {
+      "id": 3685,
+      "title": "1 Ringgit - Agong X (Type 2 denomination)",
+      "category": "coin",
+      "country": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "minYear": 1993,
+      "maxYear": 1998
+    }
+  ],
+  "tags": [
+    "Flower",
+    "Cold weapons"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "54"
+    },
+    {
+      "catalogue": {
+        "id": 24,
+        "code": "Schön"
+      },
+      "number": "96"
+    }
+  ],
+  "weight": 9.3,
+  "orientation": "medal",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 4395,
+      "name": "Shah Alam"
+    }
+  ],
+  "category": "coin",
+  "type": "Standard circulation coins"
+}
