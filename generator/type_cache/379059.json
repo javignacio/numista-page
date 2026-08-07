@@ -1,0 +1,240 @@
+{
+  "id": 379059,
+  "url": "https://en.numista.com/379059",
+  "title": "1 Sol (José De La Mar y Cortázar)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "perou",
+    "name": "Peru"
+  },
+  "issuing_entity": {
+    "id": 936,
+    "name": "Central Reserve Bank of Peru",
+    "wikidata_id": "Q932146"
+  },
+  "min_year": 2023,
+  "max_year": 2023,
+  "ruler": [
+    {
+      "id": 3757,
+      "name": "Republic",
+      "wikidata_id": "Q419"
+    }
+  ],
+  "value": {
+    "text": "1 Sol",
+    "numeric_value": 1,
+    "currency": {
+      "id": 184,
+      "name": "Nuevo sol",
+      "full_name": "Nuevo sol (1991-2015) / Sol (2016-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25.5,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass (Copper-nickel-zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Felipe Escalante Chuñocca"
+    ],
+    "designers": [
+      "Ernesto Gutiérrez Gamarra"
+    ],
+    "description": "Coat of arms above date.",
+    "lettering": "BANCO CENTRAL DE RESERVA DEL PERÚ\r\n2023",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Reserve Bank of Peru",
+    "picture": "https://en.numista.com/catalogue/photos/perou/6632d980135052.14136245-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/6632d980135052.14136245-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Felipe Escalante Chuñocca"
+    ],
+    "designers": [
+      "Ernesto Gutiérrez Gamarra"
+    ],
+    "description": "Portrait of José De La Mar y Cortázar facing 3/4 forward, value below and to the left.",
+    "lettering": "JOSÉ DE LA MAR Y CORTÁZAR\r\nBICENTENARIO 1821-2021\r\n1 SOL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Bicentennial",
+    "picture": "https://en.numista.com/catalogue/photos/perou/6632d980c6e039.84495883-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/6632d980c6e039.84495883-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "series": "Builders of the Republic - Bicentennial 1821-2021",
+  "commemorated_topic": "José De La Mar y Cortázar",
+  "related_types": [
+    {
+      "id": 266476,
+      "title": "1 Sol (Heroínas Toledo)",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 2020,
+      "maxYear": 2020
+    },
+    {
+      "id": 266474,
+      "title": "1 Sol (Brigida Silva de Ochoa)",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 2020,
+      "maxYear": 2020
+    },
+    {
+      "id": 266473,
+      "title": "1 Sol (Maria Parado de Bellido)",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 2020,
+      "maxYear": 2020
+    },
+    {
+      "id": 240595,
+      "title": "1 Sol (Juan Pablo Vizcardo y Guzmán)",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 2020,
+      "maxYear": 2020
+    },
+    {
+      "id": 311035,
+      "title": "1 Sol (Toribio Rodríguez de Mendoza)",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 2021,
+      "maxYear": 2021
+    },
+    {
+      "id": 294447,
+      "title": "1 Sol (Hipólito Unanue y Pavón)",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 2021,
+      "maxYear": 2021
+    },
+    {
+      "id": 327597,
+      "title": "1 Sol (Manuel Lorenzo de Vidaurre)",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 2022,
+      "maxYear": 2022
+    },
+    {
+      "id": 350298,
+      "title": "1 Sol (José Baquíjano y Carrillo)",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 2022,
+      "maxYear": 2022
+    },
+    {
+      "id": 350299,
+      "title": "1 Sol (José Faustino Sánchez Carrión)",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 2022,
+      "maxYear": 2022
+    },
+    {
+      "id": 368005,
+      "title": "1 Sol (Francisco Xavier De Luna Pizarro)",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 2023,
+      "maxYear": 2023
+    }
+  ],
+  "tags": [
+    "Camel or camelid",
+    "Independence",
+    "Military leader",
+    "Politician",
+    "Coat of Arms",
+    "Cornucopia",
+    "Wreath"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "438"
+    }
+  ],
+  "weight": 7.32,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/perou/6a2028c65b2e03.15231288-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/6a2028c65b2e03.15231288-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 297,
+      "name": "Lima"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

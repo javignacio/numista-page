@@ -1,0 +1,163 @@
+{
+  "id": 438061,
+  "url": "https://en.numista.com/438061",
+  "title": "1 Sol (Pre-Columbian Ceramics - Formative Period)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "perou",
+    "name": "Peru"
+  },
+  "issuing_entity": {
+    "id": 936,
+    "name": "Central Reserve Bank of Peru",
+    "wikidata_id": "Q932146"
+  },
+  "min_year": 2024,
+  "max_year": 2024,
+  "ruler": [
+    {
+      "id": 3757,
+      "name": "Republic",
+      "wikidata_id": "Q419"
+    }
+  ],
+  "value": {
+    "text": "1 Sol",
+    "numeric_value": 1,
+    "currency": {
+      "id": 184,
+      "name": "Nuevo sol",
+      "full_name": "Nuevo sol (1991-2015) / Sol (2016-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2024-10-17"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25.5,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel brass (Copper-nickel-zinc)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Eduardo Paredes Medina"
+    ],
+    "description": "Peruvian coat of arms surrounded by issuer name on top and sides, minting year below; eight-sided inscribed polygon as edge of the coin.",
+    "lettering": "BANCO CENTRAL DE RESERVA DEL PERÚ\r\n2024",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Reserve Bank of Perú",
+    "picture": "https://en.numista.com/catalogue/photos/perou/690f2321baba78.98898765-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/690f2321baba78.98898765-180.jpg",
+    "picture_copyright": "vladthiengo",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Eduardo Paredes Medina"
+    ],
+    "description": "Chavin Ceramic. Geometric design of vertical lines on right, with mintmark on its middle. Face value in number and letters on bottom, series name on left, event on top.",
+    "lettering": "PERÍODO \r\nFORMATIVO\r\nCERÁMICA\r\nPRECOLOMBINA\r\n1\r\nSOL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Formative Period\r\nPre-Columbian Ceramics \r\n1 Sol",
+    "picture": "https://en.numista.com/catalogue/photos/perou/690f232246bc87.60562696-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/690f232246bc87.60562696-180.jpg",
+    "picture_copyright": "vladthiengo",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "series": "Peruvian Pre-Columbian Ceramics",
+  "commemorated_topic": "Pre-Columbian Ceramics",
+  "comments": "<p><a href=\"https://en.numista.com/catalogue/images/67788c5b9d782.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67788c5b9d782.jpg\"></a></p><p>Blister presentation © Banco Central de Reserva del Perú</p>",
+  "related_types": [
+    {
+      "id": 446739,
+      "title": "1 Sol (Pre-Columbian Ceramics - Mochica Culture)",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 2024,
+      "maxYear": 2024
+    },
+    {
+      "id": 536735,
+      "title": "1 Sol (Pre-Columbian Ceramics - Nazca Culture)",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 2025,
+      "maxYear": 2025
+    },
+    {
+      "id": 476881,
+      "title": "1 Sol (Pre-Columbian Ceramics - Vicus Culture)",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 2025,
+      "maxYear": 2025
+    },
+    {
+      "id": 587168,
+      "title": "1 Sol (Pre-Columbian Ceramics - Recuay Culture)",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 2026,
+      "maxYear": 2026
+    }
+  ],
+  "tags": [
+    "Handicraft",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "447"
+    }
+  ],
+  "weight": 7.32,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded"
+  },
+  "mints": [
+    {
+      "id": 297,
+      "name": "Lima"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}

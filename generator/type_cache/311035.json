@@ -1,0 +1,137 @@
+{
+  "id": 311035,
+  "url": "https://en.numista.com/311035",
+  "title": "1 Sol (Toribio Rodríguez de Mendoza)",
+  "object_type": {
+    "id": 2,
+    "name": "Circulating commemorative coins"
+  },
+  "issuer": {
+    "code": "perou",
+    "name": "Peru"
+  },
+  "issuing_entity": {
+    "id": 936,
+    "name": "Central Reserve Bank of Peru",
+    "wikidata_id": "Q932146"
+  },
+  "min_year": 2021,
+  "max_year": 2021,
+  "ruler": [
+    {
+      "id": 3757,
+      "name": "Republic",
+      "wikidata_id": "Q419"
+    }
+  ],
+  "value": {
+    "text": "1 Sol",
+    "numeric_value": 1,
+    "currency": {
+      "id": 184,
+      "name": "Nuevo sol",
+      "full_name": "Nuevo sol (1991-2015) / Sol (2016-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 25.5,
+  "thickness": 2,
+  "shape": "Round",
+  "composition": {
+    "text": "Nickel-zinc (Alpaca)"
+  },
+  "technique": {
+    "text": "Milled"
+  },
+  "obverse": {
+    "engravers": [
+      "Felipe Escalante Chuñocca"
+    ],
+    "description": "Coat of arms above date.",
+    "lettering": "BANCO CENTRAL DE RESERVA DEL PERÚ\r\n2021",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/perou/619149988e0083.70502386-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/619149988e0083.70502386-180.jpg",
+    "picture_copyright": "Banco Central de Reserva del Perú",
+    "picture_copyright_url": "http://www.bcrp.gob.pe"
+  },
+  "reverse": {
+    "engravers": [
+      "Felipe Escalante Chuñocca"
+    ],
+    "description": "Portrait of Toribio Rodríguez de Mendoza, value below.",
+    "lettering": "TORIBIO RODRÍGUEZ DE MENDOZA\r\nBICENTENARIO 1821-2021\r\n1 SOL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Toribio Rodríguez de Mendoza\r\nBicentennial 1821-2021\r\n1 Sol",
+    "picture": "https://en.numista.com/catalogue/photos/perou/61914998f08721.17034855-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/61914998f08721.17034855-180.jpg",
+    "picture_copyright": "Banco Central de Reserva del Perú",
+    "picture_copyright_url": "http://www.bcrp.gob.pe"
+  },
+  "series": "Builders of the Republic - Bicentennial 1821-2021",
+  "commemorated_topic": "Toribio Rodríguez de Mendoza",
+  "related_types": [
+    {
+      "id": 240595,
+      "title": "1 Sol (Juan Pablo Vizcardo y Guzmán)",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 2020,
+      "maxYear": 2020
+    },
+    {
+      "id": 294447,
+      "title": "1 Sol (Hipólito Unanue y Pavón)",
+      "category": "coin",
+      "country": {
+        "code": "perou",
+        "name": "Peru"
+      },
+      "minYear": 2021,
+      "maxYear": 2021
+    }
+  ],
+  "tags": [
+    "Independence"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 3,
+        "code": "KM"
+      },
+      "number": "426"
+    }
+  ],
+  "weight": 7.32,
+  "orientation": "coin",
+  "edge": {
+    "description": "Reeded",
+    "picture": "https://en.numista.com/catalogue/photos/perou/6a202855372a35.14165861-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/perou/6a202855372a35.14165861-180.jpg",
+    "picture_copyright": "Renato Lima",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "mints": [
+    {
+      "id": 297,
+      "name": "Lima"
+    }
+  ],
+  "category": "coin",
+  "type": "Circulating commemorative coins"
+}
