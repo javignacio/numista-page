@@ -41,6 +41,13 @@ jobs:
           restore-keys: |
             numista-api-cache-${{ runner.os }}-
 
+      - name: Validate required Numista inputs
+        run: |
+          test -s generator/inputs/collection_public.csv
+          test -s generator/inputs/wishlist_public.csv
+          test -s generator/inputs/on_transit.csv
+          test -s generator/inputs/wishlist_issuers.csv
+
       - name: Generate the collection page
         working-directory: generator
         env:
