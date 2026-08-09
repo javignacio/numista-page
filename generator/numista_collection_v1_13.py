@@ -319,6 +319,7 @@ def load_chile_date_runs_csv(csv_path: str) -> list[dict]:
 
 TOKEN_REQUESTS = 0  # how many times we requested an OAuth token
 API_KEY = os.environ.get("NUMISTA_API_KEY", "").strip()
+AUTO_FETCH_MISSING = os.environ.get("NUMISTA_AUTO_FETCH_MISSING", "").strip().lower() in ("1", "true", "yes", "y")
 CLIENT_ID = "104851"
 BASE_URL = "https://api.numista.com/v3"
 MAX_TYPES = 2100  # prueba segura: solo 5 llamadas a /types/{id}
@@ -4258,8 +4259,12 @@ def main(args):
 		print(f"[collection] Missing {len(missing)} types in cache.")
 		preview = ", ".join(str(x) for x in missing[:12])
 		print(f"[collection] First missing type_ids: {preview}" + (" ..." if len(missing) > 12 else ""))
-		ans = input("[collection] Use quota to fetch missing /types/{id}? [y/N] ").strip().lower()
-		use_quota = ans in ("y", "yes")
+		if AUTO_FETCH_MISSING:
+			print("[collection] Auto-fetch enabled; fetching missing /types/{id} records.")
+			use_quota = True
+		else:
+			ans = input("[collection] Use quota to fetch missing /types/{id}? [y/N] ").strip().lower()
+			use_quota = ans in ("y", "yes")
 	for tid in type_ids:
 		was_cached = (CACHE_DIR / f"{tid}.json").exists()
 		if was_cached or use_quota:

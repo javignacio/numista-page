@@ -52,6 +52,7 @@ jobs:
         working-directory: generator
         env:
           NUMISTA_API_KEY: ${{ secrets.NUMISTA_API_KEY }}
+          NUMISTA_AUTO_FETCH_MISSING: "1"
         run: python numista_collection_v1_13.py
 
       - name: Validate generated files
