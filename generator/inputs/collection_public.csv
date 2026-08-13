@@ -145,6 +145,7 @@ N# 206729,1,,2016,100 Pesos,Argentina,
 N# 201699,1,,2019,200 Pesos,Argentina,
 N# 206624,1,,2016-2018,500 Pesos,Argentina,
 N# 375850,1,,,Casino Token - Casinos del Sur,Argentina,
+N# 3067,1,2004,2004,10 Dram,Armenia,AU
 N# 1559,1,1974,1974,1 Cent - Elizabeth II (2nd Portrait),Australia,XF
 N# 1558,1,1966,1966,2 Cents - Elizabeth II (2nd Portrait),Australia,F
 N# 1558,1,1966,1966,2 Cents - Elizabeth II (2nd Portrait),Australia,XF
@@ -485,8 +486,8 @@ N# 120565,1,1805,1805,¼ Real - Charles IV (with mintmark),Chile,F
 N# 35205,1,1797,1797,½ Real - Charles IV (bust of Charles IV),Chile,G
 N# 35209,1,1816,1816,½ Real - Ferdinand VII (bust of Carlos IV),Chile,G
 N# 35253,1,1834,1834,½ Real,Chile,F
-N# 35334,1,1844,1844,½ Real,Chile,F
-N# 35334,1,1851,1851,½ Real,Chile,VF
+N# 35334,1,1844,1844,½ Real (small type),Chile,F
+N# 35334,1,1851,1851,½ Real (small type),Chile,VF
 N# 27140,1,1817,1817,1 Real - Ferdinand VII (bust of Carlos IV),Chile,F
 N# 35258,1,1844,1844,1 Real (small type),Chile,F
 N# 35217,1,1813,1813,2 Reales - Ferdinand VII (bust of Ferdinand VII),Chile,VF
@@ -517,11 +518,11 @@ N# 14974,1,1898,1898,2½ Centavos,Chile,
 N# 9708,1,1904,1904,2½ Centavos,Chile,VF
 N# 9708,1,1906,1906,2½ Centavos,Chile,VF
 N# 9708,1,1907,1907,2½ Centavos,Chile,F
-N# 22383,1,1856,1856,½ Decimo,Chile,G
-N# 22383,1,1857,1857,½ Decimo,Chile,VF
-N# 15451,1,,,½ Decimo,Chile,
-N# 15451,1,1881,1881,½ Decimo,Chile,VF
-N# 16034,1,1901,1901,5 Centavos,Chile,VF
+N# 22383,1,1856,1856,½ Décimo (heavy type),Chile,G
+N# 22383,1,1857,1857,½ Décimo (heavy type),Chile,VF
+N# 15451,1,,,½ Décimo (silver .500),Chile,
+N# 15451,1,1881,1881,½ Décimo (silver .500),Chile,VF
+N# 16034,1,1901,1901,5 Centavos (0.5 on obverse; silver .500),Chile,VF
 N# 9378,1,1908,1908,5 Centavos,Chile,VF
 N# 9378,1,1913,1913,5 Centavos,Chile,
 N# 15864,1,1915,1915,5 Centavos,Chile,VF
@@ -543,7 +544,7 @@ N# 6921,1,1937,1937,5 Centavos,Chile,XF
 N# 6921,1,1938,1938,5 Centavos,Chile,XF
 N# 6921,1,1938,1938,5 Centavos,Chile,
 N# 42708,1,1855,1855,1 Décimo,Chile,XF
-N# 4331,1,1880,1880,1 Décimo,Chile,VF
+N# 4331,1,1880,1880,1 Décimo (silver .500; heavy type),Chile,VF
 N# 24193,1,1896,1896,10 Centavos (No number on obverse; silver .835),Chile,VF
 N# 16042,1,1907,1907,10 Centavos (0.5 on obverse; silver .500),Chile,F
 N# 16045,1,1908,1908,10 Centavos (No number on obverse; billon .400),Chile,VF
@@ -575,9 +576,9 @@ N# 4054,1,1940,1940,10 Centavos,Chile,XF
 N# 4054,1,1941,1941,10 Centavos,Chile,XF
 N# 35377,1,1854,1854,20 Centavos,Chile,G
 N# 31965,1,1862,1862,20 Centavos,Chile,XF
-N# 26203,1,1865,1865,20 Centavos,Chile,VF
-N# 4322,1,1873,1873,20 Centavos,Chile,G
-N# 27165,1,1880,1880,20 Centavos,Chile,VF
+N# 26203,1,1865,1865,20 Centavos (silver .900),Chile,VF
+N# 4322,1,1873,1873,20 Centavos (silver .835),Chile,G
+N# 27165,1,1880,1880,20 Centavos (silver .500),Chile,VF
 N# 87583,1,1891,1891,20 Centavos,Chile,VG
 N# 16044,1,1907,1907,20 Centavos (0.5 on obverse; silver .500),Chile,VF
 N# 6920,1,1907,1907,20 Centavos (No number on obverse; billon .400),Chile,F
@@ -636,16 +637,16 @@ N# 35386,1,1870,1870,50 Centavos,Chile,XF
 N# 10890,2,1902,1902,50 Centavos,Chile,VF
 N# 6910,1,1942,1942,50 Centavos,Chile,XF
 N# 4323,1,1878,1878,1 Peso,Chile,XF
-N# 28033,1,1895,1895,1 Peso,Chile,F
-N# 23449,1,1902,1902,1 Peso,Chile,VF
-N# 23448,1,1910,1910,1 Peso,Chile,XF
-N# 22527,1,1915,1915,1 Peso,Chile,VF
-N# 14504,1,1921,1921,1 Peso (coin alignment),Chile,VF
-N# 14504,1,1922,1922,1 Peso (coin alignment),Chile,VF
-N# 14505,1,1924,1924,1 Peso (medal alignment),Chile,VF
-N# 14505,1,1925,1925,1 Peso (medal alignment),Chile,XF
-N# 15945,1,1927,1927,1 Peso,Chile,XF
-N# 15945,1,1927,1927,1 Peso,Chile,VF
+N# 28033,1,1895,1895,1 Peso (No number on obverse; silver .835),Chile,F
+N# 23449,1,1902,1902,1 Peso (0.7 on obverse; silver .700),Chile,VF
+N# 23448,1,1910,1910,1 Peso (0.9 on obverse; silver .900),Chile,XF
+N# 22527,1,1915,1915,1 Peso (0.72 on obverse; silver .720),Chile,VF
+N# 14504,1,1921,1921,1 Peso (0.5 on obverse; silver .500; coin alignment; without 1 on reverse),Chile,VF
+N# 14504,1,1922,1922,1 Peso (0.5 on obverse; silver .500; coin alignment; without 1 on reverse),Chile,VF
+N# 14505,1,1924,1924,1 Peso (0.5 on obverse; silver .500; medal alignment),Chile,VF
+N# 14505,1,1925,1925,1 Peso (0.5 on obverse; silver .500; medal alignment),Chile,XF
+N# 15945,1,1927,1927,1 Peso (0.5 on obverse; silver .500; coin alignment; with 1 on reverse),Chile,XF
+N# 15945,1,1927,1927,1 Peso (0.5 on obverse; silver .500; coin alignment; with 1 on reverse),Chile,VF
 N# 14503,1,1932,1932,1 Peso,Chile,XF
 N# 2951,2,1933,1933,1 Peso,Chile,XF
 N# 2951,1,1940,1940,1 Peso,Chile,VF
@@ -1153,6 +1154,7 @@ N# 4989,1,1981,1981,5 Mils,Cyprus,XF
 N# 156084,1,2003,2003,2 Cents (Type 2 coat of arms),Cyprus,XF
 N# 1950,1,1983,1983,5 Cents (Type 1 coat of arms; solid value number),Cyprus,XF
 N# 1950,1,1983,1983,5 Cents (Type 1 coat of arms; solid value number),Cyprus,
+N# 3063,1,1943,1943,1 Koruna,Bohemia and Moravia,XF
 N# 2156,1,1997,1997,50 Haléřů,Czech Republic,XF
 N# 2150,1,1993,1993,1 Koruna,Czech Republic,AU
 N# 2150,1,1994,1994,1 Koruna,Czech Republic,AU
@@ -1436,6 +1438,8 @@ N# 1925,1,1968,1968,10 Pfennigs,German Democratic Republic,VF
 N# 1925,1,1983,1983,10 Pfennigs,German Democratic Republic,AU
 N# 1924,1,1969,1969,20 Pfennigs,German Democratic Republic,XF
 N# 2032,1,1971,1971,50 Pfennigs,German Democratic Republic,AU
+N# 6076,1,1956,1956,1 Deutsche Mark,German Democratic Republic,XF
+N# 2031,1,1975,1975,1 Mark,German Democratic Republic,XF
 N# 3110,1,1969,1969,5 Mark - 20 Years of GDR (Nickel Bronze),German Democratic Republic,F
 N# 29789,1,1856,1856,1 Kreuzer,"Frankfurt, Free imperial city of",G
 N# 1916,1,1908,1908,5 Pfennigs (type 2 - small shield),Germany (1871-1948),F
@@ -1446,6 +1450,7 @@ N# 1953,1,1917,1917,10 Pfennigs (type 2 - small shield; beaded border),Germany (
 N# 1954,1,1919,1919,10 Pfennigs (type 2 - small shield; without mintmarks),Germany (1871-1948),F
 N# 1954,1,1921,1921,10 Pfennigs (type 2 - small shield; without mintmarks),Germany (1871-1948),
 N# 2729,1,1921,1921,50 Pfennigs,Germany (1871-1948),XF
+N# 7978,1,1923,1923,500 Mark,Germany (1871-1948),XF
 N# 1914,1,1927,1927,1 Reichspfennig,Germany (1871-1948),VF
 N# 2586,1,1945,1945,1 Reichspfennig,Germany (1871-1948),VF
 N# 851,1,1925,1925,5 Reichspfennig,Germany (1871-1948),VF
@@ -1455,6 +1460,7 @@ N# 1917,1,1941,1941,5 Reichspfennig,Germany (1871-1948),F
 N# 1917,1,1941,1941,5 Reichspfennig,Germany (1871-1948),VF
 N# 1929,1,1940,1940,10 Reichspfennig,Germany (1871-1948),F
 N# 3416,1,1938,1938,2 Reichsmark (Paul von Hindenburg),Germany (1871-1948),AU
+N# 3423,1,1949,1949,1 Pfennig (Bank of German States),"Germany, Federal Republic of",XF
 N# 854,1,1967,1967,1 Pfennig,"Germany, Federal Republic of",
 N# 854,1,1974,1974,1 Pfennig,"Germany, Federal Republic of",XF
 N# 852,1,1959,1959,2 Pfennigs (non-magnetic),"Germany, Federal Republic of",XF
@@ -1672,6 +1678,7 @@ N# 1113,1,1993,1993,20 Lire,Italy,
 N# 724,1,1973,1973,50 Lire (large type),Italy,XF
 N# 724,1,1978,1978,50 Lire (large type),Italy,AU
 N# 724,1,1979,1979,50 Lire (large type),Italy,XF
+N# 725,1,1993,1993,50 Lire (small type),Italy,AU
 N# 725,1,1995,1995,50 Lire (small type),Italy,AU
 N# 304,1,1956,1956,100 Lire (large type),Italy,
 N# 304,1,1979,1979,100 Lire (large type),Italy,
@@ -1907,6 +1914,7 @@ N# 731,1,1992,1992,25 Cents - Beatrix,Netherlands,
 N# 738,1,1971,1971,1 Gulden - Juliana,Netherlands,VF
 N# 738,1,1972,1972,1 Gulden - Juliana,Netherlands,
 N# 738,1,1979,1979,1 Gulden - Juliana,Netherlands,AU
+N# 1285,1,1994,1994,1 Gulden - Beatrix,Netherlands,XF
 N# 736,1,1970,1970,2½ Gulden - Juliana,Netherlands,AU
 N# 2153,1,1982,1982,2½ Gulden - Beatrix,Netherlands,VF
 N# 1283,1,1990,1990,5 Gulden - Beatrix,Netherlands,VF
@@ -2579,7 +2587,6 @@ N# 3866,1,1998,1998,10 Pence - Elizabeth II (Europort; head with tiara),Gibralta
 N# 8121,1,2003,2003,10 Pence - Elizabeth II (3rd portrait; small type),Saint Helena and Ascension,XF
 N# 12907,1,,,1 Farthing - Charles II,England,VG
 N# 334807,1,,1634-1636,1 Farthing - Charles I (Maltravers type 1; counterfeit),England,G
-N# 3310,1,1947,1947,1 Farthing - George VI (with 'IND:IMP'),United Kingdom,AU
 N# 8484,1,,,1 Farthing - William IV,United Kingdom,VF
 N# 8484,1,1837,1837,1 Farthing - William IV,United Kingdom,VF
 N# 1013,1,1875,1875,1 Farthing - Victoria (2nd portrait; 2nd type),United Kingdom,G
@@ -2591,6 +2598,7 @@ N# 5545,1,1929,1929,1 Farthing - George V (modified effigy),United Kingdom,VF
 N# 5545,1,1931,1931,1 Farthing - George V (modified effigy),United Kingdom,XF
 N# 5545,1,1932,1932,1 Farthing - George V (modified effigy),United Kingdom,
 N# 5545,1,1933,1933,1 Farthing - George V (modified effigy),United Kingdom,VF
+N# 3310,1,1947,1947,1 Farthing - George VI (with 'IND:IMP'),United Kingdom,AU
 N# 7182,1,1952,1952,1 Farthing - George VI (without 'IND:IMP'),United Kingdom,AU
 N# 7396,1,1953,1953,1 Farthing - Elizabeth II (1st portrait; with 'BRITT:OMN'),United Kingdom,VF
 N# 4212,1,1806,1806,½ Penny - George III (4th issue),United Kingdom,VF
@@ -2602,7 +2610,8 @@ N# 871,1,1911,1911,½ Penny - George V (1st portrait),United Kingdom,VF
 N# 871,1,1916,1916,½ Penny - George V (1st portrait),United Kingdom,VF
 N# 871,1,1918,1918,½ Penny - George V (1st portrait),United Kingdom,VF
 N# 7173,1,1926,1926,½ Penny - George V (modified effigy),United Kingdom,F
-N# 4004,1,1935,1935,½ Penny - George V (smaller portrait),United Kingdom,XF
+N# 870,1,1940,1940,½ Penny - George VI (with 'IND:IMP'),United Kingdom,XF
+N# 870,1,1948,1948,½ Penny - George VI (with 'IND:IMP'),United Kingdom,XF
 N# 3593,1,1952,1952,½ Penny - George VI (without 'IND:IMP'),United Kingdom,VF
 N# 5824,1,1956,1956,½ Penny - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,XF
 N# 5824,1,1959,1959,½ Penny - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,AU
@@ -2611,16 +2620,15 @@ N# 5824,1,1964,1964,½ Penny - Elizabeth II (1st portrait; without 'BRITT:OMN'),
 N# 5824,1,1964,1964,½ Penny - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,VF
 N# 5824,1,1965,1965,½ Penny - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,VF
 N# 5824,1,1967,1967,½ Penny - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,XF
-N# 870,1,1940,1940,½ Penny - George VI (with 'IND:IMP'),United Kingdom,XF
-N# 870,1,1948,1948,½ Penny - George VI (with 'IND:IMP'),United Kingdom,XF
-N# 670,1,1895,1895,1 Penny - Victoria (3rd portrait),United Kingdom,VF
-N# 670,1,1899,1899,1 Penny - Victoria (3rd portrait),United Kingdom,VF
-N# 670,2,1899,1899,1 Penny - Victoria (3rd portrait),United Kingdom,VF
-N# 670,2,1901,1901,1 Penny - Victoria (3rd portrait),United Kingdom,VF
+N# 4004,1,1935,1935,½ Penny - George V (smaller portrait),United Kingdom,XF
 N# 947,1,1797,1797,1 Penny - George III (2nd Issue; 'Cartwheel'),United Kingdom,G
 N# 8083,1,1826,1826,1 Penny - George IV (2nd issue),United Kingdom,VF
 N# 855,1,1878,1878,1 Penny - Victoria (2nd portrait; 2nd type),United Kingdom,G
 N# 855,1,1891,1891,1 Penny - Victoria (2nd portrait; 2nd type),United Kingdom,VF
+N# 670,1,1895,1895,1 Penny - Victoria (3rd portrait),United Kingdom,VF
+N# 670,1,1899,1899,1 Penny - Victoria (3rd portrait),United Kingdom,VF
+N# 670,2,1899,1899,1 Penny - Victoria (3rd portrait),United Kingdom,VF
+N# 670,2,1901,1901,1 Penny - Victoria (3rd portrait),United Kingdom,VF
 N# 857,1,1902,1902,1 Penny - Edward VII,United Kingdom,F
 N# 857,1,1907,1907,1 Penny - Edward VII,United Kingdom,VF
 N# 857,2,1910,1910,1 Penny - Edward VII,United Kingdom,F
@@ -2712,15 +2720,22 @@ N# 6899,1,1982,1982,½ Penny - Elizabeth II (2nd portrait),United Kingdom,AU
 N# 665,1,1971,1971,1 New Penny - Elizabeth II (2nd portrait),United Kingdom,XF
 N# 665,1,1971,1971,1 New Penny - Elizabeth II (2nd portrait),United Kingdom,XF
 N# 665,1,1971,1971,1 New Penny - Elizabeth II (2nd portrait),United Kingdom,
+N# 665,1,1974,1974,1 New Penny - Elizabeth II (2nd portrait),United Kingdom,VF
 N# 665,1,1976,1976,1 New Penny - Elizabeth II (2nd portrait),United Kingdom,XF
 N# 665,1,1977,1977,1 New Penny - Elizabeth II (2nd portrait),United Kingdom,XF
 N# 665,1,1977,1977,1 New Penny - Elizabeth II (2nd portrait),United Kingdom,
 N# 665,1,1978,1978,1 New Penny - Elizabeth II (2nd portrait),United Kingdom,
+N# 665,1,1980,1980,1 New Penny - Elizabeth II (2nd portrait),United Kingdom,VF
 N# 859,1,1982,1982,1 Penny - Elizabeth II (2nd portrait),United Kingdom,XF
 N# 861,1,1986,1986,1 Penny - Elizabeth II (3rd portrait; non-magnetic),United Kingdom,XF
+N# 861,1,1988,1988,1 Penny - Elizabeth II (3rd portrait; non-magnetic),United Kingdom,XF
+N# 861,1,1989,1989,1 Penny - Elizabeth II (3rd portrait; non-magnetic),United Kingdom,VF
 N# 861,1,1990,1990,1 Penny - Elizabeth II (3rd portrait; non-magnetic),United Kingdom,VF
 N# 860,1,1992,1992,1 Penny - Elizabeth II (3rd portrait; magnetic),United Kingdom,XF
+N# 860,1,1993,1993,1 Penny - Elizabeth II (3rd portrait; magnetic),United Kingdom,VF
 N# 860,2,1996,1996,1 Penny - Elizabeth II (3rd portrait; magnetic),United Kingdom,
+N# 862,1,1998,1998,1 Penny - Elizabeth II (4th portrait; magnetic),United Kingdom,XF
+N# 862,1,1999,1999,1 Penny - Elizabeth II (4th portrait; magnetic),United Kingdom,VF
 N# 862,1,2000,2000,1 Penny - Elizabeth II (4th portrait; magnetic),United Kingdom,XF
 N# 862,1,2000,2000,1 Penny - Elizabeth II (4th portrait; magnetic),United Kingdom,
 N# 862,1,2001,2001,1 Penny - Elizabeth II (4th portrait; magnetic),United Kingdom,XF
@@ -2735,6 +2750,8 @@ N# 664,1,1975,1975,2 New Pence - Elizabeth II (2nd portrait),United Kingdom,AU
 N# 664,1,1980,1980,2 New Pence - Elizabeth II (2nd portrait),United Kingdom,XF
 N# 867,1,1988,1988,2 Pence - Elizabeth II (3rd portrait; non-magnetic),United Kingdom,XF
 N# 867,1,1990,1990,2 Pence - Elizabeth II (3rd portrait; non-magnetic),United Kingdom,
+N# 868,1,1994,1994,2 Pence - Elizabeth II (3rd portrait; magnetic),United Kingdom,AU
+N# 7398,1,1999,1999,2 Pence - Elizabeth II (4th portrait; magnetic),United Kingdom,AU
 N# 7398,1,2000,2000,2 Pence - Elizabeth II (4th portrait; magnetic),United Kingdom,XF
 N# 7398,1,2003,2003,2 Pence - Elizabeth II (4th portrait; magnetic),United Kingdom,AU
 N# 7398,1,2006,2006,2 Pence - Elizabeth II (4th portrait; magnetic),United Kingdom,AU
@@ -2771,6 +2788,7 @@ N# 381565,1,2026,2026,10 Pence - Charles III (Capercaillie),United Kingdom,UNC
 N# 865,2,1982,1982,20 Pence - Elizabeth II (2nd portrait),United Kingdom,XF
 N# 865,1,1984,1984,20 Pence - Elizabeth II (2nd portrait),United Kingdom,XF
 N# 1376,2,1995,1995,20 Pence - Elizabeth II (3rd portrait),United Kingdom,XF
+N# 573,1,2000,2000,20 Pence - Elizabeth II (4th portrait; Tudor Rose),United Kingdom,XF
 N# 5628,1,2008,2008,20 Pence - Elizabeth II (4th portrait; Royal Shield),United Kingdom,AU
 N# 5628,1,2010,2010,20 Pence - Elizabeth II (4th portrait; Royal Shield),United Kingdom,
 N# 70551,1,2016,2016,20 Pence - Elizabeth II (5th portrait; Royal Shield),United Kingdom,AU
