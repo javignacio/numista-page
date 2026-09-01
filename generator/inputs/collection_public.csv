@@ -126,6 +126,7 @@ N# 2214,1,2004,2004,10 Centavos (reeded edge; non-magnetic),Argentina,
 N# 2214,1,2005,2005,10 Centavos (reeded edge; non-magnetic),Argentina,
 N# 2214,2,2006,2006,10 Centavos (reeded edge; non-magnetic),Argentina,AU
 N# 21115,1,2007,2007,10 Centavos (smooth edge; magnetic),Argentina,XF
+N# 21115,1,2009,2009,10 Centavos (smooth edge; magnetic),Argentina,VF
 N# 3256,3,1992,1992,25 Centavos,Argentina,XF
 N# 3256,1,2009,2009,25 Centavos,Argentina,AU
 N# 3256,1,2010,2010,25 Centavos,Argentina,
@@ -134,6 +135,7 @@ N# 2216,3,1994,1994,25 Centavos,Argentina,
 N# 2216,2,1996,1996,25 Centavos,Argentina,
 N# 2297,1,1992,1992,50 Centavos,Argentina,
 N# 2297,1,1993,1993,50 Centavos,Argentina,
+N# 2297,1,1994,1994,50 Centavos,Argentina,VF
 N# 2297,1,1994,1994,50 Centavos,Argentina,XF
 N# 2297,2,1994,1994,50 Centavos,Argentina,
 N# 2297,1,2009,2009,50 Centavos,Argentina,AU
@@ -197,6 +199,7 @@ N# 744,1,1978,1978,5 Groschen,Austria,AU
 N# 1903,1,1948,1948,10 Groschen,Austria,VF
 N# 654,1,1959,1959,10 Groschen,Austria,VF
 N# 654,1,1963,1963,10 Groschen,Austria,VF
+N# 654,1,1964,1964,10 Groschen,Austria,XF
 N# 654,1,1976,1976,10 Groschen,Austria,
 N# 654,1,1977,1977,10 Groschen,Austria,
 N# 654,1,1998,1998,10 Groschen,Austria,
@@ -1417,7 +1420,7 @@ N# 894,1,1952,1952,10 Francs,France,
 N# 7917,1,1950,1950,"20 Francs (signature ""GEORGES GUIRAUD"")",France,XF
 N# 686,1,1951,1951,"20 Francs (signature ""G GUIRAUD"")",France,XF
 N# 688,1,1955,1955,100 Francs,France,XF
-N# 1,1,1962,1962,1 Centime (5th republic),France,AU
+N# 1,1,1962,1962,1 Centime,France,AU
 N# 689,1,1963,1963,5 Centimes (5th republic),France,AU
 N# 2,1,1966,1966,5 Centimes,France,XF
 N# 2,1,1974,1974,5 Centimes,France,
@@ -1433,6 +1436,7 @@ N# 4,1,1993,1993,20 Centimes,France,XF
 N# 5,1,1965,1965,"½ Franc (signature ""O. Roty"")",France,XF
 N# 5,1,1975,1975,"½ Franc (signature ""O. Roty"")",France,
 N# 5,1,1978,1978,"½ Franc (signature ""O. Roty"")",France,
+N# 6,1,1961,1961,"1 Franc (Signature ""O. Roty"")",France,VF
 N# 6,1,1977,1977,"1 Franc (Signature ""O. Roty"")",France,XF
 N# 6,1,1978,1978,"1 Franc (Signature ""O. Roty"")",France,VF
 N# 7,1,1981,1981,2 Francs,France,XF
@@ -1742,6 +1746,7 @@ N# 304,1,1989,1989,100 Lire (large type),Italy,AU
 N# 723,1,1979,1979,100 Lire (FAO),Italy,AU
 N# 2551,1,1992,1992,100 Lire (small type),Italy,AU
 N# 722,2,1994,1994,100 Lire,Italy,XF
+N# 303,1,1979,1979,200 Lire,Italy,VF
 N# 303,1,1987,1987,200 Lire,Italy,XF
 N# 718,1,1980,1980,200 Lire (FAO),Italy,VF
 N# 1027,1,1989,1989,200 Lire (Taranto Naval Arsenal),Italy,AU
@@ -1946,6 +1951,7 @@ N# 1070,1,1899,1899,1 Cent,Netherlands,VF
 N# 2562,1,1948,1948,1 Cent - Wilhelmina,Netherlands,XF
 N# 733,1,1951,1951,1 Cent - Juliana,Netherlands,XF
 N# 733,1,1960,1960,1 Cent - Juliana,Netherlands,
+N# 733,1,1967,1967,1 Cent - Juliana,Netherlands,VF
 N# 733,1,1972,1972,1 Cent - Juliana,Netherlands,
 N# 1901,1,1948,1948,5 Cents - Wilhelmina,Netherlands,VF
 N# 663,1,1950,1950,5 Cents - Juliana,Netherlands,
@@ -1962,10 +1968,12 @@ N# 734,1,1950,1950,10 Cents - Juliana,Netherlands,
 N# 734,1,1955,1955,10 Cents - Juliana,Netherlands,VF
 N# 734,1,1957,1957,10 Cents - Juliana,Netherlands,
 N# 734,1,1970,1970,10 Cents - Juliana,Netherlands,XF
+N# 734,1,1971,1971,10 Cents - Juliana,Netherlands,XF
 N# 734,1,1980,1980,10 Cents - Juliana,Netherlands,
 N# 735,1,1997,1997,10 Cents - Beatrix,Netherlands,XF
 N# 1367,1,1948,1948,25 Cents - Wilhelmina,Netherlands,VF
 N# 656,1,1960,1960,25 Cents - Juliana,Netherlands,
+N# 656,1,1962,1962,25 Cents - Juliana,Netherlands,XF
 N# 656,1,1968,1968,25 Cents - Juliana,Netherlands,
 N# 656,1,1969,1969,25 Cents - Juliana,Netherlands,XF
 N# 656,1,1976,1976,25 Cents - Juliana,Netherlands,AU
@@ -2681,11 +2689,11 @@ N# 26715,1,,,1 Farthing - William III (1st and 2nd issues),England,G
 N# 316386,1,,,½ Penny - Henry III (Long Cross type; with sceptre),England,G
 N# 399832,1,,1307-1327,½ Penny - Edward II (London),England,G
 N# 334807,1,,1634-1636,1 Farthing - Charles I (Maltravers type 1; counterfeit),England,G
-N# 8484,1,,,1 Farthing - William IV,United Kingdom,VF
-N# 8484,1,1837,1837,1 Farthing - William IV,United Kingdom,VF
 N# 1013,1,1875,1875,1 Farthing - Victoria (2nd portrait; 2nd type),United Kingdom,G
 N# 1013,1,1888,1888,1 Farthing - Victoria (2nd portrait; 2nd type),United Kingdom,VF
 N# 1013,1,1894,1894,1 Farthing - Victoria (2nd portrait; 2nd type),United Kingdom,XF
+N# 8484,1,,,1 Farthing - William IV,United Kingdom,VF
+N# 8484,1,1837,1837,1 Farthing - William IV,United Kingdom,VF
 N# 5746,1,1904,1904,1 Farthing - Edward VII,United Kingdom,XF
 N# 4097,1,1916,1916,1 Farthing - George V,United Kingdom,F
 N# 4097,1,1918,1918,1 Farthing - George V,United Kingdom,F
@@ -2702,7 +2710,11 @@ N# 872,1,1860,1860,½ Penny - Victoria (2nd portrait; 1st type),United Kingdom,F
 N# 4575,1,1888,1888,½ Penny - Victoria (2nd portrait; 2nd type),United Kingdom,VF
 N# 4576,1,,,½ Penny - Victoria (3rd portrait),United Kingdom,G
 N# 1867,1,1903,1903,½ Penny - Edward VII,United Kingdom,VF
-N# 7173,1,1926,1926,½ Penny - George V (modified effigy),United Kingdom,F
+N# 871,1,1911,1911,½ Penny - George V (1st portrait),United Kingdom,VF
+N# 871,1,1912,1912,½ Penny - George V (1st portrait),United Kingdom,F
+N# 871,1,1914,1914,½ Penny - George V (1st portrait),United Kingdom,G
+N# 871,1,1916,1916,½ Penny - George V (1st portrait),United Kingdom,VF
+N# 871,1,1918,1918,½ Penny - George V (1st portrait),United Kingdom,VF
 N# 4004,1,1935,1935,½ Penny - George V (smaller portrait),United Kingdom,XF
 N# 870,1,1937,1937,½ Penny - George VI (with 'IND:IMP'),United Kingdom,VF
 N# 870,1,1939,1939,½ Penny - George VI (with 'IND:IMP'),United Kingdom,VF
@@ -2711,8 +2723,6 @@ N# 870,1,1942,1942,½ Penny - George VI (with 'IND:IMP'),United Kingdom,F
 N# 870,1,1944,1944,½ Penny - George VI (with 'IND:IMP'),United Kingdom,F
 N# 870,2,1944,1944,½ Penny - George VI (with 'IND:IMP'),United Kingdom,F
 N# 870,1,1948,1948,½ Penny - George VI (with 'IND:IMP'),United Kingdom,XF
-N# 3593,1,1949,1949,½ Penny - George VI (without 'IND:IMP'),United Kingdom,VF
-N# 3593,1,1952,1952,½ Penny - George VI (without 'IND:IMP'),United Kingdom,VF
 N# 668,2,1953,1953,½ Penny - Elizabeth II (1st portrait; with 'BRITT:OMN'),United Kingdom,F
 N# 5824,1,1956,1956,½ Penny - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,XF
 N# 5824,1,1957,1957,½ Penny - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,VF
@@ -2725,13 +2735,11 @@ N# 5824,1,1965,1965,½ Penny - Elizabeth II (1st portrait; without 'BRITT:OMN'),
 N# 5824,1,1966,1966,½ Penny - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,XF
 N# 5824,1,1967,1967,½ Penny - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,XF
 N# 5824,1,1967,1967,½ Penny - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,VF
-N# 871,1,1911,1911,½ Penny - George V (1st portrait),United Kingdom,VF
-N# 871,1,1912,1912,½ Penny - George V (1st portrait),United Kingdom,F
-N# 871,1,1914,1914,½ Penny - George V (1st portrait),United Kingdom,G
-N# 871,1,1916,1916,½ Penny - George V (1st portrait),United Kingdom,VF
-N# 871,1,1918,1918,½ Penny - George V (1st portrait),United Kingdom,VF
-N# 947,1,1797,1797,1 Penny - George III (2nd Issue; 'Cartwheel'),United Kingdom,G
+N# 7173,1,1926,1926,½ Penny - George V (modified effigy),United Kingdom,F
+N# 3593,1,1949,1949,½ Penny - George VI (without 'IND:IMP'),United Kingdom,VF
+N# 3593,1,1952,1952,½ Penny - George VI (without 'IND:IMP'),United Kingdom,VF
 N# 8083,1,1826,1826,1 Penny - George IV (2nd issue),United Kingdom,VF
+N# 947,1,1797,1797,1 Penny - George III (2nd Issue; 'Cartwheel'),United Kingdom,G
 N# 855,1,1878,1878,1 Penny - Victoria (2nd portrait; 2nd type),United Kingdom,G
 N# 855,1,1891,1891,1 Penny - Victoria (2nd portrait; 2nd type),United Kingdom,VF
 N# 670,1,1895,1895,1 Penny - Victoria (3rd portrait),United Kingdom,VF
@@ -2741,7 +2749,7 @@ N# 670,2,1901,1901,1 Penny - Victoria (3rd portrait),United Kingdom,VF
 N# 857,1,1902,1902,1 Penny - Edward VII,United Kingdom,F
 N# 857,1,1907,1907,1 Penny - Edward VII,United Kingdom,VF
 N# 857,2,1910,1910,1 Penny - Edward VII,United Kingdom,F
-N# 578,1,1912,1912,1 Penny - George V,United Kingdom,XF
+N# 578,1,1912,1912,1 Penny - George V,United Kingdom,VG
 N# 578,1,1916,1916,1 Penny - George V,United Kingdom,VF
 N# 578,1,1916,1916,1 Penny - George V,United Kingdom,F
 N# 7242,1,1927,1927,1 Penny - George V (modified effigy),United Kingdom,XF
@@ -2970,7 +2978,9 @@ N# 2356,1,1905,1905,"1 Cent ""Indian Head Cent""",United States,VF
 N# 908,1,1942,1942,"1 Cent ""Lincoln - Wheat Ears Reverse""",United States,VF
 N# 908,1,1952,1952,"1 Cent ""Lincoln - Wheat Ears Reverse""",United States,
 N# 908,1,1958,1958,"1 Cent ""Lincoln - Wheat Ears Reverse""",United States,
+N# 42,1,1963,1963,"1 Cent ""Lincoln Memorial Cent"" (Bronze)",United States,VG
 N# 42,1,1964,1964,"1 Cent ""Lincoln Memorial Cent"" (Bronze)",United States,
+N# 42,1,1964,1964,"1 Cent ""Lincoln Memorial Cent"" (Bronze)",United States,VF
 N# 42,1,1966,1966,"1 Cent ""Lincoln Memorial Cent"" (Bronze)",United States,VF
 N# 42,1,1969,1969,"1 Cent ""Lincoln Memorial Cent"" (Bronze)",United States,VF
 N# 42,1,1975,1975,"1 Cent ""Lincoln Memorial Cent"" (Bronze)",United States,
@@ -3011,8 +3021,10 @@ N# 53,1,1966,1966,"1 Dime ""Roosevelt Dime""",United States,XF
 N# 53,1,1967,1967,"1 Dime ""Roosevelt Dime""",United States,VF
 N# 53,1,1967,1967,"1 Dime ""Roosevelt Dime""",United States,VF
 N# 53,1,1970,1970,"1 Dime ""Roosevelt Dime""",United States,VF
+N# 53,1,1970,1970,"1 Dime ""Roosevelt Dime""",United States,VF
 N# 53,1,1979,1979,"1 Dime ""Roosevelt Dime""",United States,
 N# 53,1,1982,1982,"1 Dime ""Roosevelt Dime""",United States,XF
+N# 53,1,1990,1990,"1 Dime ""Roosevelt Dime""",United States,VF
 N# 53,1,2001,2001,"1 Dime ""Roosevelt Dime""",United States,
 N# 53,1,2007,2007,"1 Dime ""Roosevelt Dime""",United States,
 N# 53,1,2014,2014,"1 Dime ""Roosevelt Dime""",United States,
