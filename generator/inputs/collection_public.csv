@@ -159,6 +159,7 @@ N# 201699,1,,2019,200 Pesos,Argentina,
 N# 206624,1,,2016-2018,500 Pesos,Argentina,
 N# 375850,1,,,Casino Token - Casinos del Sur,Argentina,
 N# 3067,1,2004,2004,10 Dram,Armenia,AU
+N# 5788,1,1944,1944,1 Penny - George VI,Australia,F
 N# 1559,1,1974,1974,1 Cent - Elizabeth II (2nd Portrait),Australia,XF
 N# 1558,1,1966,1966,2 Cents - Elizabeth II (2nd Portrait),Australia,F
 N# 1558,1,1966,1966,2 Cents - Elizabeth II (2nd Portrait),Australia,XF
@@ -440,6 +441,7 @@ N# 9864,1,1937,1937,1⁄24 Shilling - George VI,Jersey,VF
 N# 9864,1,1947,1947,1⁄24 Shilling - George VI,Jersey,VF
 N# 7391,1,1923,1923,1⁄12 Shilling - George V,Jersey,XF
 N# 6082,1,,1949-1952,1⁄12 Shilling - George VI (Liberation),Jersey,XF
+N# 4091,1,1960,1960,1⁄12 Shilling - Elizabeth II (1st portrait; Charles II),Jersey,VF
 N# 5722,1,1971,1971,½ New Penny - Elizabeth II (2nd portrait),Jersey,XF
 N# 7264,1,1998,1998,1 Penny - Elizabeth II (4th portrait),Jersey,XF
 N# 7264,1,2005,2005,1 Penny - Elizabeth II (4th portrait),Jersey,AU
@@ -1698,7 +1700,17 @@ N# 3763,1,1353,1974,5 Rials - Mohammad Rezā Pahlavī,Iran,AU
 N# 3300,1,1392,1972,50 Fils,Iraq,XF
 N# 8347,1,1805,1805,½ Penny - George III,Ireland,VG
 N# 4321,1,1928,1928,1 Pingin,Ireland,VF
+N# 4321,1,1933,1933,1 Pingin,Ireland,VF
+N# 4321,1,1935,1935,1 Pingin,Ireland,VF
+N# 4321,1,1937,1937,1 Pingin,Ireland,VF
+N# 1406,1,1941,1941,1 Pingin,Ireland,VF
 N# 1406,1,1942,1942,1 Pingin,Ireland,XF
+N# 1406,1,1943,1943,1 Pingin,Ireland,VF
+N# 1406,1,1948,1948,1 Pingin,Ireland,VF
+N# 1406,1,1949,1949,1 Pingin,Ireland,VF
+N# 1406,1,1950,1950,1 Pingin,Ireland,VF
+N# 1406,1,1964,1964,1 Pingin,Ireland,VF
+N# 1406,1,1968,1968,1 Pingin,Ireland,VF
 N# 10968,1,1966,1966,1 Scilling,Ireland,VF
 N# 1002,1,1971,1971,1 Penny (non-magnetic),Ireland,XF
 N# 1002,1,1976,1976,1 Penny (non-magnetic),Ireland,XF
@@ -2010,6 +2022,7 @@ N# 146,1,2001,2001,2 Euro Cents - Beatrix,Netherlands,XF
 N# 149,1,2001,2001,20 Euro Cents - Beatrix (1st map),Netherlands,AU
 N# 149,1,2002,2002,20 Euro Cents - Beatrix (1st map),Netherlands,
 N# 152,1,2001,2001,2 Euros - Beatrix (1st map),Netherlands,XF
+N# 3919,1,1952,1952,1 Penny - George VI (2nd type),New Zealand,VF
 N# 3923,1,1954,1954,3 Pence - Elizabeth II (1st portrait),New Zealand,XF
 N# 1846,1,1967,1967,1 Cent - Elizabeth II (2nd portrait),New Zealand,XF
 N# 5215,1,1973,1973,2 Cents - Elizabeth II (2nd portrait),New Zealand,XF
@@ -2722,6 +2735,8 @@ N# 399832,1,,1307-1327,½ Penny - Edward II (London),England,G
 N# 334807,1,,1634-1636,1 Farthing - Charles I (Maltravers type 1; counterfeit),England,G
 N# 8484,1,,,1 Farthing - William IV,United Kingdom,VF
 N# 8484,1,1837,1837,1 Farthing - William IV,United Kingdom,VF
+N# 13119,1,,,1 Farthing - George II (older bust),United Kingdom,G
+N# 13162,1,,,1 Farthing - George III (3rd issue),United Kingdom,G
 N# 1013,1,1875,1875,1 Farthing - Victoria (2nd portrait; 2nd type),United Kingdom,G
 N# 1013,1,1888,1888,1 Farthing - Victoria (2nd portrait; 2nd type),United Kingdom,VF
 N# 1013,1,1894,1894,1 Farthing - Victoria (2nd portrait; 2nd type),United Kingdom,XF
@@ -2732,10 +2747,15 @@ N# 5545,1,1929,1929,1 Farthing - George V (modified effigy),United Kingdom,VF
 N# 5545,1,1931,1931,1 Farthing - George V (modified effigy),United Kingdom,XF
 N# 5545,1,1932,1932,1 Farthing - George V (modified effigy),United Kingdom,
 N# 5545,1,1933,1933,1 Farthing - George V (modified effigy),United Kingdom,VF
+N# 3310,1,1942,1942,1 Farthing - George VI (with 'IND:IMP'),United Kingdom,XF
 N# 3310,1,1947,1947,1 Farthing - George VI (with 'IND:IMP'),United Kingdom,AU
+N# 7182,1,1951,1951,1 Farthing - George VI (without 'IND:IMP'),United Kingdom,XF
 N# 7182,1,1952,1952,1 Farthing - George VI (without 'IND:IMP'),United Kingdom,AU
 N# 7396,1,1953,1953,1 Farthing - Elizabeth II (1st portrait; with 'BRITT:OMN'),United Kingdom,VF
+N# 4212,1,,,½ Penny - George III (4th issue),United Kingdom,VG
 N# 4212,1,1806,1806,½ Penny - George III (4th issue),United Kingdom,VF
+N# 4212,1,1806,1806,½ Penny - George III (4th issue),United Kingdom,G
+N# 4212,1,1806,1806,½ Penny - George III (4th issue),United Kingdom,G
 N# 12806,1,1853,1853,½ Penny - Victoria (1st portrait),United Kingdom,VF
 N# 872,1,1860,1860,½ Penny - Victoria (2nd portrait; 1st type),United Kingdom,F
 N# 4575,1,1888,1888,½ Penny - Victoria (2nd portrait; 2nd type),United Kingdom,VF
@@ -2747,7 +2767,6 @@ N# 871,1,1914,1914,½ Penny - George V (1st portrait),United Kingdom,G
 N# 871,1,1916,1916,½ Penny - George V (1st portrait),United Kingdom,VF
 N# 871,1,1918,1918,½ Penny - George V (1st portrait),United Kingdom,VF
 N# 7173,1,1926,1926,½ Penny - George V (modified effigy),United Kingdom,F
-N# 4004,1,1935,1935,½ Penny - George V (smaller portrait),United Kingdom,XF
 N# 870,1,1937,1937,½ Penny - George VI (with 'IND:IMP'),United Kingdom,VF
 N# 870,1,1939,1939,½ Penny - George VI (with 'IND:IMP'),United Kingdom,VF
 N# 870,1,1940,1940,½ Penny - George VI (with 'IND:IMP'),United Kingdom,XF
@@ -2757,6 +2776,8 @@ N# 870,2,1944,1944,½ Penny - George VI (with 'IND:IMP'),United Kingdom,F
 N# 870,1,1948,1948,½ Penny - George VI (with 'IND:IMP'),United Kingdom,XF
 N# 3593,1,1949,1949,½ Penny - George VI (without 'IND:IMP'),United Kingdom,VF
 N# 3593,1,1952,1952,½ Penny - George VI (without 'IND:IMP'),United Kingdom,VF
+N# 668,2,1953,1953,½ Penny - Elizabeth II (1st portrait; with 'BRITT:OMN'),United Kingdom,F
+N# 4004,1,1935,1935,½ Penny - George V (smaller portrait),United Kingdom,XF
 N# 5824,1,1956,1956,½ Penny - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,XF
 N# 5824,1,1957,1957,½ Penny - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,VF
 N# 5824,1,1959,1959,½ Penny - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,AU
@@ -2768,37 +2789,58 @@ N# 5824,1,1965,1965,½ Penny - Elizabeth II (1st portrait; without 'BRITT:OMN'),
 N# 5824,1,1966,1966,½ Penny - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,XF
 N# 5824,1,1967,1967,½ Penny - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,XF
 N# 5824,1,1967,1967,½ Penny - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,VF
-N# 668,2,1953,1953,½ Penny - Elizabeth II (1st portrait; with 'BRITT:OMN'),United Kingdom,F
-N# 578,1,1912,1912,1 Penny - George V,United Kingdom,VG
-N# 578,1,1916,1916,1 Penny - George V,United Kingdom,VF
-N# 578,1,1916,1916,1 Penny - George V,United Kingdom,F
-N# 858,1,1963,1963,1 Penny - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,VF
-N# 858,1,1964,1964,1 Penny - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,XF
-N# 858,1,1965,1965,1 Penny - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,XF
-N# 858,1,1967,1967,1 Penny - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,AU
-N# 858,1,1967,1967,1 Penny - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,VF
+N# 81404,1,1812,1812,1 Penny (Birmingham - Union Copper Company),United Kingdom,G
+N# 7604,1,1949,1949,1 Penny - George VI (without 'IND:IMP'),United Kingdom,AU
 N# 947,1,1797,1797,1 Penny - George III (2nd Issue; 'Cartwheel'),United Kingdom,G
+N# 12981,1,,,1 Penny - George III (4th Issue),United Kingdom,G
+N# 8083,1,,,1 Penny - George IV (2nd issue),United Kingdom,G
 N# 8083,1,1826,1826,1 Penny - George IV (2nd issue),United Kingdom,VF
+N# 3377,1,1860,1860,1 Penny - Victoria (2nd portrait; 1st type),United Kingdom,G
+N# 3377,1,1861,1861,1 Penny - Victoria (2nd portrait; 1st type),United Kingdom,G
+N# 3377,1,1862,1862,1 Penny - Victoria (2nd portrait; 1st type),United Kingdom,G
+N# 3377,1,1863,1863,1 Penny - Victoria (2nd portrait; 1st type),United Kingdom,G
+N# 3377,1,1864,1864,1 Penny - Victoria (2nd portrait; 1st type),United Kingdom,G
+N# 3377,1,1865,1865,1 Penny - Victoria (2nd portrait; 1st type),United Kingdom,G
+N# 3377,1,1866,1866,1 Penny - Victoria (2nd portrait; 1st type),United Kingdom,G
+N# 3377,1,1867,1867,1 Penny - Victoria (2nd portrait; 1st type),United Kingdom,G
+N# 3377,1,1868,1868,1 Penny - Victoria (2nd portrait; 1st type),United Kingdom,G
+N# 3377,1,1870,1870,1 Penny - Victoria (2nd portrait; 1st type),United Kingdom,G
+N# 3377,1,1871,1871,1 Penny - Victoria (2nd portrait; 1st type),United Kingdom,G
+N# 3377,1,1873,1873,1 Penny - Victoria (2nd portrait; 1st type),United Kingdom,VG
 N# 855,1,1878,1878,1 Penny - Victoria (2nd portrait; 2nd type),United Kingdom,G
 N# 855,1,1891,1891,1 Penny - Victoria (2nd portrait; 2nd type),United Kingdom,VF
 N# 670,1,1895,1895,1 Penny - Victoria (3rd portrait),United Kingdom,VF
+N# 670,1,1896,1896,1 Penny - Victoria (3rd portrait),United Kingdom,F
 N# 670,1,1899,1899,1 Penny - Victoria (3rd portrait),United Kingdom,VF
 N# 670,2,1899,1899,1 Penny - Victoria (3rd portrait),United Kingdom,VF
 N# 670,2,1901,1901,1 Penny - Victoria (3rd portrait),United Kingdom,VF
 N# 857,1,1902,1902,1 Penny - Edward VII,United Kingdom,F
 N# 857,1,1907,1907,1 Penny - Edward VII,United Kingdom,VF
 N# 857,2,1910,1910,1 Penny - Edward VII,United Kingdom,F
+N# 578,1,1912,1912,1 Penny - George V,United Kingdom,F
+N# 578,1,1912,1912,1 Penny - George V,United Kingdom,VG
+N# 578,1,1912,1912,1 Penny - George V,United Kingdom,VG
+N# 578,1,1916,1916,1 Penny - George V,United Kingdom,VF
+N# 578,1,1916,1916,1 Penny - George V,United Kingdom,F
+N# 578,1,1918,1918,1 Penny - George V,United Kingdom,F
 N# 7242,1,1927,1927,1 Penny - George V (modified effigy),United Kingdom,XF
 N# 5985,1,1928,1928,1 Penny - George V (smaller portrait),United Kingdom,XF
 N# 5985,1,1930,1930,1 Penny - George V (smaller portrait),United Kingdom,VF
+N# 5985,1,1936,1936,1 Penny - George V (smaller portrait),United Kingdom,VF
 N# 669,1,1938,1938,1 Penny - George VI (with 'IND:IMP'),United Kingdom,VF
 N# 669,1,1940,1940,1 Penny - George VI (with 'IND:IMP'),United Kingdom,VF
 N# 669,1,1945,1945,1 Penny - George VI (with 'IND:IMP'),United Kingdom,XF
 N# 669,1,1945,1945,1 Penny - George VI (with 'IND:IMP'),United Kingdom,VF
 N# 669,1,1948,1948,1 Penny - George VI (with 'IND:IMP'),United Kingdom,F
 N# 669,2,1948,1948,1 Penny - George VI (with 'IND:IMP'),United Kingdom,F
-N# 7604,1,1949,1949,1 Penny - George VI (without 'IND:IMP'),United Kingdom,AU
 N# 6347,1,1953,1953,1 Penny - Elizabeth II (1st portrait; with 'BRITT:OMN'),United Kingdom,XF
+N# 858,1,1962,1962,1 Penny - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,VF
+N# 858,1,1963,1963,1 Penny - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,XF
+N# 858,1,1963,1963,1 Penny - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,VF
+N# 858,1,1964,1964,1 Penny - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,XF
+N# 858,1,1965,1965,1 Penny - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,XF
+N# 858,1,1967,1967,1 Penny - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,AU
+N# 858,1,1967,1967,1 Penny - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,VF
 N# 1287,1,1797,1797,2 Pence - George III (2nd issue; 'Cartwheel'),United Kingdom,G
 N# 21182,1,1911,1911,3 Pence - George V (1st issue; incl. Maundy),United Kingdom,VF
 N# 21182,1,1916,1916,3 Pence - George V (1st issue; incl. Maundy),United Kingdom,VF
@@ -2823,6 +2865,7 @@ N# 575,1,1928,1928,6 Pence - George V (4th coinage),United Kingdom,VF
 N# 4003,1,1948,1948,6 Pence - George VI (2nd coinage),United Kingdom,XF
 N# 4003,1,1948,1948,6 Pence - George VI (2nd coinage),United Kingdom,VF
 N# 877,1,1949,1949,6 Pence - George VI (3rd coinage),United Kingdom,XF
+N# 6984,1,1953,1953,6 Pence - Elizabeth II (1st portrait; with 'BRITT:OMN'),United Kingdom,VF
 N# 576,1,1954,1954,6 Pence - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,XF
 N# 576,1,1954,1954,6 Pence - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,
 N# 576,1,1958,1958,6 Pence - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,VF
@@ -2844,6 +2887,7 @@ N# 3334,1,1949,1949,1 Shilling - George VI (English crest; without 'IND:IMP'),Un
 N# 3334,1,1951,1951,1 Shilling - George VI (English crest; without 'IND:IMP'),United Kingdom,XF
 N# 3334,1,1951,1951,1 Shilling - George VI (English crest; without 'IND:IMP'),United Kingdom,XF
 N# 7183,1,1953,1953,1 Shilling - Elizabeth II (English shield; with 'BRITT:OMN'),United Kingdom,XF
+N# 8254,1,1953,1953,1 Shilling - Elizabeth II (Scottish shield; with 'BRITT:OMN'),United Kingdom,VF
 N# 882,1,1954,1954,1 Shilling - Elizabeth II (English shield; without 'BRITT:OMN'),United Kingdom,VF
 N# 882,1,1959,1959,1 Shilling - Elizabeth II (English shield; without 'BRITT:OMN'),United Kingdom,XF
 N# 882,1,1960,1960,1 Shilling - Elizabeth II (English shield; without 'BRITT:OMN'),United Kingdom,VF
@@ -2879,6 +2923,7 @@ N# 6898,1,1965,1965,1 Crown - Elizabeth II (Churchill),United Kingdom,AU
 N# 6898,1,1965,1965,1 Crown - Elizabeth II (Churchill),United Kingdom,XF
 N# 856,1,1971,1971,½ New Penny - Elizabeth II (2nd portrait),United Kingdom,XF
 N# 856,1,1971,1971,½ New Penny - Elizabeth II (2nd portrait),United Kingdom,VF
+N# 856,1,1971,1971,½ New Penny - Elizabeth II (2nd portrait),United Kingdom,XF
 N# 856,1,1974,1974,½ New Penny - Elizabeth II (2nd portrait),United Kingdom,XF
 N# 856,1,1975,1975,½ New Penny - Elizabeth II (2nd portrait),United Kingdom,XF
 N# 856,1,1976,1976,½ New Penny - Elizabeth II (2nd portrait),United Kingdom,XF
@@ -2892,37 +2937,71 @@ N# 6899,1,1982,1982,½ Penny - Elizabeth II (2nd portrait),United Kingdom,AU
 N# 665,1,1971,1971,1 New Penny - Elizabeth II (2nd portrait),United Kingdom,XF
 N# 665,1,1971,1971,1 New Penny - Elizabeth II (2nd portrait),United Kingdom,XF
 N# 665,1,1971,1971,1 New Penny - Elizabeth II (2nd portrait),United Kingdom,
+N# 665,1,1971,1971,1 New Penny - Elizabeth II (2nd portrait),United Kingdom,XF
+N# 665,1,1973,1973,1 New Penny - Elizabeth II (2nd portrait),United Kingdom,VF
 N# 665,1,1974,1974,1 New Penny - Elizabeth II (2nd portrait),United Kingdom,VF
+N# 665,1,1975,1975,1 New Penny - Elizabeth II (2nd portrait),United Kingdom,VF
 N# 665,1,1976,1976,1 New Penny - Elizabeth II (2nd portrait),United Kingdom,XF
 N# 665,1,1977,1977,1 New Penny - Elizabeth II (2nd portrait),United Kingdom,XF
 N# 665,1,1977,1977,1 New Penny - Elizabeth II (2nd portrait),United Kingdom,
 N# 665,1,1978,1978,1 New Penny - Elizabeth II (2nd portrait),United Kingdom,
+N# 665,1,1979,1979,1 New Penny - Elizabeth II (2nd portrait),United Kingdom,VF
 N# 665,1,1980,1980,1 New Penny - Elizabeth II (2nd portrait),United Kingdom,VF
 N# 665,1,1981,1981,1 New Penny - Elizabeth II (2nd portrait),United Kingdom,XF
 N# 859,1,1982,1982,1 Penny - Elizabeth II (2nd portrait),United Kingdom,XF
+N# 859,1,1983,1983,1 Penny - Elizabeth II (2nd portrait),United Kingdom,VF
+N# 859,1,1984,1984,1 Penny - Elizabeth II (2nd portrait),United Kingdom,VF
+N# 861,1,1985,1985,1 Penny - Elizabeth II (3rd portrait; non-magnetic),United Kingdom,VF
 N# 861,1,1986,1986,1 Penny - Elizabeth II (3rd portrait; non-magnetic),United Kingdom,XF
+N# 861,1,1987,1987,1 Penny - Elizabeth II (3rd portrait; non-magnetic),United Kingdom,VF
 N# 861,1,1988,1988,1 Penny - Elizabeth II (3rd portrait; non-magnetic),United Kingdom,XF
 N# 861,1,1989,1989,1 Penny - Elizabeth II (3rd portrait; non-magnetic),United Kingdom,VF
 N# 861,1,1990,1990,1 Penny - Elizabeth II (3rd portrait; non-magnetic),United Kingdom,VF
+N# 861,1,1991,1991,1 Penny - Elizabeth II (3rd portrait; non-magnetic),United Kingdom,VF
 N# 860,1,1992,1992,1 Penny - Elizabeth II (3rd portrait; magnetic),United Kingdom,XF
 N# 860,1,1993,1993,1 Penny - Elizabeth II (3rd portrait; magnetic),United Kingdom,VF
+N# 860,1,1994,1994,1 Penny - Elizabeth II (3rd portrait; magnetic),United Kingdom,XF
+N# 860,1,1995,1995,1 Penny - Elizabeth II (3rd portrait; magnetic),United Kingdom,VF
 N# 860,2,1996,1996,1 Penny - Elizabeth II (3rd portrait; magnetic),United Kingdom,
+N# 860,1,1997,1997,1 Penny - Elizabeth II (3rd portrait; magnetic),United Kingdom,VF
 N# 862,1,1998,1998,1 Penny - Elizabeth II (4th portrait; magnetic),United Kingdom,XF
 N# 862,1,1999,1999,1 Penny - Elizabeth II (4th portrait; magnetic),United Kingdom,VF
 N# 862,1,2000,2000,1 Penny - Elizabeth II (4th portrait; magnetic),United Kingdom,XF
 N# 862,1,2000,2000,1 Penny - Elizabeth II (4th portrait; magnetic),United Kingdom,
 N# 862,1,2001,2001,1 Penny - Elizabeth II (4th portrait; magnetic),United Kingdom,XF
 N# 862,1,2001,2001,1 Penny - Elizabeth II (4th portrait; magnetic),United Kingdom,
+N# 862,1,2002,2002,1 Penny - Elizabeth II (4th portrait; magnetic),United Kingdom,AU
 N# 862,1,2003,2003,1 Penny - Elizabeth II (4th portrait; magnetic),United Kingdom,
 N# 862,2,2004,2004,1 Penny - Elizabeth II (4th portrait; magnetic),United Kingdom,AU
 N# 862,1,2005,2005,1 Penny - Elizabeth II (4th portrait; magnetic),United Kingdom,
+N# 862,1,2006,2006,1 Penny - Elizabeth II (4th portrait; magnetic),United Kingdom,AU
+N# 862,1,2007,2007,1 Penny - Elizabeth II (4th portrait; magnetic),United Kingdom,AU
+N# 862,1,2008,2008,1 Penny - Elizabeth II (4th portrait; magnetic),United Kingdom,AU
 N# 4038,1,2008,2008,1 Penny - Elizabeth II (4th portrait; Royal Shield),United Kingdom,AU
+N# 4038,1,2009,2009,1 Penny - Elizabeth II (4th portrait; Royal Shield),United Kingdom,AU
+N# 4038,1,2010,2010,1 Penny - Elizabeth II (4th portrait; Royal Shield),United Kingdom,AU
+N# 4038,1,2011,2011,1 Penny - Elizabeth II (4th portrait; Royal Shield),United Kingdom,AU
+N# 4038,1,2012,2012,1 Penny - Elizabeth II (4th portrait; Royal Shield),United Kingdom,AU
+N# 4038,1,2013,2013,1 Penny - Elizabeth II (4th portrait; Royal Shield),United Kingdom,AU
 N# 4038,1,2014,2014,1 Penny - Elizabeth II (4th portrait; Royal Shield),United Kingdom,
+N# 4038,1,2015,2015,1 Penny - Elizabeth II (4th portrait; Royal Shield),United Kingdom,AU
+N# 70543,1,2015,2015,1 Penny - Elizabeth II (5th portrait; Royal Shield),United Kingdom,XF
+N# 70543,1,2016,2016,1 Penny - Elizabeth II (5th portrait; Royal Shield),United Kingdom,XF
+N# 70543,1,2017,2017,1 Penny - Elizabeth II (5th portrait; Royal Shield),United Kingdom,AU
+N# 70543,1,2020,2020,1 Penny - Elizabeth II (5th portrait; Royal Shield),United Kingdom,XF
 N# 381560,1,2026,2026,1 Penny - Charles III (Hazel Dormouse),United Kingdom,UNC
+N# 664,1,1971,1971,2 New Pence - Elizabeth II (2nd portrait),United Kingdom,VF
+N# 664,1,1971,1971,2 New Pence - Elizabeth II (2nd portrait),United Kingdom,XF
 N# 664,1,1975,1975,2 New Pence - Elizabeth II (2nd portrait),United Kingdom,AU
+N# 664,1,1977,1977,2 New Pence - Elizabeth II (2nd portrait),United Kingdom,VF
+N# 664,1,1978,1978,2 New Pence - Elizabeth II (2nd portrait),United Kingdom,VF
+N# 664,1,1979,1979,2 New Pence - Elizabeth II (2nd portrait),United Kingdom,VF
 N# 664,1,1980,1980,2 New Pence - Elizabeth II (2nd portrait),United Kingdom,XF
 N# 664,1,1981,1981,2 New Pence - Elizabeth II (2nd portrait),United Kingdom,XF
+N# 867,1,1985,1985,2 Pence - Elizabeth II (3rd portrait; non-magnetic),United Kingdom,VF
+N# 867,1,1986,1986,2 Pence - Elizabeth II (3rd portrait; non-magnetic),United Kingdom,VF
 N# 867,1,1988,1988,2 Pence - Elizabeth II (3rd portrait; non-magnetic),United Kingdom,XF
+N# 867,1,1989,1989,2 Pence - Elizabeth II (3rd portrait; non-magnetic),United Kingdom,VF
 N# 867,1,1990,1990,2 Pence - Elizabeth II (3rd portrait; non-magnetic),United Kingdom,
 N# 868,1,1994,1994,2 Pence - Elizabeth II (3rd portrait; magnetic),United Kingdom,AU
 N# 7398,1,1999,1999,2 Pence - Elizabeth II (4th portrait; magnetic),United Kingdom,AU
@@ -2931,7 +3010,13 @@ N# 7398,1,2003,2003,2 Pence - Elizabeth II (4th portrait; magnetic),United Kingd
 N# 7398,1,2006,2006,2 Pence - Elizabeth II (4th portrait; magnetic),United Kingdom,AU
 N# 4039,1,2008,2008,2 Pence - Elizabeth II (4th portrait; Royal Shield),United Kingdom,AU
 N# 4039,1,2014,2014,2 Pence - Elizabeth II (4th portrait; Royal Shield),United Kingdom,
+N# 4039,1,2015,2015,2 Pence - Elizabeth II (4th portrait; Royal Shield),United Kingdom,XF
+N# 70544,1,2015,2015,2 Pence - Elizabeth II (5th portrait; Royal Shield),United Kingdom,XF
+N# 70544,1,2016,2016,2 Pence - Elizabeth II (5th portrait; Royal Shield),United Kingdom,AU
+N# 70544,1,2017,2017,2 Pence - Elizabeth II (5th portrait; Royal Shield),United Kingdom,XF
+N# 70544,1,2021,2021,2 Pence - Elizabeth II (5th portrait; Royal Shield),United Kingdom,XF
 N# 381562,1,2026,2026,2 Pence - Charles III (Red Squirrel),United Kingdom,UNC
+N# 873,1,1968,1968,5 New Pence - Elizabeth II (2nd portrait),United Kingdom,XF
 N# 873,1,1970,1970,5 New Pence - Elizabeth II (2nd portrait),United Kingdom,AU
 N# 873,1,1980,1980,5 New Pence - Elizabeth II (2nd portrait),United Kingdom,AU
 N# 873,1,1980,1980,5 New Pence - Elizabeth II (2nd portrait),United Kingdom,AU
@@ -2949,6 +3034,7 @@ N# 25766,1,2012,2012,"5 Pence - Elizabeth II (4th portrait; Royal Shield, magnet
 N# 25766,1,2013,2013,"5 Pence - Elizabeth II (4th portrait; Royal Shield, magnetic)",United Kingdom,
 N# 70547,1,2015,2015,5 Pence - Elizabeth II (5th portrait; Royal Shield),United Kingdom,AU
 N# 381563,1,2026,2026,5 Pence - Charles III (Oak Sprig),United Kingdom,UNC
+N# 878,1,1968,1968,10 New Pence - Elizabeth II (2nd portrait),United Kingdom,XF
 N# 878,1,1969,1969,10 New Pence - Elizabeth II (2nd portrait),United Kingdom,XF
 N# 878,1,1975,1975,10 New Pence - Elizabeth II (2nd portrait),United Kingdom,AU
 N# 878,1,1976,1976,10 New Pence - Elizabeth II (2nd portrait),United Kingdom,AU
@@ -2958,6 +3044,12 @@ N# 879,1,1996,1996,10 Pence - Elizabeth II (3rd portrait; small type),United Kin
 N# 2236,1,2001,2001,10 Pence - Elizabeth II (4th portrait; Crowned Lion),United Kingdom,AU
 N# 7350,1,2008,2008,"10 Pence - Elizabeth II (4th portrait; Royal Shield, non-magnetic)",United Kingdom,AU
 N# 25746,1,2015,2015,"10 Pence - Elizabeth II (4th portrait; Royal Shield, magnetic)",United Kingdom,XF
+N# 70549,1,2015,2015,10 Pence - Elizabeth II (5th portrait; Royal Shield),United Kingdom,XF
+N# 70549,1,2016,2016,10 Pence - Elizabeth II (5th portrait; Royal Shield),United Kingdom,AU
+N# 70549,1,2017,2017,10 Pence - Elizabeth II (5th portrait; Royal Shield),United Kingdom,AU
+N# 70549,1,2020,2020,10 Pence - Elizabeth II (5th portrait; Royal Shield),United Kingdom,AU
+N# 70549,1,2021,2021,10 Pence - Elizabeth II (5th portrait; Royal Shield),United Kingdom,XF
+N# 70549,1,2022,2022,10 Pence - Elizabeth II (5th portrait; Royal Shield),United Kingdom,AU
 N# 381565,1,2026,2026,10 Pence - Charles III (Capercaillie),United Kingdom,UNC
 N# 865,2,1982,1982,20 Pence - Elizabeth II (2nd portrait),United Kingdom,XF
 N# 865,1,1984,1984,20 Pence - Elizabeth II (2nd portrait),United Kingdom,XF
@@ -2987,6 +3079,12 @@ N# 20700,2,1997,1997,50 Pence - Elizabeth II (3rd portrait; small type),United K
 N# 864,1,1998,1998,50 Pence - Elizabeth II (4th portrait; Britannia),United Kingdom,XF
 N# 5629,2,2008,2008,50 Pence - Elizabeth II (4th portrait; Royal Shield),United Kingdom,AU
 N# 27054,1,2011,2011,50 Pence - Elizabeth II (4th portrait; WWF),United Kingdom,XF
+N# 70552,1,2019,2019,50 Pence - Elizabeth II (5th portrait; Royal Shield),United Kingdom,XF
+N# 70552,1,2020,2020,50 Pence - Elizabeth II (5th portrait; Royal Shield),United Kingdom,AU
+N# 125497,1,2017,2017,50 Pence - Elizabeth II (5th portrait; Benjamin Bunny),United Kingdom,XF
+N# 157175,1,2019,2019,50 Pence - Elizabeth II (5th Portrait; Sherlock Holmes),United Kingdom,AU
+N# 317727,1,2022,2022,50 Pence - Elizabeth II (5th portrait; Platinum Jubilee),United Kingdom,AU
+N# 341998,1,2022,2022,50 Pence - Charles III (Life and legacy of the Queen),United Kingdom,AU
 N# 381569,1,2026,2026,50 Pence - Charles III (Atlantic Salmon),United Kingdom,UNC
 N# 1389,1,1983,1983,1 Pound - Elizabeth II (2nd portrait; Royal Arms),United Kingdom,XF
 N# 863,1,1985,1985,1 Pound - Elizabeth II (3rd portrait; Welsh Leek),United Kingdom,XF
@@ -2996,8 +3094,10 @@ N# 5630,1,2012,2012,1 Pound - Elizabeth II (4th portrait; Royal Shield),United K
 N# 100658,1,2017,2017,1 Pound - Elizabeth II (5th portrait; Nations of the Crown),United Kingdom,XF
 N# 100658,1,2017,2017,1 Pound - Elizabeth II (5th portrait; Nations of the Crown),United Kingdom,
 N# 381571,1,2026,2026,1 Pound - Charles III (Honey Bees),United Kingdom,UNC
+N# 10574,1,1997,1997,2 Pounds - Elizabeth II (3rd portrait; Technology),United Kingdom,XF
 N# 1324,1,2000,2000,2 Pounds - Elizabeth II (4th portrait; Technology),United Kingdom,AU
 N# 10596,1,1999,1999,2 Pounds - Elizabeth II (4th portrait; Rugby World Cup),United Kingdom,XF
+N# 70398,1,2016,2016,2 Pounds - Elizabeth II (5th portrait; Britannia),United Kingdom,XF
 N# 381573,1,2026,2026,2 Pounds - Charles III (English Rose),United Kingdom,UNC
 N# 13622,1,1997,1997,5 Pounds - Elizabeth II (Golden Wedding),United Kingdom,UNC
 N# 226269,1,1902,1902,Medalet - Edward VII and Alexandra (Coronation; Barratt and Co.),United Kingdom,F
