@@ -442,8 +442,8 @@ N# 3734,1,1991,1991,5 Pence - Elizabeth II (Windsurfing; reduced size),Isle of M
 N# 10733,1,1975,1975,10 New Pence - Elizabeth II (Three Legs of Man),Isle of Man,XF
 N# 9864,1,1937,1937,1⁄24 Shilling - George VI,Jersey,VF
 N# 9864,1,1947,1947,1⁄24 Shilling - George VI,Jersey,VF
-N# 7391,1,1923,1923,1⁄12 Shilling - George V,Jersey,XF
 N# 6082,1,,1949-1952,1⁄12 Shilling - George VI (Liberation),Jersey,XF
+N# 7391,1,1923,1923,1⁄12 Shilling - George V,Jersey,XF
 N# 4091,1,1960,1960,1⁄12 Shilling - Elizabeth II (1st portrait; Charles II),Jersey,VF
 N# 5722,1,1971,1971,½ New Penny - Elizabeth II (2nd portrait),Jersey,XF
 N# 7264,1,1998,1998,1 Penny - Elizabeth II (4th portrait),Jersey,XF
@@ -507,7 +507,7 @@ N# 305,1,1971,1971,"50 Cents - Elizabeth II (2nd portrait, Nickel)",Canada,XF
 N# 465,1,1987,1987,1 Dollar - Elizabeth II (2nd portrait),Canada,AU
 N# 25833,1,2011,2011,1 Dollar - Elizabeth II (Centenary of Parks Canada),Canada,AU
 N# 244642,1,2020,2020,1 Dollar - Elizabeth II (UN Charter; colored),Canada,AU
-N# 30139,1,2008,2008,"2 Dollars - Elizabeth II (Polar bear, date on top)",Canada,XF
+N# 30139,1,2008,2008,2 Dollars - Elizabeth II (4th portrait; RCM logo),Canada,XF
 N# 232479,1,2020,2020,2 Dollars - Elizabeth II (Bill Reid),Canada,AU
 N# 1021,1,1941,1941,1 Cent - George VI,Newfoundland,XF
 N# 2560,1,1994,1994,"20 Escudos (Sailing ship ""Novas de Alegria"")",Cape Verde,XF
@@ -528,6 +528,7 @@ N# 27141,1,1846,1846,2 Reales (small type),Chile,F
 N# 12684,1,1835,1835,½ Centavo,Chile,F
 N# 35343,1,1851,1851,½ Centavo,Chile,G
 N# 20970,1,1853,1853,½ Centavo,Chile,F
+N# 27145,1,,,½ Centavo,Chile,G
 N# 27145,1,1873,1873,½ Centavo,Chile,VG
 N# 3441,1,1883,1883,½ Centavo,Chile,VF
 N# 17295,1,1835,1835,1 Centavo (Thick Planchet),Chile,VF
@@ -2746,8 +2747,10 @@ N# 26715,1,,,1 Farthing - William III (1st and 2nd issues),England,G
 N# 316386,1,,,½ Penny - Henry III (Long Cross type; with sceptre),England,G
 N# 399832,1,,1307-1327,½ Penny - Edward II (London),England,G
 N# 334807,1,,1634-1636,1 Farthing - Charles I (Maltravers type 1; counterfeit),England,G
-N# 13119,1,,,1 Farthing - George II (older bust),United Kingdom,G
 N# 13162,1,,,1 Farthing - George III (3rd issue),United Kingdom,G
+N# 7182,1,1951,1951,1 Farthing - George VI (without 'IND:IMP'),United Kingdom,XF
+N# 7182,1,1952,1952,1 Farthing - George VI (without 'IND:IMP'),United Kingdom,AU
+N# 13119,1,,,1 Farthing - George II (older bust),United Kingdom,G
 N# 8484,1,,,1 Farthing - William IV,United Kingdom,VF
 N# 8484,1,1837,1837,1 Farthing - William IV,United Kingdom,VF
 N# 1013,1,1875,1875,1 Farthing - Victoria (2nd portrait; 2nd type),United Kingdom,G
@@ -2762,15 +2765,8 @@ N# 5545,1,1932,1932,1 Farthing - George V (modified effigy),United Kingdom,
 N# 5545,1,1933,1933,1 Farthing - George V (modified effigy),United Kingdom,VF
 N# 3310,1,1942,1942,1 Farthing - George VI (with 'IND:IMP'),United Kingdom,XF
 N# 3310,1,1947,1947,1 Farthing - George VI (with 'IND:IMP'),United Kingdom,AU
-N# 7182,1,1951,1951,1 Farthing - George VI (without 'IND:IMP'),United Kingdom,XF
-N# 7182,1,1952,1952,1 Farthing - George VI (without 'IND:IMP'),United Kingdom,AU
 N# 7396,1,1953,1953,1 Farthing - Elizabeth II (1st portrait; with 'BRITT:OMN'),United Kingdom,VF
-N# 4212,1,,,½ Penny - George III (4th issue),United Kingdom,VG
-N# 4212,1,1806,1806,½ Penny - George III (4th issue),United Kingdom,VF
-N# 4212,1,1806,1806,½ Penny - George III (4th issue),United Kingdom,G
-N# 4212,1,1806,1806,½ Penny - George III (4th issue),United Kingdom,G
 N# 12806,1,1853,1853,½ Penny - Victoria (1st portrait),United Kingdom,VF
-N# 872,1,1860,1860,½ Penny - Victoria (2nd portrait; 1st type),United Kingdom,F
 N# 4575,1,1888,1888,½ Penny - Victoria (2nd portrait; 2nd type),United Kingdom,VF
 N# 4576,1,,,½ Penny - Victoria (3rd portrait),United Kingdom,G
 N# 1867,1,1903,1903,½ Penny - Edward VII,United Kingdom,VF
@@ -2790,6 +2786,7 @@ N# 870,2,1944,1944,½ Penny - George VI (with 'IND:IMP'),United Kingdom,F
 N# 870,1,1948,1948,½ Penny - George VI (with 'IND:IMP'),United Kingdom,XF
 N# 3593,1,1949,1949,½ Penny - George VI (without 'IND:IMP'),United Kingdom,VF
 N# 3593,1,1952,1952,½ Penny - George VI (without 'IND:IMP'),United Kingdom,VF
+N# 668,2,1953,1953,½ Penny - Elizabeth II (1st portrait; with 'BRITT:OMN'),United Kingdom,F
 N# 5824,1,1956,1956,½ Penny - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,XF
 N# 5824,1,1957,1957,½ Penny - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,VF
 N# 5824,1,1959,1959,½ Penny - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,AU
@@ -2801,20 +2798,12 @@ N# 5824,1,1965,1965,½ Penny - Elizabeth II (1st portrait; without 'BRITT:OMN'),
 N# 5824,1,1966,1966,½ Penny - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,XF
 N# 5824,1,1967,1967,½ Penny - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,XF
 N# 5824,1,1967,1967,½ Penny - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,VF
-N# 668,2,1953,1953,½ Penny - Elizabeth II (1st portrait; with 'BRITT:OMN'),United Kingdom,F
-N# 578,1,1912,1912,1 Penny - George V,United Kingdom,F
-N# 578,1,1912,1912,1 Penny - George V,United Kingdom,VG
-N# 578,1,1912,1912,1 Penny - George V,United Kingdom,VG
-N# 578,1,1916,1916,1 Penny - George V,United Kingdom,VF
-N# 578,1,1916,1916,1 Penny - George V,United Kingdom,F
-N# 578,1,1918,1918,1 Penny - George V,United Kingdom,F
-N# 858,1,1962,1962,1 Penny - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,VF
-N# 858,1,1963,1963,1 Penny - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,XF
-N# 858,1,1963,1963,1 Penny - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,VF
-N# 858,1,1964,1964,1 Penny - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,XF
-N# 858,1,1965,1965,1 Penny - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,XF
-N# 858,1,1967,1967,1 Penny - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,AU
-N# 858,1,1967,1967,1 Penny - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,VF
+N# 4212,1,,,½ Penny - George III (4th issue),United Kingdom,VG
+N# 4212,1,1806,1806,½ Penny - George III (4th issue),United Kingdom,VF
+N# 4212,1,1806,1806,½ Penny - George III (4th issue),United Kingdom,G
+N# 4212,1,1806,1806,½ Penny - George III (4th issue),United Kingdom,G
+N# 872,1,1860,1860,½ Penny - Victoria (2nd portrait; 1st type),United Kingdom,F
+N# 7242,1,1927,1927,1 Penny - George V (modified effigy),United Kingdom,XF
 N# 947,1,1797,1797,1 Penny - George III (2nd Issue; 'Cartwheel'),United Kingdom,G
 N# 12981,1,,,1 Penny - George III (4th Issue),United Kingdom,G
 N# 81404,1,1812,1812,1 Penny (Birmingham - Union Copper Company),United Kingdom,G
@@ -2842,7 +2831,12 @@ N# 670,2,1901,1901,1 Penny - Victoria (3rd portrait),United Kingdom,VF
 N# 857,1,1902,1902,1 Penny - Edward VII,United Kingdom,F
 N# 857,1,1907,1907,1 Penny - Edward VII,United Kingdom,VF
 N# 857,2,1910,1910,1 Penny - Edward VII,United Kingdom,F
-N# 7242,1,1927,1927,1 Penny - George V (modified effigy),United Kingdom,XF
+N# 578,1,1912,1912,1 Penny - George V,United Kingdom,F
+N# 578,1,1912,1912,1 Penny - George V,United Kingdom,VG
+N# 578,1,1912,1912,1 Penny - George V,United Kingdom,VG
+N# 578,1,1916,1916,1 Penny - George V,United Kingdom,VF
+N# 578,1,1916,1916,1 Penny - George V,United Kingdom,F
+N# 578,1,1918,1918,1 Penny - George V,United Kingdom,F
 N# 5985,1,1928,1928,1 Penny - George V (smaller portrait),United Kingdom,XF
 N# 5985,1,1930,1930,1 Penny - George V (smaller portrait),United Kingdom,VF
 N# 5985,1,1936,1936,1 Penny - George V (smaller portrait),United Kingdom,VF
@@ -2854,6 +2848,13 @@ N# 669,1,1948,1948,1 Penny - George VI (with 'IND:IMP'),United Kingdom,F
 N# 669,2,1948,1948,1 Penny - George VI (with 'IND:IMP'),United Kingdom,F
 N# 7604,1,1949,1949,1 Penny - George VI (without 'IND:IMP'),United Kingdom,AU
 N# 6347,1,1953,1953,1 Penny - Elizabeth II (1st portrait; with 'BRITT:OMN'),United Kingdom,XF
+N# 858,1,1962,1962,1 Penny - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,VF
+N# 858,1,1963,1963,1 Penny - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,XF
+N# 858,1,1963,1963,1 Penny - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,VF
+N# 858,1,1964,1964,1 Penny - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,XF
+N# 858,1,1965,1965,1 Penny - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,XF
+N# 858,1,1967,1967,1 Penny - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,AU
+N# 858,1,1967,1967,1 Penny - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,VF
 N# 1287,1,1797,1797,2 Pence - George III (2nd issue; 'Cartwheel'),United Kingdom,G
 N# 21182,1,1911,1911,3 Pence - George V (1st issue; incl. Maundy),United Kingdom,VF
 N# 21182,1,1916,1916,3 Pence - George V (1st issue; incl. Maundy),United Kingdom,VF
