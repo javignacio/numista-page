@@ -329,9 +329,11 @@ N# 9636,1,1938,1938,200 Réis,Brazil,VF
 N# 20883,1,1943,1943,10 Centavos,Brazil,VF
 N# 10251,1,1946,1946,10 Centavos,Brazil,F
 N# 6792,1,1951,1951,10 Centavos (José Bonifácio),Brazil,VF
+N# 5378,1,1945,1945,20 Centavos,Brazil,F
 N# 5378,1,1945,1945,20 Centavos,Brazil,XF
 N# 5378,1,1947,1947,20 Centavos,Brazil,F
 N# 4896,1,1945,1945,50 Centavos,Brazil,VF
+N# 4896,1,1947,1947,50 Centavos,Brazil,F
 N# 957,1,1946,1946,1 Cruzeiro,Brazil,VF
 N# 8195,1,1960,1960,1 Cruzeiro,Brazil,VG
 N# 1018,1,1945,1945,2 Cruzeiros,Brazil,XF
@@ -1126,6 +1128,7 @@ N# 1579,1,1997,1997,10 Cents,Hong Kong,
 N# 1579,1,1998,1998,10 Cents,Hong Kong,VF
 N# 1584,1,1997,1997,20 Cents,Hong Kong,AU
 N# 1578,1,1998,1998,50 Cents,Hong Kong,XF
+N# 1583,1,1979,1979,1 Dollar - Elizabeth II (2nd portrait),Hong Kong,XF
 N# 1577,1,1989,1989,1 Dollar - Elizabeth II (3rd portrait),Hong Kong,AU
 N# 2118,1,1995,1995,1 Dollar,Hong Kong,XF
 N# 4218,1,1980,1980,5 Dollars - Elizabeth II (2nd portrait),Hong Kong,AU
@@ -1192,6 +1195,7 @@ N# 8486,1,2007,2010,50 Colones,Costa Rica,AU
 N# 470653,1,2023,2023,50 Colones (Hawksbill turtle),Costa Rica,AU
 N# 6958,1,2000,2000,100 Colones,Costa Rica,AU
 N# 1989,1,2019,2019,5 Lipa (Croatian text),Croatia,XF
+N# 1272,1,1995,1995,10 Lipa (Croatian text),Croatia,VF
 N# 1272,1,1997,1997,10 Lipa (Croatian text),Croatia,
 N# 1272,1,2007,2007,10 Lipa (Croatian text),Croatia,
 N# 1272,1,2011,2011,10 Lipa (Croatian text),Croatia,XF
@@ -1399,6 +1403,7 @@ N# 4885,1,1969,1977,10 Santeem (Non magnetic),Ethiopia,VF
 N# 6268,1,1961,1961,6 Pence - Elizabeth II (1st portrait),Fiji,XF
 N# 2609,1,2001,2001,1 Cent - Elizabeth II (3rd portrait),Fiji,XF
 N# 949,1,1994,1994,5 Cents - Elizabeth II (3rd portrait),Fiji,AU
+N# 42680,1,2012,2012,1 Dollar,Fiji,VF
 N# 12391,1,1917,1917,1 Penni (Civil War Coinage),Finland,VF
 N# 7023,1,1929,1929,10 Pennia,Finland,XF
 N# 8725,1,1921,1921,25 Pennia,Finland,XF
@@ -1479,6 +1484,7 @@ N# 5,1,1978,1978,"½ Franc (signature ""O. Roty"")",France,
 N# 6,1,1961,1961,"1 Franc (Signature ""O. Roty"")",France,VF
 N# 6,1,1977,1977,"1 Franc (Signature ""O. Roty"")",France,XF
 N# 6,1,1978,1978,"1 Franc (Signature ""O. Roty"")",France,VF
+N# 12,1,1988,1988,1 Franc (Charles de Gaulle),France,XF
 N# 7,1,1981,1981,2 Francs,France,XF
 N# 8,1,1978,1978,"5 Francs (signature ""O. Roty"")",France,XF
 N# 683,1,1977,1977,10 Francs,France,XF
@@ -1887,6 +1893,7 @@ N# 9661,1,1385,1965,50 Milliemes,Libya,XF
 N# 3112,1,1991,1991,1 Centas,Lithuania,XF
 N# 3983,1,1991,1991,5 Centai,Lithuania,AU
 N# 3984,1,1997,1997,10 Centų,Lithuania,AU
+N# 3985,1,1997,1997,20 Centų,Lithuania,VF
 N# 3276,1,1930,1930,5 Centimes - Charlotte,Luxembourg,XF
 N# 254,1,1963,1963,25 Centimes (Aluminium),Luxembourg,XF
 N# 1907,1,1946,1946,1 Franc - Charlotte (large Type),Luxembourg,VF
@@ -1936,6 +1943,7 @@ N# 3445,1,1985,1985,5 Pesos,Mexico,VF
 N# 1072,1,1979,1979,10 Pesos,Mexico,AU
 N# 927,1,1988,1988,10 Pesos,Mexico,AU
 N# 1081,1,1988,1988,20 Pesos,Mexico,XF
+N# 7360,1,1988,1988,50 Pesos,Mexico,VF
 N# 7360,1,1992,1992,50 Pesos,Mexico,AU
 N# 961,1,1988,1988,100 Pesos,Mexico,VF
 N# 819,1,1987,1987,500 Pesos,Mexico,VF
@@ -2200,6 +2208,7 @@ N# 8733,1,1947,1947,20 Centavos,Peru,XF
 N# 7414,1,1965,1965,25 Centavos (Casa de Moneda),Peru,XF
 N# 994,1,1968,1968,25 Centavos (Large coat of arms),Peru,VF
 N# 994,1,1972,1972,25 Centavos (Large coat of arms),Peru,XF
+N# 5310,1,1942,1942,½ Sol de Oro,Peru,G
 N# 5310,1,1944,1944,½ Sol de Oro,Peru,VF
 N# 7413,1,1965,1965,½ Sol de Oro (Casa de Moneda),Peru,VF
 N# 909,1,1971,1971,½ Sol de Oro (Large Coat of Arms),Peru,XF
@@ -2321,6 +2330,7 @@ N# 134873,1,1986,1986,2 Zlotys (2nd Eagle Design),Poland,AU
 N# 2076,1,1975,1975,10 Zlotys (Adam Mickiewicz),Poland,XF
 N# 3283,1,1975,1975,10 Zlotys (Bolesław Prus),Poland,XF
 N# 2062,1,1987,1987,10 Zlotys,Poland,AU
+N# 2062,1,1988,1988,10 Zlotys,Poland,VF
 N# 2075,1,1973,1973,20 Zlotys,Poland,VF
 N# 2074,1,1976,1976,20 Zlotys (Marceli Nowotko),Poland,AU
 N# 2061,1,1987,1987,20 Zlotys (large type),Poland,AU
@@ -2505,6 +2515,7 @@ N# 428,1,1983,1983,25 Pesetas - Juan Carlos I (With mintmark),Spain,XF
 N# 1261,1,1990,1990,25 Pesetas - Juan Carlos I (High jump),Spain,AU
 N# 1264,1,1997,1997,25 Pesetas (Melilla),Spain,AU
 N# 2222,1,1980,1981,50 Pesetas - Juan Carlos I (España '82),Spain,XF
+N# 4546,1,1990,1990,50 Pesetas - Juan Carlos I (Expo '92),Spain,VF
 N# 2555,1,1992,1992,50 Pesetas - Juan Carlos I (Sagrada Familia),Spain,XF
 N# 1258,1,1984,1984,"100 Pesetas - Juan Carlos I (Value as ""CIEN"")",Spain,XF
 N# 2986,1,1999,1999,100 Pesetas - Juan Carlos I (Year of Older Persons),Spain,XF
@@ -2626,6 +2637,7 @@ N# 1503,1,1968,1968,25 Öre - Gustaf VI Adolf,Sweden,
 N# 1503,1,1969,1969,25 Öre - Gustaf VI Adolf,Sweden,
 N# 1503,1,1973,1973,25 Öre - Gustaf VI Adolf,Sweden,XF
 N# 1464,1,1978,1978,25 Öre - Carl XVI Gustaf,Sweden,
+N# 1464,1,1979,1979,25 Öre - Carl XVI Gustaf,Sweden,VF
 N# 1464,1,1981,1981,25 Öre - Carl XVI Gustaf,Sweden,VF
 N# 1509,1,1946,1946,50 Öre - Gustaf V,Sweden,VF
 N# 1502,1,1967,1967,50 Öre - Gustaf VI Adolf,Sweden,
@@ -2716,6 +2728,7 @@ N# 140715,1,2017,2017,10 Cents (Magnetic),Trinidad and Tobago,AU
 N# 5777,1,1967,1967,25 Cents - Elizabeth II,Trinidad and Tobago,XF
 N# 1159,1,1976,1976,25 Cents (Non-Magnetic),Trinidad and Tobago,XF
 N# 822,1,1960,1960,5 Millimes,Tunisia,F
+N# 825,1,1380,1960,100 Millimes (non-magnetic),Tunisia,XF
 N# 1202,1,1418,1997,½ Dinar,Tunisia,VF
 N# 1204,1,1976,1976,1 Dinar (Habib Bourguiba),Tunisia,F
 N# 4198,1,1949,1949,25 Kuruş,Turkey,VG
@@ -3106,6 +3119,7 @@ N# 381565,1,2026,2026,10 Pence - Charles III (Capercaillie),United Kingdom,UNC
 N# 865,2,1982,1982,20 Pence - Elizabeth II (2nd portrait),United Kingdom,XF
 N# 865,1,1984,1984,20 Pence - Elizabeth II (2nd portrait),United Kingdom,XF
 N# 1376,2,1995,1995,20 Pence - Elizabeth II (3rd portrait),United Kingdom,XF
+N# 573,1,1999,1999,20 Pence - Elizabeth II (4th portrait; Tudor Rose),United Kingdom,VG
 N# 573,1,2000,2000,20 Pence - Elizabeth II (4th portrait; Tudor Rose),United Kingdom,XF
 N# 5628,1,2008,2008,20 Pence - Elizabeth II (4th portrait; Royal Shield),United Kingdom,AU
 N# 5628,1,2010,2010,20 Pence - Elizabeth II (4th portrait; Royal Shield),United Kingdom,
@@ -3251,6 +3265,7 @@ N# 10865,1,1968,1968,"½ Dollar ""Kennedy Half Dollar"" (40% Silver)",United Sta
 N# 6918,1,1974,1974,"½ Dollar ""Kennedy Half Dollar""",United States,XF
 N# 6918,1,1984,1984,"½ Dollar ""Kennedy Half Dollar""",United States,XF
 N# 6918,1,1990,1990,"½ Dollar ""Kennedy Half Dollar""",United States,XF
+N# 15323,1,1994,1994,½ Dollar (World Cup Soccer),United States,UNC
 N# 1346,1,1971,1971,"1 Dollar ""Eisenhower Dollar""",United States,XF
 N# 3366,1,1976,1976,"1 Dollar ""Eisenhower Dollar"" (Bicentennial)",United States,XF
 N# 3548,1,1979,1979,"1 Dollar ""Susan B. Anthony Dollar""",United States,XF
@@ -3314,6 +3329,7 @@ N# 350296,1,2022,2022,1000 Soʻm,Uzbekistan,AU
 N# 1660,1,1999,1999,1 Vatu,Vanuatu,AU
 N# 3572,1,1867,1867,1 Soldo / 5 Centesimi - Pius IX,Papal States,VF
 N# 14133,1,1989,1989,500 Lire - John Paul II (Land Work),Vatican City,VF
+N# 1158,1,1974,1974,"5 Céntimos ""Puya""",Venezuela,VF
 N# 1158,1,1976,1976,"5 Céntimos ""Puya""",Venezuela,XF
 N# 5480,1,1971,1971,10 Céntimos,Venezuela,XF
 N# 20090,1,1938,1938,"12½ Céntimos ""Locha""",Venezuela,VF
