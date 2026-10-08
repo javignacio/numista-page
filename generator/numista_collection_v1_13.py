@@ -374,6 +374,7 @@ HISTORICAL_FLAGS = {
 NAME_TO_ISO2_OVERRIDE = {
 	"England": "gb-eng",   # not ISO3166-1; FlagCDN supports this subdivision code sometimes, but not always
 	"Curaçao": "cw",
+	"Laos": "la",
 }
 CONTINENT_OVERRIDES = {
 	"Jersey": "Europe",
@@ -394,7 +395,13 @@ CONTINENT_OVERRIDES = {
 	"Comoros": "Africa",                  # a veces te llega como Comoro Islands › Comoros
 	"Somaliland": "Africa",               # entidad no reconocida por ISO/pycountry
 	"Comoro Islands": "Africa",
-	"British Crown dependencies": "Europe"
+	"British Crown dependencies": "Europe",
+	"British West Africa": "Africa",
+	"Congo, Republic of the": "Africa",
+	"French India": "Asia",
+	"French West Africa": "Africa",
+	"Rhodesia and Nyasaland": "Africa",
+	"Tortuga Island": "North America",
 }
 EXTRA_SPANISH_ISSUER_ALIASES = {
 	"British Crown dependencies": ["Dependencias de la Corona Britanica", "Dependencias de la Corona Británica"],
@@ -646,7 +653,8 @@ def continent_from_iso2(iso2: str) -> str:
 		code = pc.country_alpha2_to_continent_code(iso2)
 		return _CONTINENT_MAP.get(code, "Unknown")
 	except Exception:
-		# Fallback: limited mapping so the script still runs without extra deps.
+		# Emergency fallback for local/offline runs. Production installs
+		# pycountry-convert from requirements.txt for complete ISO coverage.
 		fallback = {
 			"US": "North America", "CA": "North America", "MX": "North America",
 			"BR": "South America", "AR": "South America", "CL": "South America", "CO": "South America", "PE": "South America", "UY": "South America", "VE": "South America", "EC": "South America",

@@ -59,6 +59,11 @@ jobs:
         run: |
           test -s generator/out/collection_wishlist_analytics.html
           python -m json.tool generator/out/summary.json > /dev/null
+          if grep -q "data-continent='Unknown'" generator/out/collection_wishlist_analytics.html; then
+            echo "Generated collection contains issuers with an unknown continent."
+            grep -o "data-continent='Unknown' data-issuerroot='[^']*'" generator/out/collection_wishlist_analytics.html | sort -u
+            exit 1
+          fi
 
       - name: Prepare Pages artifact
         run: |

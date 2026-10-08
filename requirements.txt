@@ -1,3 +1,4 @@
 plotly==6.3.0
 pycountry==24.6.1
+pycountry-convert==0.7.2
 requests==2.32.5
