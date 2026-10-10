@@ -346,6 +346,7 @@ N# 6437,1,1967,1967,2 Centavos,Brazil,AU
 N# 5384,1,1975,1975,2 Centavos (FAO),Brazil,AU
 N# 2821,1,1967,1967,5 Centavos,Brazil,
 N# 2821,1,1969,1969,5 Centavos,Brazil,AU
+N# 2821,1,1969,1969,5 Centavos,Brazil,XF
 N# 3816,1,1976,1976,5 Centavos (FAO),Brazil,XF
 N# 3816,1,1977,1977,5 Centavos (FAO),Brazil,AU
 N# 2243,1,1967,1967,10 Centavos (non magnetic),Brazil,XF
@@ -1439,6 +1440,7 @@ N# 1060,1,1977,1977,20 Pennia,Finland,
 N# 1060,1,1978,1978,20 Pennia,Finland,
 N# 1529,1,1982,1982,50 Pennia,Finland,AU
 N# 4390,1,1990,1990,50 Pennia,Finland,AU
+N# 4390,1,1990,1990,50 Pennia,Finland,XF
 N# 4390,1,1991,1991,50 Pennia,Finland,
 N# 3737,1,1977,1977,1 Markka,Finland,AU
 N# 1527,1,1994,1994,1 Markka,Finland,AU
@@ -1813,6 +1815,7 @@ N# 304,1,1979,1979,100 Lire (large type),Italy,
 N# 304,1,1989,1989,100 Lire (large type),Italy,AU
 N# 723,1,1979,1979,100 Lire (FAO),Italy,AU
 N# 2551,1,1992,1992,100 Lire (small type),Italy,AU
+N# 722,1,1994,1994,100 Lire,Italy,XF
 N# 722,2,1994,1994,100 Lire,Italy,XF
 N# 303,1,1979,1979,200 Lire,Italy,VF
 N# 303,1,1987,1987,200 Lire,Italy,XF
@@ -1935,6 +1938,7 @@ N# 953,1,1956,1956,5 Centavos (large type),Mexico,XF
 N# 953,1,1957,1957,5 Centavos (large type),Mexico,VF
 N# 953,1,1968,1968,5 Centavos (large type),Mexico,VF
 N# 6694,1,1946,1946,10 Centavos,Mexico,VF
+N# 3157,1,1977,1977,"10 Centavos ""Maicito""",Mexico,XF
 N# 3157,1,1977,1977,"10 Centavos ""Maicito""",Mexico,XF
 N# 3933,1,1944,1944,20 Centavos (Type 1 National Emblem),Mexico,VF
 N# 959,1,1960,1960,20 Centavos (Type 2 National Emblem),Mexico,XF
@@ -2223,6 +2227,7 @@ N# 994,1,1972,1972,25 Centavos (Large coat of arms),Peru,XF
 N# 5310,1,1942,1942,½ Sol de Oro,Peru,G
 N# 5310,1,1944,1944,½ Sol de Oro,Peru,VF
 N# 7413,1,1965,1965,½ Sol de Oro (Casa de Moneda),Peru,VF
+N# 7413,1,1965,1965,½ Sol de Oro (Casa de Moneda),Peru,F
 N# 909,1,1971,1971,½ Sol de Oro (Large Coat of Arms),Peru,XF
 N# 9097,1,1974,1974,½ Sol de Oro (Small Coat of Arms),Peru,AU
 N# 572,1,1976,1976,½ Sol de Oro,Peru,VF
@@ -2496,6 +2501,7 @@ N# 1248,1,1945,1945,5 Centimos (Iberian rider),Spain,F
 N# 2596,1,1877,1877,10 Centimos - Alfonso XII,Spain,VG
 N# 672,1,,,10 Centimos (Iberian rider),Spain,G
 N# 672,1,1940,1940,10 Centimos (Iberian rider),Spain,F
+N# 672,1,1940,1940,10 Centimos (Iberian rider),Spain,G
 N# 672,1,1945,1945,10 Centimos (Iberian rider),Spain,VG
 N# 673,1,1959,1959,10 Centimos - Francisco Franco,Spain,XF
 N# 673,1,1959,1959,10 Centimos - Francisco Franco,Spain,XF
@@ -2538,6 +2544,7 @@ N# 2555,1,1992,1992,50 Pesetas - Juan Carlos I (Sagrada Familia),Spain,XF
 N# 1258,1,1984,1984,"100 Pesetas - Juan Carlos I (Value as ""CIEN"")",Spain,XF
 N# 2986,1,1999,1999,100 Pesetas - Juan Carlos I (Year of Older Persons),Spain,XF
 N# 2285,1,1987,1987,200 Pesetas - Juan Carlos I,Spain,AU
+N# 81,1,2000,2000,1 Euro Cent (1st type),Spain,G
 N# 81,1,2004,2004,1 Euro Cent (1st type),Spain,VF
 N# 82,1,2000,2000,2 Euro Cents (1st type),Spain,
 N# 82,1,2004,2004,2 Euro Cents (1st type),Spain,XF
@@ -2737,6 +2744,7 @@ N# 1106,1,2547,2004,1 Baht - Rama IX (Non-magnetic),Thailand,
 N# 9226,1,2555,2012,1 Baht - Rama IX (Magnetic),Thailand,AU
 N# 1640,1,2544,2001,5 Baht - Rama IX (heavy type),Thailand,XF
 N# 1640,1,2547,2004,5 Baht - Rama IX (heavy type),Thailand,XF
+N# 7236,1,2555,2012,5 Baht - Rama IX (light type),Thailand,XF
 N# 1643,1,2537,1994,10 Baht - Rama IX,Thailand,AU
 N# 6196,1,2003,2003,1 Centavo,Timor-Leste,AU
 N# 8011,1,1967,1967,10 Seniti - Salote Tupou III,Tonga,XF
