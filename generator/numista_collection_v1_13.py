@@ -402,6 +402,7 @@ CONTINENT_OVERRIDES = {
 	"French West Africa": "Africa",
 	"Rhodesia and Nyasaland": "Africa",
 	"Tortuga Island": "North America",
+	"Ottoman Empire": "Transcontinental",
 }
 EXTRA_SPANISH_ISSUER_ALIASES = {
 	"British Crown dependencies": ["Dependencias de la Corona Britanica", "Dependencias de la Corona Británica"],
