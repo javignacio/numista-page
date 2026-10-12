@@ -59,8 +59,9 @@ jobs:
         run: |
           test -s generator/out/collection_wishlist_analytics.html
           python -m json.tool generator/out/summary.json > /dev/null
+          python -m json.tool generator/out/skipped_unknown_continents.json > /dev/null
           if grep -q "data-continent='Unknown'" generator/out/collection_wishlist_analytics.html; then
-            echo "Generated collection contains issuers with an unknown continent."
+            echo "Generator error: an unknown-continent row was not safely skipped."
             grep -o "data-continent='Unknown' data-issuerroot='[^']*'" generator/out/collection_wishlist_analytics.html | sort -u
             exit 1
           fi
@@ -71,6 +72,7 @@ jobs:
           mkdir _site
           cp generator/out/collection_wishlist_analytics.html _site/index.html
           cp generator/out/summary.json _site/summary.json
+          cp generator/out/skipped_unknown_continents.json _site/skipped_unknown_continents.json
           touch _site/.nojekyll
 
       - name: Configure GitHub Pages
