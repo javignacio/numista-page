@@ -404,6 +404,7 @@ CONTINENT_OVERRIDES = {
 	"Rhodesia and Nyasaland": "Africa",
 	"Tortuga Island": "North America",
 	"Ottoman Empire": "Transcontinental",
+	"Roman Empire": "Transcontinental",
 }
 EXTRA_SPANISH_ISSUER_ALIASES = {
 	"British Crown dependencies": ["Dependencias de la Corona Britanica", "Dependencias de la Corona Británica"],
@@ -670,11 +671,16 @@ def continent_from_iso2(iso2: str) -> str:
 # def continent_from_issuer_root(root_name: str) -> str:
 #     """Infer continent from an issuer root display name using iso2_from_name()."""
 #     return continent_from_iso2(iso2_from_name(root_name))
-def continent_from_issuer_root(root_name: str) -> str:
+def continent_from_issuer_root(root_name: str, issuer_path: str = "") -> str:
 	"""Infer continent from an issuer root display name."""
 	root_clean = strip_date_suffix(root_name or "").strip()
 	if not root_clean:
 		return "Unknown"
+	# Numista nests imperial Roman issues under the geographic root "Rome".
+	# Classify only empire paths as transcontinental so local Rome issues can
+	# remain European.
+	if root_clean == "Rome" and "roman empire" in (issuer_path or "").lower():
+		return "Transcontinental"
 	if root_clean in CONTINENT_OVERRIDES:
 		return CONTINENT_OVERRIDES[root_clean]
 	iso2 = iso2_from_name(root_clean)
@@ -4467,7 +4473,7 @@ def main(args):
 			"is_replica": is_replica,
 			"is_on_transit": is_on_transit,
 			"object_type": obj_type,
-			"continent": continent_from_issuer_root(issuer_root),
+			"continent": continent_from_issuer_root(issuer_root, issuer),
 			"modern_country_iso3": modern_country_iso3_from_row({"issuer_path": issuer, "issuer_root": issuer_root}),
 			"flag_url": flag_url,
 			"root_flag_url": root_flag_url,
@@ -4540,7 +4546,7 @@ def main(args):
 			'issuer_root': issuer_root,
 			'issuer_subpath': issuer_subpath,
 			'issuer_search_es': issuer_search_es,
-			'continent': continent_from_issuer_root(issuer_root),
+			'continent': continent_from_issuer_root(issuer_root, issuer),
 			'flag_url': flag_url,
 			'currency': currency,
 			'numeric_value': numeric_value,
@@ -4584,7 +4590,7 @@ def main(args):
 			"issuer_root": issuer_root,
 			"issuer_subpath": issuer_subpath,
 			"issuer_search_es": issuer_search_es,
-			"continent": continent_from_issuer_root(issuer_root),
+			"continent": continent_from_issuer_root(issuer_root, issuer_path),
 			"modern_country_iso3": modern_country_iso3_from_row({"issuer_path": issuer_path, "issuer_root": issuer_root}),
 			"flag_url": flag_url,
 			"currency": currency,
