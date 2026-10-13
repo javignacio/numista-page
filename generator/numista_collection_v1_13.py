@@ -937,18 +937,52 @@ def year_sort_value(value) -> int:
 	return value if isinstance(value, int) else 999999
 
 
-def default_row_sort_key(r: dict):
+def default_row_sort_key(r: dict, currency_group_year: Optional[int] = None):
 	"""Shared default order for collection, wishlist, transit, and issuer wishes."""
+	currency_label = r.get("currency", "")
+	currency_key = currency_sort_key(currency_label)
+	if isinstance(currency_group_year, int):
+		currency_key = (1 if currency_group_year == 999999 else 0, currency_group_year, currency_label.lower())
 	return (
 		1 if r.get("is_issuer_only") else 0,
 		(r.get("issuer_root") or "").lower(),
 		(r.get("issuer_subpath") or "").lower(),
-		currency_sort_key(r.get("currency", "")),
+		currency_key,
 		face_sort_value(r.get("face_sort_value", r.get("numeric_value", 1e30)), r.get("label", ""), r.get("title_full", ""), r.get("currency", "")),
 		year_sort_value(r.get("min_year")),
 		year_sort_value(r.get("max_year")),
 		km_y_sort_key(r.get("km_y", "")),
 		(r.get("label") or r.get("title_full") or "").lower(),
+	)
+
+
+def sort_rows_by_currency_date(rows: List[dict]) -> List[dict]:
+	"""Keep each issuer's currency buckets together and order the buckets chronologically.
+
+	The currency label's declared start year wins. If Numista supplies a label without a
+	date, use the earliest dated coin in that bucket so it does not fall into an arbitrary
+	alphabetical position.
+	"""
+	group_years = {}
+	for row in rows:
+		group_key = (
+			row.get("issuer_path") or "",
+			row.get("currency") or "",
+		)
+		label_key = currency_sort_key(group_key[1])
+		if label_key[0] == 0:
+			candidate = label_key[1]
+		else:
+			candidate = year_sort_value(row.get("min_year"))
+			if candidate == 999999:
+				candidate = year_sort_value(row.get("max_year"))
+		group_years[group_key] = min(group_years.get(group_key, 999999), candidate)
+	return sorted(
+		rows,
+		key=lambda row: default_row_sort_key(
+			row,
+			group_years.get((row.get("issuer_path") or "", row.get("currency") or ""), 999999),
+		),
 	)
 
 def shorten_composition(comp_text: str) -> str:
@@ -3160,6 +3194,10 @@ def render_combined_app(collection_rows: list[dict], wishlist_rows: list[dict], 
 			const name = lbl.dataset.norm || normText(lbl.textContent || '');
 			lbl.style.display = (!q || name.includes(q)) ? '' : 'none';
 		});
+		boxEl.querySelectorAll('.issuerGroup').forEach(group => {
+			const hasVisibleCountry = Array.from(group.querySelectorAll('.issuerItem')).some(lbl => lbl.style.display !== 'none');
+			group.style.display = hasVisibleCountry ? '' : 'none';
+		});
 		const totalAvailable = Array.from(boxEl.querySelectorAll('input[type=checkbox]')).filter(cb => cb.parentElement.style.display !== 'none').length;
 		countryCountEl.textContent = `Countries: ${selected.length} selected / ${totalAvailable} available`;
 		let shownItems = 0, shownTypes = 0, shownIssuerOnly = 0, visibleCards = 0;
@@ -4510,7 +4548,7 @@ def main(args):
 			"type_id": tid,
 		})
 	# Shared 9-level default order; on-transit rows are normal collection rows here.
-	rows.sort(key=default_row_sort_key)
+	rows = sort_rows_by_currency_date(rows)
 	rows_wishlist = []
 	issuer_codes_in_wishlist = set()
 	for tid in wishlist_type_ids:
@@ -4640,7 +4678,7 @@ def main(args):
 		include_stored=True,
 		include_filters=True,
 	)
-	rows_wishlist.sort(key=default_row_sort_key)
+	rows_wishlist = sort_rows_by_currency_date(rows_wishlist)
 	wishlist_coin_types = sum(1 for r in rows_wishlist if not r.get("is_issuer_only"))
 	chile_date_runs = load_chile_date_runs_csv(args.chile_date_runs_csv)
 	if chile_date_runs:
@@ -4753,7 +4791,7 @@ def main(args):
 				"url": td.get("url") or "#",
 				"type_id": tid,
 			})
-		rows_c.sort(key=default_row_sort_key)
+		rows_c = sort_rows_by_currency_date(rows_c)
 		total_items_c = sum(r["qty"] for r in rows_c)
 		total_types_c = len(rows_c)
 		render_html(
