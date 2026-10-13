@@ -1912,6 +1912,11 @@ def render_combined_app(collection_rows: list[dict], wishlist_rows: list[dict], 
 	refreshMobileJump();
   }
 	window.addEventListener('popstate', () => openPanel(panelFromLocation(), false));
+	tabs.forEach(link => link.addEventListener('click', event => {
+	  if (event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
+	  event.preventDefault();
+	  openPanel(link.dataset.panel, true);
+	}));
   const backBtn = document.getElementById('backToTop');
   const mobileJumpEl = document.getElementById('mobileJumpIssuer');
   function refreshMobileJump(){
