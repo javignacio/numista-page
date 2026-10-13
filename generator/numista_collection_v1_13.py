@@ -763,6 +763,12 @@ def normalize_currency_label(label: str, issuer_root: str = "") -> str:
 	issuer_root = strip_date_suffix(issuer_root or "").strip()
 	if issuer_root == "United Kingdom" and label in {"Pound sterling (1158-1970)", "Pound sterling (1158-1971)"}:
 		return "Pound sterling (1158-1971)"
+	if issuer_root == "Dominican Republic" and label in {
+		"Peso oro (1937-date)",
+		"Peso oro (1937-2009)/Peso Dominicano (2011-present)",
+		"Peso oro (1937-2009) / Peso Dominicano (2011-present)",
+	}:
+		return "Peso oro / Peso dominicano (1937-date)"
 	return label
 
 
