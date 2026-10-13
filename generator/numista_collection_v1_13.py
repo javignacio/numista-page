@@ -325,7 +325,6 @@ API_KEY = os.environ.get("NUMISTA_API_KEY", "").strip()
 AUTO_FETCH_MISSING = os.environ.get("NUMISTA_AUTO_FETCH_MISSING", "").strip().lower() in ("1", "true", "yes", "y")
 CLIENT_ID = "104851"
 BASE_URL = "https://api.numista.com/v3"
-MAX_TYPES = 2100  # prueba segura: solo 5 llamadas a /types/{id}
 CACHE_DIR = Path("type_cache")
 ISSUERS_CACHE = Path("issuers_cache")
 FAILED_FLAG_ISSUERS = set()
@@ -4372,9 +4371,10 @@ def main(args):
 		total_types = len(agg)
 	# 2) Token (1 request) — necesario para endpoints personales,
 	# pero para /types/{id} NO hace falta, igual lo dejamos listo para el futuro.
-	# 3) Elegir SOLO N tipos para probar (N = MAX_TYPES)
-	type_ids = sorted(agg.keys())[:MAX_TYPES]
-	# 4) Fetch de types (N requests) con cache
+	# 3) Include every owned and manually tracked type. The API cache keeps this
+	# inexpensive while avoiding a silent cutoff as the collection grows.
+	type_ids = sorted(agg.keys())
+	# 4) Fetch type details with cache
 	types = {}
 	missing = [tid for tid in type_ids if not (CACHE_DIR / f"{tid}.json").exists()]
 	use_quota = False
