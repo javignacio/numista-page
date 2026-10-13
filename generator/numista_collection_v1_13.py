@@ -1767,8 +1767,8 @@ def render_combined_app(collection_rows: list[dict], wishlist_rows: list[dict], 
 	.appHeaderLead{display:flex;align-items:center;gap:10px;min-width:0;} .portalHome{width:40px;height:40px;display:inline-grid;place-items:center;flex:0 0 auto;border:1px solid var(--border);border-radius:12px;background:#fff;color:var(--accent);box-shadow:0 3px 10px rgba(21,34,61,.10);text-decoration:none;transition:transform .15s ease,border-color .15s ease;} .portalHome:hover{transform:translateY(-1px);border-color:var(--accent);text-decoration:none;} .portalHome svg{width:20px;height:20px;}
 	.compactAppHeader{align-items:center;} .brandTitle{display:flex;align-items:center;gap:10px;min-width:0;} .brandTitle h1{margin:0;font-size:31px;line-height:1.05;} .titleCoin{width:38px;height:38px;border-radius:999px;object-fit:cover;border:1px solid var(--border);box-shadow:0 3px 10px rgba(21,34,61,.13);background:#fff;} .appSub { color:var(--muted); margin:0; }
 	.topTabs { display:flex; gap:8px; flex-wrap:wrap; margin:0; align-items:center; }
-	.topTabs button { border:1px solid var(--border); background:#fff; border-radius:999px; padding:9px 14px; cursor:pointer; font-weight:bold; }
-	.topTabs button.active { background:var(--accent); color:#fff; border-color:var(--accent); }
+	.topTabs a { border:1px solid var(--border); background:#fff; border-radius:999px; padding:9px 14px; cursor:pointer; font-weight:bold; color:inherit; text-decoration:none; }
+	.topTabs a.active { background:var(--accent); color:#fff; border-color:var(--accent); }
 	.appPanel { display:none; max-width:100%; min-width:0; } .appPanel.active { display:block; }
 	.summary { color: var(--muted); margin: 0 0 14px; }
 	.analyticsStrip { display:grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap:12px; margin:0 0 16px; }
@@ -1840,7 +1840,7 @@ def render_combined_app(collection_rows: list[dict], wishlist_rows: list[dict], 
 	html.append("<!doctype html><html><head><meta charset='utf-8' /><meta name='viewport' content='width=device-width, initial-scale=1' />")
 	html.append("<title>Javignacio Coin Collection</title><link rel='icon' href='" + HEADER_COIN_ICON_URL + "' />")
 	html.append(f"<style>{css}</style>{build_inline_plotly_loader()}</head><body>")
-	html.append("<div class='appHeader compactAppHeader'><div class='appHeaderLead'><a class='portalHome' href='https://javignacio.github.io/collections-page/' aria-label='Back to Collections portal'><svg viewBox='0 0 24 24' aria-hidden='true'><path d='M3 10.8 12 3l9 7.8v9.7a.5.5 0 0 1-.5.5H15v-6H9v6H3.5a.5.5 0 0 1-.5-.5v-9.7Z' fill='none' stroke='currentColor' stroke-width='1.8' stroke-linejoin='round'/></svg></a><div class='brandTitle'><h1>Javignacio Coin Collection</h1><img class='titleCoin' src='" + HEADER_COIN_REVERSE_URL + "' alt='1926 Chile 20 Pesos reverse' /></div></div><div class='topTabs' id='topTabs'><button class='active' data-panel='panel-collection' type='button'>Collection</button><button data-panel='panel-chile' type='button'>Chile coins</button><button data-panel='panel-uk-pennies' type='button'>UK date runs</button><button data-panel='panel-wishlist' type='button'>Wishlist</button><button data-panel='panel-analytics' type='button'>Analytics</button><button data-panel='panel-data-quality' type='button'>Data Quality</button></div></div>")
+	html.append("<div class='appHeader compactAppHeader'><div class='appHeaderLead'><a class='portalHome' href='https://javignacio.github.io/collections-page/' aria-label='Back to Collections portal'><svg viewBox='0 0 24 24' aria-hidden='true'><path d='M3 10.8 12 3l9 7.8v9.7a.5.5 0 0 1-.5.5H15v-6H9v6H3.5a.5.5 0 0 1-.5-.5v-9.7Z' fill='none' stroke='currentColor' stroke-width='1.8' stroke-linejoin='round'/></svg></a><div class='brandTitle'><h1>Javignacio Coin Collection</h1><img class='titleCoin' src='" + HEADER_COIN_REVERSE_URL + "' alt='1926 Chile 20 Pesos reverse' /></div></div><nav class='topTabs' id='topTabs' aria-label='Collection sections'><a class='active' data-panel='panel-collection' href='./'>Collection</a><a data-panel='panel-chile' href='chile.html'>Chile coins</a><a data-panel='panel-uk-pennies' href='uk-date-runs.html'>UK date runs</a><a data-panel='panel-wishlist' href='wishlist.html'>Wishlist</a><a data-panel='panel-analytics' href='analytics.html'>Analytics</a><a data-panel='panel-data-quality' href='data-quality.html'>Data Quality</a></nav></div>")
 	html.append("<section id='panel-collection' class='appPanel active'>" + mode_markup(collection_rows, 'collection', "Collection", collection_total_items, collection_total_types, include_stored=True, default_sort='none') + "</section>")
 	html.append("<section id='panel-chile' class='appPanel'><div class='modeHeader compactAnalyticsHeader'><h2>Chile coins</h2></div><div id='chileRunsPanel' class='analyticsPanel'></div></section>")
 	html.append("<section id='panel-uk-pennies' class='appPanel'><div class='modeHeader compactAnalyticsHeader'><h2>United Kingdom date runs</h2></div><div id='ukPennyRunsPanel' class='analyticsPanel'></div></section>")
@@ -1870,10 +1870,32 @@ def render_combined_app(collection_rows: list[dict], wishlist_rows: list[dict], 
 (function(){
   if (typeof CSS === 'undefined') { window.CSS = {}; }
   if (typeof CSS.escape !== 'function') { CSS.escape = function(s){ return String(s).replace(/[^a-zA-Z0-9_-]/g, '\$&'); }; }
-  const tabs = Array.from(document.querySelectorAll('#topTabs button'));
-  function openPanel(panelId){
+	const tabs = Array.from(document.querySelectorAll('#topTabs a'));
+	const panelRoutes = {
+	  'panel-collection': 'index.html',
+	  'panel-chile': 'chile.html',
+	  'panel-uk-pennies': 'uk-date-runs.html',
+	  'panel-wishlist': 'wishlist.html',
+	  'panel-analytics': 'analytics.html',
+	  'panel-data-quality': 'data-quality.html'
+	};
+	const panelTitles = {
+	  'panel-collection': 'Collection',
+	  'panel-chile': 'Chile coins',
+	  'panel-uk-pennies': 'UK date runs',
+	  'panel-wishlist': 'Wishlist',
+	  'panel-analytics': 'Analytics',
+	  'panel-data-quality': 'Data Quality'
+	};
+	function panelFromLocation(){
+	  const file = (window.location.pathname.split('/').pop() || 'index.html').toLowerCase();
+	  return Object.keys(panelRoutes).find(panelId => panelRoutes[panelId] === file) || 'panel-collection';
+	}
+	function openPanel(panelId, updateUrl){
 	tabs.forEach(b => b.classList.toggle('active', b.dataset.panel === panelId));
 	document.querySelectorAll('.appPanel').forEach(panel => panel.classList.toggle('active', panel.id === panelId));
+	if (updateUrl && panelRoutes[panelId]) history.pushState({panelId}, '', panelRoutes[panelId]);
+	document.title = `${panelTitles[panelId] || 'Collection'} · Javignacio Coin Collection`;
 	if (panelId === 'panel-analytics' && typeof renderCountryMap === 'function') {
 	  setTimeout(() => renderAnalytics(), 0);
 	}
@@ -1889,7 +1911,7 @@ def render_combined_app(collection_rows: list[dict], wishlist_rows: list[dict], 
 	window.scrollTo({top:0, behavior:'smooth'});
 	refreshMobileJump();
   }
-  tabs.forEach(btn => btn.addEventListener('click', () => openPanel(btn.dataset.panel)));
+	window.addEventListener('popstate', () => openPanel(panelFromLocation(), false));
   const backBtn = document.getElementById('backToTop');
   const mobileJumpEl = document.getElementById('mobileJumpIssuer');
   function refreshMobileJump(){
@@ -3362,7 +3384,7 @@ def render_combined_app(collection_rows: list[dict], wishlist_rows: list[dict], 
 		refreshMobileJump();
 	  }
 	  window.__NUMISTA_APPLY_TIMELINE_FILTER = function(start, end, query){
-		openPanel('panel-collection');
+		openPanel('panel-collection', true);
 		applyTimelineRangeOnly(start, end, query);
 		setTimeout(() => applyTimelineRangeOnly(start, end, query), 80);
 		setTimeout(() => applyTimelineRangeOnly(start, end, query), 220);
@@ -3372,7 +3394,7 @@ def render_combined_app(collection_rows: list[dict], wishlist_rows: list[dict], 
   }
   function navigateToMode(prefix, issuerRoots, searchQuery, timelineRange){
 	const panelId = prefix === 'wishlist' ? 'panel-wishlist' : 'panel-collection';
-	openPanel(panelId);
+	openPanel(panelId, true);
 	const controller = modeControllers[prefix];
 	if (!controller) return;
 	controller.resetAllFilters();
@@ -3394,12 +3416,16 @@ def render_combined_app(collection_rows: list[dict], wishlist_rows: list[dict], 
   });
   try { initMode('collection'); } catch (e) { console.error('Failed to initialize collection filters', e); }
   try { initMode('wishlist'); } catch (e) { console.error('Failed to initialize wishlist filters', e); }
-  setTimeout(() => renderAnalytics(), 0);
+	openPanel(panelFromLocation(), false);
 })();
 </script>""")
 	html.append("</body></html>")
 	Path(out_html).parent.mkdir(parents=True, exist_ok=True)
-	Path(out_html).write_text('\n'.join(html), encoding='utf-8')
+	rendered_html = '\n'.join(html)
+	out_path = Path(out_html)
+	out_path.write_text(rendered_html, encoding='utf-8')
+	for page_name in ('index.html', 'chile.html', 'uk-date-runs.html', 'wishlist.html', 'analytics.html', 'data-quality.html'):
+		(out_path.parent / page_name).write_text(rendered_html, encoding='utf-8')
 def render_html(rows: list[dict], title: str, out_html: str, total_items: int, total_types: int,
 				include_stored: bool = False, include_filters: bool = False) -> None:
 	"""Render the gallery. If include_filters=True, adds continent/country filters and (collection only) year filter."""
