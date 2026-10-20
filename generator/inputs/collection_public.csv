@@ -349,6 +349,7 @@ N# 57873,1,2013,2013,1 Pula,Botswana,XF
 N# 4333,1,1901,1901,100 Réis (Liberty),Brazil,VF
 N# 6440,1,1901,1901,200 Réis (Liberty),Brazil,F
 N# 9636,1,1938,1938,200 Réis,Brazil,VF
+N# 6773,1,1901,1901,400 Réis (Liberty),Brazil,F
 N# 20883,1,1943,1943,10 Centavos,Brazil,VF
 N# 10251,1,1946,1946,10 Centavos,Brazil,F
 N# 6792,1,1951,1951,10 Centavos (José Bonifácio),Brazil,VF
@@ -1264,6 +1265,7 @@ N# 1359,1,1976,1976,1 Peso,Colombia,VF
 N# 1359,1,1979,1979,1 Peso,Colombia,XF
 N# 910,1,1987,1987,5 Pesos,Colombia,VF
 N# 2846,1,1991,1991,5 Pesos,Colombia,VF
+N# 2435,1,1988,1988,10 Pesos,Colombia,VF
 N# 6043,1,1993,1993,10 Pesos,Colombia,AU
 N# 2303,1,1985,1985,20 Pesos,Colombia,VF
 N# 2847,1,1990,1990,20 Pesos,Colombia,VF
@@ -1755,6 +1757,7 @@ N# 579,1,1990,1990,20 Drachmes,Greece,XF
 N# 567,1,1992,1992,50 Drachmes,Greece,
 N# 567,1,2000,2000,50 Drachmes,Greece,AU
 N# 568,1,1992,1992,100 Drachmes,Greece,AU
+N# 14567,1,2000,2000,500 Drachmes (Diagoras),Greece,XF
 N# 115,1,2002,2002,5 Euro Cents,Greece,VF
 N# 116,1,2002,2002,10 Euro Cents (1st map),Greece,XF
 N# 118,1,2002,2002,50 Euro Cents (1st map),Greece,XF
@@ -1799,7 +1802,7 @@ N# 7029,1,2016,2016,20 Centavos,Honduras,AU
 N# 3190,1,1996,1996,50 Centavos (Magnetic),Honduras,
 N# 3190,1,2014,2014,50 Centavos (Magnetic),Honduras,AU
 N# 6472,1,1926,1926,2 Fillér - Miklós Horthy,Hungary,XF
-N# 4125,1,1941,1941,1 Pengő,Hungary,VF
+N# 4125,1,1941,1941,1 Pengő - Miklós Horthy,Hungary,VF
 N# 2745,1,1970,1970,5 Fillér,Hungary,XF
 N# 1075,1,1984,1984,10 Fillér,Hungary,XF
 N# 7215,1,1946,1946,20 Fillér,Hungary,VF
@@ -1901,6 +1904,7 @@ N# 1404,1,1992,1992,5 Pence (small type),Ireland,XF
 N# 1404,1,1996,1996,5 Pence (small type),Ireland,XF
 N# 1457,1,1994,1994,10 Pence (small type),Ireland,XF
 N# 1403,1,1998,1998,20 Pence,Ireland,AU
+N# 1402,1,1998,1998,1 Pound / Punt,Ireland,XF
 N# 123,1,2007,2007,5 Euro Cents,Ireland,AU
 N# 125,1,2002,2002,20 Euro Cents (1st map),Ireland,XF
 N# 126,1,2002,2002,50 Euro Cents (1st map),Ireland,XF
@@ -2321,6 +2325,7 @@ N# 3805,1,1949,1949,¼ Rupee (Crescent opens to right),Pakistan,XF
 N# 10503,1,1961,1961,1 Pice,Pakistan,XF
 N# 9785,1,1966,1966,1 Paisa,Pakistan,VF
 N# 2753,1,1971,1971,1 Paisa,Pakistan,XF
+N# 3124,1,1971,1971,2 Paisa (12-sided type),Pakistan,XF
 N# 5201,1,1975,1975,2 Paisa (FAO),Pakistan,AU
 N# 77648,1,2015,2015,5 Rupees,Pakistan,AU
 N# 1039,1,1961,1961,1 Centésimo (Bronze/Brass),Panama,XF
@@ -3527,6 +3532,8 @@ N# 3366,1,1976,1976,"1 Dollar ""Eisenhower Dollar"" (Bicentennial)",United State
 N# 3548,1,1979,1979,"1 Dollar ""Susan B. Anthony Dollar""",United States,XF
 N# 923,1,2000,2000,"1 Dollar ""Sacagawea Dollar""",United States,AU
 N# 923,1,2000,2000,"1 Dollar ""Sacagawea Dollar""",United States,VF
+N# 1499,1,,,1 Dollar (James Madison),United States,F
+N# 7458,1,,,1 Dollar (John Tyler),United States,F
 N# 16546,1,2010,2010,1 Dollar (Abraham Lincoln),United States,AU
 N# 201805,1,1993,1993,1 Dollar (Federal Reserve Note),United States,
 N# 201805,1,1995,1995,1 Dollar (Federal Reserve Note),United States,
@@ -3586,6 +3593,7 @@ N# 144053,1,2018,2018,200 Soʻm,Uzbekistan,XF
 N# 350296,1,2022,2022,1000 Soʻm,Uzbekistan,AU
 N# 1660,1,1999,1999,1 Vatu,Vanuatu,AU
 N# 3572,1,1867,1867,1 Soldo / 5 Centesimi - Pius IX,Papal States,VF
+N# 3549,1,1998,1998,200 Lire - John Paul II (The North helps the South),Vatican City,XF
 N# 14133,1,1989,1989,500 Lire - John Paul II (Land Work),Vatican City,VF
 N# 1158,1,1974,1974,"5 Céntimos ""Puya""",Venezuela,VF
 N# 1158,1,1976,1976,"5 Céntimos ""Puya""",Venezuela,XF
