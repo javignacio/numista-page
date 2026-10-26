@@ -21,6 +21,7 @@ N# 5224,1,1940,1940,1 Centavo,Argentina,VF
 N# 3239,1,1939,1939,2 Centavos,Argentina,AU
 N# 3239,1,1946,1946,2 Centavos,Argentina,VF
 N# 3240,1,1924,1924,5 Centavos,Argentina,F
+N# 3240,1,1929,1929,5 Centavos,Argentina,VG
 N# 3240,1,1940,1940,5 Centavos,Argentina,XF
 N# 3240,1,1942,1942,5 Centavos,Argentina,XF
 N# 3241,1,1948,1948,5 Centavos,Argentina,XF
@@ -295,6 +296,7 @@ N# 1240,1,1944,1944,1 Franc - Léopold III (BELGIE-BELGIQUE),Belgium,VG
 N# 1240,1,1945,1945,1 Franc - Léopold III (BELGIE-BELGIQUE),Belgium,VF
 N# 1244,1,1952,1952,1 Franc (French text),Belgium,VF
 N# 1244,1,1977,1977,1 Franc (French text),Belgium,XF
+N# 571,1,1956,1956,1 Franc (Dutch text),Belgium,F
 N# 571,1,1977,1977,1 Franc (Dutch text),Belgium,XF
 N# 755,1,1989,1989,1 Franc - Baudouin I (Dutch text),Belgium,AU
 N# 755,1,1989,1989,1 Franc - Baudouin I (Dutch text),Belgium,XF
@@ -473,6 +475,7 @@ N# 6902,1,1971,1971,½ New Penny - Elizabeth II,Guernsey,XF
 N# 5686,1,1971,1971,2 New Pence - Elizabeth II,Guernsey,VG
 N# 3466,1,1979,1979,5 Pence - Elizabeth II,Guernsey,AU
 N# 1152,1,1984,1984,10 Pence - Elizabeth II,Guernsey,XF
+N# 5627,1,1992,1992,20 Pence - Elizabeth II (3rd portrait),Guernsey,VF
 N# 9875,1,1980,1980,1 Penny - Elizabeth II (Manx cat),Isle of Man,AU
 N# 7339,1,1988,1988,2 Pence - Elizabeth II (Hand Working Tools),Isle of Man,VF
 N# 3734,1,1991,1991,5 Pence - Elizabeth II (Windsurfing; reduced size),Isle of Man,XF
@@ -547,6 +550,7 @@ N# 323,1,2004,2004,25 Cents - Elizabeth II (Remembrance Day),Canada,AU
 N# 325,1,2018,2018,25 Cents - Elizabeth II (4th portrait; RCM logo),Canada,
 N# 1869,1,2007,2007,25 Cents - Elizabeth II (Curling),Canada,AU
 N# 4458,1,2008,2008,25 Cents - Elizabeth II (Figure skating),Canada,AU
+N# 7243,1,2008,2008,25 Cents - Elizabeth II (Bobsleigh),Canada,AU
 N# 46561,1,2013,2013,25 Cents - Elizabeth II (Laura Secord; colored),Canada,AU
 N# 305,1,1971,1971,"50 Cents - Elizabeth II (2nd portrait, Nickel)",Canada,XF
 N# 465,1,1987,1987,1 Dollar - Elizabeth II (2nd portrait),Canada,AU
@@ -648,6 +652,7 @@ N# 4054,1,1932,1932,10 Centavos,Chile,XF
 N# 4054,1,1933,1933,10 Centavos,Chile,XF
 N# 4054,1,1934,1934,10 Centavos,Chile,VF
 N# 4054,1,1935,1935,10 Centavos,Chile,XF
+N# 4054,1,1935,1935,10 Centavos,Chile,VF
 N# 4054,1,1936,1936,10 Centavos,Chile,XF
 N# 4054,1,1937,1937,10 Centavos,Chile,XF
 N# 4054,2,1938,1938,10 Centavos,Chile,XF
@@ -732,12 +737,14 @@ N# 15945,1,1927,1927,1 Peso (0.5 on obverse; silver .500; coin alignment; with 1
 N# 15945,1,1927,1927,1 Peso (0.5 on obverse; silver .500; coin alignment; with 1 on reverse),Chile,VF
 N# 14503,1,1932,1932,1 Peso,Chile,XF
 N# 2951,2,1933,1933,1 Peso,Chile,XF
+N# 2951,1,1933,1933,1 Peso,Chile,F
 N# 2951,1,1940,1940,1 Peso,Chile,VF
 N# 3544,1,1942,1942,1 Peso,Chile,XF
 N# 3544,1,1943,1943,1 Peso,Chile,XF
 N# 3544,1,1943,1943,1 Peso,Chile,VG
 N# 3544,1,1944,1944,1 Peso,Chile,XF
 N# 3544,1,1945,1945,1 Peso,Chile,XF
+N# 3544,1,1945,1945,1 Peso,Chile,VG
 N# 3544,1,1946,1946,1 Peso,Chile,XF
 N# 3544,1,1947,1947,1 Peso,Chile,XF
 N# 3544,1,1947,1947,1 Peso,Chile,F
@@ -745,6 +752,7 @@ N# 3544,1,1948,1948,1 Peso,Chile,XF
 N# 3544,1,1948,1948,1 Peso,Chile,VF
 N# 3544,1,1949,1949,1 Peso,Chile,XF
 N# 3544,1,1950,1950,1 Peso,Chile,XF
+N# 3544,1,1950,1950,1 Peso,Chile,F
 N# 3544,1,1951,1951,1 Peso,Chile,XF
 N# 3544,1,1952,1952,1 Peso,Chile,XF
 N# 3544,1,1953,1953,1 Peso,Chile,XF
@@ -855,6 +863,7 @@ N# 4330,1,1972,1972,5 Escudos,Chile,AU
 N# 6810,1,1972,1972,5 Escudos,Chile,XF
 N# 1007,1,1974,1974,10 Escudos,Chile,AU
 N# 1007,1,1974,1974,10 Escudos,Chile,XF
+N# 1007,1,1974,1974,10 Escudos,Chile,XF
 N# 6881,1,1974,1974,50 Escudos,Chile,XF
 N# 6881,1,1975,1975,50 Escudos,Chile,XF
 N# 5401,1,1974,1974,100 Escudos,Chile,AU
@@ -873,6 +882,7 @@ N# 3540,1,1975,1975,1 Centavo,Chile,XF
 N# 6812,1,1975,1975,5 Centavos,Chile,AU
 N# 5999,1,1976,1976,5 Centavos,Chile,XF
 N# 6813,1,1975,1975,10 Centavos,Chile,AU
+N# 6813,1,1975,1975,10 Centavos,Chile,VF
 N# 6814,1,1976,1976,10 Centavos,Chile,VF
 N# 6814,1,1977,1977,10 Centavos,Chile,VF
 N# 6814,1,1978,1978,10 Centavos,Chile,AU
@@ -890,6 +900,7 @@ N# 2301,1,1976,1976,"1 Peso (""LIBERTADOR B. O'HIGGINS"")",Chile,XF
 N# 2301,1,1977,1977,"1 Peso (""LIBERTADOR B. O'HIGGINS"")",Chile,VF
 N# 2844,1,1978,1978,1 Peso (large issue),Chile,XF
 N# 2844,1,1979,1979,1 Peso (large issue),Chile,XF
+N# 2844,1,1979,1979,1 Peso (large issue),Chile,VF
 N# 2844,1,1979,1979,1 Peso (large issue),Chile,VF
 N# 5426,1,1981,1981,1 Peso (small issue),Chile,XF
 N# 5426,2,1984,1984,1 Peso (small issue),Chile,VF
@@ -1332,6 +1343,7 @@ N# 2855,1,1968,1968,5 Centavos (Patria y Libertad),Cuba,VF
 N# 2855,1,1971,1971,5 Centavos (Patria y Libertad),Cuba,F
 N# 245848,1,2017,2017,5 Centavos (Patria o Muerte),Cuba,F
 N# 2859,1,1972,1972,20 Centavos,Cuba,F
+N# 2853,1,2022,2022,1 Peso,Cuba,VF
 N# 4469,1,1995,1995,3 Pesos (Che Guevara),Cuba,AU
 N# 10097,1,1988,1988,5 Centavos (INTUR),Cuba,XF
 N# 928,1,1981,1981,"10 Centavos (INTUR - large ""10"")",Cuba,XF
@@ -1381,6 +1393,7 @@ N# 6401,1,1941,1941,2 Øre - Christian X (German Occupation; aluminium),Denmark,
 N# 6401,1,1941,1941,2 Øre - Christian X (German Occupation; aluminium),Denmark,VF
 N# 6400,1,1943,1943,2 Øre - Christian X (German Occupation; zinc),Denmark,F
 N# 1038,1,1950,1950,2 Øre - Frederik IX,Denmark,VF
+N# 1038,1,1963,1963,2 Øre - Frederik IX,Denmark,F
 N# 1038,1,1966,1966,2 Øre - Frederik IX,Denmark,
 N# 1038,1,1969,1969,2 Øre - Frederik IX,Denmark,
 N# 4925,1,1927,1927,5 Øre - Christian X,Denmark,AU
@@ -1455,8 +1468,10 @@ N# 836,1,1991,1991,1 Peso (non-magnetic),Dominican Republic,
 N# 836,1,2002,2002,1 Peso (non-magnetic),Dominican Republic,VF
 N# 45819,1,2008,2008,1 Peso (magnetic),Dominican Republic,XF
 N# 1400,1,1997,1997,5 Pesos (Central Bank),Dominican Republic,VF
+N# 2504,1,2005,2005,5 Pesos (magnetic),Dominican Republic,VF
 N# 2504,1,2010,2010,5 Pesos (magnetic),Dominican Republic,XF
 N# 220030,1,2008,2008,5 Pesos (non-magnetic),Dominican Republic,VF
+N# 157317,1,2017,2017,5 Pesos Dominicanos,Dominican Republic,VF
 N# 2401,1,2005,2005,10 Pesos,Dominican Republic,XF
 N# 165951,1,2017,2017,10 Pesos Dominicanos,Dominican Republic,AU
 N# 3563,1,2008,2008,25 Pesos,Dominican Republic,XF
@@ -1530,6 +1545,7 @@ N# 4885,1,1969,1977,10 Santeem (Non magnetic),Ethiopia,VF
 N# 6268,1,1961,1961,6 Pence - Elizabeth II (1st portrait),Fiji,XF
 N# 2609,1,2001,2001,1 Cent - Elizabeth II (3rd portrait),Fiji,XF
 N# 949,1,1994,1994,5 Cents - Elizabeth II (3rd portrait),Fiji,AU
+N# 3048,1,1995,1995,"10 Cents - Elizabeth II (3rd portrait, large type)",Fiji,XF
 N# 42680,1,2012,2012,1 Dollar,Fiji,VF
 N# 12391,1,1917,1917,1 Penni (Civil War Coinage),Finland,VF
 N# 7023,1,1929,1929,10 Pennia,Finland,XF
@@ -1726,6 +1742,7 @@ N# 108,1,2003,2003,10 Euro Cents (1st map),"Germany, Federal Republic of",
 N# 109,1,2002,2002,20 Euro Cents (1st map),"Germany, Federal Republic of",XF
 N# 110,1,2002,2002,50 Euro Cents (1st map),"Germany, Federal Republic of",XF
 N# 111,1,2002,2002,1 Euro (1st map),"Germany, Federal Republic of",XF
+N# 474550,1,2026,2026,"2 Euros (Bundesländer II - ""Bremen"")","Germany, Federal Republic of",XF
 N# 2309,1,1991,1991,100 Cedis,Ghana,XF
 N# 6992,1,2012,2012,5 Pesewas,Ghana,AU
 N# 6994,1,2007,2007,10 Pesewas,Ghana,VF
@@ -1863,6 +1880,8 @@ N# 5312,1,2010,2010,2 Rupees,India,XF
 N# 24942,1,2017,2017,2 Rupees,India,XF
 N# 311195,1,2023,2023,2 Rupees (75th Year of Independence),India,AU
 N# 24943,1,2012,2012,5 Rupees,India,VF
+N# 66552,1,,2014,5 Rupees (Maulana Abul Kalam Azad),India,F
+N# 4849,1,1835,1835,¼ Anna,India - British,F
 N# 10784,1,1945,1945,"1 Anna - George VI (2nd portrait, small crown, low relief)",India - British,XF
 N# 11765,1,1961,1961,10 Centavos,"India, Portuguese",XF
 N# 4525,1,1995,1995,25 Rupiah,Indonesia,AU
@@ -1876,6 +1895,7 @@ N# 1677,1,2003,2003,200 Rupiah,Indonesia,XF
 N# 1676,1,2003,2003,500 Rupiah,Indonesia,AU
 N# 102250,1,2016,2016,500 Rupiah (T. B. Simatupang),Indonesia,AU
 N# 16213,1,2010,2010,1000 Rupiah,Indonesia,AU
+N# 131220,1,,,1 Pitis - Muhammad Bahauddin,"Palembang, Sultanate of",VG
 N# 10634,1,1316,1937,50 Dīnār - Rezā Pahlavī / Mohammad Rezā Pahlavī,Iran,VG
 N# 3763,1,1353,1974,5 Rials - Mohammad Rezā Pahlavī,Iran,AU
 N# 3300,1,1392,1972,50 Fils,Iraq,XF
@@ -1905,6 +1925,7 @@ N# 1404,1,1996,1996,5 Pence (small type),Ireland,XF
 N# 1457,1,1994,1994,10 Pence (small type),Ireland,XF
 N# 1403,1,1998,1998,20 Pence,Ireland,AU
 N# 1402,1,1998,1998,1 Pound / Punt,Ireland,XF
+N# 121,1,2004,2004,1 Euro Cent,Ireland,XF
 N# 123,1,2007,2007,5 Euro Cents,Ireland,AU
 N# 125,1,2002,2002,20 Euro Cents (1st map),Ireland,XF
 N# 126,1,2002,2002,50 Euro Cents (1st map),Ireland,XF
@@ -1933,8 +1954,10 @@ N# 5579,1,5768,2008,2 New Sheqalim,Israel,AU
 N# 3327,1,5750,1990,5 New Sheqalim,Israel,XF
 N# 3327,1,5758,1998,5 New Sheqalim,Israel,VF
 N# 2720,1,5771,2011,10 New Sheqalim,Israel,XF
+N# 38374,1,1826,1826,1 Centesimo - Carlo Felice (Bologna),United Provinces of Central Italy,F
 N# 4250,1,1867,1867,2 Centesimi - Victor Emmanuel II,Italy,XF
 N# 1277,1,1924,1924,5 Centesimi - Victor Emmanuel III,Italy,XF
+N# 1960,1,1921,1921,10 Centesimi - Victor Emmanuel III,Italy,VG
 N# 11202,1,1940,1940,20 Centesimi - Victor Emmanuel III (non-magnetic; reeded edge),Italy,XF
 N# 940,1,1950,1950,5 Lire,Italy,F
 N# 730,1,1954,1954,5 Lire,Italy,
@@ -1997,6 +2020,7 @@ N# 5435,1,12,1923,10 Sen - Taishō,Japan,F
 N# 5438,1,16,1941,10 Sen - Shōwa,Japan,XF
 N# 5437,1,25,1950,1 Yen - Shōwa,Japan,XF
 N# 1590,1,38,1963,1 Yen - Shōwa,Japan,VG
+N# 1590,1,39,1964,1 Yen - Shōwa,Japan,VG
 N# 1590,1,42,1967,1 Yen - Shōwa,Japan,
 N# 1590,1,45,1970,1 Yen - Shōwa,Japan,F
 N# 1590,1,51,1976,1 Yen - Shōwa,Japan,VF
@@ -2075,6 +2099,7 @@ N# 3684,1,1991,1991,1 Ringgit - Agong IX (Type 1 denomination),Malaysia,AU
 N# 4751,1,1433,2012,1 Laari (FAO),Maldives,AU
 N# 11540,1,1379,1960,25 Laari - Muhammad Fareed Didi,Maldives,F
 N# 4299,1,1972,1972,1 Cent,Malta,XF
+N# 1777,1,2001,2001,1 Cent,Malta,XF
 N# 1779,1,1993,1993,2 Cents,Malta,VF
 N# 1780,1,1995,1995,5 Cents,Malta,F
 N# 1784,1,1986,1986,1 Lira,Malta,XF
@@ -2142,6 +2167,7 @@ N# 3095,1,2017,2017,5 Bani,Moldova,AU
 N# 4747,1,2016,2016,25 Bani,Moldova,VF
 N# 805,1,,1943,1 Franc - Louis II,Monaco,VF
 N# 8261,1,1959,1959,10 Möngö,Mongolia,XF
+N# 944,1,1370,1951,5 Francs - Mohammed V,Morocco,F
 N# 2321,1,1407,1987,10 Santimat / Centimes (FAO),Morocco,XF
 N# 997,1,1394,1974,50 Santimat / Centimes - Hassan II (2nd portrait),Morocco,XF
 N# 997,1,1394,1974,50 Santimat / Centimes - Hassan II (2nd portrait),Morocco,VF
@@ -2288,6 +2314,7 @@ N# 3716,1,1942,1942,10 Øre (German Occupation Coinage),Norway,VG
 N# 1435,1,,,10 Øre - Haakon VII,Norway,G
 N# 1435,1,1957,1957,10 Øre - Haakon VII,Norway,XF
 N# 1428,1,1960,1960,10 Øre - Olav V (Large letters),Norway,XF
+N# 1428,1,1961,1961,10 Øre - Olav V (Large letters),Norway,VF
 N# 1428,1,1967,1967,10 Øre - Olav V (Large letters),Norway,
 N# 1428,1,1969,1969,10 Øre - Olav V (Large letters),Norway,VF
 N# 1429,1,1978,1978,10 Øre - Olav V,Norway,VF
@@ -2299,6 +2326,7 @@ N# 1436,1,1952,1952,25 Øre - Haakon VII,Norway,AU
 N# 1436,1,1957,1957,25 Øre - Haakon VII,Norway,
 N# 1431,1,1967,1967,25 Øre - Olav V,Norway,XF
 N# 3704,1,1975,1975,25 Øre - Olav V,Norway,XF
+N# 3704,1,1977,1977,25 Øre - Olav V,Norway,VF
 N# 1454,1,1926,1926,50 Øre - Haakon VII,Norway,VF
 N# 1437,1,1955,1955,50 Øre - Haakon VII,Norway,AU
 N# 1438,1,1971,1971,50 Øre - Olav V,Norway,XF
@@ -2509,6 +2537,7 @@ N# 131048,1,2019,2019,"5 Piso (Round, BSP seal type 1)",Philippines,AU
 N# 5632,1,1937,1937,5 Groszy,Poland,F
 N# 2066,1,1966,1966,10 Groszy,Poland,AU
 N# 2066,1,1975,1975,10 Groszy,Poland,VF
+N# 2759,1,1961,1961,20 Groszy,Poland,VG
 N# 2759,1,1963,1963,20 Groszy,Poland,
 N# 2759,1,1965,1965,20 Groszy,Poland,VF
 N# 2759,1,1969,1969,20 Groszy,Poland,VF
@@ -2551,6 +2580,7 @@ N# 775,1,1969,1969,1 Escudo,Portugal,AU
 N# 11952,1,1982,1982,1 Escudo,Portugal,XF
 N# 1241,1,1986,1986,1 Escudo,Portugal,XF
 N# 1241,1,1992,1992,1 Escudo,Portugal,
+N# 1241,1,1996,1996,1 Escudo,Portugal,VF
 N# 774,1,1974,1974,2.50 Escudos,Portugal,AU
 N# 774,1,1977,1977,2.50 Escudos,Portugal,XF
 N# 774,1,1982,1982,2.50 Escudos,Portugal,XF
@@ -2568,6 +2598,7 @@ N# 2384,1,1980,1980,25 Escudos,Portugal,AU
 N# 770,1,1986,1986,50 Escudos,Portugal,XF
 N# 1242,1,1991,1991,100 Escudos,Portugal,AU
 N# 1238,1,1991,1991,200 Escudos,Portugal,AU
+N# 153,1,2002,2002,1 Euro Cent,Portugal,VF
 N# 154,1,2002,2002,2 Euro Cents,Portugal,XF
 N# 154,1,2009,2009,2 Euro Cents,Portugal,
 N# 156,1,2002,2002,10 Euro Cents (1st map),Portugal,AU
@@ -2635,12 +2666,13 @@ N# 1669,1,1988,1988,10 Cents (ribbon upwards),Singapore,AU
 N# 1669,1,1990,1990,10 Cents (ribbon upwards),Singapore,
 N# 42895,1,2017,2017,10 Cents,Singapore,AU
 N# 975,1,1967,1967,20 Cents,Singapore,XF
-N# 1666,1,1985,1985,50 Cents (ribbon upwards),Singapore,VF
+N# 1666,1,1985,1985,50 Cents (ribbon upwards; reeded edge),Singapore,VF
 N# 42897,1,2015,2015,50 Cents,Singapore,AU
 N# 1663,1,1988,1988,1 Dollar (ribbon upwards),Singapore,VF
 N# 1665,1,1995,1995,1 Dollar (ribbon downwards),Singapore,AU
 N# 2487,1,1993,1993,10 Halierov,Slovakia,XF
 N# 2486,1,1993,1993,1 Koruna,Slovakia,XF
+N# 5090,1,2009,2009,1 Euro,Slovakia,XF
 N# 2141,1,1998,1998,2 Tolarja,Slovenia,AU
 N# 3487,1,1990,1990,50 Cents - Elizabeth II (3rd portrait; non-magnetic),Solomon Islands,AU
 N# 7668,1,2000,2000,10 Shillings (Ox),Somalia,AU
@@ -2717,6 +2749,7 @@ N# 1264,1,1997,1997,25 Pesetas (Melilla),Spain,AU
 N# 2222,1,1980,1981,50 Pesetas - Juan Carlos I (España '82),Spain,XF
 N# 4546,1,1990,1990,50 Pesetas - Juan Carlos I (Expo '92),Spain,VF
 N# 2555,1,1992,1992,50 Pesetas - Juan Carlos I (Sagrada Familia),Spain,XF
+N# 2738,1,1980,1980,100 Pesetas - Juan Carlos I (España '82),Spain,XF
 N# 1258,1,1984,1984,"100 Pesetas - Juan Carlos I (Value as ""CIEN"")",Spain,XF
 N# 2986,1,1999,1999,100 Pesetas - Juan Carlos I (Year of Older Persons),Spain,XF
 N# 2285,1,1987,1987,200 Pesetas - Juan Carlos I,Spain,AU
@@ -2830,6 +2863,7 @@ N# 1504,1,1963,1963,10 Öre - Gustaf VI Adolf,Sweden,AU
 N# 1504,1,1965,1965,10 Öre - Gustaf VI Adolf,Sweden,XF
 N# 1504,1,1968,1968,10 Öre - Gustaf VI Adolf,Sweden,
 N# 1504,1,1969,1969,10 Öre - Gustaf VI Adolf,Sweden,
+N# 1504,1,1970,1970,10 Öre - Gustaf VI Adolf,Sweden,VG
 N# 1466,1,1982,1982,10 Öre - Carl XVI Gustaf,Sweden,AU
 N# 1466,1,1982,1982,10 Öre - Carl XVI Gustaf,Sweden,
 N# 1466,1,1983,1983,10 Öre - Carl XVI Gustaf,Sweden,
@@ -3202,7 +3236,6 @@ N# 919,1,1955,1955,1 Shilling - Elizabeth II (Scottish shield; without 'BRITT:OM
 N# 919,1,1958,1958,1 Shilling - Elizabeth II (Scottish shield; without 'BRITT:OMN'),United Kingdom,XF
 N# 919,1,1960,1960,1 Shilling - Elizabeth II (Scottish shield; without 'BRITT:OMN'),United Kingdom,XF
 N# 919,1,1962,1962,1 Shilling - Elizabeth II (Scottish shield; without 'BRITT:OMN'),United Kingdom,XF
-N# 3470,1,1928,1928,1 Florin - George V (3rd issue),United Kingdom,VG
 N# 883,1,1947,1947,2 Shillings - George VI (with 'IND:IMP'),United Kingdom,VF
 N# 883,1,1948,1948,2 Shillings - George VI (with 'IND:IMP'),United Kingdom,VF
 N# 884,1,1950,1950,2 Shillings - George VI (without 'IND:IMP'),United Kingdom,XF
@@ -3214,6 +3247,7 @@ N# 885,1,1962,1962,2 Shillings - Elizabeth II (1st portrait; without 'BRITT:OMN'
 N# 885,1,1965,1965,2 Shillings - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,AU
 N# 885,1,1965,1965,2 Shillings - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,VF
 N# 885,1,1966,1966,2 Shillings - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,F
+N# 3470,1,1928,1928,1 Florin - George V (3rd issue),United Kingdom,VG
 N# 12819,1,1874,1874,½ Crown - Victoria (1st portrait; 2nd type),United Kingdom,VG
 N# 1295,1,1947,1947,½ Crown - George VI (2nd type),United Kingdom,AU
 N# 1295,1,1948,1948,½ Crown - George VI (2nd type),United Kingdom,VF
@@ -3342,6 +3376,7 @@ N# 875,2,1990,1990,5 Pence - Elizabeth II (3rd portrait; small type),United King
 N# 875,1,1991,1991,5 Pence - Elizabeth II (3rd portrait; small type),United Kingdom,XF
 N# 875,1,1991,1991,5 Pence - Elizabeth II (3rd portrait; small type),United Kingdom,VF
 N# 875,1,1992,1992,5 Pence - Elizabeth II (3rd portrait; small type),United Kingdom,
+N# 875,1,1995,1995,5 Pence - Elizabeth II (3rd portrait; small type),United Kingdom,VF
 N# 875,1,1996,1996,5 Pence - Elizabeth II (3rd portrait; small type),United Kingdom,F
 N# 876,1,2003,2003,5 Pence - Elizabeth II (4th portrait; Crowned Thistle),United Kingdom,
 N# 876,1,2005,2005,5 Pence - Elizabeth II (4th portrait; Crowned Thistle),United Kingdom,VF
@@ -3574,6 +3609,7 @@ N# 3476,1,1981,1981,2 Nuevos Pesos (FAO),Uruguay,AU
 N# 5307,1,1989,1989,5 Nuevos Pesos,Uruguay,XF
 N# 3630,1,1981,1981,10 Nuevos Pesos,Uruguay,XF
 N# 7550,1,1989,1989,100 Nuevos Pesos,Uruguay,AU
+N# 4099,1,1989,1989,200 Nuevos Pesos,Uruguay,XF
 N# 3055,1,1994,1994,50 Centésimos,Uruguay,AU
 N# 3055,1,1998,1998,50 Centésimos,Uruguay,VF
 N# 1096,1,2007,2007,1 Peso Uruguayo,Uruguay,XF
