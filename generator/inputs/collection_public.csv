@@ -170,7 +170,16 @@ N# 201699,1,,2019,200 Pesos,Argentina,
 N# 206624,1,,2016-2018,500 Pesos,Argentina,
 N# 375850,1,,,Casino Token - Casinos del Sur,Argentina,
 N# 3067,1,2004,2004,10 Dram,Armenia,AU
+N# 1564,1,1916,1916,½ Penny - George V,Australia,F
+N# 1564,1,1932,1932,½ Penny - George V,Australia,F
+N# 5320,1,1941,1941,½ Penny - George VI,Australia,F
+N# 8948,1,1951,1951,"½ Penny - George VI (without ""IND:IMP"")",Australia,F
+N# 3149,1,1961,1961,"½ Penny - Elizabeth II (1st Portrait; with ""F:D:"")",Australia,VF
+N# 1269,1,1912,1912,1 Penny - George V,Australia,F
+N# 1269,1,1920,1920,1 Penny - George V,Australia,F
 N# 5788,1,1944,1944,1 Penny - George VI,Australia,F
+N# 5788,1,1948,1948,1 Penny - George VI,Australia,F
+N# 1561,1,1949,1949,"1 Penny - George VI (without ""IND:IMP"")",Australia,F
 N# 1559,1,1966,1966,1 Cent - Elizabeth II (2nd Portrait),Australia,F
 N# 1559,1,1974,1974,1 Cent - Elizabeth II (2nd Portrait),Australia,XF
 N# 1558,1,1966,1966,2 Cents - Elizabeth II (2nd Portrait),Australia,F
@@ -1260,20 +1269,45 @@ N# 1577,1,1989,1989,1 Dollar - Elizabeth II (3rd portrait),Hong Kong,AU
 N# 2118,1,1995,1995,1 Dollar,Hong Kong,XF
 N# 4218,1,1980,1980,5 Dollars - Elizabeth II (2nd portrait),Hong Kong,AU
 N# 6987,1,2010,2010,5 Patacas,Macau,AU
+N# 9194,1,1946,1946,1 Centavo (Liberty),Colombia,F
+N# 6826,1,1959,1959,1 Centavo (Phrygian Cap),Colombia,VF
 N# 1010,1,1967,1967,1 Centavo,Colombia,XF
+N# 10162,1,1938,1938,2 Centavos,Colombia,F
+N# 27533,1,1948,1948,2 Centavos,Colombia,F
+N# 5096,1,1952,1952,2 Centavos (Divided legend),Colombia,F
+N# 12804,1,1959,1959,2 Centavos (Continuous legend),Colombia,F
+N# 7527,1,1881,1881,2½ Centavos,Colombia,F
+N# 34689,1,1881,1881,2½ Centavos (United States of Colombia),Colombia,VF
+N# 3005,1,1886,1886,5 Centavos (Denomination within wreath),Colombia,VG
+N# 34695,1,1886,1886,5 Centavos (Denomination flanked by sprays),Colombia,VG
 N# 3010,1,1938,1938,5 Centavos (Liberty),Colombia,VG
 N# 1363,1,1943,1943,5 Centavos (Phrygian Cap),Colombia,G
 N# 5571,1,1969,1969,5 Centavos,Colombia,VF
+N# 5571,1,1978,1978,5 Centavos,Colombia,AU
 N# 5094,1,1959,1959,10 Centavos,Colombia,VF
+N# 6313,1,1967,1967,10 Centavos (continuous legend; big letters),Colombia,F
 N# 2434,1,1969,1969,10 Centavos (divided legend),Colombia,XF
 N# 1399,1,1972,1972,10 Centavos (continuous legend; small letters),Colombia,VF
+N# 1323,1,1956,1956,20 Centavos,Colombia,F
+N# 1323,1,1956,1956,20 Centavos,Colombia,VG
 N# 1323,1,1966,1966,20 Centavos,Colombia,VF
+N# 7540,1,1965,1965,20 Centavos,Colombia,AU
+N# 7540,1,1965,1965,20 Centavos,Colombia,XF
+N# 6425,1,1968,1968,20 Centavos (continuous legend; big letters),Colombia,VF
+N# 14518,1,1971,1971,"20 Centavos (legend divided after ""DE"")",Colombia,F
 N# 5429,1,1979,1979,20 Centavos (no gap in legend; small letters),Colombia,XF
 N# 7599,1,1979,1979,25 Centavos,Colombia,XF
+N# 5594,1,1959,1959,50 Centavos,Colombia,VF
+N# 7537,1,1965,1965,50 Centavos,Colombia,VF
+N# 6426,1,1968,1968,50 Centavos,Colombia,XF
 N# 5098,1,1979,1979,50 Centavos,Colombia,VF
 N# 6829,1,1967,1967,1 Peso,Colombia,AU
 N# 1359,1,1976,1976,1 Peso,Colombia,VF
 N# 1359,1,1979,1979,1 Peso,Colombia,XF
+N# 1351,1,1977,1977,2 Pesos,Colombia,AU
+N# 1351,1,1979,1979,2 Pesos,Colombia,AU
+N# 9861,1,1968,1968,5 Pesos (Int. Eucharistic Congress),Colombia,XF
+N# 9860,1,1971,1971,5 Pesos (Pan-American Games),Colombia,XF
 N# 910,1,1987,1987,5 Pesos,Colombia,VF
 N# 2846,1,1991,1991,5 Pesos,Colombia,VF
 N# 2435,1,1988,1988,10 Pesos,Colombia,VF
@@ -1282,6 +1316,8 @@ N# 2303,1,1985,1985,20 Pesos,Colombia,VF
 N# 2847,1,1990,1990,20 Pesos,Colombia,VF
 N# 2847,1,1991,1991,20 Pesos,Colombia,XF
 N# 2581,1,2005,2005,20 Pesos,Colombia,XF
+N# 2581,1,2005,2005,20 Pesos,Colombia,XF
+N# 5430,1,1988,1988,50 Pesos (National Constitution),Colombia,F
 N# 1073,1,1991,1991,50 Pesos (non-magnetic),Colombia,XF
 N# 1073,1,2005,2005,50 Pesos (non-magnetic),Colombia,VF
 N# 47429,1,2012,2012,50 Pesos (magnetic),Colombia,AU
@@ -1301,6 +1337,8 @@ N# 2432,1,1995,1995,500 Pesos,Colombia,AU
 N# 34774,1,2017,2017,500 Pesos,Colombia,AU
 N# 7524,1,1996,1996,1000 Pesos,Colombia,VF
 N# 34775,1,2015,2015,1000 Pesos,Colombia,AU
+N# 442575,1,2024,2024,20 000 Pesos (Guarniel - Carriel Antioqueño),Colombia,AU
+N# 6830,1,1921,1921,2 Centavos (Leprosarium Coinage),Colombia,F
 N# 35655,1,2011,2011,Mint Token - Bicencennial of Independence of Cartagena,Colombia,AU
 N# 3536,1,1967,1967,10 Sengi,Republic of the Congo (Léopoldville),AU
 N# 7679,1,2002,2002,25 Centimes (Weasel),Democratic Republic of the Congo,UNC
@@ -1507,6 +1545,7 @@ N# 1769,1,1988,1988,50 Sucres,Ecuador,XF
 N# 6528,1,1995,1995,100 Sucres (Bicentennial of Birth of Antonio José de Sucre),Ecuador,XF
 N# 6528,1,1995,1995,100 Sucres (Bicentennial of Birth of Antonio José de Sucre),Ecuador,
 N# 5014,1,1996,1996,1000 Sucres,Ecuador,XF
+N# 1772,1,1997,1997,1000 Sucres (70th Anniversary - Central Bank),Ecuador,VF
 N# 2977,1,2000,2000,1 Centavo,Ecuador,VF
 N# 3003,1,2003,2003,1 Centavo,Ecuador,XF
 N# 2982,1,2000,2000,5 Centavos,Ecuador,XF
@@ -1683,20 +1722,27 @@ N# 6076,1,1956,1956,1 Deutsche Mark,German Democratic Republic,XF
 N# 2031,1,1975,1975,1 Mark,German Democratic Republic,XF
 N# 3110,1,1969,1969,5 Mark - 20 Years of GDR (Nickel Bronze),German Democratic Republic,F
 N# 29789,1,1856,1856,1 Kreuzer,"Frankfurt, Free imperial city of",G
+N# 853,1,1911,1911,1 Pfennig (type 2 - small shield),Germany (1871-1948),F
 N# 2557,1,1907,1907,2 Pfennigs (type 2 - small shield),Germany (1871-1948),VF
+N# 2557,1,1913,1913,2 Pfennigs (type 2 - small shield),Germany (1871-1948),VF
 N# 1922,1,1875,1875,5 Pfennigs (type 1 - large shield),Germany (1871-1948),VG
 N# 1916,1,1900,1900,5 Pfennigs (type 2 - small shield),Germany (1871-1948),F
 N# 1916,1,1900,1900,5 Pfennigs (type 2 - small shield),Germany (1871-1948),F
 N# 1916,1,1908,1908,5 Pfennigs (type 2 - small shield),Germany (1871-1948),F
+N# 1916,1,1909,1909,5 Pfennigs (type 2 - small shield),Germany (1871-1948),VF
+N# 2587,1,1917,1917,5 Pfennigs (type 2 - small shield),Germany (1871-1948),F
 N# 6078,1,1875,1875,10 Pfennigs (type 1 - large shield),Germany (1871-1948),VG
 N# 6078,1,1876,1876,10 Pfennigs (type 1 - large shield),Germany (1871-1948),F
+N# 1915,1,1900,1900,10 Pfennigs (type 2 - small shield),Germany (1871-1948),F
 N# 1915,1,1901,1901,10 Pfennigs (type 2 - small shield),Germany (1871-1948),VF
 N# 1915,1,1908,1908,10 Pfennigs (type 2 - small shield),Germany (1871-1948),VF
 N# 1915,1,1914,1914,10 Pfennigs (type 2 - small shield),Germany (1871-1948),F
 N# 1953,1,1917,1917,10 Pfennigs (type 2 - small shield; beaded border),Germany (1871-1948),VF
+N# 1954,1,1917,1917,10 Pfennigs (type 2 - small shield; without mintmarks),Germany (1871-1948),F
 N# 1954,1,1918,1918,10 Pfennigs (type 2 - small shield; without mintmarks),Germany (1871-1948),VG
 N# 1954,1,1919,1919,10 Pfennigs (type 2 - small shield; without mintmarks),Germany (1871-1948),F
 N# 1954,1,1921,1921,10 Pfennigs (type 2 - small shield; without mintmarks),Germany (1871-1948),
+N# 2729,1,1920,1920,50 Pfennig,Germany (1871-1948),VF
 N# 2729,1,1921,1921,50 Pfennig,Germany (1871-1948),F
 N# 2729,1,1921,1921,50 Pfennig,Germany (1871-1948),XF
 N# 7978,1,1923,1923,500 Mark,Germany (1871-1948),XF
@@ -2261,18 +2307,35 @@ N# 146,1,2001,2001,2 Euro Cents - Beatrix,Netherlands,XF
 N# 149,1,2001,2001,20 Euro Cents - Beatrix (1st map),Netherlands,AU
 N# 149,1,2002,2002,20 Euro Cents - Beatrix (1st map),Netherlands,
 N# 152,1,2001,2001,2 Euros - Beatrix (1st map),Netherlands,XF
+N# 3921,1,1952,1952,½ Penny - George VI (2nd type),New Zealand,F
+N# 3922,1,1959,1959,½ Penny - Elizabeth II (1st portrait),New Zealand,VF
+N# 3918,1,1947,1947,1 Penny - George VI (1st type),New Zealand,F
+N# 3919,1,1951,1951,1 Penny - George VI (2nd type),New Zealand,F
 N# 3919,1,1952,1952,1 Penny - George VI (2nd type),New Zealand,VF
 N# 3923,1,1954,1954,3 Pence - Elizabeth II (1st portrait),New Zealand,XF
+N# 9765,1,1952,1952,6 Pence - George VI (3rd type),New Zealand,VF
+N# 837,1,1965,1965,1 Shilling - Elizabeth II (1st portrait),New Zealand,VF
+N# 6081,1,1962,1962,1 Florin - Elizabeth II (1st Portrait),New Zealand,VF
+N# 12403,1,1961,1961,½ Crown - Elizabeth II (1st portrait),New Zealand,XF
 N# 1846,1,1967,1967,1 Cent - Elizabeth II (2nd portrait),New Zealand,XF
 N# 5215,1,1973,1973,2 Cents - Elizabeth II (2nd portrait),New Zealand,XF
 N# 1123,1,1975,1975,5 Cents - Elizabeth II (2nd portrait),New Zealand,XF
 N# 5251,1,1987,1987,5 Cents - Elizabeth II (3rd portrait),New Zealand,XF
+N# 5251,1,1988,1988,5 Cents - Elizabeth II (3rd portrait),New Zealand,XF
+N# 8008,1,1969,1969,10 Cents / 1 Shilling - Elizabeth II (2nd portrait),New Zealand,XF
 N# 3523,1,1987,1987,10 Cents - Elizabeth II (3rd portrait),New Zealand,VF
+N# 3926,1,2001,2001,"10 Cents - Elizabeth II (4th portrait; Non-Magnetic, Large type)",New Zealand,XF
 N# 3297,1,2006,2006,"10 Cents - Elizabeth II (4th portrait; Magnetic, Small Type)",New Zealand,
 N# 3297,1,2015,2015,"10 Cents - Elizabeth II (4th portrait; Magnetic, Small Type)",New Zealand,AU
+N# 3914,1,1987,1987,20 Cents - Elizabeth II (3rd portrait; Kiwi),New Zealand,VF
+N# 2619,1,2006,2006,20 Cents - Elizabeth II (4th portrait; Magnetic),New Zealand,AU
 N# 2619,1,2015,2015,20 Cents - Elizabeth II (4th portrait; Magnetic),New Zealand,AU
+N# 3915,1,1967,1967,50 Cents - Elizabeth II (2nd portrait),New Zealand,VF
+N# 22619,1,1969,1969,50 Cents - Elizabeth II (2nd Portrait - Captain Cook Bicentenary),New Zealand,XF
 N# 3927,1,2006,2006,50 Cents - Elizabeth II (4th portrait; Magnetic),New Zealand,AU
 N# 3927,1,2006,2006,50 Cents - Elizabeth II (4th portrait; Magnetic),New Zealand,XF
+N# 3927,1,2009,2009,50 Cents - Elizabeth II (4th portrait; Magnetic),New Zealand,AU
+N# 3927,1,2016,2016,50 Cents - Elizabeth II (4th portrait; Magnetic),New Zealand,AU
 N# 2620,1,2013,2013,1 Dollar - Elizabeth II (4th Portrait),New Zealand,AU
 N# 3928,1,2008,2008,2 Dollars - Elizabeth II (4th Portrait),New Zealand,XF
 N# 118350,1,2017,2017,1 Cent - Elizabeth II (4th portrait),Tokelau,AU
@@ -2298,12 +2361,14 @@ N# 6067,1,2008,2008,5 Denari,North Macedonia,AU
 N# 4127,1,1948,1948,1 Øre - Haakon VII,Norway,XF
 N# 1432,1,1957,1957,1 Øre - Haakon VII,Norway,VF
 N# 1424,1,1969,1969,1 Øre - Olav V,Norway,XF
+N# 4128,1,1876,1876,2 Øre - Oscar II,Norway,VF
 N# 1433,1,1936,1936,2 Øre - Haakon VII,Norway,XF
 N# 7747,1,1952,1952,2 Øre - Haakon VII,Norway,VF
 N# 7747,1,1956,1956,2 Øre - Haakon VII,Norway,XF
 N# 4934,1,1958,1958,2 Øre - Olav V (Small letters),Norway,XF
 N# 1425,1,1971,1971,2 Øre - Olav V (Large letters),Norway,XF
 N# 4142,1,1902,1902,5 Øre - Oscar II,Norway,VF
+N# 1434,1,1938,1938,5 Øre - Haakon VII,Norway,VF
 N# 1426,1,1965,1965,5 Øre - Olav V,Norway,XF
 N# 1427,1,1974,1974,5 Øre,Norway,VF
 N# 1427,1,1979,1979,5 Øre,Norway,
@@ -2322,30 +2387,43 @@ N# 1429,1,1980,1980,10 Øre - Olav V,Norway,XF
 N# 1429,1,1987,1987,10 Øre - Olav V,Norway,
 N# 1429,1,1990,1990,10 Øre - Olav V,Norway,VF
 N# 4129,1,1924,1924,25 Øre - Haakon VII,Norway,XF
+N# 4129,1,1940,1940,25 Øre - Haakon VII,Norway,VF
 N# 1436,1,1952,1952,25 Øre - Haakon VII,Norway,AU
 N# 1436,1,1957,1957,25 Øre - Haakon VII,Norway,
 N# 1431,1,1967,1967,25 Øre - Olav V,Norway,XF
 N# 3704,1,1975,1975,25 Øre - Olav V,Norway,XF
 N# 3704,1,1977,1977,25 Øre - Olav V,Norway,VF
 N# 1454,1,1926,1926,50 Øre - Haakon VII,Norway,VF
+N# 1454,1,1929,1929,50 Øre - Haakon VII,Norway,VF
+N# 1454,1,1949,1949,50 Øre - Haakon VII,Norway,VF
 N# 1437,1,1955,1955,50 Øre - Haakon VII,Norway,AU
+N# 1438,1,1958,1958,50 Øre - Olav V,Norway,VF
 N# 1438,1,1971,1971,50 Øre - Olav V,Norway,XF
+N# 1439,1,1975,1975,50 Øre,Norway,VF
 N# 1439,1,1976,1976,50 Øre,Norway,AU
 N# 1442,1,1996,1996,50 Øre,Norway,VF
 N# 1442,1,1997,1997,50 Øre,Norway,
 N# 1442,1,2001,2001,50 Øre,Norway,AU
 N# 1442,1,2002,2002,50 Øre,Norway,
 N# 1440,1,1925,1925,1 Krone - Haakon VII,Norway,XF
+N# 1440,1,1940,1940,1 Krone - Haakon VII,Norway,VF
+N# 2769,1,1954,1954,1 Krone - Haakon VII,Norway,VF
+N# 2769,1,1957,1957,1 Krone - Haakon VII,Norway,VF
 N# 2399,1,1970,1970,1 Krone - Olav V,Norway,VF
 N# 2399,1,1972,1972,1 Krone - Olav V,Norway,XF
 N# 984,1,1974,1974,1 Krone - Olav V,Norway,XF
+N# 984,1,1983,1983,1 Krone - Olav V,Norway,VF
 N# 1443,1,1993,1993,1 Krone - Harald V,Norway,XF
 N# 1444,1,1997,1997,1 Krone - Harald V,Norway,AU
 N# 1444,1,2005,2005,1 Krone - Harald V,Norway,
 N# 1444,1,2009,2009,1 Krone - Harald V,Norway,
 N# 1444,1,2010,2010,1 Krone - Harald V,Norway,VF
+N# 1445,1,1972,1972,5 Kroner - Olav V (Type 1),Norway,VF
+N# 1446,1,1975,1975,5 Kroner - Olav V (Type 2),Norway,VF
+N# 2398,1,1983,1983,10 Kroner - Olav V,Norway,F
 N# 1449,1,1995,1995,10 Kroner - Harald V,Norway,XF
 N# 1449,1,1995,1995,10 Kroner - Harald V,Norway,VF
+N# 1450,1,1995,1995,20 Kroner - Harald V,Norway,VF
 N# 7268,1,1390,1970,2 Baisa - Said,Muscat and Oman,XF
 N# 83111,1,1437,2015,5 Baisa - Qaboos (National Day),Oman,AU
 N# 5194,1,1327,1912,"5 Para - Mehmed V (""Reshat"" right of Toughra)",Ottoman Empire,XF
@@ -2845,6 +2923,7 @@ N# 1033,1,1956,1956,2 Öre - Gustaf VI Adolf,Sweden,XF
 N# 1033,1,1964,1964,2 Öre - Gustaf VI Adolf,Sweden,
 N# 1033,1,1970,1970,2 Öre - Gustaf VI Adolf,Sweden,
 N# 1033,1,1971,1971,2 Öre - Gustaf VI Adolf,Sweden,
+N# 6151,1,1899,1899,5 Öre - Oscar II (Large letters),Sweden,VF
 N# 6151,1,1903,1903,5 Öre - Oscar II (Large letters),Sweden,VF
 N# 1470,1,1911,1911,5 Öre - Gustaf V,Sweden,XF
 N# 1470,1,1930,1930,5 Öre - Gustaf V,Sweden,XF
@@ -3055,12 +3134,15 @@ N# 13119,1,,,1 Farthing - George II (older bust),United Kingdom,G
 N# 13162,1,,,1 Farthing - George III (3rd issue),United Kingdom,G
 N# 8484,1,,,1 Farthing - William IV,United Kingdom,VF
 N# 8484,1,1837,1837,1 Farthing - William IV,United Kingdom,VF
+N# 5500,1,1865,1865,1 Farthing - Victoria (2nd portrait; 1st type),United Kingdom,VG
 N# 1013,1,1875,1875,1 Farthing - Victoria (2nd portrait; 2nd type),United Kingdom,G
 N# 1013,1,1888,1888,1 Farthing - Victoria (2nd portrait; 2nd type),United Kingdom,VF
 N# 1013,1,1894,1894,1 Farthing - Victoria (2nd portrait; 2nd type),United Kingdom,XF
+N# 6640,1,1898,1898,1 Farthing - Victoria (3rd portrait),United Kingdom,F
 N# 5746,1,1904,1904,1 Farthing - Edward VII,United Kingdom,XF
 N# 4097,1,1916,1916,1 Farthing - George V,United Kingdom,F
 N# 4097,1,1918,1918,1 Farthing - George V,United Kingdom,F
+N# 5545,1,1928,1928,1 Farthing - George V (modified effigy),United Kingdom,F
 N# 5545,1,1929,1929,1 Farthing - George V (modified effigy),United Kingdom,VF
 N# 5545,1,1931,1931,1 Farthing - George V (modified effigy),United Kingdom,XF
 N# 5545,1,1932,1932,1 Farthing - George V (modified effigy),United Kingdom,VF
@@ -3068,15 +3150,18 @@ N# 5545,1,1932,1932,1 Farthing - George V (modified effigy),United Kingdom,F
 N# 5545,1,1933,1933,1 Farthing - George V (modified effigy),United Kingdom,VF
 N# 3310,1,1942,1942,1 Farthing - George VI (with 'IND:IMP'),United Kingdom,XF
 N# 3310,1,1947,1947,1 Farthing - George VI (with 'IND:IMP'),United Kingdom,AU
+N# 7182,1,1950,1950,1 Farthing - George VI (without 'IND:IMP'),United Kingdom,F
 N# 7182,1,1951,1951,1 Farthing - George VI (without 'IND:IMP'),United Kingdom,XF
 N# 7182,1,1952,1952,1 Farthing - George VI (without 'IND:IMP'),United Kingdom,AU
 N# 7396,1,1953,1953,1 Farthing - Elizabeth II (1st portrait; with 'BRITT:OMN'),United Kingdom,VF
 N# 4212,1,,,½ Penny - George III (4th issue),United Kingdom,VG
 N# 4212,1,1806,1806,½ Penny - George III (4th issue),United Kingdom,VF
+N# 4212,1,1806,1806,½ Penny - George III (4th issue),United Kingdom,VG
 N# 4212,1,1806,1806,½ Penny - George III (4th issue),United Kingdom,G
 N# 4212,1,1806,1806,½ Penny - George III (4th issue),United Kingdom,G
 N# 12806,1,1853,1853,½ Penny - Victoria (1st portrait),United Kingdom,VF
 N# 872,1,1860,1860,½ Penny - Victoria (2nd portrait; 1st type),United Kingdom,F
+N# 4575,1,1874,1874,½ Penny - Victoria (2nd portrait; 2nd type),United Kingdom,VF
 N# 4575,1,1888,1888,½ Penny - Victoria (2nd portrait; 2nd type),United Kingdom,VF
 N# 4576,1,,,½ Penny - Victoria (3rd portrait),United Kingdom,G
 N# 1867,1,1903,1903,½ Penny - Edward VII,United Kingdom,VF
@@ -3143,8 +3228,10 @@ N# 670,1,1895,1895,1 Penny - Victoria (3rd portrait),United Kingdom,VF
 N# 670,1,1896,1896,1 Penny - Victoria (3rd portrait),United Kingdom,F
 N# 670,1,1899,1899,1 Penny - Victoria (3rd portrait),United Kingdom,VF
 N# 670,2,1899,1899,1 Penny - Victoria (3rd portrait),United Kingdom,VF
+N# 670,1,1900,1900,1 Penny - Victoria (3rd portrait),United Kingdom,VG
 N# 670,2,1901,1901,1 Penny - Victoria (3rd portrait),United Kingdom,VF
 N# 857,1,1902,1902,1 Penny - Edward VII,United Kingdom,F
+N# 857,1,1903,1903,1 Penny - Edward VII,United Kingdom,VG
 N# 857,1,1907,1907,1 Penny - Edward VII,United Kingdom,VF
 N# 857,1,1907,1907,1 Penny - Edward VII,United Kingdom,F
 N# 857,2,1910,1910,1 Penny - Edward VII,United Kingdom,F
@@ -3216,6 +3303,7 @@ N# 576,1,1965,1965,6 Pence - Elizabeth II (1st portrait; without 'BRITT:OMN'),Un
 N# 576,1,1966,1966,6 Pence - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,VF
 N# 576,1,1967,1967,6 Pence - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,XF
 N# 4416,1,1927,1927,1 Shilling - George V (4th type),United Kingdom,XF
+N# 2346,1,1947,1947,1 Shilling - George VI (English crest; with 'IND:IMP'),United Kingdom,F
 N# 2346,2,1948,1948,1 Shilling - George VI (English crest; with 'IND:IMP'),United Kingdom,XF
 N# 1112,1,1947,1947,1 Shilling - George VI (Scottish crest; with 'IND:IMP'),United Kingdom,VF
 N# 1112,2,1948,1948,1 Shilling - George VI (Scottish crest; with 'IND:IMP'),United Kingdom,XF
@@ -3236,6 +3324,7 @@ N# 919,1,1955,1955,1 Shilling - Elizabeth II (Scottish shield; without 'BRITT:OM
 N# 919,1,1958,1958,1 Shilling - Elizabeth II (Scottish shield; without 'BRITT:OMN'),United Kingdom,XF
 N# 919,1,1960,1960,1 Shilling - Elizabeth II (Scottish shield; without 'BRITT:OMN'),United Kingdom,XF
 N# 919,1,1962,1962,1 Shilling - Elizabeth II (Scottish shield; without 'BRITT:OMN'),United Kingdom,XF
+N# 919,1,1963,1963,1 Shilling - Elizabeth II (Scottish shield; without 'BRITT:OMN'),United Kingdom,VF
 N# 883,1,1947,1947,2 Shillings - George VI (with 'IND:IMP'),United Kingdom,VF
 N# 883,1,1948,1948,2 Shillings - George VI (with 'IND:IMP'),United Kingdom,VF
 N# 884,1,1950,1950,2 Shillings - George VI (without 'IND:IMP'),United Kingdom,XF
@@ -3244,6 +3333,7 @@ N# 6981,1,1953,1953,2 Shillings - Elizabeth II (1st portrait; with 'BRITT:OMN'),
 N# 885,1,1954,1954,2 Shillings - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,
 N# 885,1,1956,1956,2 Shillings - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,VF
 N# 885,1,1962,1962,2 Shillings - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,XF
+N# 885,1,1963,1963,2 Shillings - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,F
 N# 885,1,1965,1965,2 Shillings - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,AU
 N# 885,1,1965,1965,2 Shillings - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,VF
 N# 885,1,1966,1966,2 Shillings - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,F
@@ -3252,6 +3342,7 @@ N# 12819,1,1874,1874,½ Crown - Victoria (1st portrait; 2nd type),United Kingdom
 N# 1295,1,1947,1947,½ Crown - George VI (2nd type),United Kingdom,AU
 N# 1295,1,1948,1948,½ Crown - George VI (2nd type),United Kingdom,VF
 N# 1296,1,1949,1949,½ Crown - George VI (3rd type; no 'IND:IMP'),United Kingdom,XF
+N# 9538,1,1953,1953,½ Crown - Elizabeth II (1st portrait; with 'BRITT:OMN'),United Kingdom,XF
 N# 9538,1,1953,1953,½ Crown - Elizabeth II (1st portrait; with 'BRITT:OMN'),United Kingdom,VF
 N# 1069,1,1958,1958,½ Crown - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,AU
 N# 1069,1,1958,1958,½ Crown - Elizabeth II (1st portrait; without 'BRITT:OMN'),United Kingdom,VF
