@@ -100,6 +100,7 @@ N# 5232,1,1978,1978,50 Pesos (Soccer),Argentina,XF
 N# 5233,1,1978,1978,50 Pesos (José de San Martín),Argentina,XF
 N# 5235,1,1979,1979,50 Pesos (non-magnetic),Argentina,VF
 N# 5237,1,1978,1978,100 Pesos (non-magnetic),Argentina,VF
+N# 5237,1,1979,1979,100 Pesos (non-magnetic),Argentina,VF
 N# 5237,1,1980,1980,100 Pesos (non-magnetic),Argentina,VF
 N# 5238,1,1979,1979,100 Pesos (Patagonia Conquest),Argentina,XF
 N# 8117,1,1981,1981,100 Pesos (magnetic),Argentina,VF
@@ -319,6 +320,7 @@ N# 1249,1,1975,1975,5 Francs (Dutch text),Belgium,XF
 N# 757,1,1986,1986,5 Francs - Baudouin I (French text),Belgium,XF
 N# 757,1,1993,1993,5 Francs - Baudouin I (French text),Belgium,
 N# 1250,1,1986,1986,5 Francs - Baudouin I (Dutch text),Belgium,XF
+N# 1358,1,1969,1969,10 Francs - Baudouin I (French text),Belgium,XF
 N# 753,1,1980,1980,20 Francs - Baudouin I (Dutch text),Belgium,XF
 N# 753,1,1980,1980,20 Francs - Baudouin I (Dutch text),Belgium,VF
 N# 75,1,1999,1999,"10 Euro Cents - Albert II (1st map, 1st type, 1st portrait)",Belgium,XF
@@ -335,6 +337,7 @@ N# 5107,1,1975,1975,5 Chetrums - Jigme Singye,Bhutan,AU
 N# 41652,1,1794,1794,4 Reales - Charles IV,Bolivia,VF
 N# 3221,1,1893,1893,5 Centavos,Bolivia,VF
 N# 4905,1,1935,1935,10 Centavos (Copper-Nickel),Bolivia,VF
+N# 4905,1,1939,1939,10 Centavos (Copper-Nickel),Bolivia,XF
 N# 3224,1,1965,1965,50 Centavos,Bolivia,VF
 N# 3224,1,1967,1967,50 Centavos,Bolivia,VF
 N# 3226,1,1969,1969,1 Peso Boliviano,Bolivia,AU
@@ -362,6 +365,7 @@ N# 6440,1,1901,1901,200 Réis (Liberty),Brazil,F
 N# 9636,1,1938,1938,200 Réis,Brazil,VF
 N# 6773,1,1901,1901,400 Réis (Liberty),Brazil,F
 N# 20883,1,1943,1943,10 Centavos,Brazil,VF
+N# 10251,1,1945,1945,10 Centavos,Brazil,VF
 N# 10251,1,1946,1946,10 Centavos,Brazil,F
 N# 6792,1,1951,1951,10 Centavos (José Bonifácio),Brazil,VF
 N# 5378,1,1945,1945,20 Centavos,Brazil,VF
@@ -397,6 +401,7 @@ N# 2576,1,1981,1981,5 Cruzeiros,Brazil,AU
 N# 2576,1,1983,1983,5 Cruzeiros,Brazil,XF
 N# 2241,1,1983,1983,10 Cruzeiros (Brazil's main roads),Brazil,AU
 N# 5385,1,1984,1984,20 Cruzeiros,Brazil,AU
+N# 5385,1,1985,1985,20 Cruzeiros,Brazil,AU
 N# 2246,1,1981,1981,50 Cruzeiros,Brazil,XF
 N# 4052,1,1986,1986,100 Cruzeiros,Brazil,AU
 N# 5387,1,1986,1986,1 Centavo,Brazil,AU
@@ -489,6 +494,7 @@ N# 9875,1,1980,1980,1 Penny - Elizabeth II (Manx cat),Isle of Man,AU
 N# 7339,1,1988,1988,2 Pence - Elizabeth II (Hand Working Tools),Isle of Man,VF
 N# 3734,1,1991,1991,5 Pence - Elizabeth II (Windsurfing; reduced size),Isle of Man,XF
 N# 10733,1,1975,1975,10 New Pence - Elizabeth II (Three Legs of Man),Isle of Man,XF
+N# 83245,1,1995,1995,1 Crown - Elizabeth II (Montgolfier Brother's Balloon),Isle of Man,UNC
 N# 9864,1,1937,1937,1⁄24 Shilling - George VI,Jersey,VF
 N# 9864,1,1947,1947,1⁄24 Shilling - George VI,Jersey,VF
 N# 7391,1,1923,1923,1⁄12 Shilling - George V,Jersey,XF
@@ -695,11 +701,11 @@ N# 6808,1,1924,1924,20 Centavos,Chile,F
 N# 6808,1,1924,1924,20 Centavos,Chile,F
 N# 6808,1,1925,1925,20 Centavos,Chile,VF
 N# 6808,1,1929,1929,20 Centavos,Chile,VF
-N# 6808,2,1929,1929,20 Centavos,Chile,F
 N# 6808,1,1929,1929,20 Centavos,Chile,VF
-N# 6808,1,1932,1932,20 Centavos,Chile,XF
+N# 6808,2,1929,1929,20 Centavos,Chile,F
 N# 6808,1,1932,1932,20 Centavos,Chile,XF
 N# 6808,2,1932,1932,20 Centavos,Chile,F
+N# 6808,1,1932,1932,20 Centavos,Chile,XF
 N# 6808,1,1933,1933,20 Centavos,Chile,XF
 N# 6808,1,1933,1933,20 Centavos,Chile,XF
 N# 6808,1,1937,1937,20 Centavos,Chile,XF
@@ -1122,10 +1128,10 @@ N# 2834,1,2002,2002,50 Pesos,Chile,XF
 N# 2834,1,2005,2005,50 Pesos,Chile,XF
 N# 2834,1,2006,2006,50 Pesos,Chile,XF
 N# 2834,1,2007,2007,50 Pesos,Chile,XF
-N# 2834,1,2008,2008,50 Pesos,Chile,VF
 N# 2834,3,2008,2008,50 Pesos,Chile,XF
 N# 2834,1,2008,2008,50 Pesos,Chile,XF
 N# 2834,6,2008,2008,50 Pesos,Chile,XF
+N# 2834,1,2008,2008,50 Pesos,Chile,VF
 N# 2834,1,2009,2009,50 Pesos,Chile,XF
 N# 2834,2,2009,2009,50 Pesos,Chile,XF
 N# 2834,1,2009,2009,50 Pesos,Chile,AU
@@ -1576,7 +1582,9 @@ N# 4408,1,1977,1977,1 Sucre (wavy hairstyle),Ecuador,VF
 N# 4686,1,1985,1985,1 Sucre,Ecuador,VF
 N# 1761,1,1988,1988,1 Sucre,Ecuador,XF
 N# 5114,1,1991,1991,5 Sucres,Ecuador,F
+N# 7703,1,1988,1988,10 Sucres,Ecuador,XF
 N# 7703,1,1991,1991,10 Sucres,Ecuador,VG
+N# 1768,1,1988,1988,20 Sucres,Ecuador,XF
 N# 1769,1,1988,1988,50 Sucres,Ecuador,XF
 N# 6528,1,1995,1995,100 Sucres (Bicentennial of Birth of Antonio José de Sucre),Ecuador,XF
 N# 6528,1,1995,1995,100 Sucres (Bicentennial of Birth of Antonio José de Sucre),Ecuador,
@@ -1709,6 +1717,7 @@ N# 6,1,1978,1978,"1 Franc (Signature ""O. Roty"")",France,VF
 N# 12,1,1988,1988,1 Franc (Charles de Gaulle),France,XF
 N# 7,1,1981,1981,2 Francs,France,XF
 N# 8,1,1978,1978,"5 Francs (signature ""O. Roty"")",France,XF
+N# 21,1,1989,1989,5 Francs (Eiffel Tower),France,UNC
 N# 683,1,1977,1977,10 Francs,France,XF
 N# 9,1,1989,1989,10 Francs (Génie de la Liberté),France,XF
 N# 9,1,1992,1992,10 Francs (Génie de la Liberté),France,
@@ -1734,6 +1743,7 @@ N# 102,1,1999,1999,50 Euro Cents (1st map),France,
 N# 102,1,2002,2002,50 Euro Cents (1st map),France,AU
 N# 103,1,1999,1999,1 Euro (1st map),France,XF
 N# 187193,1,2014,2014,Paris - Quatre monuments,France,XF
+N# 4200,1,1949,1949,1 Franc,French Settlements of Oceania,VF
 N# 1352,1,1977,1977,1 Franc (with IEOM),French Polynesia,F
 N# 3745,1,1965,1965,5 Francs (without IEOM),French Polynesia,VF
 N# 930,1,1982,1982,10 Francs (with IEOM),French Polynesia,XF
@@ -1915,6 +1925,7 @@ N# 1124,1,1967,1967,1 Forint,Hungary,F
 N# 1124,1,1968,1968,1 Forint,Hungary,
 N# 1124,1,1989,1989,1 Forint,Hungary,XF
 N# 1124,1,1989,1989,1 Forint,Hungary,F
+N# 1999,1,1995,1995,1 Forint,Hungary,XF
 N# 1999,1,2001,2001,1 Forint,Hungary,AU
 N# 6940,1,1962,1962,2 Forint,Hungary,XF
 N# 1893,1,1972,1972,2 Forint,Hungary,XF
@@ -1953,6 +1964,7 @@ N# 1651,1,1972,1972,10 Paise,India,AU
 N# 1630,1,1983,1983,10 Paise,India,XF
 N# 1635,1,1986,1986,20 Paise,India,VF
 N# 1633,1,1974,1974,25 Paise,India,AU
+N# 3525,1,1975,1975,50 Paise,India,VF
 N# 15940,1,1982,1982,50 Paise (National Integration),India,AU
 N# 24941,1,2013,2013,1 Rupee,India,VF
 N# 5474,1,1992,1992,2 Rupees (National Integration; hendecagonal type),India,XF
@@ -2075,6 +2087,7 @@ N# 716,1,1993,1993,500 Lire (Bank of Italy Centennial),Italy,XF
 N# 10791,1,1997,1997,1000 Lire (European Union; Old West Germany Map),Italy,AU
 N# 129,1,2002,2002,1 Euro Cent,Italy,
 N# 129,1,2016,2016,1 Euro Cent,Italy,XF
+N# 130,1,2002,2002,2 Euro Cents,Italy,VF
 N# 131,1,2002,2002,5 Euro Cents,Italy,XF
 N# 131,1,2005,2005,5 Euro Cents,Italy,
 N# 131,1,2016,2016,5 Euro Cents,Italy,
@@ -2211,14 +2224,17 @@ N# 818,1,1980,1980,5 Pesos,Mexico,AU
 N# 3445,1,1985,1985,5 Pesos,Mexico,VF
 N# 1072,1,1979,1979,10 Pesos,Mexico,AU
 N# 927,1,1988,1988,10 Pesos,Mexico,AU
+N# 987,1,1982,1982,20 Pesos,Mexico,XF
 N# 1081,1,1988,1988,20 Pesos,Mexico,XF
 N# 7360,1,1988,1988,50 Pesos,Mexico,VF
 N# 7360,1,1992,1992,50 Pesos,Mexico,AU
 N# 961,1,1988,1988,100 Pesos,Mexico,VF
 N# 819,1,1987,1987,500 Pesos,Mexico,VF
 N# 581,1,2000,2000,10 Centavos (large type),Mexico,AU
+N# 581,1,2005,2005,10 Centavos (large type),Mexico,AU
 N# 18094,1,2013,2013,10 Centavos (small type),Mexico,AU
 N# 582,1,1992,1992,20 Centavos (large type),Mexico,AU
+N# 583,1,1993,1993,50 Centavos (large type),Mexico,VF
 N# 583,1,2005,2005,50 Centavos (large type),Mexico,VF
 N# 583,1,2008,2008,50 Centavos (large type),Mexico,
 N# 583,1,2009,2009,50 Centavos (large type),Mexico,AU
@@ -2284,11 +2300,13 @@ N# 14092,1,2054,1997,10 Rupees - Birendra Bir Bikram (Visit Nepal),Nepal,AU
 N# 5589,1,2010,2010,5 Cents,Aruba,AU
 N# 5349,1,2002,2002,10 Cents,Aruba,AU
 N# 902,1,2016,2016,25 Cents,Aruba,AU
+N# 6433,1,1999,1999,1 Florin - Beatrix,Aruba,XF
 N# 5781,1,1947,1947,2½ Cents,Curaçao,XF
 N# 167701,1,1943,1943,5 Cents,Curaçao,XF
 N# 1041,1,1998,1998,1 Cent,Netherlands Antilles,XF
 N# 1041,1,2001,2001,1 Cent,Netherlands Antilles,VF
 N# 8977,1,1959,1959,2½ Cents,Netherlands Antilles,XF
+N# 7660,1,1979,1979,2½ Cents,Netherlands Antilles,VF
 N# 3444,1,1971,1971,10 Cents,Netherlands Antilles,AU
 N# 2937,1,1991,1991,25 Cents,Netherlands Antilles,AU
 N# 2938,1,2008,2008,1 Gulden - Beatrix,Netherlands Antilles,XF
@@ -2715,6 +2733,7 @@ N# 1238,1,1991,1991,200 Escudos,Portugal,AU
 N# 153,1,2002,2002,1 Euro Cent,Portugal,VF
 N# 154,1,2002,2002,2 Euro Cents,Portugal,XF
 N# 154,1,2009,2009,2 Euro Cents,Portugal,
+N# 155,1,2002,2002,5 Euro Cents,Portugal,VF
 N# 156,1,2002,2002,10 Euro Cents (1st map),Portugal,AU
 N# 157,1,2002,2002,20 Euro Cents (1st map),Portugal,XF
 N# 4827,1,1398,1978,5 Dirhams,Qatar,AU
@@ -2759,6 +2778,7 @@ N# 4452,1,1985,1985,1 Franc,Rwanda,AU
 N# 5916,1,2003,2003,50 Francs (Type 1 legend),Rwanda,AU
 N# 1478,1,2000,2000,2 Sene - Tanumafili II (FAO),Samoa,AU
 N# 9869,1,1976,1976,20 Lire (Hands),San Marino,AU
+N# 6354,1,1991,1991,500 Lire (Hospitable Land),San Marino,UNC
 N# 1756,1,1997,1997,2000 Dobras (FAO),São Tomé and Príncipe,AU
 N# 14756,1,1408,1988,1 Qirsh / 5 Halalāt - Fahd,Saudi Arabia,AU
 N# 964,1,1392,1972,2 Qirsh / 10 Halalāt - Fayṣal,Saudi Arabia,AU
@@ -2778,12 +2798,14 @@ N# 1669,1,1985,1985,10 Cents (ribbon upwards),Singapore,
 N# 1669,1,1986,1986,10 Cents (ribbon upwards),Singapore,AU
 N# 1669,1,1988,1988,10 Cents (ribbon upwards),Singapore,AU
 N# 1669,1,1990,1990,10 Cents (ribbon upwards),Singapore,
+N# 1674,1,1993,1993,10 Cents (ribbon downwards),Singapore,XF
 N# 42895,1,2017,2017,10 Cents,Singapore,AU
 N# 975,1,1967,1967,20 Cents,Singapore,XF
 N# 1666,1,1985,1985,50 Cents (ribbon upwards; reeded edge),Singapore,VF
 N# 42897,1,2015,2015,50 Cents,Singapore,AU
 N# 1663,1,1988,1988,1 Dollar (ribbon upwards),Singapore,VF
 N# 1665,1,1995,1995,1 Dollar (ribbon downwards),Singapore,AU
+N# 42898,1,2015,2015,1 Dollar,Singapore,XF
 N# 2487,1,1993,1993,10 Halierov,Slovakia,XF
 N# 2486,1,1993,1993,1 Koruna,Slovakia,XF
 N# 5090,1,2009,2009,1 Euro,Slovakia,XF
@@ -3098,6 +3120,7 @@ N# 822,1,1960,1960,5 Millimes,Tunisia,F
 N# 825,1,1380,1960,100 Millimes (non-magnetic),Tunisia,XF
 N# 1202,1,1418,1997,½ Dinar,Tunisia,VF
 N# 1204,1,1976,1976,1 Dinar (Habib Bourguiba),Tunisia,F
+N# 1205,1,1990,1990,1 Dinar (Country map),Tunisia,VF
 N# 5197,1,1972,1972,10 Kuruş,Turkey,VF
 N# 4198,1,1949,1949,25 Kuruş,Turkey,VG
 N# 7888,1,1969,1969,25 Kuruş,Turkey,AU
@@ -3121,6 +3144,7 @@ N# 6165,1,2021,2021,10 Kuruş,Turkey,AU
 N# 3042,1,2005,2005,25 Yeni Kuruş,Turkey,VF
 N# 6164,1,2009,2009,25 Kuruş,Turkey,XF
 N# 3043,1,2005,2005,50 Yeni Kuruş,Turkey,XF
+N# 7048,1,2020,2020,50 Kuruş,Turkey,VF
 N# 3044,1,2005,2005,1 Yeni Lira,Turkey,AU
 N# 6163,1,2015,2015,1 Lira (heavy type),Turkey,XF
 N# 4235,1,1993,1993,50 Teňňe,Turkmenistan,AU
@@ -3813,6 +3837,7 @@ N# 4872,1,1963,1963,10 Dinara (SFR legend),Yugoslavia,XF
 N# 1909,1,1955,1955,20 Dinara (FNR legend),Yugoslavia,F
 N# 1910,1,1955,1955,50 Dinara (FNR legend),Yugoslavia,VG
 N# 2007,1,1965,1965,10 Para,Yugoslavia,AU
+N# 2001,1,1965,1965,20 Para,Yugoslavia,VF
 N# 2001,1,1975,1975,20 Para,Yugoslavia,VF
 N# 2001,1,1980,1980,20 Para,Yugoslavia,
 N# 2001,1,1981,1981,20 Para,Yugoslavia,AU
