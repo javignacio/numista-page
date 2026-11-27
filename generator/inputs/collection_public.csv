@@ -150,9 +150,9 @@ N# 2216,3,1994,1994,25 Centavos,Argentina,
 N# 2216,2,1996,1996,25 Centavos,Argentina,
 N# 2297,1,1992,1992,50 Centavos,Argentina,
 N# 2297,1,1993,1993,50 Centavos,Argentina,
-N# 2297,1,1994,1994,50 Centavos,Argentina,VF
 N# 2297,1,1994,1994,50 Centavos,Argentina,XF
 N# 2297,2,1994,1994,50 Centavos,Argentina,XF
+N# 2297,1,1994,1994,50 Centavos,Argentina,VF
 N# 2297,1,2009,2009,50 Centavos,Argentina,AU
 N# 2297,1,2009,2009,50 Centavos,Argentina,
 N# 2217,2,1994,1994,1 Peso,Argentina,XF
@@ -704,11 +704,11 @@ N# 6808,1,1924,1924,20 Centavos,Chile,F
 N# 6808,1,1924,1924,20 Centavos,Chile,F
 N# 6808,1,1925,1925,20 Centavos,Chile,VF
 N# 6808,1,1929,1929,20 Centavos,Chile,VF
-N# 6808,1,1929,1929,20 Centavos,Chile,VF
 N# 6808,2,1929,1929,20 Centavos,Chile,F
+N# 6808,1,1929,1929,20 Centavos,Chile,VF
+N# 6808,1,1932,1932,20 Centavos,Chile,XF
 N# 6808,1,1932,1932,20 Centavos,Chile,XF
 N# 6808,2,1932,1932,20 Centavos,Chile,F
-N# 6808,1,1932,1932,20 Centavos,Chile,XF
 N# 6808,1,1933,1933,20 Centavos,Chile,XF
 N# 6808,1,1933,1933,20 Centavos,Chile,XF
 N# 6808,1,1937,1937,20 Centavos,Chile,XF
@@ -1060,9 +1060,9 @@ N# 2842,3,1989,1989,10 Pesos,Chile,VF
 N# 2842,1,1990,1990,10 Pesos,Chile,XF
 N# 2842,4,1990,1990,10 Pesos,Chile,VF
 N# 2756,1,1990,1990,10 Pesos,Chile,VF
+N# 2756,1,1990,1990,10 Pesos,Chile,VF
+N# 2756,1,1990,1990,10 Pesos,Chile,VF
 N# 2756,2,1990,1990,10 Pesos,Chile,VF
-N# 2756,1,1990,1990,10 Pesos,Chile,VF
-N# 2756,1,1990,1990,10 Pesos,Chile,VF
 N# 2756,3,1991,1991,10 Pesos,Chile,VF
 N# 2756,4,1992,1992,10 Pesos,Chile,VF
 N# 2756,4,1993,1993,10 Pesos,Chile,VF
@@ -3733,6 +3733,7 @@ N# 6918,1,1974,1974,"½ Dollar ""Kennedy Half Dollar""",United States,XF
 N# 6918,1,1984,1984,"½ Dollar ""Kennedy Half Dollar""",United States,XF
 N# 6918,1,1990,1990,"½ Dollar ""Kennedy Half Dollar""",United States,XF
 N# 15323,1,1994,1994,½ Dollar (World Cup Soccer),United States,UNC
+N# 551567,1,2026,2026,½ Dollar (Enduring Liberty),United States,AU
 N# 1346,1,1971,1971,"1 Dollar ""Eisenhower Dollar""",United States,XF
 N# 3366,1,1976,1976,"1 Dollar ""Eisenhower Dollar"" (Bicentennial)",United States,XF
 N# 3548,1,1979,1979,"1 Dollar ""Susan B. Anthony Dollar""",United States,XF
@@ -3741,6 +3742,7 @@ N# 923,1,2000,2000,"1 Dollar ""Sacagawea Dollar""",United States,VF
 N# 1499,1,,,1 Dollar (James Madison),United States,F
 N# 7458,1,,,1 Dollar (John Tyler),United States,F
 N# 16546,1,2010,2010,1 Dollar (Abraham Lincoln),United States,AU
+N# 593105,1,2026,2026,1 Dollar (250 Years of Independence),United States,AU
 N# 201805,1,1993,1993,1 Dollar (Federal Reserve Note),United States,
 N# 201805,1,1995,1995,1 Dollar (Federal Reserve Note),United States,
 N# 201805,1,1999,1999,1 Dollar (Federal Reserve Note),United States,
